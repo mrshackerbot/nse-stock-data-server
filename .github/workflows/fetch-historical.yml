@@ -1,0 +1,52 @@
+name: Fetch Historical Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Limit number of stocks (for testing, leave empty for all)'
+        required: false
+        type: number
+        default: 0
+
+jobs:
+  fetch-historical:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch historical data from NSE
+        run: |
+          LIMIT=${{ github.event.inputs.limit || 0 }}
+          if [ "$LIMIT" -gt 0 ]; then
+            node scripts/fetchHistorical.js $LIMIT
+          else
+            node scripts/fetchHistorical.js
+          fi
+
+      - name: Build static site
+        run: node scripts/build.js
+
+      - name: Commit and push changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add data/ public/
+          if ! git diff --cached --quiet; then
+            git commit -m "📊 NSE historical data update - $(date +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes to commit"
+          fi

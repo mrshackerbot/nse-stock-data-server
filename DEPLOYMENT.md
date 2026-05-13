@@ -1,216 +1,218 @@
-import express from 'express';
-import cors from 'cors';
-import compression from 'compression';
-import fs from 'fs/promises';
-import path from 'path';
-import rateLimit from 'express-rate-limit';
-import { fileURLToPath } from 'url';
-import { formatSymbolForFilename, cleanSymbol } from '../scripts/utils.js';
+# Deployment Guide
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
-const rootDir = path.join(__dirname, '..');
+## 1. Local Development
 
-const app = express();
-const PORT = process.env.PORT || 3000;
-const PUBLIC_DIR = path.join(rootDir, 'public');
-const DATA_DIR = path.join(rootDir, 'data', 'stocks');
+```bash
+# Install dependencies
+npm install
 
-const corsOptions = {
-  origin: '*',
-  methods: ['GET', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'X-API-Key'],
-  maxAge: 86400
-};
+# Test with sample data (5 stocks)
+npm run fetch-sample
 
-app.use(cors(corsOptions));
-app.use(compression());
-app.use(express.json());
+# Build static files
+npm run build
 
+# Start development server
+npm run dev
+```
+
+The server will be available at http://localhost:3000
+
+## 2. Production Data Fetch
+
+**Important:** Fetching all 500 stocks takes 3-6 hours due to NSE rate limits.
+
+```bash
+# Manual: Fetch all 500 stocks
+npm run fetch-historical
+
+# Or fetch a limited set for testing
+node scripts/fetchHistorical.js 10
+```
+
+**GitHub Actions:** Use the manual workflow at:
+`https://github.com/yourusername/nse-stock-data/actions/workflows/fetch-historical.yml`
+
+## 3. GitHub Pages Deployment
+
+### Step 1: Create Repository
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/YOUR_USERNAME/nse-stock-data.git
+git push -u origin main
+```
+
+### Step 2: Enable GitHub Pages
+
+1. Go to repository Settings → Pages
+2. Source: "Deploy from branch"
+3. Branch: `main` → `/public` folder
+4. Save
+
+Your API will be live at:
+```
+https://YOUR_USERNAME.github.io/nse-stock-data/
+```
+
+### Step 3: Automated Daily Updates
+
+The GitHub Actions workflow will automatically update data every weekday at 4:00 PM IST:
+
+- **Fetch today's data** from NSE
+- **Update JSON files** in the repository
+- **Rebuild static site**
+- **Commit and push** to trigger GitHub Pages rebuild
+
+You can also manually trigger updates from the Actions tab.
+
+## 4. Custom Domain (Optional)
+
+1. Add a `CNAME` file to the `public/` folder:
+   ```
+   api.yourdomain.com
+   ```
+
+2. In GitHub Pages settings, add your custom domain
+
+3. Configure DNS:
+   - A Records → `185.199.108.153`, `185.199.109.153`, `185.199.110.153`, `185.199.111.153`
+   - Or CNAME → `YOUR_USERNAME.github.io`
+
+## 5. Rate Limiting & Caching
+
+### Server-side Rate Limiting
+
+The Express server includes rate limiting:
+- **General API:** 100 requests per 15 minutes
+- **Stock endpoints:** 30 requests per minute
+
+Configure in `src/server.js`:
+```javascript
 const apiLimiter = rateLimit({
   windowMs: 15 * 60 * 1000,
-  max: 100,
-  message: JSON.stringify({ error: 'Too many requests, please try again later.' }),
-  statusCode: 429,
-  standardHeaders: true,
-  legacyHeaders: false
+  max: 100  // Adjust as needed
 });
+```
 
-const stockLimiter = rateLimit({
-  windowMs: 1 * 60 * 1000,
-  max: 30,
-  message: JSON.stringify({ error: 'Too many stock requests, please slow down.' }),
-  statusCode: 429
-});
+### Cloudflare (Recommended for Production)
 
-app.use('/api/', apiLimiter);
-app.use('/api/stocks/', stockLimiter);
+Add Cloudflare proxy for unlimited bandwidth and better rate limiting:
 
-app.use(express.static(PUBLIC_DIR, {
-  maxAge: '1h',
-  etag: true,
-  lastModified: true
-}));
+1. Sign up at cloudflare.com (free)
+2. Add your GitHub Pages site
+3. Change nameservers at your domain registrar
+4. Configure Page Rules:
+   - Cache Everything for `/data/stocks/*` (1 hour)
+   - Cache Everything for `/data/metadata/*` (24 hours)
 
-app.get('/api/stocks', async (req, res) => {
-  try {
-    const metadataPath = path.join(PUBLIC_DIR, 'data', 'metadata', 'stocksList.json');
+### CDN Caching Headers
 
-    const metadata = JSON.parse(
-      await fs.readFile(metadataPath, 'utf8')
-    );
+GitHub Pages automatically adds:
+```
+Cache-Control: max-age=600
+ETag: "xyz"
+```
 
-    const { symbol, page = 1, limit = 50 } = req.query;
-    let stocks = metadata.stocksList || [];
+Override with Cloudflare for better control.
 
-    if (symbol) {
-      const searchTerm = symbol.toLowerCase();
-      stocks = stocks.filter(s => s.toLowerCase().includes(searchTerm));
-    }
+## 6. Monitoring & Health Checks
 
-    const startIndex = (page - 1) * limit;
-    const endIndex = startIndex + parseInt(limit);
-    const paginatedStocks = stocks.slice(startIndex, endIndex);
+### Health Endpoint
+```
+GET /api/health
+```
+Returns server status and uptime.
 
-    res.json({
-      total: stocks.length,
-      page: parseInt(page),
-      totalPages: Math.ceil(stocks.length / limit),
-      lastUpdated: metadata.lastUpdated,
-      dataRange: metadata.dataRange,
-      stocks: paginatedStocks
-    });
-  } catch (error) {
-    console.error('Error fetching stock list:', error);
-    res.status(500).json({ error: 'Failed to fetch stock list' });
-  }
-});
+### Check Data Freshness
+```bash
+curl https://YOUR_USERNAME.github.io/nse-stock-data/api/metadata | jq '.lastUpdated'
+```
 
-app.get('/api/stocks/:symbol', async (req, res) => {
-     try {
-       const { symbol } = req.params;
-       const { from, to, limit, format = 'json' } = req.query;
+### Setup Alerts (Optional)
 
-       const cleanSym = cleanSymbol(symbol);
-       const symbolDir = path.join(DATA_DIR, cleanSym);
+Use GitHub Actions to monitor:
+- Data update failures
+- Server downtime
+- Rate limit warnings
 
-       let exists = false;
-       try {
-         await fs.access(symbolDir);
-         exists = true;
-       } catch {
-         // Directory doesn't exist
-       }
+Example workflow: Run `curl` requests and send Slack/Discord notifications on failure.
 
-       if (!exists) {
-         return res.status(404).json({
-           error: 'Stock not found',
-           symbol: req.params.symbol,
-           available: 'Check /api/stocks for list of available symbols'
-         });
-       }
+## 7. Troubleshooting
 
-       // Read all year files from the symbol directory
-       let data = [];
-       const yearFiles = await fs.readdir(symbolDir);
-       for (const file of yearFiles) {
-         if (file.endsWith('.json')) {
-           const filePath = path.join(symbolDir, file);
-           try {
-             const fileData = JSON.parse(await fs.readFile(filePath, 'utf8'));
-             data = data.concat(fileData);
-           } catch {
-             // Skip unreadable files
-           }
-         }
-       }
+### Build fails with "ENOENT: no such file or directory"
+```bash
+# Make sure data directories exist
+mkdir -p data/stocks data/metadata public/data/stocks public/data/metadata
+```
 
-        // Sort by date
-        data.sort((a, b) => new Date(a.date) - new Date(b.date));
+### GitHub Pages shows 404
+- Ensure files are in the `public/` folder, not `data/`
+- Check that `index.html` exists in `public/`
+- Wait 1-2 minutes after push
 
-        if (from || to) {
-          const fromDate = from ? new Date(from) : null;
-          const toDate = to ? new Date(to) : null;
-          data = data.filter(d => {
-            const itemDate = new Date(d.date);
-            if (fromDate && itemDate < fromDate) return false;
-            if (toDate && itemDate > toDate) return false;
-            return true;
-          });
-        }
+### Rate limit errors (HTTP 429)
+- NSE rate limits are per-IP. Wait 30+ seconds before retrying.
+- Consider using a proxy or VPN for large fetches.
+- Use caching to avoid repeated requests.
 
-        if (limit) data = data.slice(-parseInt(limit));
+### Server won't start
+```bash
+# Ensure node version is 18+
+node --version
 
-       res.setHeader('Access-Control-Allow-Origin', '*');
-       res.setHeader('Cache-Control', 'public, max-age=3600');
+# Reinstall dependencies
+rm -rf node_modules package-lock.json
+npm install
+```
 
-       if (format === 'csv' && data.length > 0) {
-         res.setHeader('Content-Type', 'text/csv; charset=utf-8');
-         const headers = Object.keys(data[0]).join(',');
-         const rows = data.map(row => Object.values(row).join(','));
-         res.send([headers, ...rows].join('\n'));
-       } else {
-         res.setHeader('Content-Type', 'application/json');
-         res.json(data);
-       }
-     } catch (error) {
-       console.error(`Error fetching stock ${req.params.symbol}:`, error);
-       res.status(500).json({
-         error: 'Failed to fetch stock data',
-         details: error.message
-       });
-     }
-   });
+## 8. Upgrading to Vercel/Cloudflare Pages
 
-app.get('/api/metadata', async (req, res) => {
-  try {
-    const metadataPath = path.join(PUBLIC_DIR, 'data', 'metadata', 'stocksList.json');
-    const metadata = JSON.parse(await fs.promises.readFile(metadataPath, 'utf8'));
-    res.json(metadata);
-  } catch (error) {
-    res.status(500).json({ error: 'Failed to fetch metadata' });
-  }
-});
+If GitHub Pages rate limits become restrictive:
 
-app.get('/api/health', (req, res) => {
-  res.json({
-    status: 'healthy',
-    timestamp: new Date().toISOString(),
-    uptime: process.uptime()
-  });
-});
+### Vercel (100k req/month free)
+1. Create `api/` directory with serverless functions
+2. Deploy with Vercel CLI
+3. Cron jobs require Pro plan
 
-const startServer = async () => {
-  try {
-    await fs.access(PUBLIC_DIR);
-    console.log(`Server starting on port ${PORT}...`);
-    console.log(`Serving files from: ${PUBLIC_DIR}`);
+### Cloudflare Pages
+1. Connect GitHub repository
+2. Configure build settings
+3. Use Cloudflare R2 for data storage
+4. Set up cron triggers with Workers
 
-    app.listen(PORT, () => {
-      console.log(`✓ Server running at http://localhost:${PORT}`);
-      console.log(`✓ API endpoints:`);
-      console.log(`  GET /api/stocks - List all stocks`);
-      console.log(`  GET /api/stocks/:symbol?from=&to=&limit=&format= - Get stock data (JSON/CSV)`);
-      console.log(`  GET /api/metadata - Get metadata`);
-      console.log(`  GET /api/health - Health check`);
-      console.log(`  GET /data/:path - Static files`);
-      console.log(`\n📋 API docs: http://localhost:${PORT}/`);
-    });
-  } catch (error) {
-    console.error('❌ Public directory not found.');
-    console.error('Run `npm run build` first to generate static files.');
-    console.error('Or run `npm run fetch-historical` to download data.');
-    process.exit(1);
-  }
-};
+Both options preserve the same API endpoints.
 
-process.on('unhandledRejection', (reason, promise) => {
-  console.error('Unhandled Rejection at:', promise, 'reason:', reason);
-});
+## 9. Backup & Data Export
 
-process.on('uncaughtException', (error) => {
-  console.error('Uncaught Exception:', error);
-  process.exit(1);
-});
+### Export All Data
+```bash
+# Download all stock data
+node scripts/fetchHistorical.js
 
-startServer();
+# Archive
+tar -czf nse-data-backup-$(date +%Y%m%d).tar.gz data/
+```
+
+### Database Migration (Optional)
+Convert JSON to SQLite/Postgres:
+```bash
+node scripts/export-to-db.js
+```
+
+## 10. Security Considerations
+
+- ❌ Do NOT expose server-side code with API keys in client
+- ✅ Use environment variables for secrets
+- ✅ Implement rate limiting
+- ✅ Validate all user inputs
+- ✅ Sanitize CSV output (no injection)
+- ✅ Enable HTTPS only (GitHub Pages enforces this)
+
+## Need Help?
+
+- Issues: Create a GitHub issue
+- Discussions: Use GitHub Discussions
+- NSE API changes: Check `scripts/utils.js` headers configuration
