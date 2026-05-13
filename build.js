@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NSE 500 Stock Data API</title>
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>📈 NSE 500 Stock Data API</h1>
+    <p>
+      <strong>Free JSON/CSV API</strong> providing historical stock data for NSE 500 companies.
+      Data updated daily after market close. Hosted on GitHub Pages.
+    </p>
+
+    <div class="stats" id="stats">
+      <div class="stat-box">
+        <span class="stat-number" id="totalStocks">--</span>
+        <span class="stat-label">Total Stocks</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-number" id="lastUpdate">--</span>
+        <span class="stat-label">Last Updated</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-number" id="dataPoints">--</span>
+        <span class="stat-label">Data Points</span>
+      </div>
+    </div>
+
+    <h2>🔗 API Endpoints</h2>
+
+    <div class="endpoint">
+      <div>
+        <span class="method">GET</span>
+        <code>/api/stocks</code>
+      </div>
+      <p>List all available stocks with pagination</p>
+      <h4>Query Parameters:</h4>
+      <table>
+        <tr><th>Parameter</th><th>Type</th><th>Default</th><th>Description</th></tr>
+        <tr><td>symbol</td><td>string</td><td>-</td><td>Filter by symbol (case-insensitive)</td></tr>
+        <tr><td>page</td><td>number</td><td>1</td><td>Page number</td></tr>
+        <tr><td>limit</td><td>number</td><td>50</td><td>Items per page (max 500)</td></tr>
+      </table>
+      <pre><code>curl https://yourusername.github.io/nse-stock-data/api/stocks?page=1&limit=50</code></pre>
+    </div>
+
+    <div class="endpoint">
+      <div>
+        <span class="method">GET</span>
+        <code>/api/stocks/:symbol</code>
+      </div>
+      <p>Get historical data for a specific stock symbol</p>
+      <h4>Query Parameters:</h4>
+      <table>
+        <tr><th>Parameter</th><th>Type</th><th>Default</th><th>Description</th></tr>
+        <tr><td>from</td><td>date</td><td>-</td><td>Start date (YYYY-MM-DD)</td></tr>
+        <tr><td>to</td><td>date</td><td>-</td><td>End date (YYYY-MM-DD)</td></tr>
+        <tr><td>limit</td><td>number</td><td>-</td><td>Limit to last N days</td></tr>
+        <tr><td>format</td><td>string</td><td>json</td><td>Response format: json or csv</td></tr>
+      </table>
+      <pre><code>curl https://yourusername.github.io/nse-stock-data/api/stocks/RELIANCE?limit=30&format=json</code></pre>
+      <pre><code>curl https://yourusername.github.io/nse-stock-data/api/stocks/TCS?from=2024-01-01&format=csv</code></pre>
+    </div>
+
+    <div class="endpoint">
+      <div>
+        <span class="method">GET</span>
+        <code>/api/metadata</code>
+      </div>
+      <p>Get metadata including stock list and data range</p>
+      <pre><code>curl https://yourusername.github.io/nse-stock-data/api/metadata</code></pre>
+    </div>
+
+    <div class="endpoint">
+      <div>
+        <span class="method">GET</span>
+        <code>/api/health</code>
+      </div>
+      <p>Health check endpoint</p>
+      <pre><code>curl https://yourusername.github.io/nse-stock-data/api/health</code></pre>
+    </div>
+
+    <h2>📦 JavaScript Example</h2>
+    <pre><code>async function getStockData(symbol, options = {}) {
+  const params = new URLSearchParams({
+    limit: options.limit || 100,
+    format: options.format || 'json'
+  });
+
+  if (options.from) params.append('from', options.from);
+  if (options.to) params.append('to', options.to);
+
+  const response = await fetch(
+    `https://yourusername.github.io/nse-stock-data/api/stocks/${symbol}?${params}`
+  );
+
+  if (!response.ok) {
+    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+  }
+
+  return options.format === 'csv'
+    ? await response.text()
+    : await response.json();
+}
+
+// Usage examples
+const relianceData = await getStockData('RELIANCE', { limit: 30 });
+console.log(relianceData.slice(-5)); // Last 5 trading days
+
+const tcsCSV = await getStockData('TCS', {
+  from: '2024-01-01',
+  to: '2024-12-31',
+  format: 'csv'
+});
+console.log(tcsCSV);</code></pre>
+
+    <h2>📊 Data Format</h2>
+    <pre><code>[
+  {
+    "date": "2024-01-15",
+    "open": 2850.50,
+    "high": 2875.30,
+    "low": 2840.00,
+    "close": 2865.75,
+    "volume": 2456789,
+    "symbol": "RELIANCE"
+  }
+]</code></pre>
+
+    <h2>🚀 Features</h2>
+    <ul>
+      <li>✅ 3+ years of historical data for NSE 500 stocks</li>
+      <li>✅ Daily updates after market close (4:00 PM IST)</li>
+      <li>✅ CORS enabled for client-side applications</li>
+      <li>✅ Supports JSON and CSV output</li>
+      <li>✅ Free hosting via GitHub Pages</li>
+      <li>✅ No API key required</li>
+      <li>✅ Rate limited to prevent abuse</li>
+    </ul>
+
+    <footer>
+      <p>
+        <span class="badge">Free</span>
+        <span class="badge">No API Key</span>
+        <span class="badge">CORS Enabled</span>
+        <span class="badge">Daily Updates</span>
+      </p>
+      <p>Data sourced from NSE India. Hosted on GitHub Pages.</p>
+      <p>
+        <a href="/">Home</a> |
+        <a href="/data/metadata/stocksList.json">View Metadata</a> |
+        <a href="/data/stocks/RELIANCE.json">Sample Data</a>
+      </p>
+    </footer>
+  </div>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
