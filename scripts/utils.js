@@ -18,8 +18,6 @@ export const CACHE_EXPIRY_HOURS = 24;
 export const NSE_HISTORICAL_URL =
   "https://www.nseindia.com/api/NextApi/apiClient/GetQuoteApi";
 
-export const NSE_CSV_URL = 'https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData';
-
 export const NSE_HEADERS = {
   Referer: "https://www.nseindia.com/get-quotes/equity",
   "X-Requested-With": "XMLHttpRequest",
@@ -109,35 +107,35 @@ export async function copyToPublic() {
 }
 
 export function getSymbolDir(symbol) {
-   const cleanSym = cleanSymbol(symbol);
-   return path.join(DATA_DIR, cleanSym);
- }
-
-export function ensureDir(dir) {
-    if (!existsSync(dir)) {
-      mkdirSync(dir, { recursive: true });
-    }
-  }
-
-export function saveCache(type, key, data) {
-   const dir = path.join(CACHE_DIR, type);
-   ensureDir(dir);
-   const file = path.join(dir, `${key}.json`);
-   const cacheData = {
-     data,
-     timestamp: Date.now(),
-   };
-   writeFileSync(file, JSON.stringify(cacheData, null, 2));
-   log(`Cache saved: ${type}/${key}`);
+  const cleanSym = cleanSymbol(symbol);
+  return path.join(DATA_DIR, cleanSym);
 }
 
-  export function loadCache(type, key) {
-    const file = path.join(CACHE_DIR, type, `${key}.json`);
-    if (!existsSync(file)) {
-      return null;
-    }
-    try {
-      const cacheData = JSON.parse(readFileSync(file, "utf8"));
+export function ensureDir(dir) {
+  if (!existsSync(dir)) {
+    mkdirSync(dir, { recursive: true });
+  }
+}
+
+export function saveCache(type, key, data) {
+  const dir = path.join(CACHE_DIR, type);
+  ensureDir(dir);
+  const file = path.join(dir, `${key}.json`);
+  const cacheData = {
+    data,
+    timestamp: Date.now(),
+  };
+  writeFileSync(file, JSON.stringify(cacheData, null, 2));
+  log(`Cache saved: ${type}/${key}`);
+}
+
+export function loadCache(type, key) {
+  const file = path.join(CACHE_DIR, type, `${key}.json`);
+  if (!existsSync(file)) {
+    return null;
+  }
+  try {
+    const cacheData = JSON.parse(readFileSync(file, "utf8"));
     const ageHours = (Date.now() - cacheData.timestamp) / (1000 * 60 * 60);
     if (ageHours > CACHE_EXPIRY_HOURS) {
       log(`Cache expired: ${type}/${key} (${ageHours.toFixed(1)}h old)`);
@@ -277,7 +275,18 @@ export function getFallbackSymbols() {
   ];
 }
 
-export const NSE_INDICES_URL = 'https://www.nseindia.com/api/NextApi/apiClient/indexTrackerApi';
+export const NSE_INDICES_URL =
+  "https://www.nseindia.com/api/NextApi/apiClient/indexTrackerApi";
+export const NSE_EQUITY_INDICES_URL =
+  "https://www.nseindia.com/api/equity-stockIndices";
+export const NSE_CSV_URL =
+  "https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData";
+
+export const NSE_CSV_HEADERS = {
+  Referer: "https://www.nseindia.com/get-quotes/equity",
+  "X-Requested-With": "XMLHttpRequest",
+  "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+};
 
 export async function getNSE500Symbols(useCache = true) {
   if (useCache) {
@@ -291,22 +300,22 @@ export async function getNSE500Symbols(useCache = true) {
   try {
     log("Fetching NSE 500 symbols from NSE India...");
 
-    const cookieRes = await axios.get('https://www.nseindia.com/', {
-      headers: { 'User-Agent': NSE_HEADERS['User-Agent'] },
+    const cookieRes = await axios.get("https://www.nseindia.com/", {
+      headers: { "User-Agent": NSE_HEADERS["User-Agent"] },
       timeout: 10000,
       maxRedirects: 5,
       validateStatus: (s) => s < 400,
     });
 
-    const cookies = cookieRes.headers['set-cookie'] || [];
-    const cookieHeader = cookies.map(c => c.split(';')[0]).join('; ');
+    const cookies = cookieRes.headers["set-cookie"] || [];
+    const cookieHeader = cookies.map((c) => c.split(";")[0]).join("; ");
 
     const response = await axios.get(NSE_INDICES_URL, {
-      params: { functionName: 'getAllIndicesSymbols', index: 'NIFTY 500' },
+      params: { functionName: "getAllIndicesSymbols", index: "NIFTY 500" },
       headers: {
         ...NSE_HEADERS,
         Cookie: cookieHeader,
-        Accept: 'application/json',
+        Accept: "application/json",
       },
       timeout: 30000,
     });
@@ -319,7 +328,13 @@ export async function getNSE500Symbols(useCache = true) {
     }
 
     // Clean symbols
-    symbols = [...new Set(symbols.map(s => s.replace('.NS', '').replace('.BSE', '').toUpperCase()))];
+    symbols = [
+      ...new Set(
+        symbols.map((s) =>
+          s.replace(".NS", "").replace(".BSE", "").toUpperCase(),
+        ),
+      ),
+    ];
 
     if (symbols.length === 0) {
       throw new Error("No symbols returned");
@@ -332,5 +347,42 @@ export async function getNSE500Symbols(useCache = true) {
     console.error("Failed to fetch NSE 500 symbols:", error.message);
     log("Using fallback NSE 100 list");
     return getFallbackSymbols();
+  }
+}
+
+export async function fetchEquityIndicesData() {
+  try {
+    log("Fetching equity stock indices data from NSE...");
+
+    const cookieRes = await axios.get("https://www.nseindia.com/", {
+      headers: { "User-Agent": NSE_HEADERS["User-Agent"] },
+      timeout: 10000,
+      maxRedirects: 5,
+      validateStatus: (s) => s < 400,
+    });
+
+    const cookies = cookieRes.headers["set-cookie"] || [];
+    const cookieHeader = cookies.map((c) => c.split(";")[0]).join("; ");
+
+    const response = await axios.get(NSE_EQUITY_INDICES_URL, {
+      params: { index: "NIFTY 500" },
+      headers: {
+        ...NSE_HEADERS,
+        Cookie: cookieHeader,
+        Accept: "application/json",
+      },
+      timeout: 30000,
+    });
+
+    const data = response.data;
+    if (!data || !Array.isArray(data.data)) {
+      throw new Error("Invalid response format from equity indices API");
+    }
+
+    log(`Fetched ${data.data.length} stock records from equity indices`);
+    return data.data;
+  } catch (error) {
+    log(`Failed to fetch equity indices: ${error.message}`);
+    return null;
   }
 }
