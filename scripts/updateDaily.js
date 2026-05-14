@@ -1,79 +1,95 @@
 import axios from 'axios';
-import { DATA_DIR, METADATA_DIR, copyToPublic, isMarketClosed, formatDate, getYesterday, formatSymbolForFilename, log, readStockList, getNSE500Symbols, NSE_HISTORICAL_URL, NSE_HEADERS, cleanSymbol, getSymbolDir, ensureDir } from './utils.js';
+import { DATA_DIR, METADATA_DIR, copyToPublic, isMarketClosed, formatDate, getYesterday, formatSymbolForFilename, log, readStockList, getNSE500Symbols, NSE_CSV_URL, NSE_CSV_HEADERS, cleanSymbol, getSymbolDir, ensureDir } from './utils.js';
 import { existsSync } from 'fs';
 import fs from 'fs/promises';
 import path from 'path';
 
 async function getTodayData(symbol) {
-  try {
-    const cleanSym = cleanSymbol(symbol);
-    const yesterday = formatDate(getYesterday()).split('-').reverse().join('-');
-    const today = formatDate(new Date()).split('-').reverse().join('-');
+  const cleanSym = cleanSymbol(symbol);
+  const yesterday = formatDate(getYesterday()).split('-').reverse().join('-');
+  const today = formatDate(new Date()).split('-').reverse().join('-');
+  const maxRetries = 3;
 
-    const response = await axios.get(NSE_HISTORICAL_URL, {
-      params: {
-        functionName: "getHistoricalTradeData",
-        symbol: cleanSym,
-        fromDate: yesterday,
-        toDate: today,
-        series: 'EQ',
-      },
-      headers: NSE_HEADERS,
-      timeout: 15000,
-      maxRedirects: 5,
-      validateStatus: (status) => status < 500
-    });
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await axios.get(NSE_CSV_URL, {
+        params: {
+          from: yesterday,
+          to: today,
+          symbol: cleanSym,
+          type: 'priceVolumeDeliverable',
+          series: 'EQ',
+          csv: 'true',
+        },
+        headers: NSE_CSV_HEADERS,
+        timeout: 30000,
+        maxRedirects: 5,
+        validateStatus: (status) => status < 500,
+        responseType: 'text',
+      });
 
-    if (response.status === 404) {
-      return null;
-    }
-
-    if (response.status >= 400) {
-      log(`[HTTP ${response.status}] ${symbol}: ${response.statusText}`);
-      return null;
-    }
-
-    const jsonData = response.data;
-    if (!Array.isArray(jsonData) || jsonData.length === 0) {
-      return null;
-    }
-
-    for (let i = jsonData.length - 1; i >= 0 && i >= jsonData.length - 5; i--) {
-      const item = jsonData[i];
-      const date = item.mtimestamp?.trim();
-      const open = parseFloat(item.chOpeningPrice) || 0;
-      const high = parseFloat(item.chTradeHighPrice) || 0;
-      const low = parseFloat(item.chTradeLowPrice) || 0;
-      const close = parseFloat(item.chClosingPrice) || 0;
-      const volume = parseInt(item.chTotTradedQty) || 0;
-
-      if (close > 0 && date) {
-        return {
-          date,
-          open,
-          high,
-          low,
-          close,
-          volume,
-          symbol: cleanSym
-        };
+      if (response.status === 429) {
+        const waitTime = 15 * attempt;
+        log(`[RateLimit] ${symbol}: HTTP ${response.status}. Waiting ${waitTime}s (attempt ${attempt}/${maxRetries})`);
+        await new Promise(resolve => setTimeout(resolve, waitTime * 1000));
+        continue;
       }
-    }
 
-    return null;
+      if (response.status >= 400) {
+        log(`[HTTP ${response.status}] ${symbol}: ${response.statusText}`);
+        if (attempt < maxRetries) {
+          await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
+          continue;
+        }
+        return null;
+      }
+
+      const lines = response.data.split('\n').filter(l => l.trim());
+      if (lines.length < 2) {
+        log(`[Empty] ${symbol}: No CSV data rows`);
+        return null;
+      }
+
+      const data = [];
+      for (let i = 1; i < lines.length; i++) {
+        const cols = lines[i]
+          .split(/","/)
+          .map(c => c.replace(/"/g, '').trim());
+
+        if (cols.length < 8) continue;
+
+        const date = cols[2]?.trim();
+        const open = parseFloat(cols[4]?.replace(/,/g, '')) || 0;
+        const high = parseFloat(cols[5]?.replace(/,/g, '')) || 0;
+        const low = parseFloat(cols[6]?.replace(/,/g, '')) || 0;
+        const close = parseFloat(cols[7]?.replace(/,/g, '')) || 0;
+        const volume = parseInt(cols[11]?.replace(/,/g, '')) || 0;
+
+        if (close > 0 && date) {
+          data.push({ date, open, high, low, close, volume, symbol: cleanSym });
+        }
+      }
+
+      if (data.length === 0) {
+        log(`[NoData] ${symbol}: No valid rows`);
+        return null;
+      }
+
+      // Return most recent entry (last row)
+      const latest = data[data.length - 1];
+      log(`[CSV] ${symbol}: Got ${data.length} rows, latest ${latest.date} Close: ${latest.close}`);
+      return latest;
+
     } catch (error) {
-      if (error.response?.status === 429) {
-        log(`[RateLimit] ${symbol}: Waiting 60s...`); // Increased from 30s to 60s
-        await new Promise(resolve => setTimeout(resolve, 60000));
-        return await getTodayData(symbol);
+      if (attempt < maxRetries) {
+        await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
+      } else {
+        log(`[Failed] ${symbol}: ${error.message}`);
       }
-    if (error.response?.status === 404) {
-      log(`[NotFound] ${symbol}: No data`);
-    } else {
-      log(`[Error] ${symbol}: ${error.message}`);
     }
-    return null;
   }
+
+  return null;
 }
 
 async function updateStockFile(symbol) {
@@ -188,8 +204,7 @@ async function dailyUpdate(limit = null) {
     log(`Progress: ${processed}/${totalCount} | ✓ ${successes.length} | ✗ ${failures.length}`);
 
     if (i + batchSize < stocksToUpdate.length) {
-      // Increased from 3s to 10s between batches
-      await new Promise(resolve => setTimeout(resolve, 10000));
+      await new Promise(resolve => setTimeout(resolve, 3000));
     }
   }
 
