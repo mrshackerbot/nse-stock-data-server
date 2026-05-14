@@ -158,8 +158,9 @@ async function updateStockFile(symbol, equityDataMap = null) {
     let newData = null;
 
     // Try equity indices data first (fast, single API call for all stocks)
-    if (equityDataMap && equityDataMap[symbol]) {
-      const equityItem = equityDataMap[symbol];
+    const cleanSym = cleanSymbol(symbol);
+    if (equityDataMap && equityDataMap[cleanSym]) {
+      const equityItem = equityDataMap[cleanSym];
 
       // Parse lastUpdateTime: "14-May-2026 16:00:00" -> "14-05-2026"
       let rawDate = equityItem.lastUpdateTime?.split(" ")[0] || today;
