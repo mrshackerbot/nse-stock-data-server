@@ -95,15 +95,7 @@ async function getTodayData(symbol) {
       }
 
       // Sort by date ascending to get the most recent
-      data.sort((a, b) => {
-        const da = a.date.split("-").map(Number); // [DD, MM, YYYY]
-        const db = b.date.split("-").map(Number);
-        // Compare year, month, day
-        for (let i = 2; i >= 0; i--) {
-          if (da[i] !== db[i]) return da[i] - db[i];
-        }
-        return 0;
-      });
+      data.sort((a, b) => new Date(a.date) - new Date(b.date));
 
       const latest = data[data.length - 1];
       log(
@@ -124,24 +116,38 @@ async function getTodayData(symbol) {
 
 async function updateStockFile(symbol, equityDataMap = null) {
   const symbolDir = getSymbolDir(symbol);
+  const cleanSym = cleanSymbol(symbol);
+
+  // Compute today in DD-MMM-YYYY format
+  const now = new Date();
+  const monthNames = [
+    "Jan",
+    "Feb",
+    "Mar",
+    "Apr",
+    "May",
+    "Jun",
+    "Jul",
+    "Aug",
+    "Sep",
+    "Oct",
+    "Nov",
+    "Dec",
+  ];
+  const today = `${String(now.getDate()).padStart(2, "0")}-${monthNames[now.getMonth()]}-${now.getFullYear()}`;
 
   try {
     let existingData = [];
     try {
-      if (existsSync(symbolDir)) {
-        const yearFiles = await fs.readdir(symbolDir);
-        for (const file of yearFiles) {
-          if (file.endsWith(".json")) {
-            const fileContent = await fs.readFile(
-              path.join(symbolDir, file),
-              "utf8",
-            );
-            existingData = existingData.concat(JSON.parse(fileContent));
-          }
-        }
+      // Only read the current year's data file
+      const year = today.split("-")[2];
+      const yearFilePath = path.join(symbolDir, `${year}.json`);
+      if (existsSync(yearFilePath)) {
+        const fileContent = await fs.readFile(yearFilePath, "utf8");
+        existingData = JSON.parse(fileContent);
       }
-    } catch {
-      log(`${symbol}: No existing data`);
+    } catch (err) {
+      log(`${symbol}: No existing data for current year`);
     }
 
     existingData.sort((a, b) => new Date(a.date) - new Date(b.date));
@@ -149,7 +155,6 @@ async function updateStockFile(symbol, equityDataMap = null) {
       existingData.length > 0
         ? existingData[existingData.length - 1].date
         : null;
-    const today = formatDate(new Date()).split("-").reverse().join("-"); // DD-MM-YYYY
 
     if (lastDate === today) {
       return { symbol, status: "already_updated" };
@@ -158,44 +163,9 @@ async function updateStockFile(symbol, equityDataMap = null) {
     let newData = null;
 
     // Try equity indices data first (fast, single API call for all stocks)
-    const cleanSym = cleanSymbol(symbol);
     if (equityDataMap && equityDataMap[cleanSym]) {
       const equityItem = equityDataMap[cleanSym];
-
-      // Parse lastUpdateTime: "14-May-2026 16:00:00" -> "14-05-2026"
-      let rawDate = equityItem.lastUpdateTime?.split(" ")[0] || today;
-      let date = rawDate;
-      try {
-        // Handle "14-May-2026" format
-        const [d, mmyyyy, y] = rawDate.split("-");
-        if (d && mmyyyy && y) {
-          const monthMap = {
-            Jan: "01",
-            Feb: "02",
-            Mar: "03",
-            Apr: "04",
-            May: "05",
-            Jun: "06",
-            Jul: "07",
-            Aug: "08",
-            Sep: "09",
-            Oct: "10",
-            Nov: "11",
-            Dec: "12",
-          };
-          const month = monthMap[mmyyyy] || "01";
-          date = `${d.padStart(2, "0")}-${month}-${y}`;
-        } else {
-          // Try standard date parse
-          const d = new Date(rawDate);
-          if (!isNaN(d.getTime())) {
-            date = formatDate(d).split("-").reverse().join("-");
-          }
-        }
-      } catch (e) {
-        // keep today as fallback
-      }
-
+      const date = equityItem.lastUpdateTime?.split(" ")[0] || today;
       const close =
         parseFloat(String(equityItem.lastPrice).replace(/,/g, "")) || 0;
 
@@ -211,7 +181,7 @@ async function updateStockFile(symbol, equityDataMap = null) {
           volume:
             parseInt(String(equityItem.totalTradedVolume).replace(/,/g, "")) ||
             0,
-          symbol: cleanSymbol(symbol),
+          symbol: cleanSym,
         };
         log(`[EquityAPI] ${symbol}: Got latest data (Close: ${close})`);
       }
@@ -226,27 +196,22 @@ async function updateStockFile(symbol, equityDataMap = null) {
       return { symbol, status: "no_new_data" };
     }
 
-    const lastDateObj = lastDate ? new Date(lastDate) : new Date(0);
     const newDateObj = new Date(newData.date);
+    const dataYear = newData.date.split("-")[2];
+    const currentYear = today.split("-")[2];
 
-    if (newDateObj > lastDateObj) {
+    if (dataYear === currentYear) {
+      const lastDateObj = lastDate ? new Date(lastDate) : new Date(0);
+      if (newDateObj <= lastDateObj) {
+        return { symbol, status: "no_update_needed" };
+      }
       existingData.push(newData);
+      existingData.sort((a, b) => new Date(a.date) - new Date(b.date));
       ensureDir(symbolDir);
-
-      // Group data by year and write
-      const yearData = {};
-      for (const item of existingData) {
-        const year = item.date.split("-")[2];
-        if (!yearData[year]) yearData[year] = [];
-        yearData[year].push(item);
-      }
-      for (const [year, items] of Object.entries(yearData)) {
-        await fs.writeFile(
-          path.join(symbolDir, `${year}.json`),
-          JSON.stringify(items, null, 2),
-        );
-      }
-
+      await fs.writeFile(
+        path.join(symbolDir, `${currentYear}.json`),
+        JSON.stringify(existingData, null, 2),
+      );
       log(`✓ ${symbol}: Added ${newData.date} (Close: ${newData.close})`);
       return {
         symbol,
@@ -254,9 +219,39 @@ async function updateStockFile(symbol, equityDataMap = null) {
         date: newData.date,
         close: newData.close,
       };
+    } else {
+      // New data belongs to a previous year; merge with that year's file
+      let targetYearData = [];
+      const targetPath = path.join(symbolDir, `${dataYear}.json`);
+      if (existsSync(targetPath)) {
+        const content = await fs.readFile(targetPath, "utf8");
+        targetYearData = JSON.parse(content);
+      }
+      targetYearData.sort((a, b) => new Date(a.date) - new Date(b.date));
+      const targetLastDate =
+        targetYearData.length > 0
+          ? targetYearData[targetYearData.length - 1].date
+          : null;
+      const targetLastDateObj = targetLastDate
+        ? new Date(targetLastDate)
+        : new Date(0);
+      if (newDateObj <= targetLastDateObj) {
+        return { symbol, status: "no_update_needed" };
+      }
+      targetYearData.push(newData);
+      targetYearData.sort((a, b) => new Date(a.date) - new Date(b.date));
+      ensureDir(symbolDir);
+      await fs.writeFile(targetPath, JSON.stringify(targetYearData, null, 2));
+      log(
+        `✓ ${symbol}: Added ${newData.date} to ${dataYear}.json (Close: ${newData.close})`,
+      );
+      return {
+        symbol,
+        status: "updated",
+        date: newData.date,
+        close: newData.close,
+      };
     }
-
-    return { symbol, status: "no_update_needed" };
   } catch (error) {
     log(`✗ Failed ${symbol}: ${error.message}`);
     return { symbol, status: "failed", error: error.message };
@@ -313,7 +308,7 @@ async function dailyUpdate(limit = null) {
   const results = [];
   const successes = [];
   const failures = [];
-  const batchSize = 10;
+  const batchSize = 10; // Reduced from 5 to avoid rate limiting
 
   for (let i = 0; i < stocksToUpdate.length; i += batchSize) {
     const batch = stocksToUpdate.slice(i, i + batchSize);
