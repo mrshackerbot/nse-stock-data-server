@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2210,
+    "high": 2220.9,
+    "low": 2189,
+    "close": 2217,
+    "volume": 2975883603,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2217.8,
+    "high": 2227.9,
+    "low": 2180.5,
+    "close": 2189.9,
+    "volume": 5413241994,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2196.9,
+    "high": 2206.7,
+    "low": 2182,
+    "close": 2192.3,
+    "volume": 4788684707,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2202.1,
+    "high": 2228,
+    "low": 2135,
+    "close": 2142.3,
+    "volume": 11513426557,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2146.4,
+    "high": 2150.5,
+    "low": 2109.2,
+    "close": 2146,
+    "volume": 4501071136,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2140.1,
+    "high": 2143,
+    "low": 2118.6,
+    "close": 2130,
+    "volume": 4889642929,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2133,
+    "high": 2133,
+    "low": 2116,
+    "close": 2127.9,
+    "volume": 4382973655,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2126.8,
+    "high": 2139.4,
+    "low": 2106,
+    "close": 2134,
+    "volume": 5408802415,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2126.9,
+    "high": 2144.4,
+    "low": 2120,
+    "close": 2132,
+    "volume": 5420862060,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 426,
+    "high": 427.6,
+    "low": 418.8,
+    "close": 420.2,
+    "volume": 4587503004,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 424,
+    "high": 427.6,
+    "low": 417.1,
+    "close": 418.7,
+    "volume": 7581632499,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 419,
+    "high": 430.4,
+    "low": 415,
+    "close": 427.5,
+    "volume": 9477161567,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 428,
+    "high": 431,
+    "low": 422.5,
+    "close": 423.8,
+    "volume": 8048858942,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 422.1,
+    "high": 425.5,
+    "low": 416.4,
+    "close": 421.3,
+    "volume": 6910722776,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 423.8,
+    "high": 429.8,
+    "low": 420.3,
+    "close": 427.1,
+    "volume": 4288161930,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 429,
+    "high": 429.8,
+    "low": 420.4,
+    "close": 424.2,
+    "volume": 4475352207,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 415,
+    "high": 415,
+    "low": 400.5,
+    "close": 411.9,
+    "volume": 19386550351,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 409.3,
+    "high": 414.2,
+    "low": 406.3,
+    "close": 411.4,
+    "volume": 6089137297,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 407,
+    "high": 414.6,
+    "low": 407,
+    "close": 412.2,
+    "volume": 10734527624,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 410,
+    "high": 412.5,
+    "low": 405.4,
+    "close": 407.5,
+    "volume": 8439932503,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 408.5,
+    "high": 415.9,
+    "low": 403.3,
+    "close": 407.85,
+    "volume": 3656416161,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 408.7,
+    "high": 410.85,
+    "low": 405.1,
+    "close": 407.8,
+    "volume": 6292293483,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 415,
+    "high": 425,
+    "low": 410.3,
+    "close": 415.8,
+    "volume": 14802620204,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 416.7,
+    "high": 418.65,
+    "low": 410.6,
+    "close": 412,
+    "volume": 6180306517,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 411,
+    "high": 413.95,
+    "low": 404.1,
+    "close": 411.65,
+    "volume": 10127646613,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 411,
+    "high": 424.65,
+    "low": 410.3,
+    "close": 422.35,
+    "volume": 8879224594,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 430,
+    "high": 434.9,
+    "low": 424.2,
+    "close": 427.75,
+    "volume": 9656198886,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 430.8,
+    "high": 433.9,
+    "low": 428.2,
+    "close": 428.45,
+    "volume": 7949471551,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 431.7,
+    "high": 431.7,
+    "low": 427.75,
+    "close": 429.4,
+    "volume": 5281965891,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 429.4,
+    "high": 431.05,
+    "low": 425.1,
+    "close": 426,
+    "volume": 5988433962,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 426,
+    "high": 428.9,
+    "low": 419.55,
+    "close": 421.9,
+    "volume": 9798255032,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 419,
+    "high": 426.7,
+    "low": 418.25,
+    "close": 426.15,
+    "volume": 5236696495,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 423.65,
+    "high": 425.5,
+    "low": 420.6,
+    "close": 424.3,
+    "volume": 2722573323,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 425.7,
+    "high": 427.4,
+    "low": 421.35,
+    "close": 425.7,
+    "volume": 3111891121,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 425.7,
+    "high": 425.95,
+    "low": 415.85,
+    "close": 417.1,
+    "volume": 2719722946,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 415,
+    "high": 423.4,
+    "low": 415,
+    "close": 420.15,
+    "volume": 2775848343,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 423,
+    "high": 431.8,
+    "low": 420.35,
+    "close": 430.8,
+    "volume": 4461783203,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 430.9,
+    "high": 432.45,
+    "low": 425.8,
+    "close": 428,
+    "volume": 6441408362,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 425.5,
+    "high": 430.15,
+    "low": 421.4,
+    "close": 423.65,
+    "volume": 4331521565,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 426.7,
+    "high": 426.7,
+    "low": 421.7,
+    "close": 424,
+    "volume": 5692754311,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 420.5,
+    "high": 422.35,
+    "low": 414.45,
+    "close": 416.05,
+    "volume": 7425083449,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 410,
+    "high": 414.6,
+    "low": 407.1,
+    "close": 411.2,
+    "volume": 6267985742,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 405,
+    "high": 410.5,
+    "low": 402.2,
+    "close": 403.7,
+    "volume": 7473964432,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 403.6,
+    "high": 410.05,
+    "low": 402.35,
+    "close": 406.35,
+    "volume": 6086375817,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 403.7,
+    "high": 406.7,
+    "low": 399,
+    "close": 401.3,
+    "volume": 7044279376,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 390,
+    "high": 393.85,
+    "low": 385.1,
+    "close": 386.05,
+    "volume": 7868477951,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 390.5,
+    "high": 394.25,
+    "low": 387.5,
+    "close": 391.25,
+    "volume": 8350045925,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 388.85,
+    "high": 391.1,
+    "low": 379.95,
+    "close": 380.8,
+    "volume": 11555243410,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 377,
+    "high": 380.15,
+    "low": 374.05,
+    "close": 375,
+    "volume": 9441227395,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 373,
+    "high": 373.6,
+    "low": 363.4,
+    "close": 367.1,
+    "volume": 11844943126,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 366.85,
+    "high": 373.35,
+    "low": 364.05,
+    "close": 369.4,
+    "volume": 10295541009,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 369.85,
+    "high": 375.15,
+    "low": 368.6,
+    "close": 374,
+    "volume": 5653179295,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 375,
+    "high": 376.95,
+    "low": 371.1,
+    "close": 375.15,
+    "volume": 5699408181,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 366.15,
+    "high": 370.15,
+    "low": 363.35,
+    "close": 370,
+    "volume": 6367768084,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 368.6,
+    "high": 372.6,
+    "low": 365.4,
+    "close": 367,
+    "volume": 6292868750,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 364.85,
+    "high": 364.9,
+    "low": 355.25,
+    "close": 357.5,
+    "volume": 6091381289,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 363,
+    "high": 370.95,
+    "low": 361.4,
+    "close": 368.5,
+    "volume": 7331370565,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 368.95,
+    "high": 378,
+    "low": 363,
+    "close": 370.4,
+    "volume": 15721106206,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 367.55,
+    "high": 368.85,
+    "low": 362.5,
+    "close": 367.15,
+    "volume": 10563016574,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 361,
+    "high": 362.95,
+    "low": 351.65,
+    "close": 353,
+    "volume": 14107936024,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 363.8,
+    "high": 364.05,
+    "low": 355,
+    "close": 355.4,
+    "volume": 7614332891,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 350.3,
+    "high": 359.85,
+    "low": 345.5,
+    "close": 357.8,
+    "volume": 7771083609,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 358,
+    "high": 361.4,
+    "low": 350.1,
+    "close": 360.95,
+    "volume": 6521957672,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 357,
+    "high": 364,
+    "low": 357,
+    "close": 363.1,
+    "volume": 8537192007,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 377,
+    "high": 381.15,
+    "low": 369.45,
+    "close": 379.5,
+    "volume": 11360430357,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 377,
+    "high": 378.7,
+    "low": 369.45,
+    "close": 371.85,
+    "volume": 4639815213,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 373.5,
+    "high": 379.15,
+    "low": 372.35,
+    "close": 375,
+    "volume": 8929754627,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 367.95,
+    "high": 373,
+    "low": 365.6,
+    "close": 372.85,
+    "volume": 11078946988,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 375.5,
+    "high": 383,
+    "low": 375.5,
+    "close": 382.35,
+    "volume": 7261616781,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 383.15,
+    "high": 386.45,
+    "low": 378.25,
+    "close": 378.85,
+    "volume": 4598372523,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 379.3,
+    "high": 385.2,
+    "low": 376.65,
+    "close": 383.35,
+    "volume": 4456246201,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 384.1,
+    "high": 386,
+    "low": 378,
+    "close": 380,
+    "volume": 4241885694,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 381.45,
+    "high": 383.15,
+    "low": 378.35,
+    "close": 382.35,
+    "volume": 4701521947,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 378.1,
+    "high": 382.8,
+    "low": 376.25,
+    "close": 376.95,
+    "volume": 5476270851,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 370.05,
+    "high": 375.95,
+    "low": 367.65,
+    "close": 371.45,
+    "volume": 10247178725,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 370.6,
+    "high": 372.8,
+    "low": 367.65,
+    "close": 371,
+    "volume": 7287677413,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 375,
+    "high": 380.45,
+    "low": 373.25,
+    "close": 377,
+    "volume": 4361039247,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 372,
+    "high": 383.25,
+    "low": 372,
+    "close": 377.25,
+    "volume": 4872904209,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 378,
+    "high": 386.05,
+    "low": 377.55,
+    "close": 382,
+    "volume": 3031479066,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 376.6,
+    "high": 386.85,
+    "low": 375.3,
+    "close": 383.75,
+    "volume": 9468292375,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 378.9,
+    "high": 382.05,
+    "low": 363,
+    "close": 371.1,
+    "volume": 27763836852,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 371,
+    "high": 375.5,
+    "low": 368.75,
+    "close": 371.6,
+    "volume": 7112827692,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 374,
+    "high": 380,
+    "low": 365.65,
+    "close": 377.15,
+    "volume": 13483612942,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 376.1,
+    "high": 382.45,
+    "low": 374.3,
+    "close": 380.45,
+    "volume": 10333100877,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 379,
+    "high": 381.5,
+    "low": 374,
+    "close": 381,
+    "volume": 6123916353,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 376.1,
+    "high": 386,
+    "low": 374.4,
+    "close": 380.45,
+    "volume": 8145997446,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 380.2,
+    "high": 381.05,
+    "low": 374.55,
+    "close": 376,
+    "volume": 4935178182,
+    "symbol": "KOTAKBANK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 377.9,
+    "high": 384,
+    "low": 376.85,
+    "close": 378.95,
+    "volume": 6192868656,
+    "symbol": "KOTAKBANK"
+  }
+]

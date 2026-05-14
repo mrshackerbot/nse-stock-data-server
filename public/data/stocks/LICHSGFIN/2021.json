@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 363,
+    "high": 379,
+    "low": 362.6,
+    "close": 377.35,
+    "volume": 3224152079,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 380,
+    "high": 384.9,
+    "low": 376.65,
+    "close": 382,
+    "volume": 2031378541,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 379,
+    "high": 399,
+    "low": 377.45,
+    "close": 394.25,
+    "volume": 3361312922,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 395.95,
+    "high": 417.85,
+    "low": 394.95,
+    "close": 406.55,
+    "volume": 4784308861,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 413,
+    "high": 444.4,
+    "low": 411.1,
+    "close": 434.5,
+    "volume": 5916178342,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 440.85,
+    "high": 447.6,
+    "low": 436.5,
+    "close": 442.2,
+    "volume": 4417825994,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 444.8,
+    "high": 444.8,
+    "low": 421,
+    "close": 430,
+    "volume": 2774006495,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 429.6,
+    "high": 444.9,
+    "low": 424,
+    "close": 439.25,
+    "volume": 2571489922,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 443,
+    "high": 463.8,
+    "low": 427.7,
+    "close": 437.25,
+    "volume": 6004794608,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 440.75,
+    "high": 446.7,
+    "low": 430.5,
+    "close": 433.5,
+    "volume": 3633247101,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 434.95,
+    "high": 439,
+    "low": 425.7,
+    "close": 429.7,
+    "volume": 2573857352,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 431,
+    "high": 431.6,
+    "low": 408,
+    "close": 409.45,
+    "volume": 3118893230,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 416.3,
+    "high": 428,
+    "low": 415.1,
+    "close": 427,
+    "volume": 2809681797,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 428.5,
+    "high": 432.95,
+    "low": 419.1,
+    "close": 431.1,
+    "volume": 2568294556,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 435.1,
+    "high": 436.95,
+    "low": 416.9,
+    "close": 423.25,
+    "volume": 2514166401,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 421,
+    "high": 427.45,
+    "low": 412.25,
+    "close": 413.8,
+    "volume": 2232611502,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 421,
+    "high": 432.7,
+    "low": 413.35,
+    "close": 415.35,
+    "volume": 3049202865,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 415.35,
+    "high": 415.35,
+    "low": 392.4,
+    "close": 394.2,
+    "volume": 3138679509,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 390,
+    "high": 399.4,
+    "low": 383.4,
+    "close": 396.5,
+    "volume": 2869043482,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 401.5,
+    "high": 416.6,
+    "low": 390,
+    "close": 397.4,
+    "volume": 4897260062,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 401.6,
+    "high": 449,
+    "low": 392.5,
+    "close": 432.35,
+    "volume": 5773795489,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 436.5,
+    "high": 455.5,
+    "low": 435.85,
+    "close": 440.2,
+    "volume": 4339581896,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 444.7,
+    "high": 451.3,
+    "low": 428.3,
+    "close": 449,
+    "volume": 4537451655,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 450,
+    "high": 457.95,
+    "low": 445.75,
+    "close": 451.15,
+    "volume": 2804512554,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 457,
+    "high": 458.4,
+    "low": 431.05,
+    "close": 433.55,
+    "volume": 3977309400,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 437.7,
+    "high": 447.95,
+    "low": 435.1,
+    "close": 438,
+    "volume": 2000134557,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 440,
+    "high": 446.3,
+    "low": 434.5,
+    "close": 439.55,
+    "volume": 1801695137,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 439,
+    "high": 442.7,
+    "low": 432.8,
+    "close": 440.2,
+    "volume": 1535200647,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 439,
+    "high": 443.3,
+    "low": 433.5,
+    "close": 435.1,
+    "volume": 1285251857,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 435.4,
+    "high": 445.9,
+    "low": 434.25,
+    "close": 442.6,
+    "volume": 2395514612,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 446.95,
+    "high": 479.9,
+    "low": 444.4,
+    "close": 478,
+    "volume": 7942586507,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 480.9,
+    "high": 483.35,
+    "low": 465.75,
+    "close": 468.55,
+    "volume": 3066294514,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 468,
+    "high": 477.3,
+    "low": 463,
+    "close": 469.1,
+    "volume": 3216654194,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 473.8,
+    "high": 487.4,
+    "low": 469.6,
+    "close": 475.4,
+    "volume": 3550061606,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 474.45,
+    "high": 478.9,
+    "low": 443.65,
+    "close": 449.25,
+    "volume": 3591723788,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 452.75,
+    "high": 452.75,
+    "low": 425.45,
+    "close": 427,
+    "volume": 2684477755,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 430,
+    "high": 437.2,
+    "low": 425.85,
+    "close": 429.65,
+    "volume": 2095862071,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 431.55,
+    "high": 446.7,
+    "low": 431.55,
+    "close": 444,
+    "volume": 1590128067,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 447.8,
+    "high": 455.7,
+    "low": 444.7,
+    "close": 451.25,
+    "volume": 2434587116,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 442,
+    "high": 442,
+    "low": 428,
+    "close": 430.4,
+    "volume": 2464803815,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 435,
+    "high": 437.4,
+    "low": 428,
+    "close": 432.6,
+    "volume": 1442191808,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 435,
+    "high": 443.55,
+    "low": 434.2,
+    "close": 441.15,
+    "volume": 1506571096,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 445.45,
+    "high": 466.65,
+    "low": 445.45,
+    "close": 464.4,
+    "volume": 3412584824,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 459.95,
+    "high": 463,
+    "low": 452.7,
+    "close": 454.95,
+    "volume": 1807334558,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 453,
+    "high": 453,
+    "low": 430.55,
+    "close": 436.8,
+    "volume": 2134432018,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 440.1,
+    "high": 443.7,
+    "low": 430.5,
+    "close": 432.2,
+    "volume": 1747246492,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 434,
+    "high": 439.1,
+    "low": 423,
+    "close": 430.2,
+    "volume": 1785974910,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 433.5,
+    "high": 436.8,
+    "low": 430.1,
+    "close": 433.8,
+    "volume": 831714047,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 435.15,
+    "high": 441.8,
+    "low": 427.45,
+    "close": 430,
+    "volume": 1260339683,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 432.1,
+    "high": 433.6,
+    "low": 411.7,
+    "close": 420.2,
+    "volume": 2148691569,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 422.5,
+    "high": 434,
+    "low": 421,
+    "close": 429.5,
+    "volume": 1476300056,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 428.35,
+    "high": 432.1,
+    "low": 415.75,
+    "close": 416.9,
+    "volume": 1296896340,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 420.3,
+    "high": 426.7,
+    "low": 405.1,
+    "close": 409.75,
+    "volume": 1412221627,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 404,
+    "high": 419.5,
+    "low": 397,
+    "close": 417,
+    "volume": 2356635171,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 417.5,
+    "high": 423.6,
+    "low": 411,
+    "close": 414.85,
+    "volume": 1321938713,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 415.8,
+    "high": 425,
+    "low": 415.1,
+    "close": 418.6,
+    "volume": 1619849725,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 420,
+    "high": 420.75,
+    "low": 408.1,
+    "close": 410.4,
+    "volume": 1391316685,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 410,
+    "high": 417.8,
+    "low": 401.5,
+    "close": 412.1,
+    "volume": 1733442389,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 416.65,
+    "high": 423.35,
+    "low": 414.3,
+    "close": 420.4,
+    "volume": 1354298785,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 422,
+    "high": 427.4,
+    "low": 414.8,
+    "close": 419,
+    "volume": 1043847390,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 421,
+    "high": 432.45,
+    "low": 420.1,
+    "close": 428.25,
+    "volume": 1500018867,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 431.75,
+    "high": 433.9,
+    "low": 424,
+    "close": 432.05,
+    "volume": 1209169200,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 430.8,
+    "high": 430.8,
+    "low": 411.95,
+    "close": 418,
+    "volume": 1251686919,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 420,
+    "high": 425.75,
+    "low": 417.45,
+    "close": 419.55,
+    "volume": 1131826230,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 418.5,
+    "high": 426.65,
+    "low": 416.2,
+    "close": 418.6,
+    "volume": 1825006952,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 421.4,
+    "high": 427.6,
+    "low": 418.5,
+    "close": 420.65,
+    "volume": 1150810720,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 419.5,
+    "high": 423.1,
+    "low": 414.1,
+    "close": 416,
+    "volume": 941270940,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 408,
+    "high": 409.85,
+    "low": 377.75,
+    "close": 384.95,
+    "volume": 2770789756,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 384.95,
+    "high": 395.5,
+    "low": 381,
+    "close": 393.85,
+    "volume": 1616425850,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 393.1,
+    "high": 400.55,
+    "low": 381,
+    "close": 388.75,
+    "volume": 1577345128,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 389.1,
+    "high": 394.5,
+    "low": 387.5,
+    "close": 391,
+    "volume": 981327963,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 382,
+    "high": 384.9,
+    "low": 372.7,
+    "close": 379,
+    "volume": 1885598827,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 384,
+    "high": 391.35,
+    "low": 380,
+    "close": 382.6,
+    "volume": 947913234,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 379,
+    "high": 390.35,
+    "low": 377.4,
+    "close": 386.9,
+    "volume": 1218910708,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 386.9,
+    "high": 395.5,
+    "low": 384.85,
+    "close": 391.3,
+    "volume": 985253993,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 393.2,
+    "high": 398.5,
+    "low": 392,
+    "close": 397.25,
+    "volume": 813543338,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 397.45,
+    "high": 407.8,
+    "low": 396.25,
+    "close": 403,
+    "volume": 1002804677,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 403.7,
+    "high": 419.4,
+    "low": 403.5,
+    "close": 415.8,
+    "volume": 1441733073,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 418,
+    "high": 421.6,
+    "low": 409.45,
+    "close": 411.05,
+    "volume": 1490357111,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 406.8,
+    "high": 417.6,
+    "low": 404,
+    "close": 404.5,
+    "volume": 1012160666,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 404,
+    "high": 411.5,
+    "low": 398.75,
+    "close": 408.85,
+    "volume": 744735369,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 409.9,
+    "high": 418.9,
+    "low": 407,
+    "close": 407,
+    "volume": 1012441624,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 411.95,
+    "high": 415,
+    "low": 406.2,
+    "close": 413.35,
+    "volume": 808199766,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 415,
+    "high": 416,
+    "low": 409.95,
+    "close": 412.15,
+    "volume": 391279956,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 414.5,
+    "high": 425,
+    "low": 413.2,
+    "close": 422.55,
+    "volume": 1461688161,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 426.85,
+    "high": 431.5,
+    "low": 424.3,
+    "close": 427.85,
+    "volume": 1476320905,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 421,
+    "high": 432.4,
+    "low": 420,
+    "close": 428.3,
+    "volume": 1026631000,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 428.3,
+    "high": 439.9,
+    "low": 427.25,
+    "close": 428.7,
+    "volume": 1361486896,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 429,
+    "high": 433.5,
+    "low": 421,
+    "close": 430.1,
+    "volume": 1709950179,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 433.75,
+    "high": 439.15,
+    "low": 430.4,
+    "close": 436,
+    "volume": 1166980983,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 439.9,
+    "high": 452.85,
+    "low": 439,
+    "close": 449.85,
+    "volume": 2132420106,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 450,
+    "high": 456.7,
+    "low": 447.65,
+    "close": 448.3,
+    "volume": 1332402650,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 448.25,
+    "high": 453.5,
+    "low": 442.45,
+    "close": 450.7,
+    "volume": 997825704,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 453.3,
+    "high": 459,
+    "low": 452,
+    "close": 456.2,
+    "volume": 1672933382,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 456.1,
+    "high": 461,
+    "low": 452.3,
+    "close": 457,
+    "volume": 1041156316,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 460,
+    "high": 461.9,
+    "low": 448.5,
+    "close": 451.3,
+    "volume": 933080587,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 450.2,
+    "high": 454.65,
+    "low": 448.05,
+    "close": 449.3,
+    "volume": 810389656,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 451,
+    "high": 455.7,
+    "low": 448,
+    "close": 451.85,
+    "volume": 899394187,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 452.5,
+    "high": 459.25,
+    "low": 446.45,
+    "close": 456.1,
+    "volume": 1006924780,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 456.75,
+    "high": 490,
+    "low": 452.6,
+    "close": 467,
+    "volume": 4027340858,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 470.95,
+    "high": 479,
+    "low": 466.55,
+    "close": 477.5,
+    "volume": 2372645773,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 479.8,
+    "high": 484.9,
+    "low": 475.65,
+    "close": 481,
+    "volume": 1834974823,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 484,
+    "high": 502.9,
+    "low": 483.65,
+    "close": 498.45,
+    "volume": 4100718832,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 503,
+    "high": 537.95,
+    "low": 501,
+    "close": 529,
+    "volume": 12256524343,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 534.55,
+    "high": 534.9,
+    "low": 518.15,
+    "close": 519.6,
+    "volume": 2832124261,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 521,
+    "high": 526.05,
+    "low": 510.7,
+    "close": 514.8,
+    "volume": 1869248779,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 517.6,
+    "high": 523,
+    "low": 504.5,
+    "close": 508.15,
+    "volume": 1941165461,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 510.8,
+    "high": 528.9,
+    "low": 508.5,
+    "close": 528.5,
+    "volume": 2261873013,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 531.8,
+    "high": 542.45,
+    "low": 519,
+    "close": 522,
+    "volume": 4157267051,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 524,
+    "high": 527.8,
+    "low": 508.05,
+    "close": 524.15,
+    "volume": 2093841653,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 527.9,
+    "high": 527.9,
+    "low": 520.6,
+    "close": 522,
+    "volume": 1721977244,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 507,
+    "high": 517.2,
+    "low": 492.55,
+    "close": 493.5,
+    "volume": 6689014627,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 494.5,
+    "high": 498,
+    "low": 478.4,
+    "close": 480,
+    "volume": 4836997831,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 485.05,
+    "high": 486.5,
+    "low": 458.65,
+    "close": 470.4,
+    "volume": 4360925142,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 462,
+    "high": 472.25,
+    "low": 455.85,
+    "close": 469.9,
+    "volume": 2403760770,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 475,
+    "high": 479.7,
+    "low": 471,
+    "close": 471.1,
+    "volume": 2024476421,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 474.7,
+    "high": 475.5,
+    "low": 463.65,
+    "close": 464.6,
+    "volume": 1375390148,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 467.5,
+    "high": 468,
+    "low": 456.6,
+    "close": 458.45,
+    "volume": 1280254891,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 469,
+    "high": 475.75,
+    "low": 462.55,
+    "close": 467.4,
+    "volume": 3108862533,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 469,
+    "high": 472,
+    "low": 467.05,
+    "close": 467.7,
+    "volume": 1101403368,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 468.2,
+    "high": 478,
+    "low": 467.55,
+    "close": 473.6,
+    "volume": 1844255148,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 476.55,
+    "high": 476.55,
+    "low": 469.2,
+    "close": 470.2,
+    "volume": 1119054963,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 470.7,
+    "high": 475.3,
+    "low": 468.7,
+    "close": 470.8,
+    "volume": 865370107,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 470.95,
+    "high": 473.2,
+    "low": 464.5,
+    "close": 466.3,
+    "volume": 846760904,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 467.95,
+    "high": 473.9,
+    "low": 467.8,
+    "close": 471.5,
+    "volume": 864946637,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 471.4,
+    "high": 473.8,
+    "low": 465.55,
+    "close": 466.75,
+    "volume": 700059217,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 466,
+    "high": 468.1,
+    "low": 462,
+    "close": 465,
+    "volume": 569813980,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 465,
+    "high": 470.15,
+    "low": 459.5,
+    "close": 460.7,
+    "volume": 789077698,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 460.15,
+    "high": 461.05,
+    "low": 454.15,
+    "close": 455.9,
+    "volume": 1332270806,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 459.9,
+    "high": 467.85,
+    "low": 457.2,
+    "close": 462.5,
+    "volume": 1619786844,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 464.5,
+    "high": 464.6,
+    "low": 456.1,
+    "close": 461.8,
+    "volume": 1565112169,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 462,
+    "high": 472.75,
+    "low": 461.1,
+    "close": 471.55,
+    "volume": 1474208503,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 474.1,
+    "high": 474.7,
+    "low": 468.5,
+    "close": 470.05,
+    "volume": 779088232,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 472.3,
+    "high": 472.75,
+    "low": 467.6,
+    "close": 468,
+    "volume": 359861044,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 465,
+    "high": 466,
+    "low": 458,
+    "close": 461,
+    "volume": 705892884,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 460,
+    "high": 461.3,
+    "low": 452.4,
+    "close": 453.05,
+    "volume": 578719441,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 455.5,
+    "high": 460.35,
+    "low": 454,
+    "close": 456.8,
+    "volume": 513788267,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 457.4,
+    "high": 461.9,
+    "low": 453.1,
+    "close": 454,
+    "volume": 507771567,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 454,
+    "high": 455.95,
+    "low": 441,
+    "close": 442.3,
+    "volume": 1324966433,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 444,
+    "high": 448.5,
+    "low": 440.45,
+    "close": 444,
+    "volume": 937720671,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 444.95,
+    "high": 444.95,
+    "low": 430.15,
+    "close": 434.35,
+    "volume": 1069152937,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 435.2,
+    "high": 440.1,
+    "low": 412.4,
+    "close": 413,
+    "volume": 3985610394,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 408,
+    "high": 417.35,
+    "low": 406.1,
+    "close": 410.45,
+    "volume": 3245817275,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 414,
+    "high": 414.15,
+    "low": 406,
+    "close": 407.95,
+    "volume": 1620900831,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 410,
+    "high": 411.1,
+    "low": 404.25,
+    "close": 405.7,
+    "volume": 1486882999,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 407.85,
+    "high": 416.85,
+    "low": 407.7,
+    "close": 410.45,
+    "volume": 3014202815,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 412,
+    "high": 413.45,
+    "low": 403.5,
+    "close": 408.2,
+    "volume": 1887441062,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 409.9,
+    "high": 413,
+    "low": 405,
+    "close": 405.35,
+    "volume": 1653339379,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 406,
+    "high": 411.5,
+    "low": 403,
+    "close": 406,
+    "volume": 1071551292,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 406.5,
+    "high": 408.1,
+    "low": 393.5,
+    "close": 396,
+    "volume": 1053298281,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 397,
+    "high": 399,
+    "low": 384.3,
+    "close": 393.9,
+    "volume": 1226277554,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 395,
+    "high": 402.05,
+    "low": 393.35,
+    "close": 401.5,
+    "volume": 792314481,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 401.9,
+    "high": 404.3,
+    "low": 396.05,
+    "close": 397.65,
+    "volume": 1003308075,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 398.15,
+    "high": 398.95,
+    "low": 392.25,
+    "close": 392.95,
+    "volume": 509180193,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 392.95,
+    "high": 395.8,
+    "low": 385,
+    "close": 387.7,
+    "volume": 918185866,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 389,
+    "high": 391,
+    "low": 384.05,
+    "close": 384.7,
+    "volume": 1157998030,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 380,
+    "high": 384.85,
+    "low": 374.55,
+    "close": 375.15,
+    "volume": 1157115501,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 376.85,
+    "high": 381,
+    "low": 365.1,
+    "close": 366.2,
+    "volume": 916211243,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 368,
+    "high": 379.5,
+    "low": 367.25,
+    "close": 377.8,
+    "volume": 1203216115,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 381.45,
+    "high": 390.35,
+    "low": 379.8,
+    "close": 384.95,
+    "volume": 1654476819,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 386.85,
+    "high": 391.65,
+    "low": 382.35,
+    "close": 387.95,
+    "volume": 2108934842,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 389.5,
+    "high": 391.8,
+    "low": 385.1,
+    "close": 387.4,
+    "volume": 1520372378,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 391,
+    "high": 398.15,
+    "low": 389.55,
+    "close": 397.4,
+    "volume": 1203258331,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 398.4,
+    "high": 406.5,
+    "low": 394.7,
+    "close": 401.6,
+    "volume": 2066808558,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 403,
+    "high": 410,
+    "low": 402.25,
+    "close": 408,
+    "volume": 1145704130,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 409,
+    "high": 413.65,
+    "low": 406.1,
+    "close": 409.35,
+    "volume": 1054715966,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 411.8,
+    "high": 414.6,
+    "low": 405.5,
+    "close": 406.95,
+    "volume": 1448736803,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 409.1,
+    "high": 409.4,
+    "low": 404.25,
+    "close": 406,
+    "volume": 518826562,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 406,
+    "high": 425.1,
+    "low": 403.2,
+    "close": 425.1,
+    "volume": 3237423480,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 427.8,
+    "high": 428.45,
+    "low": 415,
+    "close": 418.2,
+    "volume": 2231999872,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 417.5,
+    "high": 427.25,
+    "low": 412.2,
+    "close": 418.55,
+    "volume": 2788184407,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 421,
+    "high": 421.95,
+    "low": 416.2,
+    "close": 418.95,
+    "volume": 1404828745,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 420,
+    "high": 421.95,
+    "low": 417.15,
+    "close": 419.7,
+    "volume": 826998871,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 420,
+    "high": 423.3,
+    "low": 418.5,
+    "close": 420,
+    "volume": 1106507707,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 416.3,
+    "high": 420.3,
+    "low": 413.6,
+    "close": 417,
+    "volume": 1643260600,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 418,
+    "high": 422.95,
+    "low": 414.3,
+    "close": 417.4,
+    "volume": 2433064417,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 415.95,
+    "high": 418,
+    "low": 401.1,
+    "close": 403,
+    "volume": 1134052909,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 403.95,
+    "high": 409.8,
+    "low": 395.6,
+    "close": 408.2,
+    "volume": 1343621866,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 409.5,
+    "high": 435.9,
+    "low": 408.7,
+    "close": 430.45,
+    "volume": 4079369038,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 435.3,
+    "high": 443.6,
+    "low": 433.35,
+    "close": 440.3,
+    "volume": 2965193400,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 443.85,
+    "high": 443.85,
+    "low": 426.75,
+    "close": 428.9,
+    "volume": 1393214046,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 432.8,
+    "high": 437.65,
+    "low": 428.2,
+    "close": 435.8,
+    "volume": 1158355451,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 438,
+    "high": 443.3,
+    "low": 432.5,
+    "close": 437.5,
+    "volume": 2322624464,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 435.95,
+    "high": 440.5,
+    "low": 428.7,
+    "close": 434.55,
+    "volume": 1141273305,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 431,
+    "high": 435.5,
+    "low": 425.7,
+    "close": 426.95,
+    "volume": 2246816648,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 425,
+    "high": 430.5,
+    "low": 422,
+    "close": 427.6,
+    "volume": 923786494,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 430.5,
+    "high": 447.5,
+    "low": 428.8,
+    "close": 444.1,
+    "volume": 2268046410,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 444.5,
+    "high": 451.45,
+    "low": 440.1,
+    "close": 447.5,
+    "volume": 1541726428,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 449.5,
+    "high": 452.85,
+    "low": 435.1,
+    "close": 435.85,
+    "volume": 1381133046,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 440.8,
+    "high": 448.8,
+    "low": 439.8,
+    "close": 443.85,
+    "volume": 909558696,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 447.8,
+    "high": 449.5,
+    "low": 441.45,
+    "close": 442,
+    "volume": 705960321,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 443,
+    "high": 446.8,
+    "low": 440.45,
+    "close": 444,
+    "volume": 632829337,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 443.65,
+    "high": 449,
+    "low": 441.5,
+    "close": 445,
+    "volume": 754854764,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 446.5,
+    "high": 454.55,
+    "low": 444.5,
+    "close": 446.85,
+    "volume": 1189770595,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 449,
+    "high": 449.8,
+    "low": 441.55,
+    "close": 444,
+    "volume": 703905135,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 451,
+    "high": 459.85,
+    "low": 445.85,
+    "close": 456.75,
+    "volume": 2794156099,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 460,
+    "high": 462.5,
+    "low": 441,
+    "close": 442,
+    "volume": 1696096714,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 445,
+    "high": 447.4,
+    "low": 432,
+    "close": 435.75,
+    "volume": 1447581633,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 437.25,
+    "high": 443.5,
+    "low": 433,
+    "close": 441.4,
+    "volume": 1027783475,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 416,
+    "high": 419.7,
+    "low": 403.6,
+    "close": 409,
+    "volume": 6421020633,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 410,
+    "high": 411.35,
+    "low": 394.05,
+    "close": 400.5,
+    "volume": 1919769601,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 401.85,
+    "high": 408.2,
+    "low": 398.65,
+    "close": 406,
+    "volume": 1203228950,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 407.5,
+    "high": 413.9,
+    "low": 407.05,
+    "close": 410.65,
+    "volume": 1067120962,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 411.95,
+    "high": 413.35,
+    "low": 401.1,
+    "close": 403.4,
+    "volume": 999142429,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 403.5,
+    "high": 412.7,
+    "low": 396.2,
+    "close": 407,
+    "volume": 803597943,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 407,
+    "high": 416.8,
+    "low": 407,
+    "close": 415.9,
+    "volume": 903907491,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 415.7,
+    "high": 426,
+    "low": 415.15,
+    "close": 426,
+    "volume": 980670768,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 427.95,
+    "high": 430.3,
+    "low": 422.1,
+    "close": 424.9,
+    "volume": 667748753,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 428.7,
+    "high": 429,
+    "low": 425,
+    "close": 426.65,
+    "volume": 113035718,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 425,
+    "high": 434.5,
+    "low": 425,
+    "close": 433,
+    "volume": 640520069,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 435.7,
+    "high": 438.5,
+    "low": 430.5,
+    "close": 433.75,
+    "volume": 659965676,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 430,
+    "high": 439.95,
+    "low": 429.7,
+    "close": 439.6,
+    "volume": 793513097,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 439,
+    "high": 440.3,
+    "low": 425.55,
+    "close": 428,
+    "volume": 837257360,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 430.9,
+    "high": 433.5,
+    "low": 426.1,
+    "close": 430.45,
+    "volume": 1029746294,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 433.25,
+    "high": 433.25,
+    "low": 420.3,
+    "close": 424.95,
+    "volume": 895585558,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 424.5,
+    "high": 425.55,
+    "low": 412.1,
+    "close": 413.4,
+    "volume": 715720820,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 414,
+    "high": 416.8,
+    "low": 409,
+    "close": 409.25,
+    "volume": 544704863,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 409.3,
+    "high": 412.55,
+    "low": 403.5,
+    "close": 405.1,
+    "volume": 639673531,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 405.5,
+    "high": 406.4,
+    "low": 391.8,
+    "close": 396.55,
+    "volume": 1069878994,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 395,
+    "high": 404.45,
+    "low": 388.6,
+    "close": 401.55,
+    "volume": 1014281599,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 404,
+    "high": 407.95,
+    "low": 399.1,
+    "close": 400.2,
+    "volume": 799560555,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 400.55,
+    "high": 401.9,
+    "low": 393,
+    "close": 396.8,
+    "volume": 793126579,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 392,
+    "high": 393.8,
+    "low": 377.35,
+    "close": 378.6,
+    "volume": 1040872150,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 376,
+    "high": 379.4,
+    "low": 367,
+    "close": 375.15,
+    "volume": 967054849,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 377.4,
+    "high": 385.25,
+    "low": 371,
+    "close": 371.6,
+    "volume": 905144114,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 374,
+    "high": 377.95,
+    "low": 370.25,
+    "close": 375.9,
+    "volume": 804912146,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 375.5,
+    "high": 380,
+    "low": 373.45,
+    "close": 378.9,
+    "volume": 933050476,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 379.9,
+    "high": 389,
+    "low": 379.15,
+    "close": 382.65,
+    "volume": 634247548,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 384.95,
+    "high": 386.6,
+    "low": 377.1,
+    "close": 378.4,
+    "volume": 508286791,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 380.75,
+    "high": 386,
+    "low": 378.85,
+    "close": 383.7,
+    "volume": 560997990,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 387,
+    "high": 391.75,
+    "low": 385.85,
+    "close": 389.55,
+    "volume": 454061011,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 386,
+    "high": 396.45,
+    "low": 386,
+    "close": 394.85,
+    "volume": 713963472,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 393.9,
+    "high": 394.75,
+    "low": 389.4,
+    "close": 394.05,
+    "volume": 516099886,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 397.7,
+    "high": 399.2,
+    "low": 388,
+    "close": 389.25,
+    "volume": 628307090,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 386,
+    "high": 387.55,
+    "low": 381.15,
+    "close": 386,
+    "volume": 741050767,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 388,
+    "high": 388,
+    "low": 382.05,
+    "close": 382.4,
+    "volume": 505161558,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 385.65,
+    "high": 386.2,
+    "low": 373.5,
+    "close": 376,
+    "volume": 778855712,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 376.3,
+    "high": 377.65,
+    "low": 362,
+    "close": 363.65,
+    "volume": 855212341,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 361.8,
+    "high": 361.8,
+    "low": 339.75,
+    "close": 346.95,
+    "volume": 1090932128,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 351,
+    "high": 355,
+    "low": 341.2,
+    "close": 344.45,
+    "volume": 813881504,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 344.65,
+    "high": 352.75,
+    "low": 344.65,
+    "close": 352.5,
+    "volume": 550479380,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 355.4,
+    "high": 367.6,
+    "low": 354.55,
+    "close": 363.8,
+    "volume": 1151455456,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 366.6,
+    "high": 366.6,
+    "low": 354.35,
+    "close": 356.1,
+    "volume": 504734321,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 354.75,
+    "high": 365.9,
+    "low": 350,
+    "close": 365.4,
+    "volume": 869164776,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 365.9,
+    "high": 371.5,
+    "low": 365.5,
+    "close": 370.1,
+    "volume": 739767112,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 370.6,
+    "high": 372.4,
+    "low": 364.3,
+    "close": 366.1,
+    "volume": 479316731,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 367.35,
+    "high": 367.35,
+    "low": 360,
+    "close": 362.55,
+    "volume": 462299183,
+    "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 363.4,
+    "high": 372.3,
+    "low": 363.05,
+    "close": 369.95,
+    "volume": 431825312,
+    "symbol": "LICHSGFIN"
+  }
+]

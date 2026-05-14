@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 295.4,
+    "high": 296.75,
+    "low": 294.15,
+    "close": 295.6,
+    "volume": 1093062792,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 295.6,
+    "high": 303,
+    "low": 295.5,
+    "close": 301.85,
+    "volume": 3190951745,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 301.8,
+    "high": 302.45,
+    "low": 298.85,
+    "close": 300.05,
+    "volume": 2094327319,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 300.1,
+    "high": 302.3,
+    "low": 293.5,
+    "close": 298.55,
+    "volume": 3253785372,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 298,
+    "high": 306,
+    "low": 296.65,
+    "close": 303.7,
+    "volume": 6192996946,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 303.3,
+    "high": 304.3,
+    "low": 292.15,
+    "close": 292.65,
+    "volume": 3632837848,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 292,
+    "high": 294.6,
+    "low": 286.15,
+    "close": 287.55,
+    "volume": 3300804923,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 287.25,
+    "high": 289,
+    "low": 280.75,
+    "close": 288.45,
+    "volume": 3481714077,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 289.1,
+    "high": 290.2,
+    "low": 281.9,
+    "close": 284.15,
+    "volume": 3689105023,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 281.95,
+    "high": 287.85,
+    "low": 281.85,
+    "close": 287.3,
+    "volume": 1918050382,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 287,
+    "high": 291,
+    "low": 277.15,
+    "close": 277.95,
+    "volume": 5364688182,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 279.4,
+    "high": 281.65,
+    "low": 274.1,
+    "close": 274.9,
+    "volume": 3608370267,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 275.1,
+    "high": 276.45,
+    "low": 263.2,
+    "close": 265.4,
+    "volume": 5057525773,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 265.3,
+    "high": 269.2,
+    "low": 262.5,
+    "close": 263.5,
+    "volume": 5106316451,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 267,
+    "high": 268.15,
+    "low": 259.75,
+    "close": 263.6,
+    "volume": 3240397589,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 264,
+    "high": 266.25,
+    "low": 252.25,
+    "close": 253.2,
+    "volume": 3820536420,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 253.8,
+    "high": 257.5,
+    "low": 250.2,
+    "close": 257.15,
+    "volume": 3744977782,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 257.85,
+    "high": 258.4,
+    "low": 253,
+    "close": 256.05,
+    "volume": 4858535550,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 255.8,
+    "high": 256.85,
+    "low": 252.45,
+    "close": 254.5,
+    "volume": 3095402626,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 253,
+    "high": 257.6,
+    "low": 249.55,
+    "close": 254,
+    "volume": 3417646480,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 253.6,
+    "high": 255.25,
+    "low": 238.4,
+    "close": 242.4,
+    "volume": 3438182828,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 242.4,
+    "high": 245.3,
+    "low": 237,
+    "close": 245.15,
+    "volume": 4159635315,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 260.05,
+    "high": 267,
+    "low": 256.95,
+    "close": 264,
+    "volume": 10565326503,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 265,
+    "high": 269.9,
+    "low": 263.95,
+    "close": 267.85,
+    "volume": 3895825841,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 268.1,
+    "high": 271.65,
+    "low": 267.5,
+    "close": 269.95,
+    "volume": 4250039063,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 269.95,
+    "high": 270.4,
+    "low": 266.5,
+    "close": 268,
+    "volume": 2397615766,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 270.55,
+    "high": 271.4,
+    "low": 268.75,
+    "close": 269,
+    "volume": 2216925398,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 270,
+    "high": 274.35,
+    "low": 269,
+    "close": 270.6,
+    "volume": 3438700712,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 271,
+    "high": 271.6,
+    "low": 268.3,
+    "close": 270.2,
+    "volume": 1766614176,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 270,
+    "high": 270.1,
+    "low": 266.7,
+    "close": 267.75,
+    "volume": 2325763982,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 265,
+    "high": 267.25,
+    "low": 262.85,
+    "close": 263.85,
+    "volume": 3233071014,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 262.05,
+    "high": 263.25,
+    "low": 259.55,
+    "close": 262.6,
+    "volume": 3614050579,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 262.4,
+    "high": 264.2,
+    "low": 260.9,
+    "close": 261.8,
+    "volume": 1944923783,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 263,
+    "high": 264.5,
+    "low": 261.75,
+    "close": 263.9,
+    "volume": 2489884723,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 264.1,
+    "high": 265.55,
+    "low": 257.35,
+    "close": 257.9,
+    "volume": 2210416880,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 258.1,
+    "high": 260.75,
+    "low": 257.55,
+    "close": 258.5,
+    "volume": 2912482200,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 260,
+    "high": 260.4,
+    "low": 256.15,
+    "close": 257.75,
+    "volume": 2440418958,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 257.2,
+    "high": 257.2,
+    "low": 253.2,
+    "close": 255.9,
+    "volume": 2795798160,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 257.05,
+    "high": 259.45,
+    "low": 255.65,
+    "close": 256.9,
+    "volume": 2278012708,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 257.5,
+    "high": 258.85,
+    "low": 255.35,
+    "close": 256.25,
+    "volume": 2233315025,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 257,
+    "high": 259.2,
+    "low": 254.65,
+    "close": 254.9,
+    "volume": 3408236601,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 246.55,
+    "high": 252.35,
+    "low": 243.55,
+    "close": 249.1,
+    "volume": 4565932822,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 245,
+    "high": 245.4,
+    "low": 239.8,
+    "close": 241,
+    "volume": 3357807625,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 243.5,
+    "high": 244.25,
+    "low": 237.75,
+    "close": 243.45,
+    "volume": 3320110602,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 242.2,
+    "high": 243.45,
+    "low": 238.9,
+    "close": 239.7,
+    "volume": 3025400048,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 233.95,
+    "high": 233.95,
+    "low": 226.3,
+    "close": 232.5,
+    "volume": 4480737546,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 236.95,
+    "high": 237.55,
+    "low": 231.35,
+    "close": 236.65,
+    "volume": 5405044977,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 237.9,
+    "high": 242.8,
+    "low": 237.5,
+    "close": 238.5,
+    "volume": 3954089108,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 237.4,
+    "high": 245.4,
+    "low": 234,
+    "close": 242,
+    "volume": 4522854974,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 240,
+    "high": 240.6,
+    "low": 234.25,
+    "close": 235.85,
+    "volume": 3158814968,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 235,
+    "high": 238,
+    "low": 230.7,
+    "close": 233.5,
+    "volume": 3494214317,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 235,
+    "high": 238.7,
+    "low": 234.35,
+    "close": 237.9,
+    "volume": 2517103574,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 238.9,
+    "high": 250.5,
+    "low": 237.95,
+    "close": 248.5,
+    "volume": 4824118615,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 242.95,
+    "high": 244.85,
+    "low": 237.6,
+    "close": 240.2,
+    "volume": 3633645070,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 242,
+    "high": 244.25,
+    "low": 238.6,
+    "close": 239.4,
+    "volume": 3621373284,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 236.2,
+    "high": 236.3,
+    "low": 225.4,
+    "close": 225.9,
+    "volume": 4845669622,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 232.85,
+    "high": 234,
+    "low": 227.75,
+    "close": 232.9,
+    "volume": 3727228181,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 235,
+    "high": 241,
+    "low": 234.75,
+    "close": 237.45,
+    "volume": 3744456759,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 236,
+    "high": 236.5,
+    "low": 231.55,
+    "close": 232,
+    "volume": 4612129933,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 228.9,
+    "high": 231.5,
+    "low": 223.3,
+    "close": 224.45,
+    "volume": 5874094584,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 233.04,
+    "high": 233.04,
+    "low": 228,
+    "close": 232,
+    "volume": 4976760456,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 227.85,
+    "high": 230.14,
+    "low": 223.55,
+    "close": 229.95,
+    "volume": 4199771331,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 230.8,
+    "high": 236,
+    "low": 226.1,
+    "close": 235.7,
+    "volume": 3699641654,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 233.1,
+    "high": 236,
+    "low": 231.77,
+    "close": 235,
+    "volume": 3227323482,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 245.1,
+    "high": 248.1,
+    "low": 242.15,
+    "close": 248,
+    "volume": 4880607145,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 246,
+    "high": 246,
+    "low": 236.7,
+    "close": 238.99,
+    "volume": 5086394398,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 240.7,
+    "high": 243.8,
+    "low": 240,
+    "close": 243.48,
+    "volume": 2921922913,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 237,
+    "high": 238.31,
+    "low": 235.26,
+    "close": 237.75,
+    "volume": 3649017071,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 242.5,
+    "high": 244.25,
+    "low": 241.51,
+    "close": 242.6,
+    "volume": 4976721983,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 244.5,
+    "high": 245,
+    "low": 238.02,
+    "close": 241.51,
+    "volume": 6323826772,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 242.02,
+    "high": 245.5,
+    "low": 240.64,
+    "close": 244.8,
+    "volume": 12496819010,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 242,
+    "high": 242.01,
+    "low": 234.5,
+    "close": 236.6,
+    "volume": 9135483127,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 237.27,
+    "high": 237.6,
+    "low": 234.1,
+    "close": 234.9,
+    "volume": 10904090328,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 234.7,
+    "high": 241.15,
+    "low": 234.55,
+    "close": 238.44,
+    "volume": 9596442791,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 240,
+    "high": 251.7,
+    "low": 238.54,
+    "close": 248.5,
+    "volume": 18317140741,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 252,
+    "high": 253.2,
+    "low": 244.1,
+    "close": 245.8,
+    "volume": 8086879148,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 247.1,
+    "high": 254.7,
+    "low": 247.02,
+    "close": 254.6,
+    "volume": 6487789941,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 255.5,
+    "high": 256,
+    "low": 249.53,
+    "close": 251,
+    "volume": 5531440336,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 252.11,
+    "high": 257,
+    "low": 250.03,
+    "close": 250.7,
+    "volume": 5697228826,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 250,
+    "high": 250,
+    "low": 243.11,
+    "close": 247.18,
+    "volume": 5060038959,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 248,
+    "high": 254,
+    "low": 247.87,
+    "close": 253.7,
+    "volume": 4479415062,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 252,
+    "high": 253.7,
+    "low": 247.3,
+    "close": 249,
+    "volume": 4042920942,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 251,
+    "high": 252.99,
+    "low": 249.17,
+    "close": 252.5,
+    "volume": 3694066686,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 253.5,
+    "high": 254.15,
+    "low": 250.5,
+    "close": 251,
+    "volume": 4264634446,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 250.98,
+    "high": 251.49,
+    "low": 248.3,
+    "close": 249.01,
+    "volume": 2837747734,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 246,
+    "high": 246.45,
+    "low": 239.8,
+    "close": 239.85,
+    "volume": 4568863664,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 239.54,
+    "high": 239.95,
+    "low": 229.26,
+    "close": 230.75,
+    "volume": 5069935535,
+    "symbol": "JIOFIN"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 231,
+    "high": 234,
+    "low": 229.2,
+    "close": 231.7,
+    "volume": 3178720579,
+    "symbol": "JIOFIN"
+  }
+]

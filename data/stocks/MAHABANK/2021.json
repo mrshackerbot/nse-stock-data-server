@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 13.1,
+    "high": 13.75,
+    "low": 13.05,
+    "close": 13.65,
+    "volume": 65182102,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 13.9,
+    "high": 14.1,
+    "low": 13.4,
+    "close": 13.75,
+    "volume": 43281552,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 13.6,
+    "high": 13.65,
+    "low": 13.4,
+    "close": 13.5,
+    "volume": 25259165,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 13.5,
+    "high": 13.7,
+    "low": 13.2,
+    "close": 13.4,
+    "volume": 29711504,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 13.5,
+    "high": 13.7,
+    "low": 13.4,
+    "close": 13.6,
+    "volume": 22315854,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 13.6,
+    "high": 14.5,
+    "low": 13.5,
+    "close": 14.2,
+    "volume": 109251768,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 14.45,
+    "high": 14.5,
+    "low": 13.7,
+    "close": 13.85,
+    "volume": 37446216,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 13.85,
+    "high": 15.5,
+    "low": 13.7,
+    "close": 14.6,
+    "volume": 196618823,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 14.8,
+    "high": 15.1,
+    "low": 14.4,
+    "close": 14.9,
+    "volume": 131357137,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 14.7,
+    "high": 15.15,
+    "low": 14.5,
+    "close": 14.7,
+    "volume": 73710392,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 14.7,
+    "high": 14.9,
+    "low": 14.05,
+    "close": 14.65,
+    "volume": 91276451,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 14.85,
+    "high": 15.15,
+    "low": 14.55,
+    "close": 14.65,
+    "volume": 111398899,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 15,
+    "high": 16.15,
+    "low": 14.85,
+    "close": 15.85,
+    "volume": 453499331,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 16,
+    "high": 16.45,
+    "low": 15.8,
+    "close": 16.1,
+    "volume": 225269490,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 16.2,
+    "high": 16.25,
+    "low": 14.8,
+    "close": 15.15,
+    "volume": 141830301,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 15.1,
+    "high": 15.25,
+    "low": 14.25,
+    "close": 14.4,
+    "volume": 69181878,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 14.6,
+    "high": 14.7,
+    "low": 13.5,
+    "close": 13.75,
+    "volume": 67212214,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 13.95,
+    "high": 14.25,
+    "low": 13.65,
+    "close": 13.95,
+    "volume": 57457689,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 13.9,
+    "high": 14.4,
+    "low": 13.75,
+    "close": 14.4,
+    "volume": 39900735,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 14.4,
+    "high": 15.45,
+    "low": 14.25,
+    "close": 15.05,
+    "volume": 133649846,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 15.3,
+    "high": 15.65,
+    "low": 14.6,
+    "close": 14.75,
+    "volume": 216396411,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 15.2,
+    "high": 15.6,
+    "low": 14.95,
+    "close": 15.1,
+    "volume": 99550920,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 15.2,
+    "high": 15.45,
+    "low": 15.05,
+    "close": 15.4,
+    "volume": 88753998,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 15.5,
+    "high": 16.25,
+    "low": 15.35,
+    "close": 16,
+    "volume": 209746900,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 16.2,
+    "high": 16.85,
+    "low": 16.05,
+    "close": 16.15,
+    "volume": 193805558,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 16.45,
+    "high": 16.7,
+    "low": 16.15,
+    "close": 16.4,
+    "volume": 81767873,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 16.35,
+    "high": 16.35,
+    "low": 15.85,
+    "close": 15.85,
+    "volume": 74251774,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 16,
+    "high": 16,
+    "low": 15.3,
+    "close": 15.45,
+    "volume": 53316600,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 16.5,
+    "high": 16.5,
+    "low": 15.8,
+    "close": 15.95,
+    "volume": 74417548,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 15.9,
+    "high": 16.1,
+    "low": 15.7,
+    "close": 15.75,
+    "volume": 37973273,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 15.7,
+    "high": 16.2,
+    "low": 15.7,
+    "close": 15.85,
+    "volume": 47854983,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 18.3,
+    "high": 19.05,
+    "low": 17.65,
+    "close": 19.05,
+    "volume": 377727466,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 20.2,
+    "high": 22.85,
+    "low": 20,
+    "close": 22.85,
+    "volume": 994086483,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 25.1,
+    "high": 25.1,
+    "low": 25.1,
+    "close": 25.1,
+    "volume": 97390108,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 25.9,
+    "high": 27.6,
+    "low": 22.6,
+    "close": 23.2,
+    "volume": 2969831963,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 23.3,
+    "high": 23.5,
+    "low": 21.05,
+    "close": 21.7,
+    "volume": 769235787,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 22.1,
+    "high": 23.2,
+    "low": 20.5,
+    "close": 21.45,
+    "volume": 572202674,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 22,
+    "high": 23.45,
+    "low": 21.95,
+    "close": 23.45,
+    "volume": 474020554,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 25.15,
+    "high": 25.75,
+    "low": 24.5,
+    "close": 25.75,
+    "volume": 791590001,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 24.5,
+    "high": 25.45,
+    "low": 23.7,
+    "close": 24.3,
+    "volume": 694130429,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 25.2,
+    "high": 25.2,
+    "low": 22.9,
+    "close": 23.2,
+    "volume": 228995828,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 23.55,
+    "high": 23.7,
+    "low": 22.8,
+    "close": 22.9,
+    "volume": 167239395,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 23.3,
+    "high": 23.95,
+    "low": 22.8,
+    "close": 23.05,
+    "volume": 195924282,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 22.85,
+    "high": 23.15,
+    "low": 22.05,
+    "close": 22.4,
+    "volume": 159917498,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 22.2,
+    "high": 22.35,
+    "low": 21.7,
+    "close": 21.95,
+    "volume": 92191591,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 23.75,
+    "high": 24.05,
+    "low": 23.1,
+    "close": 24.05,
+    "volume": 568823276,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 24.9,
+    "high": 25.15,
+    "low": 22.75,
+    "close": 23,
+    "volume": 352005325,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 23.5,
+    "high": 23.75,
+    "low": 22.9,
+    "close": 23,
+    "volume": 121642514,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 23.7,
+    "high": 25.3,
+    "low": 22.9,
+    "close": 23,
+    "volume": 212328643,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 23.3,
+    "high": 23.35,
+    "low": 21.9,
+    "close": 22.15,
+    "volume": 146476183,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 22.25,
+    "high": 22.3,
+    "low": 20.8,
+    "close": 21.55,
+    "volume": 148848745,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 21.55,
+    "high": 21.8,
+    "low": 20.45,
+    "close": 20.65,
+    "volume": 92481387,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 21,
+    "high": 21.15,
+    "low": 18.8,
+    "close": 19.45,
+    "volume": 132628679,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 19,
+    "high": 19.65,
+    "low": 18.1,
+    "close": 19,
+    "volume": 152482815,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 19.2,
+    "high": 19.95,
+    "low": 18.8,
+    "close": 19.2,
+    "volume": 115853575,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 19.7,
+    "high": 20.95,
+    "low": 19.2,
+    "close": 20.95,
+    "volume": 355722939,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 22.7,
+    "high": 23,
+    "low": 20.85,
+    "close": 21.95,
+    "volume": 840072659,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 21.95,
+    "high": 22.25,
+    "low": 19.6,
+    "close": 20.95,
+    "volume": 272365299,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 21.45,
+    "high": 22,
+    "low": 20.8,
+    "close": 20.85,
+    "volume": 120161853,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 21,
+    "high": 21.2,
+    "low": 20.15,
+    "close": 20.8,
+    "volume": 92491277,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 20.95,
+    "high": 21.2,
+    "low": 20.35,
+    "close": 20.75,
+    "volume": 108874386,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 21.3,
+    "high": 21.95,
+    "low": 21.05,
+    "close": 21.4,
+    "volume": 161307842,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 20.9,
+    "high": 22,
+    "low": 20.75,
+    "close": 21.45,
+    "volume": 123785085,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 21.4,
+    "high": 21.45,
+    "low": 20.9,
+    "close": 21,
+    "volume": 64147640,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 21,
+    "high": 21.7,
+    "low": 20.7,
+    "close": 21.3,
+    "volume": 98928115,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 21.7,
+    "high": 21.85,
+    "low": 21.15,
+    "close": 21.3,
+    "volume": 75856095,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 21.45,
+    "high": 25.4,
+    "low": 21.45,
+    "close": 25.4,
+    "volume": 1317769642,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 23.8,
+    "high": 24.25,
+    "low": 22.3,
+    "close": 23.2,
+    "volume": 634331298,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 23,
+    "high": 27.4,
+    "low": 22.85,
+    "close": 26.85,
+    "volume": 1819175209,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 26,
+    "high": 26.45,
+    "low": 24.65,
+    "close": 25.1,
+    "volume": 699186485,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 25.45,
+    "high": 26.7,
+    "low": 25.1,
+    "close": 25.7,
+    "volume": 729459568,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 23.95,
+    "high": 24.3,
+    "low": 23.2,
+    "close": 23.55,
+    "volume": 367476085,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 24,
+    "high": 24.35,
+    "low": 22.55,
+    "close": 22.85,
+    "volume": 286952667,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 22.1,
+    "high": 23.8,
+    "low": 21.6,
+    "close": 23,
+    "volume": 405158874,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 22.85,
+    "high": 23.25,
+    "low": 22.6,
+    "close": 22.95,
+    "volume": 192828040,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 23.2,
+    "high": 23.95,
+    "low": 23.1,
+    "close": 23.4,
+    "volume": 133471109,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 23.85,
+    "high": 23.95,
+    "low": 23.1,
+    "close": 23.55,
+    "volume": 226381710,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 23.7,
+    "high": 24.05,
+    "low": 23.55,
+    "close": 24,
+    "volume": 162541217,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 24.3,
+    "high": 25.25,
+    "low": 23.5,
+    "close": 24.5,
+    "volume": 499168064,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 24.5,
+    "high": 24.85,
+    "low": 24,
+    "close": 24.1,
+    "volume": 214924976,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 23.7,
+    "high": 23.95,
+    "low": 23.2,
+    "close": 23.55,
+    "volume": 112188883,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 23.75,
+    "high": 25.55,
+    "low": 23.55,
+    "close": 24.4,
+    "volume": 611732884,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 24.8,
+    "high": 25.5,
+    "low": 23.95,
+    "close": 24.25,
+    "volume": 222429082,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 24.25,
+    "high": 25.95,
+    "low": 24.25,
+    "close": 24.6,
+    "volume": 492262229,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 25,
+    "high": 25.2,
+    "low": 24.2,
+    "close": 24.2,
+    "volume": 206991945,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 25,
+    "high": 25.1,
+    "low": 24.3,
+    "close": 24.65,
+    "volume": 191611187,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 24.3,
+    "high": 25.25,
+    "low": 23.95,
+    "close": 24.75,
+    "volume": 229824176,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 24.7,
+    "high": 26.45,
+    "low": 24.7,
+    "close": 25.4,
+    "volume": 977999938,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 25.7,
+    "high": 26.15,
+    "low": 24.4,
+    "close": 25,
+    "volume": 380423200,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 25.7,
+    "high": 25.95,
+    "low": 25.1,
+    "close": 25.45,
+    "volume": 267107957,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 25.65,
+    "high": 25.9,
+    "low": 24.9,
+    "close": 25.2,
+    "volume": 160224004,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 25.05,
+    "high": 25.95,
+    "low": 24.8,
+    "close": 25.1,
+    "volume": 501798160,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 25.2,
+    "high": 25.3,
+    "low": 24.8,
+    "close": 24.85,
+    "volume": 132862235,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 25,
+    "high": 25.35,
+    "low": 24.9,
+    "close": 25.1,
+    "volume": 153210179,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 25.3,
+    "high": 25.5,
+    "low": 25.15,
+    "close": 25.25,
+    "volume": 119900852,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 25.35,
+    "high": 25.45,
+    "low": 24.7,
+    "close": 24.85,
+    "volume": 131333176,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 24.8,
+    "high": 25,
+    "low": 24.6,
+    "close": 24.7,
+    "volume": 89553727,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 24.8,
+    "high": 24.85,
+    "low": 24.35,
+    "close": 24.85,
+    "volume": 102593398,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 25,
+    "high": 25,
+    "low": 24.3,
+    "close": 24.35,
+    "volume": 102298884,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 24.5,
+    "high": 24.65,
+    "low": 24.15,
+    "close": 24.25,
+    "volume": 75134279,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 24.25,
+    "high": 24.3,
+    "low": 23.55,
+    "close": 23.75,
+    "volume": 104394454,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 23.75,
+    "high": 26.1,
+    "low": 23.7,
+    "close": 25.75,
+    "volume": 590827106,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 26.3,
+    "high": 26.55,
+    "low": 25.55,
+    "close": 25.65,
+    "volume": 424083920,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 26.3,
+    "high": 29.75,
+    "low": 25.8,
+    "close": 29.2,
+    "volume": 3267616071,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 30.5,
+    "high": 32,
+    "low": 27.9,
+    "close": 28.15,
+    "volume": 2159556424,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 28.15,
+    "high": 28.25,
+    "low": 26.1,
+    "close": 26.4,
+    "volume": 947658233,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 26.55,
+    "high": 27.35,
+    "low": 25.65,
+    "close": 26.35,
+    "volume": 539258495,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 26.55,
+    "high": 27,
+    "low": 26.3,
+    "close": 26.85,
+    "volume": 298159521,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 27,
+    "high": 27.25,
+    "low": 26.45,
+    "close": 26.6,
+    "volume": 251824486,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 26.75,
+    "high": 26.75,
+    "low": 25.4,
+    "close": 26.3,
+    "volume": 260187137,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 26.45,
+    "high": 26.75,
+    "low": 26.1,
+    "close": 26.25,
+    "volume": 145699922,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 26.4,
+    "high": 26.4,
+    "low": 25.75,
+    "close": 25.9,
+    "volume": 107392950,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 25,
+    "high": 26.2,
+    "low": 25,
+    "close": 25.5,
+    "volume": 148805866,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 25.8,
+    "high": 25.8,
+    "low": 24.2,
+    "close": 25.15,
+    "volume": 152213013,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 25,
+    "high": 27.7,
+    "low": 24.6,
+    "close": 26.3,
+    "volume": 1018802544,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 26.7,
+    "high": 26.75,
+    "low": 25.8,
+    "close": 25.9,
+    "volume": 441235142,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 25.9,
+    "high": 26.1,
+    "low": 24.9,
+    "close": 25.2,
+    "volume": 227150435,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 25.25,
+    "high": 25.6,
+    "low": 24.9,
+    "close": 25.15,
+    "volume": 128775869,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 25.25,
+    "high": 25.95,
+    "low": 25.05,
+    "close": 25.3,
+    "volume": 212548948,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 25.45,
+    "high": 26.2,
+    "low": 25.3,
+    "close": 25.6,
+    "volume": 236202446,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 25.65,
+    "high": 25.75,
+    "low": 25.25,
+    "close": 25.45,
+    "volume": 74190836,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 25.45,
+    "high": 26.3,
+    "low": 25.25,
+    "close": 25.5,
+    "volume": 241237308,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 25.55,
+    "high": 25.65,
+    "low": 25.25,
+    "close": 25.35,
+    "volume": 78007022,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 25.7,
+    "high": 25.7,
+    "low": 25.05,
+    "close": 25.15,
+    "volume": 112387732,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 25.8,
+    "high": 25.8,
+    "low": 25.3,
+    "close": 25.35,
+    "volume": 82762649,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 25.35,
+    "high": 25.55,
+    "low": 25,
+    "close": 25.15,
+    "volume": 148799782,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 25.45,
+    "high": 25.65,
+    "low": 25.15,
+    "close": 25.25,
+    "volume": 105448522,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 25.3,
+    "high": 25.6,
+    "low": 24.8,
+    "close": 25.05,
+    "volume": 71432392,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 25.05,
+    "high": 25.1,
+    "low": 24.15,
+    "close": 24.35,
+    "volume": 161335087,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 24.55,
+    "high": 24.55,
+    "low": 23.55,
+    "close": 23.85,
+    "volume": 201824001,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 24,
+    "high": 24.75,
+    "low": 23.85,
+    "close": 24.35,
+    "volume": 131102031,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 24.5,
+    "high": 24.65,
+    "low": 24.25,
+    "close": 24.3,
+    "volume": 126344438,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 24.4,
+    "high": 24.5,
+    "low": 23.9,
+    "close": 24.25,
+    "volume": 65869878,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 24.25,
+    "high": 24.3,
+    "low": 23.95,
+    "close": 24.05,
+    "volume": 67667304,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 23.8,
+    "high": 24.4,
+    "low": 23.4,
+    "close": 24,
+    "volume": 109420908,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 24,
+    "high": 24,
+    "low": 23.25,
+    "close": 23.65,
+    "volume": 65079329,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 23.7,
+    "high": 23.9,
+    "low": 22.85,
+    "close": 23.1,
+    "volume": 511464692,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 23.6,
+    "high": 23.65,
+    "low": 23,
+    "close": 23.2,
+    "volume": 167790653,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 23.4,
+    "high": 23.4,
+    "low": 22.6,
+    "close": 22.95,
+    "volume": 81837070,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 22.9,
+    "high": 23.05,
+    "low": 22.15,
+    "close": 22.35,
+    "volume": 92433088,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 22.35,
+    "high": 22.35,
+    "low": 21.2,
+    "close": 21.5,
+    "volume": 183071498,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 21.5,
+    "high": 21.95,
+    "low": 21.3,
+    "close": 21.4,
+    "volume": 102050700,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 21.55,
+    "high": 22.25,
+    "low": 21.4,
+    "close": 22,
+    "volume": 137428444,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 22.8,
+    "high": 22.8,
+    "low": 21,
+    "close": 21.7,
+    "volume": 140471631,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 21.8,
+    "high": 22.2,
+    "low": 21.45,
+    "close": 21.65,
+    "volume": 88687043,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 21.75,
+    "high": 21.75,
+    "low": 21.3,
+    "close": 21.4,
+    "volume": 97880963,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 21.55,
+    "high": 21.55,
+    "low": 20.2,
+    "close": 20.6,
+    "volume": 131002848,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 20.45,
+    "high": 21.35,
+    "low": 20.4,
+    "close": 20.5,
+    "volume": 130907542,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 20.7,
+    "high": 20.75,
+    "low": 20,
+    "close": 20.2,
+    "volume": 79980565,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 20.25,
+    "high": 20.5,
+    "low": 19.45,
+    "close": 19.5,
+    "volume": 126070900,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 19.55,
+    "high": 19.7,
+    "low": 18.45,
+    "close": 18.6,
+    "volume": 183092538,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 18.6,
+    "high": 19.7,
+    "low": 18.5,
+    "close": 19.25,
+    "volume": 151402219,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 19.25,
+    "high": 20.85,
+    "low": 19.25,
+    "close": 20.45,
+    "volume": 285536270,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 20.65,
+    "high": 20.65,
+    "low": 19.65,
+    "close": 19.75,
+    "volume": 80655495,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 19.85,
+    "high": 19.9,
+    "low": 19.05,
+    "close": 19.1,
+    "volume": 84829512,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 19.15,
+    "high": 19.35,
+    "low": 18.85,
+    "close": 18.95,
+    "volume": 68995322,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 18.6,
+    "high": 19.2,
+    "low": 18.4,
+    "close": 18.4,
+    "volume": 89601867,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 18.85,
+    "high": 18.95,
+    "low": 17.2,
+    "close": 18.1,
+    "volume": 102620110,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 18.3,
+    "high": 18.35,
+    "low": 17.85,
+    "close": 18,
+    "volume": 78509727,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 18.2,
+    "high": 18.5,
+    "low": 17.95,
+    "close": 18,
+    "volume": 73875556,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 18.15,
+    "high": 18.15,
+    "low": 17.8,
+    "close": 17.85,
+    "volume": 66426171,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 18.15,
+    "high": 18.15,
+    "low": 17.75,
+    "close": 18.1,
+    "volume": 78941216,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 18.15,
+    "high": 18.4,
+    "low": 18.05,
+    "close": 18.1,
+    "volume": 78085708,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 18.15,
+    "high": 18.5,
+    "low": 18,
+    "close": 18.1,
+    "volume": 97431075,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 18.1,
+    "high": 18.15,
+    "low": 17.8,
+    "close": 17.9,
+    "volume": 63139807,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 18.05,
+    "high": 18.3,
+    "low": 17.9,
+    "close": 18.05,
+    "volume": 59721012,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 18.15,
+    "high": 18.6,
+    "low": 18,
+    "close": 18.05,
+    "volume": 81240961,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 18.2,
+    "high": 19.35,
+    "low": 17.95,
+    "close": 19.05,
+    "volume": 245079759,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 19.3,
+    "high": 19.45,
+    "low": 18.3,
+    "close": 18.4,
+    "volume": 170098774,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 18.5,
+    "high": 18.75,
+    "low": 18.15,
+    "close": 18.3,
+    "volume": 118643250,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 18.4,
+    "high": 18.4,
+    "low": 18.1,
+    "close": 18.25,
+    "volume": 69544254,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 18.3,
+    "high": 18.4,
+    "low": 17.95,
+    "close": 18.05,
+    "volume": 73587762,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 18.1,
+    "high": 18.5,
+    "low": 18.1,
+    "close": 18.25,
+    "volume": 71969814,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 18.3,
+    "high": 18.85,
+    "low": 18.15,
+    "close": 18.5,
+    "volume": 125625788,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 18.6,
+    "high": 20.15,
+    "low": 18.25,
+    "close": 20,
+    "volume": 503000995,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 20.15,
+    "high": 20.3,
+    "low": 18.65,
+    "close": 19.3,
+    "volume": 292771225,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 19.1,
+    "high": 19.2,
+    "low": 18.5,
+    "close": 18.5,
+    "volume": 118816762,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 18.55,
+    "high": 18.65,
+    "low": 18,
+    "close": 18.45,
+    "volume": 115275315,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 18.5,
+    "high": 18.7,
+    "low": 18.25,
+    "close": 18.4,
+    "volume": 88054898,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 18.55,
+    "high": 18.7,
+    "low": 18.25,
+    "close": 18.35,
+    "volume": 76569058,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 18.5,
+    "high": 18.5,
+    "low": 18,
+    "close": 18.15,
+    "volume": 75958974,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 18.25,
+    "high": 18.35,
+    "low": 18,
+    "close": 18.05,
+    "volume": 59264259,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 18.15,
+    "high": 18.4,
+    "low": 18.1,
+    "close": 18.2,
+    "volume": 51620639,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 18.2,
+    "high": 19.25,
+    "low": 18.1,
+    "close": 18.85,
+    "volume": 158374279,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 19.1,
+    "high": 21.15,
+    "low": 19.1,
+    "close": 20.1,
+    "volume": 913945923,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 20.05,
+    "high": 20.25,
+    "low": 19.3,
+    "close": 20,
+    "volume": 163821050,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 20.15,
+    "high": 20.25,
+    "low": 20.05,
+    "close": 20.25,
+    "volume": 108341630,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 20.15,
+    "high": 20.85,
+    "low": 20.05,
+    "close": 20.55,
+    "volume": 189610137,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 20.8,
+    "high": 20.8,
+    "low": 20,
+    "close": 20.1,
+    "volume": 105119865,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 20.3,
+    "high": 20.6,
+    "low": 20.2,
+    "close": 20.25,
+    "volume": 70934866,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 20.75,
+    "high": 20.85,
+    "low": 20.35,
+    "close": 20.65,
+    "volume": 159380256,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 20.85,
+    "high": 21.1,
+    "low": 20.5,
+    "close": 20.6,
+    "volume": 137777523,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 20.75,
+    "high": 21.5,
+    "low": 20.25,
+    "close": 21.15,
+    "volume": 293472713,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 21.4,
+    "high": 21.5,
+    "low": 20.85,
+    "close": 21.05,
+    "volume": 209545351,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 21.25,
+    "high": 21.65,
+    "low": 20.95,
+    "close": 21.05,
+    "volume": 145732988,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 21.25,
+    "high": 22.15,
+    "low": 21.2,
+    "close": 22,
+    "volume": 295781251,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 22.15,
+    "high": 22.6,
+    "low": 21.4,
+    "close": 21.65,
+    "volume": 341929515,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 21.6,
+    "high": 21.7,
+    "low": 20.75,
+    "close": 21.1,
+    "volume": 160396805,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 21.4,
+    "high": 22.85,
+    "low": 21.1,
+    "close": 22.2,
+    "volume": 716493073,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 22.5,
+    "high": 22.7,
+    "low": 20.75,
+    "close": 21.75,
+    "volume": 316195270,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 21.95,
+    "high": 22.1,
+    "low": 20.9,
+    "close": 21.25,
+    "volume": 205996861,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 21.3,
+    "high": 22.25,
+    "low": 21.3,
+    "close": 21.7,
+    "volume": 206179516,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 21.9,
+    "high": 22.4,
+    "low": 21.6,
+    "close": 21.75,
+    "volume": 198731470,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 21.75,
+    "high": 21.75,
+    "low": 20.55,
+    "close": 20.75,
+    "volume": 134545254,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 20.75,
+    "high": 21.15,
+    "low": 19.8,
+    "close": 20.75,
+    "volume": 130552729,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 20.85,
+    "high": 21,
+    "low": 20.55,
+    "close": 20.7,
+    "volume": 63895562,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 20.85,
+    "high": 21.4,
+    "low": 20.65,
+    "close": 21.3,
+    "volume": 97718282,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 21.45,
+    "high": 21.45,
+    "low": 20.8,
+    "close": 20.9,
+    "volume": 64839352,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 21.1,
+    "high": 21.45,
+    "low": 21.05,
+    "close": 21.45,
+    "volume": 41079674,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 21.5,
+    "high": 21.6,
+    "low": 21.1,
+    "close": 21.45,
+    "volume": 93378754,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 21.5,
+    "high": 22,
+    "low": 21.4,
+    "close": 21.8,
+    "volume": 127418291,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 21.75,
+    "high": 21.95,
+    "low": 21.05,
+    "close": 21.25,
+    "volume": 99171936,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 21.2,
+    "high": 21.35,
+    "low": 20.8,
+    "close": 20.9,
+    "volume": 71609998,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 21.1,
+    "high": 21.15,
+    "low": 20.7,
+    "close": 20.85,
+    "volume": 42320076,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 20.95,
+    "high": 21,
+    "low": 20.2,
+    "close": 20.3,
+    "volume": 74293920,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 20.35,
+    "high": 20.65,
+    "low": 20.2,
+    "close": 20.3,
+    "volume": 47032307,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 20.45,
+    "high": 20.45,
+    "low": 20.05,
+    "close": 20.15,
+    "volume": 53110474,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 20.15,
+    "high": 20.35,
+    "low": 19.7,
+    "close": 19.85,
+    "volume": 77276362,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 19.8,
+    "high": 19.9,
+    "low": 19.05,
+    "close": 19.3,
+    "volume": 66038082,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 19.3,
+    "high": 19.65,
+    "low": 18.9,
+    "close": 19.55,
+    "volume": 62945182,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 20.3,
+    "high": 21.45,
+    "low": 20.25,
+    "close": 20.45,
+    "volume": 216113940,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 20.6,
+    "high": 20.65,
+    "low": 20.1,
+    "close": 20.35,
+    "volume": 77010034,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 20.1,
+    "high": 20.15,
+    "low": 19.75,
+    "close": 19.85,
+    "volume": 61380702,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 19.7,
+    "high": 19.85,
+    "low": 18.65,
+    "close": 19.15,
+    "volume": 65214690,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 19.15,
+    "high": 19.75,
+    "low": 19.1,
+    "close": 19.15,
+    "volume": 59128166,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 19.1,
+    "high": 19.5,
+    "low": 19.1,
+    "close": 19.25,
+    "volume": 44180796,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 19.15,
+    "high": 19.35,
+    "low": 19,
+    "close": 19.15,
+    "volume": 42286305,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 19.15,
+    "high": 20.1,
+    "low": 19.1,
+    "close": 19.55,
+    "volume": 86855014,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 19.7,
+    "high": 19.7,
+    "low": 19.05,
+    "close": 19.2,
+    "volume": 39320398,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 19.5,
+    "high": 19.75,
+    "low": 19.15,
+    "close": 19.25,
+    "volume": 58750773,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 19.35,
+    "high": 19.65,
+    "low": 19.35,
+    "close": 19.5,
+    "volume": 36801034,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 19.55,
+    "high": 20.15,
+    "low": 19.3,
+    "close": 19.9,
+    "volume": 82511568,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 20,
+    "high": 20.95,
+    "low": 19.7,
+    "close": 20.7,
+    "volume": 153625422,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 21.25,
+    "high": 21.35,
+    "low": 20.65,
+    "close": 21,
+    "volume": 137262685,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 20.75,
+    "high": 20.8,
+    "low": 20.3,
+    "close": 20.4,
+    "volume": 62536564,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 20.5,
+    "high": 20.55,
+    "low": 20.25,
+    "close": 20.4,
+    "volume": 37049585,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 20.45,
+    "high": 20.6,
+    "low": 19.75,
+    "close": 20.1,
+    "volume": 91324675,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 20,
+    "high": 20,
+    "low": 19.5,
+    "close": 19.6,
+    "volume": 42918622,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 19.4,
+    "high": 19.4,
+    "low": 18.5,
+    "close": 18.9,
+    "volume": 106223559,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 19,
+    "high": 19.25,
+    "low": 18.8,
+    "close": 19.1,
+    "volume": 45917762,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 19.45,
+    "high": 19.5,
+    "low": 19.1,
+    "close": 19.45,
+    "volume": 33169378,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 19.5,
+    "high": 19.8,
+    "low": 19.35,
+    "close": 19.55,
+    "volume": 43945139,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 19.6,
+    "high": 20.1,
+    "low": 19.15,
+    "close": 19.65,
+    "volume": 96189158,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 19.6,
+    "high": 20.05,
+    "low": 19.3,
+    "close": 19.5,
+    "volume": 47341636,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 19.5,
+    "high": 19.75,
+    "low": 19.3,
+    "close": 19.5,
+    "volume": 55140510,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 19.5,
+    "high": 19.6,
+    "low": 19.25,
+    "close": 19.3,
+    "volume": 36968559,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 19.25,
+    "high": 19.5,
+    "low": 18.25,
+    "close": 19.1,
+    "volume": 67711627,
+    "symbol": "MAHABANK"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 19.15,
+    "high": 19.35,
+    "low": 19.05,
+    "close": 19.25,
+    "volume": 34145920,
+    "symbol": "MAHABANK"
+  }
+]

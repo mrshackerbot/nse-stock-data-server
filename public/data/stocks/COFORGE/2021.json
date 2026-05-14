@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 2703.25,
+    "high": 2748,
+    "low": 2685.85,
+    "close": 2732,
+    "volume": 591382204,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 2750.9,
+    "high": 2867.25,
+    "low": 2720,
+    "close": 2836.05,
+    "volume": 1467233048,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 2840,
+    "high": 2906,
+    "low": 2811.1,
+    "close": 2872,
+    "volume": 1818554879,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 2885,
+    "high": 2909.55,
+    "low": 2761,
+    "close": 2796,
+    "volume": 1235956059,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 2830,
+    "high": 2850,
+    "low": 2730,
+    "close": 2749.7,
+    "volume": 977785319,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 2776.5,
+    "high": 2825,
+    "low": 2745,
+    "close": 2802,
+    "volume": 1391744960,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 2820.2,
+    "high": 2848,
+    "low": 2766.45,
+    "close": 2815,
+    "volume": 1392656681,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 2812.4,
+    "high": 2831.5,
+    "low": 2751.75,
+    "close": 2765.05,
+    "volume": 620275908,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 2779,
+    "high": 2797.5,
+    "low": 2666.55,
+    "close": 2722.3,
+    "volume": 941846542,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 2742.4,
+    "high": 2753.1,
+    "low": 2671.65,
+    "close": 2732.95,
+    "volume": 1004863848,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 2753.45,
+    "high": 2762.8,
+    "low": 2610,
+    "close": 2628.05,
+    "volume": 1001473153,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 2648,
+    "high": 2655,
+    "low": 2491.75,
+    "close": 2495,
+    "volume": 1045588614,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 2537.9,
+    "high": 2553,
+    "low": 2475,
+    "close": 2516,
+    "volume": 1068648106,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 2530,
+    "high": 2647.35,
+    "low": 2526,
+    "close": 2622,
+    "volume": 1499351674,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 2638,
+    "high": 2759.2,
+    "low": 2535.2,
+    "close": 2572.25,
+    "volume": 987419852,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 2572.25,
+    "high": 2587.8,
+    "low": 2482.9,
+    "close": 2488,
+    "volume": 821019113,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 2496,
+    "high": 2511.3,
+    "low": 2371.85,
+    "close": 2396.05,
+    "volume": 826527262,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 2407.9,
+    "high": 2485,
+    "low": 2371.35,
+    "close": 2442.95,
+    "volume": 1171378948,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 2409.5,
+    "high": 2427.95,
+    "low": 2367,
+    "close": 2422,
+    "volume": 704247010,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 2420.1,
+    "high": 2476.8,
+    "low": 2353,
+    "close": 2380.05,
+    "volume": 1580352502,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 2381,
+    "high": 2442.3,
+    "low": 2325.05,
+    "close": 2428,
+    "volume": 576219924,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 2449.9,
+    "high": 2498,
+    "low": 2384.05,
+    "close": 2446.05,
+    "volume": 1096513596,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 2470,
+    "high": 2552,
+    "low": 2428.6,
+    "close": 2520,
+    "volume": 1151844622,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 2539,
+    "high": 2561.7,
+    "low": 2508.55,
+    "close": 2534,
+    "volume": 730763338,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 2565,
+    "high": 2572.55,
+    "low": 2435.25,
+    "close": 2498.95,
+    "volume": 1440911966,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 2520,
+    "high": 2640.45,
+    "low": 2480.4,
+    "close": 2608.55,
+    "volume": 1261580978,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 2622,
+    "high": 2643.9,
+    "low": 2527,
+    "close": 2550,
+    "volume": 922514520,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 2555,
+    "high": 2620,
+    "low": 2520.15,
+    "close": 2620,
+    "volume": 883722676,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 2600,
+    "high": 2659,
+    "low": 2574.35,
+    "close": 2640,
+    "volume": 593935787,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 2658,
+    "high": 2699.9,
+    "low": 2600,
+    "close": 2630,
+    "volume": 1012093630,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 2629,
+    "high": 2650,
+    "low": 2581.6,
+    "close": 2593,
+    "volume": 302199462,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 2601,
+    "high": 2653,
+    "low": 2581.05,
+    "close": 2615,
+    "volume": 897805319,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 2600,
+    "high": 2616,
+    "low": 2540,
+    "close": 2583.3,
+    "volume": 523602447,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 2599.9,
+    "high": 2666.1,
+    "low": 2573.65,
+    "close": 2609.6,
+    "volume": 889362244,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 2615.9,
+    "high": 2644.9,
+    "low": 2544.1,
+    "close": 2565,
+    "volume": 542395606,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 2571,
+    "high": 2586.55,
+    "low": 2450.7,
+    "close": 2474,
+    "volume": 380439356,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 2483.2,
+    "high": 2525,
+    "low": 2450,
+    "close": 2460,
+    "volume": 447902129,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 2479,
+    "high": 2513.95,
+    "low": 2300,
+    "close": 2513.95,
+    "volume": 354696814,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 2521,
+    "high": 2561,
+    "low": 2507,
+    "close": 2518.85,
+    "volume": 335752099,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 2512,
+    "high": 2590,
+    "low": 2450.5,
+    "close": 2539.95,
+    "volume": 627570604,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 2555.5,
+    "high": 2569,
+    "low": 2476.05,
+    "close": 2513,
+    "volume": 309267111,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 2533.25,
+    "high": 2619,
+    "low": 2521.05,
+    "close": 2613,
+    "volume": 738636168,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 2618,
+    "high": 2698,
+    "low": 2602,
+    "close": 2670,
+    "volume": 867434709,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 2620,
+    "high": 2694.85,
+    "low": 2620,
+    "close": 2636,
+    "volume": 442477118,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 2630,
+    "high": 2655.1,
+    "low": 2564,
+    "close": 2593,
+    "volume": 382188016,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 2618.95,
+    "high": 2631.8,
+    "low": 2552,
+    "close": 2577,
+    "volume": 354823888,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 2583,
+    "high": 2631,
+    "low": 2495.1,
+    "close": 2620,
+    "volume": 481872954,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 2620,
+    "high": 2757,
+    "low": 2620,
+    "close": 2733,
+    "volume": 3248621492,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 2742,
+    "high": 2793.95,
+    "low": 2711,
+    "close": 2724,
+    "volume": 1313093328,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 2740,
+    "high": 2840,
+    "low": 2727,
+    "close": 2824.1,
+    "volume": 2116088906,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 2840,
+    "high": 3015.25,
+    "low": 2825,
+    "close": 2986,
+    "volume": 3862861341,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 2980,
+    "high": 3032,
+    "low": 2930,
+    "close": 2948,
+    "volume": 2339606836,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 2953.9,
+    "high": 2989.95,
+    "low": 2840.85,
+    "close": 2890,
+    "volume": 1366366903,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 2882,
+    "high": 3000,
+    "low": 2815.05,
+    "close": 2963.45,
+    "volume": 1403541201,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 2975.65,
+    "high": 3012.8,
+    "low": 2895.2,
+    "close": 2925,
+    "volume": 960002870,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 2932.7,
+    "high": 2964.25,
+    "low": 2853.2,
+    "close": 2862,
+    "volume": 691544416,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 2848,
+    "high": 2894.6,
+    "low": 2814.05,
+    "close": 2830,
+    "volume": 826357018,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 2838,
+    "high": 2839.45,
+    "low": 2725,
+    "close": 2767,
+    "volume": 826373914,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 2771,
+    "high": 2844,
+    "low": 2750,
+    "close": 2832.25,
+    "volume": 698470736,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 2832,
+    "high": 2988,
+    "low": 2776.3,
+    "close": 2939.8,
+    "volume": 2049262150,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 2931,
+    "high": 2946,
+    "low": 2875,
+    "close": 2920,
+    "volume": 982607921,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 2936,
+    "high": 3070.8,
+    "low": 2888.15,
+    "close": 2924,
+    "volume": 2477797292,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 2919,
+    "high": 3059.9,
+    "low": 2885,
+    "close": 3043.05,
+    "volume": 2300541441,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 3050,
+    "high": 3069.95,
+    "low": 2985.3,
+    "close": 2995.45,
+    "volume": 1545787865,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 2998.9,
+    "high": 3139.7,
+    "low": 2990.15,
+    "close": 3092,
+    "volume": 3063365388,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 3121,
+    "high": 3184.95,
+    "low": 3055,
+    "close": 3083,
+    "volume": 1989612592,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 3098.4,
+    "high": 3181.9,
+    "low": 3090.05,
+    "close": 3160,
+    "volume": 1787020440,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 3153.8,
+    "high": 3195.45,
+    "low": 3040,
+    "close": 3120.05,
+    "volume": 2131092713,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 3140,
+    "high": 3150,
+    "low": 2817.7,
+    "close": 2900,
+    "volume": 3466231952,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 2870,
+    "high": 3072,
+    "low": 2870,
+    "close": 3050,
+    "volume": 3610246505,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 3045,
+    "high": 3222.9,
+    "low": 3035.05,
+    "close": 3167.5,
+    "volume": 3532132450,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 3050.95,
+    "high": 3170,
+    "low": 3050.95,
+    "close": 3112.25,
+    "volume": 1638596339,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 3129,
+    "high": 3147.95,
+    "low": 2987.75,
+    "close": 3018.7,
+    "volume": 1516817542,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 3018.6,
+    "high": 3019,
+    "low": 2864.95,
+    "close": 2886,
+    "volume": 1541432305,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 2890,
+    "high": 2979.95,
+    "low": 2843.3,
+    "close": 2853,
+    "volume": 1897608584,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 2869.9,
+    "high": 2900.95,
+    "low": 2799.8,
+    "close": 2811,
+    "volume": 1083066853,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 2832.7,
+    "high": 2869,
+    "low": 2785,
+    "close": 2824.05,
+    "volume": 1250856732,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 2839.75,
+    "high": 2896,
+    "low": 2825,
+    "close": 2871.9,
+    "volume": 856252316,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 2893.9,
+    "high": 2931,
+    "low": 2830.9,
+    "close": 2848.5,
+    "volume": 1140293947,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 2843.8,
+    "high": 2919.75,
+    "low": 2820.6,
+    "close": 2867,
+    "volume": 1356336231,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 2875.95,
+    "high": 2915,
+    "low": 2831,
+    "close": 2909.65,
+    "volume": 769811475,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 2920,
+    "high": 2946.9,
+    "low": 2844.6,
+    "close": 2851.1,
+    "volume": 844337306,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 2856.4,
+    "high": 2905.35,
+    "low": 2835.3,
+    "close": 2887.4,
+    "volume": 736513835,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 2905,
+    "high": 3449,
+    "low": 2821.85,
+    "close": 3387,
+    "volume": 20902836728,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 3374,
+    "high": 3544.8,
+    "low": 3318.3,
+    "close": 3353.4,
+    "volume": 11576090594,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 3374.95,
+    "high": 3374.95,
+    "low": 3142.7,
+    "close": 3218,
+    "volume": 7800609821,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 3225,
+    "high": 3469.9,
+    "low": 3177.05,
+    "close": 3399.9,
+    "volume": 7613666486,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 3411,
+    "high": 3442.85,
+    "low": 3336.05,
+    "close": 3392.4,
+    "volume": 2769429726,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 3391,
+    "high": 3391,
+    "low": 3276.15,
+    "close": 3357,
+    "volume": 1318141510,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 3372,
+    "high": 3489,
+    "low": 3336.05,
+    "close": 3362,
+    "volume": 2390684521,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 3376,
+    "high": 3515.35,
+    "low": 3369.05,
+    "close": 3429,
+    "volume": 3037725957,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 3399,
+    "high": 3457.6,
+    "low": 3251.55,
+    "close": 3276.95,
+    "volume": 11482229700,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 3277.75,
+    "high": 3359.4,
+    "low": 3265,
+    "close": 3325,
+    "volume": 4360447703,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 3350,
+    "high": 3385.9,
+    "low": 3315.25,
+    "close": 3357,
+    "volume": 2910687390,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 3348,
+    "high": 3374.85,
+    "low": 3261.7,
+    "close": 3284.05,
+    "volume": 2121364861,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 3300,
+    "high": 3374.5,
+    "low": 3295.5,
+    "close": 3345,
+    "volume": 1743237868,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 3345,
+    "high": 3505,
+    "low": 3345,
+    "close": 3490,
+    "volume": 4680156184,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 3498.7,
+    "high": 3564.1,
+    "low": 3460.75,
+    "close": 3497,
+    "volume": 4452447780,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 3510,
+    "high": 3585,
+    "low": 3500,
+    "close": 3544,
+    "volume": 2304042314,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 3558,
+    "high": 3579,
+    "low": 3511.1,
+    "close": 3542.4,
+    "volume": 1483241747,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 3540,
+    "high": 3598,
+    "low": 3505.9,
+    "close": 3594,
+    "volume": 1524532297,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 3588,
+    "high": 3610,
+    "low": 3530,
+    "close": 3566.3,
+    "volume": 1323029984,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 3575,
+    "high": 3659.55,
+    "low": 3560,
+    "close": 3641,
+    "volume": 1874399264,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 3660,
+    "high": 3715,
+    "low": 3650,
+    "close": 3675,
+    "volume": 2446913680,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 3694.1,
+    "high": 3732,
+    "low": 3660.8,
+    "close": 3715,
+    "volume": 1244646222,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 3717,
+    "high": 3849.4,
+    "low": 3717,
+    "close": 3840,
+    "volume": 3648034905,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 3840,
+    "high": 3968,
+    "low": 3831.95,
+    "close": 3844,
+    "volume": 4311692003,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 3878.8,
+    "high": 3940,
+    "low": 3870,
+    "close": 3900,
+    "volume": 1539590617,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 3916.4,
+    "high": 4009.7,
+    "low": 3906,
+    "close": 3982.9,
+    "volume": 2390356815,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 4013.95,
+    "high": 4013.95,
+    "low": 3873.05,
+    "close": 3925,
+    "volume": 1750192711,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 3925.45,
+    "high": 3989,
+    "low": 3925.45,
+    "close": 3939,
+    "volume": 1109362249,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 3962.95,
+    "high": 4026,
+    "low": 3911,
+    "close": 3962,
+    "volume": 1798633251,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 3963.7,
+    "high": 4015.55,
+    "low": 3941.15,
+    "close": 3974.65,
+    "volume": 915391557,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 4010,
+    "high": 4048.85,
+    "low": 3870,
+    "close": 3990,
+    "volume": 1638357148,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 3959.95,
+    "high": 4028.75,
+    "low": 3878.2,
+    "close": 3986.05,
+    "volume": 1185946221,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 4044.75,
+    "high": 4044.75,
+    "low": 3963.25,
+    "close": 3976.95,
+    "volume": 1119352485,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 3996.45,
+    "high": 4028.7,
+    "low": 3920,
+    "close": 3936,
+    "volume": 1183861875,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 3964,
+    "high": 4090,
+    "low": 3947.8,
+    "close": 4082,
+    "volume": 1836660662,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 4100.75,
+    "high": 4157.7,
+    "low": 4055,
+    "close": 4086.05,
+    "volume": 2252159760,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 4110,
+    "high": 4138,
+    "low": 4065,
+    "close": 4094.45,
+    "volume": 828436564,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 4121.85,
+    "high": 4121.85,
+    "low": 4032,
+    "close": 4060,
+    "volume": 1174872126,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 4070,
+    "high": 4174,
+    "low": 4070,
+    "close": 4160.3,
+    "volume": 1616217087,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 4159.9,
+    "high": 4205.1,
+    "low": 4106.5,
+    "close": 4201,
+    "volume": 1182428836,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 4195,
+    "high": 4256,
+    "low": 4090.05,
+    "close": 4183,
+    "volume": 2972094208,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 4201,
+    "high": 4279,
+    "low": 4180.05,
+    "close": 4220,
+    "volume": 1752072251,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 4235,
+    "high": 4238,
+    "low": 4134.05,
+    "close": 4193,
+    "volume": 1896488217,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 4190,
+    "high": 4259,
+    "low": 4120.05,
+    "close": 4246.75,
+    "volume": 1532373471,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 4217,
+    "high": 4520.15,
+    "low": 4215,
+    "close": 4483.7,
+    "volume": 3773555469,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 4449,
+    "high": 4479,
+    "low": 4295,
+    "close": 4355,
+    "volume": 3402940205,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 4360,
+    "high": 4409.85,
+    "low": 4313,
+    "close": 4390.9,
+    "volume": 1741742199,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 4400,
+    "high": 4419.75,
+    "low": 4300,
+    "close": 4335,
+    "volume": 908933912,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 4339.45,
+    "high": 4558.8,
+    "low": 4339,
+    "close": 4529.85,
+    "volume": 4171368974,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 4544.4,
+    "high": 4610,
+    "low": 4488.95,
+    "close": 4570.05,
+    "volume": 2402084568,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 4575.8,
+    "high": 4582,
+    "low": 4500.5,
+    "close": 4549.8,
+    "volume": 1290477454,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 4539.95,
+    "high": 4663,
+    "low": 4505,
+    "close": 4550,
+    "volume": 1592059577,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 4567,
+    "high": 4578.7,
+    "low": 4474.45,
+    "close": 4525,
+    "volume": 1402902131,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 4558.85,
+    "high": 4690,
+    "low": 4555,
+    "close": 4667,
+    "volume": 1466605896,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 4678,
+    "high": 4767.3,
+    "low": 4671.3,
+    "close": 4685,
+    "volume": 1748078256,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 4686,
+    "high": 4759.9,
+    "low": 4680,
+    "close": 4725,
+    "volume": 1217887283,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 4745,
+    "high": 4759,
+    "low": 4685,
+    "close": 4715,
+    "volume": 867571676,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 4725,
+    "high": 4849.9,
+    "low": 4563.6,
+    "close": 4749,
+    "volume": 4596577191,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 4825,
+    "high": 5201,
+    "low": 4825,
+    "close": 5188,
+    "volume": 7840883063,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 5188,
+    "high": 5230,
+    "low": 5035.05,
+    "close": 5085,
+    "volume": 2587977344,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 5114.6,
+    "high": 5188,
+    "low": 5090.05,
+    "close": 5150,
+    "volume": 1063779861,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 5187.55,
+    "high": 5213.5,
+    "low": 4933.55,
+    "close": 4988.9,
+    "volume": 2512206203,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 4860.1,
+    "high": 4873,
+    "low": 4642.25,
+    "close": 4731.9,
+    "volume": 35337200520,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 4764,
+    "high": 4844,
+    "low": 4740,
+    "close": 4741.4,
+    "volume": 3842700825,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 4780,
+    "high": 4840,
+    "low": 4762,
+    "close": 4789.9,
+    "volume": 1937325767,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 4780,
+    "high": 4834.1,
+    "low": 4749.15,
+    "close": 4814,
+    "volume": 1439857070,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 4824,
+    "high": 4906.85,
+    "low": 4760,
+    "close": 4823.95,
+    "volume": 2319915671,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 4830,
+    "high": 4864,
+    "low": 4664.15,
+    "close": 4700,
+    "volume": 2059040530,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 4730,
+    "high": 4856.95,
+    "low": 4720.05,
+    "close": 4841,
+    "volume": 1810345073,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 4850,
+    "high": 4881.8,
+    "low": 4789.95,
+    "close": 4806.3,
+    "volume": 1624153806,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 4840,
+    "high": 4850,
+    "low": 4753.1,
+    "close": 4796,
+    "volume": 1218376761,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 4795.9,
+    "high": 4948,
+    "low": 4786.95,
+    "close": 4887.3,
+    "volume": 2711985263,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 4908.85,
+    "high": 5055,
+    "low": 4872.3,
+    "close": 4980,
+    "volume": 3783667971,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 4948,
+    "high": 5025,
+    "low": 4805.85,
+    "close": 4884.95,
+    "volume": 2186377958,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 4936.9,
+    "high": 5068,
+    "low": 4901.65,
+    "close": 4981,
+    "volume": 2330019123,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 5012.75,
+    "high": 5049.9,
+    "low": 4815.55,
+    "close": 4927.55,
+    "volume": 1546189372,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 4970,
+    "high": 5249.8,
+    "low": 4962,
+    "close": 5000,
+    "volume": 7232128691,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 5000,
+    "high": 5125,
+    "low": 4915,
+    "close": 4992,
+    "volume": 2556276843,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 4995.1,
+    "high": 5128.55,
+    "low": 4947.25,
+    "close": 5080,
+    "volume": 2435751912,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 5125.9,
+    "high": 5154.35,
+    "low": 5081.6,
+    "close": 5117.15,
+    "volume": 1295360433,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 5146.55,
+    "high": 5336.6,
+    "low": 5121.5,
+    "close": 5210,
+    "volume": 3400830542,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 5201.1,
+    "high": 5246.3,
+    "low": 5143.25,
+    "close": 5160,
+    "volume": 1034366920,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 5184,
+    "high": 5199.9,
+    "low": 5036.25,
+    "close": 5150,
+    "volume": 1958804345,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 5185,
+    "high": 5312.95,
+    "low": 5130.8,
+    "close": 5234.05,
+    "volume": 3260714041,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 5268,
+    "high": 5302,
+    "low": 5242,
+    "close": 5269.65,
+    "volume": 1650251947,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 5297,
+    "high": 5312.7,
+    "low": 5160,
+    "close": 5166,
+    "volume": 1188715242,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 5199.95,
+    "high": 5214.4,
+    "low": 5082.05,
+    "close": 5140.05,
+    "volume": 1575081809,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 5155.45,
+    "high": 5183.6,
+    "low": 5083,
+    "close": 5111,
+    "volume": 1150222170,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 5120,
+    "high": 5226,
+    "low": 5100,
+    "close": 5184.7,
+    "volume": 2009887181,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 5205,
+    "high": 5339.65,
+    "low": 5170,
+    "close": 5294,
+    "volume": 2086831125,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 5319,
+    "high": 5407.85,
+    "low": 5265.35,
+    "close": 5375,
+    "volume": 2379750541,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 5425.6,
+    "high": 5518.9,
+    "low": 5380.1,
+    "close": 5471.45,
+    "volume": 3588387137,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 5485,
+    "high": 5525,
+    "low": 5405,
+    "close": 5438.1,
+    "volume": 1641502425,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 5444,
+    "high": 5544.65,
+    "low": 5326,
+    "close": 5354,
+    "volume": 1704080450,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 5372,
+    "high": 5557.75,
+    "low": 5314.95,
+    "close": 5538,
+    "volume": 2157324893,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 5570,
+    "high": 5649,
+    "low": 5500.35,
+    "close": 5590,
+    "volume": 1944201978,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 5620.5,
+    "high": 5674.65,
+    "low": 5558.25,
+    "close": 5650,
+    "volume": 1237421093,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 5710.45,
+    "high": 5832.95,
+    "low": 5580.25,
+    "close": 5645.2,
+    "volume": 2668861520,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 5690,
+    "high": 5695.1,
+    "low": 5301.35,
+    "close": 5430.65,
+    "volume": 3369379964,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 5460,
+    "high": 5460.4,
+    "low": 5150,
+    "close": 5210.2,
+    "volume": 2744185593,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 5175,
+    "high": 5299.9,
+    "low": 5001,
+    "close": 5272.5,
+    "volume": 3004665374,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 5300,
+    "high": 5321.8,
+    "low": 5204.05,
+    "close": 5244.95,
+    "volume": 1870012226,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 5209,
+    "high": 5325,
+    "low": 5175.05,
+    "close": 5277,
+    "volume": 1390724397,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 5298.6,
+    "high": 5368,
+    "low": 5251,
+    "close": 5346,
+    "volume": 1004810128,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 5320,
+    "high": 5411.35,
+    "low": 5243.05,
+    "close": 5390,
+    "volume": 1367232272,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 5425.65,
+    "high": 5459.95,
+    "low": 5276.35,
+    "close": 5301,
+    "volume": 1636931820,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 5347.95,
+    "high": 5499,
+    "low": 5333.05,
+    "close": 5448,
+    "volume": 1267642278,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 5469.8,
+    "high": 5730,
+    "low": 5435,
+    "close": 5650.15,
+    "volume": 3200442553,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 5600,
+    "high": 5600,
+    "low": 5159.35,
+    "close": 5375,
+    "volume": 2702053097,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 5378.5,
+    "high": 5413.95,
+    "low": 5215,
+    "close": 5289,
+    "volume": 2002886903,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 5315,
+    "high": 5350,
+    "low": 5285,
+    "close": 5340,
+    "volume": 960003542,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 5420,
+    "high": 5790,
+    "low": 5420,
+    "close": 5590,
+    "volume": 4547283033,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 5662.8,
+    "high": 5691.95,
+    "low": 5511.6,
+    "close": 5625,
+    "volume": 1756241475,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 5650,
+    "high": 5990,
+    "low": 5640.05,
+    "close": 5830,
+    "volume": 5478999515,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 5864.7,
+    "high": 6030,
+    "low": 5680,
+    "close": 5846,
+    "volume": 3234749157,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 5840,
+    "high": 5849.3,
+    "low": 5403.9,
+    "close": 5509,
+    "volume": 3134931840,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 5509.6,
+    "high": 5565,
+    "low": 5335.4,
+    "close": 5390,
+    "volume": 2273871366,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 5310,
+    "high": 5345,
+    "low": 4726.6,
+    "close": 5065.65,
+    "volume": 5771733742,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 5118,
+    "high": 5207.95,
+    "low": 4962.05,
+    "close": 5086,
+    "volume": 2485133760,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 5113.45,
+    "high": 5144.4,
+    "low": 4983.15,
+    "close": 5039.95,
+    "volume": 2153529379,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 5064,
+    "high": 5128.25,
+    "low": 4950.1,
+    "close": 4990.1,
+    "volume": 2244111568,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 4976,
+    "high": 5033,
+    "low": 4834.1,
+    "close": 4855.8,
+    "volume": 2218861841,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 4930,
+    "high": 5099.95,
+    "low": 4890,
+    "close": 5091.45,
+    "volume": 2410326849,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 5121,
+    "high": 5150.7,
+    "low": 5019.45,
+    "close": 5046,
+    "volume": 1396333388,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 5054.8,
+    "high": 5093,
+    "low": 5009,
+    "close": 5062.2,
+    "volume": 981701954,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 5085,
+    "high": 5108.25,
+    "low": 5065.3,
+    "close": 5082,
+    "volume": 109953850,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 5100,
+    "high": 5288,
+    "low": 5025,
+    "close": 5280,
+    "volume": 2108771412,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 5270,
+    "high": 5413.95,
+    "low": 5211.1,
+    "close": 5399,
+    "volume": 2008668477,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 5375,
+    "high": 5375,
+    "low": 5287.9,
+    "close": 5340,
+    "volume": 1253963106,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 5335.1,
+    "high": 5404.85,
+    "low": 5257.65,
+    "close": 5394,
+    "volume": 1099341207,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 5431,
+    "high": 5470,
+    "low": 5369.85,
+    "close": 5426,
+    "volume": 1327676421,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 5410.35,
+    "high": 5518.45,
+    "low": 5396.15,
+    "close": 5482.2,
+    "volume": 1368059191,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 5600,
+    "high": 5874,
+    "low": 5572,
+    "close": 5745,
+    "volume": 9443261457,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 5755.05,
+    "high": 5937.55,
+    "low": 5682,
+    "close": 5826.6,
+    "volume": 4004114990,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 5850,
+    "high": 5857.6,
+    "low": 5508,
+    "close": 5574.4,
+    "volume": 3385299236,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 5608.1,
+    "high": 5608.1,
+    "low": 5319.05,
+    "close": 5410,
+    "volume": 1428014447,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 5365,
+    "high": 5504.65,
+    "low": 5242.3,
+    "close": 5450,
+    "volume": 1583952724,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 5483.2,
+    "high": 5497.7,
+    "low": 5322,
+    "close": 5400,
+    "volume": 1727955800,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 5398,
+    "high": 5535,
+    "low": 5351,
+    "close": 5518,
+    "volume": 1132226021,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 5489,
+    "high": 5530,
+    "low": 5202,
+    "close": 5311,
+    "volume": 2345761694,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 5200,
+    "high": 5359.15,
+    "low": 5033.1,
+    "close": 5269.65,
+    "volume": 1312345774,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 5348,
+    "high": 5470,
+    "low": 5286.1,
+    "close": 5365,
+    "volume": 2016674838,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 5399.35,
+    "high": 5454.3,
+    "low": 5308.1,
+    "close": 5401,
+    "volume": 1863605294,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 5418.8,
+    "high": 5438,
+    "low": 5312.1,
+    "close": 5418,
+    "volume": 2446053439,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 5436.9,
+    "high": 5479.45,
+    "low": 5332,
+    "close": 5332.3,
+    "volume": 1133729581,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 5330,
+    "high": 5370,
+    "low": 5101.1,
+    "close": 5123,
+    "volume": 1301919797,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 5198.7,
+    "high": 5290,
+    "low": 5001,
+    "close": 5275,
+    "volume": 2503111719,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 5300,
+    "high": 5342.5,
+    "low": 5223,
+    "close": 5254,
+    "volume": 1295056803,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 5293.95,
+    "high": 5300.5,
+    "low": 5212.5,
+    "close": 5259,
+    "volume": 679100589,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 5240,
+    "high": 5338.75,
+    "low": 5220,
+    "close": 5314.95,
+    "volume": 915511299,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 5350,
+    "high": 5587,
+    "low": 5326.55,
+    "close": 5471,
+    "volume": 2208439670,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 5338.8,
+    "high": 5496.25,
+    "low": 5338.8,
+    "close": 5443,
+    "volume": 1270403794,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 5443,
+    "high": 5474,
+    "low": 5300,
+    "close": 5306.05,
+    "volume": 1167401548,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 5375,
+    "high": 5455,
+    "low": 5315.85,
+    "close": 5364.3,
+    "volume": 1597824633,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 5427,
+    "high": 5498.5,
+    "low": 5346,
+    "close": 5379.8,
+    "volume": 1953568353,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 5345,
+    "high": 5345,
+    "low": 5060,
+    "close": 5175.8,
+    "volume": 1668201687,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 5245,
+    "high": 5430,
+    "low": 5212.4,
+    "close": 5400,
+    "volume": 1767575210,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 5429,
+    "high": 5525,
+    "low": 5400,
+    "close": 5465.4,
+    "volume": 1883641585,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 5500,
+    "high": 5570,
+    "low": 5435.25,
+    "close": 5449.65,
+    "volume": 1124209857,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 5468,
+    "high": 5668.75,
+    "low": 5461.35,
+    "close": 5638.5,
+    "volume": 2887409882,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 5657,
+    "high": 5674.65,
+    "low": 5549.4,
+    "close": 5621,
+    "volume": 1651089594,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 5657,
+    "high": 5732.95,
+    "low": 5623.9,
+    "close": 5646.95,
+    "volume": 1541253881,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 5635,
+    "high": 5695,
+    "low": 5605,
+    "close": 5633.1,
+    "volume": 909744155,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 5640.1,
+    "high": 5910,
+    "low": 5629,
+    "close": 5890,
+    "volume": 3152294213,
+    "symbol": "COFORGE"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 5890,
+    "high": 5923.45,
+    "low": 5820.6,
+    "close": 5870,
+    "volume": 1624010921,
+    "symbol": "COFORGE"
+  }
+]

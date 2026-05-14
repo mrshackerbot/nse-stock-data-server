@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 73.9,
+    "high": 74.45,
+    "low": 73.4,
+    "close": 74,
+    "volume": 31431421,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 74,
+    "high": 75.5,
+    "low": 73.2,
+    "close": 73.8,
+    "volume": 63840320,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 73.75,
+    "high": 75.1,
+    "low": 73.3,
+    "close": 74.1,
+    "volume": 47754030,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 73.7,
+    "high": 77,
+    "low": 73.1,
+    "close": 76.7,
+    "volume": 124627754,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 78.5,
+    "high": 78.5,
+    "low": 74.35,
+    "close": 74.75,
+    "volume": 138363837,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 74.75,
+    "high": 81.9,
+    "low": 74.5,
+    "close": 80.35,
+    "volume": 406778938,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 81.5,
+    "high": 88.8,
+    "low": 78.8,
+    "close": 86,
+    "volume": 1520127926,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 87,
+    "high": 88.8,
+    "low": 83.1,
+    "close": 86.05,
+    "volume": 385904827,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 85.95,
+    "high": 94.6,
+    "low": 84.4,
+    "close": 92.7,
+    "volume": 1334092140,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 92.3,
+    "high": 111.75,
+    "low": 91.55,
+    "close": 111.75,
+    "volume": 3601518652,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 109.65,
+    "high": 115.5,
+    "low": 104.55,
+    "close": 108.85,
+    "volume": 2180685608,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 109.95,
+    "high": 109.95,
+    "low": 100.4,
+    "close": 101.5,
+    "volume": 576230790,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 100.3,
+    "high": 106.3,
+    "low": 100.3,
+    "close": 104.9,
+    "volume": 414842419,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 104,
+    "high": 113,
+    "low": 102.3,
+    "close": 110.7,
+    "volume": 773562867,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 109,
+    "high": 111.8,
+    "low": 105,
+    "close": 107.95,
+    "volume": 382454326,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 107.8,
+    "high": 107.8,
+    "low": 96,
+    "close": 96,
+    "volume": 274458792,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 94,
+    "high": 104.2,
+    "low": 92.3,
+    "close": 100.7,
+    "volume": 321890908,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 99.6,
+    "high": 110.7,
+    "low": 97.05,
+    "close": 110.7,
+    "volume": 530984744,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 116,
+    "high": 121.75,
+    "low": 115,
+    "close": 119.7,
+    "volume": 822611063,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 121.9,
+    "high": 122.9,
+    "low": 110.5,
+    "close": 113.6,
+    "volume": 650320228,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 115.9,
+    "high": 117.8,
+    "low": 110.7,
+    "close": 113.8,
+    "volume": 284328108,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 113.95,
+    "high": 120.7,
+    "low": 113.95,
+    "close": 117.05,
+    "volume": 291591015,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 118,
+    "high": 125.35,
+    "low": 115.5,
+    "close": 122.45,
+    "volume": 628203078,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 125,
+    "high": 134.95,
+    "low": 122.45,
+    "close": 134.95,
+    "volume": 959025457,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 136.7,
+    "high": 141.9,
+    "low": 131.65,
+    "close": 134,
+    "volume": 1234419247,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 134.95,
+    "high": 136.45,
+    "low": 122.7,
+    "close": 132.5,
+    "volume": 1017404995,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 133.8,
+    "high": 135.7,
+    "low": 129.25,
+    "close": 134.6,
+    "volume": 469321234,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 135.3,
+    "high": 143,
+    "low": 134.7,
+    "close": 139.3,
+    "volume": 1025533163,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 138,
+    "high": 138.95,
+    "low": 131,
+    "close": 132.5,
+    "volume": 405918631,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 125.8,
+    "high": 129.85,
+    "low": 121.75,
+    "close": 122.6,
+    "volume": 401029974,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 123.5,
+    "high": 140.9,
+    "low": 122,
+    "close": 138.4,
+    "volume": 814715610,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 140.55,
+    "high": 152.1,
+    "low": 139.75,
+    "close": 141.4,
+    "volume": 2669736206,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 143.2,
+    "high": 146.65,
+    "low": 138.15,
+    "close": 139.5,
+    "volume": 738426402,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 139.85,
+    "high": 142.55,
+    "low": 134.25,
+    "close": 135.9,
+    "volume": 465831054,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 137.5,
+    "high": 142.9,
+    "low": 132.2,
+    "close": 135.95,
+    "volume": 1019658025,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 127.1,
+    "high": 134.55,
+    "low": 127.1,
+    "close": 128.6,
+    "volume": 656837911,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 131.8,
+    "high": 142,
+    "low": 131.45,
+    "close": 139.2,
+    "volume": 1239218297,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 130.5,
+    "high": 136,
+    "low": 125,
+    "close": 126.55,
+    "volume": 1154885072,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 134.2,
+    "high": 137.6,
+    "low": 131.05,
+    "close": 134.5,
+    "volume": 600002648,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 133.5,
+    "high": 134.7,
+    "low": 130.1,
+    "close": 132.45,
+    "volume": 472864134,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 132.5,
+    "high": 139.5,
+    "low": 131,
+    "close": 137.65,
+    "volume": 575589068,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 140.25,
+    "high": 162,
+    "low": 140.25,
+    "close": 156.2,
+    "volume": 4634468249,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 157.7,
+    "high": 168.95,
+    "low": 150.25,
+    "close": 161.65,
+    "volume": 4766715790,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 161.75,
+    "high": 172.8,
+    "low": 159,
+    "close": 167.7,
+    "volume": 3539505732,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 166,
+    "high": 174.25,
+    "low": 158.1,
+    "close": 158.75,
+    "volume": 1407366108,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 161,
+    "high": 171.5,
+    "low": 159.35,
+    "close": 164.25,
+    "volume": 1569744705,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 165,
+    "high": 171.75,
+    "low": 163.05,
+    "close": 166.35,
+    "volume": 927361779,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 165,
+    "high": 170.2,
+    "low": 165,
+    "close": 167.3,
+    "volume": 523168069,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 168,
+    "high": 175.8,
+    "low": 165.5,
+    "close": 171.35,
+    "volume": 1089717342,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 171.45,
+    "high": 173.25,
+    "low": 163.25,
+    "close": 165.95,
+    "volume": 538385232,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 168,
+    "high": 171.5,
+    "low": 162.05,
+    "close": 163,
+    "volume": 512189469,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 165.75,
+    "high": 167.65,
+    "low": 162.75,
+    "close": 163.85,
+    "volume": 294080866,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 165.45,
+    "high": 168.45,
+    "low": 162.25,
+    "close": 164,
+    "volume": 440737117,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 164,
+    "high": 169.9,
+    "low": 161.1,
+    "close": 162.2,
+    "volume": 515126504,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 163.75,
+    "high": 167.5,
+    "low": 160.1,
+    "close": 161.85,
+    "volume": 445879310,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 167,
+    "high": 179.85,
+    "low": 161.85,
+    "close": 177.9,
+    "volume": 2395892995,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 180,
+    "high": 192.3,
+    "low": 180,
+    "close": 188.4,
+    "volume": 3754555721,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 190.15,
+    "high": 196.2,
+    "low": 182.25,
+    "close": 190.9,
+    "volume": 1996852470,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 192.35,
+    "high": 197.8,
+    "low": 187.6,
+    "close": 189.6,
+    "volume": 1410962396,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 191.65,
+    "high": 195,
+    "low": 189.2,
+    "close": 189.7,
+    "volume": 841628300,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 191.6,
+    "high": 194.25,
+    "low": 188.1,
+    "close": 190.45,
+    "volume": 447328427,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 190.85,
+    "high": 198.75,
+    "low": 189.5,
+    "close": 192,
+    "volume": 1001274492,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 193.25,
+    "high": 203,
+    "low": 192.65,
+    "close": 202.4,
+    "volume": 1181225945,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 204.6,
+    "high": 213.7,
+    "low": 203.55,
+    "close": 209,
+    "volume": 2402476115,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 209.1,
+    "high": 218.8,
+    "low": 208.1,
+    "close": 215.8,
+    "volume": 1286738856,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 216.05,
+    "high": 228.4,
+    "low": 207.6,
+    "close": 216.6,
+    "volume": 2328407067,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 216.4,
+    "high": 222.25,
+    "low": 214.1,
+    "close": 218,
+    "volume": 1011145477,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 219.25,
+    "high": 220.4,
+    "low": 206.7,
+    "close": 210.7,
+    "volume": 903355048,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 210.25,
+    "high": 210.7,
+    "low": 202.25,
+    "close": 208.9,
+    "volume": 613675959,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 208.2,
+    "high": 211.95,
+    "low": 205.35,
+    "close": 207,
+    "volume": 574510311,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 206.4,
+    "high": 206.4,
+    "low": 193.25,
+    "close": 195.6,
+    "volume": 653089885,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 196.6,
+    "high": 214.7,
+    "low": 196.3,
+    "close": 203.2,
+    "volume": 2001521621,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 208.2,
+    "high": 212.95,
+    "low": 198.1,
+    "close": 202.55,
+    "volume": 711165170,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 202.8,
+    "high": 208.7,
+    "low": 202.05,
+    "close": 203.3,
+    "volume": 555876486,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 203,
+    "high": 207,
+    "low": 200,
+    "close": 202.6,
+    "volume": 541539304,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 200.15,
+    "high": 211.75,
+    "low": 198.05,
+    "close": 201.45,
+    "volume": 1392993413,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 212,
+    "high": 218,
+    "low": 198.85,
+    "close": 200.95,
+    "volume": 2674741218,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 202.2,
+    "high": 204.2,
+    "low": 191.3,
+    "close": 194.85,
+    "volume": 893245455,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 196.95,
+    "high": 198.95,
+    "low": 184.5,
+    "close": 188.8,
+    "volume": 859710677,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 189,
+    "high": 193.5,
+    "low": 184.6,
+    "close": 185.65,
+    "volume": 802144849,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 179.5,
+    "high": 181,
+    "low": 171,
+    "close": 171.6,
+    "volume": 828129421,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 172.4,
+    "high": 191.65,
+    "low": 171.4,
+    "close": 189.5,
+    "volume": 2231114467,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 191.95,
+    "high": 203.4,
+    "low": 189.45,
+    "close": 202.95,
+    "volume": 1972081039,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 195.55,
+    "high": 197.4,
+    "low": 188.05,
+    "close": 189.5,
+    "volume": 953577965,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 186.9,
+    "high": 187.5,
+    "low": 173,
+    "close": 174.6,
+    "volume": 702613909,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 174.5,
+    "high": 185.8,
+    "low": 166.9,
+    "close": 169.4,
+    "volume": 1251196265,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 173.5,
+    "high": 180.35,
+    "low": 163.7,
+    "close": 174.1,
+    "volume": 1235489092,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 173.6,
+    "high": 186.6,
+    "low": 172.95,
+    "close": 182.3,
+    "volume": 1086072332,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 186.55,
+    "high": 187.3,
+    "low": 172.3,
+    "close": 174.5,
+    "volume": 677759331,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 176.75,
+    "high": 177.5,
+    "low": 167.05,
+    "close": 168.8,
+    "volume": 469858777,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 170.75,
+    "high": 180.95,
+    "low": 169,
+    "close": 179.7,
+    "volume": 862191595,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 180.6,
+    "high": 183.7,
+    "low": 177.15,
+    "close": 180.95,
+    "volume": 586907544,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 177,
+    "high": 177,
+    "low": 165.25,
+    "close": 170.2,
+    "volume": 547582595,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 173,
+    "high": 177.2,
+    "low": 172.4,
+    "close": 174.1,
+    "volume": 408240881,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 171.8,
+    "high": 173.85,
+    "low": 167.1,
+    "close": 167.6,
+    "volume": 337241172,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 169.7,
+    "high": 171.7,
+    "low": 162,
+    "close": 162.7,
+    "volume": 332262080,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 161.55,
+    "high": 164.45,
+    "low": 130.5,
+    "close": 132.1,
+    "volume": 1990966354,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 135,
+    "high": 137.85,
+    "low": 122.6,
+    "close": 134.1,
+    "volume": 2188414904,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 135.5,
+    "high": 143.7,
+    "low": 133,
+    "close": 141.8,
+    "volume": 984474934,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 143.35,
+    "high": 146.2,
+    "low": 138.75,
+    "close": 142.8,
+    "volume": 780662647,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 141.95,
+    "high": 156.55,
+    "low": 140.4,
+    "close": 156.2,
+    "volume": 1371459473,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 155,
+    "high": 161.35,
+    "low": 148.8,
+    "close": 152.8,
+    "volume": 847413612,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 154,
+    "high": 155,
+    "low": 150.6,
+    "close": 153.6,
+    "volume": 366635245,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 154.85,
+    "high": 156,
+    "low": 148.1,
+    "close": 149,
+    "volume": 244367062,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 147.35,
+    "high": 150.95,
+    "low": 144.1,
+    "close": 149.4,
+    "volume": 339599499,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 148.95,
+    "high": 151.8,
+    "low": 147.2,
+    "close": 148.1,
+    "volume": 217454476,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 149.75,
+    "high": 152.2,
+    "low": 143.1,
+    "close": 144.1,
+    "volume": 265893468,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 142.95,
+    "high": 148,
+    "low": 140.6,
+    "close": 146.25,
+    "volume": 243894203,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 143,
+    "high": 145.4,
+    "low": 141.2,
+    "close": 141.5,
+    "volume": 169630494,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 137.05,
+    "high": 139,
+    "low": 133.05,
+    "close": 134,
+    "volume": 197738752,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 132.2,
+    "high": 142.65,
+    "low": 132.2,
+    "close": 140.9,
+    "volume": 454848486,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 142.85,
+    "high": 144.95,
+    "low": 140.05,
+    "close": 143.1,
+    "volume": 211266031,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 146.35,
+    "high": 149.55,
+    "low": 136.65,
+    "close": 137.3,
+    "volume": 460820552,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 138.65,
+    "high": 139.85,
+    "low": 133,
+    "close": 133.95,
+    "volume": 249356676,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 135.35,
+    "high": 135.7,
+    "low": 121.05,
+    "close": 125,
+    "volume": 314200905,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 126.5,
+    "high": 138.9,
+    "low": 126.5,
+    "close": 136.7,
+    "volume": 389621154,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 136.7,
+    "high": 136.7,
+    "low": 130.7,
+    "close": 131.7,
+    "volume": 198744397,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 132.6,
+    "high": 137.4,
+    "low": 131.75,
+    "close": 135.1,
+    "volume": 322616519,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 135.8,
+    "high": 137.75,
+    "low": 132,
+    "close": 132.7,
+    "volume": 218738364,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 135.65,
+    "high": 137.15,
+    "low": 133.6,
+    "close": 134.85,
+    "volume": 209103298,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 134.5,
+    "high": 138.7,
+    "low": 132.25,
+    "close": 136.15,
+    "volume": 209762320,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 134.5,
+    "high": 143.4,
+    "low": 133.7,
+    "close": 139.8,
+    "volume": 432793701,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 140.85,
+    "high": 142.2,
+    "low": 134,
+    "close": 134.4,
+    "volume": 165160855,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 135.75,
+    "high": 135.75,
+    "low": 130.5,
+    "close": 131.9,
+    "volume": 153360038,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 132.9,
+    "high": 138.9,
+    "low": 132.5,
+    "close": 138,
+    "volume": 246786765,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 138.5,
+    "high": 141.75,
+    "low": 137.2,
+    "close": 138.9,
+    "volume": 206284443,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 137.6,
+    "high": 142.75,
+    "low": 134.2,
+    "close": 141.9,
+    "volume": 222571166,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 142.8,
+    "high": 148.75,
+    "low": 141.9,
+    "close": 147.3,
+    "volume": 324711260,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 148.05,
+    "high": 148.3,
+    "low": 141.65,
+    "close": 142.35,
+    "volume": 169039728,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 140.6,
+    "high": 149.25,
+    "low": 139.6,
+    "close": 148,
+    "volume": 356671879,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 146.65,
+    "high": 150.5,
+    "low": 145.4,
+    "close": 146.5,
+    "volume": 270609793,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 147.75,
+    "high": 147.75,
+    "low": 142.8,
+    "close": 143.9,
+    "volume": 156127359,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 144.6,
+    "high": 145.15,
+    "low": 139.6,
+    "close": 141.25,
+    "volume": 192091643,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 142.4,
+    "high": 143.8,
+    "low": 138.5,
+    "close": 138.95,
+    "volume": 124043091,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 140.8,
+    "high": 148.7,
+    "low": 138.6,
+    "close": 147.8,
+    "volume": 307698071,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 147.95,
+    "high": 154.95,
+    "low": 146,
+    "close": 154.2,
+    "volume": 453092775,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 155.25,
+    "high": 157.45,
+    "low": 151.1,
+    "close": 152.6,
+    "volume": 399221129,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 153.35,
+    "high": 153.5,
+    "low": 149.5,
+    "close": 151.5,
+    "volume": 168091225,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 152.25,
+    "high": 154.45,
+    "low": 150.1,
+    "close": 152.95,
+    "volume": 167594247,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 153.5,
+    "high": 160.7,
+    "low": 150.6,
+    "close": 158.4,
+    "volume": 413534430,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 160,
+    "high": 161.55,
+    "low": 154.4,
+    "close": 155.2,
+    "volume": 376487477,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 155.95,
+    "high": 159.4,
+    "low": 152.25,
+    "close": 157.8,
+    "volume": 242973678,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 158.8,
+    "high": 159.8,
+    "low": 155.9,
+    "close": 158.4,
+    "volume": 164645495,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 159.6,
+    "high": 166.3,
+    "low": 158.45,
+    "close": 160.2,
+    "volume": 372635411,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 161.1,
+    "high": 171.7,
+    "low": 160.5,
+    "close": 170,
+    "volume": 470609029,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 170,
+    "high": 177.9,
+    "low": 168.05,
+    "close": 176.4,
+    "volume": 473813707,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 177.75,
+    "high": 179.25,
+    "low": 171.05,
+    "close": 173,
+    "volume": 383897831,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 173.6,
+    "high": 174.6,
+    "low": 166.3,
+    "close": 167.55,
+    "volume": 301031420,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 168.85,
+    "high": 169.8,
+    "low": 160.25,
+    "close": 161.9,
+    "volume": 258419929,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 162.35,
+    "high": 167.3,
+    "low": 162.05,
+    "close": 165.7,
+    "volume": 244220430,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 166.55,
+    "high": 176.75,
+    "low": 165,
+    "close": 170.8,
+    "volume": 543639035,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 171.5,
+    "high": 175.2,
+    "low": 170,
+    "close": 173,
+    "volume": 244525710,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 173.85,
+    "high": 186.75,
+    "low": 171.4,
+    "close": 179.8,
+    "volume": 2046584860,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 183,
+    "high": 185.95,
+    "low": 178.2,
+    "close": 179.5,
+    "volume": 654419597,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 180.65,
+    "high": 180.65,
+    "low": 175,
+    "close": 175.9,
+    "volume": 342306920,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 176.45,
+    "high": 178.3,
+    "low": 173.1,
+    "close": 176,
+    "volume": 302424363,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 177.1,
+    "high": 184.6,
+    "low": 175,
+    "close": 181.5,
+    "volume": 762744445,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 181.5,
+    "high": 183.5,
+    "low": 171.1,
+    "close": 172.5,
+    "volume": 522534468,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 171,
+    "high": 175.4,
+    "low": 169.3,
+    "close": 172.95,
+    "volume": 334820542,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 172.95,
+    "high": 179.15,
+    "low": 172.4,
+    "close": 173.5,
+    "volume": 343776514,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 174.45,
+    "high": 175.85,
+    "low": 168.2,
+    "close": 169,
+    "volume": 241609861,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 170.5,
+    "high": 171.6,
+    "low": 166,
+    "close": 166.75,
+    "volume": 287069242,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 163.5,
+    "high": 169.95,
+    "low": 162,
+    "close": 167.1,
+    "volume": 223233744,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 168.2,
+    "high": 170.5,
+    "low": 165.45,
+    "close": 166.1,
+    "volume": 193504754,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 165,
+    "high": 173.3,
+    "low": 165,
+    "close": 166,
+    "volume": 378196930,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 167.6,
+    "high": 169.35,
+    "low": 163.55,
+    "close": 164.85,
+    "volume": 186898276,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 165.6,
+    "high": 169.9,
+    "low": 162.5,
+    "close": 164,
+    "volume": 269051203,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 164.85,
+    "high": 177,
+    "low": 164.55,
+    "close": 175,
+    "volume": 928655787,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 173.95,
+    "high": 178.6,
+    "low": 173,
+    "close": 176.6,
+    "volume": 465977288,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 177,
+    "high": 177.9,
+    "low": 171,
+    "close": 171.8,
+    "volume": 269183713,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 172.75,
+    "high": 172.8,
+    "low": 167.15,
+    "close": 167.9,
+    "volume": 345644860,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 168.2,
+    "high": 170.4,
+    "low": 166.3,
+    "close": 167.25,
+    "volume": 204257095,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 167.1,
+    "high": 169.2,
+    "low": 164.35,
+    "close": 165.35,
+    "volume": 232729573,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 163.4,
+    "high": 166.25,
+    "low": 160.25,
+    "close": 161.35,
+    "volume": 313387693,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 160,
+    "high": 160.95,
+    "low": 152.35,
+    "close": 155.1,
+    "volume": 594190458,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 153.4,
+    "high": 153.85,
+    "low": 150.15,
+    "close": 151.4,
+    "volume": 238070664,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 151.65,
+    "high": 153.65,
+    "low": 147.5,
+    "close": 149.3,
+    "volume": 233323563,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 150,
+    "high": 153.8,
+    "low": 148,
+    "close": 149.85,
+    "volume": 236685331,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 150.8,
+    "high": 154.45,
+    "low": 150,
+    "close": 151.65,
+    "volume": 237551822,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 149.9,
+    "high": 150.9,
+    "low": 146.25,
+    "close": 147.95,
+    "volume": 165609640,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 148.65,
+    "high": 150.1,
+    "low": 145,
+    "close": 145.4,
+    "volume": 117447808,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 144,
+    "high": 145.05,
+    "low": 136.1,
+    "close": 137,
+    "volume": 170732176,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 138.45,
+    "high": 142,
+    "low": 136.1,
+    "close": 139.4,
+    "volume": 132981212,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 138,
+    "high": 143,
+    "low": 136.25,
+    "close": 137,
+    "volume": 150718050,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 140.25,
+    "high": 141.65,
+    "low": 132.3,
+    "close": 133.4,
+    "volume": 210191512,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 134,
+    "high": 137.45,
+    "low": 130.65,
+    "close": 136,
+    "volume": 183755331,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 136,
+    "high": 139.6,
+    "low": 133.4,
+    "close": 135,
+    "volume": 162350211,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 138,
+    "high": 139.8,
+    "low": 137.5,
+    "close": 139.15,
+    "volume": 95028511,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 139.95,
+    "high": 143.95,
+    "low": 139.55,
+    "close": 143,
+    "volume": 239747011,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 143.5,
+    "high": 145.2,
+    "low": 141,
+    "close": 142.95,
+    "volume": 135174699,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 141.2,
+    "high": 143.85,
+    "low": 139.85,
+    "close": 142.9,
+    "volume": 117349009,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 143.1,
+    "high": 145.85,
+    "low": 139.5,
+    "close": 140.95,
+    "volume": 123028824,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 141.55,
+    "high": 142.25,
+    "low": 137.8,
+    "close": 140.45,
+    "volume": 70989893,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 140.9,
+    "high": 142.95,
+    "low": 138.9,
+    "close": 140,
+    "volume": 95496748,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 142.05,
+    "high": 143.45,
+    "low": 139.3,
+    "close": 140.55,
+    "volume": 91602584,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 139.4,
+    "high": 142.5,
+    "low": 137.75,
+    "close": 141.75,
+    "volume": 100808394,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 143.05,
+    "high": 148.9,
+    "low": 141.65,
+    "close": 142.9,
+    "volume": 564108021,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 143.05,
+    "high": 145.65,
+    "low": 141.3,
+    "close": 143.5,
+    "volume": 156239231,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 143.2,
+    "high": 143.2,
+    "low": 139.45,
+    "close": 140.5,
+    "volume": 108806267,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 141.1,
+    "high": 142.3,
+    "low": 136.65,
+    "close": 138.65,
+    "volume": 90879460,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 140.1,
+    "high": 141,
+    "low": 139.25,
+    "close": 139.55,
+    "volume": 27832603,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 139.9,
+    "high": 140.3,
+    "low": 138.25,
+    "close": 138.9,
+    "volume": 51845442,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 139.65,
+    "high": 141,
+    "low": 137.65,
+    "close": 139.3,
+    "volume": 80847876,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 139.35,
+    "high": 140.5,
+    "low": 136.5,
+    "close": 137,
+    "volume": 94787710,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 138,
+    "high": 143.9,
+    "low": 137.95,
+    "close": 141.6,
+    "volume": 234851791,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 143.9,
+    "high": 143.9,
+    "low": 139.9,
+    "close": 140.75,
+    "volume": 75640861,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 141.1,
+    "high": 143.5,
+    "low": 140.5,
+    "close": 142.7,
+    "volume": 112586022,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 142.05,
+    "high": 145.5,
+    "low": 141.6,
+    "close": 142.95,
+    "volume": 115923240,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 144,
+    "high": 152.15,
+    "low": 143.55,
+    "close": 151.8,
+    "volume": 583471621,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 152.7,
+    "high": 156.25,
+    "low": 150.7,
+    "close": 155.3,
+    "volume": 325800211,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 156.2,
+    "high": 156.8,
+    "low": 151.85,
+    "close": 153,
+    "volume": 166919147,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 151.5,
+    "high": 156.75,
+    "low": 150.9,
+    "close": 152.2,
+    "volume": 200057784,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 154.5,
+    "high": 155.2,
+    "low": 152.6,
+    "close": 154.75,
+    "volume": 116023308,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 153.55,
+    "high": 154.7,
+    "low": 151.15,
+    "close": 152,
+    "volume": 68150965,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 152,
+    "high": 152.7,
+    "low": 147,
+    "close": 147.6,
+    "volume": 82499386,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 147.7,
+    "high": 149.25,
+    "low": 144.15,
+    "close": 145.45,
+    "volume": 81956447,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 145.1,
+    "high": 146.2,
+    "low": 140,
+    "close": 141.7,
+    "volume": 138590965,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 142,
+    "high": 142.45,
+    "low": 139,
+    "close": 140,
+    "volume": 59725720,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 141,
+    "high": 144.7,
+    "low": 140.2,
+    "close": 143.1,
+    "volume": 94702114,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 143.45,
+    "high": 144.9,
+    "low": 141.25,
+    "close": 141.5,
+    "volume": 56641939,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 142.3,
+    "high": 143.7,
+    "low": 141.85,
+    "close": 142.8,
+    "volume": 53968367,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 143.45,
+    "high": 144.2,
+    "low": 141.5,
+    "close": 142.4,
+    "volume": 57775516,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 142.25,
+    "high": 146.75,
+    "low": 141.7,
+    "close": 144.7,
+    "volume": 105874406,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 144.95,
+    "high": 151.3,
+    "low": 143.55,
+    "close": 147.7,
+    "volume": 158388239,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 148.4,
+    "high": 153,
+    "low": 147.2,
+    "close": 149.6,
+    "volume": 240531550,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 150,
+    "high": 158.25,
+    "low": 150,
+    "close": 157.5,
+    "volume": 533441868,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 158.75,
+    "high": 159.85,
+    "low": 154.7,
+    "close": 156,
+    "volume": 245284376,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 157.8,
+    "high": 162,
+    "low": 156,
+    "close": 161.15,
+    "volume": 455703777,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 161.95,
+    "high": 163.45,
+    "low": 158.55,
+    "close": 160.3,
+    "volume": 159333169,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 160,
+    "high": 160.2,
+    "low": 156.25,
+    "close": 156.8,
+    "volume": 104774467,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 157.4,
+    "high": 158.85,
+    "low": 153.65,
+    "close": 157.05,
+    "volume": 167900493,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 157,
+    "high": 161,
+    "low": 156.65,
+    "close": 159,
+    "volume": 279070602,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 159.9,
+    "high": 160.5,
+    "low": 151.5,
+    "close": 153,
+    "volume": 159864444,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 153.2,
+    "high": 156.2,
+    "low": 152.05,
+    "close": 154.3,
+    "volume": 140094489,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 155.6,
+    "high": 156.7,
+    "low": 151.65,
+    "close": 152,
+    "volume": 138570178,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 153.8,
+    "high": 158.5,
+    "low": 153.25,
+    "close": 154.2,
+    "volume": 238172198,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 155,
+    "high": 158.15,
+    "low": 151.6,
+    "close": 152.4,
+    "volume": 213380030,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 153.85,
+    "high": 155.4,
+    "low": 151.65,
+    "close": 152,
+    "volume": 132056188,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 153.05,
+    "high": 153.55,
+    "low": 149.6,
+    "close": 150.8,
+    "volume": 92009260,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 150,
+    "high": 151.3,
+    "low": 148.1,
+    "close": 150.3,
+    "volume": 65020473,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 151.8,
+    "high": 152.7,
+    "low": 139.6,
+    "close": 141.3,
+    "volume": 222756352,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 142.05,
+    "high": 144,
+    "low": 135.5,
+    "close": 137.2,
+    "volume": 128006379,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 135,
+    "high": 135.6,
+    "low": 128,
+    "close": 129,
+    "volume": 198073665,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 129.1,
+    "high": 137.2,
+    "low": 129.1,
+    "close": 135.9,
+    "volume": 149450194,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 138.75,
+    "high": 141.25,
+    "low": 136.3,
+    "close": 139.8,
+    "volume": 152568492,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 140,
+    "high": 145.45,
+    "low": 140,
+    "close": 144.1,
+    "volume": 208242916,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 142.75,
+    "high": 146,
+    "low": 142.15,
+    "close": 145.5,
+    "volume": 89985774,
+    "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 148,
+    "high": 150.8,
+    "low": 145.6,
+    "close": 146.45,
+    "volume": 193388351,
+    "symbol": "GMDCLTD"
+  }
+]

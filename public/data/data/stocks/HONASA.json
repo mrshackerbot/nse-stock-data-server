@@ -1,0 +1,5609 @@
+[
+  {
+    "date": "07-Nov-2023",
+    "open": 330,
+    "high": 340.45,
+    "low": 321.1,
+    "close": 337.3,
+    "volume": 9989440255,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 337.65,
+    "high": 340,
+    "low": 320.75,
+    "close": 322.25,
+    "volume": 938478465,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 318.95,
+    "high": 320,
+    "low": 298.35,
+    "close": 299.95,
+    "volume": 997774224,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 290.35,
+    "high": 326,
+    "low": 256.3,
+    "close": 323.5,
+    "volume": 4048244233,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 324.5,
+    "high": 326,
+    "low": 318.4,
+    "close": 318.4,
+    "volume": 183618554,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 317,
+    "high": 329.7,
+    "low": 312.3,
+    "close": 315.9,
+    "volume": 525602024,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 324,
+    "high": 324,
+    "low": 309.05,
+    "close": 316,
+    "volume": 437506539,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 315,
+    "high": 335,
+    "low": 310.7,
+    "close": 332.15,
+    "volume": 1023387153,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 328.3,
+    "high": 342.2,
+    "low": 328,
+    "close": 332,
+    "volume": 803844631,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 334.95,
+    "high": 374.95,
+    "low": 334.95,
+    "close": 347.05,
+    "volume": 2626925123,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 349,
+    "high": 369.75,
+    "low": 345.75,
+    "close": 366,
+    "volume": 1030399300,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 369,
+    "high": 384,
+    "low": 331.2,
+    "close": 349,
+    "volume": 2010087119,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 387.95,
+    "high": 423.75,
+    "low": 371.4,
+    "close": 423.75,
+    "volume": 3975538762,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 456,
+    "high": 486.15,
+    "low": 442.85,
+    "close": 477.1,
+    "volume": 10526495519,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 469.05,
+    "high": 469.7,
+    "low": 440.2,
+    "close": 443.2,
+    "volume": 1317807854,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 443,
+    "high": 443.2,
+    "low": 420.2,
+    "close": 423,
+    "volume": 871470069,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 420.05,
+    "high": 425.9,
+    "low": 405.1,
+    "close": 410,
+    "volume": 1163956526,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 409,
+    "high": 412.45,
+    "low": 395.3,
+    "close": 397,
+    "volume": 299147496,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 405.4,
+    "high": 410,
+    "low": 381,
+    "close": 384.8,
+    "volume": 528793931,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 379.8,
+    "high": 406,
+    "low": 358,
+    "close": 367.15,
+    "volume": 3803565315,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 370,
+    "high": 384.95,
+    "low": 364.8,
+    "close": 380.5,
+    "volume": 660909851,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 381.95,
+    "high": 393.65,
+    "low": 376.55,
+    "close": 390,
+    "volume": 427977313,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 394,
+    "high": 412,
+    "low": 386.1,
+    "close": 399.05,
+    "volume": 679171034,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 402,
+    "high": 410,
+    "low": 396.3,
+    "close": 409.6,
+    "volume": 409343118,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 410,
+    "high": 424.5,
+    "low": 408,
+    "close": 415.9,
+    "volume": 475676950,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 417.95,
+    "high": 420.9,
+    "low": 385,
+    "close": 388.9,
+    "volume": 395531215,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 394.5,
+    "high": 398.95,
+    "low": 382.2,
+    "close": 385.8,
+    "volume": 430062820,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 388.3,
+    "high": 412.3,
+    "low": 388.3,
+    "close": 405.1,
+    "volume": 647637137,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 408.15,
+    "high": 411.45,
+    "low": 398.15,
+    "close": 407.25,
+    "volume": 265799471,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 409.95,
+    "high": 422,
+    "low": 405.55,
+    "close": 421,
+    "volume": 396498151,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 425,
+    "high": 429.9,
+    "low": 393.55,
+    "close": 404.1,
+    "volume": 449717054,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 391,
+    "high": 414.35,
+    "low": 390.05,
+    "close": 411.85,
+    "volume": 275122072,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 410.05,
+    "high": 443.75,
+    "low": 410.05,
+    "close": 422.65,
+    "volume": 1307137635,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 430,
+    "high": 443,
+    "low": 430,
+    "close": 436.15,
+    "volume": 417841569,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 436.5,
+    "high": 469,
+    "low": 431.95,
+    "close": 458.55,
+    "volume": 868342608,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 465,
+    "high": 472.95,
+    "low": 447.1,
+    "close": 456.5,
+    "volume": 898185292,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 463.95,
+    "high": 464,
+    "low": 436,
+    "close": 439.2,
+    "volume": 411534604,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Jan-2024",
+    "open": 444.6,
+    "high": 448,
+    "low": 424,
+    "close": 428.85,
+    "volume": 188624092,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Jan-2024",
+    "open": 431.1,
+    "high": 436,
+    "low": 417,
+    "close": 432.9,
+    "volume": 380391700,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Jan-2024",
+    "open": 432.9,
+    "high": 444.65,
+    "low": 419.4,
+    "close": 442,
+    "volume": 310765789,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Jan-2024",
+    "open": 450,
+    "high": 464,
+    "low": 444.05,
+    "close": 456,
+    "volume": 322034513,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Jan-2024",
+    "open": 458.25,
+    "high": 467.8,
+    "low": 442.15,
+    "close": 444.5,
+    "volume": 312397725,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Jan-2024",
+    "open": 449.35,
+    "high": 490.2,
+    "low": 436.45,
+    "close": 473.95,
+    "volume": 2805184285,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Jan-2024",
+    "open": 472,
+    "high": 502.95,
+    "low": 460,
+    "close": 462.9,
+    "volume": 1032579726,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Jan-2024",
+    "open": 462.95,
+    "high": 492,
+    "low": 460,
+    "close": 469,
+    "volume": 765502184,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Jan-2024",
+    "open": 472.85,
+    "high": 475.75,
+    "low": 462.25,
+    "close": 467.65,
+    "volume": 260818426,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Jan-2024",
+    "open": 472.8,
+    "high": 478,
+    "low": 466.55,
+    "close": 475.25,
+    "volume": 265438864,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Jan-2024",
+    "open": 478,
+    "high": 483,
+    "low": 466.55,
+    "close": 474,
+    "volume": 352280676,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Jan-2024",
+    "open": 474.65,
+    "high": 474.65,
+    "low": 450,
+    "close": 462.65,
+    "volume": 274037992,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Jan-2024",
+    "open": 457.4,
+    "high": 470,
+    "low": 450.5,
+    "close": 457,
+    "volume": 300854700,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Jan-2024",
+    "open": 455,
+    "high": 470,
+    "low": 448.6,
+    "close": 464,
+    "volume": 165195324,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Jan-2024",
+    "open": 471.6,
+    "high": 495,
+    "low": 471,
+    "close": 487.85,
+    "volume": 597502133,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Jan-2024",
+    "open": 490,
+    "high": 490,
+    "low": 472,
+    "close": 476,
+    "volume": 50071757,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Jan-2024",
+    "open": 478.95,
+    "high": 511,
+    "low": 472.75,
+    "close": 485.35,
+    "volume": 821994843,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Jan-2024",
+    "open": 486,
+    "high": 487.9,
+    "low": 466.5,
+    "close": 481,
+    "volume": 200927058,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Jan-2024",
+    "open": 480,
+    "high": 500,
+    "low": 478.6,
+    "close": 488,
+    "volume": 224484280,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Jan-2024",
+    "open": 491,
+    "high": 493.1,
+    "low": 479.05,
+    "close": 481.1,
+    "volume": 105408381,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Jan-2024",
+    "open": 483.9,
+    "high": 498,
+    "low": 472.05,
+    "close": 475,
+    "volume": 226483623,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Jan-2024",
+    "open": 480,
+    "high": 481.95,
+    "low": 464.95,
+    "close": 467.25,
+    "volume": 467657317,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Feb-2024",
+    "open": 463,
+    "high": 463,
+    "low": 440.05,
+    "close": 443.6,
+    "volume": 584728730,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Feb-2024",
+    "open": 444.95,
+    "high": 449.95,
+    "low": 428.6,
+    "close": 437.5,
+    "volume": 563245329,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Feb-2024",
+    "open": 441,
+    "high": 448.4,
+    "low": 435.1,
+    "close": 440,
+    "volume": 133778606,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Feb-2024",
+    "open": 440.95,
+    "high": 444.2,
+    "low": 430,
+    "close": 432.95,
+    "volume": 85285385,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Feb-2024",
+    "open": 439.5,
+    "high": 442.6,
+    "low": 425,
+    "close": 431.45,
+    "volume": 162462220,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Feb-2024",
+    "open": 433.3,
+    "high": 435.5,
+    "low": 414.35,
+    "close": 416.45,
+    "volume": 319005292,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Feb-2024",
+    "open": 419.95,
+    "high": 437.05,
+    "low": 412.5,
+    "close": 435,
+    "volume": 216369598,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Feb-2024",
+    "open": 453.3,
+    "high": 474.9,
+    "low": 433.05,
+    "close": 440.15,
+    "volume": 1711672125,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Feb-2024",
+    "open": 449,
+    "high": 450,
+    "low": 415.9,
+    "close": 420.8,
+    "volume": 552967033,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Feb-2024",
+    "open": 419.9,
+    "high": 452,
+    "low": 417.8,
+    "close": 439.5,
+    "volume": 334021434,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Feb-2024",
+    "open": 443.7,
+    "high": 448.05,
+    "low": 433.75,
+    "close": 447,
+    "volume": 189989520,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Feb-2024",
+    "open": 447.95,
+    "high": 452,
+    "low": 436.2,
+    "close": 436.2,
+    "volume": 297391746,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Feb-2024",
+    "open": 442.2,
+    "high": 446.8,
+    "low": 435.15,
+    "close": 440,
+    "volume": 91993352,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Feb-2024",
+    "open": 443.3,
+    "high": 444.7,
+    "low": 426,
+    "close": 435.05,
+    "volume": 159341141,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Feb-2024",
+    "open": 436.65,
+    "high": 442.35,
+    "low": 429.1,
+    "close": 432.15,
+    "volume": 85817672,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Feb-2024",
+    "open": 435,
+    "high": 440.5,
+    "low": 430.05,
+    "close": 433,
+    "volume": 79307996,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Feb-2024",
+    "open": 450,
+    "high": 458.8,
+    "low": 442.7,
+    "close": 444,
+    "volume": 395438210,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Feb-2024",
+    "open": 443.8,
+    "high": 447,
+    "low": 430.2,
+    "close": 436,
+    "volume": 251361638,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Feb-2024",
+    "open": 436.4,
+    "high": 442.4,
+    "low": 428.6,
+    "close": 431.2,
+    "volume": 123693700,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Feb-2024",
+    "open": 433.8,
+    "high": 437.2,
+    "low": 422,
+    "close": 428.75,
+    "volume": 63919854,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Feb-2024",
+    "open": 424.65,
+    "high": 425.2,
+    "low": 405.7,
+    "close": 416.25,
+    "volume": 1382701000,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Mar-2024",
+    "open": 419.8,
+    "high": 420.45,
+    "low": 410.4,
+    "close": 416.3,
+    "volume": 272094533,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Mar-2024",
+    "open": 417.45,
+    "high": 424,
+    "low": 414.6,
+    "close": 418.2,
+    "volume": 13714322,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Mar-2024",
+    "open": 420.05,
+    "high": 421.6,
+    "low": 402.5,
+    "close": 406.9,
+    "volume": 204817182,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Mar-2024",
+    "open": 410.8,
+    "high": 418.35,
+    "low": 404.35,
+    "close": 405.45,
+    "volume": 176825767,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Mar-2024",
+    "open": 408.7,
+    "high": 409,
+    "low": 388.3,
+    "close": 394.6,
+    "volume": 486844748,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Mar-2024",
+    "open": 397.65,
+    "high": 399,
+    "low": 389,
+    "close": 390,
+    "volume": 283576612,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Mar-2024",
+    "open": 394,
+    "high": 394.25,
+    "low": 381.55,
+    "close": 386.7,
+    "volume": 125098998,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Mar-2024",
+    "open": 386.75,
+    "high": 399,
+    "low": 375.4,
+    "close": 384,
+    "volume": 128056798,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Mar-2024",
+    "open": 383.9,
+    "high": 383.9,
+    "low": 365,
+    "close": 380,
+    "volume": 242688481,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Mar-2024",
+    "open": 380.8,
+    "high": 388.9,
+    "low": 377,
+    "close": 383,
+    "volume": 277316173,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Mar-2024",
+    "open": 386.9,
+    "high": 389,
+    "low": 377.1,
+    "close": 379,
+    "volume": 221445844,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Mar-2024",
+    "open": 382.6,
+    "high": 387,
+    "low": 374,
+    "close": 379.9,
+    "volume": 48174537,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Mar-2024",
+    "open": 382.35,
+    "high": 382.35,
+    "low": 361.4,
+    "close": 368.5,
+    "volume": 296041465,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Mar-2024",
+    "open": 371.4,
+    "high": 372.15,
+    "low": 357.35,
+    "close": 371,
+    "volume": 358481538,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Mar-2024",
+    "open": 370.2,
+    "high": 371.95,
+    "low": 363.5,
+    "close": 371.35,
+    "volume": 630728373,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Mar-2024",
+    "open": 371.65,
+    "high": 375.2,
+    "low": 368.3,
+    "close": 372,
+    "volume": 96413907,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Mar-2024",
+    "open": 375,
+    "high": 382,
+    "low": 366,
+    "close": 380.1,
+    "volume": 97305768,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Mar-2024",
+    "open": 382,
+    "high": 406.65,
+    "low": 380,
+    "close": 387,
+    "volume": 212315979,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Mar-2024",
+    "open": 396,
+    "high": 404.95,
+    "low": 388.05,
+    "close": 403,
+    "volume": 166835026,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Apr-2024",
+    "open": 411.65,
+    "high": 419.75,
+    "low": 404.05,
+    "close": 407,
+    "volume": 143830593,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Apr-2024",
+    "open": 406.05,
+    "high": 414,
+    "low": 401.2,
+    "close": 408,
+    "volume": 236749403,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Apr-2024",
+    "open": 408,
+    "high": 415,
+    "low": 405.1,
+    "close": 409,
+    "volume": 64931837,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Apr-2024",
+    "open": 410.4,
+    "high": 415,
+    "low": 409.2,
+    "close": 409.55,
+    "volume": 77187024,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Apr-2024",
+    "open": 410.5,
+    "high": 412.95,
+    "low": 402.25,
+    "close": 404.1,
+    "volume": 82387588,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Apr-2024",
+    "open": 405,
+    "high": 409.9,
+    "low": 393.1,
+    "close": 398.9,
+    "volume": 120278342,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Apr-2024",
+    "open": 400.7,
+    "high": 402.35,
+    "low": 390.05,
+    "close": 399.5,
+    "volume": 42355630,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Apr-2024",
+    "open": 400,
+    "high": 400.5,
+    "low": 389.2,
+    "close": 394.6,
+    "volume": 95339126,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Apr-2024",
+    "open": 396.95,
+    "high": 399.9,
+    "low": 392,
+    "close": 397,
+    "volume": 43207661,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Apr-2024",
+    "open": 391,
+    "high": 398.55,
+    "low": 385.35,
+    "close": 395,
+    "volume": 41955314,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Apr-2024",
+    "open": 389.2,
+    "high": 393.85,
+    "low": 374.85,
+    "close": 382,
+    "volume": 643412741,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Apr-2024",
+    "open": 381.9,
+    "high": 387.95,
+    "low": 378.55,
+    "close": 381.75,
+    "volume": 138222928,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Apr-2024",
+    "open": 377.2,
+    "high": 392,
+    "low": 374.75,
+    "close": 389,
+    "volume": 118953996,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Apr-2024",
+    "open": 400,
+    "high": 406,
+    "low": 390,
+    "close": 406,
+    "volume": 190376493,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Apr-2024",
+    "open": 412,
+    "high": 446.4,
+    "low": 411.95,
+    "close": 433,
+    "volume": 1981624820,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Apr-2024",
+    "open": 436.7,
+    "high": 438.65,
+    "low": 424,
+    "close": 427.2,
+    "volume": 201280326,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Apr-2024",
+    "open": 426,
+    "high": 430.9,
+    "low": 420,
+    "close": 422,
+    "volume": 71983350,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Apr-2024",
+    "open": 423.5,
+    "high": 430.5,
+    "low": 419.5,
+    "close": 428.6,
+    "volume": 72875736,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Apr-2024",
+    "open": 438,
+    "high": 443.2,
+    "low": 421.2,
+    "close": 426,
+    "volume": 134333402,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Apr-2024",
+    "open": 432.95,
+    "high": 438,
+    "low": 425,
+    "close": 432,
+    "volume": 154487245,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-May-2024",
+    "open": 435,
+    "high": 435,
+    "low": 419.35,
+    "close": 423.6,
+    "volume": 112172140,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-May-2024",
+    "open": 423.2,
+    "high": 424.95,
+    "low": 412.05,
+    "close": 421.6,
+    "volume": 85218584,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-May-2024",
+    "open": 421.15,
+    "high": 429.9,
+    "low": 413,
+    "close": 425.8,
+    "volume": 82904054,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-May-2024",
+    "open": 430,
+    "high": 430.3,
+    "low": 418.1,
+    "close": 429,
+    "volume": 68437447,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-May-2024",
+    "open": 424.95,
+    "high": 433.5,
+    "low": 422.45,
+    "close": 432,
+    "volume": 154169799,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-May-2024",
+    "open": 430,
+    "high": 431.75,
+    "low": 422.95,
+    "close": 428,
+    "volume": 158809617,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-May-2024",
+    "open": 429.6,
+    "high": 430.05,
+    "low": 414.9,
+    "close": 428,
+    "volume": 183526723,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-May-2024",
+    "open": 429.15,
+    "high": 429.5,
+    "low": 422,
+    "close": 422,
+    "volume": 90554730,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-May-2024",
+    "open": 425.95,
+    "high": 425.95,
+    "low": 413.6,
+    "close": 415.05,
+    "volume": 80386223,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-May-2024",
+    "open": 417.5,
+    "high": 420,
+    "low": 408.95,
+    "close": 416.5,
+    "volume": 110076318,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-May-2024",
+    "open": 416.95,
+    "high": 417,
+    "low": 403.05,
+    "close": 413,
+    "volume": 427225022,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-May-2024",
+    "open": 417.1,
+    "high": 417.1,
+    "low": 398.05,
+    "close": 401,
+    "volume": 942406303,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-May-2024",
+    "open": 408.4,
+    "high": 408.4,
+    "low": 403.05,
+    "close": 406.85,
+    "volume": 9613173,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-May-2024",
+    "open": 408,
+    "high": 429.9,
+    "low": 404.4,
+    "close": 423.5,
+    "volume": 373888298,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-May-2024",
+    "open": 424.45,
+    "high": 433,
+    "low": 422.05,
+    "close": 426.5,
+    "volume": 258403792,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-May-2024",
+    "open": 426.4,
+    "high": 431.65,
+    "low": 416.15,
+    "close": 418.9,
+    "volume": 104779963,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-May-2024",
+    "open": 445,
+    "high": 448,
+    "low": 426.75,
+    "close": 429.6,
+    "volume": 1432868168,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-May-2024",
+    "open": 430.6,
+    "high": 436.9,
+    "low": 418.85,
+    "close": 426.4,
+    "volume": 205434215,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-May-2024",
+    "open": 429.9,
+    "high": 429.9,
+    "low": 414.3,
+    "close": 419.7,
+    "volume": 228054169,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-May-2024",
+    "open": 419,
+    "high": 429.35,
+    "low": 414.9,
+    "close": 427,
+    "volume": 115048377,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-May-2024",
+    "open": 426.9,
+    "high": 426.9,
+    "low": 416.1,
+    "close": 422.5,
+    "volume": 98086193,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-May-2024",
+    "open": 426.25,
+    "high": 448,
+    "low": 424.25,
+    "close": 440,
+    "volume": 712188607,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Jun-2024",
+    "open": 455,
+    "high": 460,
+    "low": 444.55,
+    "close": 459.05,
+    "volume": 270114566,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Jun-2024",
+    "open": 460,
+    "high": 464.5,
+    "low": 380,
+    "close": 424.8,
+    "volume": 172929911,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Jun-2024",
+    "open": 423.95,
+    "high": 461.75,
+    "low": 417,
+    "close": 460,
+    "volume": 474666060,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Jun-2024",
+    "open": 464,
+    "high": 464,
+    "low": 437.75,
+    "close": 439.5,
+    "volume": 560837903,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Jun-2024",
+    "open": 439.6,
+    "high": 443.8,
+    "low": 435.6,
+    "close": 438.8,
+    "volume": 320811003,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Jun-2024",
+    "open": 440.6,
+    "high": 460,
+    "low": 438.5,
+    "close": 459.6,
+    "volume": 497146258,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Jun-2024",
+    "open": 441,
+    "high": 443.9,
+    "low": 425.85,
+    "close": 437.5,
+    "volume": 1700223306,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Jun-2024",
+    "open": 440.75,
+    "high": 448.85,
+    "low": 429,
+    "close": 431.55,
+    "volume": 761964178,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Jun-2024",
+    "open": 436,
+    "high": 436.75,
+    "low": 431,
+    "close": 434.1,
+    "volume": 296947760,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Jun-2024",
+    "open": 434.95,
+    "high": 436.95,
+    "low": 424.3,
+    "close": 427.9,
+    "volume": 272021005,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Jun-2024",
+    "open": 429.95,
+    "high": 435.85,
+    "low": 428.45,
+    "close": 431.1,
+    "volume": 331505793,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Jun-2024",
+    "open": 433.95,
+    "high": 439.85,
+    "low": 421.25,
+    "close": 426.05,
+    "volume": 509747569,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Jun-2024",
+    "open": 426.65,
+    "high": 428,
+    "low": 419.3,
+    "close": 427.3,
+    "volume": 322558668,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Jun-2024",
+    "open": 428.25,
+    "high": 455,
+    "low": 424.7,
+    "close": 448.7,
+    "volume": 3166641386,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Jun-2024",
+    "open": 449.5,
+    "high": 457.75,
+    "low": 438.4,
+    "close": 452.65,
+    "volume": 295535569,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Jun-2024",
+    "open": 457,
+    "high": 458,
+    "low": 445.05,
+    "close": 454,
+    "volume": 116958580,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Jun-2024",
+    "open": 445.55,
+    "high": 457.45,
+    "low": 441,
+    "close": 444,
+    "volume": 82263976,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Jun-2024",
+    "open": 444,
+    "high": 446.95,
+    "low": 429,
+    "close": 436.1,
+    "volume": 216220576,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Jun-2024",
+    "open": 437.75,
+    "high": 446.95,
+    "low": 415,
+    "close": 428,
+    "volume": 393219385,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Jul-2024",
+    "open": 432.8,
+    "high": 449,
+    "low": 432,
+    "close": 443,
+    "volume": 82828289,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Jul-2024",
+    "open": 446,
+    "high": 446,
+    "low": 432.5,
+    "close": 436,
+    "volume": 41171192,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Jul-2024",
+    "open": 438.65,
+    "high": 440.7,
+    "low": 434,
+    "close": 434,
+    "volume": 157504375,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Jul-2024",
+    "open": 438.9,
+    "high": 503,
+    "low": 436.55,
+    "close": 502,
+    "volume": 3530462671,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Jul-2024",
+    "open": 495.95,
+    "high": 502.25,
+    "low": 471.1,
+    "close": 482,
+    "volume": 1228023689,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Jul-2024",
+    "open": 484,
+    "high": 488.2,
+    "low": 457.75,
+    "close": 462,
+    "volume": 337774129,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Jul-2024",
+    "open": 462.05,
+    "high": 471.5,
+    "low": 452,
+    "close": 455.5,
+    "volume": 218208671,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Jul-2024",
+    "open": 459.7,
+    "high": 474.55,
+    "low": 456,
+    "close": 471.7,
+    "volume": 439185421,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Jul-2024",
+    "open": 474.9,
+    "high": 484.3,
+    "low": 467,
+    "close": 473,
+    "volume": 311126083,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Jul-2024",
+    "open": 471.35,
+    "high": 479.3,
+    "low": 466.2,
+    "close": 475.55,
+    "volume": 137682131,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Jul-2024",
+    "open": 479.8,
+    "high": 487,
+    "low": 474.9,
+    "close": 478.1,
+    "volume": 230295408,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Jul-2024",
+    "open": 485,
+    "high": 501.75,
+    "low": 476.65,
+    "close": 480.65,
+    "volume": 459320439,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Jul-2024",
+    "open": 479,
+    "high": 485.3,
+    "low": 470,
+    "close": 485,
+    "volume": 142226770,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Jul-2024",
+    "open": 488.35,
+    "high": 491.9,
+    "low": 460,
+    "close": 470,
+    "volume": 105072265,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Jul-2024",
+    "open": 462.65,
+    "high": 468.9,
+    "low": 450,
+    "close": 464,
+    "volume": 142994827,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Jul-2024",
+    "open": 465.75,
+    "high": 470,
+    "low": 454,
+    "close": 468,
+    "volume": 99055116,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Jul-2024",
+    "open": 466.2,
+    "high": 468.95,
+    "low": 460.75,
+    "close": 464.15,
+    "volume": 37429760,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Jul-2024",
+    "open": 463.65,
+    "high": 465.25,
+    "low": 460,
+    "close": 463.9,
+    "volume": 37501076,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Jul-2024",
+    "open": 466,
+    "high": 470,
+    "low": 459,
+    "close": 467,
+    "volume": 85907242,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Jul-2024",
+    "open": 475,
+    "high": 480.95,
+    "low": 457.9,
+    "close": 463.95,
+    "volume": 135005015,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Jul-2024",
+    "open": 463.95,
+    "high": 481.15,
+    "low": 462.15,
+    "close": 475.1,
+    "volume": 123862193,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Jul-2024",
+    "open": 473,
+    "high": 475.9,
+    "low": 463,
+    "close": 468.4,
+    "volume": 74268539,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Aug-2024",
+    "open": 468.95,
+    "high": 469.75,
+    "low": 457,
+    "close": 462,
+    "volume": 43180431,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Aug-2024",
+    "open": 457,
+    "high": 460.35,
+    "low": 447.3,
+    "close": 454.9,
+    "volume": 81588647,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Aug-2024",
+    "open": 442,
+    "high": 461,
+    "low": 440.05,
+    "close": 456.8,
+    "volume": 247235122,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Aug-2024",
+    "open": 461.1,
+    "high": 472.35,
+    "low": 446.4,
+    "close": 454.5,
+    "volume": 147063992,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Aug-2024",
+    "open": 453.7,
+    "high": 458.75,
+    "low": 445.3,
+    "close": 455.2,
+    "volume": 221277250,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Aug-2024",
+    "open": 454.95,
+    "high": 503.95,
+    "low": 451.55,
+    "close": 497.9,
+    "volume": 2155118773,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Aug-2024",
+    "open": 503,
+    "high": 508,
+    "low": 470,
+    "close": 473,
+    "volume": 850246556,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Aug-2024",
+    "open": 493,
+    "high": 493,
+    "low": 444.6,
+    "close": 454,
+    "volume": 1204120083,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Aug-2024",
+    "open": 477.95,
+    "high": 477.95,
+    "low": 453.05,
+    "close": 465,
+    "volume": 659503784,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Aug-2024",
+    "open": 465.05,
+    "high": 472,
+    "low": 463.2,
+    "close": 470,
+    "volume": 254248482,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Aug-2024",
+    "open": 477,
+    "high": 477,
+    "low": 458.35,
+    "close": 464.5,
+    "volume": 201553367,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Aug-2024",
+    "open": 468,
+    "high": 472.85,
+    "low": 461.35,
+    "close": 470.2,
+    "volume": 151191253,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Aug-2024",
+    "open": 471.45,
+    "high": 477.8,
+    "low": 462.15,
+    "close": 465.05,
+    "volume": 135902101,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Aug-2024",
+    "open": 469.7,
+    "high": 477.8,
+    "low": 463.4,
+    "close": 467.95,
+    "volume": 230110073,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Aug-2024",
+    "open": 470,
+    "high": 475,
+    "low": 462.45,
+    "close": 471,
+    "volume": 183481320,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Aug-2024",
+    "open": 472.5,
+    "high": 474.2,
+    "low": 467,
+    "close": 467.55,
+    "volume": 49318621,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Aug-2024",
+    "open": 474.6,
+    "high": 537.9,
+    "low": 474.55,
+    "close": 506,
+    "volume": 14070982276,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Aug-2024",
+    "open": 507,
+    "high": 519.95,
+    "low": 493.5,
+    "close": 516,
+    "volume": 1672776636,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Aug-2024",
+    "open": 515.2,
+    "high": 521.7,
+    "low": 506.65,
+    "close": 511,
+    "volume": 603554789,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Aug-2024",
+    "open": 515,
+    "high": 535.9,
+    "low": 508.1,
+    "close": 515,
+    "volume": 1130131030,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Aug-2024",
+    "open": 518.25,
+    "high": 520.35,
+    "low": 501.85,
+    "close": 505,
+    "volume": 526136347,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Sep-2024",
+    "open": 508.65,
+    "high": 515.15,
+    "low": 496.6,
+    "close": 504.1,
+    "volume": 466874821,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Sep-2024",
+    "open": 505.15,
+    "high": 530.75,
+    "low": 495.5,
+    "close": 507,
+    "volume": 2662264914,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Sep-2024",
+    "open": 507,
+    "high": 519,
+    "low": 501,
+    "close": 504.5,
+    "volume": 625061759,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Sep-2024",
+    "open": 507.1,
+    "high": 528,
+    "low": 507,
+    "close": 525,
+    "volume": 1034193789,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Sep-2024",
+    "open": 528,
+    "high": 538.75,
+    "low": 526,
+    "close": 533,
+    "volume": 789445237,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Sep-2024",
+    "open": 519.55,
+    "high": 528,
+    "low": 508,
+    "close": 516.2,
+    "volume": 462848745,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Sep-2024",
+    "open": 525,
+    "high": 547,
+    "low": 519.8,
+    "close": 543.5,
+    "volume": 1298154537,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Sep-2024",
+    "open": 543.4,
+    "high": 543.4,
+    "low": 514.35,
+    "close": 520,
+    "volume": 555060003,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Sep-2024",
+    "open": 500.1,
+    "high": 508.95,
+    "low": 490,
+    "close": 494,
+    "volume": 25292957381,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Sep-2024",
+    "open": 498.95,
+    "high": 503.9,
+    "low": 490,
+    "close": 493,
+    "volume": 1231535136,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Sep-2024",
+    "open": 496.95,
+    "high": 496.95,
+    "low": 463.2,
+    "close": 477.1,
+    "volume": 2409661629,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Sep-2024",
+    "open": 480.3,
+    "high": 481.9,
+    "low": 463.35,
+    "close": 479.2,
+    "volume": 1206073685,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Sep-2024",
+    "open": 475,
+    "high": 483.2,
+    "low": 466,
+    "close": 470.05,
+    "volume": 587272873,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Sep-2024",
+    "open": 474.7,
+    "high": 474.7,
+    "low": 452.4,
+    "close": 469.05,
+    "volume": 1069440212,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Sep-2024",
+    "open": 470.05,
+    "high": 490.85,
+    "low": 462.2,
+    "close": 487.3,
+    "volume": 2836173461,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Sep-2024",
+    "open": 481.85,
+    "high": 492,
+    "low": 476.3,
+    "close": 489.5,
+    "volume": 329481236,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Sep-2024",
+    "open": 493.45,
+    "high": 493.45,
+    "low": 469.75,
+    "close": 475,
+    "volume": 486560746,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Sep-2024",
+    "open": 477,
+    "high": 479.8,
+    "low": 469.5,
+    "close": 477,
+    "volume": 370692635,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Sep-2024",
+    "open": 479,
+    "high": 482,
+    "low": 470.45,
+    "close": 477,
+    "volume": 312365264,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Sep-2024",
+    "open": 479.4,
+    "high": 479.4,
+    "low": 455,
+    "close": 456.25,
+    "volume": 828817012,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Sep-2024",
+    "open": 459,
+    "high": 464.7,
+    "low": 443.1,
+    "close": 453,
+    "volume": 835562759,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Oct-2024",
+    "open": 452,
+    "high": 456.7,
+    "low": 442.3,
+    "close": 454.05,
+    "volume": 957552694,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Oct-2024",
+    "open": 449.05,
+    "high": 453.95,
+    "low": 443.1,
+    "close": 446,
+    "volume": 587700417,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Oct-2024",
+    "open": 444,
+    "high": 455,
+    "low": 425,
+    "close": 425,
+    "volume": 765046448,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Oct-2024",
+    "open": 431.75,
+    "high": 437.6,
+    "low": 423.65,
+    "close": 431.3,
+    "volume": 329134521,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Oct-2024",
+    "open": 431.9,
+    "high": 447.75,
+    "low": 417,
+    "close": 443.95,
+    "volume": 594067034,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Oct-2024",
+    "open": 448.3,
+    "high": 448.3,
+    "low": 430.3,
+    "close": 430.5,
+    "volume": 534980238,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Oct-2024",
+    "open": 432.3,
+    "high": 434.05,
+    "low": 422.3,
+    "close": 424,
+    "volume": 700088741,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Oct-2024",
+    "open": 426.8,
+    "high": 433.2,
+    "low": 424.1,
+    "close": 428.1,
+    "volume": 280833903,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Oct-2024",
+    "open": 431.75,
+    "high": 432,
+    "low": 422.05,
+    "close": 426,
+    "volume": 117036582,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Oct-2024",
+    "open": 427.45,
+    "high": 430.8,
+    "low": 423.2,
+    "close": 429,
+    "volume": 199339013,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Oct-2024",
+    "open": 429,
+    "high": 430.15,
+    "low": 409,
+    "close": 410,
+    "volume": 854008647,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Oct-2024",
+    "open": 413.75,
+    "high": 429.45,
+    "low": 408.05,
+    "close": 423.5,
+    "volume": 1627327688,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Oct-2024",
+    "open": 423,
+    "high": 431,
+    "low": 419,
+    "close": 422.75,
+    "volume": 268693106,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Oct-2024",
+    "open": 422.85,
+    "high": 426.85,
+    "low": 416.8,
+    "close": 416.8,
+    "volume": 70517252,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Oct-2024",
+    "open": 418.7,
+    "high": 419.5,
+    "low": 400,
+    "close": 407.7,
+    "volume": 301704606,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Oct-2024",
+    "open": 405.8,
+    "high": 408.95,
+    "low": 396.25,
+    "close": 400.7,
+    "volume": 192576419,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Oct-2024",
+    "open": 400.85,
+    "high": 417.15,
+    "low": 399.4,
+    "close": 411.8,
+    "volume": 191739766,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Oct-2024",
+    "open": 410,
+    "high": 415.6,
+    "low": 393.45,
+    "close": 401,
+    "volume": 494061289,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Oct-2024",
+    "open": 394.35,
+    "high": 411.25,
+    "low": 393.4,
+    "close": 407,
+    "volume": 134768177,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Oct-2024",
+    "open": 407.85,
+    "high": 408.15,
+    "low": 393.55,
+    "close": 399.7,
+    "volume": 238753284,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Oct-2024",
+    "open": 400.1,
+    "high": 406.75,
+    "low": 394,
+    "close": 404.5,
+    "volume": 184355622,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Oct-2024",
+    "open": 404.55,
+    "high": 409.2,
+    "low": 392.9,
+    "close": 395,
+    "volume": 385083064,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Nov-2024",
+    "open": 396,
+    "high": 400.6,
+    "low": 393.15,
+    "close": 394.9,
+    "volume": 41852792,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Nov-2024",
+    "open": 395,
+    "high": 403,
+    "low": 389.05,
+    "close": 391,
+    "volume": 198558897,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Nov-2024",
+    "open": 391,
+    "high": 392.5,
+    "low": 375.9,
+    "close": 389.15,
+    "volume": 121369293,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Nov-2024",
+    "open": 392.3,
+    "high": 397,
+    "low": 385.2,
+    "close": 386.9,
+    "volume": 128573637,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Nov-2024",
+    "open": 391.35,
+    "high": 393.9,
+    "low": 367,
+    "close": 375.1,
+    "volume": 178966124,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Nov-2024",
+    "open": 378.95,
+    "high": 390,
+    "low": 372,
+    "close": 381.9,
+    "volume": 153366916,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Nov-2024",
+    "open": 382.35,
+    "high": 383.45,
+    "low": 376.05,
+    "close": 380.05,
+    "volume": 63391123,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Nov-2024",
+    "open": 382,
+    "high": 387.7,
+    "low": 372.1,
+    "close": 373.1,
+    "volume": 156420020,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Nov-2024",
+    "open": 374,
+    "high": 378.8,
+    "low": 355.55,
+    "close": 364,
+    "volume": 307793407,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Nov-2024",
+    "open": 364.75,
+    "high": 379.6,
+    "low": 364.75,
+    "close": 378,
+    "volume": 193222708,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Nov-2024",
+    "open": 306,
+    "high": 309,
+    "low": 297.25,
+    "close": 297.25,
+    "volume": 219368659,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Nov-2024",
+    "open": 254.95,
+    "high": 270,
+    "low": 242.35,
+    "close": 262.75,
+    "volume": 3295425815,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Nov-2024",
+    "open": 260,
+    "high": 269.3,
+    "low": 237.7,
+    "close": 237.7,
+    "volume": 1427498121,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Nov-2024",
+    "open": 240,
+    "high": 241.95,
+    "low": 222.7,
+    "close": 225,
+    "volume": 1094853172,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Nov-2024",
+    "open": 230.1,
+    "high": 231.75,
+    "low": 222.5,
+    "close": 226.9,
+    "volume": 473817004,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Nov-2024",
+    "open": 229.8,
+    "high": 231,
+    "low": 222.85,
+    "close": 226,
+    "volume": 187305595,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Nov-2024",
+    "open": 227.9,
+    "high": 234.55,
+    "low": 225.45,
+    "close": 229.75,
+    "volume": 405199048,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Nov-2024",
+    "open": 234,
+    "high": 252.65,
+    "low": 232.35,
+    "close": 252.65,
+    "volume": 734057509,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Nov-2024",
+    "open": 259.8,
+    "high": 277,
+    "low": 258,
+    "close": 262,
+    "volume": 1262039194,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Dec-2024",
+    "open": 264,
+    "high": 265.9,
+    "low": 254.3,
+    "close": 262,
+    "volume": 354184099,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Dec-2024",
+    "open": 266,
+    "high": 267.2,
+    "low": 257.55,
+    "close": 262.45,
+    "volume": 213227821,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Dec-2024",
+    "open": 273.1,
+    "high": 287.85,
+    "low": 268.4,
+    "close": 278,
+    "volume": 1843985134,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Dec-2024",
+    "open": 280.4,
+    "high": 282.4,
+    "low": 267.55,
+    "close": 273.7,
+    "volume": 678308576,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Dec-2024",
+    "open": 275.1,
+    "high": 285,
+    "low": 260,
+    "close": 265.3,
+    "volume": 865851646,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Dec-2024",
+    "open": 268.35,
+    "high": 270,
+    "low": 261.75,
+    "close": 265.6,
+    "volume": 318655597,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Dec-2024",
+    "open": 265.6,
+    "high": 266.35,
+    "low": 252.5,
+    "close": 255,
+    "volume": 435878892,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Dec-2024",
+    "open": 255.6,
+    "high": 264.5,
+    "low": 249.45,
+    "close": 260.9,
+    "volume": 585328714,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Dec-2024",
+    "open": 262.6,
+    "high": 262.6,
+    "low": 248.2,
+    "close": 250.3,
+    "volume": 307490048,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Dec-2024",
+    "open": 250.55,
+    "high": 254.85,
+    "low": 247.1,
+    "close": 247.8,
+    "volume": 296619418,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Dec-2024",
+    "open": 250.7,
+    "high": 255,
+    "low": 244.05,
+    "close": 247.65,
+    "volume": 465063896,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Dec-2024",
+    "open": 251,
+    "high": 253.3,
+    "low": 244.55,
+    "close": 245.3,
+    "volume": 496227496,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Dec-2024",
+    "open": 245,
+    "high": 259.75,
+    "low": 241.85,
+    "close": 251.45,
+    "volume": 751909956,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Dec-2024",
+    "open": 248.8,
+    "high": 259.8,
+    "low": 246,
+    "close": 258.9,
+    "volume": 433349257,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Dec-2024",
+    "open": 258.85,
+    "high": 264.4,
+    "low": 251.5,
+    "close": 260.5,
+    "volume": 385605513,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Dec-2024",
+    "open": 262.5,
+    "high": 264.6,
+    "low": 251.65,
+    "close": 254,
+    "volume": 170273089,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Dec-2024",
+    "open": 254,
+    "high": 256.3,
+    "low": 251.1,
+    "close": 254.9,
+    "volume": 111617418,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Dec-2024",
+    "open": 256,
+    "high": 257.5,
+    "low": 250.6,
+    "close": 250.7,
+    "volume": 153342392,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Dec-2024",
+    "open": 250,
+    "high": 253.4,
+    "low": 245.65,
+    "close": 248.25,
+    "volume": 112846737,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Dec-2024",
+    "open": 249,
+    "high": 254.6,
+    "low": 243.65,
+    "close": 251.95,
+    "volume": 115677655,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Dec-2024",
+    "open": 251.35,
+    "high": 257.4,
+    "low": 247.45,
+    "close": 256,
+    "volume": 137375138,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Jan-2025",
+    "open": 255.95,
+    "high": 256.45,
+    "low": 248.6,
+    "close": 249.9,
+    "volume": 127135296,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Jan-2025",
+    "open": 249.95,
+    "high": 252.45,
+    "low": 248.25,
+    "close": 250.1,
+    "volume": 89495969,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Jan-2025",
+    "open": 251,
+    "high": 255.05,
+    "low": 250.25,
+    "close": 252.5,
+    "volume": 88898049,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Jan-2025",
+    "open": 252.05,
+    "high": 252.05,
+    "low": 242.5,
+    "close": 245,
+    "volume": 152968459,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Jan-2025",
+    "open": 244.45,
+    "high": 248.4,
+    "low": 244.15,
+    "close": 245.5,
+    "volume": 510605256,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Jan-2025",
+    "open": 248,
+    "high": 255.95,
+    "low": 243.8,
+    "close": 246,
+    "volume": 322432395,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Jan-2025",
+    "open": 247.3,
+    "high": 252.45,
+    "low": 243.75,
+    "close": 246.2,
+    "volume": 187310206,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Jan-2025",
+    "open": 245,
+    "high": 246.2,
+    "low": 240.4,
+    "close": 242.6,
+    "volume": 207562689,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Jan-2025",
+    "open": 242.6,
+    "high": 244.7,
+    "low": 238.35,
+    "close": 242,
+    "volume": 328545860,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Jan-2025",
+    "open": 241,
+    "high": 246.4,
+    "low": 240,
+    "close": 245.2,
+    "volume": 220174391,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Jan-2025",
+    "open": 246,
+    "high": 249.6,
+    "low": 242.05,
+    "close": 242.8,
+    "volume": 190345918,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Jan-2025",
+    "open": 245.05,
+    "high": 247.65,
+    "low": 244.1,
+    "close": 246.5,
+    "volume": 76087391,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Jan-2025",
+    "open": 247.7,
+    "high": 249.3,
+    "low": 245.15,
+    "close": 247,
+    "volume": 66369740,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Jan-2025",
+    "open": 250,
+    "high": 253,
+    "low": 246.4,
+    "close": 251.8,
+    "volume": 79126033,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Jan-2025",
+    "open": 253,
+    "high": 253,
+    "low": 244.3,
+    "close": 249,
+    "volume": 68657574,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Jan-2025",
+    "open": 251.7,
+    "high": 251.7,
+    "low": 243.3,
+    "close": 246.55,
+    "volume": 75488102,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Jan-2025",
+    "open": 250,
+    "high": 250.95,
+    "low": 242.65,
+    "close": 248.5,
+    "volume": 410555620,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Jan-2025",
+    "open": 248.5,
+    "high": 251.45,
+    "low": 242.6,
+    "close": 245.8,
+    "volume": 294606850,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Jan-2025",
+    "open": 241,
+    "high": 241,
+    "low": 225,
+    "close": 229.85,
+    "volume": 215526375,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Jan-2025",
+    "open": 238,
+    "high": 238,
+    "low": 221.15,
+    "close": 224.95,
+    "volume": 144613218,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Jan-2025",
+    "open": 224,
+    "high": 227.85,
+    "low": 221.4,
+    "close": 223.2,
+    "volume": 93451206,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Jan-2025",
+    "open": 220.95,
+    "high": 227.25,
+    "low": 217.1,
+    "close": 219.35,
+    "volume": 96112036,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Jan-2025",
+    "open": 217.5,
+    "high": 225.55,
+    "low": 205.4,
+    "close": 220,
+    "volume": 553493103,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Feb-2025",
+    "open": 219,
+    "high": 235.99,
+    "low": 216.77,
+    "close": 227.5,
+    "volume": 206800147,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Feb-2025",
+    "open": 226,
+    "high": 226.7,
+    "low": 221.16,
+    "close": 225.45,
+    "volume": 87509261,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Feb-2025",
+    "open": 224.01,
+    "high": 233.38,
+    "low": 222.67,
+    "close": 232.09,
+    "volume": 162766484,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Feb-2025",
+    "open": 231.21,
+    "high": 232.98,
+    "low": 223.5,
+    "close": 224,
+    "volume": 85493187,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Feb-2025",
+    "open": 225.3,
+    "high": 226.89,
+    "low": 218.1,
+    "close": 218.9,
+    "volume": 69843005,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Feb-2025",
+    "open": 218.9,
+    "high": 219.25,
+    "low": 208.66,
+    "close": 213.8,
+    "volume": 202336072,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Feb-2025",
+    "open": 212.82,
+    "high": 213.5,
+    "low": 206.28,
+    "close": 207.49,
+    "volume": 77695460,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Feb-2025",
+    "open": 206.2,
+    "high": 208.59,
+    "low": 199.5,
+    "close": 201.6,
+    "volume": 198103904,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Feb-2025",
+    "open": 199.79,
+    "high": 208.57,
+    "low": 197.51,
+    "close": 205.78,
+    "volume": 102967003,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Feb-2025",
+    "open": 210,
+    "high": 235,
+    "low": 208.85,
+    "close": 226.75,
+    "volume": 3754200782,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Feb-2025",
+    "open": 220,
+    "high": 227,
+    "low": 216.1,
+    "close": 221.3,
+    "volume": 623285757,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Feb-2025",
+    "open": 220,
+    "high": 225.98,
+    "low": 217,
+    "close": 224.01,
+    "volume": 157025674,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Feb-2025",
+    "open": 223.26,
+    "high": 225,
+    "low": 217,
+    "close": 221,
+    "volume": 110258117,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Feb-2025",
+    "open": 216,
+    "high": 227,
+    "low": 215.75,
+    "close": 224.55,
+    "volume": 147220551,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Feb-2025",
+    "open": 222,
+    "high": 232.01,
+    "low": 222,
+    "close": 226,
+    "volume": 72191088,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Feb-2025",
+    "open": 229.2,
+    "high": 229.8,
+    "low": 222.4,
+    "close": 224.15,
+    "volume": 59351991,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Feb-2025",
+    "open": 222.02,
+    "high": 226.3,
+    "low": 219.42,
+    "close": 223.6,
+    "volume": 43938577,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Feb-2025",
+    "open": 220,
+    "high": 226.01,
+    "low": 220,
+    "close": 223.99,
+    "volume": 46593258,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Feb-2025",
+    "open": 226,
+    "high": 226,
+    "low": 218.56,
+    "close": 222,
+    "volume": 60661087,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Feb-2025",
+    "open": 222.28,
+    "high": 222.87,
+    "low": 213.02,
+    "close": 215.95,
+    "volume": 114739273,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Mar-2025",
+    "open": 216.8,
+    "high": 219.01,
+    "low": 203.5,
+    "close": 213.3,
+    "volume": 104777975,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Mar-2025",
+    "open": 206.85,
+    "high": 218.31,
+    "low": 206.05,
+    "close": 217.32,
+    "volume": 66971027,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Mar-2025",
+    "open": 216.77,
+    "high": 218.7,
+    "low": 214.26,
+    "close": 215,
+    "volume": 88069738,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Mar-2025",
+    "open": 216,
+    "high": 222.87,
+    "low": 216,
+    "close": 221.52,
+    "volume": 226030981,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Mar-2025",
+    "open": 219.85,
+    "high": 226.89,
+    "low": 219.85,
+    "close": 222.7,
+    "volume": 79988514,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Mar-2025",
+    "open": 223,
+    "high": 224.09,
+    "low": 216.11,
+    "close": 220,
+    "volume": 346833175,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Mar-2025",
+    "open": 218,
+    "high": 218,
+    "low": 210.2,
+    "close": 217,
+    "volume": 280565864,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Mar-2025",
+    "open": 219.4,
+    "high": 219.4,
+    "low": 214,
+    "close": 215.5,
+    "volume": 97733189,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Mar-2025",
+    "open": 217,
+    "high": 217,
+    "low": 208,
+    "close": 208,
+    "volume": 94288243,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Mar-2025",
+    "open": 209.38,
+    "high": 210.79,
+    "low": 205.01,
+    "close": 207,
+    "volume": 115793129,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Mar-2025",
+    "open": 208,
+    "high": 213.2,
+    "low": 206.67,
+    "close": 212,
+    "volume": 279518150,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Mar-2025",
+    "open": 212.4,
+    "high": 224.08,
+    "low": 212.4,
+    "close": 221,
+    "volume": 116496046,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Mar-2025",
+    "open": 220.7,
+    "high": 225.9,
+    "low": 218.11,
+    "close": 222.9,
+    "volume": 88641723,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Mar-2025",
+    "open": 223,
+    "high": 225.78,
+    "low": 219.69,
+    "close": 220.7,
+    "volume": 89360917,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Mar-2025",
+    "open": 222,
+    "high": 245,
+    "low": 222,
+    "close": 234.4,
+    "volume": 628780853,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Mar-2025",
+    "open": 236.7,
+    "high": 244.54,
+    "low": 232.75,
+    "close": 236.8,
+    "volume": 280431541,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Mar-2025",
+    "open": 238,
+    "high": 239.16,
+    "low": 232,
+    "close": 233.98,
+    "volume": 158147611,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Mar-2025",
+    "open": 234.5,
+    "high": 237.98,
+    "low": 229.11,
+    "close": 237,
+    "volume": 131966189,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Mar-2025",
+    "open": 233.95,
+    "high": 236.78,
+    "low": 225.5,
+    "close": 233,
+    "volume": 172009790,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Apr-2025",
+    "open": 228.4,
+    "high": 236.32,
+    "low": 228.4,
+    "close": 235.05,
+    "volume": 97771058,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Apr-2025",
+    "open": 234.65,
+    "high": 238.88,
+    "low": 232.63,
+    "close": 236,
+    "volume": 150150205,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Apr-2025",
+    "open": 232.04,
+    "high": 241.81,
+    "low": 230.85,
+    "close": 236.7,
+    "volume": 183095028,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Apr-2025",
+    "open": 236.54,
+    "high": 239.19,
+    "low": 232,
+    "close": 233.05,
+    "volume": 94934202,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Apr-2025",
+    "open": 223,
+    "high": 226.58,
+    "low": 212.51,
+    "close": 224.25,
+    "volume": 141332234,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Apr-2025",
+    "open": 226,
+    "high": 228.22,
+    "low": 222.94,
+    "close": 225,
+    "volume": 36123562,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Apr-2025",
+    "open": 223,
+    "high": 224.99,
+    "low": 215.9,
+    "close": 216.65,
+    "volume": 82822609,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Apr-2025",
+    "open": 220.64,
+    "high": 232.9,
+    "low": 220.63,
+    "close": 232,
+    "volume": 99509288,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Apr-2025",
+    "open": 234.8,
+    "high": 239.54,
+    "low": 228.86,
+    "close": 229.4,
+    "volume": 122531175,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Apr-2025",
+    "open": 229.7,
+    "high": 234,
+    "low": 229.5,
+    "close": 229.5,
+    "volume": 89889567,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Apr-2025",
+    "open": 230.25,
+    "high": 239.43,
+    "low": 229.28,
+    "close": 232.6,
+    "volume": 543327427,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Apr-2025",
+    "open": 233,
+    "high": 241,
+    "low": 231.5,
+    "close": 233.08,
+    "volume": 450754794,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Apr-2025",
+    "open": 234,
+    "high": 236.19,
+    "low": 230.01,
+    "close": 232,
+    "volume": 123152336,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Apr-2025",
+    "open": 235.7,
+    "high": 239.49,
+    "low": 227.5,
+    "close": 235.89,
+    "volume": 220865522,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Apr-2025",
+    "open": 237,
+    "high": 242.85,
+    "low": 235.79,
+    "close": 237,
+    "volume": 255886410,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Apr-2025",
+    "open": 238,
+    "high": 239.25,
+    "low": 227.07,
+    "close": 230.07,
+    "volume": 162303065,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Apr-2025",
+    "open": 230.25,
+    "high": 235.52,
+    "low": 230.1,
+    "close": 231.61,
+    "volume": 65788342,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Apr-2025",
+    "open": 232,
+    "high": 251.14,
+    "low": 232,
+    "close": 249.02,
+    "volume": 613981944,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Apr-2025",
+    "open": 249.25,
+    "high": 256,
+    "low": 245.27,
+    "close": 246.84,
+    "volume": 304583752,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-May-2025",
+    "open": 242.68,
+    "high": 254,
+    "low": 239.01,
+    "close": 252,
+    "volume": 182059019,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-May-2025",
+    "open": 256,
+    "high": 257.39,
+    "low": 250.14,
+    "close": 252,
+    "volume": 105154597,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-May-2025",
+    "open": 250.8,
+    "high": 255.5,
+    "low": 250,
+    "close": 252,
+    "volume": 147975134,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-May-2025",
+    "open": 250.7,
+    "high": 251.99,
+    "low": 240.25,
+    "close": 248.9,
+    "volume": 57902121,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-May-2025",
+    "open": 252,
+    "high": 253.4,
+    "low": 245.29,
+    "close": 246,
+    "volume": 44522326,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-May-2025",
+    "open": 237.25,
+    "high": 249.95,
+    "low": 237,
+    "close": 245,
+    "volume": 32380214,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-May-2025",
+    "open": 253,
+    "high": 253,
+    "low": 246,
+    "close": 247.5,
+    "volume": 38212464,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-May-2025",
+    "open": 248.15,
+    "high": 258,
+    "low": 248.15,
+    "close": 256,
+    "volume": 88932543,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-May-2025",
+    "open": 259,
+    "high": 262.4,
+    "low": 254.77,
+    "close": 255.1,
+    "volume": 125841109,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-May-2025",
+    "open": 254.15,
+    "high": 260,
+    "low": 253.41,
+    "close": 254.7,
+    "volume": 81476602,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-May-2025",
+    "open": 255,
+    "high": 266.67,
+    "low": 255,
+    "close": 260.84,
+    "volume": 225080330,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-May-2025",
+    "open": 263.9,
+    "high": 269.74,
+    "low": 259.1,
+    "close": 268.5,
+    "volume": 132046236,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-May-2025",
+    "open": 270,
+    "high": 274,
+    "low": 266,
+    "close": 273.01,
+    "volume": 177493738,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-May-2025",
+    "open": 273.33,
+    "high": 274.47,
+    "low": 265.84,
+    "close": 270.69,
+    "volume": 136567878,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-May-2025",
+    "open": 270.27,
+    "high": 277.5,
+    "low": 267,
+    "close": 275.06,
+    "volume": 125317708,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-May-2025",
+    "open": 285,
+    "high": 330.19,
+    "low": 285,
+    "close": 330.19,
+    "volume": 7726443995,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-May-2025",
+    "open": 325,
+    "high": 327.48,
+    "low": 307.69,
+    "close": 313.3,
+    "volume": 2013737467,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-May-2025",
+    "open": 314,
+    "high": 323.56,
+    "low": 306.81,
+    "close": 317.22,
+    "volume": 487964054,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-May-2025",
+    "open": 318.7,
+    "high": 318.7,
+    "low": 306,
+    "close": 312,
+    "volume": 152811423,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-May-2025",
+    "open": 312.05,
+    "high": 324.1,
+    "low": 308.98,
+    "close": 321.55,
+    "volume": 198467544,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-May-2025",
+    "open": 318,
+    "high": 320.87,
+    "low": 310.39,
+    "close": 312,
+    "volume": 139260972,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Jun-2025",
+    "open": 311,
+    "high": 317,
+    "low": 310.45,
+    "close": 314,
+    "volume": 78232280,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Jun-2025",
+    "open": 316.75,
+    "high": 316.9,
+    "low": 308.3,
+    "close": 312,
+    "volume": 96114018,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Jun-2025",
+    "open": 313,
+    "high": 329.5,
+    "low": 313,
+    "close": 319.7,
+    "volume": 294439044,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Jun-2025",
+    "open": 326,
+    "high": 329.5,
+    "low": 312.1,
+    "close": 316,
+    "volume": 312013117,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Jun-2025",
+    "open": 315.95,
+    "high": 320.75,
+    "low": 312.45,
+    "close": 320.5,
+    "volume": 135380432,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Jun-2025",
+    "open": 324,
+    "high": 334.2,
+    "low": 317.8,
+    "close": 323,
+    "volume": 351671496,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Jun-2025",
+    "open": 325,
+    "high": 328.8,
+    "low": 315.4,
+    "close": 318.2,
+    "volume": 160445319,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Jun-2025",
+    "open": 318.2,
+    "high": 321.2,
+    "low": 311.3,
+    "close": 317.15,
+    "volume": 139064582,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Jun-2025",
+    "open": 317,
+    "high": 319.3,
+    "low": 310.2,
+    "close": 311.9,
+    "volume": 106868012,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Jun-2025",
+    "open": 305,
+    "high": 310,
+    "low": 303.75,
+    "close": 307.35,
+    "volume": 103898135,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Jun-2025",
+    "open": 305.6,
+    "high": 311,
+    "low": 303.75,
+    "close": 311,
+    "volume": 88577724,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Jun-2025",
+    "open": 310.95,
+    "high": 311,
+    "low": 300.15,
+    "close": 305.05,
+    "volume": 129275940,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Jun-2025",
+    "open": 305,
+    "high": 308.9,
+    "low": 302.55,
+    "close": 308,
+    "volume": 74065432,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Jun-2025",
+    "open": 308,
+    "high": 308.8,
+    "low": 303.6,
+    "close": 306.15,
+    "volume": 50807548,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Jun-2025",
+    "open": 306.1,
+    "high": 311.7,
+    "low": 295.65,
+    "close": 299,
+    "volume": 781527457,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Jun-2025",
+    "open": 296,
+    "high": 305.75,
+    "low": 296,
+    "close": 303.25,
+    "volume": 496546627,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Jun-2025",
+    "open": 307,
+    "high": 314,
+    "low": 302.4,
+    "close": 313.1,
+    "volume": 281467219,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Jun-2025",
+    "open": 312.55,
+    "high": 314.55,
+    "low": 308,
+    "close": 314,
+    "volume": 127737705,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Jun-2025",
+    "open": 312.1,
+    "high": 315.9,
+    "low": 305.05,
+    "close": 312.55,
+    "volume": 202638093,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Jun-2025",
+    "open": 315.7,
+    "high": 322.2,
+    "low": 307.05,
+    "close": 313,
+    "volume": 220083904,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Jun-2025",
+    "open": 312.4,
+    "high": 313.8,
+    "low": 307.55,
+    "close": 309.6,
+    "volume": 81355243,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Jul-2025",
+    "open": 310.5,
+    "high": 311,
+    "low": 301.1,
+    "close": 301.2,
+    "volume": 152559375,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Jul-2025",
+    "open": 302.5,
+    "high": 302.5,
+    "low": 292.3,
+    "close": 294.8,
+    "volume": 216913435,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Jul-2025",
+    "open": 295.95,
+    "high": 300.2,
+    "low": 292,
+    "close": 297.9,
+    "volume": 146001616,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Jul-2025",
+    "open": 299.9,
+    "high": 299.9,
+    "low": 293.25,
+    "close": 294.5,
+    "volume": 129866150,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Jul-2025",
+    "open": 295,
+    "high": 301,
+    "low": 292.5,
+    "close": 296.25,
+    "volume": 195160002,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Jul-2025",
+    "open": 296.25,
+    "high": 308.5,
+    "low": 294.15,
+    "close": 297.9,
+    "volume": 289016862,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Jul-2025",
+    "open": 297.1,
+    "high": 302.45,
+    "low": 297.1,
+    "close": 302,
+    "volume": 88171577,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Jul-2025",
+    "open": 304.3,
+    "high": 304.8,
+    "low": 298.45,
+    "close": 302.1,
+    "volume": 58578680,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Jul-2025",
+    "open": 303.4,
+    "high": 303.4,
+    "low": 293.05,
+    "close": 294.9,
+    "volume": 101206606,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Jul-2025",
+    "open": 296.8,
+    "high": 296.8,
+    "low": 286.6,
+    "close": 290.5,
+    "volume": 186821416,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Jul-2025",
+    "open": 290.4,
+    "high": 301,
+    "low": 290.4,
+    "close": 299.75,
+    "volume": 102840781,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Jul-2025",
+    "open": 299,
+    "high": 299.6,
+    "low": 295.35,
+    "close": 297.15,
+    "volume": 70765939,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Jul-2025",
+    "open": 300,
+    "high": 300.1,
+    "low": 293.1,
+    "close": 293.95,
+    "volume": 66362961,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Jul-2025",
+    "open": 294.45,
+    "high": 295.9,
+    "low": 285.5,
+    "close": 285.7,
+    "volume": 87373206,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Jul-2025",
+    "open": 287,
+    "high": 287.4,
+    "low": 280.5,
+    "close": 280.5,
+    "volume": 83886852,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Jul-2025",
+    "open": 281.9,
+    "high": 286.15,
+    "low": 281,
+    "close": 284,
+    "volume": 49866237,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Jul-2025",
+    "open": 285,
+    "high": 285.65,
+    "low": 272.55,
+    "close": 274.4,
+    "volume": 148347117,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Jul-2025",
+    "open": 274.7,
+    "high": 277.65,
+    "low": 273.1,
+    "close": 274.35,
+    "volume": 77296405,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Jul-2025",
+    "open": 274,
+    "high": 274,
+    "low": 262,
+    "close": 264,
+    "volume": 209122893,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Jul-2025",
+    "open": 265,
+    "high": 267.4,
+    "low": 260.5,
+    "close": 265.5,
+    "volume": 112718961,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Jul-2025",
+    "open": 263.1,
+    "high": 267.3,
+    "low": 261.55,
+    "close": 264.6,
+    "volume": 49547313,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Jul-2025",
+    "open": 264,
+    "high": 270.95,
+    "low": 263,
+    "close": 268.35,
+    "volume": 238427945,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Jul-2025",
+    "open": 267,
+    "high": 277.95,
+    "low": 260.55,
+    "close": 270.05,
+    "volume": 205972828,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Aug-2025",
+    "open": 271.3,
+    "high": 276.8,
+    "low": 270.1,
+    "close": 272.25,
+    "volume": 46516919,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Aug-2025",
+    "open": 271.35,
+    "high": 271.35,
+    "low": 263.8,
+    "close": 266.95,
+    "volume": 110417483,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Aug-2025",
+    "open": 265.4,
+    "high": 269.85,
+    "low": 257.35,
+    "close": 261.9,
+    "volume": 129607955,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Aug-2025",
+    "open": 261,
+    "high": 264.45,
+    "low": 258.6,
+    "close": 262.85,
+    "volume": 61538748,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Aug-2025",
+    "open": 260.5,
+    "high": 270.85,
+    "low": 258.45,
+    "close": 263.3,
+    "volume": 125331580,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Aug-2025",
+    "open": 264.8,
+    "high": 265.95,
+    "low": 257.85,
+    "close": 258,
+    "volume": 38880847,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Aug-2025",
+    "open": 257.85,
+    "high": 268.95,
+    "low": 255.45,
+    "close": 266,
+    "volume": 83367754,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Aug-2025",
+    "open": 266,
+    "high": 275,
+    "low": 263.3,
+    "close": 271,
+    "volume": 139466696,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Aug-2025",
+    "open": 283,
+    "high": 304.7,
+    "low": 282.75,
+    "close": 284.4,
+    "volume": 6123837153,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Aug-2025",
+    "open": 285.15,
+    "high": 288.65,
+    "low": 277,
+    "close": 278,
+    "volume": 335464075,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Aug-2025",
+    "open": 280.3,
+    "high": 288.9,
+    "low": 274.55,
+    "close": 284,
+    "volume": 411126965,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Aug-2025",
+    "open": 284.35,
+    "high": 287.2,
+    "low": 280.25,
+    "close": 286.4,
+    "volume": 128594666,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Aug-2025",
+    "open": 285.65,
+    "high": 299,
+    "low": 285.15,
+    "close": 298.1,
+    "volume": 417159131,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Aug-2025",
+    "open": 300,
+    "high": 302.45,
+    "low": 294.6,
+    "close": 300,
+    "volume": 236633555,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Aug-2025",
+    "open": 300.25,
+    "high": 309.8,
+    "low": 296.95,
+    "close": 300.75,
+    "volume": 376108398,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Aug-2025",
+    "open": 301.05,
+    "high": 304.3,
+    "low": 297.6,
+    "close": 300,
+    "volume": 112959035,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Aug-2025",
+    "open": 299.3,
+    "high": 300.85,
+    "low": 294.3,
+    "close": 295.05,
+    "volume": 102180655,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Aug-2025",
+    "open": 295.95,
+    "high": 296.2,
+    "low": 288.6,
+    "close": 295.45,
+    "volume": 100224457,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Aug-2025",
+    "open": 293.45,
+    "high": 297.05,
+    "low": 292.15,
+    "close": 292.95,
+    "volume": 84728326,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Sep-2025",
+    "open": 293.55,
+    "high": 300.05,
+    "low": 293,
+    "close": 298,
+    "volume": 59439938,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Sep-2025",
+    "open": 299.5,
+    "high": 302.95,
+    "low": 296.35,
+    "close": 296.65,
+    "volume": 75562263,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Sep-2025",
+    "open": 298.55,
+    "high": 304.7,
+    "low": 297.3,
+    "close": 301.5,
+    "volume": 86210523,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Sep-2025",
+    "open": 309.7,
+    "high": 309.7,
+    "low": 300,
+    "close": 301.05,
+    "volume": 205089797,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Sep-2025",
+    "open": 303.9,
+    "high": 303.9,
+    "low": 296.85,
+    "close": 301.8,
+    "volume": 98765528,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Sep-2025",
+    "open": 300,
+    "high": 302.95,
+    "low": 297.1,
+    "close": 300.7,
+    "volume": 47195142,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Sep-2025",
+    "open": 301.7,
+    "high": 306.65,
+    "low": 299.3,
+    "close": 303.4,
+    "volume": 115212913,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Sep-2025",
+    "open": 302,
+    "high": 304.65,
+    "low": 300.5,
+    "close": 302.75,
+    "volume": 64641171,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Sep-2025",
+    "open": 303.35,
+    "high": 304.8,
+    "low": 299.1,
+    "close": 299.6,
+    "volume": 49083068,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Sep-2025",
+    "open": 301,
+    "high": 302,
+    "low": 298.75,
+    "close": 299.5,
+    "volume": 37103783,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Sep-2025",
+    "open": 300.75,
+    "high": 302.9,
+    "low": 299.2,
+    "close": 299.55,
+    "volume": 80087058,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Sep-2025",
+    "open": 299.6,
+    "high": 307.5,
+    "low": 299.25,
+    "close": 305.85,
+    "volume": 189292359,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Sep-2025",
+    "open": 308.6,
+    "high": 310,
+    "low": 301.2,
+    "close": 302.1,
+    "volume": 77570647,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Sep-2025",
+    "open": 304.2,
+    "high": 306.8,
+    "low": 301.1,
+    "close": 305.8,
+    "volume": 72533587,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Sep-2025",
+    "open": 306.45,
+    "high": 308.2,
+    "low": 300,
+    "close": 301.6,
+    "volume": 134883195,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Sep-2025",
+    "open": 301.5,
+    "high": 304.35,
+    "low": 298.65,
+    "close": 300.4,
+    "volume": 60284400,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Sep-2025",
+    "open": 300.45,
+    "high": 302.65,
+    "low": 298.25,
+    "close": 300.25,
+    "volume": 59422531,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Sep-2025",
+    "open": 301.45,
+    "high": 302.75,
+    "low": 298.9,
+    "close": 300,
+    "volume": 46736526,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Sep-2025",
+    "open": 298,
+    "high": 300,
+    "low": 292.95,
+    "close": 295.55,
+    "volume": 299669196,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Sep-2025",
+    "open": 294.85,
+    "high": 294.85,
+    "low": 280.55,
+    "close": 284,
+    "volume": 269321706,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Sep-2025",
+    "open": 288,
+    "high": 288,
+    "low": 275.55,
+    "close": 277.05,
+    "volume": 110667382,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Sep-2025",
+    "open": 277.05,
+    "high": 282,
+    "low": 276,
+    "close": 280.1,
+    "volume": 35492169,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Oct-2025",
+    "open": 278.1,
+    "high": 287.95,
+    "low": 278.1,
+    "close": 284.35,
+    "volume": 46803264,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Oct-2025",
+    "open": 287,
+    "high": 299,
+    "low": 281.35,
+    "close": 292.05,
+    "volume": 166411086,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Oct-2025",
+    "open": 286,
+    "high": 296.9,
+    "low": 286,
+    "close": 295.7,
+    "volume": 61603184,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Oct-2025",
+    "open": 295.8,
+    "high": 296.5,
+    "low": 291.95,
+    "close": 295.05,
+    "volume": 42557432,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Oct-2025",
+    "open": 296.4,
+    "high": 297.2,
+    "low": 282.1,
+    "close": 284.05,
+    "volume": 82390185,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Oct-2025",
+    "open": 284.5,
+    "high": 289,
+    "low": 282.25,
+    "close": 287.1,
+    "volume": 28876833,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Oct-2025",
+    "open": 287.1,
+    "high": 295,
+    "low": 286.25,
+    "close": 290.8,
+    "volume": 50594379,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Oct-2025",
+    "open": 291.5,
+    "high": 291.5,
+    "low": 282.6,
+    "close": 284.55,
+    "volume": 50561239,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Oct-2025",
+    "open": 283.7,
+    "high": 290,
+    "low": 277.2,
+    "close": 285.15,
+    "volume": 95840209,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Oct-2025",
+    "open": 284,
+    "high": 285.95,
+    "low": 281,
+    "close": 285.5,
+    "volume": 52117482,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Oct-2025",
+    "open": 285,
+    "high": 286.6,
+    "low": 278.8,
+    "close": 281,
+    "volume": 66277775,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Oct-2025",
+    "open": 281.1,
+    "high": 281.7,
+    "low": 275.5,
+    "close": 278,
+    "volume": 44748676,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Oct-2025",
+    "open": 279.2,
+    "high": 279.2,
+    "low": 272.65,
+    "close": 277.4,
+    "volume": 82794617,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Oct-2025",
+    "open": 278.1,
+    "high": 282,
+    "low": 278.1,
+    "close": 278.8,
+    "volume": 6827504,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Oct-2025",
+    "open": 279.4,
+    "high": 280.5,
+    "low": 273.5,
+    "close": 275,
+    "volume": 71555682,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Oct-2025",
+    "open": 275,
+    "high": 280,
+    "low": 270.9,
+    "close": 275.25,
+    "volume": 59239141,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Oct-2025",
+    "open": 274.9,
+    "high": 275.3,
+    "low": 270.05,
+    "close": 270.3,
+    "volume": 93786273,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Oct-2025",
+    "open": 271,
+    "high": 277,
+    "low": 268,
+    "close": 272.15,
+    "volume": 160076666,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Oct-2025",
+    "open": 271.55,
+    "high": 282.4,
+    "low": 271.35,
+    "close": 278.25,
+    "volume": 83311921,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Oct-2025",
+    "open": 280.1,
+    "high": 280.1,
+    "low": 273.4,
+    "close": 278,
+    "volume": 59503593,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Oct-2025",
+    "open": 278.3,
+    "high": 293.65,
+    "low": 276.95,
+    "close": 283.1,
+    "volume": 306027695,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Nov-2025",
+    "open": 285.5,
+    "high": 288.6,
+    "low": 278.1,
+    "close": 280,
+    "volume": 73891283,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Nov-2025",
+    "open": 281,
+    "high": 282.8,
+    "low": 277.35,
+    "close": 281,
+    "volume": 60832926,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Nov-2025",
+    "open": 280,
+    "high": 282.65,
+    "low": 276.35,
+    "close": 277,
+    "volume": 32708725,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Nov-2025",
+    "open": 276,
+    "high": 277.5,
+    "low": 270.3,
+    "close": 272.1,
+    "volume": 90656822,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Nov-2025",
+    "open": 272.1,
+    "high": 280.4,
+    "low": 266.05,
+    "close": 274.6,
+    "volume": 199926323,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Nov-2025",
+    "open": 274.95,
+    "high": 278.2,
+    "low": 271.15,
+    "close": 277,
+    "volume": 270118533,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Nov-2025",
+    "open": 279.9,
+    "high": 291,
+    "low": 276.3,
+    "close": 283.95,
+    "volume": 689000040,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Nov-2025",
+    "open": 300,
+    "high": 308.2,
+    "low": 286.35,
+    "close": 288,
+    "volume": 5114256105,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Nov-2025",
+    "open": 286.65,
+    "high": 296.8,
+    "low": 283.85,
+    "close": 290.8,
+    "volume": 415185381,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Nov-2025",
+    "open": 293,
+    "high": 302.3,
+    "low": 285.4,
+    "close": 298,
+    "volume": 477163430,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Nov-2025",
+    "open": 299,
+    "high": 299,
+    "low": 286.85,
+    "close": 287,
+    "volume": 120294456,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Nov-2025",
+    "open": 286,
+    "high": 295.2,
+    "low": 284.1,
+    "close": 292.2,
+    "volume": 215829738,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Nov-2025",
+    "open": 293.05,
+    "high": 295.75,
+    "low": 288.65,
+    "close": 290,
+    "volume": 85935414,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Nov-2025",
+    "open": 289.65,
+    "high": 293.45,
+    "low": 285.65,
+    "close": 285.8,
+    "volume": 75915398,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Nov-2025",
+    "open": 286.9,
+    "high": 291.5,
+    "low": 284.3,
+    "close": 290,
+    "volume": 62432678,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Nov-2025",
+    "open": 289.65,
+    "high": 296.6,
+    "low": 286.25,
+    "close": 294.95,
+    "volume": 142206609,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Nov-2025",
+    "open": 295.05,
+    "high": 296.8,
+    "low": 289.5,
+    "close": 295,
+    "volume": 89849561,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Nov-2025",
+    "open": 294,
+    "high": 295.8,
+    "low": 287.85,
+    "close": 289.55,
+    "volume": 53614862,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Nov-2025",
+    "open": 289.55,
+    "high": 291.25,
+    "low": 286.5,
+    "close": 290.6,
+    "volume": 53679504,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Dec-2025",
+    "open": 289.6,
+    "high": 291,
+    "low": 284.5,
+    "close": 287.05,
+    "volume": 44336479,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Dec-2025",
+    "open": 286.55,
+    "high": 289.75,
+    "low": 284.35,
+    "close": 284.35,
+    "volume": 47940902,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Dec-2025",
+    "open": 285.45,
+    "high": 287.1,
+    "low": 279.75,
+    "close": 280.35,
+    "volume": 66460174,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Dec-2025",
+    "open": 281,
+    "high": 281.8,
+    "low": 277.05,
+    "close": 277.5,
+    "volume": 33994041,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Dec-2025",
+    "open": 276,
+    "high": 282,
+    "low": 273.35,
+    "close": 275.6,
+    "volume": 52516704,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Dec-2025",
+    "open": 273.7,
+    "high": 274.2,
+    "low": 250,
+    "close": 256,
+    "volume": 602772631,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Dec-2025",
+    "open": 256.1,
+    "high": 262.35,
+    "low": 250.7,
+    "close": 260,
+    "volume": 617701257,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Dec-2025",
+    "open": 259.7,
+    "high": 265.2,
+    "low": 255.55,
+    "close": 257,
+    "volume": 124926125,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Dec-2025",
+    "open": 257.5,
+    "high": 258.1,
+    "low": 248.4,
+    "close": 255,
+    "volume": 210902935,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Dec-2025",
+    "open": 260,
+    "high": 269,
+    "low": 253.15,
+    "close": 261.5,
+    "volume": 1399081872,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Dec-2025",
+    "open": 260.3,
+    "high": 260.7,
+    "low": 254.5,
+    "close": 255,
+    "volume": 198889417,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Dec-2025",
+    "open": 256,
+    "high": 262.15,
+    "low": 254.05,
+    "close": 259.8,
+    "volume": 230653057,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Dec-2025",
+    "open": 258,
+    "high": 260.95,
+    "low": 254.65,
+    "close": 257,
+    "volume": 459736173,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Dec-2025",
+    "open": 256,
+    "high": 260,
+    "low": 250.5,
+    "close": 257.9,
+    "volume": 133407494,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Dec-2025",
+    "open": 259,
+    "high": 273.05,
+    "low": 257.4,
+    "close": 270.3,
+    "volume": 349003964,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Dec-2025",
+    "open": 268.2,
+    "high": 271.65,
+    "low": 265.4,
+    "close": 267,
+    "volume": 67552583,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Dec-2025",
+    "open": 266.9,
+    "high": 274.8,
+    "low": 265.4,
+    "close": 271.65,
+    "volume": 58160820,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Dec-2025",
+    "open": 271.3,
+    "high": 276.45,
+    "low": 270.4,
+    "close": 275,
+    "volume": 103633482,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Dec-2025",
+    "open": 270,
+    "high": 279.25,
+    "low": 267.2,
+    "close": 267.3,
+    "volume": 62161249,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Dec-2025",
+    "open": 267.8,
+    "high": 281.75,
+    "low": 266.4,
+    "close": 276.2,
+    "volume": 278540789,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Dec-2025",
+    "open": 279.25,
+    "high": 299.4,
+    "low": 267.4,
+    "close": 289.2,
+    "volume": 6493653367,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "31-Dec-2025",
+    "open": 288.4,
+    "high": 291.8,
+    "low": 283,
+    "close": 286,
+    "volume": 270842541,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Jan-2026",
+    "open": 284.65,
+    "high": 286.85,
+    "low": 282.2,
+    "close": 284.1,
+    "volume": 47565322,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 285.3,
+    "high": 296.7,
+    "low": 282.2,
+    "close": 292,
+    "volume": 303936794,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 292.75,
+    "high": 297.8,
+    "low": 290.65,
+    "close": 292.05,
+    "volume": 198226450,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 295,
+    "high": 304.4,
+    "low": 291,
+    "close": 299.9,
+    "volume": 331211802,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 300,
+    "high": 305.2,
+    "low": 296.35,
+    "close": 300.3,
+    "volume": 152730335,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 300.95,
+    "high": 300.95,
+    "low": 293,
+    "close": 295,
+    "volume": 74692176,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 294.65,
+    "high": 296.8,
+    "low": 288,
+    "close": 292,
+    "volume": 69394792,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 289.8,
+    "high": 290.6,
+    "low": 283.9,
+    "close": 288,
+    "volume": 89544836,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 291,
+    "high": 291.5,
+    "low": 286.15,
+    "close": 290.5,
+    "volume": 73093135,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 290,
+    "high": 290.1,
+    "low": 286.45,
+    "close": 286.75,
+    "volume": 39812525,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 287.85,
+    "high": 288.1,
+    "low": 282.7,
+    "close": 286.35,
+    "volume": 88597271,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 285.9,
+    "high": 286.35,
+    "low": 279.4,
+    "close": 281.35,
+    "volume": 287205846,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 283,
+    "high": 284.9,
+    "low": 274.35,
+    "close": 276.9,
+    "volume": 68799214,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 273.45,
+    "high": 277.7,
+    "low": 267.35,
+    "close": 272.15,
+    "volume": 122481375,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 274,
+    "high": 277.85,
+    "low": 270.3,
+    "close": 275.5,
+    "volume": 50101028,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 277.65,
+    "high": 277.65,
+    "low": 267.65,
+    "close": 271.5,
+    "volume": 62078274,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 271.8,
+    "high": 274.9,
+    "low": 265.45,
+    "close": 268.9,
+    "volume": 94759131,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 268,
+    "high": 270.15,
+    "low": 262.6,
+    "close": 268.8,
+    "volume": 79417405,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 268.8,
+    "high": 269.6,
+    "low": 260.8,
+    "close": 266.7,
+    "volume": 58420560,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 265.7,
+    "high": 278.05,
+    "low": 263,
+    "close": 275.15,
+    "volume": 88417437,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 276.35,
+    "high": 283.95,
+    "low": 270.1,
+    "close": 278,
+    "volume": 38670054,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 270,
+    "high": 277.4,
+    "low": 269.55,
+    "close": 274.1,
+    "volume": 40731294,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 281,
+    "high": 284.4,
+    "low": 269.85,
+    "close": 276,
+    "volume": 119372839,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 276.35,
+    "high": 282.25,
+    "low": 270.15,
+    "close": 277,
+    "volume": 218097729,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 275.1,
+    "high": 283,
+    "low": 275.1,
+    "close": 280.4,
+    "volume": 55328977,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 278.5,
+    "high": 287.4,
+    "low": 276.05,
+    "close": 285,
+    "volume": 40381254,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 290.85,
+    "high": 295,
+    "low": 286,
+    "close": 290.2,
+    "volume": 122171425,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 293.15,
+    "high": 298.2,
+    "low": 288.25,
+    "close": 295.05,
+    "volume": 164061995,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 297.55,
+    "high": 297.8,
+    "low": 288.25,
+    "close": 290.25,
+    "volume": 183515499,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 296.9,
+    "high": 303.2,
+    "low": 289.65,
+    "close": 298.9,
+    "volume": 589824974,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 311,
+    "high": 319,
+    "low": 296.1,
+    "close": 298.8,
+    "volume": 6672707664,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 300.15,
+    "high": 310.95,
+    "low": 298,
+    "close": 305.8,
+    "volume": 999518655,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 304.1,
+    "high": 306.2,
+    "low": 295.25,
+    "close": 300.2,
+    "volume": 470348905,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 299,
+    "high": 303.75,
+    "low": 297.6,
+    "close": 302.2,
+    "volume": 159752112,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 301.5,
+    "high": 309.1,
+    "low": 301.35,
+    "close": 305,
+    "volume": 244754454,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 305,
+    "high": 305,
+    "low": 298.95,
+    "close": 300.15,
+    "volume": 228086430,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 306.5,
+    "high": 312.9,
+    "low": 303,
+    "close": 307,
+    "volume": 304713634,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 307,
+    "high": 308.65,
+    "low": 300.7,
+    "close": 303,
+    "volume": 231399012,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 306,
+    "high": 307.4,
+    "low": 302.3,
+    "close": 304.4,
+    "volume": 73020164,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 305.45,
+    "high": 309.6,
+    "low": 304.35,
+    "close": 308,
+    "volume": 84559122,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 307.4,
+    "high": 307.4,
+    "low": 300.65,
+    "close": 304.9,
+    "volume": 137764183,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 286.8,
+    "high": 296.85,
+    "low": 286.8,
+    "close": 292,
+    "volume": 160455770,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 285.75,
+    "high": 291,
+    "low": 283,
+    "close": 288,
+    "volume": 161372639,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 292.25,
+    "high": 304.85,
+    "low": 288.5,
+    "close": 299,
+    "volume": 352970216,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 296,
+    "high": 302.75,
+    "low": 288.1,
+    "close": 290.1,
+    "volume": 117682264,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 285,
+    "high": 287.8,
+    "low": 278.05,
+    "close": 287.8,
+    "volume": 76481831,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 288.85,
+    "high": 291.95,
+    "low": 287.2,
+    "close": 287.5,
+    "volume": 70486105,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 288.2,
+    "high": 298.2,
+    "low": 286.8,
+    "close": 287.9,
+    "volume": 215076455,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 283,
+    "high": 287,
+    "low": 278.55,
+    "close": 279.1,
+    "volume": 130246236,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 279.65,
+    "high": 279.65,
+    "low": 267.5,
+    "close": 267.9,
+    "volume": 117382909,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 265.4,
+    "high": 267.85,
+    "low": 261.6,
+    "close": 266,
+    "volume": 119992921,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 265.9,
+    "high": 267.15,
+    "low": 262.1,
+    "close": 265.55,
+    "volume": 125305487,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 266.2,
+    "high": 295.95,
+    "low": 264,
+    "close": 280,
+    "volume": 935252550,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 277.6,
+    "high": 282.9,
+    "low": 273.85,
+    "close": 278.8,
+    "volume": 111399394,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 279.9,
+    "high": 292.05,
+    "low": 277.75,
+    "close": 289.45,
+    "volume": 209934791,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 285,
+    "high": 286.4,
+    "low": 277.75,
+    "close": 280,
+    "volume": 74099579,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 282.6,
+    "high": 292,
+    "low": 280.35,
+    "close": 286.45,
+    "volume": 103532318,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 285,
+    "high": 295.7,
+    "low": 285,
+    "close": 293,
+    "volume": 187947929,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 290.3,
+    "high": 300.45,
+    "low": 287.05,
+    "close": 293.25,
+    "volume": 184953678,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 291.05,
+    "high": 299.85,
+    "low": 288.2,
+    "close": 298.4,
+    "volume": 196756856,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 304,
+    "high": 309.4,
+    "low": 301.45,
+    "close": 306,
+    "volume": 349316044,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 302,
+    "high": 306.3,
+    "low": 295,
+    "close": 303.15,
+    "volume": 186706198,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 302,
+    "high": 309.7,
+    "low": 300.5,
+    "close": 304.75,
+    "volume": 141015682,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 304,
+    "high": 307.2,
+    "low": 300.15,
+    "close": 302,
+    "volume": 131615779,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 309,
+    "high": 316.9,
+    "low": 305.55,
+    "close": 313.05,
+    "volume": 324452507,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 320,
+    "high": 348.65,
+    "low": 316.6,
+    "close": 331.2,
+    "volume": 3462375953,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 333.95,
+    "high": 348.7,
+    "low": 328.85,
+    "close": 346.8,
+    "volume": 759530332,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 342.7,
+    "high": 353.55,
+    "low": 341,
+    "close": 342,
+    "volume": 708144456,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 351.5,
+    "high": 351.6,
+    "low": 339,
+    "close": 341.5,
+    "volume": 327718214,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 342.4,
+    "high": 347.65,
+    "low": 335.1,
+    "close": 343.1,
+    "volume": 294046281,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 344.15,
+    "high": 347.25,
+    "low": 341.7,
+    "close": 345.95,
+    "volume": 204810928,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 348.5,
+    "high": 348.5,
+    "low": 340.1,
+    "close": 341.3,
+    "volume": 131704847,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 342.8,
+    "high": 355,
+    "low": 341.55,
+    "close": 354.05,
+    "volume": 172500816,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 353.8,
+    "high": 359.75,
+    "low": 341.1,
+    "close": 341.1,
+    "volume": 346589244,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 342.1,
+    "high": 352,
+    "low": 337.3,
+    "close": 344.1,
+    "volume": 178772068,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 347.45,
+    "high": 352,
+    "low": 341.95,
+    "close": 347.1,
+    "volume": 142215123,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 349.2,
+    "high": 351.7,
+    "low": 343.3,
+    "close": 346,
+    "volume": 179554775,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 347,
+    "high": 353,
+    "low": 344.15,
+    "close": 346.2,
+    "volume": 137472655,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 347.4,
+    "high": 351.85,
+    "low": 344.85,
+    "close": 346,
+    "volume": 143547336,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 347.85,
+    "high": 347.85,
+    "low": 339.5,
+    "close": 340.1,
+    "volume": 155675407,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 336.95,
+    "high": 345.55,
+    "low": 331,
+    "close": 339.2,
+    "volume": 202665920,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 340.65,
+    "high": 345,
+    "low": 336,
+    "close": 340.3,
+    "volume": 78827533,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 345,
+    "high": 349,
+    "low": 337.35,
+    "close": 345,
+    "volume": 125625013,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 346,
+    "high": 357,
+    "low": 343,
+    "close": 355,
+    "volume": 278839305,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 357.9,
+    "high": 362.8,
+    "low": 352.45,
+    "close": 357.4,
+    "volume": 327572474,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 361,
+    "high": 362.8,
+    "low": 348.5,
+    "close": 354,
+    "volume": 296039307,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 353,
+    "high": 354.4,
+    "low": 347,
+    "close": 347,
+    "volume": 146746173,
+    "symbol": "HONASA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 347.15,
+    "high": 352.6,
+    "low": 345,
+    "close": 345.5,
+    "volume": 320019274,
+    "symbol": "HONASA"
+  }
+]

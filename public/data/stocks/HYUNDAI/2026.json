@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2305,
+    "high": 2314.8,
+    "low": 2283.3,
+    "close": 2310,
+    "volume": 888436548,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2284,
+    "high": 2284,
+    "low": 2246.2,
+    "close": 2266,
+    "volume": 2656793857,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2267.8,
+    "high": 2284.3,
+    "low": 2251,
+    "close": 2280,
+    "volume": 830851363,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2289,
+    "high": 2309.9,
+    "low": 2266.1,
+    "close": 2309,
+    "volume": 759600324,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2313,
+    "high": 2366.8,
+    "low": 2291.7,
+    "close": 2357,
+    "volume": 1115071725,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2362,
+    "high": 2362,
+    "low": 2330,
+    "close": 2349,
+    "volume": 632114140,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2330.1,
+    "high": 2342.7,
+    "low": 2256.4,
+    "close": 2270,
+    "volume": 2030570971,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2264.1,
+    "high": 2303,
+    "low": 2232.6,
+    "close": 2292,
+    "volume": 912891082,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2295,
+    "high": 2319.4,
+    "low": 2271,
+    "close": 2300,
+    "volume": 712668177,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2300,
+    "high": 2322.1,
+    "low": 2282.1,
+    "close": 2315.3,
+    "volume": 453555759,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2300,
+    "high": 2349.9,
+    "low": 2300,
+    "close": 2344,
+    "volume": 1308036876,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2325,
+    "high": 2354,
+    "low": 2302,
+    "close": 2347,
+    "volume": 1425070302,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2327,
+    "high": 2339,
+    "low": 2282,
+    "close": 2317,
+    "volume": 1490710962,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2300,
+    "high": 2312.9,
+    "low": 2240.1,
+    "close": 2276.3,
+    "volume": 1885659943,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2281,
+    "high": 2297.9,
+    "low": 2255.2,
+    "close": 2275,
+    "volume": 1576471638,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2278,
+    "high": 2289.5,
+    "low": 2241,
+    "close": 2264.1,
+    "volume": 1285343831,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2261.8,
+    "high": 2267,
+    "low": 2162.2,
+    "close": 2182,
+    "volume": 2372684708,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2169.9,
+    "high": 2182.8,
+    "low": 2128.1,
+    "close": 2159,
+    "volume": 2239845003,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2152,
+    "high": 2158.5,
+    "low": 2113.4,
+    "close": 2148,
+    "volume": 1232531348,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2139.3,
+    "high": 2225,
+    "low": 2125,
+    "close": 2176.2,
+    "volume": 1560511895,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2182.3,
+    "high": 2230,
+    "low": 2150.4,
+    "close": 2197,
+    "volume": 643983409,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2183.4,
+    "high": 2210,
+    "low": 2125,
+    "close": 2208.8,
+    "volume": 1613762334,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2197.9,
+    "high": 2250,
+    "low": 2159.1,
+    "close": 2200.5,
+    "volume": 2344182374,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2220,
+    "high": 2220,
+    "low": 2167,
+    "close": 2189,
+    "volume": 1932786155,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2189.8,
+    "high": 2189.8,
+    "low": 2149.1,
+    "close": 2174.3,
+    "volume": 1070411726,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2174.3,
+    "high": 2190,
+    "low": 2152,
+    "close": 2187,
+    "volume": 565087114,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2193,
+    "high": 2196.4,
+    "low": 2162.8,
+    "close": 2177.7,
+    "volume": 758038604,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2178,
+    "high": 2192.1,
+    "low": 2163,
+    "close": 2181,
+    "volume": 654661568,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2180.8,
+    "high": 2200.7,
+    "low": 2166.2,
+    "close": 2187,
+    "volume": 962377055,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2188.5,
+    "high": 2189.9,
+    "low": 2144,
+    "close": 2174.6,
+    "volume": 915472097,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2163.1,
+    "high": 2186,
+    "low": 2136.4,
+    "close": 2180,
+    "volume": 614049447,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2161,
+    "high": 2170.9,
+    "low": 2153.3,
+    "close": 2168,
+    "volume": 620902575,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2161.1,
+    "high": 2195.1,
+    "low": 2152.6,
+    "close": 2189.2,
+    "volume": 386238908,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2181,
+    "high": 2241,
+    "low": 2167.3,
+    "close": 2220,
+    "volume": 615204741,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2225.6,
+    "high": 2225.6,
+    "low": 2165,
+    "close": 2168,
+    "volume": 276785349,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2168,
+    "high": 2366.5,
+    "low": 2162,
+    "close": 2258,
+    "volume": 2041492155,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2275,
+    "high": 2301.3,
+    "low": 2223.9,
+    "close": 2262,
+    "volume": 863943552,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2262,
+    "high": 2265.5,
+    "low": 2152.3,
+    "close": 2163.8,
+    "volume": 1471949571,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2170,
+    "high": 2213.6,
+    "low": 2152.1,
+    "close": 2206.8,
+    "volume": 1458457684,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 2195.5,
+    "high": 2200.4,
+    "low": 2177.1,
+    "close": 2186.6,
+    "volume": 1049281964,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 2175.6,
+    "high": 2179.9,
+    "low": 2141,
+    "close": 2173.2,
+    "volume": 1265738504,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2105,
+    "high": 2152.6,
+    "low": 2095.5,
+    "close": 2148,
+    "volume": 865977160,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2100.9,
+    "high": 2105,
+    "low": 2067.4,
+    "close": 2070.3,
+    "volume": 1955867489,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2084.9,
+    "high": 2140,
+    "low": 2065,
+    "close": 2125.1,
+    "volume": 1140011850,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2125,
+    "high": 2137.1,
+    "low": 2075,
+    "close": 2080,
+    "volume": 977244870,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 2045,
+    "high": 2094.1,
+    "low": 2009,
+    "close": 2084.9,
+    "volume": 1568455665,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2092.6,
+    "high": 2124.9,
+    "low": 2081,
+    "close": 2100,
+    "volume": 621433098,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2099.8,
+    "high": 2100,
+    "low": 2003.9,
+    "close": 2020,
+    "volume": 1629254032,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2006,
+    "high": 2008.9,
+    "low": 1969.1,
+    "close": 1990.4,
+    "volume": 1092447771,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1984.8,
+    "high": 2024,
+    "low": 1981.2,
+    "close": 2018.2,
+    "volume": 770262024,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 2004,
+    "high": 2009,
+    "low": 1930.3,
+    "close": 1949.4,
+    "volume": 2590814556,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1963.9,
+    "high": 1982.7,
+    "low": 1933.3,
+    "close": 1970,
+    "volume": 643509138,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1975.1,
+    "high": 1997.5,
+    "low": 1956.7,
+    "close": 1990.1,
+    "volume": 675469390,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1960,
+    "high": 1969.6,
+    "low": 1948,
+    "close": 1952.2,
+    "volume": 326590313,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1954.9,
+    "high": 1979.5,
+    "low": 1942.3,
+    "close": 1956.5,
+    "volume": 1326422758,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1940,
+    "high": 1940.9,
+    "low": 1860,
+    "close": 1863.9,
+    "volume": 702345286,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1882.6,
+    "high": 1887,
+    "low": 1826,
+    "close": 1851,
+    "volume": 1151025293,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1875,
+    "high": 1906.9,
+    "low": 1871.4,
+    "close": 1886.8,
+    "volume": 943663479,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1862,
+    "high": 1863.2,
+    "low": 1801,
+    "close": 1808,
+    "volume": 2325461327,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1785.1,
+    "high": 1797,
+    "low": 1734.1,
+    "close": 1779,
+    "volume": 1912242981,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1828,
+    "high": 1828.8,
+    "low": 1699,
+    "close": 1720,
+    "volume": 7456685705,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1715,
+    "high": 1719.9,
+    "low": 1660.1,
+    "close": 1709.9,
+    "volume": 1970612536,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1719,
+    "high": 1719.9,
+    "low": 1658,
+    "close": 1703,
+    "volume": 4684910862,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1691.2,
+    "high": 1713.9,
+    "low": 1681.2,
+    "close": 1710.4,
+    "volume": 2722175536,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1762,
+    "high": 1798,
+    "low": 1743.3,
+    "close": 1781,
+    "volume": 2307420710,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1778.9,
+    "high": 1823.8,
+    "low": 1755,
+    "close": 1764.8,
+    "volume": 2384528711,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1777.9,
+    "high": 1809.5,
+    "low": 1771,
+    "close": 1795,
+    "volume": 1003513979,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1759.3,
+    "high": 1772.5,
+    "low": 1731.1,
+    "close": 1745,
+    "volume": 1630005834,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1774,
+    "high": 1808.8,
+    "low": 1766.4,
+    "close": 1781,
+    "volume": 1953389964,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1797,
+    "high": 1869,
+    "low": 1777.1,
+    "close": 1851.5,
+    "volume": 2796779648,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1859.9,
+    "high": 1921.7,
+    "low": 1846.3,
+    "close": 1889,
+    "volume": 3163881207,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1887.1,
+    "high": 1903.5,
+    "low": 1860.2,
+    "close": 1888,
+    "volume": 1467946489,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1899,
+    "high": 1907,
+    "low": 1881.3,
+    "close": 1886,
+    "volume": 1104965444,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1880,
+    "high": 1880.9,
+    "low": 1845.2,
+    "close": 1851,
+    "volume": 1024085347,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1846.9,
+    "high": 1859.9,
+    "low": 1817,
+    "close": 1838.9,
+    "volume": 1608611925,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1848.7,
+    "high": 1853.2,
+    "low": 1772.2,
+    "close": 1786.7,
+    "volume": 1953191288,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1794.9,
+    "high": 1846.2,
+    "low": 1790,
+    "close": 1846.2,
+    "volume": 1037661427,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1839.9,
+    "high": 1867.8,
+    "low": 1815,
+    "close": 1827,
+    "volume": 2772971788,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1824.8,
+    "high": 1855,
+    "low": 1810.7,
+    "close": 1818,
+    "volume": 1349226423,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1815.5,
+    "high": 1830,
+    "low": 1795.8,
+    "close": 1828,
+    "volume": 949654795,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1840,
+    "high": 1862.8,
+    "low": 1818.1,
+    "close": 1845.9,
+    "volume": 1135335572,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1829.7,
+    "high": 1840.4,
+    "low": 1797.8,
+    "close": 1820,
+    "volume": 1245787113,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1834,
+    "high": 1856.9,
+    "low": 1810.2,
+    "close": 1852.5,
+    "volume": 1108217011,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1859.9,
+    "high": 1859.9,
+    "low": 1828.5,
+    "close": 1841.4,
+    "volume": 1129754076,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1844,
+    "high": 1863.9,
+    "low": 1830,
+    "close": 1833.1,
+    "volume": 1563587532,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1853.1,
+    "high": 1944,
+    "low": 1850.5,
+    "close": 1905,
+    "volume": 7627459660,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1903.5,
+    "high": 1929.9,
+    "low": 1860,
+    "close": 1876,
+    "volume": 2628218351,
+    "symbol": "HYUNDAI"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1824,
+    "high": 1886.2,
+    "low": 1804.5,
+    "close": 1848,
+    "volume": 3378134079,
+    "symbol": "HYUNDAI"
+  }
+]

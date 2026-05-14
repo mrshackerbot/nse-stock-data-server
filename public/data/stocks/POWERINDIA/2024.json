@@ -1,0 +1,2243 @@
+[
+  {
+    "date": "01-Jan-2024",
+    "open": 5294.6,
+    "high": 5489,
+    "low": 5274.45,
+    "close": 5440,
+    "volume": 157327459,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Jan-2024",
+    "open": 5440.05,
+    "high": 5545.05,
+    "low": 5348.65,
+    "close": 5450,
+    "volume": 127711851,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-Jan-2024",
+    "open": 5453.1,
+    "high": 5537.15,
+    "low": 5404,
+    "close": 5416,
+    "volume": 222835415,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Jan-2024",
+    "open": 5463.85,
+    "high": 5680,
+    "low": 5388.6,
+    "close": 5610,
+    "volume": 197599234,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Jan-2024",
+    "open": 5611,
+    "high": 5747.2,
+    "low": 5557.95,
+    "close": 5617.6,
+    "volume": 166720713,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-Jan-2024",
+    "open": 5624.8,
+    "high": 5690,
+    "low": 5508.85,
+    "close": 5602.45,
+    "volume": 134646505,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Jan-2024",
+    "open": 5656.85,
+    "high": 5796.95,
+    "low": 5656,
+    "close": 5680,
+    "volume": 266255679,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-Jan-2024",
+    "open": 5700,
+    "high": 5989,
+    "low": 5637.3,
+    "close": 5900,
+    "volume": 414401348,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Jan-2024",
+    "open": 5920,
+    "high": 6205.05,
+    "low": 5907.05,
+    "close": 5980,
+    "volume": 382410072,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Jan-2024",
+    "open": 5998,
+    "high": 6048.95,
+    "low": 5852,
+    "close": 5930,
+    "volume": 440808974,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "15-Jan-2024",
+    "open": 5937.9,
+    "high": 5994.75,
+    "low": 5850,
+    "close": 5910,
+    "volume": 281710038,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Jan-2024",
+    "open": 5900,
+    "high": 6024.3,
+    "low": 5881,
+    "close": 5920,
+    "volume": 376776634,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "17-Jan-2024",
+    "open": 5887.6,
+    "high": 6025,
+    "low": 5815,
+    "close": 5889.9,
+    "volume": 346178435,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Jan-2024",
+    "open": 5863,
+    "high": 6015.5,
+    "low": 5790.05,
+    "close": 5960,
+    "volume": 139692297,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Jan-2024",
+    "open": 5961,
+    "high": 6280,
+    "low": 5961,
+    "close": 6119,
+    "volume": 230871657,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "20-Jan-2024",
+    "open": 6169,
+    "high": 6193,
+    "low": 6015.5,
+    "close": 6049,
+    "volume": 49364353,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Jan-2024",
+    "open": 6094.15,
+    "high": 6138.35,
+    "low": 5780,
+    "close": 5866,
+    "volume": 189401309,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-Jan-2024",
+    "open": 5686.5,
+    "high": 5699,
+    "low": 5465.55,
+    "close": 5675.05,
+    "volume": 800488421,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "25-Jan-2024",
+    "open": 5673.05,
+    "high": 6042.7,
+    "low": 5673.05,
+    "close": 5895,
+    "volume": 271025753,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-Jan-2024",
+    "open": 6000.1,
+    "high": 6035,
+    "low": 5760,
+    "close": 5790,
+    "volume": 76088923,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-Jan-2024",
+    "open": 5832.95,
+    "high": 5850,
+    "low": 5590,
+    "close": 5600,
+    "volume": 122962183,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "31-Jan-2024",
+    "open": 5614.5,
+    "high": 5946,
+    "low": 5614.5,
+    "close": 5945.45,
+    "volume": 198328140,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "01-Feb-2024",
+    "open": 5970,
+    "high": 5970.05,
+    "low": 5679.95,
+    "close": 5740,
+    "volume": 145264949,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Feb-2024",
+    "open": 5788,
+    "high": 5840.7,
+    "low": 5665,
+    "close": 5682,
+    "volume": 85651109,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Feb-2024",
+    "open": 5772,
+    "high": 6275,
+    "low": 5715.4,
+    "close": 6255,
+    "volume": 434977198,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-Feb-2024",
+    "open": 6225,
+    "high": 6520,
+    "low": 6080,
+    "close": 6165,
+    "volume": 530389163,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "07-Feb-2024",
+    "open": 6200.5,
+    "high": 6379.95,
+    "low": 6192.1,
+    "close": 6250.15,
+    "volume": 168448692,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-Feb-2024",
+    "open": 6288,
+    "high": 6418,
+    "low": 6211.35,
+    "close": 6250.05,
+    "volume": 137041106,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Feb-2024",
+    "open": 6287.9,
+    "high": 6298,
+    "low": 6034.5,
+    "close": 6197.2,
+    "volume": 334409577,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Feb-2024",
+    "open": 6198,
+    "high": 6298,
+    "low": 5970.05,
+    "close": 5990,
+    "volume": 276120684,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-Feb-2024",
+    "open": 6027,
+    "high": 6027,
+    "low": 5850.8,
+    "close": 5960,
+    "volume": 314703193,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "14-Feb-2024",
+    "open": 5952.65,
+    "high": 5995.95,
+    "low": 5850,
+    "close": 5880,
+    "volume": 204763742,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "15-Feb-2024",
+    "open": 5904.5,
+    "high": 6019.95,
+    "low": 5825.35,
+    "close": 5884.8,
+    "volume": 185828368,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Feb-2024",
+    "open": 5872.15,
+    "high": 6070,
+    "low": 5872.15,
+    "close": 5968,
+    "volume": 173617269,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Feb-2024",
+    "open": 5979.45,
+    "high": 6250,
+    "low": 5976.45,
+    "close": 6222,
+    "volume": 253114588,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "20-Feb-2024",
+    "open": 6230.2,
+    "high": 6298,
+    "low": 6061.5,
+    "close": 6147,
+    "volume": 73292617,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "21-Feb-2024",
+    "open": 6135.5,
+    "high": 6270,
+    "low": 5812,
+    "close": 5875,
+    "volume": 200171052,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-Feb-2024",
+    "open": 5888,
+    "high": 5897.95,
+    "low": 5737.95,
+    "close": 5805,
+    "volume": 250576380,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Feb-2024",
+    "open": 5844.95,
+    "high": 5990,
+    "low": 5805,
+    "close": 5900,
+    "volume": 279915722,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Feb-2024",
+    "open": 5925,
+    "high": 5950,
+    "low": 5841.5,
+    "close": 5929.9,
+    "volume": 69691956,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-Feb-2024",
+    "open": 5904.45,
+    "high": 6040,
+    "low": 5815.6,
+    "close": 5865,
+    "volume": 128079575,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "28-Feb-2024",
+    "open": 5871.6,
+    "high": 5951.7,
+    "low": 5810.1,
+    "close": 5910,
+    "volume": 130059195,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-Feb-2024",
+    "open": 5949.9,
+    "high": 6050,
+    "low": 5853.5,
+    "close": 5990,
+    "volume": 105097188,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "01-Mar-2024",
+    "open": 6046.55,
+    "high": 6116,
+    "low": 6005.05,
+    "close": 6065.8,
+    "volume": 159837524,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Mar-2024",
+    "open": 6099.05,
+    "high": 6173,
+    "low": 6012.9,
+    "close": 6125.7,
+    "volume": 6562132,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Mar-2024",
+    "open": 6134.3,
+    "high": 6243.75,
+    "low": 6048.05,
+    "close": 6160,
+    "volume": 440905395,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Mar-2024",
+    "open": 6132.4,
+    "high": 6412.85,
+    "low": 6116.1,
+    "close": 6307.35,
+    "volume": 1494075272,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-Mar-2024",
+    "open": 6365,
+    "high": 6457.3,
+    "low": 6113.45,
+    "close": 6278.5,
+    "volume": 242802202,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "07-Mar-2024",
+    "open": 6299.05,
+    "high": 6596,
+    "low": 6299.05,
+    "close": 6550,
+    "volume": 226890253,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Mar-2024",
+    "open": 6620,
+    "high": 6800,
+    "low": 6481.5,
+    "close": 6504.85,
+    "volume": 433437344,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Mar-2024",
+    "open": 6582.25,
+    "high": 6637.8,
+    "low": 6363.75,
+    "close": 6520,
+    "volume": 197692079,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-Mar-2024",
+    "open": 6500,
+    "high": 6549.7,
+    "low": 6271.1,
+    "close": 6323.75,
+    "volume": 265594078,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "14-Mar-2024",
+    "open": 6335.85,
+    "high": 6790,
+    "low": 6300,
+    "close": 6790,
+    "volume": 381256209,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "15-Mar-2024",
+    "open": 6750,
+    "high": 6875,
+    "low": 6500,
+    "close": 6640,
+    "volume": 267086942,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Mar-2024",
+    "open": 6698,
+    "high": 6698,
+    "low": 6440,
+    "close": 6548.75,
+    "volume": 182347841,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Mar-2024",
+    "open": 6516.3,
+    "high": 6635.35,
+    "low": 6480.05,
+    "close": 6499,
+    "volume": 112220794,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "20-Mar-2024",
+    "open": 6546.9,
+    "high": 6749.95,
+    "low": 6328,
+    "close": 6640,
+    "volume": 206668907,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "21-Mar-2024",
+    "open": 6680,
+    "high": 7450,
+    "low": 6680,
+    "close": 7250,
+    "volume": 1126992177,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-Mar-2024",
+    "open": 7240,
+    "high": 7376.5,
+    "low": 7094.9,
+    "close": 7150.05,
+    "volume": 520213478,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Mar-2024",
+    "open": 6952,
+    "high": 7183.6,
+    "low": 6951,
+    "close": 6980,
+    "volume": 310691742,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-Mar-2024",
+    "open": 6985,
+    "high": 7077.1,
+    "low": 6885.35,
+    "close": 7011,
+    "volume": 256016118,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "28-Mar-2024",
+    "open": 7032.9,
+    "high": 7148,
+    "low": 6938.95,
+    "close": 6975,
+    "volume": 170026078,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "01-Apr-2024",
+    "open": 7033.25,
+    "high": 7249.95,
+    "low": 6954.5,
+    "close": 7039.95,
+    "volume": 242796385,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Apr-2024",
+    "open": 7079.6,
+    "high": 7130,
+    "low": 6842,
+    "close": 6845,
+    "volume": 165121710,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-Apr-2024",
+    "open": 6867.95,
+    "high": 6953,
+    "low": 6825.65,
+    "close": 6930,
+    "volume": 121293517,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Apr-2024",
+    "open": 6915.05,
+    "high": 7040.05,
+    "low": 6851.7,
+    "close": 6899,
+    "volume": 139778631,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Apr-2024",
+    "open": 6861.2,
+    "high": 7222.15,
+    "low": 6814.4,
+    "close": 7140,
+    "volume": 420014701,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-Apr-2024",
+    "open": 7145.1,
+    "high": 7581,
+    "low": 7145.1,
+    "close": 7524.7,
+    "volume": 629376587,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Apr-2024",
+    "open": 7550.05,
+    "high": 7879.45,
+    "low": 7550.05,
+    "close": 7735,
+    "volume": 947787103,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-Apr-2024",
+    "open": 7785.15,
+    "high": 7845.3,
+    "low": 7470.05,
+    "close": 7499,
+    "volume": 390069553,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Apr-2024",
+    "open": 7514.8,
+    "high": 7583.5,
+    "low": 7291.15,
+    "close": 7298,
+    "volume": 327750093,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "15-Apr-2024",
+    "open": 7234.6,
+    "high": 7380,
+    "low": 7080.05,
+    "close": 7200,
+    "volume": 212957693,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Apr-2024",
+    "open": 7199,
+    "high": 7629.5,
+    "low": 7198.95,
+    "close": 7560,
+    "volume": 447600106,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Apr-2024",
+    "open": 7624.7,
+    "high": 8400,
+    "low": 7624.7,
+    "close": 8342,
+    "volume": 1816796318,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Apr-2024",
+    "open": 8280.05,
+    "high": 8500,
+    "low": 8030,
+    "close": 8240,
+    "volume": 1515235509,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-Apr-2024",
+    "open": 8284.95,
+    "high": 8324.65,
+    "low": 8081,
+    "close": 8081,
+    "volume": 344264933,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Apr-2024",
+    "open": 8129,
+    "high": 8129,
+    "low": 7959.95,
+    "close": 8102.1,
+    "volume": 352171666,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-Apr-2024",
+    "open": 8199,
+    "high": 8363.95,
+    "low": 8110.1,
+    "close": 8171.5,
+    "volume": 309341710,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "25-Apr-2024",
+    "open": 8208.9,
+    "high": 9821.95,
+    "low": 8035.7,
+    "close": 9340,
+    "volume": 4842747350,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Apr-2024",
+    "open": 9340,
+    "high": 9637.85,
+    "low": 8801.05,
+    "close": 8976.65,
+    "volume": 1687167238,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-Apr-2024",
+    "open": 9115,
+    "high": 9115,
+    "low": 8601.05,
+    "close": 8695.95,
+    "volume": 753297755,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-Apr-2024",
+    "open": 8762.65,
+    "high": 9890,
+    "low": 8695.95,
+    "close": 9490,
+    "volume": 3679542863,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-May-2024",
+    "open": 9575,
+    "high": 9989.85,
+    "low": 9460,
+    "close": 9758,
+    "volume": 2725608131,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-May-2024",
+    "open": 9750,
+    "high": 9889.25,
+    "low": 9571.05,
+    "close": 9675,
+    "volume": 1085563677,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-May-2024",
+    "open": 9729.9,
+    "high": 9762.95,
+    "low": 9156.35,
+    "close": 9235.15,
+    "volume": 763596816,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "07-May-2024",
+    "open": 9313.25,
+    "high": 9313.25,
+    "low": 8750.75,
+    "close": 8875,
+    "volume": 1341583765,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-May-2024",
+    "open": 8879.05,
+    "high": 9439.4,
+    "low": 8820.2,
+    "close": 9024.9,
+    "volume": 2163041524,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-May-2024",
+    "open": 9072.1,
+    "high": 9233,
+    "low": 8901.9,
+    "close": 8950,
+    "volume": 895884931,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-May-2024",
+    "open": 9063.15,
+    "high": 9100,
+    "low": 8713.45,
+    "close": 8759,
+    "volume": 536264216,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-May-2024",
+    "open": 8761.4,
+    "high": 9549.15,
+    "low": 8761.4,
+    "close": 9408,
+    "volume": 2176867921,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "14-May-2024",
+    "open": 9500,
+    "high": 9849,
+    "low": 9355.3,
+    "close": 9751.5,
+    "volume": 1450469436,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "15-May-2024",
+    "open": 9785,
+    "high": 10849.95,
+    "low": 9710.45,
+    "close": 10700,
+    "volume": 5215057206,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-May-2024",
+    "open": 10800,
+    "high": 12379.6,
+    "low": 10706.55,
+    "close": 11290,
+    "volume": 11980437616,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "17-May-2024",
+    "open": 11387.25,
+    "high": 11636.8,
+    "low": 10839.45,
+    "close": 11129,
+    "volume": 3888698356,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-May-2024",
+    "open": 11233.55,
+    "high": 11619.95,
+    "low": 11200,
+    "close": 11300,
+    "volume": 210650997,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "21-May-2024",
+    "open": 11398.25,
+    "high": 11403.85,
+    "low": 10688,
+    "close": 10899,
+    "volume": 1037835508,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-May-2024",
+    "open": 11500,
+    "high": 11700,
+    "low": 10180,
+    "close": 10449.4,
+    "volume": 3392514407,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-May-2024",
+    "open": 10552.5,
+    "high": 11200,
+    "low": 10361.3,
+    "close": 11099,
+    "volume": 2091344612,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-May-2024",
+    "open": 11200,
+    "high": 11200,
+    "low": 10836,
+    "close": 11070,
+    "volume": 834991729,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-May-2024",
+    "open": 11100,
+    "high": 11280.85,
+    "low": 10755,
+    "close": 10800,
+    "volume": 764503702,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "28-May-2024",
+    "open": 10845.85,
+    "high": 10846.25,
+    "low": 10180,
+    "close": 10401,
+    "volume": 825291387,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-May-2024",
+    "open": 10436.65,
+    "high": 10948.95,
+    "low": 10321.15,
+    "close": 10690,
+    "volume": 997098219,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-May-2024",
+    "open": 10791.95,
+    "high": 10882.55,
+    "low": 10462.3,
+    "close": 10655,
+    "volume": 572013515,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "31-May-2024",
+    "open": 10733,
+    "high": 10923.9,
+    "low": 10644.15,
+    "close": 10750,
+    "volume": 1441395481,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-Jun-2024",
+    "open": 11450,
+    "high": 11450,
+    "low": 10840.25,
+    "close": 11081,
+    "volume": 925302425,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Jun-2024",
+    "open": 10915,
+    "high": 11198,
+    "low": 9090,
+    "close": 9830,
+    "volume": 1316310091,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Jun-2024",
+    "open": 10046.8,
+    "high": 10343.65,
+    "low": 9127.75,
+    "close": 10150,
+    "volume": 1255527695,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-Jun-2024",
+    "open": 10467.1,
+    "high": 10493.25,
+    "low": 10250,
+    "close": 10393.65,
+    "volume": 491959409,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "07-Jun-2024",
+    "open": 10470,
+    "high": 10680,
+    "low": 10356.45,
+    "close": 10469.95,
+    "volume": 526710392,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-Jun-2024",
+    "open": 10488.6,
+    "high": 10841.9,
+    "low": 10408.2,
+    "close": 10425,
+    "volume": 729872152,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Jun-2024",
+    "open": 10576.25,
+    "high": 10576.25,
+    "low": 10300,
+    "close": 10370,
+    "volume": 371857980,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Jun-2024",
+    "open": 10374.15,
+    "high": 10750,
+    "low": 10374.15,
+    "close": 10500,
+    "volume": 739751005,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-Jun-2024",
+    "open": 10800,
+    "high": 11185.8,
+    "low": 10569.45,
+    "close": 10750,
+    "volume": 873002669,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "14-Jun-2024",
+    "open": 10830.85,
+    "high": 11190,
+    "low": 10830.85,
+    "close": 11100,
+    "volume": 1138630528,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Jun-2024",
+    "open": 11200,
+    "high": 11587,
+    "low": 11190,
+    "close": 11310,
+    "volume": 862350616,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Jun-2024",
+    "open": 11446.25,
+    "high": 11600,
+    "low": 11053.1,
+    "close": 11367,
+    "volume": 934510289,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "20-Jun-2024",
+    "open": 11417.65,
+    "high": 11535.9,
+    "low": 10900,
+    "close": 10960,
+    "volume": 438964956,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "21-Jun-2024",
+    "open": 11110.5,
+    "high": 11225.05,
+    "low": 10927.25,
+    "close": 11140,
+    "volume": 594633013,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-Jun-2024",
+    "open": 11132.1,
+    "high": 11849,
+    "low": 11047.2,
+    "close": 11599.95,
+    "volume": 1206245050,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "25-Jun-2024",
+    "open": 11686.65,
+    "high": 12218.75,
+    "low": 11300,
+    "close": 11449,
+    "volume": 1445736970,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Jun-2024",
+    "open": 11525.4,
+    "high": 13058.75,
+    "low": 11493,
+    "close": 12650,
+    "volume": 1934647204,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-Jun-2024",
+    "open": 12694,
+    "high": 12925.25,
+    "low": 12480,
+    "close": 12590,
+    "volume": 855103230,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "28-Jun-2024",
+    "open": 12588,
+    "high": 13249.95,
+    "low": 12204.05,
+    "close": 12975,
+    "volume": 823764563,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "01-Jul-2024",
+    "open": 13029.9,
+    "high": 13542.4,
+    "low": 12776.6,
+    "close": 13015,
+    "volume": 1308676898,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Jul-2024",
+    "open": 13100,
+    "high": 13700,
+    "low": 13050,
+    "close": 13498,
+    "volume": 910034909,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-Jul-2024",
+    "open": 13489.95,
+    "high": 14382,
+    "low": 13405.2,
+    "close": 13950,
+    "volume": 2477925647,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Jul-2024",
+    "open": 14143.95,
+    "high": 14187.8,
+    "low": 13651,
+    "close": 13668,
+    "volume": 1123403362,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Jul-2024",
+    "open": 13700,
+    "high": 14108.35,
+    "low": 13500,
+    "close": 14000,
+    "volume": 948359838,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-Jul-2024",
+    "open": 13900,
+    "high": 14123.9,
+    "low": 13700,
+    "close": 13800,
+    "volume": 558389053,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Jul-2024",
+    "open": 13756.2,
+    "high": 13960,
+    "low": 13401,
+    "close": 13500,
+    "volume": 573569637,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-Jul-2024",
+    "open": 13524.95,
+    "high": 13684.65,
+    "low": 12767.25,
+    "close": 13100,
+    "volume": 991722782,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Jul-2024",
+    "open": 12857.5,
+    "high": 13369.1,
+    "low": 12600,
+    "close": 12820,
+    "volume": 629990968,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Jul-2024",
+    "open": 12860,
+    "high": 12990,
+    "low": 12150,
+    "close": 12200,
+    "volume": 603954388,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "15-Jul-2024",
+    "open": 12251,
+    "high": 12321.05,
+    "low": 11708.3,
+    "close": 12090,
+    "volume": 915474246,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Jul-2024",
+    "open": 12201.05,
+    "high": 12650,
+    "low": 11980,
+    "close": 12200,
+    "volume": 908274656,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Jul-2024",
+    "open": 12250,
+    "high": 12400,
+    "low": 11699.6,
+    "close": 12017.15,
+    "volume": 735054556,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Jul-2024",
+    "open": 11931.85,
+    "high": 12145.05,
+    "low": 11077.55,
+    "close": 11200,
+    "volume": 997722763,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-Jul-2024",
+    "open": 11160,
+    "high": 11620.1,
+    "low": 10980.4,
+    "close": 11320,
+    "volume": 499855080,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Jul-2024",
+    "open": 11408.05,
+    "high": 11549.9,
+    "low": 10915.85,
+    "close": 11400,
+    "volume": 618570453,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-Jul-2024",
+    "open": 11454.05,
+    "high": 12202.8,
+    "low": 11410.1,
+    "close": 12200,
+    "volume": 885648177,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "25-Jul-2024",
+    "open": 11988,
+    "high": 12300,
+    "low": 11525,
+    "close": 11699.1,
+    "volume": 1006073419,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Jul-2024",
+    "open": 11770,
+    "high": 11799.95,
+    "low": 11340.9,
+    "close": 11540,
+    "volume": 921646763,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-Jul-2024",
+    "open": 11668.8,
+    "high": 11939.95,
+    "low": 11511.4,
+    "close": 11920,
+    "volume": 802898398,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-Jul-2024",
+    "open": 11982.1,
+    "high": 12049.9,
+    "low": 11740.5,
+    "close": 11850.55,
+    "volume": 534520334,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "31-Jul-2024",
+    "open": 11777.05,
+    "high": 11934.85,
+    "low": 11510.2,
+    "close": 11600,
+    "volume": 349937263,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "01-Aug-2024",
+    "open": 11751.7,
+    "high": 12540.9,
+    "low": 11707.6,
+    "close": 12400.2,
+    "volume": 1203885215,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Aug-2024",
+    "open": 12392.1,
+    "high": 12673.7,
+    "low": 11988.25,
+    "close": 12035.05,
+    "volume": 683456489,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Aug-2024",
+    "open": 11642.1,
+    "high": 11986.15,
+    "low": 11381,
+    "close": 11501,
+    "volume": 689140812,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-Aug-2024",
+    "open": 11589.25,
+    "high": 11980,
+    "low": 10805.4,
+    "close": 10984.7,
+    "volume": 805169553,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "07-Aug-2024",
+    "open": 11180.95,
+    "high": 11387.95,
+    "low": 10830,
+    "close": 10960.35,
+    "volume": 466778751,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-Aug-2024",
+    "open": 10970,
+    "high": 11250,
+    "low": 10807.05,
+    "close": 11063,
+    "volume": 474124818,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Aug-2024",
+    "open": 11339.95,
+    "high": 11339.95,
+    "low": 10900,
+    "close": 11075.05,
+    "volume": 334370453,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Aug-2024",
+    "open": 11010.8,
+    "high": 11611.85,
+    "low": 10804.95,
+    "close": 11450,
+    "volume": 510367175,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-Aug-2024",
+    "open": 11575.4,
+    "high": 11780,
+    "low": 11250,
+    "close": 11300.05,
+    "volume": 354822226,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "14-Aug-2024",
+    "open": 11369.4,
+    "high": 11474.95,
+    "low": 11010,
+    "close": 11145,
+    "volume": 160860514,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Aug-2024",
+    "open": 11150,
+    "high": 11860,
+    "low": 11145,
+    "close": 11800,
+    "volume": 414250681,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Aug-2024",
+    "open": 12099,
+    "high": 12425,
+    "low": 11883.15,
+    "close": 12317.85,
+    "volume": 561254971,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "20-Aug-2024",
+    "open": 12300,
+    "high": 12514.75,
+    "low": 11950,
+    "close": 12400,
+    "volume": 597927994,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "21-Aug-2024",
+    "open": 12486.5,
+    "high": 12518.2,
+    "low": 12141.1,
+    "close": 12410,
+    "volume": 317544705,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-Aug-2024",
+    "open": 12395.95,
+    "high": 12395.95,
+    "low": 11976,
+    "close": 12000.15,
+    "volume": 473047935,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Aug-2024",
+    "open": 12049.95,
+    "high": 12241.65,
+    "low": 11860,
+    "close": 12210,
+    "volume": 261951908,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Aug-2024",
+    "open": 12288,
+    "high": 12296,
+    "low": 11950.05,
+    "close": 12079.35,
+    "volume": 259933664,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-Aug-2024",
+    "open": 12055.8,
+    "high": 12227.95,
+    "low": 11986.8,
+    "close": 12175,
+    "volume": 188228110,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "28-Aug-2024",
+    "open": 12125.55,
+    "high": 12346.75,
+    "low": 12025.8,
+    "close": 12225,
+    "volume": 338503606,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-Aug-2024",
+    "open": 12203,
+    "high": 12258.05,
+    "low": 11740,
+    "close": 11750,
+    "volume": 279123179,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-Aug-2024",
+    "open": 11770,
+    "high": 12211.65,
+    "low": 11640,
+    "close": 12000,
+    "volume": 476962931,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Sep-2024",
+    "open": 12120,
+    "high": 12158.7,
+    "low": 11675,
+    "close": 11907.9,
+    "volume": 376241622,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-Sep-2024",
+    "open": 11874,
+    "high": 11970.65,
+    "low": 11501.65,
+    "close": 11650,
+    "volume": 235607563,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Sep-2024",
+    "open": 11600,
+    "high": 11795.95,
+    "low": 11403.1,
+    "close": 11700,
+    "volume": 372131572,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Sep-2024",
+    "open": 11740,
+    "high": 11840.15,
+    "low": 11582,
+    "close": 11701.5,
+    "volume": 468433959,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-Sep-2024",
+    "open": 11827.1,
+    "high": 11827.1,
+    "low": 11505.2,
+    "close": 11598,
+    "volume": 330558465,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Sep-2024",
+    "open": 11517.8,
+    "high": 11597.55,
+    "low": 11210,
+    "close": 11470,
+    "volume": 504284107,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-Sep-2024",
+    "open": 11333,
+    "high": 11998.45,
+    "low": 11333,
+    "close": 11870,
+    "volume": 451184819,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Sep-2024",
+    "open": 11903.05,
+    "high": 12250,
+    "low": 11803.05,
+    "close": 12170,
+    "volume": 498026106,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Sep-2024",
+    "open": 12196.3,
+    "high": 12350,
+    "low": 12000,
+    "close": 12306,
+    "volume": 312912290,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-Sep-2024",
+    "open": 12700.7,
+    "high": 12900,
+    "low": 12410,
+    "close": 12810,
+    "volume": 493019983,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Sep-2024",
+    "open": 12830,
+    "high": 13250,
+    "low": 12654.9,
+    "close": 13200.3,
+    "volume": 586479960,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "17-Sep-2024",
+    "open": 13188.35,
+    "high": 13533.15,
+    "low": 12800,
+    "close": 13051,
+    "volume": 579198737,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Sep-2024",
+    "open": 13139.4,
+    "high": 13275,
+    "low": 12815.15,
+    "close": 12950,
+    "volume": 238906636,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Sep-2024",
+    "open": 12818.05,
+    "high": 12990.95,
+    "low": 12535.05,
+    "close": 12769,
+    "volume": 308897164,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "20-Sep-2024",
+    "open": 12694.8,
+    "high": 13100.25,
+    "low": 12456.05,
+    "close": 12600,
+    "volume": 1908775181,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Sep-2024",
+    "open": 12779,
+    "high": 13040,
+    "low": 12656,
+    "close": 12695,
+    "volume": 268203623,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-Sep-2024",
+    "open": 12766.05,
+    "high": 12900,
+    "low": 12619,
+    "close": 12800,
+    "volume": 246122026,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "25-Sep-2024",
+    "open": 12800,
+    "high": 13555.55,
+    "low": 12787.6,
+    "close": 13290,
+    "volume": 917168074,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Sep-2024",
+    "open": 13188,
+    "high": 13638,
+    "low": 13081.3,
+    "close": 13500,
+    "volume": 684501206,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-Sep-2024",
+    "open": 13587.45,
+    "high": 14231.2,
+    "low": 13328.25,
+    "close": 13601,
+    "volume": 1016119412,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-Sep-2024",
+    "open": 13690,
+    "high": 14839.85,
+    "low": 13435.15,
+    "close": 14399,
+    "volume": 1071657908,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "01-Oct-2024",
+    "open": 14600,
+    "high": 14849.95,
+    "low": 14155.5,
+    "close": 14299.75,
+    "volume": 603775866,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-Oct-2024",
+    "open": 14238.95,
+    "high": 14238.95,
+    "low": 13935,
+    "close": 14100,
+    "volume": 346656577,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Oct-2024",
+    "open": 14056.4,
+    "high": 14671.2,
+    "low": 13752.05,
+    "close": 14150,
+    "volume": 635560763,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "07-Oct-2024",
+    "open": 14015.5,
+    "high": 14525,
+    "low": 13500.1,
+    "close": 13501.5,
+    "volume": 563238757,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-Oct-2024",
+    "open": 13639.95,
+    "high": 14187.95,
+    "low": 13324.5,
+    "close": 14048.95,
+    "volume": 426064153,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Oct-2024",
+    "open": 14150,
+    "high": 15167.95,
+    "low": 14095,
+    "close": 14800,
+    "volume": 1681511581,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-Oct-2024",
+    "open": 15100,
+    "high": 16380,
+    "low": 14760.4,
+    "close": 15637.35,
+    "volume": 4196218975,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Oct-2024",
+    "open": 15748.15,
+    "high": 16549.95,
+    "low": 15557.45,
+    "close": 15852,
+    "volume": 1952082731,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "14-Oct-2024",
+    "open": 15899.2,
+    "high": 16400,
+    "low": 15702.15,
+    "close": 15950,
+    "volume": 935898414,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "15-Oct-2024",
+    "open": 15967.5,
+    "high": 16280,
+    "low": 15802.35,
+    "close": 16179.85,
+    "volume": 961221118,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Oct-2024",
+    "open": 16180.5,
+    "high": 16300,
+    "low": 15953.7,
+    "close": 16002.5,
+    "volume": 585702296,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "17-Oct-2024",
+    "open": 15980,
+    "high": 16060,
+    "low": 15561.3,
+    "close": 15760,
+    "volume": 416556689,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Oct-2024",
+    "open": 15751,
+    "high": 15751,
+    "low": 15220.25,
+    "close": 15500,
+    "volume": 1093280118,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "21-Oct-2024",
+    "open": 15699,
+    "high": 15799.85,
+    "low": 14800,
+    "close": 14889.95,
+    "volume": 309630294,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-Oct-2024",
+    "open": 14901,
+    "high": 14901,
+    "low": 13762.5,
+    "close": 13799.9,
+    "volume": 726272190,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Oct-2024",
+    "open": 13880.6,
+    "high": 14312.3,
+    "low": 13596.6,
+    "close": 13800,
+    "volume": 655072674,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-Oct-2024",
+    "open": 13814.95,
+    "high": 14019.95,
+    "low": 13523.2,
+    "close": 13620,
+    "volume": 357252154,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "25-Oct-2024",
+    "open": 13800,
+    "high": 13979.95,
+    "low": 13024.7,
+    "close": 13450,
+    "volume": 713534212,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "28-Oct-2024",
+    "open": 13300,
+    "high": 13906,
+    "low": 13230.05,
+    "close": 13580,
+    "volume": 394656593,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-Oct-2024",
+    "open": 13494,
+    "high": 14450,
+    "low": 13241.35,
+    "close": 14300.3,
+    "volume": 927833509,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-Oct-2024",
+    "open": 14500,
+    "high": 14660.6,
+    "low": 13125,
+    "close": 13700.5,
+    "volume": 1811147056,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "31-Oct-2024",
+    "open": 13602.4,
+    "high": 13945,
+    "low": 13418.8,
+    "close": 13800,
+    "volume": 507303931,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "01-Nov-2024",
+    "open": 13800,
+    "high": 14040.45,
+    "low": 13800,
+    "close": 13858.95,
+    "volume": 65467454,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Nov-2024",
+    "open": 13921.05,
+    "high": 14289.9,
+    "low": 13590.2,
+    "close": 13950,
+    "volume": 538425883,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Nov-2024",
+    "open": 13969.4,
+    "high": 14300,
+    "low": 13761.45,
+    "close": 13951.05,
+    "volume": 484500150,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-Nov-2024",
+    "open": 14099.95,
+    "high": 14945,
+    "low": 14000,
+    "close": 14840,
+    "volume": 928702324,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "07-Nov-2024",
+    "open": 14895.15,
+    "high": 14940,
+    "low": 14200,
+    "close": 14348.75,
+    "volume": 843499451,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "08-Nov-2024",
+    "open": 14423,
+    "high": 14429.15,
+    "low": 13851,
+    "close": 13959,
+    "volume": 325087335,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Nov-2024",
+    "open": 13900,
+    "high": 13900,
+    "low": 12726.05,
+    "close": 13352.5,
+    "volume": 1360301060,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Nov-2024",
+    "open": 13485.8,
+    "high": 13490.1,
+    "low": 12800,
+    "close": 12824.65,
+    "volume": 1452663390,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-Nov-2024",
+    "open": 12850,
+    "high": 12896.3,
+    "low": 11709.05,
+    "close": 12012,
+    "volume": 1873972464,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "14-Nov-2024",
+    "open": 12121.25,
+    "high": 12295.1,
+    "low": 11716.05,
+    "close": 11790,
+    "volume": 1506441979,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Nov-2024",
+    "open": 11782.3,
+    "high": 11790.4,
+    "low": 11220.9,
+    "close": 11418.8,
+    "volume": 1287446532,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Nov-2024",
+    "open": 11419.95,
+    "high": 12134.95,
+    "low": 11300.3,
+    "close": 11575.35,
+    "volume": 1259213791,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "21-Nov-2024",
+    "open": 11688.85,
+    "high": 11688.85,
+    "low": 10925.45,
+    "close": 11360,
+    "volume": 1397938856,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "22-Nov-2024",
+    "open": 11437.1,
+    "high": 11620.05,
+    "low": 11180.05,
+    "close": 11511.35,
+    "volume": 969528987,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "25-Nov-2024",
+    "open": 12000,
+    "high": 12332.55,
+    "low": 11500,
+    "close": 11825,
+    "volume": 3669650964,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Nov-2024",
+    "open": 12500,
+    "high": 12825,
+    "low": 12245,
+    "close": 12300,
+    "volume": 2247708344,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-Nov-2024",
+    "open": 12500,
+    "high": 12598.2,
+    "low": 12081.15,
+    "close": 12123.2,
+    "volume": 1072403794,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "28-Nov-2024",
+    "open": 12236.35,
+    "high": 12400,
+    "low": 12039.8,
+    "close": 12265,
+    "volume": 525870596,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "29-Nov-2024",
+    "open": 12300,
+    "high": 12300.05,
+    "low": 11800,
+    "close": 11940,
+    "volume": 584525595,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "02-Dec-2024",
+    "open": 11980,
+    "high": 12350,
+    "low": 11562.1,
+    "close": 12252,
+    "volume": 851026057,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "03-Dec-2024",
+    "open": 12226.25,
+    "high": 12436,
+    "low": 12130.15,
+    "close": 12180,
+    "volume": 611990115,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "04-Dec-2024",
+    "open": 12205.1,
+    "high": 12295.45,
+    "low": 11950.05,
+    "close": 12079,
+    "volume": 746273549,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "05-Dec-2024",
+    "open": 12134.85,
+    "high": 12134.85,
+    "low": 11761,
+    "close": 11894,
+    "volume": 902728650,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "06-Dec-2024",
+    "open": 11953.5,
+    "high": 12130.1,
+    "low": 11720,
+    "close": 12100,
+    "volume": 660553295,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "09-Dec-2024",
+    "open": 12110.05,
+    "high": 12550,
+    "low": 11950,
+    "close": 12445,
+    "volume": 586892517,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "10-Dec-2024",
+    "open": 12596.8,
+    "high": 12596.8,
+    "low": 12111.9,
+    "close": 12475.05,
+    "volume": 273691323,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "11-Dec-2024",
+    "open": 12580,
+    "high": 12699,
+    "low": 12441,
+    "close": 12649.95,
+    "volume": 374859077,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Dec-2024",
+    "open": 12735,
+    "high": 13238.95,
+    "low": 12656.55,
+    "close": 13125,
+    "volume": 777941900,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "13-Dec-2024",
+    "open": 13125,
+    "high": 13129.95,
+    "low": 12680,
+    "close": 13006,
+    "volume": 590424332,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "16-Dec-2024",
+    "open": 13024.7,
+    "high": 13282,
+    "low": 12850,
+    "close": 13205,
+    "volume": 426079386,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "17-Dec-2024",
+    "open": 13234.5,
+    "high": 13350,
+    "low": 13149,
+    "close": 13180,
+    "volume": 437323373,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "18-Dec-2024",
+    "open": 13199.05,
+    "high": 13199.05,
+    "low": 12666,
+    "close": 12878.6,
+    "volume": 629006383,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "19-Dec-2024",
+    "open": 12400,
+    "high": 13249,
+    "low": 12301.1,
+    "close": 13100,
+    "volume": 718518790,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "20-Dec-2024",
+    "open": 13120.65,
+    "high": 13441.15,
+    "low": 13092.05,
+    "close": 13200,
+    "volume": 956787895,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "23-Dec-2024",
+    "open": 13410.25,
+    "high": 13635,
+    "low": 13106.1,
+    "close": 13580.1,
+    "volume": 681286409,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "24-Dec-2024",
+    "open": 13589.6,
+    "high": 14125,
+    "low": 13333,
+    "close": 13950,
+    "volume": 618280520,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "26-Dec-2024",
+    "open": 14005,
+    "high": 14540,
+    "low": 14001.05,
+    "close": 14327.55,
+    "volume": 732949848,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "27-Dec-2024",
+    "open": 14300,
+    "high": 14780.9,
+    "low": 14137.95,
+    "close": 14662.35,
+    "volume": 639705495,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "30-Dec-2024",
+    "open": 14704,
+    "high": 15088.9,
+    "low": 13973.55,
+    "close": 14445.85,
+    "volume": 2058788444,
+    "symbol": "POWERINDIA"
+  },
+  {
+    "date": "31-Dec-2024",
+    "open": 14400,
+    "high": 14733.95,
+    "low": 14110,
+    "close": 14386,
+    "volume": 727893615,
+    "symbol": "POWERINDIA"
+  }
+]

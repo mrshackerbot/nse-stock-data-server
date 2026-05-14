@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 905,
+    "high": 905,
+    "low": 895.65,
+    "close": 904,
+    "volume": 28684595,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 904,
+    "high": 933,
+    "low": 900.05,
+    "close": 922,
+    "volume": 379455403,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 921.85,
+    "high": 966.9,
+    "low": 921.8,
+    "close": 956,
+    "volume": 1299568004,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 962.1,
+    "high": 980.25,
+    "low": 942.1,
+    "close": 975.5,
+    "volume": 592834238,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 976.1,
+    "high": 983.35,
+    "low": 957.45,
+    "close": 965.9,
+    "volume": 295309269,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 967,
+    "high": 974,
+    "low": 950.2,
+    "close": 952.35,
+    "volume": 215603878,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 949,
+    "high": 954.85,
+    "low": 915,
+    "close": 919.95,
+    "volume": 269917251,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 903.75,
+    "high": 918.7,
+    "low": 886.5,
+    "close": 893,
+    "volume": 442549310,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 893.3,
+    "high": 907.45,
+    "low": 885.45,
+    "close": 904.25,
+    "volume": 197066867,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 900.1,
+    "high": 912.1,
+    "low": 893.55,
+    "close": 904,
+    "volume": 165991717,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 908.1,
+    "high": 913.05,
+    "low": 866.5,
+    "close": 872.2,
+    "volume": 485823538,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 872.15,
+    "high": 876.35,
+    "low": 844.3,
+    "close": 858,
+    "volume": 179558632,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 857.55,
+    "high": 857.55,
+    "low": 819,
+    "close": 821.15,
+    "volume": 154165768,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 811,
+    "high": 829,
+    "low": 797.15,
+    "close": 813.9,
+    "volume": 413110277,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 816,
+    "high": 845.85,
+    "low": 815.5,
+    "close": 821.95,
+    "volume": 536029180,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 820,
+    "high": 830.45,
+    "low": 791.1,
+    "close": 798.95,
+    "volume": 250301790,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 795,
+    "high": 821.9,
+    "low": 794.6,
+    "close": 820,
+    "volume": 298659236,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 820.3,
+    "high": 852,
+    "low": 805.1,
+    "close": 851,
+    "volume": 625770154,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 845,
+    "high": 854.85,
+    "low": 821,
+    "close": 827,
+    "volume": 342265012,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 827,
+    "high": 840.35,
+    "low": 811.6,
+    "close": 836,
+    "volume": 442273559,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 830,
+    "high": 845.7,
+    "low": 812.7,
+    "close": 838,
+    "volume": 140378173,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 847.7,
+    "high": 847.7,
+    "low": 836.1,
+    "close": 839,
+    "volume": 420640314,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 865,
+    "high": 886,
+    "low": 864.95,
+    "close": 879.8,
+    "volume": 303745540,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 840,
+    "high": 880,
+    "low": 801.1,
+    "close": 807,
+    "volume": 765916617,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 813,
+    "high": 815,
+    "low": 783.85,
+    "close": 811,
+    "volume": 309124610,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 851,
+    "high": 877,
+    "low": 827,
+    "close": 847,
+    "volume": 3684501990,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 860,
+    "high": 901.7,
+    "low": 858.5,
+    "close": 893,
+    "volume": 1237065980,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 923.95,
+    "high": 929.9,
+    "low": 906.5,
+    "close": 916.9,
+    "volume": 969395498,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 917.6,
+    "high": 957,
+    "low": 911.45,
+    "close": 944,
+    "volume": 590997473,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 946.85,
+    "high": 958.6,
+    "low": 921.4,
+    "close": 927.2,
+    "volume": 679293069,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 935,
+    "high": 935,
+    "low": 886.5,
+    "close": 917,
+    "volume": 361289406,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 919.7,
+    "high": 928.45,
+    "low": 905.6,
+    "close": 919.9,
+    "volume": 325691110,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 920.65,
+    "high": 935,
+    "low": 920.65,
+    "close": 934.95,
+    "volume": 497282747,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 935.05,
+    "high": 959.6,
+    "low": 930,
+    "close": 941.65,
+    "volume": 445922030,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 941.9,
+    "high": 945.5,
+    "low": 930,
+    "close": 936,
+    "volume": 312941830,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 939,
+    "high": 945.55,
+    "low": 930,
+    "close": 945,
+    "volume": 244134724,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 955,
+    "high": 970,
+    "low": 953.45,
+    "close": 968,
+    "volume": 449881070,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 966,
+    "high": 966,
+    "low": 938.4,
+    "close": 946,
+    "volume": 429306290,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 945.95,
+    "high": 961.45,
+    "low": 915.6,
+    "close": 925,
+    "volume": 525455991,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 923.8,
+    "high": 966.1,
+    "low": 920.15,
+    "close": 966,
+    "volume": 525093874,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 962.05,
+    "high": 1004.7,
+    "low": 956,
+    "close": 999,
+    "volume": 2418564132,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 992.5,
+    "high": 1009.85,
+    "low": 990,
+    "close": 999,
+    "volume": 978824360,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 975.05,
+    "high": 1014.95,
+    "low": 956,
+    "close": 1004,
+    "volume": 776833248,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1010,
+    "high": 1084,
+    "low": 1009,
+    "close": 1055,
+    "volume": 1435751880,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1058.75,
+    "high": 1058.75,
+    "low": 1030,
+    "close": 1039.8,
+    "volume": 773170980,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1035,
+    "high": 1037,
+    "low": 996.85,
+    "close": 1012.65,
+    "volume": 672189271,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1040,
+    "high": 1044,
+    "low": 998.3,
+    "close": 1017,
+    "volume": 582188476,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1022,
+    "high": 1031.1,
+    "low": 1004.5,
+    "close": 1008.6,
+    "volume": 578587529,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1030.05,
+    "high": 1034.2,
+    "low": 991,
+    "close": 1007.85,
+    "volume": 665042930,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 998,
+    "high": 1005.4,
+    "low": 938,
+    "close": 945.25,
+    "volume": 619843652,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 953.1,
+    "high": 984.65,
+    "low": 946.35,
+    "close": 976.4,
+    "volume": 649440847,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 981.95,
+    "high": 994.45,
+    "low": 969,
+    "close": 986,
+    "volume": 454742545,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 990,
+    "high": 1025.75,
+    "low": 981.15,
+    "close": 1011.7,
+    "volume": 598118692,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1002,
+    "high": 1020.5,
+    "low": 995,
+    "close": 1009.6,
+    "volume": 338969704,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1015,
+    "high": 1019.75,
+    "low": 995.2,
+    "close": 998.7,
+    "volume": 365178867,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 990,
+    "high": 1002.6,
+    "low": 963,
+    "close": 981,
+    "volume": 377039818,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1016.9,
+    "high": 1020,
+    "low": 986.55,
+    "close": 1000.85,
+    "volume": 445232010,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1006,
+    "high": 1029.8,
+    "low": 990.15,
+    "close": 1009.6,
+    "volume": 1205759673,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1010,
+    "high": 1010,
+    "low": 969.7,
+    "close": 973.5,
+    "volume": 890671439,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 978,
+    "high": 986.45,
+    "low": 955.4,
+    "close": 968.4,
+    "volume": 320737289,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1000,
+    "high": 1015.2,
+    "low": 959.45,
+    "close": 975.9,
+    "volume": 641969458,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 975.9,
+    "high": 975.9,
+    "low": 944.05,
+    "close": 964.45,
+    "volume": 608648814,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 964,
+    "high": 978.9,
+    "low": 935,
+    "close": 945,
+    "volume": 482013357,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 945,
+    "high": 955.05,
+    "low": 927.05,
+    "close": 941.65,
+    "volume": 227024243,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 970,
+    "high": 984.2,
+    "low": 959.2,
+    "close": 970.1,
+    "volume": 398646127,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 973.05,
+    "high": 995.85,
+    "low": 964.25,
+    "close": 975,
+    "volume": 674106845,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 981,
+    "high": 1009,
+    "low": 976.65,
+    "close": 1003,
+    "volume": 281063905,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 989,
+    "high": 1001.55,
+    "low": 970.3,
+    "close": 991.1,
+    "volume": 393610725,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1000,
+    "high": 1008.9,
+    "low": 976.25,
+    "close": 983,
+    "volume": 407092227,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 985.95,
+    "high": 991.05,
+    "low": 960.2,
+    "close": 973.9,
+    "volume": 391049445,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 974,
+    "high": 989.7,
+    "low": 967.6,
+    "close": 970.2,
+    "volume": 306790243,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 973.05,
+    "high": 978.95,
+    "low": 953.45,
+    "close": 960,
+    "volume": 330511676,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 959.4,
+    "high": 977.1,
+    "low": 944,
+    "close": 959,
+    "volume": 801279714,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 959,
+    "high": 1014.8,
+    "low": 955.6,
+    "close": 1010,
+    "volume": 790002819,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1011.8,
+    "high": 1049.1,
+    "low": 1011.8,
+    "close": 1043.1,
+    "volume": 891852543,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1051.4,
+    "high": 1054.6,
+    "low": 1017,
+    "close": 1021,
+    "volume": 472861528,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1026.8,
+    "high": 1076.85,
+    "low": 1025.85,
+    "close": 1063.5,
+    "volume": 902325488,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1067.65,
+    "high": 1078.35,
+    "low": 1044,
+    "close": 1044.5,
+    "volume": 298282833,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1047.95,
+    "high": 1078,
+    "low": 1047.95,
+    "close": 1054,
+    "volume": 408273962,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1059,
+    "high": 1089.9,
+    "low": 1047.5,
+    "close": 1064.5,
+    "volume": 1464110835,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1081.2,
+    "high": 1094.3,
+    "low": 1058.3,
+    "close": 1092,
+    "volume": 1214821495,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1089,
+    "high": 1095.8,
+    "low": 1070.5,
+    "close": 1085,
+    "volume": 263884703,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1086,
+    "high": 1100,
+    "low": 1073.8,
+    "close": 1079.9,
+    "volume": 339996936,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1082.4,
+    "high": 1094,
+    "low": 1076.1,
+    "close": 1087.4,
+    "volume": 284305154,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1085,
+    "high": 1124,
+    "low": 1080,
+    "close": 1117.9,
+    "volume": 596802490,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1120,
+    "high": 1139.4,
+    "low": 1102,
+    "close": 1126,
+    "volume": 713869017,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1121,
+    "high": 1125.3,
+    "low": 1072.9,
+    "close": 1086,
+    "volume": 498074857,
+    "symbol": "SAILIFE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1093.1,
+    "high": 1108.9,
+    "low": 1065.4,
+    "close": 1096,
+    "volume": 535296323,
+    "symbol": "SAILIFE"
+  }
+]

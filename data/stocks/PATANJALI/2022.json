@@ -1,0 +1,866 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 853.1,
+    "high": 857.15,
+    "low": 845.7,
+    "close": 854.05,
+    "volume": 14502674,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 862,
+    "high": 862,
+    "low": 855,
+    "close": 857.15,
+    "volume": 10294750,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 856.8,
+    "high": 860,
+    "low": 849,
+    "close": 854.3,
+    "volume": 10896972,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 852.1,
+    "high": 856.8,
+    "low": 846.1,
+    "close": 849,
+    "volume": 8393250,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 851.05,
+    "high": 860.5,
+    "low": 850,
+    "close": 853.2,
+    "volume": 15406743,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 859.45,
+    "high": 859.45,
+    "low": 848.15,
+    "close": 853.05,
+    "volume": 17638147,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 857,
+    "high": 858,
+    "low": 852.2,
+    "close": 852.2,
+    "volume": 13438603,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 858,
+    "high": 944.8,
+    "low": 853.2,
+    "close": 904.6,
+    "volume": 117784543,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 915,
+    "high": 945,
+    "low": 900.9,
+    "close": 902,
+    "volume": 38220792,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 902,
+    "high": 915,
+    "low": 899,
+    "close": 900.2,
+    "volume": 15886064,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 909,
+    "high": 912.95,
+    "low": 893,
+    "close": 899.55,
+    "volume": 11676063,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 907.95,
+    "high": 909.7,
+    "low": 885.1,
+    "close": 887,
+    "volume": 12533997,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 885.55,
+    "high": 894.95,
+    "low": 880,
+    "close": 883.5,
+    "volume": 12092014,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 888,
+    "high": 888,
+    "low": 873.95,
+    "close": 876.05,
+    "volume": 11268649,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 875.95,
+    "high": 876.95,
+    "low": 864,
+    "close": 865,
+    "volume": 9763654,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 869.6,
+    "high": 875.5,
+    "low": 842.2,
+    "close": 852.8,
+    "volume": 11511434,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 850,
+    "high": 874.2,
+    "low": 825,
+    "close": 848.55,
+    "volume": 10526497,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 847,
+    "high": 848.05,
+    "low": 831.25,
+    "close": 834,
+    "volume": 10977586,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 840,
+    "high": 845.75,
+    "low": 837.15,
+    "close": 841.25,
+    "volume": 12732400,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 849,
+    "high": 869.95,
+    "low": 839.9,
+    "close": 840.65,
+    "volume": 11075877,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 850,
+    "high": 853.8,
+    "low": 835,
+    "close": 837,
+    "volume": 13549471,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 848,
+    "high": 848,
+    "low": 839.85,
+    "close": 840.9,
+    "volume": 13090267,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 841.65,
+    "high": 843.6,
+    "low": 838.15,
+    "close": 839,
+    "volume": 9931609,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 840,
+    "high": 841.95,
+    "low": 835,
+    "close": 840.75,
+    "volume": 8136514,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 843.5,
+    "high": 843.95,
+    "low": 800,
+    "close": 824,
+    "volume": 12035914,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 820.5,
+    "high": 840,
+    "low": 798.15,
+    "close": 814,
+    "volume": 17059817,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 810.05,
+    "high": 825.05,
+    "low": 807.15,
+    "close": 809.65,
+    "volume": 7941715,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 814.9,
+    "high": 820.75,
+    "low": 801,
+    "close": 812.95,
+    "volume": 11072439,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 830,
+    "high": 843.25,
+    "low": 811.8,
+    "close": 843.25,
+    "volume": 16728685,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 839,
+    "high": 908.5,
+    "low": 820.55,
+    "close": 824.85,
+    "volume": 214428119,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 836.15,
+    "high": 868.8,
+    "low": 836.15,
+    "close": 846.8,
+    "volume": 27416808,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 849.9,
+    "high": 898,
+    "low": 841,
+    "close": 886,
+    "volume": 48333112,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 899,
+    "high": 899,
+    "low": 852,
+    "close": 864,
+    "volume": 16924838,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 868.05,
+    "high": 874.4,
+    "low": 859.05,
+    "close": 861.05,
+    "volume": 8831359,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 861,
+    "high": 861.05,
+    "low": 821.1,
+    "close": 825,
+    "volume": 13587295,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 805.2,
+    "high": 819,
+    "low": 732.6,
+    "close": 815,
+    "volume": 18025340,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 810.75,
+    "high": 839.3,
+    "low": 807,
+    "close": 826,
+    "volume": 9942388,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 807,
+    "high": 807,
+    "low": 711,
+    "close": 758.65,
+    "volume": 30906971,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 759.5,
+    "high": 910.8,
+    "low": 700.05,
+    "close": 780.15,
+    "volume": 31309705,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 788,
+    "high": 850.45,
+    "low": 780,
+    "close": 833,
+    "volume": 32360126,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 825,
+    "high": 838.95,
+    "low": 805.4,
+    "close": 820,
+    "volume": 17663124,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 860,
+    "high": 860,
+    "low": 830,
+    "close": 836.35,
+    "volume": 15299494,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 837.95,
+    "high": 837.95,
+    "low": 810.75,
+    "close": 818,
+    "volume": 10307363,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 816.3,
+    "high": 816.3,
+    "low": 787.65,
+    "close": 801.1,
+    "volume": 13340058,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 797.55,
+    "high": 807,
+    "low": 788,
+    "close": 804,
+    "volume": 9603083,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 808,
+    "high": 816,
+    "low": 792.05,
+    "close": 801.5,
+    "volume": 10743024,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 811.5,
+    "high": 837.1,
+    "low": 798.1,
+    "close": 799.55,
+    "volume": 21436755,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 817,
+    "high": 817.25,
+    "low": 786.55,
+    "close": 803.25,
+    "volume": 17818746,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 887.7,
+    "high": 963.75,
+    "low": 855,
+    "close": 963.75,
+    "volume": 312342927,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 1061,
+    "high": 1144.7,
+    "low": 1044.2,
+    "close": 1087,
+    "volume": 1056120099,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 1117,
+    "high": 1125,
+    "low": 1055.3,
+    "close": 1074,
+    "volume": 304568247,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 1070,
+    "high": 1100,
+    "low": 911.25,
+    "close": 999,
+    "volume": 193241630,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 845,
+    "high": 943.7,
+    "low": 805,
+    "close": 910,
+    "volume": 496540042,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 910,
+    "high": 943.7,
+    "low": 900,
+    "close": 914,
+    "volume": 250091683,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 915,
+    "high": 935,
+    "low": 888,
+    "close": 896,
+    "volume": 142614093,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 897.5,
+    "high": 897.5,
+    "low": 850,
+    "close": 873.4,
+    "volume": 140086568,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 885,
+    "high": 890.3,
+    "low": 860.7,
+    "close": 872,
+    "volume": 133220098,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 867.6,
+    "high": 870,
+    "low": 781.1,
+    "close": 815.05,
+    "volume": 334871679,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 801,
+    "high": 977.15,
+    "low": 791.1,
+    "close": 938,
+    "volume": 3163310217,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 970,
+    "high": 1009.2,
+    "low": 960.05,
+    "close": 977,
+    "volume": 2115510337,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 987.95,
+    "high": 992.45,
+    "low": 945,
+    "close": 949.5,
+    "volume": 866102798,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 954,
+    "high": 954.45,
+    "low": 892,
+    "close": 937,
+    "volume": 1434776652,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 922.15,
+    "high": 945,
+    "low": 907.1,
+    "close": 939,
+    "volume": 1153466180,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 930,
+    "high": 932.4,
+    "low": 866.85,
+    "close": 878,
+    "volume": 2215368191,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 714.5,
+    "high": 815,
+    "low": 714.5,
+    "close": 749.85,
+    "volume": 10185349227,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 770,
+    "high": 839.9,
+    "low": 770,
+    "close": 823,
+    "volume": 9677355333,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 855,
+    "high": 938.7,
+    "low": 825.75,
+    "close": 938,
+    "volume": 35575155593,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 969,
+    "high": 999.45,
+    "low": 903.6,
+    "close": 918.25,
+    "volume": 20990731872,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 918.9,
+    "high": 941,
+    "low": 880,
+    "close": 930.1,
+    "volume": 7104546701,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 934.9,
+    "high": 963,
+    "low": 921.1,
+    "close": 951,
+    "volume": 6129091746,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 940,
+    "high": 969.9,
+    "low": 925.6,
+    "close": 968.85,
+    "volume": 6078997961,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 978.75,
+    "high": 986,
+    "low": 920.1,
+    "close": 925,
+    "volume": 5295895306,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 950,
+    "high": 953.3,
+    "low": 928.2,
+    "close": 940,
+    "volume": 2779137968,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 951.75,
+    "high": 967.7,
+    "low": 943,
+    "close": 953.95,
+    "volume": 2835364790,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 939.8,
+    "high": 976.35,
+    "low": 938,
+    "close": 955,
+    "volume": 3452806522,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 970.55,
+    "high": 982,
+    "low": 938.1,
+    "close": 947.5,
+    "volume": 6724463961,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 959.05,
+    "high": 1049.7,
+    "low": 956,
+    "close": 1048.25,
+    "volume": 14605462670,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 1040.1,
+    "high": 1138.5,
+    "low": 1040,
+    "close": 1104,
+    "volume": 15732828846,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 1120,
+    "high": 1184.9,
+    "low": 1042,
+    "close": 1103,
+    "volume": 16981684474,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 1120,
+    "high": 1138.4,
+    "low": 1081.3,
+    "close": 1104,
+    "volume": 7674959475,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 1090,
+    "high": 1130,
+    "low": 1082,
+    "close": 1107,
+    "volume": 4467707028,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 1115.05,
+    "high": 1124.9,
+    "low": 995.1,
+    "close": 1005,
+    "volume": 5602800619,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 950,
+    "high": 1104.95,
+    "low": 939.75,
+    "close": 1104.95,
+    "volume": 13378533417,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 1080.15,
+    "high": 1123.2,
+    "low": 1040,
+    "close": 1098,
+    "volume": 11225322010,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 1084.9,
+    "high": 1109,
+    "low": 1051,
+    "close": 1070,
+    "volume": 4887578424,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 1078.9,
+    "high": 1115,
+    "low": 1021.75,
+    "close": 1021.75,
+    "volume": 5580983496,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 1048.5,
+    "high": 1060.2,
+    "low": 940.5,
+    "close": 940.5,
+    "volume": 7210280511,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 922,
+    "high": 957,
+    "low": 880,
+    "close": 952.8,
+    "volume": 4459485967,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 980.55,
+    "high": 1021.55,
+    "low": 961.1,
+    "close": 989.65,
+    "volume": 6038098457,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 987.55,
+    "high": 1047.35,
+    "low": 963.7,
+    "close": 1041.8,
+    "volume": 4382684159,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 1045,
+    "high": 1090,
+    "low": 1032,
+    "close": 1081.5,
+    "volume": 4737168590,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 1088.15,
+    "high": 1192.15,
+    "low": 1088,
+    "close": 1192.15,
+    "volume": 19367069821,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 1175.5,
+    "high": 1227.95,
+    "low": 1152.2,
+    "close": 1167,
+    "volume": 15724385617,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 1192,
+    "high": 1227.05,
+    "low": 1190.05,
+    "close": 1207.1,
+    "volume": 9379180524,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 1206.9,
+    "high": 1215,
+    "low": 1156.85,
+    "close": 1156.85,
+    "volume": 3516657110,
+    "symbol": "PATANJALI"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 1135,
+    "high": 1148,
+    "low": 1099.05,
+    "close": 1099.05,
+    "volume": 2287085964,
+    "symbol": "PATANJALI"
+  }
+]

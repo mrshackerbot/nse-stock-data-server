@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 1213.55,
+    "high": 1222.85,
+    "low": 1204,
+    "close": 1205,
+    "volume": 49073840,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 1208,
+    "high": 1212.75,
+    "low": 1195.55,
+    "close": 1205.6,
+    "volume": 49770676,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 1203,
+    "high": 1317.8,
+    "low": 1185.75,
+    "close": 1273.9,
+    "volume": 525339850,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 1269,
+    "high": 1275,
+    "low": 1240,
+    "close": 1240.15,
+    "volume": 100685552,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 1245,
+    "high": 1345,
+    "low": 1245,
+    "close": 1330,
+    "volume": 759216154,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 1340.2,
+    "high": 1459.4,
+    "low": 1340.2,
+    "close": 1390,
+    "volume": 795276728,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 1388,
+    "high": 1407.65,
+    "low": 1352.45,
+    "close": 1384.7,
+    "volume": 256997402,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 1385,
+    "high": 1415.8,
+    "low": 1352.4,
+    "close": 1365,
+    "volume": 228940428,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 1366.5,
+    "high": 1425,
+    "low": 1356.4,
+    "close": 1399.95,
+    "volume": 271750037,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 1410,
+    "high": 1440.5,
+    "low": 1382.1,
+    "close": 1415.05,
+    "volume": 94849507,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 1400,
+    "high": 1450,
+    "low": 1400,
+    "close": 1443.45,
+    "volume": 146764591,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 1460,
+    "high": 1460,
+    "low": 1403.25,
+    "close": 1449.9,
+    "volume": 249058687,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 1438.7,
+    "high": 1490,
+    "low": 1390.6,
+    "close": 1402.6,
+    "volume": 444590808,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 1414.95,
+    "high": 1450,
+    "low": 1390.5,
+    "close": 1415.1,
+    "volume": 245127983,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 1419.85,
+    "high": 1419.85,
+    "low": 1320,
+    "close": 1384.5,
+    "volume": 427102481,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 1372,
+    "high": 1379,
+    "low": 1266.6,
+    "close": 1272.85,
+    "volume": 264107042,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 1260,
+    "high": 1329.8,
+    "low": 1255.15,
+    "close": 1273,
+    "volume": 190349471,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 1270,
+    "high": 1298.85,
+    "low": 1231.1,
+    "close": 1245,
+    "volume": 161330846,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 1269.35,
+    "high": 1410.3,
+    "low": 1261.7,
+    "close": 1300,
+    "volume": 129355161,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 1325,
+    "high": 1377.2,
+    "low": 1290.05,
+    "close": 1339,
+    "volume": 194836227,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 1363.8,
+    "high": 1370,
+    "low": 1320.95,
+    "close": 1351.2,
+    "volume": 104125942,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 1360,
+    "high": 1408.65,
+    "low": 1345.05,
+    "close": 1355,
+    "volume": 211755601,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 1363.05,
+    "high": 1370.95,
+    "low": 1348,
+    "close": 1355,
+    "volume": 152740838,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 1360,
+    "high": 1364,
+    "low": 1311,
+    "close": 1335.2,
+    "volume": 166537654,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 1334,
+    "high": 1337.6,
+    "low": 1291.7,
+    "close": 1298.05,
+    "volume": 95241197,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 1314,
+    "high": 1314,
+    "low": 1249,
+    "close": 1261,
+    "volume": 53153973,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 1272,
+    "high": 1311.45,
+    "low": 1263.55,
+    "close": 1268.15,
+    "volume": 25333605,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 1280,
+    "high": 1306.9,
+    "low": 1279,
+    "close": 1295,
+    "volume": 52554858,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 1298,
+    "high": 1538.9,
+    "low": 1275.7,
+    "close": 1518,
+    "volume": 1104869957,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 1489,
+    "high": 1540,
+    "low": 1382,
+    "close": 1418,
+    "volume": 1069252705,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 1447,
+    "high": 1478.85,
+    "low": 1404.55,
+    "close": 1429.95,
+    "volume": 204950559,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 1441,
+    "high": 1509,
+    "low": 1411.45,
+    "close": 1450.1,
+    "volume": 317992856,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 1450,
+    "high": 1501,
+    "low": 1441.05,
+    "close": 1474.95,
+    "volume": 127762357,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 1460,
+    "high": 1467,
+    "low": 1405,
+    "close": 1410,
+    "volume": 74627402,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 1400,
+    "high": 1400,
+    "low": 1308,
+    "close": 1350,
+    "volume": 325460645,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 1300,
+    "high": 1320.3,
+    "low": 1261.55,
+    "close": 1320,
+    "volume": 246421779,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 1335,
+    "high": 1374.5,
+    "low": 1326,
+    "close": 1365,
+    "volume": 100570140,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 1300,
+    "high": 1317.05,
+    "low": 1250.05,
+    "close": 1275,
+    "volume": 318179422,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 1288.45,
+    "high": 1340.2,
+    "low": 1284.65,
+    "close": 1295.05,
+    "volume": 124710417,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 1309.95,
+    "high": 1313,
+    "low": 1239.15,
+    "close": 1285,
+    "volume": 415238128,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 1250,
+    "high": 1294.95,
+    "low": 1246,
+    "close": 1280,
+    "volume": 246361802,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 1299,
+    "high": 1299,
+    "low": 1245,
+    "close": 1250,
+    "volume": 62213126,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 1240,
+    "high": 1268.9,
+    "low": 1220,
+    "close": 1225,
+    "volume": 46234540,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 1215,
+    "high": 1224.95,
+    "low": 1167.3,
+    "close": 1167.7,
+    "volume": 128905540,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 1171,
+    "high": 1245,
+    "low": 1131.4,
+    "close": 1220.1,
+    "volume": 228232002,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 1238,
+    "high": 1278.05,
+    "low": 1194.05,
+    "close": 1260.1,
+    "volume": 307893200,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 1291,
+    "high": 1299,
+    "low": 1225.1,
+    "close": 1261.8,
+    "volume": 98377330,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 1274,
+    "high": 1290,
+    "low": 1235,
+    "close": 1272,
+    "volume": 100054538,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 1279.65,
+    "high": 1297.65,
+    "low": 1252.7,
+    "close": 1288,
+    "volume": 48013807,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 1290,
+    "high": 1298,
+    "low": 1212.55,
+    "close": 1226,
+    "volume": 67179482,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 1256,
+    "high": 1260.05,
+    "low": 1231.05,
+    "close": 1243,
+    "volume": 39930203,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 1250,
+    "high": 1289,
+    "low": 1250,
+    "close": 1277,
+    "volume": 58480965,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 1294,
+    "high": 1297,
+    "low": 1243.7,
+    "close": 1290.8,
+    "volume": 62127194,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 1291,
+    "high": 1380,
+    "low": 1291,
+    "close": 1365,
+    "volume": 306187893,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 1371.95,
+    "high": 1371.95,
+    "low": 1310,
+    "close": 1313.55,
+    "volume": 84713525,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 1324,
+    "high": 1337.95,
+    "low": 1288,
+    "close": 1308.95,
+    "volume": 102297162,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 1326.8,
+    "high": 1336.6,
+    "low": 1300.7,
+    "close": 1300.7,
+    "volume": 46351206,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 1312,
+    "high": 1355,
+    "low": 1293.9,
+    "close": 1350,
+    "volume": 124897494,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 1340.1,
+    "high": 1414,
+    "low": 1325,
+    "close": 1400,
+    "volume": 175613079,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 1410,
+    "high": 1449,
+    "low": 1375.55,
+    "close": 1420,
+    "volume": 121580602,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 1430,
+    "high": 1499,
+    "low": 1375.6,
+    "close": 1490,
+    "volume": 320827198,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 1449,
+    "high": 1489,
+    "low": 1435,
+    "close": 1449.95,
+    "volume": 118131906,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 1445.1,
+    "high": 1450,
+    "low": 1390.2,
+    "close": 1409,
+    "volume": 125967177,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 1420,
+    "high": 1454,
+    "low": 1408.95,
+    "close": 1419,
+    "volume": 73287612,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 1424,
+    "high": 1435.45,
+    "low": 1389,
+    "close": 1397,
+    "volume": 76277422,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 1402.1,
+    "high": 1406.5,
+    "low": 1352.45,
+    "close": 1369.5,
+    "volume": 71261279,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 1388,
+    "high": 1393.2,
+    "low": 1345,
+    "close": 1350,
+    "volume": 75435419,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 1330,
+    "high": 1342,
+    "low": 1285,
+    "close": 1292.8,
+    "volume": 204817093,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 1290,
+    "high": 1294.5,
+    "low": 1227.05,
+    "close": 1252.2,
+    "volume": 228453252,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 1277.8,
+    "high": 1284,
+    "low": 1257.7,
+    "close": 1273,
+    "volume": 77760310,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 1252.25,
+    "high": 1277.55,
+    "low": 1225.05,
+    "close": 1247.35,
+    "volume": 177551358,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 1277,
+    "high": 1283.9,
+    "low": 1225.05,
+    "close": 1226,
+    "volume": 51328358,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 1250,
+    "high": 1263.85,
+    "low": 1230,
+    "close": 1252.95,
+    "volume": 114524998,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 1255,
+    "high": 1270.1,
+    "low": 1235.6,
+    "close": 1261,
+    "volume": 134476644,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 1247.5,
+    "high": 1292,
+    "low": 1230,
+    "close": 1268.75,
+    "volume": 159616738,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 1240,
+    "high": 1286.9,
+    "low": 1240,
+    "close": 1270,
+    "volume": 38546951,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 1270,
+    "high": 1299.95,
+    "low": 1225,
+    "close": 1255.25,
+    "volume": 34743628,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 1255.25,
+    "high": 1260,
+    "low": 1227,
+    "close": 1235,
+    "volume": 42733456,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 1270,
+    "high": 1299,
+    "low": 1241,
+    "close": 1280.05,
+    "volume": 59211361,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 1299.95,
+    "high": 1336.55,
+    "low": 1256.05,
+    "close": 1318.7,
+    "volume": 230141095,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 1321,
+    "high": 1321,
+    "low": 1291.1,
+    "close": 1311,
+    "volume": 49599383,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 1310,
+    "high": 1332.3,
+    "low": 1250,
+    "close": 1270,
+    "volume": 130942690,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 1270,
+    "high": 1273.55,
+    "low": 1245.05,
+    "close": 1249.95,
+    "volume": 65788546,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 1243,
+    "high": 1243,
+    "low": 1181.1,
+    "close": 1200,
+    "volume": 285526581,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 1199,
+    "high": 1199,
+    "low": 1105.5,
+    "close": 1148,
+    "volume": 365210433,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 1134,
+    "high": 1150.55,
+    "low": 1072.1,
+    "close": 1111,
+    "volume": 391064242,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 1105,
+    "high": 1127.2,
+    "low": 1067.9,
+    "close": 1097,
+    "volume": 159803369,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 1081.45,
+    "high": 1090.45,
+    "low": 1021.35,
+    "close": 1041,
+    "volume": 143015766,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 1099.85,
+    "high": 1099.85,
+    "low": 998,
+    "close": 1020.1,
+    "volume": 269977170,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 1015.3,
+    "high": 1096.9,
+    "low": 1014,
+    "close": 1083.05,
+    "volume": 104612919,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 1105,
+    "high": 1139,
+    "low": 1061,
+    "close": 1098,
+    "volume": 405120126,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 1108,
+    "high": 1108,
+    "low": 1059,
+    "close": 1062,
+    "volume": 105689662,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 1037.85,
+    "high": 1050,
+    "low": 1013,
+    "close": 1045.95,
+    "volume": 92013045,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 1050.45,
+    "high": 1072.3,
+    "low": 1035.2,
+    "close": 1059,
+    "volume": 74622024,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 1069.8,
+    "high": 1075.7,
+    "low": 1020.4,
+    "close": 1035,
+    "volume": 53290954,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 1042.4,
+    "high": 1042.4,
+    "low": 975,
+    "close": 999,
+    "volume": 124832235,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 1024,
+    "high": 1024,
+    "low": 975.05,
+    "close": 979.05,
+    "volume": 138029059,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 984.5,
+    "high": 1049,
+    "low": 946.15,
+    "close": 1035,
+    "volume": 187019587,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 1054.6,
+    "high": 1065,
+    "low": 1002,
+    "close": 1051,
+    "volume": 142686321,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 1060,
+    "high": 1129.9,
+    "low": 1030,
+    "close": 1120.05,
+    "volume": 247706531,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 1080.05,
+    "high": 1135.45,
+    "low": 1050.25,
+    "close": 1056,
+    "volume": 432673287,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 1064,
+    "high": 1065.3,
+    "low": 1006,
+    "close": 1011,
+    "volume": 92596843,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 1010,
+    "high": 1020,
+    "low": 991.5,
+    "close": 1000,
+    "volume": 83410930,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 1002,
+    "high": 1011.7,
+    "low": 992.1,
+    "close": 997.05,
+    "volume": 75923714,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 999,
+    "high": 999,
+    "low": 970.5,
+    "close": 979.9,
+    "volume": 60824408,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 984.95,
+    "high": 989,
+    "low": 949,
+    "close": 956,
+    "volume": 62525625,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 973.75,
+    "high": 973.75,
+    "low": 909,
+    "close": 930,
+    "volume": 151899419,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 933,
+    "high": 990,
+    "low": 924.15,
+    "close": 980.5,
+    "volume": 416284890,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 969,
+    "high": 1018.9,
+    "low": 961.35,
+    "close": 998,
+    "volume": 357236325,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 994,
+    "high": 994,
+    "low": 956.6,
+    "close": 973,
+    "volume": 128341016,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 965,
+    "high": 979.15,
+    "low": 945,
+    "close": 957.1,
+    "volume": 86804003,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 975,
+    "high": 977,
+    "low": 949.2,
+    "close": 970.5,
+    "volume": 83220965,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 975.1,
+    "high": 986.3,
+    "low": 961,
+    "close": 969.8,
+    "volume": 134865389,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 954.6,
+    "high": 967.55,
+    "low": 941,
+    "close": 945.1,
+    "volume": 88743699,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 945.1,
+    "high": 966.8,
+    "low": 930,
+    "close": 950.5,
+    "volume": 87232085,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 987,
+    "high": 987,
+    "low": 943.25,
+    "close": 945,
+    "volume": 37849498,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 949.9,
+    "high": 990,
+    "low": 944.15,
+    "close": 978,
+    "volume": 84443541,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 981.1,
+    "high": 1047.95,
+    "low": 981.1,
+    "close": 1030,
+    "volume": 268769448,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 1041,
+    "high": 1068,
+    "low": 1025.05,
+    "close": 1044.05,
+    "volume": 107948488,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 1065,
+    "high": 1074.75,
+    "low": 1012,
+    "close": 1015,
+    "volume": 82764017,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 1019.05,
+    "high": 1048.8,
+    "low": 1011.25,
+    "close": 1045,
+    "volume": 40805070,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 1041.5,
+    "high": 1070,
+    "low": 1034.2,
+    "close": 1065,
+    "volume": 112054587,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 1064.75,
+    "high": 1090,
+    "low": 1059.2,
+    "close": 1085,
+    "volume": 152727349,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 1084,
+    "high": 1104,
+    "low": 1070.45,
+    "close": 1086,
+    "volume": 157914399,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 1075.25,
+    "high": 1144,
+    "low": 1075.25,
+    "close": 1105,
+    "volume": 247654826,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 1105,
+    "high": 1148.8,
+    "low": 1105,
+    "close": 1148,
+    "volume": 212034553,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 1154.9,
+    "high": 1240.8,
+    "low": 1127.15,
+    "close": 1127.5,
+    "volume": 182678133,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 1151.4,
+    "high": 1159,
+    "low": 1106,
+    "close": 1114.85,
+    "volume": 79881492,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 1125,
+    "high": 1129.95,
+    "low": 1094.85,
+    "close": 1123,
+    "volume": 189442219,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 1120,
+    "high": 1120,
+    "low": 1091.2,
+    "close": 1093,
+    "volume": 104688960,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 1091.35,
+    "high": 1099,
+    "low": 1065.6,
+    "close": 1083.65,
+    "volume": 140220829,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 1081.1,
+    "high": 1109,
+    "low": 1081.1,
+    "close": 1103.05,
+    "volume": 95145284,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 1116,
+    "high": 1128.8,
+    "low": 1077.3,
+    "close": 1087,
+    "volume": 105145374,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 1090,
+    "high": 1106.7,
+    "low": 1090,
+    "close": 1100.85,
+    "volume": 143537106,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 1100.85,
+    "high": 1143.75,
+    "low": 1100.85,
+    "close": 1111.25,
+    "volume": 87963087,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 1115.4,
+    "high": 1129,
+    "low": 1102.05,
+    "close": 1120.9,
+    "volume": 97908350,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 1138.9,
+    "high": 1138.9,
+    "low": 1107,
+    "close": 1113,
+    "volume": 86978668,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 1113,
+    "high": 1124.1,
+    "low": 1104.6,
+    "close": 1111.2,
+    "volume": 38168886,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 1118.9,
+    "high": 1123,
+    "low": 1104.7,
+    "close": 1106.05,
+    "volume": 25232924,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 1110,
+    "high": 1120,
+    "low": 1094.15,
+    "close": 1117.75,
+    "volume": 74962390,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 1117.75,
+    "high": 1148.3,
+    "low": 1081.55,
+    "close": 1130,
+    "volume": 377420616,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 1133.9,
+    "high": 1138.3,
+    "low": 1104.05,
+    "close": 1115,
+    "volume": 74511976,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 1121.1,
+    "high": 1137.75,
+    "low": 1102,
+    "close": 1113,
+    "volume": 115023454,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 1125,
+    "high": 1157.65,
+    "low": 1113.75,
+    "close": 1139.1,
+    "volume": 219424039,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 1178,
+    "high": 1233.75,
+    "low": 1168,
+    "close": 1215,
+    "volume": 249705602,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 1230,
+    "high": 1230.05,
+    "low": 1181.5,
+    "close": 1198,
+    "volume": 78514916,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 1187.25,
+    "high": 1264.9,
+    "low": 1170.6,
+    "close": 1250,
+    "volume": 295196484,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 1269,
+    "high": 1269,
+    "low": 1181,
+    "close": 1205.15,
+    "volume": 202767847,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 1206,
+    "high": 1313,
+    "low": 1206,
+    "close": 1278,
+    "volume": 558489609,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 1276,
+    "high": 1303.25,
+    "low": 1250,
+    "close": 1275,
+    "volume": 81263189,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 1275,
+    "high": 1278.9,
+    "low": 1255,
+    "close": 1260.8,
+    "volume": 48113610,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 1288,
+    "high": 1325,
+    "low": 1236.7,
+    "close": 1267,
+    "volume": 585349278,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 1270,
+    "high": 1339,
+    "low": 1270,
+    "close": 1323.5,
+    "volume": 340516674,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 1310.15,
+    "high": 1334.95,
+    "low": 1281.6,
+    "close": 1288,
+    "volume": 195006895,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 1289,
+    "high": 1310.4,
+    "low": 1280,
+    "close": 1282,
+    "volume": 162134199,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 1346,
+    "high": 1346,
+    "low": 1290,
+    "close": 1304,
+    "volume": 183456598,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 1305.05,
+    "high": 1312.8,
+    "low": 1263,
+    "close": 1280.1,
+    "volume": 78035031,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 1274.25,
+    "high": 1274.25,
+    "low": 1234,
+    "close": 1250,
+    "volume": 120768290,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 1249,
+    "high": 1251.6,
+    "low": 1216,
+    "close": 1241.95,
+    "volume": 74982938,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 1235,
+    "high": 1251.1,
+    "low": 1212,
+    "close": 1215.35,
+    "volume": 59280183,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 1217,
+    "high": 1244,
+    "low": 1212,
+    "close": 1220.05,
+    "volume": 347537731,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 1225,
+    "high": 1270.35,
+    "low": 1213.25,
+    "close": 1259.55,
+    "volume": 587548621,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 1213,
+    "high": 1301,
+    "low": 1213,
+    "close": 1300,
+    "volume": 158737514,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 1298.95,
+    "high": 1405,
+    "low": 1282.8,
+    "close": 1394.75,
+    "volume": 489542663,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 1367.85,
+    "high": 1400,
+    "low": 1331,
+    "close": 1399.95,
+    "volume": 341456467,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 1399.95,
+    "high": 1413.5,
+    "low": 1344,
+    "close": 1354,
+    "volume": 453635847,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 1359.95,
+    "high": 1380,
+    "low": 1341,
+    "close": 1364,
+    "volume": 73864644,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 1371.1,
+    "high": 1400,
+    "low": 1370.65,
+    "close": 1384.75,
+    "volume": 229986143,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 1380,
+    "high": 1474,
+    "low": 1369.25,
+    "close": 1473,
+    "volume": 519141846,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 1480,
+    "high": 1480,
+    "low": 1421,
+    "close": 1428,
+    "volume": 223788776,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 1446.9,
+    "high": 1447.95,
+    "low": 1403.7,
+    "close": 1416,
+    "volume": 48956097,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 1414.55,
+    "high": 1475,
+    "low": 1385,
+    "close": 1444.95,
+    "volume": 270478611,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 1446.5,
+    "high": 1465.9,
+    "low": 1401,
+    "close": 1411,
+    "volume": 96974843,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 1404,
+    "high": 1465,
+    "low": 1361.1,
+    "close": 1448,
+    "volume": 216918651,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 1450,
+    "high": 1450,
+    "low": 1420.05,
+    "close": 1435,
+    "volume": 52617743,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 1430,
+    "high": 1470.1,
+    "low": 1427,
+    "close": 1453.15,
+    "volume": 232926483,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 1468,
+    "high": 1544,
+    "low": 1430,
+    "close": 1458,
+    "volume": 203742645,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 1488.1,
+    "high": 1488.1,
+    "low": 1435.35,
+    "close": 1450,
+    "volume": 89061506,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 1464,
+    "high": 1499,
+    "low": 1454.85,
+    "close": 1471.05,
+    "volume": 139567002,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 1471.05,
+    "high": 1499,
+    "low": 1395.65,
+    "close": 1424,
+    "volume": 163480388,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 1444.95,
+    "high": 1455.55,
+    "low": 1423,
+    "close": 1452,
+    "volume": 133417673,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 1429,
+    "high": 1448.9,
+    "low": 1372.45,
+    "close": 1399.65,
+    "volume": 202672218,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 1391,
+    "high": 1436.7,
+    "low": 1391,
+    "close": 1423.05,
+    "volume": 73750911,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 1414,
+    "high": 1447.95,
+    "low": 1406.85,
+    "close": 1424,
+    "volume": 44910410,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 1444,
+    "high": 1464.6,
+    "low": 1410,
+    "close": 1419.5,
+    "volume": 60809178,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 1411,
+    "high": 1519,
+    "low": 1407.65,
+    "close": 1506,
+    "volume": 104256677,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 1488.75,
+    "high": 1514,
+    "low": 1461,
+    "close": 1478,
+    "volume": 146866908,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 1500,
+    "high": 1500,
+    "low": 1471.3,
+    "close": 1471.35,
+    "volume": 62770926,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 1498,
+    "high": 1574,
+    "low": 1489.05,
+    "close": 1500.05,
+    "volume": 477972220,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 1500.05,
+    "high": 1524.7,
+    "low": 1456.9,
+    "close": 1474,
+    "volume": 301636753,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 1455,
+    "high": 1468.35,
+    "low": 1434.05,
+    "close": 1450,
+    "volume": 106362244,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 1441.3,
+    "high": 1509.95,
+    "low": 1441.3,
+    "close": 1477,
+    "volume": 155378470,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 1481,
+    "high": 1481,
+    "low": 1441.2,
+    "close": 1442,
+    "volume": 223251009,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 1445,
+    "high": 1454.95,
+    "low": 1397.65,
+    "close": 1420,
+    "volume": 99087201,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 1422.5,
+    "high": 1444.9,
+    "low": 1392.05,
+    "close": 1429.8,
+    "volume": 225072008,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 1425.05,
+    "high": 1435.75,
+    "low": 1420.05,
+    "close": 1425,
+    "volume": 105475263,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 1432.05,
+    "high": 1447.9,
+    "low": 1426.05,
+    "close": 1430.15,
+    "volume": 602097495,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 1440,
+    "high": 1479.95,
+    "low": 1430,
+    "close": 1461,
+    "volume": 100582726,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 1448,
+    "high": 1468,
+    "low": 1423.15,
+    "close": 1440.05,
+    "volume": 50426214,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 1451,
+    "high": 1471.7,
+    "low": 1420.9,
+    "close": 1430,
+    "volume": 88940098,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 1448.9,
+    "high": 1460.15,
+    "low": 1432,
+    "close": 1451,
+    "volume": 16077677,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 1464.3,
+    "high": 1487,
+    "low": 1440.05,
+    "close": 1450.05,
+    "volume": 167607892,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 1482.7,
+    "high": 1490,
+    "low": 1458.5,
+    "close": 1481,
+    "volume": 238858031,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 1479,
+    "high": 1480.1,
+    "low": 1466.55,
+    "close": 1470,
+    "volume": 55401627,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 1467,
+    "high": 1471.05,
+    "low": 1425.05,
+    "close": 1460,
+    "volume": 77608567,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 1470,
+    "high": 1494,
+    "low": 1452,
+    "close": 1466.3,
+    "volume": 143657802,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 1472,
+    "high": 1488,
+    "low": 1457.55,
+    "close": 1475,
+    "volume": 166630246,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 1483,
+    "high": 1494.9,
+    "low": 1437,
+    "close": 1455,
+    "volume": 388748769,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 1465,
+    "high": 1469,
+    "low": 1363.75,
+    "close": 1423,
+    "volume": 434511286,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 1431.05,
+    "high": 1460,
+    "low": 1423,
+    "close": 1446.9,
+    "volume": 129416437,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 1433.45,
+    "high": 1441,
+    "low": 1365.05,
+    "close": 1390.05,
+    "volume": 130539720,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 1382,
+    "high": 1389.05,
+    "low": 1332.05,
+    "close": 1341.9,
+    "volume": 125269473,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 1348,
+    "high": 1388,
+    "low": 1348,
+    "close": 1368,
+    "volume": 111446337,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 1360,
+    "high": 1395,
+    "low": 1359.7,
+    "close": 1381,
+    "volume": 132000986,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 1379,
+    "high": 1394.9,
+    "low": 1343.05,
+    "close": 1355,
+    "volume": 344256119,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 1347,
+    "high": 1355.05,
+    "low": 1301,
+    "close": 1315,
+    "volume": 249445571,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 1307,
+    "high": 1369.8,
+    "low": 1303.65,
+    "close": 1345.05,
+    "volume": 50328629,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 1336,
+    "high": 1357.9,
+    "low": 1331.05,
+    "close": 1346.95,
+    "volume": 44768690,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 1342.5,
+    "high": 1408.5,
+    "low": 1322.75,
+    "close": 1331.2,
+    "volume": 124839215,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 1350,
+    "high": 1379,
+    "low": 1335,
+    "close": 1358,
+    "volume": 234935999,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 1356,
+    "high": 1371.2,
+    "low": 1332.25,
+    "close": 1337,
+    "volume": 113281954,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 1345,
+    "high": 1350.8,
+    "low": 1330.25,
+    "close": 1334.5,
+    "volume": 31527489,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 1350,
+    "high": 1354.95,
+    "low": 1316.3,
+    "close": 1330,
+    "volume": 395285369,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 1328.95,
+    "high": 1356,
+    "low": 1322.8,
+    "close": 1330.05,
+    "volume": 104963666,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 1348,
+    "high": 1374,
+    "low": 1332.05,
+    "close": 1364,
+    "volume": 431268637,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 1361.65,
+    "high": 1363.7,
+    "low": 1331.25,
+    "close": 1360,
+    "volume": 273977894,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 1363,
+    "high": 1365.9,
+    "low": 1345.1,
+    "close": 1355,
+    "volume": 428721027,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 1358,
+    "high": 1375.95,
+    "low": 1342.5,
+    "close": 1357.9,
+    "volume": 36130267,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 1365.5,
+    "high": 1378.75,
+    "low": 1356.1,
+    "close": 1378,
+    "volume": 63949160,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 1373.35,
+    "high": 1408,
+    "low": 1363.3,
+    "close": 1391.35,
+    "volume": 264335054,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 1380,
+    "high": 1422.65,
+    "low": 1380,
+    "close": 1397.8,
+    "volume": 146557664,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 1405,
+    "high": 1425,
+    "low": 1396.65,
+    "close": 1411,
+    "volume": 99467134,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 1410.6,
+    "high": 1430.45,
+    "low": 1357.1,
+    "close": 1362.15,
+    "volume": 118018743,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 1375,
+    "high": 1408.85,
+    "low": 1370.55,
+    "close": 1384,
+    "volume": 77793026,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 1408,
+    "high": 1408,
+    "low": 1361,
+    "close": 1384.5,
+    "volume": 163187384,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 1366,
+    "high": 1388.95,
+    "low": 1352,
+    "close": 1358.1,
+    "volume": 150765205,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 1388.95,
+    "high": 1447.45,
+    "low": 1358.05,
+    "close": 1400,
+    "volume": 1974517184,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 1403,
+    "high": 1419,
+    "low": 1360.1,
+    "close": 1370,
+    "volume": 422821960,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 1398.95,
+    "high": 1398.95,
+    "low": 1365.8,
+    "close": 1386,
+    "volume": 85458335,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 1380,
+    "high": 1386,
+    "low": 1366.55,
+    "close": 1380.5,
+    "volume": 69376400,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 1380.5,
+    "high": 1393.65,
+    "low": 1285.9,
+    "close": 1345.25,
+    "volume": 306786835,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 1361.85,
+    "high": 1369.5,
+    "low": 1316.85,
+    "close": 1354.9,
+    "volume": 177124428,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 1315.3,
+    "high": 1345.5,
+    "low": 1301.35,
+    "close": 1320.05,
+    "volume": 237837858,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 1335.05,
+    "high": 1395,
+    "low": 1312.4,
+    "close": 1352,
+    "volume": 244157829,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 1337,
+    "high": 1395,
+    "low": 1328.85,
+    "close": 1368,
+    "volume": 317569915,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 1372,
+    "high": 1382.7,
+    "low": 1355.15,
+    "close": 1375,
+    "volume": 75128529,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 1374,
+    "high": 1384,
+    "low": 1347.4,
+    "close": 1378,
+    "volume": 81623346,
+    "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 1389,
+    "high": 1395,
+    "low": 1321.5,
+    "close": 1336.2,
+    "volume": 183732058,
+    "symbol": "SAPPHIRE"
+  }
+]

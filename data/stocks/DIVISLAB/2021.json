@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 3839,
+    "high": 3867.9,
+    "low": 3817.85,
+    "close": 3848.05,
+    "volume": 1324631807,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 3853,
+    "high": 3914.95,
+    "low": 3849,
+    "close": 3863.8,
+    "volume": 2240620798,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 3858.25,
+    "high": 3880.5,
+    "low": 3804.05,
+    "close": 3837,
+    "volume": 2386190374,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 3847,
+    "high": 3889.3,
+    "low": 3815.55,
+    "close": 3883.5,
+    "volume": 1878323668,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 3890,
+    "high": 3904,
+    "low": 3791,
+    "close": 3809.9,
+    "volume": 2795513338,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 3819,
+    "high": 3868.7,
+    "low": 3810.1,
+    "close": 3856,
+    "volume": 2285215225,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 3884.9,
+    "high": 3888.95,
+    "low": 3805.5,
+    "close": 3819.8,
+    "volume": 2227327609,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 3822.95,
+    "high": 3831.85,
+    "low": 3741,
+    "close": 3765,
+    "volume": 2855570278,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 3788.5,
+    "high": 3792.2,
+    "low": 3675.75,
+    "close": 3718,
+    "volume": 4257154774,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 3738.4,
+    "high": 3740,
+    "low": 3684,
+    "close": 3726.55,
+    "volume": 3063943039,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 3760,
+    "high": 3762.8,
+    "low": 3633,
+    "close": 3644,
+    "volume": 3861196967,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 3640,
+    "high": 3659,
+    "low": 3551,
+    "close": 3559.35,
+    "volume": 3422601269,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 3576,
+    "high": 3631,
+    "low": 3555.2,
+    "close": 3617,
+    "volume": 2987650334,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 3630,
+    "high": 3666.1,
+    "low": 3597.05,
+    "close": 3610,
+    "volume": 2653293279,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 3650,
+    "high": 3650,
+    "low": 3590,
+    "close": 3615,
+    "volume": 2555114663,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 3604.6,
+    "high": 3613.75,
+    "low": 3530,
+    "close": 3536.2,
+    "volume": 2570185852,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 3562,
+    "high": 3589.4,
+    "low": 3481.7,
+    "close": 3582,
+    "volume": 3271400769,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 3594.9,
+    "high": 3600,
+    "low": 3469.9,
+    "close": 3480,
+    "volume": 3316001453,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 3460,
+    "high": 3496.7,
+    "low": 3410,
+    "close": 3410.35,
+    "volume": 2475217552,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 3450,
+    "high": 3458,
+    "low": 3360.1,
+    "close": 3380,
+    "volume": 3449720016,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 3418,
+    "high": 3520,
+    "low": 3311.4,
+    "close": 3516,
+    "volume": 3384111804,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 3540,
+    "high": 3567.7,
+    "low": 3446.1,
+    "close": 3543.05,
+    "volume": 5705900867,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 3590,
+    "high": 3716.9,
+    "low": 3561.25,
+    "close": 3714,
+    "volume": 6198330596,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 3713.95,
+    "high": 3724.75,
+    "low": 3651,
+    "close": 3671.8,
+    "volume": 3341330393,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 3699,
+    "high": 3859.8,
+    "low": 3665.05,
+    "close": 3853,
+    "volume": 8112452208,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 3799,
+    "high": 3888,
+    "low": 3650,
+    "close": 3783.05,
+    "volume": 10402335348,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 3783.05,
+    "high": 3841.25,
+    "low": 3705.05,
+    "close": 3732.5,
+    "volume": 4995729261,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 3740,
+    "high": 3760,
+    "low": 3675.4,
+    "close": 3745,
+    "volume": 3549978796,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 3719.6,
+    "high": 3764.7,
+    "low": 3712,
+    "close": 3760,
+    "volume": 1578764830,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 3753.85,
+    "high": 3753.85,
+    "low": 3695.15,
+    "close": 3717.85,
+    "volume": 2090280860,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 3721,
+    "high": 3749.75,
+    "low": 3702,
+    "close": 3707.6,
+    "volume": 1589379319,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 3711.05,
+    "high": 3719.45,
+    "low": 3666,
+    "close": 3675,
+    "volume": 1448215453,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 3672,
+    "high": 3675,
+    "low": 3590,
+    "close": 3595,
+    "volume": 2512858207,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 3596,
+    "high": 3648,
+    "low": 3573,
+    "close": 3591,
+    "volume": 3194390030,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 3588,
+    "high": 3605,
+    "low": 3490,
+    "close": 3534,
+    "volume": 2642358577,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 3510,
+    "high": 3563,
+    "low": 3475,
+    "close": 3479.25,
+    "volume": 2980056839,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 3485,
+    "high": 3519,
+    "low": 3440.85,
+    "close": 3445,
+    "volume": 1773198409,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 3496.9,
+    "high": 3509.8,
+    "low": 3412.4,
+    "close": 3481,
+    "volume": 1421023191,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 3477.25,
+    "high": 3513.5,
+    "low": 3432,
+    "close": 3436.4,
+    "volume": 3041996565,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 3419.5,
+    "high": 3485.9,
+    "low": 3326.4,
+    "close": 3364,
+    "volume": 5779743009,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 3396.7,
+    "high": 3485,
+    "low": 3381.35,
+    "close": 3475,
+    "volume": 2266360848,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 3470,
+    "high": 3521.95,
+    "low": 3455.5,
+    "close": 3518.25,
+    "volume": 2526160633,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 3560,
+    "high": 3573.2,
+    "low": 3500.55,
+    "close": 3560.1,
+    "volume": 2570400335,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 3550,
+    "high": 3571,
+    "low": 3494.05,
+    "close": 3555.75,
+    "volume": 2269473535,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 3518,
+    "high": 3550,
+    "low": 3490,
+    "close": 3502,
+    "volume": 1375153668,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 3522.35,
+    "high": 3548.95,
+    "low": 3501,
+    "close": 3507.9,
+    "volume": 1313057467,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 3567.8,
+    "high": 3567.8,
+    "low": 3461.5,
+    "close": 3501.4,
+    "volume": 1550819926,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 3510,
+    "high": 3543.85,
+    "low": 3482.25,
+    "close": 3530,
+    "volume": 1485836480,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 3532.5,
+    "high": 3564.85,
+    "low": 3503.55,
+    "close": 3509.25,
+    "volume": 2122876958,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 3526,
+    "high": 3526,
+    "low": 3371,
+    "close": 3410,
+    "volume": 2857459829,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 3429.9,
+    "high": 3436,
+    "low": 3361.05,
+    "close": 3379,
+    "volume": 2686093991,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 3390,
+    "high": 3392.35,
+    "low": 3345.1,
+    "close": 3365.75,
+    "volume": 1844028174,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 3398.95,
+    "high": 3398.95,
+    "low": 3255.1,
+    "close": 3277,
+    "volume": 2067260285,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 3272,
+    "high": 3406.55,
+    "low": 3153.3,
+    "close": 3372,
+    "volume": 5770298428,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 3371.35,
+    "high": 3444,
+    "low": 3350.55,
+    "close": 3403.45,
+    "volume": 2560935332,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 3418,
+    "high": 3509.9,
+    "low": 3403.05,
+    "close": 3493,
+    "volume": 2735340424,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 3495.95,
+    "high": 3545,
+    "low": 3457.05,
+    "close": 3482,
+    "volume": 2678045706,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 3494,
+    "high": 3494.1,
+    "low": 3391,
+    "close": 3424.95,
+    "volume": 2543391400,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 3450,
+    "high": 3509.95,
+    "low": 3411.8,
+    "close": 3461.2,
+    "volume": 1751386735,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 3500,
+    "high": 3600,
+    "low": 3480.05,
+    "close": 3586.1,
+    "volume": 2610998972,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 3600,
+    "high": 3640.65,
+    "low": 3581,
+    "close": 3600.85,
+    "volume": 3192639285,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 3618,
+    "high": 3639,
+    "low": 3603,
+    "close": 3610,
+    "volume": 894219348,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 3616.1,
+    "high": 3681,
+    "low": 3561.65,
+    "close": 3605,
+    "volume": 3192639710,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 3605,
+    "high": 3698.25,
+    "low": 3584,
+    "close": 3686.5,
+    "volume": 1792064300,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 3701,
+    "high": 3734,
+    "low": 3691.6,
+    "close": 3696.2,
+    "volume": 1543603319,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 3698.55,
+    "high": 3799.9,
+    "low": 3681.5,
+    "close": 3707.7,
+    "volume": 2818750854,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 3718.5,
+    "high": 3782.55,
+    "low": 3680,
+    "close": 3750.95,
+    "volume": 4640391988,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 3760,
+    "high": 3898,
+    "low": 3675.2,
+    "close": 3795,
+    "volume": 7492933855,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 3847,
+    "high": 3850,
+    "low": 3702,
+    "close": 3716,
+    "volume": 2285736394,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 3745.5,
+    "high": 3819.9,
+    "low": 3695.55,
+    "close": 3773,
+    "volume": 3213686612,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 3790,
+    "high": 3845,
+    "low": 3733.4,
+    "close": 3812,
+    "volume": 2587150603,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 3812,
+    "high": 3849.85,
+    "low": 3756,
+    "close": 3800,
+    "volume": 2970075728,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 3815,
+    "high": 3848.9,
+    "low": 3750,
+    "close": 3773,
+    "volume": 2263365079,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 3770,
+    "high": 3812.05,
+    "low": 3742.2,
+    "close": 3750.1,
+    "volume": 2332934690,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 3751,
+    "high": 3829.65,
+    "low": 3739,
+    "close": 3782,
+    "volume": 2777745191,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 3782,
+    "high": 3842.5,
+    "low": 3770.45,
+    "close": 3780,
+    "volume": 2158505518,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 3818.35,
+    "high": 3925,
+    "low": 3786,
+    "close": 3919.9,
+    "volume": 3100777125,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 3944.15,
+    "high": 3966.55,
+    "low": 3870,
+    "close": 3874,
+    "volume": 3571022172,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 3882,
+    "high": 3947.25,
+    "low": 3856,
+    "close": 3910,
+    "volume": 2552764601,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 3910,
+    "high": 4135,
+    "low": 3909.6,
+    "close": 4052.1,
+    "volume": 10141888800,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 4061.8,
+    "high": 4147.3,
+    "low": 4025.05,
+    "close": 4079.55,
+    "volume": 4152394568,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 4098.95,
+    "high": 4102.5,
+    "low": 3962.05,
+    "close": 3991.15,
+    "volume": 1984604721,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 3999,
+    "high": 4064.55,
+    "low": 3975,
+    "close": 4040.5,
+    "volume": 2704940155,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 4050,
+    "high": 4084.4,
+    "low": 4018,
+    "close": 4054.3,
+    "volume": 1714041031,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 4068.6,
+    "high": 4087.65,
+    "low": 4019.3,
+    "close": 4030,
+    "volume": 1234068377,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 4052,
+    "high": 4205,
+    "low": 4042.1,
+    "close": 4137.95,
+    "volume": 5148255444,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 4120.1,
+    "high": 4171.2,
+    "low": 4055.1,
+    "close": 4073,
+    "volume": 1978120905,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 4078.9,
+    "high": 4123.15,
+    "low": 4045,
+    "close": 4076,
+    "volume": 2315134698,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 4090,
+    "high": 4108,
+    "low": 4006.5,
+    "close": 4033,
+    "volume": 1950223488,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 4020,
+    "high": 4067,
+    "low": 4020,
+    "close": 4039.7,
+    "volume": 1235967811,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 4060,
+    "high": 4074.85,
+    "low": 4018,
+    "close": 4029.8,
+    "volume": 1632724239,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 4035,
+    "high": 4059,
+    "low": 4002,
+    "close": 4041.8,
+    "volume": 2201862937,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 4049.65,
+    "high": 4059,
+    "low": 3964.35,
+    "close": 4041.8,
+    "volume": 1542343442,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 4041.8,
+    "high": 4110,
+    "low": 4041.8,
+    "close": 4080,
+    "volume": 1745212223,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 4092.15,
+    "high": 4165,
+    "low": 4072.35,
+    "close": 4096,
+    "volume": 2435897740,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 4117.2,
+    "high": 4137.5,
+    "low": 4085.05,
+    "close": 4105.8,
+    "volume": 967135431,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 4108.75,
+    "high": 4120,
+    "low": 4055,
+    "close": 4100,
+    "volume": 1411771886,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 4100,
+    "high": 4126,
+    "low": 4057.25,
+    "close": 4100,
+    "volume": 3190802732,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 4092,
+    "high": 4147.65,
+    "low": 4078.55,
+    "close": 4125,
+    "volume": 1994318720,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 4190,
+    "high": 4284.2,
+    "low": 4110,
+    "close": 4183,
+    "volume": 12979695418,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 4205,
+    "high": 4227.1,
+    "low": 4155.05,
+    "close": 4217,
+    "volume": 2737664441,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 4215.9,
+    "high": 4255.5,
+    "low": 4201,
+    "close": 4212.1,
+    "volume": 2549554963,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 4231,
+    "high": 4244,
+    "low": 4208,
+    "close": 4233.6,
+    "volume": 1618991497,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 4233.6,
+    "high": 4277.9,
+    "low": 4217.55,
+    "close": 4260,
+    "volume": 1656221618,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 4264.15,
+    "high": 4299,
+    "low": 4220,
+    "close": 4227,
+    "volume": 1826620273,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 4229.95,
+    "high": 4259.1,
+    "low": 4201.8,
+    "close": 4245.05,
+    "volume": 1549857089,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 4250,
+    "high": 4315,
+    "low": 4230.2,
+    "close": 4269.55,
+    "volume": 2053654000,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 4275,
+    "high": 4425,
+    "low": 4275,
+    "close": 4371,
+    "volume": 5584972533,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 4372,
+    "high": 4397,
+    "low": 4325,
+    "close": 4335,
+    "volume": 2496285114,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 4334.65,
+    "high": 4410,
+    "low": 4311,
+    "close": 4398,
+    "volume": 2364458155,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 4398,
+    "high": 4415.35,
+    "low": 4296.2,
+    "close": 4319,
+    "volume": 3459079495,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 4319.6,
+    "high": 4330.25,
+    "low": 4282.85,
+    "close": 4293.25,
+    "volume": 1542481101,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 4300.7,
+    "high": 4324.45,
+    "low": 4271,
+    "close": 4298,
+    "volume": 883891052,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 4302.5,
+    "high": 4363.95,
+    "low": 4146.5,
+    "close": 4205,
+    "volume": 6723924903,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 4190,
+    "high": 4238.85,
+    "low": 4162,
+    "close": 4231,
+    "volume": 1235335407,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 4234.8,
+    "high": 4297.75,
+    "low": 4218.95,
+    "close": 4297,
+    "volume": 1611028978,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 4300,
+    "high": 4310.2,
+    "low": 4221.25,
+    "close": 4225,
+    "volume": 1142469250,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 4235,
+    "high": 4259.7,
+    "low": 4195.05,
+    "close": 4250,
+    "volume": 1646211542,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 4254.65,
+    "high": 4289,
+    "low": 4240.25,
+    "close": 4251,
+    "volume": 920595804,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 4251,
+    "high": 4349,
+    "low": 4251,
+    "close": 4322.15,
+    "volume": 2052423476,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 4316.6,
+    "high": 4369.5,
+    "low": 4300,
+    "close": 4362.3,
+    "volume": 1626906484,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 4369,
+    "high": 4432,
+    "low": 4355.05,
+    "close": 4404.6,
+    "volume": 2801749570,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 4417,
+    "high": 4453.9,
+    "low": 4412.85,
+    "close": 4435.3,
+    "volume": 1425156131,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 4435.7,
+    "high": 4530.1,
+    "low": 4431,
+    "close": 4526,
+    "volume": 2973862717,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 4534,
+    "high": 4583.05,
+    "low": 4517.25,
+    "close": 4572.2,
+    "volume": 1910539829,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 4565,
+    "high": 4582,
+    "low": 4512.1,
+    "close": 4536.95,
+    "volume": 1194303276,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 4500,
+    "high": 4566.05,
+    "low": 4485,
+    "close": 4551,
+    "volume": 1528045254,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 4533,
+    "high": 4560,
+    "low": 4500,
+    "close": 4509,
+    "volume": 939046003,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 4515,
+    "high": 4625,
+    "low": 4510.8,
+    "close": 4605,
+    "volume": 2433799036,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 4610,
+    "high": 4623.95,
+    "low": 4575.65,
+    "close": 4594.2,
+    "volume": 943129668,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 4600,
+    "high": 4618.75,
+    "low": 4566.9,
+    "close": 4603.95,
+    "volume": 1072743288,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 4609.5,
+    "high": 4661.65,
+    "low": 4585.15,
+    "close": 4620,
+    "volume": 1688959846,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 4626,
+    "high": 4652.4,
+    "low": 4597.9,
+    "close": 4617.95,
+    "volume": 1339830858,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 4625,
+    "high": 4772,
+    "low": 4620,
+    "close": 4766.55,
+    "volume": 5479429455,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 4749.95,
+    "high": 4832.7,
+    "low": 4735.55,
+    "close": 4805,
+    "volume": 2366506655,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 4807,
+    "high": 4848,
+    "low": 4763,
+    "close": 4798.85,
+    "volume": 1735590193,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 4787.85,
+    "high": 4856.4,
+    "low": 4769.4,
+    "close": 4843.3,
+    "volume": 1857251298,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 4843.45,
+    "high": 4850,
+    "low": 4801.7,
+    "close": 4823.15,
+    "volume": 857941253,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 4824.75,
+    "high": 4940.65,
+    "low": 4824.75,
+    "close": 4914.9,
+    "volume": 3038563149,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 4930,
+    "high": 4944.75,
+    "low": 4669.4,
+    "close": 4800,
+    "volume": 4514157321,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 4802.6,
+    "high": 4913.95,
+    "low": 4768.25,
+    "close": 4889.8,
+    "volume": 4655727789,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 4908.9,
+    "high": 4934.4,
+    "low": 4824.2,
+    "close": 4835.8,
+    "volume": 3222677044,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 4879.95,
+    "high": 4940.95,
+    "low": 4862.25,
+    "close": 4893.45,
+    "volume": 3229387875,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 4893.5,
+    "high": 4962.15,
+    "low": 4893.5,
+    "close": 4915.4,
+    "volume": 1773398377,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 4930.6,
+    "high": 5019.9,
+    "low": 4900,
+    "close": 5012.85,
+    "volume": 2640090700,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 5017,
+    "high": 5045.2,
+    "low": 4954.55,
+    "close": 4960.35,
+    "volume": 1901125981,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 5000,
+    "high": 5020,
+    "low": 4916.5,
+    "close": 4925,
+    "volume": 2049774020,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 4950,
+    "high": 4959,
+    "low": 4884,
+    "close": 4924.3,
+    "volume": 1546011137,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 4980,
+    "high": 4989.8,
+    "low": 4831,
+    "close": 4911,
+    "volume": 4673158060,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 4930.9,
+    "high": 4971.6,
+    "low": 4895,
+    "close": 4945,
+    "volume": 1757412561,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 4954.5,
+    "high": 4958.95,
+    "low": 4840.8,
+    "close": 4911.25,
+    "volume": 1735273954,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 4929.95,
+    "high": 4929.95,
+    "low": 4872,
+    "close": 4914.9,
+    "volume": 981517143,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 4900.05,
+    "high": 4973,
+    "low": 4860.55,
+    "close": 4950,
+    "volume": 1548830102,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 4945.55,
+    "high": 4954.35,
+    "low": 4870,
+    "close": 4897.1,
+    "volume": 1101914869,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 4893.5,
+    "high": 4940,
+    "low": 4875,
+    "close": 4901,
+    "volume": 1747463872,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 4911.85,
+    "high": 4999.05,
+    "low": 4902,
+    "close": 4907.35,
+    "volume": 2503334755,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 4861.3,
+    "high": 4915.4,
+    "low": 4757,
+    "close": 4820,
+    "volume": 2653330936,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 4849,
+    "high": 4888.7,
+    "low": 4788,
+    "close": 4865,
+    "volume": 1995036389,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 4890,
+    "high": 4912.15,
+    "low": 4792.85,
+    "close": 4846.5,
+    "volume": 2062377930,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 4863.45,
+    "high": 4875,
+    "low": 4818.1,
+    "close": 4860,
+    "volume": 1674699692,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 4855,
+    "high": 4877.2,
+    "low": 4829,
+    "close": 4835.9,
+    "volume": 1369246286,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 4846.65,
+    "high": 4934.05,
+    "low": 4824.35,
+    "close": 4911.3,
+    "volume": 1711772088,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 4932.6,
+    "high": 5133.95,
+    "low": 4930,
+    "close": 5119,
+    "volume": 4383242657,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 5140,
+    "high": 5219,
+    "low": 5110.05,
+    "close": 5170,
+    "volume": 4629717705,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 5176,
+    "high": 5271.65,
+    "low": 5150,
+    "close": 5194,
+    "volume": 3031454036,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 5214.95,
+    "high": 5244.2,
+    "low": 5153.2,
+    "close": 5163,
+    "volume": 2153419136,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 5183,
+    "high": 5264.55,
+    "low": 5136.35,
+    "close": 5195.6,
+    "volume": 2850222735,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 5238.95,
+    "high": 5247.55,
+    "low": 5183.2,
+    "close": 5197.1,
+    "volume": 1417354088,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 5220.95,
+    "high": 5234.95,
+    "low": 5180,
+    "close": 5209.7,
+    "volume": 1487211922,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 5223,
+    "high": 5223,
+    "low": 5048.05,
+    "close": 5085,
+    "volume": 3421614321,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 5084.2,
+    "high": 5084.2,
+    "low": 5034.7,
+    "close": 5059.9,
+    "volume": 1888244791,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 5059,
+    "high": 5096,
+    "low": 5001,
+    "close": 5090,
+    "volume": 1775374393,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 5125,
+    "high": 5191.4,
+    "low": 5071.8,
+    "close": 5088.95,
+    "volume": 2677517686,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 5122.95,
+    "high": 5165,
+    "low": 5090.1,
+    "close": 5135.55,
+    "volume": 1726698109,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 5157,
+    "high": 5174.05,
+    "low": 5125.1,
+    "close": 5165,
+    "volume": 1493878662,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 5178,
+    "high": 5198.65,
+    "low": 5059.55,
+    "close": 5126.15,
+    "volume": 2062274221,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 5100,
+    "high": 5235.6,
+    "low": 5079.65,
+    "close": 5102.05,
+    "volume": 2336960573,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 5119.5,
+    "high": 5188.45,
+    "low": 5080,
+    "close": 5180,
+    "volume": 1755033432,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 5178.4,
+    "high": 5187.15,
+    "low": 5125.9,
+    "close": 5132.05,
+    "volume": 1027973847,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 5169.85,
+    "high": 5224.7,
+    "low": 5141.6,
+    "close": 5219.5,
+    "volume": 1338171418,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 5235.35,
+    "high": 5254,
+    "low": 5092,
+    "close": 5107.8,
+    "volume": 1810058549,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 5120,
+    "high": 5133.85,
+    "low": 4925,
+    "close": 4944,
+    "volume": 2749191651,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 4965,
+    "high": 4965,
+    "low": 4701,
+    "close": 4794,
+    "volume": 4933886337,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 4789,
+    "high": 4914.3,
+    "low": 4752.1,
+    "close": 4805.4,
+    "volume": 4242796708,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 4797,
+    "high": 4844.85,
+    "low": 4765.6,
+    "close": 4800,
+    "volume": 2599038312,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 4800,
+    "high": 4874,
+    "low": 4780,
+    "close": 4830,
+    "volume": 1750954137,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 4890,
+    "high": 5315.5,
+    "low": 4890,
+    "close": 5211.1,
+    "volume": 14985631188,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 5250.5,
+    "high": 5254.35,
+    "low": 5147.1,
+    "close": 5208.45,
+    "volume": 2990743831,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 5225,
+    "high": 5227.85,
+    "low": 5117.85,
+    "close": 5128,
+    "volume": 1570390697,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 5150,
+    "high": 5162.05,
+    "low": 5062.2,
+    "close": 5094.95,
+    "volume": 1602017280,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 5123,
+    "high": 5131,
+    "low": 5022.3,
+    "close": 5074,
+    "volume": 1592383657,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 5104,
+    "high": 5223.95,
+    "low": 5060.5,
+    "close": 5142,
+    "volume": 1990313824,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 5185.2,
+    "high": 5289,
+    "low": 5101,
+    "close": 5284,
+    "volume": 2611537477,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 5300,
+    "high": 5332.65,
+    "low": 5217.55,
+    "close": 5242.05,
+    "volume": 1914895948,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 5248.9,
+    "high": 5389,
+    "low": 5226.2,
+    "close": 5385,
+    "volume": 2936864219,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 5383,
+    "high": 5425.1,
+    "low": 5314.55,
+    "close": 5330,
+    "volume": 2920063743,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 5344,
+    "high": 5390,
+    "low": 5167.75,
+    "close": 5190,
+    "volume": 2039696638,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 5182.1,
+    "high": 5292,
+    "low": 5089.2,
+    "close": 5128,
+    "volume": 3227591625,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 5167.55,
+    "high": 5219,
+    "low": 5052.65,
+    "close": 5202,
+    "volume": 2237289875,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 5239,
+    "high": 5239,
+    "low": 5050,
+    "close": 5058.2,
+    "volume": 1911634111,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 5052,
+    "high": 5070,
+    "low": 4874.85,
+    "close": 4998.9,
+    "volume": 2918232239,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 4995,
+    "high": 5074,
+    "low": 4972.1,
+    "close": 5028.15,
+    "volume": 1678782955,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 5007.85,
+    "high": 5227,
+    "low": 5000.2,
+    "close": 5134,
+    "volume": 3222402718,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 5161.9,
+    "high": 5210.3,
+    "low": 5102.6,
+    "close": 5122,
+    "volume": 2119650712,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 5114.4,
+    "high": 5248.35,
+    "low": 5085.3,
+    "close": 5168,
+    "volume": 2293738006,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 5175.6,
+    "high": 5285.05,
+    "low": 5151,
+    "close": 5225,
+    "volume": 1603577018,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 5230,
+    "high": 5276.85,
+    "low": 5191.8,
+    "close": 5226,
+    "volume": 1645465549,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 5184,
+    "high": 5211.35,
+    "low": 5094.05,
+    "close": 5142.75,
+    "volume": 3463408908,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 5174,
+    "high": 5225,
+    "low": 5170.1,
+    "close": 5217,
+    "volume": 189400571,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 5023.2,
+    "high": 5040,
+    "low": 4747.8,
+    "close": 4940,
+    "volume": 12906949056,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 4968,
+    "high": 5093.25,
+    "low": 4915.45,
+    "close": 4934.45,
+    "volume": 7181778720,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 4928,
+    "high": 4946.85,
+    "low": 4866,
+    "close": 4890,
+    "volume": 2229586077,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 4900,
+    "high": 4900,
+    "low": 4815,
+    "close": 4837,
+    "volume": 1655807257,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 4895.45,
+    "high": 4895.45,
+    "low": 4810,
+    "close": 4838.15,
+    "volume": 1721523608,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 4868,
+    "high": 4927,
+    "low": 4852.8,
+    "close": 4906.15,
+    "volume": 1429824564,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 4915,
+    "high": 4915,
+    "low": 4842,
+    "close": 4846.45,
+    "volume": 1309645039,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 4845,
+    "high": 4846.45,
+    "low": 4757,
+    "close": 4763.7,
+    "volume": 1782339836,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 4723.75,
+    "high": 4809.3,
+    "low": 4671.8,
+    "close": 4770,
+    "volume": 2990666889,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 4800,
+    "high": 4838.3,
+    "low": 4666.45,
+    "close": 4687.65,
+    "volume": 2166312310,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 4679.15,
+    "high": 4825,
+    "low": 4635,
+    "close": 4781,
+    "volume": 2415877932,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 4788.9,
+    "high": 4788.9,
+    "low": 4654.5,
+    "close": 4660,
+    "volume": 1521204486,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 4677,
+    "high": 4815.95,
+    "low": 4655.6,
+    "close": 4795,
+    "volume": 1476008927,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 4770,
+    "high": 5077.7,
+    "low": 4756.75,
+    "close": 4940,
+    "volume": 7753725935,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 4965.55,
+    "high": 4990,
+    "low": 4810.1,
+    "close": 4923,
+    "volume": 2712653978,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 4930,
+    "high": 4949.7,
+    "low": 4840.15,
+    "close": 4875,
+    "volume": 4226316934,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 4880.35,
+    "high": 4977.8,
+    "low": 4725,
+    "close": 4766,
+    "volume": 2905687239,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 4776,
+    "high": 4824.9,
+    "low": 4754.1,
+    "close": 4780.5,
+    "volume": 1384738021,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 4797.3,
+    "high": 4797.35,
+    "low": 4713.6,
+    "close": 4751,
+    "volume": 1431463707,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 4775,
+    "high": 4775,
+    "low": 4635,
+    "close": 4642,
+    "volume": 1899456348,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 4652.1,
+    "high": 4666.7,
+    "low": 4600.25,
+    "close": 4630,
+    "volume": 1871738470,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 4650,
+    "high": 4651,
+    "low": 4585,
+    "close": 4610,
+    "volume": 2936627825,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 4640,
+    "high": 4640,
+    "low": 4515.85,
+    "close": 4572,
+    "volume": 3239706290,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 4550,
+    "high": 4567.75,
+    "low": 4490,
+    "close": 4506,
+    "volume": 3540703924,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 4541,
+    "high": 4590.8,
+    "low": 4490,
+    "close": 4530,
+    "volume": 2412611918,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 4520,
+    "high": 4662,
+    "low": 4501,
+    "close": 4645,
+    "volume": 4064818949,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 4653.85,
+    "high": 4653.85,
+    "low": 4535,
+    "close": 4583,
+    "volume": 5533208285,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 4618,
+    "high": 4637.4,
+    "low": 4572,
+    "close": 4607,
+    "volume": 3837820670,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 4608,
+    "high": 4625,
+    "low": 4502.15,
+    "close": 4510,
+    "volume": 1924695621,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 4490,
+    "high": 4498,
+    "low": 4356,
+    "close": 4405,
+    "volume": 1788347135,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 4448.25,
+    "high": 4448.25,
+    "low": 4361,
+    "close": 4403.95,
+    "volume": 3635750599,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 4430,
+    "high": 4584,
+    "low": 4385,
+    "close": 4558,
+    "volume": 3788995533,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 4559.95,
+    "high": 4570,
+    "low": 4471.05,
+    "close": 4483,
+    "volume": 3173101440,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 4515,
+    "high": 4515,
+    "low": 4440,
+    "close": 4443,
+    "volume": 1320926886,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 4450,
+    "high": 4491,
+    "low": 4431.85,
+    "close": 4469,
+    "volume": 1084241015,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 4495.55,
+    "high": 4535.6,
+    "low": 4476.2,
+    "close": 4526,
+    "volume": 1823325514,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 4529.8,
+    "high": 4625.8,
+    "low": 4517.25,
+    "close": 4618,
+    "volume": 3221609641,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 4642.2,
+    "high": 4657.4,
+    "low": 4610,
+    "close": 4631.85,
+    "volume": 2011252035,
+    "symbol": "DIVISLAB"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 4649,
+    "high": 4690,
+    "low": 4630,
+    "close": 4677,
+    "volume": 1372530822,
+    "symbol": "DIVISLAB"
+  }
+]

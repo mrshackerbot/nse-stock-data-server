@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1345.6,
+    "high": 1355.7,
+    "low": 1330.2,
+    "close": 1336.6,
+    "volume": 27162951,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1339.6,
+    "high": 1340.1,
+    "low": 1302,
+    "close": 1311,
+    "volume": 121211794,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1311,
+    "high": 1352.2,
+    "low": 1297,
+    "close": 1335,
+    "volume": 188239825,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1338.6,
+    "high": 1360,
+    "low": 1319.1,
+    "close": 1359.4,
+    "volume": 87431176,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1358,
+    "high": 1455,
+    "low": 1339.1,
+    "close": 1370,
+    "volume": 746664335,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1370,
+    "high": 1371.8,
+    "low": 1325.1,
+    "close": 1345,
+    "volume": 95713538,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1330,
+    "high": 1339.8,
+    "low": 1310,
+    "close": 1318,
+    "volume": 78503040,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1330,
+    "high": 1342.1,
+    "low": 1292.2,
+    "close": 1334,
+    "volume": 84148260,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1340,
+    "high": 1365,
+    "low": 1328.5,
+    "close": 1352,
+    "volume": 71478189,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1352,
+    "high": 1357.8,
+    "low": 1344.3,
+    "close": 1351,
+    "volume": 31597327,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1351.1,
+    "high": 1359,
+    "low": 1324,
+    "close": 1356.3,
+    "volume": 65286234,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1345,
+    "high": 1350,
+    "low": 1303.4,
+    "close": 1304,
+    "volume": 49764203,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1304,
+    "high": 1304.6,
+    "low": 1242.2,
+    "close": 1256.1,
+    "volume": 114186184,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1256.1,
+    "high": 1256.1,
+    "low": 1225,
+    "close": 1230,
+    "volume": 54633273,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1234.1,
+    "high": 1267.2,
+    "low": 1224.6,
+    "close": 1250.4,
+    "volume": 52355083,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1260.2,
+    "high": 1260.2,
+    "low": 1242,
+    "close": 1245.4,
+    "volume": 104813972,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1247,
+    "high": 1249.9,
+    "low": 1211.5,
+    "close": 1223.8,
+    "volume": 59854293,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1222,
+    "high": 1224,
+    "low": 1175,
+    "close": 1187.6,
+    "volume": 274092572,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1176.6,
+    "high": 1217.3,
+    "low": 1176.6,
+    "close": 1184.6,
+    "volume": 74186608,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1185,
+    "high": 1199.4,
+    "low": 1155.7,
+    "close": 1167.6,
+    "volume": 190155616,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1175,
+    "high": 1195.9,
+    "low": 1128,
+    "close": 1135.5,
+    "volume": 61387322,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1142.6,
+    "high": 1149.8,
+    "low": 1100,
+    "close": 1112.7,
+    "volume": 72448214,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1169,
+    "high": 1183.2,
+    "low": 1124.1,
+    "close": 1168,
+    "volume": 161762249,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1167.9,
+    "high": 1196.4,
+    "low": 1150.6,
+    "close": 1177.8,
+    "volume": 67016752,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1177.6,
+    "high": 1189.6,
+    "low": 1136.7,
+    "close": 1175.4,
+    "volume": 93448108,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1164.8,
+    "high": 1385,
+    "low": 1144.1,
+    "close": 1325.5,
+    "volume": 4936345135,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1321.1,
+    "high": 1339.2,
+    "low": 1260.1,
+    "close": 1267.5,
+    "volume": 886697329,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1272.2,
+    "high": 1290,
+    "low": 1253,
+    "close": 1282,
+    "volume": 225119194,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1283.6,
+    "high": 1287.5,
+    "low": 1236.4,
+    "close": 1243.8,
+    "volume": 127865597,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1200,
+    "high": 1272.9,
+    "low": 1186,
+    "close": 1225,
+    "volume": 284295945,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1222.4,
+    "high": 1226.6,
+    "low": 1175,
+    "close": 1183.5,
+    "volume": 129050667,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1184.4,
+    "high": 1199.6,
+    "low": 1157,
+    "close": 1161.8,
+    "volume": 76567450,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1165,
+    "high": 1167,
+    "low": 1142.2,
+    "close": 1145,
+    "volume": 91096567,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1145.6,
+    "high": 1168,
+    "low": 1138.5,
+    "close": 1150,
+    "volume": 119059253,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1155,
+    "high": 1160.5,
+    "low": 1108.8,
+    "close": 1112,
+    "volume": 94598476,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1125,
+    "high": 1125,
+    "low": 1090.3,
+    "close": 1104,
+    "volume": 87137151,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1119.6,
+    "high": 1126.9,
+    "low": 1079.9,
+    "close": 1103,
+    "volume": 100902911,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1090,
+    "high": 1098.3,
+    "low": 1068.6,
+    "close": 1073.1,
+    "volume": 60558364,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1075,
+    "high": 1291.3,
+    "low": 1072.7,
+    "close": 1260,
+    "volume": 13877647456,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1241.6,
+    "high": 1285,
+    "low": 1195.5,
+    "close": 1250,
+    "volume": 5923156269,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1242.9,
+    "high": 1274.4,
+    "low": 1215,
+    "close": 1217.8,
+    "volume": 663747959,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1196,
+    "high": 1226,
+    "low": 1178.4,
+    "close": 1192.5,
+    "volume": 261084205,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1175,
+    "high": 1230,
+    "low": 1152.6,
+    "close": 1221.4,
+    "volume": 182645440,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1210.8,
+    "high": 1223,
+    "low": 1195,
+    "close": 1201.8,
+    "volume": 144742111,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1203.7,
+    "high": 1214,
+    "low": 1188.6,
+    "close": 1207.5,
+    "volume": 58942776,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1180,
+    "high": 1193.6,
+    "low": 1156.5,
+    "close": 1171,
+    "volume": 92631007,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1175.3,
+    "high": 1226.9,
+    "low": 1168.8,
+    "close": 1200,
+    "volume": 120961839,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1197.9,
+    "high": 1218.4,
+    "low": 1149.4,
+    "close": 1164.4,
+    "volume": 189762214,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1167.7,
+    "high": 1182.4,
+    "low": 1122.4,
+    "close": 1178,
+    "volume": 177610985,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1174.6,
+    "high": 1194.8,
+    "low": 1150,
+    "close": 1175,
+    "volume": 154839505,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1182.2,
+    "high": 1189.9,
+    "low": 1140,
+    "close": 1140.1,
+    "volume": 257978338,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1150,
+    "high": 1184.6,
+    "low": 1119,
+    "close": 1122,
+    "volume": 394443186,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1129.2,
+    "high": 1168.6,
+    "low": 1115,
+    "close": 1141.8,
+    "volume": 454103216,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1138,
+    "high": 1138,
+    "low": 1092.1,
+    "close": 1103.5,
+    "volume": 70089188,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1104.8,
+    "high": 1125.8,
+    "low": 1078.9,
+    "close": 1112,
+    "volume": 192039190,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1092.3,
+    "high": 1093.6,
+    "low": 1020.1,
+    "close": 1030,
+    "volume": 108082036,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1037.9,
+    "high": 1100,
+    "low": 1019.3,
+    "close": 1038.3,
+    "volume": 200017706,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1054,
+    "high": 1072.6,
+    "low": 1033.5,
+    "close": 1038,
+    "volume": 224994964,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1035,
+    "high": 1039.1,
+    "low": 995.1,
+    "close": 1011.8,
+    "volume": 215718867,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1001,
+    "high": 1036.8,
+    "low": 990.6,
+    "close": 1025,
+    "volume": 316502570,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1065,
+    "high": 1069.3,
+    "low": 1010.7,
+    "close": 1019.9,
+    "volume": 225884479,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1016,
+    "high": 1030,
+    "low": 987,
+    "close": 1025,
+    "volume": 206507877,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1010,
+    "high": 1050,
+    "low": 1008.7,
+    "close": 1025,
+    "volume": 293011235,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1020,
+    "high": 1050.5,
+    "low": 1013.7,
+    "close": 1032,
+    "volume": 122699065,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1070,
+    "high": 1075.1,
+    "low": 1041.6,
+    "close": 1050,
+    "volume": 266272035,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1058.2,
+    "high": 1094.2,
+    "low": 1046.4,
+    "close": 1060,
+    "volume": 256572962,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1063.1,
+    "high": 1090,
+    "low": 1053.7,
+    "close": 1060.7,
+    "volume": 845064026,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1049.4,
+    "high": 1059,
+    "low": 1027.4,
+    "close": 1049.7,
+    "volume": 94782746,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1062,
+    "high": 1074,
+    "low": 1036.3,
+    "close": 1039,
+    "volume": 483382010,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1046.8,
+    "high": 1061.4,
+    "low": 1035,
+    "close": 1039,
+    "volume": 477463677,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1048,
+    "high": 1113.6,
+    "low": 1041.3,
+    "close": 1084.4,
+    "volume": 837159642,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1080.5,
+    "high": 1088,
+    "low": 1055.1,
+    "close": 1059,
+    "volume": 359741367,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1066.4,
+    "high": 1073.7,
+    "low": 1037.5,
+    "close": 1040,
+    "volume": 189343487,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1046,
+    "high": 1058,
+    "low": 1033.3,
+    "close": 1052.6,
+    "volume": 122110667,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1052.4,
+    "high": 1069.1,
+    "low": 1044.9,
+    "close": 1048,
+    "volume": 233058205,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1059.3,
+    "high": 1068.9,
+    "low": 1010.2,
+    "close": 1014.5,
+    "volume": 192108104,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1027.2,
+    "high": 1075.6,
+    "low": 1022.8,
+    "close": 1061.7,
+    "volume": 324922211,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1062,
+    "high": 1122,
+    "low": 1060.5,
+    "close": 1084.5,
+    "volume": 572608837,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1074.3,
+    "high": 1164.1,
+    "low": 1073,
+    "close": 1137,
+    "volume": 1077923324,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1140,
+    "high": 1154.2,
+    "low": 1119.5,
+    "close": 1138.5,
+    "volume": 340500909,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1158.9,
+    "high": 1216.4,
+    "low": 1143.5,
+    "close": 1198,
+    "volume": 533008857,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1201.2,
+    "high": 1208.2,
+    "low": 1150.1,
+    "close": 1185,
+    "volume": 261907884,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1185,
+    "high": 1233.9,
+    "low": 1185,
+    "close": 1222,
+    "volume": 270800947,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1224,
+    "high": 1234.2,
+    "low": 1190,
+    "close": 1192,
+    "volume": 220993200,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1198.1,
+    "high": 1202.4,
+    "low": 1168,
+    "close": 1170,
+    "volume": 184474031,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1177,
+    "high": 1214.6,
+    "low": 1150.4,
+    "close": 1205,
+    "volume": 245819273,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1200.6,
+    "high": 1203.9,
+    "low": 1115.9,
+    "close": 1139,
+    "volume": 230671321,
+    "symbol": "CONCORDBIO"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1130,
+    "high": 1167.9,
+    "low": 1124.8,
+    "close": 1144,
+    "volume": 119784802,
+    "symbol": "CONCORDBIO"
+  }
+]

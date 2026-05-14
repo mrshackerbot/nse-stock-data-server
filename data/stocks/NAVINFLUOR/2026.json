@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 5950,
+    "high": 6036,
+    "low": 5870.5,
+    "close": 5912,
+    "volume": 605171905,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 5915,
+    "high": 5997,
+    "low": 5881.5,
+    "close": 5908,
+    "volume": 652945053,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 5903,
+    "high": 5987.5,
+    "low": 5888.5,
+    "close": 5933,
+    "volume": 539466030,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 5974.5,
+    "high": 5974.5,
+    "low": 5718,
+    "close": 5734,
+    "volume": 709411270,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 5779.5,
+    "high": 5861,
+    "low": 5727.5,
+    "close": 5828,
+    "volume": 654373341,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 5828,
+    "high": 5845,
+    "low": 5724,
+    "close": 5750,
+    "volume": 665543449,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 5750,
+    "high": 5895,
+    "low": 5659.5,
+    "close": 5714,
+    "volume": 861659586,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 5743,
+    "high": 5842.5,
+    "low": 5709,
+    "close": 5803.5,
+    "volume": 774339776,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 5788,
+    "high": 6009,
+    "low": 5770,
+    "close": 5985,
+    "volume": 1025707262,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 5960,
+    "high": 6087.5,
+    "low": 5934,
+    "close": 6017,
+    "volume": 1118032653,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 6032,
+    "high": 6181,
+    "low": 5961,
+    "close": 6120,
+    "volume": 1231670980,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 6180,
+    "high": 6273.5,
+    "low": 6072.5,
+    "close": 6110,
+    "volume": 1670412123,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 6097,
+    "high": 6113,
+    "low": 5910,
+    "close": 5929.5,
+    "volume": 610941208,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 5890,
+    "high": 5894.5,
+    "low": 5606.5,
+    "close": 5801.5,
+    "volume": 1171089015,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 5786,
+    "high": 5935,
+    "low": 5705,
+    "close": 5907,
+    "volume": 971545257,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 5910.5,
+    "high": 6010,
+    "low": 5846.5,
+    "close": 5890.5,
+    "volume": 669544230,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 5948.5,
+    "high": 5959.5,
+    "low": 5715.5,
+    "close": 5870,
+    "volume": 755412890,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 5870.5,
+    "high": 6015.5,
+    "low": 5840.5,
+    "close": 5989.5,
+    "volume": 573993164,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 5965,
+    "high": 6103,
+    "low": 5964.5,
+    "close": 6065.5,
+    "volume": 776122720,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 6042.5,
+    "high": 6189,
+    "low": 5885,
+    "close": 6030,
+    "volume": 1219583959,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 6115,
+    "high": 6176,
+    "low": 5900,
+    "close": 5948,
+    "volume": 246745023,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 5948,
+    "high": 5987,
+    "low": 5801.5,
+    "close": 5949,
+    "volume": 942323423,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 6400,
+    "high": 6443,
+    "low": 6192,
+    "close": 6300,
+    "volume": 2758637901,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 6300,
+    "high": 6435,
+    "low": 6251,
+    "close": 6336,
+    "volume": 1793879934,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 6340,
+    "high": 6435,
+    "low": 6240.5,
+    "close": 6294,
+    "volume": 903229631,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 6297.5,
+    "high": 6473,
+    "low": 6227,
+    "close": 6420,
+    "volume": 1386317032,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 6500,
+    "high": 6634.5,
+    "low": 6434,
+    "close": 6610,
+    "volume": 2594218842,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 6899,
+    "high": 6965,
+    "low": 6290.5,
+    "close": 6325,
+    "volume": 11594912149,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 6389.5,
+    "high": 6570,
+    "low": 6356.5,
+    "close": 6409,
+    "volume": 3996720003,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 6459,
+    "high": 6662,
+    "low": 6435.5,
+    "close": 6597,
+    "volume": 3573056889,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 6580.5,
+    "high": 6580.5,
+    "low": 6286,
+    "close": 6292,
+    "volume": 907301638,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 6335,
+    "high": 6348,
+    "low": 6210,
+    "close": 6236,
+    "volume": 658048839,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 6249,
+    "high": 6319.5,
+    "low": 6229,
+    "close": 6231,
+    "volume": 458480380,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 6242.5,
+    "high": 6491,
+    "low": 6232.5,
+    "close": 6384,
+    "volume": 1412699276,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 6365,
+    "high": 6496,
+    "low": 6350,
+    "close": 6380,
+    "volume": 794649871,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 6380,
+    "high": 6546,
+    "low": 6350,
+    "close": 6524,
+    "volume": 1014788483,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 6560,
+    "high": 6666,
+    "low": 6478.5,
+    "close": 6653,
+    "volume": 1288571762,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 6606,
+    "high": 6637.5,
+    "low": 6285,
+    "close": 6359,
+    "volume": 1127129077,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 6378.5,
+    "high": 6497,
+    "low": 6262,
+    "close": 6412,
+    "volume": 810428249,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 6438,
+    "high": 6506.5,
+    "low": 6409,
+    "close": 6485,
+    "volume": 378957993,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 6470,
+    "high": 6470.5,
+    "low": 6170,
+    "close": 6255,
+    "volume": 1661368533,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 5960,
+    "high": 6315,
+    "low": 5900,
+    "close": 6298.5,
+    "volume": 1049441734,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 6200,
+    "high": 6223.5,
+    "low": 6026.5,
+    "close": 6060,
+    "volume": 1484381680,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 6110,
+    "high": 6550,
+    "low": 6110,
+    "close": 6480,
+    "volume": 2992816744,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 6550,
+    "high": 6660,
+    "low": 6494,
+    "close": 6558.5,
+    "volume": 1783882658,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 6434,
+    "high": 6485.5,
+    "low": 6323.5,
+    "close": 6415,
+    "volume": 1024841817,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 6555,
+    "high": 6620,
+    "low": 6480,
+    "close": 6548,
+    "volume": 966678503,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 6575,
+    "high": 6617.5,
+    "low": 6305,
+    "close": 6315,
+    "volume": 1378827406,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 6315,
+    "high": 6345.5,
+    "low": 6158.5,
+    "close": 6201,
+    "volume": 891779850,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 6201,
+    "high": 6260,
+    "low": 6034,
+    "close": 6170,
+    "volume": 1577147481,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 6120,
+    "high": 6233.5,
+    "low": 6100,
+    "close": 6196,
+    "volume": 665577526,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 6232,
+    "high": 6318,
+    "low": 6180,
+    "close": 6305,
+    "volume": 967700225,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 6325,
+    "high": 6461,
+    "low": 6303,
+    "close": 6344.5,
+    "volume": 676024042,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 6250,
+    "high": 6371,
+    "low": 6192.5,
+    "close": 6325,
+    "volume": 817489823,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 6293.5,
+    "high": 6366,
+    "low": 6061,
+    "close": 6190,
+    "volume": 748316677,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 6061,
+    "high": 6093.5,
+    "low": 5866,
+    "close": 5870,
+    "volume": 667971887,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 6050,
+    "high": 6225,
+    "low": 5950,
+    "close": 6180,
+    "volume": 862014928,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 6250,
+    "high": 6340,
+    "low": 6168,
+    "close": 6220,
+    "volume": 1195569523,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 6210,
+    "high": 6220,
+    "low": 5975,
+    "close": 6040,
+    "volume": 1600184741,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 6040,
+    "high": 6200,
+    "low": 5940.5,
+    "close": 6166,
+    "volume": 1098357139,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 6248,
+    "high": 6256.5,
+    "low": 6012,
+    "close": 6016,
+    "volume": 639061463,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 5900,
+    "high": 5929,
+    "low": 5666.5,
+    "close": 5872,
+    "volume": 1125093797,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 5891,
+    "high": 6069,
+    "low": 5811,
+    "close": 5835,
+    "volume": 786066502,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 5832,
+    "high": 5925,
+    "low": 5760,
+    "close": 5832,
+    "volume": 634262833,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 6020,
+    "high": 6165.5,
+    "low": 5950.5,
+    "close": 6070,
+    "volume": 901820465,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 6091.5,
+    "high": 6209,
+    "low": 6002,
+    "close": 6120,
+    "volume": 950887939,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 6135,
+    "high": 6214.5,
+    "low": 6089.5,
+    "close": 6171,
+    "volume": 1265651711,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 6086,
+    "high": 6272,
+    "low": 5990.5,
+    "close": 6234,
+    "volume": 679473168,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 6280.5,
+    "high": 6415,
+    "low": 6200.5,
+    "close": 6215,
+    "volume": 935727863,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 6335,
+    "high": 6343.5,
+    "low": 6156,
+    "close": 6253,
+    "volume": 755540423,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 6287,
+    "high": 6340,
+    "low": 6258.5,
+    "close": 6265,
+    "volume": 571509474,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 6296,
+    "high": 6500,
+    "low": 6221,
+    "close": 6470,
+    "volume": 1556814315,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 6520,
+    "high": 6600,
+    "low": 6350,
+    "close": 6375.5,
+    "volume": 1408667149,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 6365,
+    "high": 6450,
+    "low": 6250,
+    "close": 6294.5,
+    "volume": 989187092,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 6280,
+    "high": 6389.5,
+    "low": 6250.5,
+    "close": 6292,
+    "volume": 627116664,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 6309,
+    "high": 6515,
+    "low": 6262,
+    "close": 6473,
+    "volume": 3009035068,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 6520,
+    "high": 6620,
+    "low": 6437.5,
+    "close": 6550,
+    "volume": 2738112167,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 6590,
+    "high": 6675,
+    "low": 6567.5,
+    "close": 6635,
+    "volume": 1638785590,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 6670,
+    "high": 6816,
+    "low": 6660,
+    "close": 6800,
+    "volume": 2119918618,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 7050,
+    "high": 7200,
+    "low": 6660.5,
+    "close": 6815,
+    "volume": 15995935906,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 6855,
+    "high": 6978,
+    "low": 6755.5,
+    "close": 6798,
+    "volume": 2857320018,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 6810,
+    "high": 7020,
+    "low": 6765,
+    "close": 7003,
+    "volume": 3699800179,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 7080,
+    "high": 7088,
+    "low": 6978,
+    "close": 7025,
+    "volume": 2232580513,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 7099,
+    "high": 7119,
+    "low": 6985.5,
+    "close": 7042,
+    "volume": 1330953155,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 7049,
+    "high": 7095.5,
+    "low": 6996.5,
+    "close": 7039.5,
+    "volume": 1219622909,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 7000,
+    "high": 7120,
+    "low": 6945,
+    "close": 7093,
+    "volume": 982675728,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 7070,
+    "high": 7070,
+    "low": 6912.5,
+    "close": 6954,
+    "volume": 739421258,
+    "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 6940,
+    "high": 7120,
+    "low": 6890,
+    "close": 6925,
+    "volume": 890097539,
+    "symbol": "NAVINFLUOR"
+  }
+]

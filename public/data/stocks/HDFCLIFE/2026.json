@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 750,
+    "high": 753.4,
+    "low": 746.9,
+    "close": 750.85,
+    "volume": 614909520,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 749.95,
+    "high": 758.35,
+    "low": 749.05,
+    "close": 753.2,
+    "volume": 1100414877,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 751.5,
+    "high": 765.4,
+    "low": 751.5,
+    "close": 760.6,
+    "volume": 1025389981,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 754.2,
+    "high": 779.9,
+    "low": 754.2,
+    "close": 776.05,
+    "volume": 2247354281,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 778,
+    "high": 779.9,
+    "low": 769.5,
+    "close": 773.7,
+    "volume": 1043396246,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 773,
+    "high": 774.35,
+    "low": 752.65,
+    "close": 759.9,
+    "volume": 1512719583,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 758.2,
+    "high": 760.75,
+    "low": 747.7,
+    "close": 750,
+    "volume": 2457945794,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 750.35,
+    "high": 766.5,
+    "low": 750.35,
+    "close": 754.65,
+    "volume": 1342682887,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 750.1,
+    "high": 757.7,
+    "low": 742.6,
+    "close": 750,
+    "volume": 1363657380,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 742,
+    "high": 753.75,
+    "low": 741.85,
+    "close": 743.9,
+    "volume": 2173684919,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 740.1,
+    "high": 742,
+    "low": 718,
+    "close": 733.5,
+    "volume": 7201860367,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 726.9,
+    "high": 742.95,
+    "low": 726.9,
+    "close": 737,
+    "volume": 1886897301,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 736.8,
+    "high": 742.55,
+    "low": 730.45,
+    "close": 734.05,
+    "volume": 1706528108,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 727.55,
+    "high": 740.6,
+    "low": 722.1,
+    "close": 723,
+    "volume": 2527610007,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 725.1,
+    "high": 729.65,
+    "low": 717.85,
+    "close": 724.35,
+    "volume": 1719927606,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 721.1,
+    "high": 723,
+    "low": 710.3,
+    "close": 712.3,
+    "volume": 2318344210,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 712.1,
+    "high": 725,
+    "low": 708.1,
+    "close": 725,
+    "volume": 2396324993,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 722.2,
+    "high": 731.6,
+    "low": 719,
+    "close": 728.9,
+    "volume": 1290053301,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 728.6,
+    "high": 732.25,
+    "low": 722.85,
+    "close": 725.5,
+    "volume": 1828212186,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 721.25,
+    "high": 735.7,
+    "low": 720.65,
+    "close": 729.5,
+    "volume": 2680726822,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 731,
+    "high": 733,
+    "low": 708.5,
+    "close": 714.65,
+    "volume": 703704841,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 717.3,
+    "high": 721.65,
+    "low": 708.8,
+    "close": 717,
+    "volume": 1305742565,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 721.5,
+    "high": 735,
+    "low": 718.15,
+    "close": 720,
+    "volume": 2838301136,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 724,
+    "high": 727,
+    "low": 714.9,
+    "close": 721.3,
+    "volume": 3484110393,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 722.4,
+    "high": 723.3,
+    "low": 712.1,
+    "close": 719,
+    "volume": 910171748,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 718,
+    "high": 721.9,
+    "low": 698.55,
+    "close": 703.4,
+    "volume": 2893462677,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 704.5,
+    "high": 711.95,
+    "low": 702.5,
+    "close": 707.3,
+    "volume": 2894911960,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 711.25,
+    "high": 713.95,
+    "low": 702.85,
+    "close": 703.85,
+    "volume": 1638642184,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 704,
+    "high": 705.6,
+    "low": 699,
+    "close": 700,
+    "volume": 1314198853,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 697,
+    "high": 704.55,
+    "low": 688.9,
+    "close": 703,
+    "volume": 3713918862,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 702,
+    "high": 707.55,
+    "low": 695.05,
+    "close": 696.85,
+    "volume": 1452157542,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 693,
+    "high": 708.4,
+    "low": 693,
+    "close": 706,
+    "volume": 1387357451,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 702.5,
+    "high": 710.9,
+    "low": 701.5,
+    "close": 705,
+    "volume": 932335600,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 705.85,
+    "high": 730.7,
+    "low": 704.85,
+    "close": 729.7,
+    "volume": 3583836240,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 726.9,
+    "high": 735.8,
+    "low": 723.5,
+    "close": 734.35,
+    "volume": 2104958401,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 733.15,
+    "high": 735.65,
+    "low": 726.9,
+    "close": 730,
+    "volume": 1169434596,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 730,
+    "high": 745.75,
+    "low": 729.7,
+    "close": 743,
+    "volume": 2021572078,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 740.1,
+    "high": 742.8,
+    "low": 730.15,
+    "close": 740,
+    "volume": 1411783206,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 740,
+    "high": 741.9,
+    "low": 732.85,
+    "close": 737,
+    "volume": 1528853151,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 735.45,
+    "high": 744.9,
+    "low": 731.65,
+    "close": 733.25,
+    "volume": 1715100266,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 733,
+    "high": 736.8,
+    "low": 714.25,
+    "close": 716.75,
+    "volume": 2450780268,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 704.6,
+    "high": 720,
+    "low": 703,
+    "close": 707.75,
+    "volume": 1943871772,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 691.4,
+    "high": 707.1,
+    "low": 681.9,
+    "close": 683,
+    "volume": 4130063951,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 684.6,
+    "high": 693,
+    "low": 670.95,
+    "close": 686.2,
+    "volume": 3666838633,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 677.6,
+    "high": 679.2,
+    "low": 667.95,
+    "close": 669,
+    "volume": 2011593765,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 655,
+    "high": 659.9,
+    "low": 642.1,
+    "close": 653.75,
+    "volume": 2829960887,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 653.95,
+    "high": 661.6,
+    "low": 653.4,
+    "close": 658.1,
+    "volume": 2332197437,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 654,
+    "high": 657.5,
+    "low": 645.9,
+    "close": 647,
+    "volume": 870035329,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 644.6,
+    "high": 649.35,
+    "low": 636.1,
+    "close": 645,
+    "volume": 2150063037,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 638.25,
+    "high": 640.6,
+    "low": 624,
+    "close": 624.6,
+    "volume": 1998767504,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 625,
+    "high": 630.55,
+    "low": 617.2,
+    "close": 624,
+    "volume": 1719305032,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 625,
+    "high": 645.35,
+    "low": 623.3,
+    "close": 642.9,
+    "volume": 2209777059,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 642.45,
+    "high": 646.6,
+    "low": 639.6,
+    "close": 642.35,
+    "volume": 1561275176,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 630,
+    "high": 638.55,
+    "low": 624,
+    "close": 633.45,
+    "volume": 1229194706,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 635,
+    "high": 635.5,
+    "low": 622.05,
+    "close": 624.6,
+    "volume": 1885951528,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 615.1,
+    "high": 617,
+    "low": 590.1,
+    "close": 590.1,
+    "volume": 2524190404,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 597,
+    "high": 607.65,
+    "low": 590.05,
+    "close": 603.5,
+    "volume": 2191316645,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 603.95,
+    "high": 617.2,
+    "low": 603.95,
+    "close": 613,
+    "volume": 1787105433,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 605,
+    "high": 612.45,
+    "low": 600,
+    "close": 610.9,
+    "volume": 2685112247,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 608.95,
+    "high": 610,
+    "low": 587.85,
+    "close": 592.95,
+    "volume": 3742861743,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 600,
+    "high": 606.15,
+    "low": 569,
+    "close": 572.15,
+    "volume": 5687192587,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 568.6,
+    "high": 568.9,
+    "low": 555.1,
+    "close": 565,
+    "volume": 3282592716,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 563,
+    "high": 582.4,
+    "low": 560.75,
+    "close": 581.65,
+    "volume": 2471680527,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 579.5,
+    "high": 582.9,
+    "low": 573.6,
+    "close": 580,
+    "volume": 2056784005,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 595,
+    "high": 608.55,
+    "low": 592.05,
+    "close": 597.5,
+    "volume": 3557298713,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 592.9,
+    "high": 599.5,
+    "low": 584.4,
+    "close": 593.15,
+    "volume": 2309486204,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 595,
+    "high": 605.45,
+    "low": 590.5,
+    "close": 604.5,
+    "volume": 2633584678,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 592.45,
+    "high": 622.95,
+    "low": 592,
+    "close": 620.55,
+    "volume": 3425058145,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 628,
+    "high": 642.15,
+    "low": 626,
+    "close": 640,
+    "volume": 3656952938,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 647,
+    "high": 650.75,
+    "low": 627.7,
+    "close": 630.5,
+    "volume": 1930387649,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 618.95,
+    "high": 625,
+    "low": 606.2,
+    "close": 616.25,
+    "volume": 5005853709,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 617,
+    "high": 617,
+    "low": 605.35,
+    "close": 608.75,
+    "volume": 3039562270,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 609.75,
+    "high": 615.9,
+    "low": 602.8,
+    "close": 614.5,
+    "volume": 2931782257,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 614.2,
+    "high": 617.25,
+    "low": 603.25,
+    "close": 604.2,
+    "volume": 2424187973,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 604.2,
+    "high": 607.75,
+    "low": 595.5,
+    "close": 597.5,
+    "volume": 2700000499,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 598,
+    "high": 603.15,
+    "low": 585.6,
+    "close": 587.5,
+    "volume": 1666729762,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 595,
+    "high": 603.45,
+    "low": 590.1,
+    "close": 595.3,
+    "volume": 3320269091,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 594.2,
+    "high": 598.6,
+    "low": 588.5,
+    "close": 590.2,
+    "volume": 3322710317,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 592,
+    "high": 602.95,
+    "low": 589.6,
+    "close": 595.5,
+    "volume": 4117060580,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 594.35,
+    "high": 594.35,
+    "low": 578.4,
+    "close": 589,
+    "volume": 3644761251,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 591.95,
+    "high": 596.2,
+    "low": 583,
+    "close": 587.5,
+    "volume": 1526390594,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 587.05,
+    "high": 601.95,
+    "low": 586,
+    "close": 595,
+    "volume": 2424935745,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 597.9,
+    "high": 612.6,
+    "low": 594.55,
+    "close": 606,
+    "volume": 20636158925,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 611,
+    "high": 629.3,
+    "low": 608.85,
+    "close": 628,
+    "volume": 13847169592,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 625.5,
+    "high": 628,
+    "low": 618.3,
+    "close": 620,
+    "volume": 1466428262,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 619,
+    "high": 626,
+    "low": 611.2,
+    "close": 620.95,
+    "volume": 2318121724,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 622,
+    "high": 622,
+    "low": 600.35,
+    "close": 602.95,
+    "volume": 1696394898,
+    "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 602.95,
+    "high": 608.5,
+    "low": 598.85,
+    "close": 604.15,
+    "volume": 1381265690,
+    "symbol": "HDFCLIFE"
+  }
+]

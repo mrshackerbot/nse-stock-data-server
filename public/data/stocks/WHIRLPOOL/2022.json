@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 1780,
+    "high": 1807.15,
+    "low": 1760,
+    "close": 1772.15,
+    "volume": 379043811,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 1775.25,
+    "high": 1798,
+    "low": 1771,
+    "close": 1783.95,
+    "volume": 177261908,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 1785.55,
+    "high": 1798,
+    "low": 1775,
+    "close": 1778.9,
+    "volume": 213620227,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 1770,
+    "high": 1785.55,
+    "low": 1747.35,
+    "close": 1780,
+    "volume": 225783245,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 1780,
+    "high": 1859.45,
+    "low": 1775.2,
+    "close": 1846,
+    "volume": 1263750656,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 1865,
+    "high": 1865,
+    "low": 1821.1,
+    "close": 1852.6,
+    "volume": 431637784,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 1861,
+    "high": 1895.9,
+    "low": 1846.25,
+    "close": 1853,
+    "volume": 661969535,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 1860,
+    "high": 1869,
+    "low": 1840,
+    "close": 1845,
+    "volume": 268407206,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 1850.9,
+    "high": 1855.6,
+    "low": 1822.95,
+    "close": 1845.05,
+    "volume": 210785445,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 1850,
+    "high": 1888,
+    "low": 1822.95,
+    "close": 1871,
+    "volume": 438560515,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 1877,
+    "high": 1917,
+    "low": 1863.8,
+    "close": 1876.5,
+    "volume": 381756122,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 1876.5,
+    "high": 1893.75,
+    "low": 1823,
+    "close": 1825.2,
+    "volume": 261558706,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 1822,
+    "high": 1838.2,
+    "low": 1801,
+    "close": 1830.1,
+    "volume": 201345694,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 1830.1,
+    "high": 1856.8,
+    "low": 1820,
+    "close": 1851,
+    "volume": 314774021,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 1840,
+    "high": 1864,
+    "low": 1813,
+    "close": 1840,
+    "volume": 409901114,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 1840,
+    "high": 1840,
+    "low": 1765,
+    "close": 1791.25,
+    "volume": 506240429,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 1771,
+    "high": 1816.65,
+    "low": 1750,
+    "close": 1782,
+    "volume": 771961933,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 1771,
+    "high": 1799.25,
+    "low": 1740,
+    "close": 1799.1,
+    "volume": 424122327,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 1809.8,
+    "high": 1874,
+    "low": 1800.05,
+    "close": 1835,
+    "volume": 437711528,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 1847.85,
+    "high": 1862.45,
+    "low": 1825,
+    "close": 1850,
+    "volume": 200763107,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 1862.45,
+    "high": 1869,
+    "low": 1813.75,
+    "close": 1837,
+    "volume": 124905303,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 1834,
+    "high": 1855.95,
+    "low": 1826.85,
+    "close": 1842,
+    "volume": 241491745,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 1848.45,
+    "high": 1848.7,
+    "low": 1790.55,
+    "close": 1803.1,
+    "volume": 293556363,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 1803,
+    "high": 1834.85,
+    "low": 1792,
+    "close": 1797,
+    "volume": 190345421,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 1807,
+    "high": 1813.05,
+    "low": 1762.05,
+    "close": 1795,
+    "volume": 234151794,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 1788.35,
+    "high": 1805,
+    "low": 1772.15,
+    "close": 1791.15,
+    "volume": 127385305,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 1801,
+    "high": 1829,
+    "low": 1772.2,
+    "close": 1776,
+    "volume": 110062422,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 1784.9,
+    "high": 1822.7,
+    "low": 1751,
+    "close": 1795,
+    "volume": 788899471,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 1758,
+    "high": 1788.8,
+    "low": 1742.5,
+    "close": 1748.8,
+    "volume": 308741567,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 1737,
+    "high": 1745,
+    "low": 1680.05,
+    "close": 1708.7,
+    "volume": 452908003,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 1700,
+    "high": 1755,
+    "low": 1691.7,
+    "close": 1740.55,
+    "volume": 215630876,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 1739.15,
+    "high": 1759.55,
+    "low": 1716,
+    "close": 1728.95,
+    "volume": 257097566,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 1743,
+    "high": 1743,
+    "low": 1702.75,
+    "close": 1722.8,
+    "volume": 109840455,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 1706,
+    "high": 1730,
+    "low": 1696.55,
+    "close": 1709,
+    "volume": 82300570,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 1701.2,
+    "high": 1705,
+    "low": 1672.95,
+    "close": 1695.3,
+    "volume": 129227501,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 1653,
+    "high": 1679.95,
+    "low": 1650,
+    "close": 1658.15,
+    "volume": 304653673,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 1670.45,
+    "high": 1690.3,
+    "low": 1650,
+    "close": 1652,
+    "volume": 866063204,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 1615,
+    "high": 1650.35,
+    "low": 1576,
+    "close": 1635,
+    "volume": 456656378,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 1625.5,
+    "high": 1684.5,
+    "low": 1620.15,
+    "close": 1676,
+    "volume": 253670264,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 1674,
+    "high": 1681.7,
+    "low": 1631.25,
+    "close": 1672.45,
+    "volume": 226838984,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 1655,
+    "high": 1702.75,
+    "low": 1645.35,
+    "close": 1662.8,
+    "volume": 251230542,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 1669,
+    "high": 1680.5,
+    "low": 1627.05,
+    "close": 1653.9,
+    "volume": 175719845,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 1635,
+    "high": 1663,
+    "low": 1611,
+    "close": 1639.95,
+    "volume": 294380377,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 1629,
+    "high": 1629,
+    "low": 1574.7,
+    "close": 1613.95,
+    "volume": 229015952,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 1628.95,
+    "high": 1628.95,
+    "low": 1560.05,
+    "close": 1565.5,
+    "volume": 578259402,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 1584,
+    "high": 1597.35,
+    "low": 1560.05,
+    "close": 1588,
+    "volume": 383067642,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 1629.9,
+    "high": 1644.35,
+    "low": 1595,
+    "close": 1596.05,
+    "volume": 410109403,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 1606.4,
+    "high": 1614.9,
+    "low": 1565.5,
+    "close": 1574.95,
+    "volume": 438795897,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 1574.1,
+    "high": 1583.3,
+    "low": 1532.1,
+    "close": 1553.1,
+    "volume": 221007159,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 1554.5,
+    "high": 1574.5,
+    "low": 1545,
+    "close": 1545,
+    "volume": 322261225,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 1574,
+    "high": 1594,
+    "low": 1565.35,
+    "close": 1579.8,
+    "volume": 865969308,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 1611.25,
+    "high": 1683,
+    "low": 1603,
+    "close": 1652,
+    "volume": 2548251476,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 1672.8,
+    "high": 1672.8,
+    "low": 1631.3,
+    "close": 1638,
+    "volume": 406998202,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 1646,
+    "high": 1646,
+    "low": 1573.4,
+    "close": 1600,
+    "volume": 532708198,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 1610,
+    "high": 1664.5,
+    "low": 1610,
+    "close": 1647.2,
+    "volume": 677580410,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 1639.7,
+    "high": 1656.6,
+    "low": 1621.95,
+    "close": 1627.05,
+    "volume": 389014442,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 1629.9,
+    "high": 1640.7,
+    "low": 1586.75,
+    "close": 1600,
+    "volume": 319946780,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 1591.7,
+    "high": 1603.9,
+    "low": 1550.1,
+    "close": 1568,
+    "volume": 319237467,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 1579,
+    "high": 1590.8,
+    "low": 1553.6,
+    "close": 1565,
+    "volume": 310110392,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 1587.9,
+    "high": 1594.5,
+    "low": 1571.4,
+    "close": 1575.15,
+    "volume": 272249981,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 1589.85,
+    "high": 1589.85,
+    "low": 1567.35,
+    "close": 1570,
+    "volume": 260329107,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 1580,
+    "high": 1613.25,
+    "low": 1570,
+    "close": 1604.9,
+    "volume": 266653056,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 1616.5,
+    "high": 1639,
+    "low": 1603.65,
+    "close": 1632.95,
+    "volume": 282963786,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 1650,
+    "high": 1689.1,
+    "low": 1638.85,
+    "close": 1674,
+    "volume": 904447935,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 1672,
+    "high": 1680.35,
+    "low": 1642.05,
+    "close": 1643,
+    "volume": 303540472,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 1646.9,
+    "high": 1680,
+    "low": 1639.05,
+    "close": 1663,
+    "volume": 603676024,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 1670,
+    "high": 1682,
+    "low": 1651.25,
+    "close": 1665.9,
+    "volume": 480525927,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 1670,
+    "high": 1722,
+    "low": 1660,
+    "close": 1697,
+    "volume": 1527271561,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 1700,
+    "high": 1708.8,
+    "low": 1645.1,
+    "close": 1692,
+    "volume": 633193152,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 1692,
+    "high": 1704.9,
+    "low": 1656,
+    "close": 1661,
+    "volume": 301711203,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 1645,
+    "high": 1668.9,
+    "low": 1613.95,
+    "close": 1630,
+    "volume": 340704237,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 1645,
+    "high": 1646.45,
+    "low": 1577,
+    "close": 1594.95,
+    "volume": 550758128,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 1595,
+    "high": 1628,
+    "low": 1593,
+    "close": 1623,
+    "volume": 317492577,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 1624,
+    "high": 1644.4,
+    "low": 1621.6,
+    "close": 1634.35,
+    "volume": 250963805,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 1634.1,
+    "high": 1663.8,
+    "low": 1618.55,
+    "close": 1645,
+    "volume": 367485834,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 1625,
+    "high": 1633.35,
+    "low": 1606.35,
+    "close": 1625,
+    "volume": 346533695,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 1626,
+    "high": 1645.15,
+    "low": 1611.55,
+    "close": 1620,
+    "volume": 170830591,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 1619,
+    "high": 1625,
+    "low": 1593.45,
+    "close": 1615,
+    "volume": 276282095,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 1617.55,
+    "high": 1643,
+    "low": 1605.4,
+    "close": 1617,
+    "volume": 251556796,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 1618.5,
+    "high": 1642.75,
+    "low": 1615,
+    "close": 1627,
+    "volume": 161529927,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 1605,
+    "high": 1652,
+    "low": 1603.05,
+    "close": 1644,
+    "volume": 251657896,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 1670,
+    "high": 1670,
+    "low": 1620,
+    "close": 1626,
+    "volume": 305919477,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 1635.6,
+    "high": 1664.8,
+    "low": 1600,
+    "close": 1613.05,
+    "volume": 579972397,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 1595,
+    "high": 1620.5,
+    "low": 1561.05,
+    "close": 1605.05,
+    "volume": 233591757,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 1592.2,
+    "high": 1611.95,
+    "low": 1565.15,
+    "close": 1584.95,
+    "volume": 111239766,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 1579.8,
+    "high": 1599.85,
+    "low": 1556,
+    "close": 1570,
+    "volume": 780788775,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 1570,
+    "high": 1594,
+    "low": 1532.55,
+    "close": 1567,
+    "volume": 307627965,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 1541,
+    "high": 1563.1,
+    "low": 1515.15,
+    "close": 1558,
+    "volume": 285944768,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 1562,
+    "high": 1593.45,
+    "low": 1551.2,
+    "close": 1552.4,
+    "volume": 102963465,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 1557,
+    "high": 1562.75,
+    "low": 1527.9,
+    "close": 1545,
+    "volume": 85974981,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 1554.7,
+    "high": 1569.55,
+    "low": 1532,
+    "close": 1560.3,
+    "volume": 129721228,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 1570,
+    "high": 1581.25,
+    "low": 1548,
+    "close": 1580,
+    "volume": 248354104,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 1540,
+    "high": 1557.9,
+    "low": 1530.4,
+    "close": 1547.95,
+    "volume": 215946133,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 1552,
+    "high": 1558.1,
+    "low": 1530.05,
+    "close": 1550,
+    "volume": 207161693,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 1551.7,
+    "high": 1588.1,
+    "low": 1536.1,
+    "close": 1569.7,
+    "volume": 120596501,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 1570,
+    "high": 1571.45,
+    "low": 1531.55,
+    "close": 1538,
+    "volume": 317169801,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 1523,
+    "high": 1535.15,
+    "low": 1465.15,
+    "close": 1495,
+    "volume": 371184737,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 1470,
+    "high": 1522.85,
+    "low": 1365.1,
+    "close": 1500.5,
+    "volume": 778484579,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 1515,
+    "high": 1628.8,
+    "low": 1500.05,
+    "close": 1620,
+    "volume": 753003366,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 1628.55,
+    "high": 1655,
+    "low": 1612.05,
+    "close": 1638.95,
+    "volume": 266122154,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 1638.95,
+    "high": 1669.8,
+    "low": 1627.15,
+    "close": 1631.15,
+    "volume": 205550092,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 1645,
+    "high": 1662,
+    "low": 1638.15,
+    "close": 1655.5,
+    "volume": 123375494,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 1643.2,
+    "high": 1672,
+    "low": 1642,
+    "close": 1660,
+    "volume": 142490496,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 1675,
+    "high": 1680,
+    "low": 1623.55,
+    "close": 1626,
+    "volume": 139262404,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 1628.8,
+    "high": 1643,
+    "low": 1580.55,
+    "close": 1593.1,
+    "volume": 185778723,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 1582.8,
+    "high": 1611,
+    "low": 1565.65,
+    "close": 1578.3,
+    "volume": 146037193,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 1576.2,
+    "high": 1588.8,
+    "low": 1571.15,
+    "close": 1580,
+    "volume": 68015877,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 1581.5,
+    "high": 1606.45,
+    "low": 1552,
+    "close": 1575.2,
+    "volume": 286988440,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 1574.95,
+    "high": 1574.95,
+    "low": 1545.4,
+    "close": 1560,
+    "volume": 200211389,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 1546,
+    "high": 1556.45,
+    "low": 1498.05,
+    "close": 1529,
+    "volume": 129219266,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 1515,
+    "high": 1538.45,
+    "low": 1500.8,
+    "close": 1514,
+    "volume": 187895847,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 1511.1,
+    "high": 1540.75,
+    "low": 1505.15,
+    "close": 1511.05,
+    "volume": 80332306,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 1522.7,
+    "high": 1534,
+    "low": 1470,
+    "close": 1471.1,
+    "volume": 172214565,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 1457,
+    "high": 1485,
+    "low": 1452,
+    "close": 1464,
+    "volume": 248632812,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 1462,
+    "high": 1466,
+    "low": 1401,
+    "close": 1423.45,
+    "volume": 181804339,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 1424.95,
+    "high": 1464.45,
+    "low": 1420.35,
+    "close": 1455.85,
+    "volume": 118592146,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 1462.05,
+    "high": 1474.45,
+    "low": 1432.75,
+    "close": 1460,
+    "volume": 202881679,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 1470.7,
+    "high": 1499,
+    "low": 1445.4,
+    "close": 1475,
+    "volume": 74762898,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 1499.8,
+    "high": 1531.95,
+    "low": 1481.3,
+    "close": 1519.2,
+    "volume": 177116307,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 1549.8,
+    "high": 1558,
+    "low": 1520,
+    "close": 1536,
+    "volume": 120061956,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 1542.4,
+    "high": 1555,
+    "low": 1519.15,
+    "close": 1537.35,
+    "volume": 184856881,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 1522,
+    "high": 1570,
+    "low": 1518.55,
+    "close": 1560,
+    "volume": 340262900,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 1559,
+    "high": 1575,
+    "low": 1548.7,
+    "close": 1562.25,
+    "volume": 99970376,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 1552,
+    "high": 1579.8,
+    "low": 1538.5,
+    "close": 1560,
+    "volume": 97505182,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 1558.15,
+    "high": 1571.65,
+    "low": 1546.7,
+    "close": 1557.05,
+    "volume": 60257934,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 1557.05,
+    "high": 1573.6,
+    "low": 1541.55,
+    "close": 1558.1,
+    "volume": 143616345,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 1558.6,
+    "high": 1614.9,
+    "low": 1547.2,
+    "close": 1610.25,
+    "volume": 176759171,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 1620.5,
+    "high": 1673,
+    "low": 1617.05,
+    "close": 1669,
+    "volume": 287762018,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 1671,
+    "high": 1671,
+    "low": 1638,
+    "close": 1650,
+    "volume": 143511192,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 1640,
+    "high": 1680,
+    "low": 1640,
+    "close": 1665,
+    "volume": 150991204,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 1659.8,
+    "high": 1670.1,
+    "low": 1642.65,
+    "close": 1645.1,
+    "volume": 71318432,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 1648,
+    "high": 1663,
+    "low": 1620,
+    "close": 1641.7,
+    "volume": 280395001,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 1650.5,
+    "high": 1673.7,
+    "low": 1640,
+    "close": 1673.25,
+    "volume": 126003910,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 1686,
+    "high": 1699.8,
+    "low": 1666.4,
+    "close": 1688.25,
+    "volume": 267275432,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 1699.4,
+    "high": 1705,
+    "low": 1677.05,
+    "close": 1690,
+    "volume": 125609992,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 1683.4,
+    "high": 1703,
+    "low": 1656.75,
+    "close": 1681.85,
+    "volume": 150164037,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 1698.45,
+    "high": 1715,
+    "low": 1680.05,
+    "close": 1700,
+    "volume": 322958412,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 1704.3,
+    "high": 1718.15,
+    "low": 1692.65,
+    "close": 1708.05,
+    "volume": 108970726,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 1710.05,
+    "high": 1764.95,
+    "low": 1701.35,
+    "close": 1737.2,
+    "volume": 577992927,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 1725,
+    "high": 1740.9,
+    "low": 1707.7,
+    "close": 1725.15,
+    "volume": 223244794,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 1725,
+    "high": 1738.95,
+    "low": 1712.05,
+    "close": 1734.9,
+    "volume": 222731218,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 1725,
+    "high": 1770,
+    "low": 1725,
+    "close": 1766.8,
+    "volume": 303683485,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 1770,
+    "high": 1790,
+    "low": 1758,
+    "close": 1790,
+    "volume": 230224000,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 1790,
+    "high": 1799,
+    "low": 1767,
+    "close": 1772.05,
+    "volume": 144876410,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 1780,
+    "high": 1790,
+    "low": 1765.05,
+    "close": 1779,
+    "volume": 139622808,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 1779.05,
+    "high": 1795.8,
+    "low": 1767.7,
+    "close": 1777,
+    "volume": 97429221,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 1776.5,
+    "high": 1793,
+    "low": 1753.35,
+    "close": 1789.7,
+    "volume": 387137137,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 1787.75,
+    "high": 1798.7,
+    "low": 1762,
+    "close": 1791,
+    "volume": 201310982,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 1781.55,
+    "high": 1819,
+    "low": 1767.85,
+    "close": 1789.7,
+    "volume": 218235276,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 1789.9,
+    "high": 1809.6,
+    "low": 1775.6,
+    "close": 1800.9,
+    "volume": 281192806,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 1820,
+    "high": 1858,
+    "low": 1778,
+    "close": 1799,
+    "volume": 761918575,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 1803.9,
+    "high": 1854,
+    "low": 1794.2,
+    "close": 1798,
+    "volume": 356871232,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 1806.8,
+    "high": 1818.4,
+    "low": 1770,
+    "close": 1785.35,
+    "volume": 213814727,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 1793.85,
+    "high": 1811.1,
+    "low": 1775.5,
+    "close": 1793.6,
+    "volume": 161538020,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 1810,
+    "high": 1905,
+    "low": 1803.25,
+    "close": 1811.25,
+    "volume": 1837571517,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 1807.5,
+    "high": 1839.9,
+    "low": 1767.5,
+    "close": 1817,
+    "volume": 439239396,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 1818.4,
+    "high": 1870,
+    "low": 1804.7,
+    "close": 1834,
+    "volume": 503218494,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 1834.95,
+    "high": 1835,
+    "low": 1754.05,
+    "close": 1768,
+    "volume": 385861954,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 1765.45,
+    "high": 1814,
+    "low": 1750.05,
+    "close": 1796,
+    "volume": 267523292,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 1786.1,
+    "high": 1804.75,
+    "low": 1772.55,
+    "close": 1796.8,
+    "volume": 125024520,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 1802.1,
+    "high": 1863,
+    "low": 1796.3,
+    "close": 1838,
+    "volume": 443260387,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 1850.9,
+    "high": 1860,
+    "low": 1811.55,
+    "close": 1816,
+    "volume": 134348340,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 1770.2,
+    "high": 1831.15,
+    "low": 1770.2,
+    "close": 1807,
+    "volume": 156372406,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 1815,
+    "high": 1839,
+    "low": 1809.4,
+    "close": 1828.25,
+    "volume": 176963185,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 1812.2,
+    "high": 1849.85,
+    "low": 1805,
+    "close": 1812.65,
+    "volume": 433067055,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 1815,
+    "high": 1835,
+    "low": 1790,
+    "close": 1790.15,
+    "volume": 108367995,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 1790,
+    "high": 1859.9,
+    "low": 1768.85,
+    "close": 1787.4,
+    "volume": 128333495,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 1800.4,
+    "high": 1810.15,
+    "low": 1785.35,
+    "close": 1800,
+    "volume": 88381193,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 1798.8,
+    "high": 1820.45,
+    "low": 1794,
+    "close": 1819,
+    "volume": 100342550,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 1819.5,
+    "high": 1840,
+    "low": 1796.15,
+    "close": 1803.95,
+    "volume": 194315278,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 1801.6,
+    "high": 1814.9,
+    "low": 1727.5,
+    "close": 1751,
+    "volume": 736507828,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 1772.55,
+    "high": 1772.55,
+    "low": 1737,
+    "close": 1757,
+    "volume": 680858608,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 1761.3,
+    "high": 1825.45,
+    "low": 1761.3,
+    "close": 1770.95,
+    "volume": 487837131,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 1760,
+    "high": 1772.2,
+    "low": 1750,
+    "close": 1760.9,
+    "volume": 112133579,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 1768.8,
+    "high": 1794,
+    "low": 1735,
+    "close": 1747.95,
+    "volume": 357739083,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 1753.35,
+    "high": 1753.85,
+    "low": 1685.35,
+    "close": 1715,
+    "volume": 300759990,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 1717.15,
+    "high": 1731.45,
+    "low": 1679.15,
+    "close": 1712.95,
+    "volume": 180996904,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 1718.9,
+    "high": 1751.25,
+    "low": 1709,
+    "close": 1734.1,
+    "volume": 219868076,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 1739.9,
+    "high": 1743.8,
+    "low": 1694.4,
+    "close": 1704.95,
+    "volume": 92353221,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 1687,
+    "high": 1717,
+    "low": 1682.5,
+    "close": 1689.75,
+    "volume": 113987817,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 1697.8,
+    "high": 1697.8,
+    "low": 1651,
+    "close": 1658.45,
+    "volume": 175552454,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 1641,
+    "high": 1656,
+    "low": 1608.05,
+    "close": 1630.3,
+    "volume": 134467102,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 1641.1,
+    "high": 1655,
+    "low": 1606.65,
+    "close": 1630.55,
+    "volume": 170556744,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 1622,
+    "high": 1643.7,
+    "low": 1608.45,
+    "close": 1631.9,
+    "volume": 76577046,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 1642.5,
+    "high": 1659.9,
+    "low": 1617.55,
+    "close": 1635.05,
+    "volume": 93809725,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 1641,
+    "high": 1647.85,
+    "low": 1612.3,
+    "close": 1644.1,
+    "volume": 81858222,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 1635,
+    "high": 1638,
+    "low": 1606.6,
+    "close": 1621,
+    "volume": 183976969,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 1628,
+    "high": 1656.95,
+    "low": 1622,
+    "close": 1652,
+    "volume": 114407633,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 1657.95,
+    "high": 1685,
+    "low": 1649.75,
+    "close": 1650.85,
+    "volume": 159628901,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 1662,
+    "high": 1672,
+    "low": 1632.55,
+    "close": 1647,
+    "volume": 91264162,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 1635,
+    "high": 1653,
+    "low": 1618.85,
+    "close": 1647.25,
+    "volume": 195320779,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 1653.8,
+    "high": 1654.4,
+    "low": 1605,
+    "close": 1613.75,
+    "volume": 249586006,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 1620,
+    "high": 1629.75,
+    "low": 1586,
+    "close": 1592.95,
+    "volume": 260774370,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 1582.5,
+    "high": 1603.45,
+    "low": 1570.5,
+    "close": 1581.45,
+    "volume": 171103751,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 1591.5,
+    "high": 1601.4,
+    "low": 1563.2,
+    "close": 1565.2,
+    "volume": 82085895,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 1566.2,
+    "high": 1579,
+    "low": 1550.1,
+    "close": 1561.2,
+    "volume": 299450703,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 1563.85,
+    "high": 1623,
+    "low": 1560.95,
+    "close": 1616.95,
+    "volume": 75554594,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 1608.65,
+    "high": 1628.55,
+    "low": 1602.6,
+    "close": 1625.55,
+    "volume": 108103058,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 1612.15,
+    "high": 1649.85,
+    "low": 1608.1,
+    "close": 1640.5,
+    "volume": 166501953,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 1644,
+    "high": 1645,
+    "low": 1580.55,
+    "close": 1590.65,
+    "volume": 308101890,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 1596.5,
+    "high": 1617.65,
+    "low": 1596.1,
+    "close": 1603.8,
+    "volume": 25025126,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 1607,
+    "high": 1607.05,
+    "low": 1540,
+    "close": 1560,
+    "volume": 127013062,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 1562.5,
+    "high": 1586.95,
+    "low": 1562.5,
+    "close": 1575,
+    "volume": 88016852,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 1587.8,
+    "high": 1590.55,
+    "low": 1550.1,
+    "close": 1565,
+    "volume": 148861926,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 1568.4,
+    "high": 1579.9,
+    "low": 1554.55,
+    "close": 1570,
+    "volume": 101640438,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 1580,
+    "high": 1585,
+    "low": 1531.05,
+    "close": 1560,
+    "volume": 378147341,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 1544,
+    "high": 1579.45,
+    "low": 1538.05,
+    "close": 1545.9,
+    "volume": 316228785,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 1540,
+    "high": 1551,
+    "low": 1510.55,
+    "close": 1517.1,
+    "volume": 633837110,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 1522.1,
+    "high": 1527.9,
+    "low": 1503.8,
+    "close": 1520,
+    "volume": 143766499,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 1527.85,
+    "high": 1544.45,
+    "low": 1510,
+    "close": 1527,
+    "volume": 83562593,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 1535.25,
+    "high": 1545,
+    "low": 1490,
+    "close": 1503,
+    "volume": 1097240119,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 1509.8,
+    "high": 1520,
+    "low": 1483.6,
+    "close": 1519,
+    "volume": 136293821,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 1523.65,
+    "high": 1538.9,
+    "low": 1511.1,
+    "close": 1532,
+    "volume": 109777828,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 1538.25,
+    "high": 1549,
+    "low": 1520.4,
+    "close": 1528,
+    "volume": 180058799,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 1537,
+    "high": 1537.75,
+    "low": 1520,
+    "close": 1522,
+    "volume": 65044161,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 1533.4,
+    "high": 1533.4,
+    "low": 1513.1,
+    "close": 1524,
+    "volume": 64919131,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 1524.8,
+    "high": 1534.4,
+    "low": 1505.25,
+    "close": 1529.7,
+    "volume": 118403292,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 1532.85,
+    "high": 1532.85,
+    "low": 1502.55,
+    "close": 1520,
+    "volume": 82170785,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 1512.5,
+    "high": 1522,
+    "low": 1490.1,
+    "close": 1493.45,
+    "volume": 148968644,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 1500,
+    "high": 1500,
+    "low": 1476.45,
+    "close": 1499.6,
+    "volume": 67599722,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 1499,
+    "high": 1511.15,
+    "low": 1487.6,
+    "close": 1490.3,
+    "volume": 96931009,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 1495.45,
+    "high": 1501.95,
+    "low": 1485,
+    "close": 1485.5,
+    "volume": 87633782,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 1493.8,
+    "high": 1521.15,
+    "low": 1486.85,
+    "close": 1515,
+    "volume": 482762268,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 1517.45,
+    "high": 1548.8,
+    "low": 1511.45,
+    "close": 1522,
+    "volume": 168019802,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 1527.3,
+    "high": 1532.2,
+    "low": 1511.05,
+    "close": 1525.5,
+    "volume": 107337095,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 1538.45,
+    "high": 1545,
+    "low": 1507.5,
+    "close": 1529.8,
+    "volume": 144723186,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 1529.8,
+    "high": 1537.75,
+    "low": 1516.8,
+    "close": 1525,
+    "volume": 135308132,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 1523.95,
+    "high": 1540,
+    "low": 1518,
+    "close": 1539,
+    "volume": 166092881,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 1547,
+    "high": 1555.75,
+    "low": 1522,
+    "close": 1526.5,
+    "volume": 183234262,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 1528,
+    "high": 1533.9,
+    "low": 1512.45,
+    "close": 1529,
+    "volume": 123218633,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 1533.2,
+    "high": 1536.4,
+    "low": 1505.3,
+    "close": 1509.95,
+    "volume": 244670617,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 1523.4,
+    "high": 1526,
+    "low": 1498.25,
+    "close": 1521.5,
+    "volume": 246799783,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 1526.05,
+    "high": 1557.9,
+    "low": 1507.9,
+    "close": 1514,
+    "volume": 235395951,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 1516.8,
+    "high": 1523.4,
+    "low": 1488.9,
+    "close": 1510,
+    "volume": 200591468,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 1516.5,
+    "high": 1523.45,
+    "low": 1496.55,
+    "close": 1517,
+    "volume": 94749259,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 1522.95,
+    "high": 1527.95,
+    "low": 1505,
+    "close": 1515,
+    "volume": 71026493,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 1514.8,
+    "high": 1519.4,
+    "low": 1495.2,
+    "close": 1499,
+    "volume": 66818460,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 1507.7,
+    "high": 1507.7,
+    "low": 1478.15,
+    "close": 1487,
+    "volume": 136505948,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 1480,
+    "high": 1502,
+    "low": 1471.75,
+    "close": 1500,
+    "volume": 77402161,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 1497.95,
+    "high": 1511,
+    "low": 1478,
+    "close": 1507,
+    "volume": 138904097,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 1515,
+    "high": 1527.8,
+    "low": 1492,
+    "close": 1493,
+    "volume": 154352930,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 1495.75,
+    "high": 1509.95,
+    "low": 1477,
+    "close": 1495,
+    "volume": 119548162,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 1481,
+    "high": 1484.9,
+    "low": 1462.4,
+    "close": 1475,
+    "volume": 112997692,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 1475.2,
+    "high": 1495,
+    "low": 1462,
+    "close": 1490,
+    "volume": 121266597,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 1487.85,
+    "high": 1494.85,
+    "low": 1470.85,
+    "close": 1492.6,
+    "volume": 99045710,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 1482.7,
+    "high": 1499.95,
+    "low": 1482,
+    "close": 1491.8,
+    "volume": 95771082,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 1488.8,
+    "high": 1490,
+    "low": 1461,
+    "close": 1485,
+    "volume": 159189129,
+    "symbol": "WHIRLPOOL"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 1489,
+    "high": 1505,
+    "low": 1481,
+    "close": 1495,
+    "volume": 61093704,
+    "symbol": "WHIRLPOOL"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1198.6,
+    "high": 1209.9,
+    "low": 1195,
+    "close": 1204,
+    "volume": 164794695,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1211.7,
+    "high": 1274.8,
+    "low": 1211.7,
+    "close": 1250,
+    "volume": 3212202528,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1258,
+    "high": 1263,
+    "low": 1234.3,
+    "close": 1236.5,
+    "volume": 375913229,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1239.8,
+    "high": 1239.8,
+    "low": 1191,
+    "close": 1197,
+    "volume": 375817562,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1190,
+    "high": 1232,
+    "low": 1181.2,
+    "close": 1211.2,
+    "volume": 525980235,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1211.8,
+    "high": 1217,
+    "low": 1178,
+    "close": 1194,
+    "volume": 343455932,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1185,
+    "high": 1194,
+    "low": 1143.6,
+    "close": 1162.2,
+    "volume": 575018487,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1149.5,
+    "high": 1149.5,
+    "low": 1120,
+    "close": 1144.5,
+    "volume": 414560663,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1144.5,
+    "high": 1158.1,
+    "low": 1121.2,
+    "close": 1133,
+    "volume": 274874268,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1127,
+    "high": 1139.1,
+    "low": 1098.3,
+    "close": 1118.9,
+    "volume": 333460916,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1123.7,
+    "high": 1132,
+    "low": 1105,
+    "close": 1114,
+    "volume": 209601815,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1100,
+    "high": 1106.4,
+    "low": 1077,
+    "close": 1088,
+    "volume": 326888991,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1082.7,
+    "high": 1087,
+    "low": 1026.6,
+    "close": 1037.5,
+    "volume": 524955762,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1033,
+    "high": 1044,
+    "low": 1009.5,
+    "close": 1025,
+    "volume": 512940005,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1032,
+    "high": 1056,
+    "low": 1013.7,
+    "close": 1025.9,
+    "volume": 449389076,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1023.9,
+    "high": 1032.7,
+    "low": 985,
+    "close": 988.4,
+    "volume": 660183895,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 989.4,
+    "high": 1000,
+    "low": 965.1,
+    "close": 999,
+    "volume": 486493695,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 999,
+    "high": 1093.7,
+    "low": 994.4,
+    "close": 1089,
+    "volume": 1462306688,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1079,
+    "high": 1092.9,
+    "low": 1046.3,
+    "close": 1061.7,
+    "volume": 439312873,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1049,
+    "high": 1091.9,
+    "low": 1043,
+    "close": 1088,
+    "volume": 369787619,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1084.7,
+    "high": 1142,
+    "low": 1050,
+    "close": 1065,
+    "volume": 926301677,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1069.7,
+    "high": 1087,
+    "low": 1052.3,
+    "close": 1086,
+    "volume": 264332733,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1133,
+    "high": 1133,
+    "low": 1051.9,
+    "close": 1061.2,
+    "volume": 664453017,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1060,
+    "high": 1084,
+    "low": 1049.1,
+    "close": 1062,
+    "volume": 657527005,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1071,
+    "high": 1074,
+    "low": 1030,
+    "close": 1042,
+    "volume": 258518242,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1044,
+    "high": 1044,
+    "low": 1015,
+    "close": 1019.9,
+    "volume": 237918381,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1029.9,
+    "high": 1059.9,
+    "low": 1025,
+    "close": 1055,
+    "volume": 308181104,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1057.1,
+    "high": 1082.5,
+    "low": 1056.1,
+    "close": 1061,
+    "volume": 280360868,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1061,
+    "high": 1062.4,
+    "low": 1043.1,
+    "close": 1053.4,
+    "volume": 439438239,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1050,
+    "high": 1050,
+    "low": 1028.6,
+    "close": 1031.5,
+    "volume": 189968446,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1011,
+    "high": 1030.8,
+    "low": 1009.5,
+    "close": 1024,
+    "volume": 214494527,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1013,
+    "high": 1040.2,
+    "low": 1010,
+    "close": 1029.8,
+    "volume": 189411902,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1022.4,
+    "high": 1033.4,
+    "low": 1020,
+    "close": 1025.4,
+    "volume": 224896630,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1026.9,
+    "high": 1041.1,
+    "low": 1024.8,
+    "close": 1029.6,
+    "volume": 202754600,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1029.6,
+    "high": 1037,
+    "low": 1008,
+    "close": 1012,
+    "volume": 251683160,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1009,
+    "high": 1022,
+    "low": 1000.2,
+    "close": 1012,
+    "volume": 154636867,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1015,
+    "high": 1061.5,
+    "low": 988.9,
+    "close": 1039,
+    "volume": 1835721049,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1041,
+    "high": 1041,
+    "low": 1008.6,
+    "close": 1021.9,
+    "volume": 429154186,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1027,
+    "high": 1029.9,
+    "low": 1006,
+    "close": 1011,
+    "volume": 297518074,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1012.5,
+    "high": 1033,
+    "low": 1005,
+    "close": 1010,
+    "volume": 215893796,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1009.4,
+    "high": 1014.1,
+    "low": 995,
+    "close": 999,
+    "volume": 260637966,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 935.05,
+    "high": 982.55,
+    "low": 934.2,
+    "close": 949.9,
+    "volume": 712444764,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 930,
+    "high": 930,
+    "low": 901.3,
+    "close": 905,
+    "volume": 419705508,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 915,
+    "high": 933.8,
+    "low": 906.8,
+    "close": 931,
+    "volume": 306678449,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 927,
+    "high": 938,
+    "low": 906,
+    "close": 912,
+    "volume": 305520820,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 899,
+    "high": 899,
+    "low": 874.1,
+    "close": 895,
+    "volume": 356689671,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 910,
+    "high": 952.95,
+    "low": 897.9,
+    "close": 929.7,
+    "volume": 748277703,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 928.45,
+    "high": 936.9,
+    "low": 891,
+    "close": 898.5,
+    "volume": 344770067,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 895,
+    "high": 916,
+    "low": 875.2,
+    "close": 902,
+    "volume": 407798320,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 899.05,
+    "high": 899.3,
+    "low": 878,
+    "close": 883.9,
+    "volume": 317719193,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 885,
+    "high": 906.95,
+    "low": 866.6,
+    "close": 900,
+    "volume": 378330853,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 906,
+    "high": 909.6,
+    "low": 895.1,
+    "close": 904,
+    "volume": 210368350,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 905,
+    "high": 1073,
+    "low": 904.55,
+    "close": 1033.15,
+    "volume": 8994199167,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1015,
+    "high": 1035.95,
+    "low": 995.9,
+    "close": 1002,
+    "volume": 1746475444,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1009.45,
+    "high": 1129.9,
+    "low": 1006.05,
+    "close": 1084.9,
+    "volume": 9968859390,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1080,
+    "high": 1114,
+    "low": 1015,
+    "close": 1023,
+    "volume": 1950830542,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1068.1,
+    "high": 1113.6,
+    "low": 1041.25,
+    "close": 1070,
+    "volume": 5076554421,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1079.9,
+    "high": 1102.05,
+    "low": 1055.1,
+    "close": 1058.4,
+    "volume": 939318877,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1060.05,
+    "high": 1060.3,
+    "low": 1012,
+    "close": 1019.45,
+    "volume": 730514987,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1000,
+    "high": 1008.65,
+    "low": 963.2,
+    "close": 968.6,
+    "volume": 806810648,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1008.9,
+    "high": 1048.9,
+    "low": 993.3,
+    "close": 1027.75,
+    "volume": 1122345501,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1000,
+    "high": 1026,
+    "low": 987,
+    "close": 1022,
+    "volume": 591315768,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1028.7,
+    "high": 1041.8,
+    "low": 1006,
+    "close": 1032.5,
+    "volume": 532410173,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1028,
+    "high": 1040.2,
+    "low": 1015.1,
+    "close": 1026,
+    "volume": 346504907,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1085,
+    "high": 1103.9,
+    "low": 1056.7,
+    "close": 1084,
+    "volume": 1145005918,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1082,
+    "high": 1145,
+    "low": 1070,
+    "close": 1126.15,
+    "volume": 2098442382,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1139.9,
+    "high": 1230,
+    "low": 1134.4,
+    "close": 1183,
+    "volume": 3986400913,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1182,
+    "high": 1238.9,
+    "low": 1173.55,
+    "close": 1213.7,
+    "volume": 3725707343,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1244,
+    "high": 1244,
+    "low": 1216.45,
+    "close": 1226.85,
+    "volume": 1283006680,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1239,
+    "high": 1255.85,
+    "low": 1203.85,
+    "close": 1219,
+    "volume": 1139690218,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1220.5,
+    "high": 1238,
+    "low": 1212.5,
+    "close": 1224.3,
+    "volume": 678383711,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1228,
+    "high": 1229.7,
+    "low": 1189.5,
+    "close": 1197.9,
+    "volume": 590055535,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1198,
+    "high": 1244,
+    "low": 1195,
+    "close": 1222,
+    "volume": 1014682316,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1224,
+    "high": 1240,
+    "low": 1218,
+    "close": 1223,
+    "volume": 692167463,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1221.1,
+    "high": 1253.9,
+    "low": 1215.1,
+    "close": 1220,
+    "volume": 849294187,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1228,
+    "high": 1234,
+    "low": 1190.05,
+    "close": 1203,
+    "volume": 599938493,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1212,
+    "high": 1247.5,
+    "low": 1208.8,
+    "close": 1245.1,
+    "volume": 760720058,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1236.95,
+    "high": 1295,
+    "low": 1233.4,
+    "close": 1293,
+    "volume": 2494069024,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1300,
+    "high": 1307,
+    "low": 1251,
+    "close": 1260.6,
+    "volume": 1049547517,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1244.05,
+    "high": 1278.8,
+    "low": 1220,
+    "close": 1239,
+    "volume": 768633108,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1245.9,
+    "high": 1277,
+    "low": 1230.5,
+    "close": 1255,
+    "volume": 776784194,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1248.4,
+    "high": 1261,
+    "low": 1232,
+    "close": 1251,
+    "volume": 518804800,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1254,
+    "high": 1280,
+    "low": 1252.4,
+    "close": 1278.1,
+    "volume": 564574125,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1280.1,
+    "high": 1288.9,
+    "low": 1264,
+    "close": 1273,
+    "volume": 398337775,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1269,
+    "high": 1397.9,
+    "low": 1255.6,
+    "close": 1344.2,
+    "volume": 4543775978,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1355,
+    "high": 1395,
+    "low": 1351.4,
+    "close": 1372,
+    "volume": 3163202329,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1365,
+    "high": 1374,
+    "low": 1260.2,
+    "close": 1277.9,
+    "volume": 1553591617,
+    "symbol": "OLECTRA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1266,
+    "high": 1306.9,
+    "low": 1263,
+    "close": 1286,
+    "volume": 702651580,
+    "symbol": "OLECTRA"
+  }
+]

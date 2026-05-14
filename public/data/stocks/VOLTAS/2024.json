@@ -1,0 +1,2243 @@
+[
+  {
+    "date": "01-Jan-2024",
+    "open": 979,
+    "high": 982.35,
+    "low": 972.5,
+    "close": 979,
+    "volume": 747530376,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Jan-2024",
+    "open": 977.4,
+    "high": 998,
+    "low": 968,
+    "close": 989.1,
+    "volume": 1501702551,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-Jan-2024",
+    "open": 992.35,
+    "high": 1000.15,
+    "low": 983,
+    "close": 985.1,
+    "volume": 1241173460,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Jan-2024",
+    "open": 986.9,
+    "high": 1022.95,
+    "low": 986.2,
+    "close": 1015,
+    "volume": 2425333243,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Jan-2024",
+    "open": 1010,
+    "high": 1013.15,
+    "low": 998.3,
+    "close": 1006.6,
+    "volume": 877762817,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-Jan-2024",
+    "open": 1009.15,
+    "high": 1011.4,
+    "low": 985.2,
+    "close": 988,
+    "volume": 1275975412,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Jan-2024",
+    "open": 994.3,
+    "high": 1004.3,
+    "low": 990.05,
+    "close": 992.2,
+    "volume": 1494867614,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Jan-2024",
+    "open": 993,
+    "high": 1025.8,
+    "low": 990,
+    "close": 1011.45,
+    "volume": 3934991528,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Jan-2024",
+    "open": 1015,
+    "high": 1060,
+    "low": 1011.95,
+    "close": 1055,
+    "volume": 4098624602,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Jan-2024",
+    "open": 1055,
+    "high": 1061.5,
+    "low": 1047.4,
+    "close": 1055.9,
+    "volume": 1198552290,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "15-Jan-2024",
+    "open": 1056.9,
+    "high": 1068.25,
+    "low": 1044.6,
+    "close": 1059,
+    "volume": 1566387715,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Jan-2024",
+    "open": 1059,
+    "high": 1068.05,
+    "low": 1047.4,
+    "close": 1051,
+    "volume": 1489302383,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "17-Jan-2024",
+    "open": 1035,
+    "high": 1061.95,
+    "low": 1032.7,
+    "close": 1055,
+    "volume": 1460802958,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Jan-2024",
+    "open": 1050,
+    "high": 1050,
+    "low": 1015.9,
+    "close": 1032.85,
+    "volume": 1699612293,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Jan-2024",
+    "open": 1043.45,
+    "high": 1054.4,
+    "low": 1038.1,
+    "close": 1046.15,
+    "volume": 784776142,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "20-Jan-2024",
+    "open": 1058.95,
+    "high": 1059.95,
+    "low": 1020.5,
+    "close": 1028,
+    "volume": 385401400,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Jan-2024",
+    "open": 1034.9,
+    "high": 1036.2,
+    "low": 992.5,
+    "close": 1005,
+    "volume": 1528440933,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Jan-2024",
+    "open": 1007,
+    "high": 1036.75,
+    "low": 996.4,
+    "close": 1024,
+    "volume": 1442149824,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "25-Jan-2024",
+    "open": 1031.85,
+    "high": 1033.5,
+    "low": 996.05,
+    "close": 1005,
+    "volume": 998974189,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-Jan-2024",
+    "open": 1009.95,
+    "high": 1043,
+    "low": 1006.8,
+    "close": 1037.7,
+    "volume": 1598308935,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-Jan-2024",
+    "open": 1041.95,
+    "high": 1056.95,
+    "low": 1008.2,
+    "close": 1020,
+    "volume": 2071783960,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "31-Jan-2024",
+    "open": 1001,
+    "high": 1101,
+    "low": 990.1,
+    "close": 1089,
+    "volume": 10530985678,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "01-Feb-2024",
+    "open": 1091,
+    "high": 1091,
+    "low": 1040.05,
+    "close": 1049.5,
+    "volume": 4095566479,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Feb-2024",
+    "open": 1055,
+    "high": 1065,
+    "low": 1046.35,
+    "close": 1059,
+    "volume": 1584664937,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Feb-2024",
+    "open": 1059,
+    "high": 1059.95,
+    "low": 1013.15,
+    "close": 1020.6,
+    "volume": 1805594510,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-Feb-2024",
+    "open": 1028.2,
+    "high": 1044.85,
+    "low": 1015.55,
+    "close": 1030,
+    "volume": 1039290191,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "07-Feb-2024",
+    "open": 1037,
+    "high": 1042.85,
+    "low": 1020.15,
+    "close": 1038.65,
+    "volume": 497022291,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-Feb-2024",
+    "open": 1042,
+    "high": 1070.5,
+    "low": 1037.75,
+    "close": 1065.9,
+    "volume": 1737132154,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Feb-2024",
+    "open": 1072.45,
+    "high": 1074.8,
+    "low": 1035.3,
+    "close": 1060,
+    "volume": 1257920090,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Feb-2024",
+    "open": 1058.7,
+    "high": 1085,
+    "low": 1052.6,
+    "close": 1078,
+    "volume": 2476088570,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-Feb-2024",
+    "open": 1085,
+    "high": 1105.5,
+    "low": 1070.5,
+    "close": 1103.5,
+    "volume": 1740421097,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "14-Feb-2024",
+    "open": 1090,
+    "high": 1103.25,
+    "low": 1075,
+    "close": 1087.95,
+    "volume": 970775863,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "15-Feb-2024",
+    "open": 1088.9,
+    "high": 1094.8,
+    "low": 1070.75,
+    "close": 1085,
+    "volume": 1040946235,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Feb-2024",
+    "open": 1093,
+    "high": 1095,
+    "low": 1064.6,
+    "close": 1076.5,
+    "volume": 1014593296,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Feb-2024",
+    "open": 1075.1,
+    "high": 1100,
+    "low": 1071.35,
+    "close": 1097,
+    "volume": 983496151,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "20-Feb-2024",
+    "open": 1102,
+    "high": 1113.4,
+    "low": 1085.6,
+    "close": 1106.2,
+    "volume": 1201981981,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "21-Feb-2024",
+    "open": 1110,
+    "high": 1117,
+    "low": 1092.5,
+    "close": 1105.6,
+    "volume": 1557150825,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-Feb-2024",
+    "open": 1112.9,
+    "high": 1112.9,
+    "low": 1086.05,
+    "close": 1097.05,
+    "volume": 1302748685,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Feb-2024",
+    "open": 1100.95,
+    "high": 1107.1,
+    "low": 1091,
+    "close": 1092,
+    "volume": 836356726,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Feb-2024",
+    "open": 1099,
+    "high": 1103.7,
+    "low": 1066.6,
+    "close": 1098.4,
+    "volume": 2625104395,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-Feb-2024",
+    "open": 1097.3,
+    "high": 1124.85,
+    "low": 1084.9,
+    "close": 1118.15,
+    "volume": 1999828539,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "28-Feb-2024",
+    "open": 1128.2,
+    "high": 1133.5,
+    "low": 1103,
+    "close": 1103.5,
+    "volume": 1619357909,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-Feb-2024",
+    "open": 1112.6,
+    "high": 1125.35,
+    "low": 1086.2,
+    "close": 1112.2,
+    "volume": 1548434842,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "01-Mar-2024",
+    "open": 1116.8,
+    "high": 1116.8,
+    "low": 1064.45,
+    "close": 1093,
+    "volume": 2267761508,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Mar-2024",
+    "open": 1088,
+    "high": 1139.6,
+    "low": 1085.35,
+    "close": 1110,
+    "volume": 392535182,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Mar-2024",
+    "open": 1104,
+    "high": 1127,
+    "low": 1096.35,
+    "close": 1107,
+    "volume": 1476534354,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Mar-2024",
+    "open": 1107,
+    "high": 1111.4,
+    "low": 1067.1,
+    "close": 1072,
+    "volume": 2090512923,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-Mar-2024",
+    "open": 1076.3,
+    "high": 1077.7,
+    "low": 1043.4,
+    "close": 1062,
+    "volume": 1525146434,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "07-Mar-2024",
+    "open": 1062,
+    "high": 1091.15,
+    "low": 1062,
+    "close": 1080,
+    "volume": 1854225340,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Mar-2024",
+    "open": 1095.95,
+    "high": 1095.95,
+    "low": 1063.4,
+    "close": 1073.45,
+    "volume": 1832420861,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Mar-2024",
+    "open": 1070,
+    "high": 1078.75,
+    "low": 1049.5,
+    "close": 1053.6,
+    "volume": 851804735,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-Mar-2024",
+    "open": 1060,
+    "high": 1068.5,
+    "low": 1023.95,
+    "close": 1040.85,
+    "volume": 1816026907,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "14-Mar-2024",
+    "open": 1037.1,
+    "high": 1077.4,
+    "low": 1024.8,
+    "close": 1076,
+    "volume": 1341533524,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "15-Mar-2024",
+    "open": 1073.65,
+    "high": 1073.65,
+    "low": 1050.05,
+    "close": 1068.4,
+    "volume": 946769849,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Mar-2024",
+    "open": 1067,
+    "high": 1067.05,
+    "low": 1036.65,
+    "close": 1057.8,
+    "volume": 1554469310,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Mar-2024",
+    "open": 1056.9,
+    "high": 1057.2,
+    "low": 1032,
+    "close": 1045.3,
+    "volume": 756329989,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "20-Mar-2024",
+    "open": 1048.3,
+    "high": 1055.65,
+    "low": 1034.05,
+    "close": 1047.7,
+    "volume": 530589449,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "21-Mar-2024",
+    "open": 1050,
+    "high": 1088.85,
+    "low": 1050,
+    "close": 1084.9,
+    "volume": 1482538664,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-Mar-2024",
+    "open": 1090,
+    "high": 1090,
+    "low": 1061.7,
+    "close": 1068.7,
+    "volume": 1002739668,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Mar-2024",
+    "open": 1063,
+    "high": 1116,
+    "low": 1059.7,
+    "close": 1100.35,
+    "volume": 1846810106,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-Mar-2024",
+    "open": 1110,
+    "high": 1110,
+    "low": 1083.8,
+    "close": 1095.7,
+    "volume": 1682510984,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "28-Mar-2024",
+    "open": 1099,
+    "high": 1116,
+    "low": 1080.1,
+    "close": 1099,
+    "volume": 1414459439,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "01-Apr-2024",
+    "open": 1103.55,
+    "high": 1155.7,
+    "low": 1101.2,
+    "close": 1151,
+    "volume": 2496531600,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Apr-2024",
+    "open": 1172.1,
+    "high": 1214.8,
+    "low": 1159,
+    "close": 1191,
+    "volume": 5223020006,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-Apr-2024",
+    "open": 1194.4,
+    "high": 1224.8,
+    "low": 1184,
+    "close": 1221.2,
+    "volume": 2185636968,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Apr-2024",
+    "open": 1226,
+    "high": 1229,
+    "low": 1212.55,
+    "close": 1217,
+    "volume": 909794219,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Apr-2024",
+    "open": 1217,
+    "high": 1240.7,
+    "low": 1216.05,
+    "close": 1231,
+    "volume": 2450435400,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-Apr-2024",
+    "open": 1310,
+    "high": 1392,
+    "low": 1304,
+    "close": 1309.8,
+    "volume": 14381916851,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Apr-2024",
+    "open": 1314.95,
+    "high": 1353.75,
+    "low": 1303,
+    "close": 1316.9,
+    "volume": 4401915363,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Apr-2024",
+    "open": 1323.95,
+    "high": 1350,
+    "low": 1294.6,
+    "close": 1340.8,
+    "volume": 3681993868,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Apr-2024",
+    "open": 1339.8,
+    "high": 1342.75,
+    "low": 1303.55,
+    "close": 1317,
+    "volume": 3002747811,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "15-Apr-2024",
+    "open": 1300,
+    "high": 1311.95,
+    "low": 1278.95,
+    "close": 1286,
+    "volume": 2376290025,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Apr-2024",
+    "open": 1276.65,
+    "high": 1301.45,
+    "low": 1272.35,
+    "close": 1295.55,
+    "volume": 1629498961,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Apr-2024",
+    "open": 1305,
+    "high": 1315,
+    "low": 1285,
+    "close": 1290.25,
+    "volume": 1619200177,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Apr-2024",
+    "open": 1277,
+    "high": 1310.8,
+    "low": 1272.35,
+    "close": 1305,
+    "volume": 1062825887,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-Apr-2024",
+    "open": 1364,
+    "high": 1395,
+    "low": 1332.8,
+    "close": 1379.5,
+    "volume": 12240468990,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Apr-2024",
+    "open": 1393,
+    "high": 1406.7,
+    "low": 1383.6,
+    "close": 1396.85,
+    "volume": 3198031925,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Apr-2024",
+    "open": 1405.5,
+    "high": 1423.45,
+    "low": 1399.2,
+    "close": 1417.6,
+    "volume": 3873660473,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "25-Apr-2024",
+    "open": 1415.95,
+    "high": 1436.85,
+    "low": 1404.1,
+    "close": 1430,
+    "volume": 2806251798,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Apr-2024",
+    "open": 1434,
+    "high": 1461,
+    "low": 1426.15,
+    "close": 1461,
+    "volume": 2358606311,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-Apr-2024",
+    "open": 1465,
+    "high": 1477.35,
+    "low": 1454,
+    "close": 1462.1,
+    "volume": 2450796972,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-Apr-2024",
+    "open": 1476.9,
+    "high": 1481.7,
+    "low": 1460.3,
+    "close": 1474.8,
+    "volume": 2847296681,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-May-2024",
+    "open": 1482,
+    "high": 1500,
+    "low": 1463,
+    "close": 1483.95,
+    "volume": 2271197510,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-May-2024",
+    "open": 1491.9,
+    "high": 1501,
+    "low": 1480,
+    "close": 1488.3,
+    "volume": 2520073169,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-May-2024",
+    "open": 1501.4,
+    "high": 1502.3,
+    "low": 1445,
+    "close": 1450.8,
+    "volume": 1501727159,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "07-May-2024",
+    "open": 1452.1,
+    "high": 1462.5,
+    "low": 1380,
+    "close": 1382.7,
+    "volume": 3327003853,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-May-2024",
+    "open": 1280,
+    "high": 1333.55,
+    "low": 1262,
+    "close": 1323.15,
+    "volume": 11907650743,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-May-2024",
+    "open": 1321.95,
+    "high": 1322.4,
+    "low": 1274.05,
+    "close": 1278,
+    "volume": 2470629971,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-May-2024",
+    "open": 1276.05,
+    "high": 1300.6,
+    "low": 1265.1,
+    "close": 1298.15,
+    "volume": 3874610935,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-May-2024",
+    "open": 1281.1,
+    "high": 1311.95,
+    "low": 1257.5,
+    "close": 1301.85,
+    "volume": 2756001066,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "14-May-2024",
+    "open": 1309.9,
+    "high": 1328.5,
+    "low": 1292.7,
+    "close": 1303.8,
+    "volume": 2548681181,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "15-May-2024",
+    "open": 1311.95,
+    "high": 1317.3,
+    "low": 1299.65,
+    "close": 1300,
+    "volume": 812263123,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-May-2024",
+    "open": 1305,
+    "high": 1324.6,
+    "low": 1298.4,
+    "close": 1322.95,
+    "volume": 1617566299,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "17-May-2024",
+    "open": 1324,
+    "high": 1325.95,
+    "low": 1285,
+    "close": 1290.5,
+    "volume": 3450420809,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-May-2024",
+    "open": 1293.95,
+    "high": 1300,
+    "low": 1290,
+    "close": 1298.1,
+    "volume": 89163721,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "21-May-2024",
+    "open": 1296.7,
+    "high": 1306,
+    "low": 1287.9,
+    "close": 1297.9,
+    "volume": 1556484293,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-May-2024",
+    "open": 1299.95,
+    "high": 1307,
+    "low": 1287,
+    "close": 1300.35,
+    "volume": 883337847,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-May-2024",
+    "open": 1309,
+    "high": 1351.75,
+    "low": 1289.65,
+    "close": 1348.3,
+    "volume": 3275797434,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-May-2024",
+    "open": 1353,
+    "high": 1382.45,
+    "low": 1330.9,
+    "close": 1372,
+    "volume": 2458676328,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-May-2024",
+    "open": 1372.8,
+    "high": 1437.85,
+    "low": 1359.85,
+    "close": 1412,
+    "volume": 4464612383,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "28-May-2024",
+    "open": 1416.4,
+    "high": 1428.95,
+    "low": 1383.6,
+    "close": 1395,
+    "volume": 1280578040,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-May-2024",
+    "open": 1390,
+    "high": 1409.3,
+    "low": 1372,
+    "close": 1372.5,
+    "volume": 1790381459,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-May-2024",
+    "open": 1374,
+    "high": 1375.3,
+    "low": 1345.7,
+    "close": 1350.2,
+    "volume": 1159625617,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "31-May-2024",
+    "open": 1356,
+    "high": 1386.75,
+    "low": 1352.05,
+    "close": 1363.1,
+    "volume": 2378810349,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-Jun-2024",
+    "open": 1410,
+    "high": 1425.95,
+    "low": 1388,
+    "close": 1405.4,
+    "volume": 2372913557,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Jun-2024",
+    "open": 1410,
+    "high": 1412.35,
+    "low": 1239.5,
+    "close": 1359.95,
+    "volume": 1337701211,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Jun-2024",
+    "open": 1360.95,
+    "high": 1471.55,
+    "low": 1345,
+    "close": 1458.9,
+    "volume": 2764637448,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-Jun-2024",
+    "open": 1466.9,
+    "high": 1478.2,
+    "low": 1440,
+    "close": 1450,
+    "volume": 1725216935,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "07-Jun-2024",
+    "open": 1446,
+    "high": 1459.9,
+    "low": 1405.25,
+    "close": 1452.5,
+    "volume": 991150478,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Jun-2024",
+    "open": 1458,
+    "high": 1468.45,
+    "low": 1425.95,
+    "close": 1457,
+    "volume": 3346858975,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Jun-2024",
+    "open": 1462,
+    "high": 1476,
+    "low": 1445.35,
+    "close": 1462.45,
+    "volume": 1575690163,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Jun-2024",
+    "open": 1461.75,
+    "high": 1472.85,
+    "low": 1441.45,
+    "close": 1446.65,
+    "volume": 1555848035,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-Jun-2024",
+    "open": 1450,
+    "high": 1492,
+    "low": 1446.2,
+    "close": 1486,
+    "volume": 3501768420,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "14-Jun-2024",
+    "open": 1490,
+    "high": 1511.95,
+    "low": 1470.05,
+    "close": 1496,
+    "volume": 2672068319,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Jun-2024",
+    "open": 1499.55,
+    "high": 1550.7,
+    "low": 1499.55,
+    "close": 1534.95,
+    "volume": 3638690564,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Jun-2024",
+    "open": 1545.65,
+    "high": 1560,
+    "low": 1472.85,
+    "close": 1480.05,
+    "volume": 3083423156,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "20-Jun-2024",
+    "open": 1482.8,
+    "high": 1504.5,
+    "low": 1471,
+    "close": 1483.9,
+    "volume": 1858761825,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "21-Jun-2024",
+    "open": 1488,
+    "high": 1501.45,
+    "low": 1475.15,
+    "close": 1488.35,
+    "volume": 2755055524,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Jun-2024",
+    "open": 1481,
+    "high": 1528,
+    "low": 1469.25,
+    "close": 1515,
+    "volume": 4341415589,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "25-Jun-2024",
+    "open": 1506.1,
+    "high": 1524,
+    "low": 1499.45,
+    "close": 1504,
+    "volume": 1292401177,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Jun-2024",
+    "open": 1500,
+    "high": 1515.7,
+    "low": 1491.45,
+    "close": 1496,
+    "volume": 2375266805,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-Jun-2024",
+    "open": 1498.55,
+    "high": 1511.95,
+    "low": 1482.25,
+    "close": 1499.5,
+    "volume": 1507643300,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "28-Jun-2024",
+    "open": 1490,
+    "high": 1507.45,
+    "low": 1468.65,
+    "close": 1475,
+    "volume": 1003846169,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "01-Jul-2024",
+    "open": 1472.2,
+    "high": 1488.85,
+    "low": 1440,
+    "close": 1446,
+    "volume": 1248526535,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Jul-2024",
+    "open": 1445.95,
+    "high": 1456,
+    "low": 1416.5,
+    "close": 1448,
+    "volume": 1803503838,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-Jul-2024",
+    "open": 1459.7,
+    "high": 1473.45,
+    "low": 1446.6,
+    "close": 1449,
+    "volume": 1490867345,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Jul-2024",
+    "open": 1455.95,
+    "high": 1456.95,
+    "low": 1437.45,
+    "close": 1448.95,
+    "volume": 1480398288,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Jul-2024",
+    "open": 1440,
+    "high": 1458.95,
+    "low": 1440,
+    "close": 1452.05,
+    "volume": 513895514,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-Jul-2024",
+    "open": 1452.75,
+    "high": 1479,
+    "low": 1439.05,
+    "close": 1462.95,
+    "volume": 2237251359,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Jul-2024",
+    "open": 1467,
+    "high": 1481.6,
+    "low": 1456,
+    "close": 1472.5,
+    "volume": 1837549029,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Jul-2024",
+    "open": 1475,
+    "high": 1490.9,
+    "low": 1448.55,
+    "close": 1485,
+    "volume": 1226217321,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Jul-2024",
+    "open": 1485.05,
+    "high": 1517,
+    "low": 1481.2,
+    "close": 1515.95,
+    "volume": 1818404410,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Jul-2024",
+    "open": 1522,
+    "high": 1528.5,
+    "low": 1503.15,
+    "close": 1520,
+    "volume": 2124816457,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "15-Jul-2024",
+    "open": 1520.1,
+    "high": 1535.1,
+    "low": 1515.05,
+    "close": 1526.7,
+    "volume": 1881380154,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Jul-2024",
+    "open": 1529.2,
+    "high": 1539.8,
+    "low": 1514.85,
+    "close": 1523.3,
+    "volume": 1056522552,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Jul-2024",
+    "open": 1521.65,
+    "high": 1525,
+    "low": 1486.55,
+    "close": 1492,
+    "volume": 1422102128,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Jul-2024",
+    "open": 1492.45,
+    "high": 1510,
+    "low": 1470.05,
+    "close": 1470.25,
+    "volume": 2102463053,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-Jul-2024",
+    "open": 1470,
+    "high": 1506.7,
+    "low": 1421.15,
+    "close": 1487,
+    "volume": 2641949723,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Jul-2024",
+    "open": 1486.55,
+    "high": 1495.9,
+    "low": 1433.9,
+    "close": 1480.65,
+    "volume": 943872985,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Jul-2024",
+    "open": 1483.5,
+    "high": 1518.9,
+    "low": 1471.1,
+    "close": 1497.5,
+    "volume": 1586813836,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "25-Jul-2024",
+    "open": 1490,
+    "high": 1494.95,
+    "low": 1451,
+    "close": 1455,
+    "volume": 1200033421,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Jul-2024",
+    "open": 1464.9,
+    "high": 1498.75,
+    "low": 1461.6,
+    "close": 1494.65,
+    "volume": 783883824,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-Jul-2024",
+    "open": 1500,
+    "high": 1533.4,
+    "low": 1492.7,
+    "close": 1520,
+    "volume": 2051887388,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-Jul-2024",
+    "open": 1516.2,
+    "high": 1559.85,
+    "low": 1516.2,
+    "close": 1543.95,
+    "volume": 2282435897,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "31-Jul-2024",
+    "open": 1542,
+    "high": 1552.25,
+    "low": 1533.1,
+    "close": 1540,
+    "volume": 960934960,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "01-Aug-2024",
+    "open": 1540,
+    "high": 1549.3,
+    "low": 1519.95,
+    "close": 1536,
+    "volume": 963089619,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Aug-2024",
+    "open": 1520,
+    "high": 1531.25,
+    "low": 1481.95,
+    "close": 1487.9,
+    "volume": 799385179,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Aug-2024",
+    "open": 1475,
+    "high": 1479.95,
+    "low": 1432.95,
+    "close": 1449.95,
+    "volume": 1823599849,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-Aug-2024",
+    "open": 1455.9,
+    "high": 1500,
+    "low": 1455.2,
+    "close": 1462,
+    "volume": 1069261686,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "07-Aug-2024",
+    "open": 1482,
+    "high": 1485.95,
+    "low": 1465.6,
+    "close": 1470.75,
+    "volume": 1045786997,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-Aug-2024",
+    "open": 1470,
+    "high": 1512.45,
+    "low": 1421.85,
+    "close": 1425,
+    "volume": 3906254195,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Aug-2024",
+    "open": 1444,
+    "high": 1444,
+    "low": 1418.55,
+    "close": 1432.3,
+    "volume": 1441442115,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Aug-2024",
+    "open": 1500,
+    "high": 1598,
+    "low": 1463.15,
+    "close": 1581.55,
+    "volume": 21789149123,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-Aug-2024",
+    "open": 1582.55,
+    "high": 1598.9,
+    "low": 1568.8,
+    "close": 1572,
+    "volume": 3167488897,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "14-Aug-2024",
+    "open": 1580,
+    "high": 1580.35,
+    "low": 1546.45,
+    "close": 1550.65,
+    "volume": 2242449755,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Aug-2024",
+    "open": 1570,
+    "high": 1592,
+    "low": 1526.9,
+    "close": 1531.75,
+    "volume": 4068469714,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Aug-2024",
+    "open": 1552.95,
+    "high": 1611.7,
+    "low": 1548.05,
+    "close": 1609.3,
+    "volume": 8351129104,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "20-Aug-2024",
+    "open": 1621.55,
+    "high": 1671.95,
+    "low": 1592,
+    "close": 1653.9,
+    "volume": 7422573137,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "21-Aug-2024",
+    "open": 1655,
+    "high": 1682.8,
+    "low": 1650.7,
+    "close": 1671.95,
+    "volume": 3899079652,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-Aug-2024",
+    "open": 1676,
+    "high": 1688.75,
+    "low": 1666.05,
+    "close": 1683.75,
+    "volume": 3217815072,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Aug-2024",
+    "open": 1680,
+    "high": 1699,
+    "low": 1670.1,
+    "close": 1689.8,
+    "volume": 2506706449,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Aug-2024",
+    "open": 1690.1,
+    "high": 1725,
+    "low": 1684.25,
+    "close": 1715.5,
+    "volume": 3357563958,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-Aug-2024",
+    "open": 1718.25,
+    "high": 1751.35,
+    "low": 1715.55,
+    "close": 1738.1,
+    "volume": 4761143061,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "28-Aug-2024",
+    "open": 1745,
+    "high": 1779.45,
+    "low": 1723.15,
+    "close": 1770.1,
+    "volume": 2412710885,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-Aug-2024",
+    "open": 1771.75,
+    "high": 1818.15,
+    "low": 1752.05,
+    "close": 1789.7,
+    "volume": 4948829660,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-Aug-2024",
+    "open": 1785.5,
+    "high": 1785.5,
+    "low": 1733.85,
+    "close": 1754.8,
+    "volume": 4852403913,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Sep-2024",
+    "open": 1754.8,
+    "high": 1821.05,
+    "low": 1750.55,
+    "close": 1790.8,
+    "volume": 2743877194,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-Sep-2024",
+    "open": 1777,
+    "high": 1828.75,
+    "low": 1774.05,
+    "close": 1810,
+    "volume": 5758850219,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Sep-2024",
+    "open": 1790,
+    "high": 1807.95,
+    "low": 1776.8,
+    "close": 1780,
+    "volume": 2601354789,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Sep-2024",
+    "open": 1789,
+    "high": 1795,
+    "low": 1778.6,
+    "close": 1781.9,
+    "volume": 1458030457,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-Sep-2024",
+    "open": 1783.15,
+    "high": 1790.8,
+    "low": 1754.9,
+    "close": 1786.5,
+    "volume": 3016859640,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Sep-2024",
+    "open": 1786,
+    "high": 1825.15,
+    "low": 1770,
+    "close": 1822,
+    "volume": 3437742666,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Sep-2024",
+    "open": 1830,
+    "high": 1837.9,
+    "low": 1805.05,
+    "close": 1822.15,
+    "volume": 3062423486,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Sep-2024",
+    "open": 1822.1,
+    "high": 1846,
+    "low": 1817.1,
+    "close": 1835.7,
+    "volume": 2159967103,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Sep-2024",
+    "open": 1844,
+    "high": 1856.85,
+    "low": 1835.75,
+    "close": 1856,
+    "volume": 1532390167,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-Sep-2024",
+    "open": 1864.5,
+    "high": 1935,
+    "low": 1856.1,
+    "close": 1925,
+    "volume": 4478165655,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Sep-2024",
+    "open": 1930,
+    "high": 1930,
+    "low": 1907.5,
+    "close": 1913,
+    "volume": 1842955897,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "17-Sep-2024",
+    "open": 1919.95,
+    "high": 1924.9,
+    "low": 1896.05,
+    "close": 1898.85,
+    "volume": 1695229475,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Sep-2024",
+    "open": 1908,
+    "high": 1908,
+    "low": 1883.1,
+    "close": 1888.05,
+    "volume": 1225741287,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Sep-2024",
+    "open": 1899,
+    "high": 1935,
+    "low": 1882.95,
+    "close": 1932,
+    "volume": 2793280541,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "20-Sep-2024",
+    "open": 1938.85,
+    "high": 1944.9,
+    "low": 1892.85,
+    "close": 1920,
+    "volume": 4677459876,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Sep-2024",
+    "open": 1930.95,
+    "high": 1932,
+    "low": 1878.7,
+    "close": 1885.9,
+    "volume": 2473928652,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Sep-2024",
+    "open": 1895,
+    "high": 1918.2,
+    "low": 1885.6,
+    "close": 1913.5,
+    "volume": 2333521194,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "25-Sep-2024",
+    "open": 1916.95,
+    "high": 1921.65,
+    "low": 1897.55,
+    "close": 1905.2,
+    "volume": 1532032433,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Sep-2024",
+    "open": 1910.1,
+    "high": 1910.85,
+    "low": 1840.3,
+    "close": 1857.85,
+    "volume": 5133916520,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-Sep-2024",
+    "open": 1866.85,
+    "high": 1878,
+    "low": 1841.85,
+    "close": 1868.75,
+    "volume": 2178237139,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-Sep-2024",
+    "open": 1862,
+    "high": 1882.55,
+    "low": 1836,
+    "close": 1850,
+    "volume": 1579326541,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "01-Oct-2024",
+    "open": 1845,
+    "high": 1864.65,
+    "low": 1840,
+    "close": 1860.65,
+    "volume": 1787857635,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-Oct-2024",
+    "open": 1834,
+    "high": 1861.2,
+    "low": 1823.25,
+    "close": 1849.7,
+    "volume": 1558768266,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Oct-2024",
+    "open": 1845.1,
+    "high": 1863.65,
+    "low": 1797.25,
+    "close": 1810,
+    "volume": 2716506739,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "07-Oct-2024",
+    "open": 1809,
+    "high": 1818.5,
+    "low": 1752.95,
+    "close": 1755,
+    "volume": 2642806337,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-Oct-2024",
+    "open": 1750,
+    "high": 1806.5,
+    "low": 1750,
+    "close": 1803.25,
+    "volume": 3557549137,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Oct-2024",
+    "open": 1809.95,
+    "high": 1814.6,
+    "low": 1780.85,
+    "close": 1789.85,
+    "volume": 1123917039,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Oct-2024",
+    "open": 1795.45,
+    "high": 1812.55,
+    "low": 1764.95,
+    "close": 1778.95,
+    "volume": 1456873675,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Oct-2024",
+    "open": 1785.4,
+    "high": 1797.6,
+    "low": 1757.05,
+    "close": 1791.45,
+    "volume": 1187625581,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "14-Oct-2024",
+    "open": 1796,
+    "high": 1840,
+    "low": 1766.15,
+    "close": 1793,
+    "volume": 1511063884,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "15-Oct-2024",
+    "open": 1799.05,
+    "high": 1816.8,
+    "low": 1784.45,
+    "close": 1814,
+    "volume": 3013493163,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Oct-2024",
+    "open": 1840.2,
+    "high": 1902,
+    "low": 1826.9,
+    "close": 1883,
+    "volume": 8432088100,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "17-Oct-2024",
+    "open": 1888.9,
+    "high": 1889,
+    "low": 1828,
+    "close": 1837,
+    "volume": 2428609842,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Oct-2024",
+    "open": 1830,
+    "high": 1870,
+    "low": 1810,
+    "close": 1868,
+    "volume": 3036204134,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "21-Oct-2024",
+    "open": 1874.65,
+    "high": 1877.95,
+    "low": 1801.45,
+    "close": 1813.8,
+    "volume": 2256594999,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-Oct-2024",
+    "open": 1820,
+    "high": 1840.5,
+    "low": 1789.6,
+    "close": 1794,
+    "volume": 1788936141,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Oct-2024",
+    "open": 1793.8,
+    "high": 1825,
+    "low": 1772.05,
+    "close": 1791,
+    "volume": 1847433804,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Oct-2024",
+    "open": 1800,
+    "high": 1825.75,
+    "low": 1771.05,
+    "close": 1794.95,
+    "volume": 2092531345,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "25-Oct-2024",
+    "open": 1803,
+    "high": 1803,
+    "low": 1738.85,
+    "close": 1754.35,
+    "volume": 2313105297,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "28-Oct-2024",
+    "open": 1752,
+    "high": 1778.35,
+    "low": 1728.55,
+    "close": 1758.2,
+    "volume": 1315997537,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-Oct-2024",
+    "open": 1767,
+    "high": 1775.5,
+    "low": 1723,
+    "close": 1772.75,
+    "volume": 2670365582,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-Oct-2024",
+    "open": 1780,
+    "high": 1782.95,
+    "low": 1649.9,
+    "close": 1696.75,
+    "volume": 10172075193,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "31-Oct-2024",
+    "open": 1704.9,
+    "high": 1704.9,
+    "low": 1617.7,
+    "close": 1651.9,
+    "volume": 4155751330,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "01-Nov-2024",
+    "open": 1663,
+    "high": 1667.4,
+    "low": 1635.1,
+    "close": 1643.55,
+    "volume": 229594606,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Nov-2024",
+    "open": 1638.1,
+    "high": 1675.5,
+    "low": 1618.25,
+    "close": 1663.4,
+    "volume": 2488614275,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Nov-2024",
+    "open": 1660.55,
+    "high": 1704.05,
+    "low": 1641.75,
+    "close": 1689,
+    "volume": 1947059341,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-Nov-2024",
+    "open": 1696.55,
+    "high": 1749.45,
+    "low": 1689.05,
+    "close": 1736.5,
+    "volume": 1555304582,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "07-Nov-2024",
+    "open": 1739,
+    "high": 1780.7,
+    "low": 1734,
+    "close": 1771.9,
+    "volume": 6159952953,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "08-Nov-2024",
+    "open": 1775,
+    "high": 1792.95,
+    "low": 1751.05,
+    "close": 1753,
+    "volume": 3032001975,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Nov-2024",
+    "open": 1768.8,
+    "high": 1786,
+    "low": 1738.1,
+    "close": 1750,
+    "volume": 2293912393,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Nov-2024",
+    "open": 1760,
+    "high": 1783.9,
+    "low": 1690,
+    "close": 1690,
+    "volume": 3817923833,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-Nov-2024",
+    "open": 1700,
+    "high": 1705,
+    "low": 1671.85,
+    "close": 1684.1,
+    "volume": 2335758495,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "14-Nov-2024",
+    "open": 1697.45,
+    "high": 1735.8,
+    "low": 1685,
+    "close": 1705,
+    "volume": 3062121614,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Nov-2024",
+    "open": 1720,
+    "high": 1744,
+    "low": 1689.7,
+    "close": 1690.25,
+    "volume": 3170840321,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Nov-2024",
+    "open": 1709,
+    "high": 1732.35,
+    "low": 1672.1,
+    "close": 1680,
+    "volume": 3122081310,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "21-Nov-2024",
+    "open": 1697,
+    "high": 1707.25,
+    "low": 1660.25,
+    "close": 1675,
+    "volume": 4048770714,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "22-Nov-2024",
+    "open": 1675.5,
+    "high": 1680.9,
+    "low": 1647.7,
+    "close": 1664.65,
+    "volume": 2941969555,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "25-Nov-2024",
+    "open": 1698,
+    "high": 1715.3,
+    "low": 1622.1,
+    "close": 1637,
+    "volume": 45797292187,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Nov-2024",
+    "open": 1670,
+    "high": 1685.05,
+    "low": 1642.4,
+    "close": 1670,
+    "volume": 2892009408,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-Nov-2024",
+    "open": 1670,
+    "high": 1675,
+    "low": 1642.2,
+    "close": 1662,
+    "volume": 2077113005,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "28-Nov-2024",
+    "open": 1663.1,
+    "high": 1677.9,
+    "low": 1637.1,
+    "close": 1645.8,
+    "volume": 1641586773,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "29-Nov-2024",
+    "open": 1645.1,
+    "high": 1666.9,
+    "low": 1640.2,
+    "close": 1658,
+    "volume": 1607353125,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "02-Dec-2024",
+    "open": 1667,
+    "high": 1725,
+    "low": 1656,
+    "close": 1722,
+    "volume": 1949196933,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "03-Dec-2024",
+    "open": 1721.35,
+    "high": 1725.65,
+    "low": 1680,
+    "close": 1689.8,
+    "volume": 1985218293,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "04-Dec-2024",
+    "open": 1690,
+    "high": 1704.5,
+    "low": 1676.55,
+    "close": 1688.4,
+    "volume": 1457973328,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "05-Dec-2024",
+    "open": 1690,
+    "high": 1692.35,
+    "low": 1656.2,
+    "close": 1669.7,
+    "volume": 1089343215,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "06-Dec-2024",
+    "open": 1669.9,
+    "high": 1717.85,
+    "low": 1663,
+    "close": 1714,
+    "volume": 2019890437,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "09-Dec-2024",
+    "open": 1714.1,
+    "high": 1767,
+    "low": 1713.45,
+    "close": 1762.95,
+    "volume": 2426587401,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Dec-2024",
+    "open": 1761.05,
+    "high": 1776,
+    "low": 1754.5,
+    "close": 1768.7,
+    "volume": 1524746996,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "11-Dec-2024",
+    "open": 1760,
+    "high": 1805.6,
+    "low": 1755,
+    "close": 1796.45,
+    "volume": 1941230988,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "12-Dec-2024",
+    "open": 1796.7,
+    "high": 1807.3,
+    "low": 1780,
+    "close": 1780.6,
+    "volume": 2023642592,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "13-Dec-2024",
+    "open": 1784.7,
+    "high": 1813.85,
+    "low": 1756,
+    "close": 1811,
+    "volume": 1459388714,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "16-Dec-2024",
+    "open": 1820,
+    "high": 1832.95,
+    "low": 1802.05,
+    "close": 1807,
+    "volume": 1065883040,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "17-Dec-2024",
+    "open": 1809.9,
+    "high": 1811,
+    "low": 1763.1,
+    "close": 1766.1,
+    "volume": 1146242140,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "18-Dec-2024",
+    "open": 1761.35,
+    "high": 1780.8,
+    "low": 1737.4,
+    "close": 1753.25,
+    "volume": 1121979634,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "19-Dec-2024",
+    "open": 1747,
+    "high": 1758.7,
+    "low": 1730.65,
+    "close": 1744,
+    "volume": 1186694516,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "20-Dec-2024",
+    "open": 1739.55,
+    "high": 1755,
+    "low": 1679.2,
+    "close": 1684.15,
+    "volume": 1391683451,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "23-Dec-2024",
+    "open": 1687.1,
+    "high": 1709,
+    "low": 1684.15,
+    "close": 1699.7,
+    "volume": 1102071768,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Dec-2024",
+    "open": 1700,
+    "high": 1702.85,
+    "low": 1668.55,
+    "close": 1672.2,
+    "volume": 756093553,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "26-Dec-2024",
+    "open": 1676.75,
+    "high": 1716.75,
+    "low": 1660.35,
+    "close": 1707.2,
+    "volume": 1188575591,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "27-Dec-2024",
+    "open": 1711.35,
+    "high": 1722.15,
+    "low": 1701.15,
+    "close": 1703,
+    "volume": 1331917183,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "30-Dec-2024",
+    "open": 1690.05,
+    "high": 1800,
+    "low": 1675,
+    "close": 1736.15,
+    "volume": 6959047596,
+    "symbol": "VOLTAS"
+  },
+  {
+    "date": "31-Dec-2024",
+    "open": 1736.8,
+    "high": 1808.8,
+    "low": 1731.55,
+    "close": 1793.3,
+    "volume": 2864198888,
+    "symbol": "VOLTAS"
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 1778,
+    "high": 1929.35,
+    "low": 1764.9,
+    "close": 1890,
+    "volume": 970607007,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 1900,
+    "high": 2024,
+    "low": 1870,
+    "close": 2020.5,
+    "volume": 509319878,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 2020.5,
+    "high": 2025,
+    "low": 1883.3,
+    "close": 1887,
+    "volume": 506701691,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 1875.5,
+    "high": 1880.65,
+    "low": 1778,
+    "close": 1802,
+    "volume": 707792087,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 1804.7,
+    "high": 1823.7,
+    "low": 1767,
+    "close": 1784,
+    "volume": 292545679,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 1794.95,
+    "high": 1828.95,
+    "low": 1761.3,
+    "close": 1788,
+    "volume": 293969164,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 1790.1,
+    "high": 1807,
+    "low": 1751,
+    "close": 1754,
+    "volume": 231461468,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 1764,
+    "high": 1859.3,
+    "low": 1748.4,
+    "close": 1838.9,
+    "volume": 283748580,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 1845,
+    "high": 1857.7,
+    "low": 1801.2,
+    "close": 1804.9,
+    "volume": 160638783,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 1800,
+    "high": 1830.05,
+    "low": 1780,
+    "close": 1791,
+    "volume": 437682112,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 1790.1,
+    "high": 1817.35,
+    "low": 1790.1,
+    "close": 1802.5,
+    "volume": 129728165,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 1815,
+    "high": 1815,
+    "low": 1760.4,
+    "close": 1779.7,
+    "volume": 451116025,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 1780,
+    "high": 1802,
+    "low": 1758.05,
+    "close": 1789,
+    "volume": 133741815,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 1790,
+    "high": 1810,
+    "low": 1771.55,
+    "close": 1791.5,
+    "volume": 171820328,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 1785,
+    "high": 1805,
+    "low": 1778.7,
+    "close": 1786,
+    "volume": 94967607,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 1793.4,
+    "high": 1793.4,
+    "low": 1669.2,
+    "close": 1705,
+    "volume": 274388246,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 1716.1,
+    "high": 1716.1,
+    "low": 1654.15,
+    "close": 1691.15,
+    "volume": 566155891,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 1652.35,
+    "high": 1742.35,
+    "low": 1652.35,
+    "close": 1676,
+    "volume": 281657531,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 1688.6,
+    "high": 1708.75,
+    "low": 1650,
+    "close": 1653,
+    "volume": 314332105,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 1684.7,
+    "high": 1715,
+    "low": 1666.85,
+    "close": 1692.1,
+    "volume": 317698949,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 1703,
+    "high": 1703.45,
+    "low": 1662.4,
+    "close": 1679,
+    "volume": 68179182,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 1706.55,
+    "high": 1758.6,
+    "low": 1681.55,
+    "close": 1746.8,
+    "volume": 189977912,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 1755.8,
+    "high": 1819,
+    "low": 1750.15,
+    "close": 1770,
+    "volume": 383602524,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 1780.85,
+    "high": 1819,
+    "low": 1751,
+    "close": 1785,
+    "volume": 182888275,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 1809.4,
+    "high": 1866,
+    "low": 1786.8,
+    "close": 1800,
+    "volume": 616981693,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 1820,
+    "high": 1824,
+    "low": 1763.35,
+    "close": 1779,
+    "volume": 208289668,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 1800,
+    "high": 1803.85,
+    "low": 1732.05,
+    "close": 1773.9,
+    "volume": 256625884,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 1789.9,
+    "high": 1789.9,
+    "low": 1691.1,
+    "close": 1723.65,
+    "volume": 358211705,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 1710,
+    "high": 1717.9,
+    "low": 1685.55,
+    "close": 1696.1,
+    "volume": 163878855,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 1680,
+    "high": 1684,
+    "low": 1588,
+    "close": 1601.55,
+    "volume": 258471786,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 1609.15,
+    "high": 1701,
+    "low": 1561.75,
+    "close": 1684,
+    "volume": 275431799,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 1709,
+    "high": 1709,
+    "low": 1645.7,
+    "close": 1650.1,
+    "volume": 124769064,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 1662,
+    "high": 1676,
+    "low": 1632.15,
+    "close": 1645,
+    "volume": 258963310,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 1620.1,
+    "high": 1646.95,
+    "low": 1601.25,
+    "close": 1601.25,
+    "volume": 225358558,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 1610,
+    "high": 1673,
+    "low": 1585.55,
+    "close": 1645,
+    "volume": 288139056,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 1603,
+    "high": 1679.4,
+    "low": 1587,
+    "close": 1611,
+    "volume": 471110338,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 1630,
+    "high": 1630,
+    "low": 1552,
+    "close": 1553.45,
+    "volume": 499043009,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 1519.7,
+    "high": 1532.85,
+    "low": 1478.5,
+    "close": 1505.5,
+    "volume": 626347103,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 1548,
+    "high": 1604.75,
+    "low": 1514,
+    "close": 1521.05,
+    "volume": 372642470,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 1531,
+    "high": 1575,
+    "low": 1492.2,
+    "close": 1530,
+    "volume": 936270328,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 1514.55,
+    "high": 1535.7,
+    "low": 1499,
+    "close": 1508.1,
+    "volume": 997778645,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 1518,
+    "high": 1541.85,
+    "low": 1502.5,
+    "close": 1510,
+    "volume": 326398127,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 1508,
+    "high": 1518.3,
+    "low": 1478.5,
+    "close": 1478.95,
+    "volume": 143604679,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 1488,
+    "high": 1522,
+    "low": 1463,
+    "close": 1507.1,
+    "volume": 249347473,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 1519.4,
+    "high": 1520.55,
+    "low": 1447.85,
+    "close": 1460,
+    "volume": 325335972,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 1460,
+    "high": 1510,
+    "low": 1441.95,
+    "close": 1490,
+    "volume": 266533085,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 1519.9,
+    "high": 1578.5,
+    "low": 1510.05,
+    "close": 1566.1,
+    "volume": 229069442,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 1562.9,
+    "high": 1575.95,
+    "low": 1523.15,
+    "close": 1542.5,
+    "volume": 357761551,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 1550.25,
+    "high": 1584.95,
+    "low": 1547.75,
+    "close": 1561.2,
+    "volume": 353800863,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 1566.95,
+    "high": 1566.95,
+    "low": 1456.5,
+    "close": 1460,
+    "volume": 827557780,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 1482,
+    "high": 1534.9,
+    "low": 1482,
+    "close": 1517.5,
+    "volume": 1366702721,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 1535,
+    "high": 1558,
+    "low": 1496,
+    "close": 1550,
+    "volume": 2018017930,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 1540.4,
+    "high": 1582.75,
+    "low": 1540.4,
+    "close": 1575,
+    "volume": 809884995,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 1587.8,
+    "high": 1618.05,
+    "low": 1572.95,
+    "close": 1605.1,
+    "volume": 209019161,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 1619,
+    "high": 1627.95,
+    "low": 1566.15,
+    "close": 1582.65,
+    "volume": 136920639,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 1576.7,
+    "high": 1625.5,
+    "low": 1571.25,
+    "close": 1610,
+    "volume": 448321556,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 1622,
+    "high": 1632.45,
+    "low": 1587,
+    "close": 1594,
+    "volume": 130434878,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 1609,
+    "high": 1684.95,
+    "low": 1589.55,
+    "close": 1673.05,
+    "volume": 535039057,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 1674,
+    "high": 1683,
+    "low": 1630.5,
+    "close": 1660,
+    "volume": 276188050,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 1664,
+    "high": 1682,
+    "low": 1647.75,
+    "close": 1663,
+    "volume": 164045924,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 1679.85,
+    "high": 1689.9,
+    "low": 1602.4,
+    "close": 1615,
+    "volume": 457576245,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 1624.85,
+    "high": 1659.35,
+    "low": 1603.95,
+    "close": 1610.1,
+    "volume": 895864284,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 1623.4,
+    "high": 1637.25,
+    "low": 1602.05,
+    "close": 1612.6,
+    "volume": 115492089,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 1620,
+    "high": 1714,
+    "low": 1615,
+    "close": 1702,
+    "volume": 627814878,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 1700,
+    "high": 1702,
+    "low": 1655.1,
+    "close": 1685,
+    "volume": 243807626,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 1694.7,
+    "high": 1694.7,
+    "low": 1640,
+    "close": 1643,
+    "volume": 142993583,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 1677,
+    "high": 1677,
+    "low": 1635.9,
+    "close": 1670,
+    "volume": 89310566,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 1669.8,
+    "high": 1764.55,
+    "low": 1669.8,
+    "close": 1713.35,
+    "volume": 295964146,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 1727,
+    "high": 1782,
+    "low": 1700.6,
+    "close": 1768,
+    "volume": 132340077,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 1778,
+    "high": 1778,
+    "low": 1733.25,
+    "close": 1740.05,
+    "volume": 77209145,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 1748.55,
+    "high": 1748.55,
+    "low": 1634.95,
+    "close": 1643.15,
+    "volume": 186144862,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 1669,
+    "high": 1684.95,
+    "low": 1660.2,
+    "close": 1675,
+    "volume": 124896931,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 1683.35,
+    "high": 1750,
+    "low": 1683,
+    "close": 1730,
+    "volume": 485914545,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 1749,
+    "high": 1780,
+    "low": 1730.2,
+    "close": 1773,
+    "volume": 140053846,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 1769.7,
+    "high": 1769.7,
+    "low": 1716.5,
+    "close": 1752.2,
+    "volume": 115077175,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 1738,
+    "high": 1864.9,
+    "low": 1736.5,
+    "close": 1822,
+    "volume": 1549458430,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 1844,
+    "high": 1876.7,
+    "low": 1827.55,
+    "close": 1873.55,
+    "volume": 1818787782,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 1860,
+    "high": 1890,
+    "low": 1827.5,
+    "close": 1838,
+    "volume": 198583134,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 1826.1,
+    "high": 1860.25,
+    "low": 1813,
+    "close": 1849.95,
+    "volume": 66979184,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 1872.9,
+    "high": 1883.65,
+    "low": 1845.05,
+    "close": 1870,
+    "volume": 112533309,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 1865.65,
+    "high": 1906.7,
+    "low": 1838,
+    "close": 1845.1,
+    "volume": 403520134,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 1833,
+    "high": 1885,
+    "low": 1828,
+    "close": 1860,
+    "volume": 185266405,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 1862.5,
+    "high": 1900,
+    "low": 1858,
+    "close": 1884,
+    "volume": 183513311,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 1853,
+    "high": 1853,
+    "low": 1802.2,
+    "close": 1805,
+    "volume": 454563974,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 1798,
+    "high": 1828.7,
+    "low": 1785.05,
+    "close": 1813.9,
+    "volume": 69322557,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 1795.3,
+    "high": 1849,
+    "low": 1770.1,
+    "close": 1835,
+    "volume": 275480263,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 1775,
+    "high": 1806.95,
+    "low": 1638.15,
+    "close": 1679.9,
+    "volume": 160224784,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 1650.05,
+    "high": 1692,
+    "low": 1575.05,
+    "close": 1619,
+    "volume": 117298315,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 1606.35,
+    "high": 1755,
+    "low": 1606.35,
+    "close": 1740,
+    "volume": 315103103,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 1729.9,
+    "high": 1780.15,
+    "low": 1716.2,
+    "close": 1734,
+    "volume": 74449523,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 1713.4,
+    "high": 1738.3,
+    "low": 1683.2,
+    "close": 1690,
+    "volume": 82326154,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 1681.2,
+    "high": 1697.1,
+    "low": 1658,
+    "close": 1670,
+    "volume": 2697671173,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 1630.3,
+    "high": 1665,
+    "low": 1610,
+    "close": 1620,
+    "volume": 38116955,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 1621.4,
+    "high": 1677.15,
+    "low": 1612.55,
+    "close": 1623.5,
+    "volume": 59745394,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 1631,
+    "high": 1643.7,
+    "low": 1567,
+    "close": 1574.5,
+    "volume": 81829841,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 1580.1,
+    "high": 1583.2,
+    "low": 1514.4,
+    "close": 1527,
+    "volume": 81578550,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 1545.95,
+    "high": 1573.95,
+    "low": 1496.1,
+    "close": 1569,
+    "volume": 230886251,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 1560.6,
+    "high": 1612,
+    "low": 1513.05,
+    "close": 1595,
+    "volume": 80094996,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 1596,
+    "high": 1659.75,
+    "low": 1578.6,
+    "close": 1583.2,
+    "volume": 134250319,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 1610,
+    "high": 1645,
+    "low": 1590,
+    "close": 1600.55,
+    "volume": 116684027,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 1604.1,
+    "high": 1613.85,
+    "low": 1568.15,
+    "close": 1587,
+    "volume": 1399484680,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 1560.15,
+    "high": 1612.05,
+    "low": 1560.15,
+    "close": 1600,
+    "volume": 163093829,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 1603.9,
+    "high": 1608.4,
+    "low": 1575.1,
+    "close": 1579,
+    "volume": 151501602,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 1581.1,
+    "high": 1601.6,
+    "low": 1550.1,
+    "close": 1567.95,
+    "volume": 94050112,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 1568.1,
+    "high": 1581.3,
+    "low": 1547,
+    "close": 1564.9,
+    "volume": 84795874,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 1569.95,
+    "high": 1578.85,
+    "low": 1531,
+    "close": 1541,
+    "volume": 447775465,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 1551.05,
+    "high": 1590.65,
+    "low": 1543.6,
+    "close": 1545,
+    "volume": 46041898,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 1548.3,
+    "high": 1548.3,
+    "low": 1515,
+    "close": 1525,
+    "volume": 516837828,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 1508.5,
+    "high": 1525.5,
+    "low": 1508.3,
+    "close": 1514.9,
+    "volume": 96296917,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 1514,
+    "high": 1522.8,
+    "low": 1492,
+    "close": 1499.95,
+    "volume": 86134132,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 1506,
+    "high": 1536.95,
+    "low": 1488,
+    "close": 1533,
+    "volume": 540323106,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 1524.45,
+    "high": 1574,
+    "low": 1524.45,
+    "close": 1560,
+    "volume": 118703694,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 1542,
+    "high": 1568.45,
+    "low": 1505.35,
+    "close": 1510,
+    "volume": 150813857,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 1492.2,
+    "high": 1524,
+    "low": 1465,
+    "close": 1484.6,
+    "volume": 1184384934,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 1484.7,
+    "high": 1560,
+    "low": 1457.6,
+    "close": 1541.1,
+    "volume": 178457689,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 1534.1,
+    "high": 1564,
+    "low": 1534.1,
+    "close": 1551,
+    "volume": 102681643,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 1550.85,
+    "high": 1556.55,
+    "low": 1503,
+    "close": 1513,
+    "volume": 65117211,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 1518,
+    "high": 1530.75,
+    "low": 1491,
+    "close": 1518.8,
+    "volume": 69289750,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 1530,
+    "high": 1596,
+    "low": 1530,
+    "close": 1594.95,
+    "volume": 518442149,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 1620,
+    "high": 1658.95,
+    "low": 1600,
+    "close": 1624.15,
+    "volume": 1514146812,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 1632.8,
+    "high": 1790,
+    "low": 1623.85,
+    "close": 1750.05,
+    "volume": 290180468,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 1740.1,
+    "high": 1850,
+    "low": 1710,
+    "close": 1793.5,
+    "volume": 421857422,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 1809,
+    "high": 1858.9,
+    "low": 1756.3,
+    "close": 1849.8,
+    "volume": 343198954,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 1803.7,
+    "high": 1835,
+    "low": 1751,
+    "close": 1758,
+    "volume": 157356981,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 1750,
+    "high": 1784.9,
+    "low": 1729.25,
+    "close": 1745,
+    "volume": 256462653,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 1735,
+    "high": 1834,
+    "low": 1735,
+    "close": 1825,
+    "volume": 179115604,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 1831,
+    "high": 1999,
+    "low": 1825,
+    "close": 1981,
+    "volume": 1318908053,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 1994.7,
+    "high": 2057.8,
+    "low": 1989.1,
+    "close": 2014.95,
+    "volume": 1233400144,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 2020,
+    "high": 2055,
+    "low": 1992,
+    "close": 1999.85,
+    "volume": 677994768,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 2005.8,
+    "high": 2095,
+    "low": 1960.1,
+    "close": 2060,
+    "volume": 464784947,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 2040,
+    "high": 2041.85,
+    "low": 1961.65,
+    "close": 2015,
+    "volume": 525129801,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 1994.25,
+    "high": 2015,
+    "low": 1965.45,
+    "close": 1974,
+    "volume": 283883862,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 1992,
+    "high": 2042.4,
+    "low": 1960,
+    "close": 2000,
+    "volume": 353318334,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 1987,
+    "high": 2024.95,
+    "low": 1985,
+    "close": 1996,
+    "volume": 246497910,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 2028.85,
+    "high": 2030.95,
+    "low": 1999.45,
+    "close": 2012,
+    "volume": 347010048,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 2024.9,
+    "high": 2319,
+    "low": 2024.85,
+    "close": 2234,
+    "volume": 4144554966,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 2249,
+    "high": 2354,
+    "low": 2150.25,
+    "close": 2197,
+    "volume": 2568193977,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 2200.25,
+    "high": 2360,
+    "low": 2172,
+    "close": 2172,
+    "volume": 2524779160,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 2191,
+    "high": 2205.5,
+    "low": 2125.55,
+    "close": 2147,
+    "volume": 990209606,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 2135,
+    "high": 2160,
+    "low": 2098.15,
+    "close": 2134,
+    "volume": 1400191190,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 2136,
+    "high": 2164,
+    "low": 2112,
+    "close": 2141,
+    "volume": 575110180,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 2158.75,
+    "high": 2158.75,
+    "low": 2086.85,
+    "close": 2114,
+    "volume": 284378880,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 2139.4,
+    "high": 2139.4,
+    "low": 2081.2,
+    "close": 2104.9,
+    "volume": 531881888,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 2119.7,
+    "high": 2119.95,
+    "low": 2072,
+    "close": 2080,
+    "volume": 477811254,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 2100,
+    "high": 2100,
+    "low": 1996,
+    "close": 2020.5,
+    "volume": 550591113,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 2023.6,
+    "high": 2101.55,
+    "low": 1981,
+    "close": 2079.9,
+    "volume": 1883341866,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 2088.8,
+    "high": 2126.8,
+    "low": 2065,
+    "close": 2117.05,
+    "volume": 790580916,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 2129,
+    "high": 2247.65,
+    "low": 2125.25,
+    "close": 2193.55,
+    "volume": 1701924404,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 2210,
+    "high": 2398,
+    "low": 2205.35,
+    "close": 2294.5,
+    "volume": 1835929518,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 2272.15,
+    "high": 2355.9,
+    "low": 2206.05,
+    "close": 2324.95,
+    "volume": 760544732,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 2329,
+    "high": 2364.95,
+    "low": 2271.15,
+    "close": 2314.9,
+    "volume": 649812272,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 2348,
+    "high": 2348,
+    "low": 2220.2,
+    "close": 2230,
+    "volume": 506505851,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 2255.4,
+    "high": 2255.4,
+    "low": 2231,
+    "close": 2236.15,
+    "volume": 265807050,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 2250,
+    "high": 2250,
+    "low": 2184.15,
+    "close": 2215,
+    "volume": 344025266,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 2239,
+    "high": 2240,
+    "low": 2207.95,
+    "close": 2224.95,
+    "volume": 291706808,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 2231.85,
+    "high": 2234,
+    "low": 2154.05,
+    "close": 2166.2,
+    "volume": 397324513,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 2186.05,
+    "high": 2200,
+    "low": 2150,
+    "close": 2172.55,
+    "volume": 240442437,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 2172.55,
+    "high": 2172.7,
+    "low": 2065.15,
+    "close": 2125.9,
+    "volume": 578563772,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 2090,
+    "high": 2166.25,
+    "low": 2081.2,
+    "close": 2095,
+    "volume": 515946919,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 2104.5,
+    "high": 2120,
+    "low": 2034.05,
+    "close": 2058,
+    "volume": 834448932,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 2065,
+    "high": 2105.85,
+    "low": 2052.05,
+    "close": 2076,
+    "volume": 571265399,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 2105,
+    "high": 2174,
+    "low": 2061,
+    "close": 2164.95,
+    "volume": 763351215,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 2061,
+    "high": 2167.7,
+    "low": 2061,
+    "close": 2150,
+    "volume": 690809507,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 2184,
+    "high": 2283.9,
+    "low": 2177,
+    "close": 2269,
+    "volume": 969225666,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 2262.9,
+    "high": 2277,
+    "low": 2211.25,
+    "close": 2255,
+    "volume": 863490566,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 2284,
+    "high": 2324.9,
+    "low": 2265.3,
+    "close": 2281,
+    "volume": 779819689,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 2313.2,
+    "high": 2515,
+    "low": 2295.05,
+    "close": 2510,
+    "volume": 2644410214,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 2525,
+    "high": 2570,
+    "low": 2480,
+    "close": 2498.9,
+    "volume": 2560725253,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 2501.7,
+    "high": 2629,
+    "low": 2468.7,
+    "close": 2610,
+    "volume": 1911844850,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 2614,
+    "high": 2668,
+    "low": 2575,
+    "close": 2603.15,
+    "volume": 1879483453,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 2634.9,
+    "high": 2768,
+    "low": 2615,
+    "close": 2742,
+    "volume": 2333930714,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 2725,
+    "high": 2823,
+    "low": 2705.3,
+    "close": 2717,
+    "volume": 1476857709,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 2745,
+    "high": 2745,
+    "low": 2642,
+    "close": 2649,
+    "volume": 1419480567,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 2649,
+    "high": 2654.6,
+    "low": 2613.55,
+    "close": 2619.9,
+    "volume": 1287051878,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 2638,
+    "high": 2667.5,
+    "low": 2633.1,
+    "close": 2648.3,
+    "volume": 1051552998,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 2651.9,
+    "high": 2673.9,
+    "low": 2510,
+    "close": 2560,
+    "volume": 1261469556,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 2572.8,
+    "high": 2584.35,
+    "low": 2485,
+    "close": 2550,
+    "volume": 616691538,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 2581.4,
+    "high": 2750,
+    "low": 2572.5,
+    "close": 2702,
+    "volume": 2066674811,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 2700,
+    "high": 2770,
+    "low": 2685.45,
+    "close": 2744,
+    "volume": 998755374,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 2725,
+    "high": 2794.7,
+    "low": 2684.8,
+    "close": 2757,
+    "volume": 852555644,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 2752.7,
+    "high": 2855,
+    "low": 2726.4,
+    "close": 2780,
+    "volume": 1399996433,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 2737.75,
+    "high": 2794.4,
+    "low": 2640,
+    "close": 2650,
+    "volume": 858853101,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 2711.25,
+    "high": 2718.3,
+    "low": 2476,
+    "close": 2607.15,
+    "volume": 2206281834,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 2590,
+    "high": 2715,
+    "low": 2506.8,
+    "close": 2638.95,
+    "volume": 1123350866,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 2655,
+    "high": 2681.25,
+    "low": 2540,
+    "close": 2570,
+    "volume": 1119357567,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 2592.35,
+    "high": 2784,
+    "low": 2583,
+    "close": 2711,
+    "volume": 1170893402,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 2709,
+    "high": 2784.95,
+    "low": 2678.05,
+    "close": 2706.35,
+    "volume": 691496604,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 2725,
+    "high": 2764,
+    "low": 2718.75,
+    "close": 2750,
+    "volume": 1020481883,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 2773.9,
+    "high": 2782,
+    "low": 2736.65,
+    "close": 2760.05,
+    "volume": 1183468273,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 2769,
+    "high": 2775,
+    "low": 2721.05,
+    "close": 2740,
+    "volume": 595703686,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 2720,
+    "high": 2804.1,
+    "low": 2699.95,
+    "close": 2717,
+    "volume": 662146033,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 2713,
+    "high": 2729.55,
+    "low": 2644.55,
+    "close": 2684,
+    "volume": 510324967,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 2696,
+    "high": 2699.85,
+    "low": 2621.85,
+    "close": 2639,
+    "volume": 423334622,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 2640,
+    "high": 2676.45,
+    "low": 2624.8,
+    "close": 2665,
+    "volume": 541110386,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 2688,
+    "high": 2732.65,
+    "low": 2633.95,
+    "close": 2641,
+    "volume": 586382145,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 2621.1,
+    "high": 2714.55,
+    "low": 2595,
+    "close": 2657.05,
+    "volume": 967620718,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 2678,
+    "high": 2779.9,
+    "low": 2669.4,
+    "close": 2769.95,
+    "volume": 1015060308,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 2775.3,
+    "high": 2881.9,
+    "low": 2757.1,
+    "close": 2820,
+    "volume": 1741746239,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 2800,
+    "high": 2844,
+    "low": 2595.25,
+    "close": 2800,
+    "volume": 1715231735,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 2812.85,
+    "high": 2823.5,
+    "low": 2661,
+    "close": 2675,
+    "volume": 1053664315,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 2737,
+    "high": 2737.8,
+    "low": 2709.2,
+    "close": 2725,
+    "volume": 52332279,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 2727,
+    "high": 2870,
+    "low": 2701.1,
+    "close": 2815,
+    "volume": 2388999931,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 2840,
+    "high": 2862.7,
+    "low": 2725,
+    "close": 2733.95,
+    "volume": 1366783331,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 2744,
+    "high": 2748.85,
+    "low": 2634.2,
+    "close": 2666.55,
+    "volume": 578083641,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 2675,
+    "high": 2783.85,
+    "low": 2671.75,
+    "close": 2722.5,
+    "volume": 560492236,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 2735,
+    "high": 2828,
+    "low": 2731.4,
+    "close": 2789.4,
+    "volume": 933038702,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 2805,
+    "high": 2870,
+    "low": 2765.05,
+    "close": 2855,
+    "volume": 1991161934,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 2840,
+    "high": 2936.65,
+    "low": 2820,
+    "close": 2862.2,
+    "volume": 2019011076,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 2860,
+    "high": 2915,
+    "low": 2858.7,
+    "close": 2882,
+    "volume": 1185935154,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 2900,
+    "high": 2969.85,
+    "low": 2830.1,
+    "close": 2875,
+    "volume": 1668384168,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 2898,
+    "high": 2913.6,
+    "low": 2685.95,
+    "close": 2710,
+    "volume": 2484661861,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 2710,
+    "high": 2710,
+    "low": 2505,
+    "close": 2575.3,
+    "volume": 1813017901,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 2652,
+    "high": 2698.95,
+    "low": 2525.5,
+    "close": 2566,
+    "volume": 1663178545,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 2583.45,
+    "high": 2583.5,
+    "low": 2492.85,
+    "close": 2504,
+    "volume": 1817186746,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 2510.35,
+    "high": 2627.95,
+    "low": 2480,
+    "close": 2551.6,
+    "volume": 1574099695,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 2556.9,
+    "high": 2627,
+    "low": 2556,
+    "close": 2599,
+    "volume": 2145346279,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 2607.5,
+    "high": 2609.5,
+    "low": 2515.15,
+    "close": 2547.35,
+    "volume": 946568593,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 2554.7,
+    "high": 2600.75,
+    "low": 2502.95,
+    "close": 2580,
+    "volume": 1288803778,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 2575,
+    "high": 2600,
+    "low": 2551.05,
+    "close": 2560,
+    "volume": 1030203172,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 2580.95,
+    "high": 2605,
+    "low": 2575.1,
+    "close": 2604.9,
+    "volume": 1251298576,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 2614.9,
+    "high": 2669,
+    "low": 2531.55,
+    "close": 2590,
+    "volume": 1691995416,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 2633,
+    "high": 2639,
+    "low": 2572.75,
+    "close": 2599,
+    "volume": 1314323585,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 2619.7,
+    "high": 2725,
+    "low": 2560.15,
+    "close": 2570,
+    "volume": 1813769772,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 2570,
+    "high": 2775,
+    "low": 2565.35,
+    "close": 2770,
+    "volume": 3866610503,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 2755.6,
+    "high": 2784,
+    "low": 2625,
+    "close": 2715.05,
+    "volume": 2670154672,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 2723,
+    "high": 2834,
+    "low": 2675.65,
+    "close": 2790,
+    "volume": 35985533229,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 2778.8,
+    "high": 2838.85,
+    "low": 2725,
+    "close": 2824.75,
+    "volume": 1217384349,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 2800,
+    "high": 2973.5,
+    "low": 2788.05,
+    "close": 2919.1,
+    "volume": 2261357090,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 2940,
+    "high": 2999,
+    "low": 2918.3,
+    "close": 2955,
+    "volume": 1285372496,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 2941,
+    "high": 2989,
+    "low": 2896.55,
+    "close": 2970,
+    "volume": 815700773,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 2970,
+    "high": 3010.35,
+    "low": 2918,
+    "close": 2918.1,
+    "volume": 765712569,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 2933,
+    "high": 2952.9,
+    "low": 2855,
+    "close": 2930,
+    "volume": 735371748,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 2922.5,
+    "high": 3039.9,
+    "low": 2910,
+    "close": 3030,
+    "volume": 1022643394,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 3020,
+    "high": 3025.45,
+    "low": 2945.25,
+    "close": 2999,
+    "volume": 883009712,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 3014.25,
+    "high": 3014.25,
+    "low": 2911.6,
+    "close": 2923,
+    "volume": 604303044,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 2939.7,
+    "high": 2998,
+    "low": 2924.05,
+    "close": 2970.1,
+    "volume": 522413934,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 2970,
+    "high": 2972.8,
+    "low": 2805.55,
+    "close": 2820,
+    "volume": 503731187,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 2836,
+    "high": 2962,
+    "low": 2735.1,
+    "close": 2918,
+    "volume": 1392152128,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 2921.85,
+    "high": 2988.25,
+    "low": 2852.35,
+    "close": 2955,
+    "volume": 726393247,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 2932,
+    "high": 3046.2,
+    "low": 2880,
+    "close": 3008,
+    "volume": 1128002541,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 3017.35,
+    "high": 3017.35,
+    "low": 2783.35,
+    "close": 2889,
+    "volume": 774611993,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 2929,
+    "high": 2949,
+    "low": 2795,
+    "close": 2900.35,
+    "volume": 677545844,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 2860.1,
+    "high": 2883.95,
+    "low": 2750,
+    "close": 2760.4,
+    "volume": 821852546,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 2778,
+    "high": 2838.7,
+    "low": 2724.4,
+    "close": 2749,
+    "volume": 343531402,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 2774.95,
+    "high": 2836,
+    "low": 2760.1,
+    "close": 2789,
+    "volume": 499240937,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 2784.05,
+    "high": 2810,
+    "low": 2761,
+    "close": 2780,
+    "volume": 368489264,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 2760.5,
+    "high": 2790.1,
+    "low": 2665.1,
+    "close": 2785,
+    "volume": 893565791,
+    "symbol": "TIINDIA"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 2793.3,
+    "high": 2808.65,
+    "low": 2738,
+    "close": 2754.95,
+    "volume": 438539512,
+    "symbol": "TIINDIA"
+  }
+]

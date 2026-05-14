@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 36.3,
+    "high": 38.16,
+    "low": 36.04,
+    "close": 37.65,
+    "volume": 3189247591,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 37.89,
+    "high": 41.2,
+    "low": 37.72,
+    "close": 41,
+    "volume": 11429579356,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 41.25,
+    "high": 44.29,
+    "low": 39.73,
+    "close": 44.01,
+    "volume": 13746360626,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 44,
+    "high": 45.87,
+    "low": 41.7,
+    "close": 43.16,
+    "volume": 13006673426,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 43.48,
+    "high": 44.05,
+    "low": 41.81,
+    "close": 42.1,
+    "volume": 5502554260,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 42.18,
+    "high": 42.24,
+    "low": 40.12,
+    "close": 40.3,
+    "volume": 3508693199,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 40.27,
+    "high": 41.02,
+    "low": 39.18,
+    "close": 39.46,
+    "volume": 3540088513,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 39.32,
+    "high": 40.55,
+    "low": 37.9,
+    "close": 39.5,
+    "volume": 3887389662,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 39.6,
+    "high": 40.5,
+    "low": 38.5,
+    "close": 38.93,
+    "volume": 3057680773,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 39.01,
+    "high": 39.48,
+    "low": 38.21,
+    "close": 38.73,
+    "volume": 2199312401,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 38.73,
+    "high": 39.37,
+    "low": 37.01,
+    "close": 37.27,
+    "volume": 2547185583,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 36.9,
+    "high": 37.06,
+    "low": 35.55,
+    "close": 35.69,
+    "volume": 2153601244,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 35.73,
+    "high": 35.78,
+    "low": 32.17,
+    "close": 32.87,
+    "volume": 4663579382,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 32.5,
+    "high": 34.15,
+    "low": 32.22,
+    "close": 33.09,
+    "volume": 4915871355,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 33.4,
+    "high": 33.85,
+    "low": 32.59,
+    "close": 33.12,
+    "volume": 1621274000,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 33.29,
+    "high": 33.3,
+    "low": 31.72,
+    "close": 32,
+    "volume": 1318854013,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 32.1,
+    "high": 32.25,
+    "low": 30.76,
+    "close": 32,
+    "volume": 2055422753,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 32,
+    "high": 32.53,
+    "low": 31.66,
+    "close": 32.16,
+    "volume": 1758429443,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 32.14,
+    "high": 32.17,
+    "low": 31.31,
+    "close": 31.87,
+    "volume": 1264812763,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 31.65,
+    "high": 32.85,
+    "low": 31.4,
+    "close": 32.51,
+    "volume": 2056354997,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 32.8,
+    "high": 32.8,
+    "low": 31.15,
+    "close": 31.49,
+    "volume": 1231185964,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 31.6,
+    "high": 31.99,
+    "low": 30.46,
+    "close": 31.95,
+    "volume": 1250539167,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 33.55,
+    "high": 33.55,
+    "low": 30.8,
+    "close": 30.98,
+    "volume": 1929846244,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 31,
+    "high": 32.38,
+    "low": 30.75,
+    "close": 32.16,
+    "volume": 1661889890,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 32.3,
+    "high": 32.3,
+    "low": 31.28,
+    "close": 31.53,
+    "volume": 1013715127,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 31.5,
+    "high": 31.8,
+    "low": 31.07,
+    "close": 31.69,
+    "volume": 855745755,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 31.8,
+    "high": 31.94,
+    "low": 31.3,
+    "close": 31.57,
+    "volume": 1100145523,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 31.68,
+    "high": 32.55,
+    "low": 31,
+    "close": 31.29,
+    "volume": 1832631862,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 31.45,
+    "high": 31.72,
+    "low": 31.09,
+    "close": 31.54,
+    "volume": 846193661,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 31.51,
+    "high": 31.54,
+    "low": 30.77,
+    "close": 30.98,
+    "volume": 668325239,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 30.9,
+    "high": 31.43,
+    "low": 30.41,
+    "close": 30.92,
+    "volume": 999526629,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 29.9,
+    "high": 29.9,
+    "low": 28.7,
+    "close": 28.8,
+    "volume": 2479907072,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 28.69,
+    "high": 28.69,
+    "low": 27.36,
+    "close": 28.11,
+    "volume": 3846956100,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 27.95,
+    "high": 29.35,
+    "low": 27.79,
+    "close": 28.25,
+    "volume": 3338583542,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 28.21,
+    "high": 28.47,
+    "low": 27.3,
+    "close": 27.49,
+    "volume": 1458711769,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 27.35,
+    "high": 27.38,
+    "low": 26.3,
+    "close": 26.44,
+    "volume": 1434598468,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 26.5,
+    "high": 26.78,
+    "low": 25.7,
+    "close": 25.91,
+    "volume": 2475657642,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 25.7,
+    "high": 26.4,
+    "low": 25,
+    "close": 25.26,
+    "volume": 1687052308,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 25.39,
+    "high": 25.79,
+    "low": 24.82,
+    "close": 25.62,
+    "volume": 1830282315,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 25.55,
+    "high": 26.12,
+    "low": 25,
+    "close": 25.15,
+    "volume": 1441349462,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 25.12,
+    "high": 25.49,
+    "low": 24.78,
+    "close": 25.25,
+    "volume": 1356946194,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 24,
+    "high": 24.9,
+    "low": 23.62,
+    "close": 24.14,
+    "volume": 1527512512,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 24,
+    "high": 26.1,
+    "low": 23.75,
+    "close": 24.8,
+    "volume": 4274280095,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 25.05,
+    "high": 25.2,
+    "low": 24.11,
+    "close": 24.38,
+    "volume": 1182655171,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 24.39,
+    "high": 24.53,
+    "low": 23.94,
+    "close": 24.02,
+    "volume": 689008690,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 23.56,
+    "high": 23.81,
+    "low": 23.01,
+    "close": 23.5,
+    "volume": 859829183,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 23.5,
+    "high": 24.6,
+    "low": 23.4,
+    "close": 24.33,
+    "volume": 1294125616,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 24.3,
+    "high": 25.04,
+    "low": 23.65,
+    "close": 23.84,
+    "volume": 1154599343,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 23.89,
+    "high": 24.05,
+    "low": 23.28,
+    "close": 23.71,
+    "volume": 1038133304,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 23.7,
+    "high": 23.9,
+    "low": 23,
+    "close": 23.06,
+    "volume": 756549235,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 23.18,
+    "high": 25.84,
+    "low": 22.25,
+    "close": 24.3,
+    "volume": 1883555725,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 24.09,
+    "high": 24.18,
+    "low": 23.4,
+    "close": 23.58,
+    "volume": 927223950,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 23.63,
+    "high": 25.12,
+    "low": 23.62,
+    "close": 24.75,
+    "volume": 2016296729,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 24.25,
+    "high": 24.46,
+    "low": 23.33,
+    "close": 23.55,
+    "volume": 919504720,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 24,
+    "high": 25.35,
+    "low": 23.46,
+    "close": 25.11,
+    "volume": 1237103576,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 24.47,
+    "high": 24.5,
+    "low": 23.12,
+    "close": 23.2,
+    "volume": 1149416753,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 24,
+    "high": 24,
+    "low": 23.1,
+    "close": 23.2,
+    "volume": 897589010,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 23.55,
+    "high": 24.49,
+    "low": 23.45,
+    "close": 23.8,
+    "volume": 1447650605,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 23.76,
+    "high": 25.22,
+    "low": 23.6,
+    "close": 24.05,
+    "volume": 2658824936,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 24.1,
+    "high": 24.12,
+    "low": 22.52,
+    "close": 22.62,
+    "volume": 1530174304,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 23.99,
+    "high": 26.36,
+    "low": 23.17,
+    "close": 25.95,
+    "volume": 6278838331,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 25.62,
+    "high": 28.62,
+    "low": 25.06,
+    "close": 28.24,
+    "volume": 12539545884,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 28.8,
+    "high": 30.4,
+    "low": 28.63,
+    "close": 28.73,
+    "volume": 10157461987,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 28.69,
+    "high": 29.79,
+    "low": 28.26,
+    "close": 28.65,
+    "volume": 3909107555,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 30,
+    "high": 31.72,
+    "low": 29.23,
+    "close": 30.5,
+    "volume": 7963146081,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 30.5,
+    "high": 36.32,
+    "low": 30.3,
+    "close": 36.32,
+    "volume": 26908759682,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 36.72,
+    "high": 41.88,
+    "low": 35.7,
+    "close": 40.4,
+    "volume": 40492043354,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 39.79,
+    "high": 39.79,
+    "low": 37.7,
+    "close": 38.07,
+    "volume": 14549204496,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 39.14,
+    "high": 40.66,
+    "low": 38.1,
+    "close": 38.15,
+    "volume": 11125643733,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 38.7,
+    "high": 39.56,
+    "low": 37.87,
+    "close": 38.7,
+    "volume": 8160634630,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 38.87,
+    "high": 42,
+    "low": 38.58,
+    "close": 40.85,
+    "volume": 14385575627,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 40.9,
+    "high": 41.6,
+    "low": 39,
+    "close": 39.31,
+    "volume": 5816609787,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 39.5,
+    "high": 39.75,
+    "low": 37.1,
+    "close": 37.68,
+    "volume": 5437323714,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 37.69,
+    "high": 38.83,
+    "low": 37.53,
+    "close": 38.44,
+    "volume": 4397562303,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 38.43,
+    "high": 38.89,
+    "low": 37.03,
+    "close": 37.38,
+    "volume": 2878405859,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 37.7,
+    "high": 38.17,
+    "low": 35.31,
+    "close": 35.96,
+    "volume": 3024912306,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 36.39,
+    "high": 37.58,
+    "low": 35.55,
+    "close": 36.8,
+    "volume": 2822609613,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 37,
+    "high": 37.08,
+    "low": 35.7,
+    "close": 35.95,
+    "volume": 2019883899,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 36.24,
+    "high": 37.18,
+    "low": 35.9,
+    "close": 36.3,
+    "volume": 2172725280,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 36.21,
+    "high": 36.95,
+    "low": 35.57,
+    "close": 36.55,
+    "volume": 2148350186,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 37.49,
+    "high": 37.81,
+    "low": 36.16,
+    "close": 36.67,
+    "volume": 2050167232,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 36.49,
+    "high": 36.71,
+    "low": 33.55,
+    "close": 34.64,
+    "volume": 2855848986,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 34.99,
+    "high": 35.19,
+    "low": 33.85,
+    "close": 34.9,
+    "volume": 1902204568,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 35.05,
+    "high": 35.58,
+    "low": 34.52,
+    "close": 35.18,
+    "volume": 1714966674,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 34.6,
+    "high": 36.64,
+    "low": 34.41,
+    "close": 36.01,
+    "volume": 3115412024,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 36.35,
+    "high": 37.73,
+    "low": 35.82,
+    "close": 37,
+    "volume": 4209432599,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 36.97,
+    "high": 37.34,
+    "low": 34.95,
+    "close": 35.2,
+    "volume": 1961818962,
+    "symbol": "OLAELEC"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 35.17,
+    "high": 36.19,
+    "low": 34.86,
+    "close": 36.16,
+    "volume": 1579262387,
+    "symbol": "OLAELEC"
+  }
+]

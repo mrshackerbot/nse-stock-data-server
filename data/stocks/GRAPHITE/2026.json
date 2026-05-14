@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 644,
+    "high": 663.3,
+    "low": 635.65,
+    "close": 648.6,
+    "volume": 2614778171,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 643,
+    "high": 665,
+    "low": 640.1,
+    "close": 658.4,
+    "volume": 1123446293,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 664,
+    "high": 670.65,
+    "low": 638.9,
+    "close": 658.1,
+    "volume": 796300182,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 659.95,
+    "high": 685,
+    "low": 653.3,
+    "close": 672.15,
+    "volume": 1952357014,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 672.55,
+    "high": 673.5,
+    "low": 660,
+    "close": 662,
+    "volume": 666067780,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 661.9,
+    "high": 664.85,
+    "low": 638.7,
+    "close": 646.5,
+    "volume": 474855777,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 640.05,
+    "high": 655,
+    "low": 625.65,
+    "close": 627,
+    "volume": 429979938,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 628,
+    "high": 630.45,
+    "low": 608.55,
+    "close": 620,
+    "volume": 518879097,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 620,
+    "high": 634.65,
+    "low": 587.4,
+    "close": 599.7,
+    "volume": 833808445,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 594,
+    "high": 649.1,
+    "low": 594,
+    "close": 632.2,
+    "volume": 2907737642,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 639,
+    "high": 659.75,
+    "low": 634.3,
+    "close": 637.75,
+    "volume": 1196979200,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 639.3,
+    "high": 653,
+    "low": 633.15,
+    "close": 644,
+    "volume": 629625283,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 642,
+    "high": 647.95,
+    "low": 615.65,
+    "close": 616.1,
+    "volume": 648255133,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 618.7,
+    "high": 640.15,
+    "low": 612,
+    "close": 621.8,
+    "volume": 802116317,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 629.9,
+    "high": 642,
+    "low": 623.05,
+    "close": 631.2,
+    "volume": 574579391,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 641,
+    "high": 648,
+    "low": 607,
+    "close": 612,
+    "volume": 450357059,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 611.45,
+    "high": 633.65,
+    "low": 602.1,
+    "close": 630.05,
+    "volume": 460437433,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 633.9,
+    "high": 665,
+    "low": 627.25,
+    "close": 662,
+    "volume": 1097533064,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 665,
+    "high": 677.9,
+    "low": 649.25,
+    "close": 666.45,
+    "volume": 1209170051,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 649,
+    "high": 654,
+    "low": 604.15,
+    "close": 609.9,
+    "volume": 1074098605,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 608.55,
+    "high": 612,
+    "low": 577,
+    "close": 591,
+    "volume": 603808531,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 597,
+    "high": 605,
+    "low": 574.75,
+    "close": 604,
+    "volume": 468327397,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 625,
+    "high": 633.4,
+    "low": 611.85,
+    "close": 624.95,
+    "volume": 468924812,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 629.95,
+    "high": 643.25,
+    "low": 622.15,
+    "close": 634,
+    "volume": 433296499,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 639,
+    "high": 639,
+    "low": 617.1,
+    "close": 622,
+    "volume": 319279068,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 620.05,
+    "high": 629.35,
+    "low": 608.7,
+    "close": 619.5,
+    "volume": 408275249,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 626.05,
+    "high": 654.85,
+    "low": 619.9,
+    "close": 638,
+    "volume": 2101989033,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 643.95,
+    "high": 673.85,
+    "low": 638.5,
+    "close": 665.5,
+    "volume": 1801321184,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 674,
+    "high": 678.55,
+    "low": 646.45,
+    "close": 666.2,
+    "volume": 822856020,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 667.9,
+    "high": 673.2,
+    "low": 656.85,
+    "close": 671.75,
+    "volume": 523052853,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 669,
+    "high": 678.45,
+    "low": 636.2,
+    "close": 642.4,
+    "volume": 744264254,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 641.1,
+    "high": 676.7,
+    "low": 631,
+    "close": 670.8,
+    "volume": 1049196568,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 672.4,
+    "high": 694,
+    "low": 663.1,
+    "close": 671.7,
+    "volume": 1629897289,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 672.95,
+    "high": 705,
+    "low": 671,
+    "close": 692,
+    "volume": 2845436456,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 697.95,
+    "high": 703.8,
+    "low": 679,
+    "close": 681,
+    "volume": 895383260,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 685,
+    "high": 696.5,
+    "low": 676.05,
+    "close": 687.5,
+    "volume": 689304827,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 697,
+    "high": 702.15,
+    "low": 678.4,
+    "close": 692,
+    "volume": 784383189,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 691.95,
+    "high": 702,
+    "low": 672.9,
+    "close": 683.1,
+    "volume": 755639240,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 688,
+    "high": 727,
+    "low": 687,
+    "close": 724,
+    "volume": 3658771476,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 725,
+    "high": 736.4,
+    "low": 719.4,
+    "close": 730,
+    "volume": 2181477855,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 728.7,
+    "high": 747,
+    "low": 713.35,
+    "close": 717,
+    "volume": 2105971440,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 685,
+    "high": 723.75,
+    "low": 681.9,
+    "close": 709,
+    "volume": 1315957780,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 695,
+    "high": 699.25,
+    "low": 664.5,
+    "close": 672,
+    "volume": 1067514718,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 681.7,
+    "high": 697,
+    "low": 674.8,
+    "close": 684.35,
+    "volume": 854017472,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 682.95,
+    "high": 693.45,
+    "low": 660.1,
+    "close": 668,
+    "volume": 653436481,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 662.9,
+    "high": 662.9,
+    "low": 623.5,
+    "close": 629.6,
+    "volume": 707430810,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 640.95,
+    "high": 646.8,
+    "low": 623.6,
+    "close": 634.55,
+    "volume": 443012762,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 636.05,
+    "high": 673.65,
+    "low": 633.6,
+    "close": 646,
+    "volume": 994601652,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 644.4,
+    "high": 662.65,
+    "low": 628,
+    "close": 648,
+    "volume": 662232012,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 640.7,
+    "high": 647,
+    "low": 613.1,
+    "close": 617.5,
+    "volume": 896857118,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 618.5,
+    "high": 618.5,
+    "low": 591.5,
+    "close": 614.85,
+    "volume": 608072543,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 616,
+    "high": 623.75,
+    "low": 609.15,
+    "close": 619.85,
+    "volume": 369737619,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 626.65,
+    "high": 632.85,
+    "low": 620.8,
+    "close": 624,
+    "volume": 284137894,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 618.2,
+    "high": 618.65,
+    "low": 597,
+    "close": 602.7,
+    "volume": 348924006,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 609.85,
+    "high": 627.65,
+    "low": 603.5,
+    "close": 607.75,
+    "volume": 459641352,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 599.95,
+    "high": 599.95,
+    "low": 558.05,
+    "close": 562.5,
+    "volume": 589233532,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 576,
+    "high": 580,
+    "low": 558.95,
+    "close": 572,
+    "volume": 446209865,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 579,
+    "high": 602,
+    "low": 575.45,
+    "close": 597.85,
+    "volume": 440133989,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 597.1,
+    "high": 659.85,
+    "low": 589.85,
+    "close": 630,
+    "volume": 10318407751,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 626.05,
+    "high": 659.45,
+    "low": 611.2,
+    "close": 620,
+    "volume": 1839738720,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 632.55,
+    "high": 656.85,
+    "low": 629.7,
+    "close": 644.9,
+    "volume": 938454879,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 635,
+    "high": 641.75,
+    "low": 618.35,
+    "close": 636,
+    "volume": 514540768,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 637.75,
+    "high": 644.8,
+    "low": 623.8,
+    "close": 640.4,
+    "volume": 748574436,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 637.6,
+    "high": 646.6,
+    "low": 625.9,
+    "close": 629,
+    "volume": 589268474,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 645.5,
+    "high": 658,
+    "low": 640.1,
+    "close": 643.5,
+    "volume": 787784968,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 645,
+    "high": 656.9,
+    "low": 635.1,
+    "close": 638.3,
+    "volume": 507197433,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 643.9,
+    "high": 649.8,
+    "low": 636,
+    "close": 640,
+    "volume": 390685769,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 629.95,
+    "high": 653.9,
+    "low": 618.75,
+    "close": 637.9,
+    "volume": 670097877,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 645.5,
+    "high": 669.7,
+    "low": 645.5,
+    "close": 666.5,
+    "volume": 1472431915,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 676,
+    "high": 685.4,
+    "low": 661,
+    "close": 684,
+    "volume": 2232253814,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 684.75,
+    "high": 691.75,
+    "low": 674.8,
+    "close": 678.35,
+    "volume": 923833245,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 680,
+    "high": 760,
+    "low": 674.25,
+    "close": 712,
+    "volume": 8396311975,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 715.45,
+    "high": 749.8,
+    "low": 711.2,
+    "close": 735,
+    "volume": 3494794732,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 735,
+    "high": 749.4,
+    "low": 732.25,
+    "close": 743,
+    "volume": 1217567158,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 736.55,
+    "high": 756,
+    "low": 732.05,
+    "close": 732.05,
+    "volume": 1743568441,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 739,
+    "high": 741.6,
+    "low": 717.05,
+    "close": 724.8,
+    "volume": 1044731297,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 728,
+    "high": 750,
+    "low": 728,
+    "close": 736.95,
+    "volume": 923257904,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 738.85,
+    "high": 757,
+    "low": 732.75,
+    "close": 737.5,
+    "volume": 1066895463,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 740,
+    "high": 751.45,
+    "low": 738.05,
+    "close": 741.9,
+    "volume": 754454508,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 730,
+    "high": 732.75,
+    "low": 695.7,
+    "close": 703.9,
+    "volume": 1443114851,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 710,
+    "high": 725,
+    "low": 692.15,
+    "close": 709.2,
+    "volume": 1027977462,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 709.1,
+    "high": 716.1,
+    "low": 701.15,
+    "close": 705,
+    "volume": 469273874,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 711,
+    "high": 727.2,
+    "low": 704.05,
+    "close": 719,
+    "volume": 836112935,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 719,
+    "high": 733.9,
+    "low": 714,
+    "close": 729,
+    "volume": 733845936,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 727.9,
+    "high": 764.7,
+    "low": 725.55,
+    "close": 752,
+    "volume": 2686936606,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 747.6,
+    "high": 750,
+    "low": 725,
+    "close": 730.8,
+    "volume": 864265910,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 729.95,
+    "high": 747.35,
+    "low": 712.05,
+    "close": 723.8,
+    "volume": 971440287,
+    "symbol": "GRAPHITE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 718,
+    "high": 755.9,
+    "low": 717,
+    "close": 752,
+    "volume": 1808427032,
+    "symbol": "GRAPHITE"
+  }
+]

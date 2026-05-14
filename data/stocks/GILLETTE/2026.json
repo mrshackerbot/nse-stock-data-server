@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 8378,
+    "high": 8389.5,
+    "low": 8117,
+    "close": 8200,
+    "volume": 170963262,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 8131.5,
+    "high": 8280,
+    "low": 8131.5,
+    "close": 8230,
+    "volume": 170554006,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 8250,
+    "high": 8267,
+    "low": 8152,
+    "close": 8183.5,
+    "volume": 144854882,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 8237.5,
+    "high": 8237.5,
+    "low": 8064,
+    "close": 8082,
+    "volume": 417237765,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 8065,
+    "high": 8180,
+    "low": 8045,
+    "close": 8098,
+    "volume": 105828406,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 8149,
+    "high": 8149,
+    "low": 7952.5,
+    "close": 7963.5,
+    "volume": 139817515,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 7981,
+    "high": 7982,
+    "low": 7824,
+    "close": 7900,
+    "volume": 131778361,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 7947,
+    "high": 7947,
+    "low": 7760,
+    "close": 7840.5,
+    "volume": 129892732,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 7841.5,
+    "high": 8112,
+    "low": 7841.5,
+    "close": 8060,
+    "volume": 247482069,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 8037,
+    "high": 8072,
+    "low": 7981,
+    "close": 8040,
+    "volume": 113703327,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 8040,
+    "high": 8108,
+    "low": 7940,
+    "close": 7990,
+    "volume": 83823618,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 7994,
+    "high": 8110,
+    "low": 7949.5,
+    "close": 8066,
+    "volume": 71551651,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 8066.5,
+    "high": 8067,
+    "low": 7829,
+    "close": 7905,
+    "volume": 163755838,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 7893,
+    "high": 8144.5,
+    "low": 7833,
+    "close": 8070,
+    "volume": 244942761,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 8090,
+    "high": 8100,
+    "low": 7940,
+    "close": 8028.5,
+    "volume": 382428547,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 8049.5,
+    "high": 8075.5,
+    "low": 7912,
+    "close": 7916,
+    "volume": 137878776,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 7951,
+    "high": 7972,
+    "low": 7810.5,
+    "close": 7917,
+    "volume": 111800573,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 7888,
+    "high": 7920.5,
+    "low": 7787,
+    "close": 7889,
+    "volume": 130577146,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 7838,
+    "high": 8380,
+    "low": 7785,
+    "close": 8266.5,
+    "volume": 1943001331,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 8408,
+    "high": 8825,
+    "low": 8310,
+    "close": 8780,
+    "volume": 1796243999,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 8750,
+    "high": 8850,
+    "low": 8604,
+    "close": 8668.5,
+    "volume": 207251578,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 8717,
+    "high": 8783,
+    "low": 8580,
+    "close": 8700,
+    "volume": 244276261,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 8874.5,
+    "high": 8925,
+    "low": 8630.5,
+    "close": 8838,
+    "volume": 435194822,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 8700,
+    "high": 8775,
+    "low": 8532,
+    "close": 8714,
+    "volume": 232430960,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 8699,
+    "high": 8712,
+    "low": 8590,
+    "close": 8590,
+    "volume": 69065756,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 8550,
+    "high": 8771,
+    "low": 8480.5,
+    "close": 8692,
+    "volume": 219882416,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 8717,
+    "high": 8820.5,
+    "low": 8655.5,
+    "close": 8727,
+    "volume": 221507374,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 8755,
+    "high": 8836,
+    "low": 8675,
+    "close": 8705,
+    "volume": 198249278,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 8828,
+    "high": 8887.5,
+    "low": 8683,
+    "close": 8753,
+    "volume": 195718496,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 8755,
+    "high": 8757,
+    "low": 8605,
+    "close": 8676,
+    "volume": 121658491,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 8668,
+    "high": 8671,
+    "low": 8510,
+    "close": 8515,
+    "volume": 107404643,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 8560,
+    "high": 8598.5,
+    "low": 8470,
+    "close": 8470,
+    "volume": 64739611,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 8455,
+    "high": 8688,
+    "low": 8440,
+    "close": 8675,
+    "volume": 133148455,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 8640,
+    "high": 8700.5,
+    "low": 8563.5,
+    "close": 8650,
+    "volume": 67751800,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 8640,
+    "high": 8661,
+    "low": 8483,
+    "close": 8484,
+    "volume": 91043962,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 8456.5,
+    "high": 8513,
+    "low": 8423.5,
+    "close": 8449,
+    "volume": 62239352,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 8483.5,
+    "high": 8693,
+    "low": 8469.5,
+    "close": 8614.5,
+    "volume": 148090191,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 8613.5,
+    "high": 8613.5,
+    "low": 8400,
+    "close": 8426,
+    "volume": 126419345,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 8457,
+    "high": 8505,
+    "low": 8385,
+    "close": 8415,
+    "volume": 80049060,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 8423.5,
+    "high": 8474.5,
+    "low": 8329.5,
+    "close": 8417,
+    "volume": 123169824,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 8407,
+    "high": 8447.5,
+    "low": 8287,
+    "close": 8318,
+    "volume": 130931374,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 8151,
+    "high": 8244,
+    "low": 8111,
+    "close": 8200,
+    "volume": 132031038,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 8100,
+    "high": 8207,
+    "low": 7948.5,
+    "close": 7970,
+    "volume": 182901780,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 8061,
+    "high": 8220,
+    "low": 7990,
+    "close": 8194.5,
+    "volume": 159599130,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 8179.5,
+    "high": 8225.5,
+    "low": 8066.5,
+    "close": 8095,
+    "volume": 112049349,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 8000,
+    "high": 8080,
+    "low": 7849.5,
+    "close": 8000,
+    "volume": 197266278,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 8054.5,
+    "high": 8199,
+    "low": 8054.5,
+    "close": 8139,
+    "volume": 114170468,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 8130,
+    "high": 8194.5,
+    "low": 7960,
+    "close": 7990,
+    "volume": 89648421,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 7979,
+    "high": 8015.5,
+    "low": 7840,
+    "close": 7999,
+    "volume": 111511019,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 7990,
+    "high": 8037,
+    "low": 7851,
+    "close": 8015,
+    "volume": 260951239,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 8000,
+    "high": 8000.5,
+    "low": 7851.5,
+    "close": 7891,
+    "volume": 135803794,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 8000,
+    "high": 8098.5,
+    "low": 7928,
+    "close": 7944,
+    "volume": 153196468,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 7979.5,
+    "high": 8135,
+    "low": 7888,
+    "close": 7900,
+    "volume": 211747881,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 7890.5,
+    "high": 8039.5,
+    "low": 7851,
+    "close": 7900,
+    "volume": 172749612,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 8019,
+    "high": 8165,
+    "low": 7956,
+    "close": 7976.5,
+    "volume": 306256930,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 7900,
+    "high": 7958,
+    "low": 7751,
+    "close": 7751,
+    "volume": 182997125,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 7978,
+    "high": 7978,
+    "low": 7685.5,
+    "close": 7730,
+    "volume": 296576324,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 7849,
+    "high": 7849,
+    "low": 7660.5,
+    "close": 7670,
+    "volume": 261966533,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 7682,
+    "high": 7682.5,
+    "low": 7450,
+    "close": 7455,
+    "volume": 301305313,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 7440.5,
+    "high": 7441,
+    "low": 7206,
+    "close": 7263.5,
+    "volume": 377521422,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 7459,
+    "high": 7636,
+    "low": 7395,
+    "close": 7596,
+    "volume": 175313042,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 7427,
+    "high": 7620,
+    "low": 7288.5,
+    "close": 7580,
+    "volume": 214734431,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 7643,
+    "high": 7693,
+    "low": 7471,
+    "close": 7499.5,
+    "volume": 202020787,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 7476,
+    "high": 7617,
+    "low": 7471.5,
+    "close": 7512,
+    "volume": 182505255,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 7798,
+    "high": 7798,
+    "low": 7642.5,
+    "close": 7699.5,
+    "volume": 221255107,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 7774.5,
+    "high": 7774.5,
+    "low": 7575,
+    "close": 7628,
+    "volume": 225517429,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 7676,
+    "high": 7740,
+    "low": 7640.5,
+    "close": 7680,
+    "volume": 261264965,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 7650,
+    "high": 7737,
+    "low": 7581,
+    "close": 7679.5,
+    "volume": 182429537,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 7800,
+    "high": 7885,
+    "low": 7725,
+    "close": 7850,
+    "volume": 371124199,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 7939,
+    "high": 7966,
+    "low": 7804,
+    "close": 7845,
+    "volume": 121487151,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 7918.5,
+    "high": 8020,
+    "low": 7830.5,
+    "close": 7941,
+    "volume": 284768503,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 8011,
+    "high": 8019.5,
+    "low": 7836,
+    "close": 7840,
+    "volume": 111390692,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 7885,
+    "high": 7990,
+    "low": 7855.5,
+    "close": 7976,
+    "volume": 190534816,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 7967,
+    "high": 8055,
+    "low": 7902,
+    "close": 7925.5,
+    "volume": 239199416,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 7940,
+    "high": 8130,
+    "low": 7910,
+    "close": 8083.5,
+    "volume": 407576409,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 8091,
+    "high": 8181,
+    "low": 8060.5,
+    "close": 8114,
+    "volume": 300491016,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 8200,
+    "high": 8277,
+    "low": 8118,
+    "close": 8180,
+    "volume": 106826362,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 8207,
+    "high": 8238,
+    "low": 8150,
+    "close": 8230,
+    "volume": 229493640,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 8237,
+    "high": 8272,
+    "low": 8043,
+    "close": 8055,
+    "volume": 299955792,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 8019.5,
+    "high": 8077.5,
+    "low": 7930,
+    "close": 7970.5,
+    "volume": 159719556,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 8030,
+    "high": 8114.5,
+    "low": 7941,
+    "close": 8008,
+    "volume": 97133310,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 7954,
+    "high": 8039,
+    "low": 7933,
+    "close": 7940,
+    "volume": 120712688,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 7975,
+    "high": 8031.5,
+    "low": 7888,
+    "close": 7900,
+    "volume": 188193662,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 7951,
+    "high": 7989,
+    "low": 7885,
+    "close": 7950,
+    "volume": 318431233,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 7999,
+    "high": 8195,
+    "low": 7942.5,
+    "close": 8187,
+    "volume": 478493265,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 8148,
+    "high": 8148,
+    "low": 7930,
+    "close": 7935,
+    "volume": 254253159,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 7920.5,
+    "high": 7984.5,
+    "low": 7852,
+    "close": 7852.5,
+    "volume": 346733453,
+    "symbol": "GILLETTE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 7882.5,
+    "high": 7938,
+    "low": 7810.5,
+    "close": 7900,
+    "volume": 357615714,
+    "symbol": "GILLETTE"
+  }
+]

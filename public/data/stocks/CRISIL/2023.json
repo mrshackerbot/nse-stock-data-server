@@ -1,0 +1,2216 @@
+[
+  {
+    "date": "02-Jan-2023",
+    "open": 3034,
+    "high": 3049,
+    "low": 2975.1,
+    "close": 2988,
+    "volume": 85853083,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Jan-2023",
+    "open": 2987,
+    "high": 3010,
+    "low": 2941,
+    "close": 2950,
+    "volume": 72494081,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "04-Jan-2023",
+    "open": 2951.65,
+    "high": 2975,
+    "low": 2892,
+    "close": 2975,
+    "volume": 80394064,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-Jan-2023",
+    "open": 2950.4,
+    "high": 2979.85,
+    "low": 2930,
+    "close": 2944,
+    "volume": 30243043,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Jan-2023",
+    "open": 2947.9,
+    "high": 2960,
+    "low": 2910.05,
+    "close": 2950,
+    "volume": 22081528,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-Jan-2023",
+    "open": 2955,
+    "high": 2979.4,
+    "low": 2922,
+    "close": 2955,
+    "volume": 56422012,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Jan-2023",
+    "open": 2955,
+    "high": 3035.5,
+    "low": 2935.05,
+    "close": 3029,
+    "volume": 97278638,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-Jan-2023",
+    "open": 3022,
+    "high": 3051,
+    "low": 2988.85,
+    "close": 3016.1,
+    "volume": 50366452,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Jan-2023",
+    "open": 3025,
+    "high": 3073.1,
+    "low": 3012.25,
+    "close": 3018.2,
+    "volume": 93473100,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Jan-2023",
+    "open": 3035.15,
+    "high": 3050,
+    "low": 3010,
+    "close": 3020,
+    "volume": 18490871,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-Jan-2023",
+    "open": 3033.9,
+    "high": 3069.95,
+    "low": 3024,
+    "close": 3027,
+    "volume": 27387157,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Jan-2023",
+    "open": 3030.5,
+    "high": 3036.85,
+    "low": 2998,
+    "close": 3017,
+    "volume": 24726115,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-Jan-2023",
+    "open": 3023.05,
+    "high": 3023.05,
+    "low": 2950.1,
+    "close": 3004.55,
+    "volume": 36250320,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "19-Jan-2023",
+    "open": 2995,
+    "high": 3021.95,
+    "low": 2980,
+    "close": 2986,
+    "volume": 16702754,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Jan-2023",
+    "open": 3001.25,
+    "high": 3019.8,
+    "low": 2980,
+    "close": 3002,
+    "volume": 19728486,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-Jan-2023",
+    "open": 2991,
+    "high": 2998,
+    "low": 2961.1,
+    "close": 2988,
+    "volume": 22906723,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-Jan-2023",
+    "open": 2990.75,
+    "high": 3009.95,
+    "low": 2966.35,
+    "close": 2982,
+    "volume": 14000561,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "25-Jan-2023",
+    "open": 2991.55,
+    "high": 2991.55,
+    "low": 2951,
+    "close": 2965,
+    "volume": 31734879,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Jan-2023",
+    "open": 2973.45,
+    "high": 3091.4,
+    "low": 2973.45,
+    "close": 3044.8,
+    "volume": 197693973,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "30-Jan-2023",
+    "open": 3020,
+    "high": 3089.9,
+    "low": 2988.15,
+    "close": 3040.1,
+    "volume": 53312008,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "31-Jan-2023",
+    "open": 3046.25,
+    "high": 3170,
+    "low": 3016.05,
+    "close": 3145,
+    "volume": 136676761,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "01-Feb-2023",
+    "open": 3147,
+    "high": 3160,
+    "low": 3055.05,
+    "close": 3087.8,
+    "volume": 69826111,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "02-Feb-2023",
+    "open": 3088,
+    "high": 3128.85,
+    "low": 3054,
+    "close": 3110,
+    "volume": 55148467,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Feb-2023",
+    "open": 3130,
+    "high": 3137,
+    "low": 3081.65,
+    "close": 3127,
+    "volume": 55914681,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Feb-2023",
+    "open": 3135,
+    "high": 3168.4,
+    "low": 3120,
+    "close": 3124,
+    "volume": 48491427,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "07-Feb-2023",
+    "open": 3148.1,
+    "high": 3200,
+    "low": 3116.75,
+    "close": 3180,
+    "volume": 57115889,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-Feb-2023",
+    "open": 3190,
+    "high": 3195,
+    "low": 3109.6,
+    "close": 3146,
+    "volume": 75616876,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-Feb-2023",
+    "open": 3168.95,
+    "high": 3175.2,
+    "low": 3124.55,
+    "close": 3135.05,
+    "volume": 53082156,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Feb-2023",
+    "open": 3144.9,
+    "high": 3222,
+    "low": 3131.25,
+    "close": 3170,
+    "volume": 139286748,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Feb-2023",
+    "open": 3175,
+    "high": 3245,
+    "low": 3145,
+    "close": 3145,
+    "volume": 145409286,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "14-Feb-2023",
+    "open": 3154.8,
+    "high": 3165.55,
+    "low": 3116.75,
+    "close": 3119,
+    "volume": 35578059,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "15-Feb-2023",
+    "open": 3129.4,
+    "high": 3160,
+    "low": 3120.65,
+    "close": 3156.5,
+    "volume": 35569487,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-Feb-2023",
+    "open": 3150,
+    "high": 3172.1,
+    "low": 3117,
+    "close": 3145,
+    "volume": 64372476,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Feb-2023",
+    "open": 3150,
+    "high": 3217.9,
+    "low": 3100.05,
+    "close": 3130,
+    "volume": 121668049,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Feb-2023",
+    "open": 3170,
+    "high": 3240,
+    "low": 3157.7,
+    "close": 3224,
+    "volume": 173094597,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Feb-2023",
+    "open": 3243,
+    "high": 3295,
+    "low": 3231,
+    "close": 3260,
+    "volume": 146859006,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-Feb-2023",
+    "open": 3280,
+    "high": 3280,
+    "low": 3168.85,
+    "close": 3173.6,
+    "volume": 47609563,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-Feb-2023",
+    "open": 3193.35,
+    "high": 3222.05,
+    "low": 3145,
+    "close": 3202,
+    "volume": 43741543,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-Feb-2023",
+    "open": 3208,
+    "high": 3227,
+    "low": 3180,
+    "close": 3227,
+    "volume": 31968431,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Feb-2023",
+    "open": 3218.25,
+    "high": 3360.4,
+    "low": 3150,
+    "close": 3309,
+    "volume": 171816643,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Feb-2023",
+    "open": 3341.65,
+    "high": 3480,
+    "low": 3288,
+    "close": 3423,
+    "volume": 242000732,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "01-Mar-2023",
+    "open": 3400,
+    "high": 3448.9,
+    "low": 3388.1,
+    "close": 3430.05,
+    "volume": 110543532,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "02-Mar-2023",
+    "open": 3430.05,
+    "high": 3495.55,
+    "low": 3406.05,
+    "close": 3480,
+    "volume": 146434220,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Mar-2023",
+    "open": 3482.85,
+    "high": 3496,
+    "low": 3371,
+    "close": 3381.8,
+    "volume": 107964681,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Mar-2023",
+    "open": 3395.85,
+    "high": 3430,
+    "low": 3303,
+    "close": 3315,
+    "volume": 96202945,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-Mar-2023",
+    "open": 3329,
+    "high": 3414.95,
+    "low": 3303.8,
+    "close": 3339,
+    "volume": 87627173,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-Mar-2023",
+    "open": 3385.75,
+    "high": 3385.75,
+    "low": 3306.7,
+    "close": 3330,
+    "volume": 46897195,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Mar-2023",
+    "open": 3328.7,
+    "high": 3381.65,
+    "low": 3279.25,
+    "close": 3315,
+    "volume": 61249752,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Mar-2023",
+    "open": 3365,
+    "high": 3365,
+    "low": 3236.85,
+    "close": 3254.25,
+    "volume": 50858098,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "14-Mar-2023",
+    "open": 3293.95,
+    "high": 3293.95,
+    "low": 3186,
+    "close": 3250,
+    "volume": 60647340,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "15-Mar-2023",
+    "open": 3250,
+    "high": 3278.55,
+    "low": 3190,
+    "close": 3190.05,
+    "volume": 65450416,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-Mar-2023",
+    "open": 3207.25,
+    "high": 3263,
+    "low": 3070,
+    "close": 3085,
+    "volume": 96105167,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Mar-2023",
+    "open": 3105,
+    "high": 3128.6,
+    "low": 2971.5,
+    "close": 2988.9,
+    "volume": 90746542,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Mar-2023",
+    "open": 2992,
+    "high": 3075,
+    "low": 2984.55,
+    "close": 3075,
+    "volume": 114912392,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Mar-2023",
+    "open": 3075,
+    "high": 3129.85,
+    "low": 3032.85,
+    "close": 3090,
+    "volume": 92703582,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-Mar-2023",
+    "open": 3110,
+    "high": 3135,
+    "low": 3078.05,
+    "close": 3100,
+    "volume": 38729802,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-Mar-2023",
+    "open": 3087.25,
+    "high": 3145.9,
+    "low": 3081.65,
+    "close": 3120,
+    "volume": 32397330,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-Mar-2023",
+    "open": 3120,
+    "high": 3129,
+    "low": 3025.7,
+    "close": 3052,
+    "volume": 51651028,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Mar-2023",
+    "open": 3047,
+    "high": 3115,
+    "low": 3019.3,
+    "close": 3080,
+    "volume": 65058138,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Mar-2023",
+    "open": 3088.3,
+    "high": 3120,
+    "low": 3065,
+    "close": 3117.95,
+    "volume": 44747819,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "29-Mar-2023",
+    "open": 3124,
+    "high": 3310,
+    "low": 3102.05,
+    "close": 3200.1,
+    "volume": 126355594,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "31-Mar-2023",
+    "open": 3175,
+    "high": 3264.55,
+    "low": 3175,
+    "close": 3215,
+    "volume": 138268730,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Apr-2023",
+    "open": 3238.6,
+    "high": 3238.6,
+    "low": 3202.75,
+    "close": 3210.1,
+    "volume": 29907592,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-Apr-2023",
+    "open": 3237,
+    "high": 3298.95,
+    "low": 3208.55,
+    "close": 3250.05,
+    "volume": 46303832,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Apr-2023",
+    "open": 3290,
+    "high": 3347.95,
+    "low": 3255.35,
+    "close": 3300,
+    "volume": 49524924,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Apr-2023",
+    "open": 3362.95,
+    "high": 3418,
+    "low": 3307.5,
+    "close": 3400,
+    "volume": 213945957,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-Apr-2023",
+    "open": 3381,
+    "high": 3461,
+    "low": 3366.1,
+    "close": 3450,
+    "volume": 197108299,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Apr-2023",
+    "open": 3418,
+    "high": 3482.35,
+    "low": 3410.15,
+    "close": 3474,
+    "volume": 182220687,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Apr-2023",
+    "open": 3485,
+    "high": 3521.55,
+    "low": 3446.45,
+    "close": 3500,
+    "volume": 75943837,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Apr-2023",
+    "open": 3500.85,
+    "high": 3592.9,
+    "low": 3469,
+    "close": 3525,
+    "volume": 612366529,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-Apr-2023",
+    "open": 3530.9,
+    "high": 3581.1,
+    "low": 3350,
+    "close": 3370.05,
+    "volume": 366651714,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "19-Apr-2023",
+    "open": 3401.95,
+    "high": 3439.7,
+    "low": 3315.05,
+    "close": 3337,
+    "volume": 203960304,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Apr-2023",
+    "open": 3355.05,
+    "high": 3360.45,
+    "low": 3301,
+    "close": 3303.75,
+    "volume": 45867614,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Apr-2023",
+    "open": 3335.05,
+    "high": 3347.95,
+    "low": 3241.1,
+    "close": 3261.1,
+    "volume": 110211185,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-Apr-2023",
+    "open": 3300,
+    "high": 3384.8,
+    "low": 3280.95,
+    "close": 3384.8,
+    "volume": 266829386,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "25-Apr-2023",
+    "open": 3365,
+    "high": 3410.5,
+    "low": 3340,
+    "close": 3410.5,
+    "volume": 61677986,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "26-Apr-2023",
+    "open": 3385,
+    "high": 3484,
+    "low": 3385,
+    "close": 3477,
+    "volume": 110105807,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Apr-2023",
+    "open": 3471.55,
+    "high": 3609,
+    "low": 3431.75,
+    "close": 3568.1,
+    "volume": 252624197,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Apr-2023",
+    "open": 3560,
+    "high": 3627.95,
+    "low": 3361.6,
+    "close": 3600,
+    "volume": 254091612,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "02-May-2023",
+    "open": 3599,
+    "high": 3602.35,
+    "low": 3494.5,
+    "close": 3550,
+    "volume": 159269330,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-May-2023",
+    "open": 3520.65,
+    "high": 3640,
+    "low": 3492.05,
+    "close": 3624.9,
+    "volume": 237268568,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "04-May-2023",
+    "open": 3622.9,
+    "high": 3622.9,
+    "low": 3579,
+    "close": 3591.2,
+    "volume": 109904938,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-May-2023",
+    "open": 3580,
+    "high": 3580.05,
+    "low": 3480.1,
+    "close": 3509.45,
+    "volume": 53183046,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-May-2023",
+    "open": 3530,
+    "high": 3544.95,
+    "low": 3464.05,
+    "close": 3502,
+    "volume": 74242084,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-May-2023",
+    "open": 3497,
+    "high": 3537,
+    "low": 3470,
+    "close": 3470,
+    "volume": 75747670,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-May-2023",
+    "open": 3494.5,
+    "high": 3534.9,
+    "low": 3470.15,
+    "close": 3520,
+    "volume": 130072051,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-May-2023",
+    "open": 3502.05,
+    "high": 3560,
+    "low": 3499,
+    "close": 3546,
+    "volume": 77417511,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-May-2023",
+    "open": 3550,
+    "high": 3615,
+    "low": 3536.15,
+    "close": 3582,
+    "volume": 134220632,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "15-May-2023",
+    "open": 3574.8,
+    "high": 3624,
+    "low": 3557.65,
+    "close": 3595,
+    "volume": 82246775,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-May-2023",
+    "open": 3579,
+    "high": 3610,
+    "low": 3525,
+    "close": 3538,
+    "volume": 53191707,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-May-2023",
+    "open": 3537.25,
+    "high": 3600,
+    "low": 3510,
+    "close": 3570,
+    "volume": 45532633,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-May-2023",
+    "open": 3574.05,
+    "high": 3620,
+    "low": 3556.4,
+    "close": 3571.5,
+    "volume": 30455786,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "19-May-2023",
+    "open": 3551,
+    "high": 3565,
+    "low": 3501.75,
+    "close": 3564.95,
+    "volume": 29440744,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-May-2023",
+    "open": 3540,
+    "high": 3690,
+    "low": 3535.05,
+    "close": 3586,
+    "volume": 165169875,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-May-2023",
+    "open": 3586,
+    "high": 3600,
+    "low": 3550.9,
+    "close": 3565,
+    "volume": 32180966,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-May-2023",
+    "open": 3550,
+    "high": 3605.5,
+    "low": 3550,
+    "close": 3571,
+    "volume": 41471505,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "25-May-2023",
+    "open": 3599.95,
+    "high": 3599.95,
+    "low": 3559,
+    "close": 3585,
+    "volume": 25878871,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "26-May-2023",
+    "open": 3601.7,
+    "high": 3720,
+    "low": 3583.75,
+    "close": 3686.15,
+    "volume": 172839434,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "29-May-2023",
+    "open": 3708.7,
+    "high": 3768,
+    "low": 3690,
+    "close": 3722.15,
+    "volume": 88680301,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "30-May-2023",
+    "open": 3684.7,
+    "high": 3730,
+    "low": 3675,
+    "close": 3690,
+    "volume": 94438375,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "31-May-2023",
+    "open": 3703.2,
+    "high": 3850,
+    "low": 3698.9,
+    "close": 3839.35,
+    "volume": 347038811,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "01-Jun-2023",
+    "open": 3790.95,
+    "high": 3875.95,
+    "low": 3770,
+    "close": 3820,
+    "volume": 84412792,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "02-Jun-2023",
+    "open": 3845.9,
+    "high": 3900,
+    "low": 3755,
+    "close": 3768,
+    "volume": 90487271,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-Jun-2023",
+    "open": 3804,
+    "high": 3850,
+    "low": 3760.45,
+    "close": 3782.5,
+    "volume": 75777814,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Jun-2023",
+    "open": 3783.7,
+    "high": 3875,
+    "low": 3751.6,
+    "close": 3755,
+    "volume": 71071596,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "07-Jun-2023",
+    "open": 3768.35,
+    "high": 4000,
+    "low": 3765,
+    "close": 3977.2,
+    "volume": 654760480,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-Jun-2023",
+    "open": 3993.2,
+    "high": 3993.2,
+    "low": 3840,
+    "close": 3898,
+    "volume": 138509161,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-Jun-2023",
+    "open": 3873,
+    "high": 3985,
+    "low": 3873,
+    "close": 3931.95,
+    "volume": 152249796,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Jun-2023",
+    "open": 3949.5,
+    "high": 4027.6,
+    "low": 3880,
+    "close": 4005,
+    "volume": 195510469,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Jun-2023",
+    "open": 4009.8,
+    "high": 4009.8,
+    "low": 3921.05,
+    "close": 3936,
+    "volume": 101523919,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "14-Jun-2023",
+    "open": 3940,
+    "high": 3964.5,
+    "low": 3880.45,
+    "close": 3952,
+    "volume": 73619759,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "15-Jun-2023",
+    "open": 3966.8,
+    "high": 3967.45,
+    "low": 3891.15,
+    "close": 3908,
+    "volume": 35239336,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-Jun-2023",
+    "open": 3925.85,
+    "high": 3925.85,
+    "low": 3861,
+    "close": 3861,
+    "volume": 66144920,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "19-Jun-2023",
+    "open": 3881,
+    "high": 3981.85,
+    "low": 3825,
+    "close": 3895,
+    "volume": 132611032,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Jun-2023",
+    "open": 3920.25,
+    "high": 3979.85,
+    "low": 3891.4,
+    "close": 3950,
+    "volume": 73091494,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Jun-2023",
+    "open": 3975,
+    "high": 3979,
+    "low": 3900,
+    "close": 3906,
+    "volume": 69763091,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-Jun-2023",
+    "open": 3926.2,
+    "high": 3942.65,
+    "low": 3806.5,
+    "close": 3812,
+    "volume": 62150635,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-Jun-2023",
+    "open": 3810.05,
+    "high": 3817.15,
+    "low": 3769,
+    "close": 3770.25,
+    "volume": 28292494,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "26-Jun-2023",
+    "open": 3771,
+    "high": 3916.9,
+    "low": 3705.65,
+    "close": 3908,
+    "volume": 146775328,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Jun-2023",
+    "open": 3897.9,
+    "high": 3914,
+    "low": 3851.2,
+    "close": 3900,
+    "volume": 31256790,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Jun-2023",
+    "open": 3874.95,
+    "high": 3885,
+    "low": 3806.25,
+    "close": 3831,
+    "volume": 92144493,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "30-Jun-2023",
+    "open": 3846,
+    "high": 3925,
+    "low": 3832.15,
+    "close": 3900,
+    "volume": 96840202,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Jul-2023",
+    "open": 3911.55,
+    "high": 3922.5,
+    "low": 3852,
+    "close": 3868.95,
+    "volume": 41913436,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "04-Jul-2023",
+    "open": 3872.05,
+    "high": 3903.85,
+    "low": 3868.55,
+    "close": 3895,
+    "volume": 43066370,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-Jul-2023",
+    "open": 3917.4,
+    "high": 3984.95,
+    "low": 3870.05,
+    "close": 3907.85,
+    "volume": 109395430,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Jul-2023",
+    "open": 3900,
+    "high": 3937.25,
+    "low": 3850,
+    "close": 3865,
+    "volume": 57812494,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "07-Jul-2023",
+    "open": 3867,
+    "high": 3878.65,
+    "low": 3810,
+    "close": 3811,
+    "volume": 41865095,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Jul-2023",
+    "open": 3843.3,
+    "high": 3911,
+    "low": 3787.05,
+    "close": 3818,
+    "volume": 340740216,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-Jul-2023",
+    "open": 3831,
+    "high": 3855.6,
+    "low": 3802,
+    "close": 3808.75,
+    "volume": 32996608,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Jul-2023",
+    "open": 3830,
+    "high": 3867.75,
+    "low": 3772,
+    "close": 3812.5,
+    "volume": 58447937,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Jul-2023",
+    "open": 3850,
+    "high": 3870,
+    "low": 3817,
+    "close": 3850,
+    "volume": 65803268,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "14-Jul-2023",
+    "open": 3869,
+    "high": 3910.75,
+    "low": 3821.55,
+    "close": 3838.6,
+    "volume": 62990247,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Jul-2023",
+    "open": 3850,
+    "high": 3919,
+    "low": 3850,
+    "close": 3889.2,
+    "volume": 82332331,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-Jul-2023",
+    "open": 3890,
+    "high": 3936,
+    "low": 3866.75,
+    "close": 3900,
+    "volume": 76640988,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "19-Jul-2023",
+    "open": 3940,
+    "high": 3983,
+    "low": 3851.5,
+    "close": 3851.5,
+    "volume": 183371322,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Jul-2023",
+    "open": 3939.95,
+    "high": 3952.45,
+    "low": 3892,
+    "close": 3896,
+    "volume": 75899707,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Jul-2023",
+    "open": 3871,
+    "high": 3930,
+    "low": 3871,
+    "close": 3894.6,
+    "volume": 37165675,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-Jul-2023",
+    "open": 3918.95,
+    "high": 3918.95,
+    "low": 3802,
+    "close": 3820,
+    "volume": 51448589,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "25-Jul-2023",
+    "open": 3849,
+    "high": 3849,
+    "low": 3781,
+    "close": 3781,
+    "volume": 40415866,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "26-Jul-2023",
+    "open": 3799.05,
+    "high": 3869.4,
+    "low": 3799.05,
+    "close": 3827.65,
+    "volume": 24287207,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Jul-2023",
+    "open": 3824,
+    "high": 3884,
+    "low": 3824,
+    "close": 3868,
+    "volume": 64617984,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Jul-2023",
+    "open": 3875,
+    "high": 3882.35,
+    "low": 3832,
+    "close": 3832.2,
+    "volume": 51439703,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "31-Jul-2023",
+    "open": 3863,
+    "high": 3942,
+    "low": 3831.95,
+    "close": 3910.05,
+    "volume": 121949938,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "01-Aug-2023",
+    "open": 3936.1,
+    "high": 3959.85,
+    "low": 3872,
+    "close": 3872.25,
+    "volume": 47989636,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "02-Aug-2023",
+    "open": 3900,
+    "high": 3911.95,
+    "low": 3851.3,
+    "close": 3875,
+    "volume": 68144284,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Aug-2023",
+    "open": 3851,
+    "high": 3872,
+    "low": 3800,
+    "close": 3820,
+    "volume": 42758404,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "04-Aug-2023",
+    "open": 3849.65,
+    "high": 3871.6,
+    "low": 3800,
+    "close": 3818.55,
+    "volume": 35445655,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "07-Aug-2023",
+    "open": 3833.9,
+    "high": 3870,
+    "low": 3777,
+    "close": 3860,
+    "volume": 67607563,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-Aug-2023",
+    "open": 3858.7,
+    "high": 3884,
+    "low": 3830,
+    "close": 3850,
+    "volume": 47212143,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-Aug-2023",
+    "open": 3845.05,
+    "high": 3890,
+    "low": 3810.2,
+    "close": 3850,
+    "volume": 36254264,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Aug-2023",
+    "open": 3847.85,
+    "high": 3919,
+    "low": 3832.1,
+    "close": 3885,
+    "volume": 121783167,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-Aug-2023",
+    "open": 3900.1,
+    "high": 4040,
+    "low": 3875,
+    "close": 3914.45,
+    "volume": 493996960,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "14-Aug-2023",
+    "open": 3944,
+    "high": 3944,
+    "low": 3716.05,
+    "close": 3816,
+    "volume": 151255358,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-Aug-2023",
+    "open": 3780,
+    "high": 3909.9,
+    "low": 3780,
+    "close": 3886.5,
+    "volume": 66102184,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Aug-2023",
+    "open": 3887.05,
+    "high": 3899.9,
+    "low": 3857.75,
+    "close": 3869.05,
+    "volume": 31316137,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-Aug-2023",
+    "open": 3875.4,
+    "high": 3890.75,
+    "low": 3805,
+    "close": 3816,
+    "volume": 46985953,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Aug-2023",
+    "open": 3835.8,
+    "high": 3997.95,
+    "low": 3814.55,
+    "close": 3941.5,
+    "volume": 250420933,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-Aug-2023",
+    "open": 3955.9,
+    "high": 4064.95,
+    "low": 3920.15,
+    "close": 4015.1,
+    "volume": 188558392,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-Aug-2023",
+    "open": 4050,
+    "high": 4075,
+    "low": 4000,
+    "close": 4027.25,
+    "volume": 77384572,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-Aug-2023",
+    "open": 4049.35,
+    "high": 4069.9,
+    "low": 3950,
+    "close": 3993.05,
+    "volume": 52203806,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "25-Aug-2023",
+    "open": 4004.2,
+    "high": 4004.2,
+    "low": 3904.2,
+    "close": 3928,
+    "volume": 73026325,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Aug-2023",
+    "open": 3948.75,
+    "high": 3948.75,
+    "low": 3856,
+    "close": 3880,
+    "volume": 45542444,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "29-Aug-2023",
+    "open": 3904,
+    "high": 3904,
+    "low": 3844,
+    "close": 3880,
+    "volume": 43290635,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "30-Aug-2023",
+    "open": 3895.55,
+    "high": 3945.3,
+    "low": 3831.4,
+    "close": 3924.8,
+    "volume": 77738931,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "31-Aug-2023",
+    "open": 3917.6,
+    "high": 3998.7,
+    "low": 3874,
+    "close": 3975,
+    "volume": 131549973,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "01-Sep-2023",
+    "open": 3970.95,
+    "high": 3973,
+    "low": 3895,
+    "close": 3925,
+    "volume": 112090268,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "04-Sep-2023",
+    "open": 3953.25,
+    "high": 3972,
+    "low": 3876.35,
+    "close": 3876.35,
+    "volume": 89457034,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-Sep-2023",
+    "open": 3900,
+    "high": 3930,
+    "low": 3825.25,
+    "close": 3852,
+    "volume": 269616948,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Sep-2023",
+    "open": 3875.8,
+    "high": 3875.8,
+    "low": 3828,
+    "close": 3833.1,
+    "volume": 39598624,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "07-Sep-2023",
+    "open": 3853,
+    "high": 3932.65,
+    "low": 3808.1,
+    "close": 3863,
+    "volume": 159347874,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-Sep-2023",
+    "open": 3889,
+    "high": 3909,
+    "low": 3836.25,
+    "close": 3892,
+    "volume": 73197946,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-Sep-2023",
+    "open": 3920,
+    "high": 3939.85,
+    "low": 3854.4,
+    "close": 3920,
+    "volume": 126102734,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Sep-2023",
+    "open": 3940,
+    "high": 3940,
+    "low": 3821.5,
+    "close": 3864.7,
+    "volume": 463626172,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Sep-2023",
+    "open": 3876.3,
+    "high": 3923.85,
+    "low": 3806.8,
+    "close": 3830,
+    "volume": 54610956,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "14-Sep-2023",
+    "open": 3850.05,
+    "high": 3888,
+    "low": 3850.05,
+    "close": 3872,
+    "volume": 28679358,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "15-Sep-2023",
+    "open": 3880,
+    "high": 3909.55,
+    "low": 3856.05,
+    "close": 3865,
+    "volume": 63220558,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-Sep-2023",
+    "open": 3869.95,
+    "high": 3875.1,
+    "low": 3837,
+    "close": 3855,
+    "volume": 26915002,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Sep-2023",
+    "open": 3869.8,
+    "high": 3869.8,
+    "low": 3822,
+    "close": 3835,
+    "volume": 24051755,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Sep-2023",
+    "open": 3825,
+    "high": 3865,
+    "low": 3809.45,
+    "close": 3830,
+    "volume": 54391063,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-Sep-2023",
+    "open": 3853.05,
+    "high": 3887.8,
+    "low": 3825.25,
+    "close": 3845,
+    "volume": 113377683,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "25-Sep-2023",
+    "open": 3855,
+    "high": 3899.8,
+    "low": 3831.65,
+    "close": 3890,
+    "volume": 29855331,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "26-Sep-2023",
+    "open": 3890.05,
+    "high": 3928,
+    "low": 3849.45,
+    "close": 3874.65,
+    "volume": 166468407,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Sep-2023",
+    "open": 3873.65,
+    "high": 3874.9,
+    "low": 3833.7,
+    "close": 3864,
+    "volume": 38438419,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Sep-2023",
+    "open": 3860,
+    "high": 3919,
+    "low": 3837.9,
+    "close": 3897.95,
+    "volume": 160251379,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "29-Sep-2023",
+    "open": 3900,
+    "high": 3960,
+    "low": 3852.65,
+    "close": 3920,
+    "volume": 117046233,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Oct-2023",
+    "open": 3920,
+    "high": 3929.2,
+    "low": 3885.2,
+    "close": 3885.2,
+    "volume": 221763646,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "04-Oct-2023",
+    "open": 3882.8,
+    "high": 3905.5,
+    "low": 3849,
+    "close": 3855.05,
+    "volume": 320013979,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-Oct-2023",
+    "open": 3871.15,
+    "high": 3879.8,
+    "low": 3845,
+    "close": 3861.4,
+    "volume": 107039221,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Oct-2023",
+    "open": 3875,
+    "high": 3875,
+    "low": 3835.5,
+    "close": 3840.05,
+    "volume": 26823070,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-Oct-2023",
+    "open": 3845,
+    "high": 3972.05,
+    "low": 3815,
+    "close": 3917.65,
+    "volume": 745668683,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Oct-2023",
+    "open": 3900.05,
+    "high": 4143.9,
+    "low": 3900,
+    "close": 4098,
+    "volume": 598734765,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-Oct-2023",
+    "open": 4102.95,
+    "high": 4144,
+    "low": 3950,
+    "close": 3985,
+    "volume": 199353331,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Oct-2023",
+    "open": 3998,
+    "high": 4048,
+    "low": 3931,
+    "close": 4000,
+    "volume": 156332824,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Oct-2023",
+    "open": 3999.95,
+    "high": 4000,
+    "low": 3866,
+    "close": 3881,
+    "volume": 311622838,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-Oct-2023",
+    "open": 3917.4,
+    "high": 3939,
+    "low": 3870,
+    "close": 3876,
+    "volume": 445843731,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Oct-2023",
+    "open": 3895.5,
+    "high": 3939.8,
+    "low": 3840,
+    "close": 3868,
+    "volume": 117971021,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-Oct-2023",
+    "open": 3855,
+    "high": 4084,
+    "low": 3847.2,
+    "close": 4084,
+    "volume": 430135191,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "19-Oct-2023",
+    "open": 4053,
+    "high": 4200,
+    "low": 4015.4,
+    "close": 4173.15,
+    "volume": 755558615,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Oct-2023",
+    "open": 4148.8,
+    "high": 4284.3,
+    "low": 4142,
+    "close": 4197,
+    "volume": 319912343,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-Oct-2023",
+    "open": 4199.7,
+    "high": 4265.65,
+    "low": 3915.6,
+    "close": 4047,
+    "volume": 181627495,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "25-Oct-2023",
+    "open": 4025.1,
+    "high": 4045.05,
+    "low": 3907,
+    "close": 3930,
+    "volume": 124754101,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "26-Oct-2023",
+    "open": 3900,
+    "high": 3964.7,
+    "low": 3820,
+    "close": 3855,
+    "volume": 159393276,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Oct-2023",
+    "open": 3840.05,
+    "high": 3997,
+    "low": 3825,
+    "close": 3876,
+    "volume": 157132200,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "30-Oct-2023",
+    "open": 3907.5,
+    "high": 4038,
+    "low": 3890,
+    "close": 3990,
+    "volume": 102708316,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "31-Oct-2023",
+    "open": 4000,
+    "high": 4145,
+    "low": 3982.95,
+    "close": 4100,
+    "volume": 232547595,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "01-Nov-2023",
+    "open": 4097.05,
+    "high": 4188,
+    "low": 3985,
+    "close": 4158.9,
+    "volume": 197798065,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "02-Nov-2023",
+    "open": 4162.55,
+    "high": 4182.45,
+    "low": 4029,
+    "close": 4062.5,
+    "volume": 174879642,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "03-Nov-2023",
+    "open": 4079.95,
+    "high": 4212,
+    "low": 4054,
+    "close": 4172.1,
+    "volume": 355212022,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Nov-2023",
+    "open": 4202,
+    "high": 4400,
+    "low": 4192.6,
+    "close": 4360,
+    "volume": 716992621,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "07-Nov-2023",
+    "open": 4393,
+    "high": 4454.95,
+    "low": 4246.8,
+    "close": 4344.95,
+    "volume": 875333116,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 4350.35,
+    "high": 4445.65,
+    "low": 4221,
+    "close": 4230.5,
+    "volume": 237376709,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 4244,
+    "high": 4375,
+    "low": 4151,
+    "close": 4220,
+    "volume": 278627820,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 4203,
+    "high": 4235.1,
+    "low": 4065.05,
+    "close": 4100,
+    "volume": 383202784,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 4167.95,
+    "high": 4230,
+    "low": 4130.7,
+    "close": 4212,
+    "volume": 30848727,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 4168,
+    "high": 4218.2,
+    "low": 4130,
+    "close": 4144.95,
+    "volume": 112525446,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 4167.1,
+    "high": 4238,
+    "low": 4130,
+    "close": 4155,
+    "volume": 125270016,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 4175.5,
+    "high": 4275.95,
+    "low": 4174.95,
+    "close": 4218,
+    "volume": 257694833,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 4239.05,
+    "high": 4289.85,
+    "low": 4194.25,
+    "close": 4233,
+    "volume": 97047910,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 4242,
+    "high": 4248.3,
+    "low": 4207,
+    "close": 4238.9,
+    "volume": 54616633,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 4245,
+    "high": 4375,
+    "low": 4225,
+    "close": 4260,
+    "volume": 184396831,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 4246.4,
+    "high": 4355,
+    "low": 4240.5,
+    "close": 4323.5,
+    "volume": 167518666,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 4335,
+    "high": 4393.95,
+    "low": 4260,
+    "close": 4311.05,
+    "volume": 155511752,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 4339,
+    "high": 4366,
+    "low": 4285,
+    "close": 4285.05,
+    "volume": 68856105,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 4387.9,
+    "high": 4399,
+    "low": 4300.15,
+    "close": 4315.3,
+    "volume": 96121642,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 4345.5,
+    "high": 4355.9,
+    "low": 4272.85,
+    "close": 4295,
+    "volume": 87944724,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 4304.25,
+    "high": 4328.3,
+    "low": 4239.05,
+    "close": 4285.1,
+    "volume": 168617460,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 4292.95,
+    "high": 4317.45,
+    "low": 4208,
+    "close": 4230,
+    "volume": 108353478,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 4309,
+    "high": 4424.35,
+    "low": 4221,
+    "close": 4225.05,
+    "volume": 253907997,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 4233.35,
+    "high": 4286.45,
+    "low": 4201,
+    "close": 4249,
+    "volume": 122089199,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 4250,
+    "high": 4299.95,
+    "low": 4231.1,
+    "close": 4269.05,
+    "volume": 95479656,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 4302.15,
+    "high": 4302.15,
+    "low": 4226.1,
+    "close": 4245,
+    "volume": 61204099,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 4277.45,
+    "high": 4277.45,
+    "low": 4226.1,
+    "close": 4228,
+    "volume": 74187693,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 4258,
+    "high": 4265,
+    "low": 4210,
+    "close": 4235,
+    "volume": 81540969,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 4238.8,
+    "high": 4250,
+    "low": 4176,
+    "close": 4206.5,
+    "volume": 78886363,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 4241.8,
+    "high": 4241.8,
+    "low": 4103.65,
+    "close": 4121,
+    "volume": 125599539,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 4142,
+    "high": 4319.5,
+    "low": 4142,
+    "close": 4238,
+    "volume": 251965515,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 4275,
+    "high": 4294.5,
+    "low": 4239.95,
+    "close": 4260,
+    "volume": 74736068,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 4273.5,
+    "high": 4273.5,
+    "low": 4205.05,
+    "close": 4242,
+    "volume": 90833617,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 4250,
+    "high": 4267.65,
+    "low": 4234.35,
+    "close": 4260,
+    "volume": 28011439,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 4270,
+    "high": 4285,
+    "low": 4200,
+    "close": 4230,
+    "volume": 69028625,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 4223.4,
+    "high": 4296,
+    "low": 4210,
+    "close": 4275,
+    "volume": 54516852,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 4280,
+    "high": 4375,
+    "low": 4265.05,
+    "close": 4374,
+    "volume": 132751201,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 4375,
+    "high": 4425.5,
+    "low": 4344.05,
+    "close": 4380,
+    "volume": 84177366,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 4410,
+    "high": 4410,
+    "low": 4290.55,
+    "close": 4328.95,
+    "volume": 127503758,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 4325,
+    "high": 4335,
+    "low": 4251.1,
+    "close": 4270,
+    "volume": 74857112,
+    "symbol": "CRISIL"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 4264.3,
+    "high": 4387.25,
+    "low": 4250,
+    "close": 4319,
+    "volume": 95449853,
+    "symbol": "CRISIL"
+  }
+]

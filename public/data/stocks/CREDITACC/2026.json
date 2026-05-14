@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1267.3,
+    "high": 1280,
+    "low": 1251.1,
+    "close": 1261.6,
+    "volume": 346381699,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1261.6,
+    "high": 1308.5,
+    "low": 1259,
+    "close": 1287,
+    "volume": 376482501,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1295,
+    "high": 1345,
+    "low": 1295,
+    "close": 1333,
+    "volume": 785005843,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1334.9,
+    "high": 1339.9,
+    "low": 1296,
+    "close": 1327,
+    "volume": 750224849,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1339.5,
+    "high": 1369,
+    "low": 1297.2,
+    "close": 1339.9,
+    "volume": 1051570394,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1340,
+    "high": 1349.4,
+    "low": 1325,
+    "close": 1325,
+    "volume": 413514516,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1329,
+    "high": 1343,
+    "low": 1318.2,
+    "close": 1324.9,
+    "volume": 353185839,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1318.5,
+    "high": 1325.7,
+    "low": 1288.4,
+    "close": 1292.8,
+    "volume": 311359408,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1307,
+    "high": 1317.5,
+    "low": 1275.1,
+    "close": 1303.2,
+    "volume": 421056225,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1295.3,
+    "high": 1324.4,
+    "low": 1278.9,
+    "close": 1286.9,
+    "volume": 352716019,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1284.1,
+    "high": 1306.9,
+    "low": 1284.1,
+    "close": 1300,
+    "volume": 194719101,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1304.4,
+    "high": 1315.6,
+    "low": 1273.2,
+    "close": 1280,
+    "volume": 392412306,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1285,
+    "high": 1285,
+    "low": 1207.9,
+    "close": 1248,
+    "volume": 359913179,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1309,
+    "high": 1422.3,
+    "low": 1280.1,
+    "close": 1365,
+    "volume": 26992740205,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1369,
+    "high": 1496.7,
+    "low": 1360.3,
+    "close": 1440,
+    "volume": 15535329361,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1435,
+    "high": 1463.8,
+    "low": 1373.7,
+    "close": 1384,
+    "volume": 6413419798,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1390,
+    "high": 1402.6,
+    "low": 1313.6,
+    "close": 1332,
+    "volume": 1575171238,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1329.9,
+    "high": 1338.1,
+    "low": 1284.4,
+    "close": 1299,
+    "volume": 798091969,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1300,
+    "high": 1300,
+    "low": 1240.2,
+    "close": 1270.9,
+    "volume": 514914422,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1268,
+    "high": 1357.9,
+    "low": 1268,
+    "close": 1313.1,
+    "volume": 2496761944,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1326.4,
+    "high": 1326.4,
+    "low": 1263.5,
+    "close": 1269.5,
+    "volume": 215246367,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1273.3,
+    "high": 1299,
+    "low": 1225.6,
+    "close": 1253.3,
+    "volume": 506745450,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1290,
+    "high": 1400.5,
+    "low": 1285,
+    "close": 1318.6,
+    "volume": 637903731,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1322,
+    "high": 1359,
+    "low": 1318.7,
+    "close": 1342,
+    "volume": 514751372,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1342,
+    "high": 1355,
+    "low": 1286.2,
+    "close": 1294.9,
+    "volume": 280648998,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1295.8,
+    "high": 1326.9,
+    "low": 1281.6,
+    "close": 1289.6,
+    "volume": 304052426,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1295.4,
+    "high": 1303,
+    "low": 1274.8,
+    "close": 1282.3,
+    "volume": 219526220,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1290,
+    "high": 1299.9,
+    "low": 1262.6,
+    "close": 1281.1,
+    "volume": 269277672,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1290,
+    "high": 1295,
+    "low": 1267,
+    "close": 1271,
+    "volume": 174519347,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1272.2,
+    "high": 1279.2,
+    "low": 1248.1,
+    "close": 1268,
+    "volume": 199130160,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1267.5,
+    "high": 1272.8,
+    "low": 1245,
+    "close": 1270,
+    "volume": 143310084,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1262,
+    "high": 1273.1,
+    "low": 1247,
+    "close": 1255.2,
+    "volume": 158799490,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1259,
+    "high": 1270,
+    "low": 1245.8,
+    "close": 1257,
+    "volume": 121508518,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1257.8,
+    "high": 1291,
+    "low": 1257.8,
+    "close": 1279,
+    "volume": 365485172,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1276.6,
+    "high": 1286.8,
+    "low": 1269.2,
+    "close": 1280,
+    "volume": 245852454,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1280.2,
+    "high": 1291.9,
+    "low": 1267,
+    "close": 1283,
+    "volume": 180409971,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1295.9,
+    "high": 1333.8,
+    "low": 1280,
+    "close": 1285,
+    "volume": 463851548,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1285,
+    "high": 1295,
+    "low": 1275.7,
+    "close": 1280.9,
+    "volume": 189348173,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1279.2,
+    "high": 1310,
+    "low": 1274,
+    "close": 1302,
+    "volume": 348161779,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1310,
+    "high": 1349,
+    "low": 1300,
+    "close": 1334,
+    "volume": 469297490,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1316.3,
+    "high": 1327.8,
+    "low": 1239.5,
+    "close": 1266.8,
+    "volume": 1095886173,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1226,
+    "high": 1238.9,
+    "low": 1188.4,
+    "close": 1213.9,
+    "volume": 438896609,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1200,
+    "high": 1269,
+    "low": 1194,
+    "close": 1210.6,
+    "volume": 815846940,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1225.9,
+    "high": 1250,
+    "low": 1193.1,
+    "close": 1209,
+    "volume": 440227725,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1208,
+    "high": 1230,
+    "low": 1191,
+    "close": 1203,
+    "volume": 223789983,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1182.8,
+    "high": 1189,
+    "low": 1131,
+    "close": 1153.5,
+    "volume": 243654520,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1184.6,
+    "high": 1225.7,
+    "low": 1171.2,
+    "close": 1217.3,
+    "volume": 381642764,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1213,
+    "high": 1228.5,
+    "low": 1188,
+    "close": 1194,
+    "volume": 123013293,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1189.4,
+    "high": 1198.3,
+    "low": 1151,
+    "close": 1179,
+    "volume": 254226341,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1170,
+    "high": 1172.5,
+    "low": 1147,
+    "close": 1160.1,
+    "volume": 235585937,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1160.9,
+    "high": 1182,
+    "low": 1147.8,
+    "close": 1172,
+    "volume": 285012130,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1170,
+    "high": 1176.1,
+    "low": 1155.4,
+    "close": 1165.1,
+    "volume": 278092453,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1169,
+    "high": 1210.8,
+    "low": 1164.5,
+    "close": 1184,
+    "volume": 395068188,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1165,
+    "high": 1179.9,
+    "low": 1150.4,
+    "close": 1155.5,
+    "volume": 140588775,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1165.3,
+    "high": 1179.9,
+    "low": 1144.4,
+    "close": 1160,
+    "volume": 305498570,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1159.6,
+    "high": 1164,
+    "low": 1113,
+    "close": 1135,
+    "volume": 376132662,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1145,
+    "high": 1158.6,
+    "low": 1130.8,
+    "close": 1147,
+    "volume": 249152943,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1151.9,
+    "high": 1187.2,
+    "low": 1151.9,
+    "close": 1160,
+    "volume": 261581487,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1164,
+    "high": 1176,
+    "low": 1152.9,
+    "close": 1160.5,
+    "volume": 237313494,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1148.8,
+    "high": 1186,
+    "low": 1144.1,
+    "close": 1160,
+    "volume": 335150712,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1174,
+    "high": 1209.9,
+    "low": 1162.1,
+    "close": 1181.6,
+    "volume": 163095492,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1168,
+    "high": 1189,
+    "low": 1158.1,
+    "close": 1170.8,
+    "volume": 253303762,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1183,
+    "high": 1193.9,
+    "low": 1164.3,
+    "close": 1179.9,
+    "volume": 289320851,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1226,
+    "high": 1298,
+    "low": 1205.6,
+    "close": 1230,
+    "volume": 4751003765,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1263,
+    "high": 1274.2,
+    "low": 1228,
+    "close": 1233,
+    "volume": 1217508054,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1235,
+    "high": 1254.3,
+    "low": 1224.1,
+    "close": 1236,
+    "volume": 186484860,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1252.9,
+    "high": 1255.1,
+    "low": 1220,
+    "close": 1226,
+    "volume": 257344956,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1221,
+    "high": 1243.9,
+    "low": 1196,
+    "close": 1220,
+    "volume": 202918666,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1235,
+    "high": 1243.4,
+    "low": 1223.1,
+    "close": 1234,
+    "volume": 191553650,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1248,
+    "high": 1267,
+    "low": 1221.7,
+    "close": 1245,
+    "volume": 477348973,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1228.7,
+    "high": 1285.3,
+    "low": 1225,
+    "close": 1262,
+    "volume": 346880866,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1256,
+    "high": 1286.7,
+    "low": 1250.1,
+    "close": 1250.3,
+    "volume": 394399836,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1253.8,
+    "high": 1288,
+    "low": 1252.1,
+    "close": 1256,
+    "volume": 268711822,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1263.4,
+    "high": 1270.2,
+    "low": 1246.4,
+    "close": 1259,
+    "volume": 245651663,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1252,
+    "high": 1272,
+    "low": 1237.2,
+    "close": 1239.9,
+    "volume": 134049127,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1243.3,
+    "high": 1253.1,
+    "low": 1215,
+    "close": 1237,
+    "volume": 252619050,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1231,
+    "high": 1255.8,
+    "low": 1231,
+    "close": 1246,
+    "volume": 293543508,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1241.5,
+    "high": 1280,
+    "low": 1237.1,
+    "close": 1257,
+    "volume": 490131560,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1267,
+    "high": 1297,
+    "low": 1259.4,
+    "close": 1286,
+    "volume": 344334839,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1295,
+    "high": 1330.8,
+    "low": 1278.1,
+    "close": 1300,
+    "volume": 666895153,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1310,
+    "high": 1345,
+    "low": 1305.9,
+    "close": 1325,
+    "volume": 212630187,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1332.9,
+    "high": 1568,
+    "low": 1319.3,
+    "close": 1475,
+    "volume": 19981637512,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1489.7,
+    "high": 1511.7,
+    "low": 1461.2,
+    "close": 1482,
+    "volume": 2309449054,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1475,
+    "high": 1496.8,
+    "low": 1445.1,
+    "close": 1485,
+    "volume": 597358042,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1488,
+    "high": 1514.1,
+    "low": 1482.1,
+    "close": 1497,
+    "volume": 416431581,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1515,
+    "high": 1552,
+    "low": 1471.4,
+    "close": 1480,
+    "volume": 2058403923,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1492,
+    "high": 1496.7,
+    "low": 1384.9,
+    "close": 1396.8,
+    "volume": 651473148,
+    "symbol": "CREDITACC"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1390.8,
+    "high": 1406.9,
+    "low": 1330,
+    "close": 1337.9,
+    "volume": 394622488,
+    "symbol": "CREDITACC"
+  }
+]

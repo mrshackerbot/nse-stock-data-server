@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1283.1,
+    "high": 1296.8,
+    "low": 1275.9,
+    "close": 1287,
+    "volume": 392788279,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1293,
+    "high": 1322.9,
+    "low": 1287,
+    "close": 1322.2,
+    "volume": 2276180193,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1335.4,
+    "high": 1355,
+    "low": 1315.9,
+    "close": 1335,
+    "volume": 1229019988,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1342.6,
+    "high": 1343.1,
+    "low": 1307.9,
+    "close": 1320,
+    "volume": 523233239,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1321,
+    "high": 1334.9,
+    "low": 1302.3,
+    "close": 1316.2,
+    "volume": 799060091,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1318.3,
+    "high": 1318.3,
+    "low": 1261,
+    "close": 1267.9,
+    "volume": 756784427,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1270.1,
+    "high": 1276.6,
+    "low": 1246.6,
+    "close": 1246.7,
+    "volume": 482494867,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1249,
+    "high": 1249,
+    "low": 1199,
+    "close": 1205.4,
+    "volume": 947093325,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1214.9,
+    "high": 1222.6,
+    "low": 1188.3,
+    "close": 1200.9,
+    "volume": 536032598,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1200.8,
+    "high": 1209.6,
+    "low": 1188.7,
+    "close": 1192.4,
+    "volume": 704553991,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1197.4,
+    "high": 1217.7,
+    "low": 1180.9,
+    "close": 1182.1,
+    "volume": 898649248,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1174.1,
+    "high": 1180,
+    "low": 1152.5,
+    "close": 1159,
+    "volume": 1533362277,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1154.9,
+    "high": 1163.9,
+    "low": 1114.1,
+    "close": 1121.7,
+    "volume": 1034507492,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1118,
+    "high": 1137.8,
+    "low": 1107.7,
+    "close": 1127.5,
+    "volume": 754574394,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1140,
+    "high": 1179.3,
+    "low": 1134.4,
+    "close": 1178.3,
+    "volume": 830586536,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1182,
+    "high": 1182,
+    "low": 1130.1,
+    "close": 1147.9,
+    "volume": 1166156572,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1134.1,
+    "high": 1158.4,
+    "low": 1114.8,
+    "close": 1158.4,
+    "volume": 837658121,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1154.9,
+    "high": 1154.9,
+    "low": 1125.8,
+    "close": 1149,
+    "volume": 863402484,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1149.9,
+    "high": 1149.9,
+    "low": 1124.1,
+    "close": 1142,
+    "volume": 616817253,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1142,
+    "high": 1186.2,
+    "low": 1133,
+    "close": 1183,
+    "volume": 1210435825,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1187,
+    "high": 1192.7,
+    "low": 1135,
+    "close": 1144,
+    "volume": 276906253,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1145.1,
+    "high": 1183.6,
+    "low": 1138.7,
+    "close": 1180,
+    "volume": 537217240,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1248,
+    "high": 1248,
+    "low": 1209.8,
+    "close": 1211,
+    "volume": 1097858868,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1220,
+    "high": 1222.9,
+    "low": 1195.8,
+    "close": 1202.1,
+    "volume": 657606604,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1208.4,
+    "high": 1242.7,
+    "low": 1176.5,
+    "close": 1233,
+    "volume": 2903721462,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1234,
+    "high": 1235.8,
+    "low": 1150,
+    "close": 1153,
+    "volume": 2797009124,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1155.9,
+    "high": 1214.2,
+    "low": 1150.2,
+    "close": 1213.6,
+    "volume": 1676433878,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1211.5,
+    "high": 1232.3,
+    "low": 1200.2,
+    "close": 1231.4,
+    "volume": 1041499915,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1238,
+    "high": 1251.5,
+    "low": 1220.3,
+    "close": 1245,
+    "volume": 1392743144,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1245,
+    "high": 1255,
+    "low": 1227,
+    "close": 1248.6,
+    "volume": 1382258003,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1245.8,
+    "high": 1249,
+    "low": 1220.3,
+    "close": 1243.2,
+    "volume": 1581694545,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1236.1,
+    "high": 1247.5,
+    "low": 1208.5,
+    "close": 1217.4,
+    "volume": 448810156,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1215,
+    "high": 1226.6,
+    "low": 1209.1,
+    "close": 1217.1,
+    "volume": 308479920,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1215.8,
+    "high": 1223.7,
+    "low": 1196.9,
+    "close": 1206.3,
+    "volume": 490855572,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1204.9,
+    "high": 1215.7,
+    "low": 1185,
+    "close": 1191.1,
+    "volume": 769665765,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1181.9,
+    "high": 1206.4,
+    "low": 1181.9,
+    "close": 1194,
+    "volume": 947035716,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1205,
+    "high": 1207.8,
+    "low": 1181,
+    "close": 1196,
+    "volume": 539783869,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1184,
+    "high": 1194.4,
+    "low": 1167.1,
+    "close": 1177.4,
+    "volume": 729726815,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1182.4,
+    "high": 1220.6,
+    "low": 1175.9,
+    "close": 1214.3,
+    "volume": 614808281,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1216,
+    "high": 1238,
+    "low": 1194,
+    "close": 1230,
+    "volume": 1654812774,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1223.2,
+    "high": 1228.5,
+    "low": 1181.3,
+    "close": 1186,
+    "volume": 925675619,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1130,
+    "high": 1171.5,
+    "low": 1120,
+    "close": 1147.3,
+    "volume": 1380717912,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1135,
+    "high": 1146.4,
+    "low": 1103,
+    "close": 1125,
+    "volume": 1510080659,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1130.1,
+    "high": 1144,
+    "low": 1097.3,
+    "close": 1119.1,
+    "volume": 1046418287,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1117.9,
+    "high": 1134.9,
+    "low": 1112.1,
+    "close": 1127.4,
+    "volume": 479930474,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1095.7,
+    "high": 1095.7,
+    "low": 1038,
+    "close": 1081,
+    "volume": 1347665691,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1120,
+    "high": 1125.7,
+    "low": 1089.4,
+    "close": 1114,
+    "volume": 2095860610,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1119.7,
+    "high": 1119.7,
+    "low": 1077,
+    "close": 1081.3,
+    "volume": 1205810705,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1070,
+    "high": 1084.7,
+    "low": 1047,
+    "close": 1065,
+    "volume": 1175332117,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1055,
+    "high": 1057.6,
+    "low": 1006.6,
+    "close": 1010.5,
+    "volume": 1820653836,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1010.3,
+    "high": 1032.3,
+    "low": 994,
+    "close": 1011,
+    "volume": 684227008,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1018.5,
+    "high": 1057,
+    "low": 1007.1,
+    "close": 1054.5,
+    "volume": 1081087017,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1057.7,
+    "high": 1086,
+    "low": 1048.6,
+    "close": 1073,
+    "volume": 1662986642,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1053,
+    "high": 1057,
+    "low": 1032.5,
+    "close": 1043.8,
+    "volume": 686220971,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1050,
+    "high": 1074,
+    "low": 1042.2,
+    "close": 1058,
+    "volume": 1131154136,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1053.1,
+    "high": 1053.1,
+    "low": 1010,
+    "close": 1031.1,
+    "volume": 545889498,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1044,
+    "high": 1078.1,
+    "low": 1039.4,
+    "close": 1071.7,
+    "volume": 818639673,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1076,
+    "high": 1104,
+    "low": 1075.5,
+    "close": 1075.5,
+    "volume": 1595254303,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1075.6,
+    "high": 1075.8,
+    "low": 1042.1,
+    "close": 1053.3,
+    "volume": 1053945960,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1029,
+    "high": 1051.5,
+    "low": 1015,
+    "close": 1029.6,
+    "volume": 891483566,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1061,
+    "high": 1061,
+    "low": 1030.6,
+    "close": 1040.4,
+    "volume": 975292387,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1031,
+    "high": 1033.6,
+    "low": 1003.3,
+    "close": 1025,
+    "volume": 1629691309,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1033.9,
+    "high": 1052.4,
+    "low": 1018.8,
+    "close": 1052,
+    "volume": 643740538,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1037.4,
+    "high": 1053.7,
+    "low": 1013.9,
+    "close": 1021,
+    "volume": 1012302854,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1060,
+    "high": 1100.5,
+    "low": 1050,
+    "close": 1090.1,
+    "volume": 1515041161,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1090.2,
+    "high": 1097.9,
+    "low": 1050.1,
+    "close": 1053.8,
+    "volume": 845012162,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1064,
+    "high": 1085,
+    "low": 1056.1,
+    "close": 1078,
+    "volume": 1147143209,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1056.1,
+    "high": 1092.3,
+    "low": 1044,
+    "close": 1079.9,
+    "volume": 874601651,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1095,
+    "high": 1112.5,
+    "low": 1086,
+    "close": 1098,
+    "volume": 1765673526,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1115,
+    "high": 1117.8,
+    "low": 1091.6,
+    "close": 1110,
+    "volume": 1359799039,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1114.1,
+    "high": 1114.1,
+    "low": 1084,
+    "close": 1096.5,
+    "volume": 1079400128,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1097.8,
+    "high": 1136,
+    "low": 1071.2,
+    "close": 1120,
+    "volume": 2215002721,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1136.6,
+    "high": 1156.2,
+    "low": 1123.6,
+    "close": 1149,
+    "volume": 2143617553,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1140.1,
+    "high": 1155,
+    "low": 1136.2,
+    "close": 1155,
+    "volume": 1353999580,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1149,
+    "high": 1160.3,
+    "low": 1123.2,
+    "close": 1132.8,
+    "volume": 864452787,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1134.9,
+    "high": 1137.2,
+    "low": 1091.2,
+    "close": 1107.9,
+    "volume": 612239231,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1108.1,
+    "high": 1138.3,
+    "low": 1101.3,
+    "close": 1133.6,
+    "volume": 568118279,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1131.1,
+    "high": 1134.7,
+    "low": 1119.7,
+    "close": 1128.1,
+    "volume": 680730989,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1133,
+    "high": 1165,
+    "low": 1126.3,
+    "close": 1130,
+    "volume": 858572670,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1127.1,
+    "high": 1127.1,
+    "low": 1099.1,
+    "close": 1114,
+    "volume": 629919719,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1123.5,
+    "high": 1138.9,
+    "low": 1104.6,
+    "close": 1107.6,
+    "volume": 711653549,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1104.1,
+    "high": 1111.5,
+    "low": 1066.3,
+    "close": 1088,
+    "volume": 935477666,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1094.8,
+    "high": 1133.3,
+    "low": 1086.5,
+    "close": 1133,
+    "volume": 1408037850,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1138.6,
+    "high": 1149,
+    "low": 1115.5,
+    "close": 1147,
+    "volume": 1002377737,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1143,
+    "high": 1189.7,
+    "low": 1141.4,
+    "close": 1179.9,
+    "volume": 1310935525,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1164.9,
+    "high": 1180.1,
+    "low": 1153.3,
+    "close": 1175,
+    "volume": 732603835,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1168.1,
+    "high": 1173.9,
+    "low": 1136.2,
+    "close": 1145,
+    "volume": 645274274,
+    "symbol": "UNOMINDA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1138.5,
+    "high": 1154.8,
+    "low": 1120,
+    "close": 1136,
+    "volume": 1513506346,
+    "symbol": "UNOMINDA"
+  }
+]

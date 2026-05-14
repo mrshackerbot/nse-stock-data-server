@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2660,
+    "high": 2665,
+    "low": 2613.4,
+    "close": 2624.9,
+    "volume": 968157870,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2632,
+    "high": 2684,
+    "low": 2624,
+    "close": 2658.5,
+    "volume": 1996943775,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2658.6,
+    "high": 2684.5,
+    "low": 2624.2,
+    "close": 2673,
+    "volume": 1424798715,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2648,
+    "high": 2703.3,
+    "low": 2648,
+    "close": 2689,
+    "volume": 1377550739,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2695,
+    "high": 2719,
+    "low": 2680.1,
+    "close": 2696,
+    "volume": 997261839,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2699.7,
+    "high": 2725.2,
+    "low": 2681,
+    "close": 2716.1,
+    "volume": 1697473299,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2705,
+    "high": 2717.2,
+    "low": 2629.2,
+    "close": 2660.5,
+    "volume": 1468496554,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2649.1,
+    "high": 2649.1,
+    "low": 2587,
+    "close": 2630,
+    "volume": 1782019781,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2622,
+    "high": 2682.5,
+    "low": 2614.1,
+    "close": 2673,
+    "volume": 1395826316,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2665,
+    "high": 2749,
+    "low": 2660,
+    "close": 2729,
+    "volume": 1494407756,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2810,
+    "high": 2972,
+    "low": 2782.5,
+    "close": 2932.5,
+    "volume": 8191530488,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2937,
+    "high": 2977.7,
+    "low": 2855,
+    "close": 2910,
+    "volume": 1663759153,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2922,
+    "high": 2922,
+    "low": 2790,
+    "close": 2827,
+    "volume": 1191559885,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2810,
+    "high": 2850,
+    "low": 2731.3,
+    "close": 2847,
+    "volume": 1555493349,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2868,
+    "high": 2895,
+    "low": 2769.9,
+    "close": 2774.4,
+    "volume": 1240092620,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2765,
+    "high": 2815.6,
+    "low": 2750.1,
+    "close": 2768,
+    "volume": 1108401031,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2830,
+    "high": 2830.1,
+    "low": 2692.1,
+    "close": 2716,
+    "volume": 1413308489,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2734.1,
+    "high": 2860,
+    "low": 2715,
+    "close": 2840,
+    "volume": 1222828944,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2829,
+    "high": 2942.8,
+    "low": 2820.1,
+    "close": 2907.4,
+    "volume": 1053646669,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2914.7,
+    "high": 3012,
+    "low": 2872.1,
+    "close": 2948,
+    "volume": 1940429263,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2971.9,
+    "high": 2971.9,
+    "low": 2883,
+    "close": 2920,
+    "volume": 451663674,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2900,
+    "high": 2949.9,
+    "low": 2863,
+    "close": 2938,
+    "volume": 561039822,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 3030,
+    "high": 3131,
+    "low": 3030,
+    "close": 3062.9,
+    "volume": 3142574309,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 3119.8,
+    "high": 3119.8,
+    "low": 3040,
+    "close": 3048,
+    "volume": 1683072407,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 3061,
+    "high": 3129,
+    "low": 3020.9,
+    "close": 3096,
+    "volume": 1648654824,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 3114,
+    "high": 3122.7,
+    "low": 3040.1,
+    "close": 3053,
+    "volume": 638104849,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 3060.6,
+    "high": 3075.1,
+    "low": 2966.3,
+    "close": 3015,
+    "volume": 1245440318,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 3050,
+    "high": 3090,
+    "low": 3006.2,
+    "close": 3060,
+    "volume": 657126081,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 3065,
+    "high": 3086.9,
+    "low": 3032,
+    "close": 3050,
+    "volume": 1324012286,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 3054.9,
+    "high": 3150.6,
+    "low": 3033,
+    "close": 3109,
+    "volume": 2080856108,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 3060.2,
+    "high": 3079.9,
+    "low": 2974.8,
+    "close": 3010,
+    "volume": 1709290547,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 3009,
+    "high": 3064,
+    "low": 2936.4,
+    "close": 3050,
+    "volume": 695756396,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 3059.9,
+    "high": 3059.9,
+    "low": 2991.9,
+    "close": 3007.5,
+    "volume": 561959038,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 3014.9,
+    "high": 3085,
+    "low": 2992,
+    "close": 3066.9,
+    "volume": 661260418,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 3059,
+    "high": 3084.6,
+    "low": 3006,
+    "close": 3014,
+    "volume": 524536070,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 3011.1,
+    "high": 3059.9,
+    "low": 3000,
+    "close": 3021.7,
+    "volume": 619871092,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 3030,
+    "high": 3149.9,
+    "low": 2992.3,
+    "close": 3120,
+    "volume": 883902438,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 3144,
+    "high": 3172,
+    "low": 3111.1,
+    "close": 3151,
+    "volume": 1645541591,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 3193,
+    "high": 3193,
+    "low": 3089,
+    "close": 3092,
+    "volume": 1037453911,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 3101,
+    "high": 3133.9,
+    "low": 3050.4,
+    "close": 3120,
+    "volume": 826534868,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 3116.9,
+    "high": 3127.9,
+    "low": 3069.1,
+    "close": 3107.7,
+    "volume": 838321274,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 3000,
+    "high": 3105,
+    "low": 2999.1,
+    "close": 3090,
+    "volume": 948549759,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 3070,
+    "high": 3071,
+    "low": 2902.5,
+    "close": 2990.1,
+    "volume": 1605575656,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 3028.4,
+    "high": 3050,
+    "low": 2985,
+    "close": 3005,
+    "volume": 743662125,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2995.2,
+    "high": 3023,
+    "low": 2977.2,
+    "close": 2999,
+    "volume": 1031297123,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 2907,
+    "high": 2935.7,
+    "low": 2855.1,
+    "close": 2907,
+    "volume": 1399202295,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2953,
+    "high": 3094.9,
+    "low": 2932,
+    "close": 3080,
+    "volume": 1082455225,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 3052.2,
+    "high": 3089,
+    "low": 2995,
+    "close": 3003,
+    "volume": 847018694,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2987,
+    "high": 2990,
+    "low": 2905,
+    "close": 2936.4,
+    "volume": 1849773968,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 2925,
+    "high": 3003,
+    "low": 2845,
+    "close": 2879.7,
+    "volume": 2290932540,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 2853.1,
+    "high": 2903.6,
+    "low": 2819.7,
+    "close": 2883.1,
+    "volume": 713987195,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 2880,
+    "high": 3008.6,
+    "low": 2826,
+    "close": 2970,
+    "volume": 2747770400,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 2972,
+    "high": 3029.9,
+    "low": 2942,
+    "close": 3020,
+    "volume": 840306598,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 2953.5,
+    "high": 2974.3,
+    "low": 2804.7,
+    "close": 2828,
+    "volume": 1138288766,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 2860,
+    "high": 2879.7,
+    "low": 2790.5,
+    "close": 2800,
+    "volume": 952811111,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 2763,
+    "high": 2774.5,
+    "low": 2651,
+    "close": 2713,
+    "volume": 1253297459,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 2768,
+    "high": 2807.6,
+    "low": 2680.4,
+    "close": 2798,
+    "volume": 1149324766,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 2810,
+    "high": 2913.3,
+    "low": 2800.1,
+    "close": 2902,
+    "volume": 1291865790,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 2871,
+    "high": 2907,
+    "low": 2820.7,
+    "close": 2849.9,
+    "volume": 1983814974,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 2818,
+    "high": 2874,
+    "low": 2738,
+    "close": 2846,
+    "volume": 920374068,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 2875.9,
+    "high": 2894,
+    "low": 2758.8,
+    "close": 2851,
+    "volume": 1577643555,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 2841.4,
+    "high": 2871.5,
+    "low": 2742,
+    "close": 2836,
+    "volume": 1502511378,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 2831.5,
+    "high": 2934,
+    "low": 2796.8,
+    "close": 2910,
+    "volume": 1264189317,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 2903,
+    "high": 3055,
+    "low": 2882.3,
+    "close": 3050,
+    "volume": 1362981745,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 3173.7,
+    "high": 3189,
+    "low": 3095,
+    "close": 3140,
+    "volume": 3236167485,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 3159.4,
+    "high": 3275,
+    "low": 3130.2,
+    "close": 3262,
+    "volume": 3847910386,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 3275,
+    "high": 3430,
+    "low": 3192,
+    "close": 3400,
+    "volume": 2992934229,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 3348.6,
+    "high": 3400.2,
+    "low": 3275,
+    "close": 3353,
+    "volume": 1830340160,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 3380,
+    "high": 3397,
+    "low": 3175.1,
+    "close": 3225.1,
+    "volume": 7738119824,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 3247,
+    "high": 3309,
+    "low": 3212.1,
+    "close": 3295,
+    "volume": 2652817078,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 3304,
+    "high": 3380,
+    "low": 3260,
+    "close": 3329.9,
+    "volume": 2165162188,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 3338.9,
+    "high": 3389.1,
+    "low": 3272.1,
+    "close": 3291,
+    "volume": 1269813717,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 3320,
+    "high": 3540.9,
+    "low": 3308.7,
+    "close": 3540,
+    "volume": 2741130895,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 3523.9,
+    "high": 3597.5,
+    "low": 3409.2,
+    "close": 3431.5,
+    "volume": 1546868096,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 3429.9,
+    "high": 3455,
+    "low": 3322,
+    "close": 3339,
+    "volume": 883990988,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 3360.3,
+    "high": 3399,
+    "low": 3279.1,
+    "close": 3291.1,
+    "volume": 969540259,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 3329.9,
+    "high": 3349,
+    "low": 3255.1,
+    "close": 3280.7,
+    "volume": 574195771,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 3300,
+    "high": 3324.8,
+    "low": 3278.5,
+    "close": 3294,
+    "volume": 518846548,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 3295,
+    "high": 3335.9,
+    "low": 3268.2,
+    "close": 3321,
+    "volume": 872967592,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 3309,
+    "high": 3309.8,
+    "low": 3264.8,
+    "close": 3283,
+    "volume": 634073549,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 3297,
+    "high": 3323.9,
+    "low": 3260.5,
+    "close": 3277,
+    "volume": 614355600,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 3277,
+    "high": 3302,
+    "low": 3222.2,
+    "close": 3284,
+    "volume": 1201663898,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 3301.1,
+    "high": 3329.5,
+    "low": 3280,
+    "close": 3291.7,
+    "volume": 413790777,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 3308.4,
+    "high": 3317,
+    "low": 3242.7,
+    "close": 3284.5,
+    "volume": 1030917819,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 3301.7,
+    "high": 3306,
+    "low": 3216,
+    "close": 3240,
+    "volume": 609552112,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 3211.1,
+    "high": 3236,
+    "low": 3151,
+    "close": 3226,
+    "volume": 703423112,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 3200,
+    "high": 3278,
+    "low": 3155.7,
+    "close": 3170,
+    "volume": 1075657593,
+    "symbol": "ICICIAMC"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 3183.9,
+    "high": 3283.9,
+    "low": 3167.1,
+    "close": 3277,
+    "volume": 432965448,
+    "symbol": "ICICIAMC"
+  }
+]

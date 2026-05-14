@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1825.3,
+    "high": 1834.2,
+    "low": 1803.7,
+    "close": 1806.5,
+    "volume": 204981338,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1806.5,
+    "high": 1823.7,
+    "low": 1783.4,
+    "close": 1793,
+    "volume": 279567034,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1792.9,
+    "high": 1815.2,
+    "low": 1790.1,
+    "close": 1800,
+    "volume": 265136478,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1809,
+    "high": 1819.3,
+    "low": 1794.3,
+    "close": 1804.3,
+    "volume": 260192763,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1804,
+    "high": 1804.8,
+    "low": 1785.5,
+    "close": 1799.9,
+    "volume": 529243899,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1791,
+    "high": 1805.9,
+    "low": 1759.4,
+    "close": 1767,
+    "volume": 191794626,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1775.9,
+    "high": 1786.9,
+    "low": 1726.2,
+    "close": 1740,
+    "volume": 218849088,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1740,
+    "high": 1748,
+    "low": 1681,
+    "close": 1735.7,
+    "volume": 275780816,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1735.1,
+    "high": 1747,
+    "low": 1724,
+    "close": 1734.2,
+    "volume": 123285654,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1734,
+    "high": 1767.8,
+    "low": 1720,
+    "close": 1753,
+    "volume": 151082820,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1760,
+    "high": 1773.1,
+    "low": 1742.2,
+    "close": 1742.2,
+    "volume": 322310981,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1742.2,
+    "high": 1770.9,
+    "low": 1722.2,
+    "close": 1762,
+    "volume": 291626123,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1755.6,
+    "high": 1762,
+    "low": 1698.7,
+    "close": 1715,
+    "volume": 338271415,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1708.5,
+    "high": 1743.8,
+    "low": 1601,
+    "close": 1619,
+    "volume": 1671177512,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1600,
+    "high": 1658.9,
+    "low": 1529.6,
+    "close": 1548,
+    "volume": 3199905949,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1556,
+    "high": 1584,
+    "low": 1541,
+    "close": 1550,
+    "volume": 965151848,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1561,
+    "high": 1571.6,
+    "low": 1538.1,
+    "close": 1558,
+    "volume": 220376089,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1556.4,
+    "high": 1567.3,
+    "low": 1508.3,
+    "close": 1532,
+    "volume": 628459647,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1530.5,
+    "high": 1562,
+    "low": 1514.8,
+    "close": 1532,
+    "volume": 688452605,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1528.6,
+    "high": 1588.9,
+    "low": 1522.5,
+    "close": 1568.3,
+    "volume": 754792724,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1571.9,
+    "high": 1635,
+    "low": 1535.4,
+    "close": 1634,
+    "volume": 383306020,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1616.9,
+    "high": 1617.7,
+    "low": 1516.6,
+    "close": 1570,
+    "volume": 836435201,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1620,
+    "high": 1620.2,
+    "low": 1565,
+    "close": 1578,
+    "volume": 592573853,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1583.3,
+    "high": 1596.5,
+    "low": 1555.4,
+    "close": 1559.1,
+    "volume": 207868493,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1562.2,
+    "high": 1566.2,
+    "low": 1539.2,
+    "close": 1548,
+    "volume": 134871727,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1550,
+    "high": 1560.3,
+    "low": 1532,
+    "close": 1535,
+    "volume": 123464461,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1562,
+    "high": 1583,
+    "low": 1546.7,
+    "close": 1578.8,
+    "volume": 486155551,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1584,
+    "high": 1688,
+    "low": 1580,
+    "close": 1686,
+    "volume": 835679378,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1685,
+    "high": 1707.8,
+    "low": 1659.4,
+    "close": 1694.1,
+    "volume": 971231567,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1694,
+    "high": 1710,
+    "low": 1670,
+    "close": 1705,
+    "volume": 205305973,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1680,
+    "high": 1691.6,
+    "low": 1641.3,
+    "close": 1655,
+    "volume": 236758762,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1625.1,
+    "high": 1645.8,
+    "low": 1615,
+    "close": 1620,
+    "volume": 162712106,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1611,
+    "high": 1655.4,
+    "low": 1611,
+    "close": 1651.4,
+    "volume": 132438818,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1650,
+    "high": 1660.5,
+    "low": 1633,
+    "close": 1655,
+    "volume": 133011854,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1665.6,
+    "high": 1677.9,
+    "low": 1639.2,
+    "close": 1650,
+    "volume": 299000600,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1655,
+    "high": 1703.6,
+    "low": 1646.7,
+    "close": 1685,
+    "volume": 885589890,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1686.7,
+    "high": 1694,
+    "low": 1656.6,
+    "close": 1684.4,
+    "volume": 313834913,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1685.3,
+    "high": 1685.3,
+    "low": 1590.1,
+    "close": 1632,
+    "volume": 542743649,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1630.8,
+    "high": 1659.9,
+    "low": 1583.6,
+    "close": 1648,
+    "volume": 443909220,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1632,
+    "high": 1669.8,
+    "low": 1622.3,
+    "close": 1654.7,
+    "volume": 220236503,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1660.6,
+    "high": 1661,
+    "low": 1580.5,
+    "close": 1603,
+    "volume": 1555926697,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1575,
+    "high": 1596.6,
+    "low": 1539.2,
+    "close": 1545.8,
+    "volume": 311855498,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1513.7,
+    "high": 1523,
+    "low": 1471.6,
+    "close": 1478.8,
+    "volume": 310750199,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1492.4,
+    "high": 1492.4,
+    "low": 1443.3,
+    "close": 1461,
+    "volume": 431078705,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1450.1,
+    "high": 1498.8,
+    "low": 1439.8,
+    "close": 1470,
+    "volume": 531197574,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1426,
+    "high": 1487,
+    "low": 1401.9,
+    "close": 1483.5,
+    "volume": 848646444,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1490.2,
+    "high": 1491.2,
+    "low": 1451,
+    "close": 1475,
+    "volume": 355277720,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1479,
+    "high": 1496,
+    "low": 1466,
+    "close": 1483,
+    "volume": 415075719,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1475,
+    "high": 1475.5,
+    "low": 1438.6,
+    "close": 1454.4,
+    "volume": 213513250,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1440,
+    "high": 1452,
+    "low": 1394.8,
+    "close": 1402,
+    "volume": 775443522,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1400,
+    "high": 1425,
+    "low": 1377.3,
+    "close": 1410.3,
+    "volume": 482216002,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1421.5,
+    "high": 1441.1,
+    "low": 1400.5,
+    "close": 1437,
+    "volume": 489334140,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1436.9,
+    "high": 1504.2,
+    "low": 1430.4,
+    "close": 1498.6,
+    "volume": 296279839,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1489.3,
+    "high": 1489.3,
+    "low": 1437,
+    "close": 1443,
+    "volume": 301935101,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1444.8,
+    "high": 1463.6,
+    "low": 1410.1,
+    "close": 1453,
+    "volume": 383631304,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1410.2,
+    "high": 1413.7,
+    "low": 1361.6,
+    "close": 1381,
+    "volume": 899479101,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1421,
+    "high": 1434,
+    "low": 1372,
+    "close": 1404,
+    "volume": 324405069,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1418,
+    "high": 1457.7,
+    "low": 1411.9,
+    "close": 1442,
+    "volume": 303735399,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1449.8,
+    "high": 1449.8,
+    "low": 1385,
+    "close": 1410,
+    "volume": 403909106,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1400,
+    "high": 1404,
+    "low": 1342.1,
+    "close": 1350,
+    "volume": 468545449,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1377.2,
+    "high": 1417.4,
+    "low": 1362.1,
+    "close": 1388.5,
+    "volume": 349021692,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1361.8,
+    "high": 1397.9,
+    "low": 1322.5,
+    "close": 1381,
+    "volume": 330923235,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1380,
+    "high": 1409.8,
+    "low": 1363.5,
+    "close": 1395,
+    "volume": 362318365,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1385,
+    "high": 1407,
+    "low": 1366.2,
+    "close": 1405,
+    "volume": 275061641,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1460,
+    "high": 1472,
+    "low": 1424.1,
+    "close": 1469.2,
+    "volume": 324371806,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1468.3,
+    "high": 1494.7,
+    "low": 1447,
+    "close": 1475,
+    "volume": 625520291,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1472.4,
+    "high": 1518.9,
+    "low": 1470,
+    "close": 1510,
+    "volume": 606746303,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1485.7,
+    "high": 1533,
+    "low": 1430,
+    "close": 1511.4,
+    "volume": 439839673,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1530,
+    "high": 1568,
+    "low": 1525.3,
+    "close": 1545.6,
+    "volume": 370005380,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1561.5,
+    "high": 1570,
+    "low": 1531,
+    "close": 1564.1,
+    "volume": 384738810,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1555.4,
+    "high": 1574.7,
+    "low": 1515,
+    "close": 1519,
+    "volume": 884257145,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1534,
+    "high": 1534,
+    "low": 1495.4,
+    "close": 1515.4,
+    "volume": 393158390,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1525.4,
+    "high": 1529.4,
+    "low": 1500,
+    "close": 1515.6,
+    "volume": 534528687,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1515.4,
+    "high": 1536,
+    "low": 1498.3,
+    "close": 1527,
+    "volume": 821353488,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1535,
+    "high": 1612,
+    "low": 1511.8,
+    "close": 1580,
+    "volume": 4608930309,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1590,
+    "high": 1595,
+    "low": 1490.9,
+    "close": 1517.9,
+    "volume": 1743655821,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1520.6,
+    "high": 1579,
+    "low": 1518.2,
+    "close": 1575,
+    "volume": 876544797,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1574.7,
+    "high": 1623,
+    "low": 1569.7,
+    "close": 1597.9,
+    "volume": 1079065302,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1607,
+    "high": 1614.2,
+    "low": 1582.7,
+    "close": 1593.2,
+    "volume": 692446545,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1582,
+    "high": 1590.1,
+    "low": 1568.3,
+    "close": 1586.7,
+    "volume": 438642842,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1586.7,
+    "high": 1597.4,
+    "low": 1550,
+    "close": 1570,
+    "volume": 627316243,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1570,
+    "high": 1572.9,
+    "low": 1538.7,
+    "close": 1565,
+    "volume": 652220285,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1579,
+    "high": 1609.5,
+    "low": 1557.1,
+    "close": 1592.4,
+    "volume": 721723717,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1599.2,
+    "high": 1609.8,
+    "low": 1580,
+    "close": 1598,
+    "volume": 356290201,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1593.9,
+    "high": 1609.4,
+    "low": 1575.1,
+    "close": 1582.6,
+    "volume": 588987999,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1576.9,
+    "high": 1592,
+    "low": 1560,
+    "close": 1570,
+    "volume": 248819680,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1571.5,
+    "high": 1591.4,
+    "low": 1530.4,
+    "close": 1540.1,
+    "volume": 397943688,
+    "symbol": "TATACOMM"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1545,
+    "high": 1575.9,
+    "low": 1532.3,
+    "close": 1570,
+    "volume": 433285263,
+    "symbol": "TATACOMM"
+  }
+]

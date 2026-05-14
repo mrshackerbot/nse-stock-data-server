@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 26600,
+    "high": 26865,
+    "low": 26425,
+    "close": 26775,
+    "volume": 253635375,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 26775,
+    "high": 27095,
+    "low": 26705,
+    "close": 27095,
+    "volume": 976319770,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 27070,
+    "high": 27690,
+    "low": 27070,
+    "close": 27680,
+    "volume": 635597980,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 27670,
+    "high": 28090,
+    "low": 27545,
+    "close": 27615,
+    "volume": 990584620,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 27560,
+    "high": 27665,
+    "low": 27205,
+    "close": 27325,
+    "volume": 611477840,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 27330,
+    "high": 27360,
+    "low": 26780,
+    "close": 26905,
+    "volume": 484984130,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 26850,
+    "high": 27085,
+    "low": 26670,
+    "close": 26965,
+    "volume": 896836630,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 26965,
+    "high": 27245,
+    "low": 26685,
+    "close": 27125,
+    "volume": 612120045,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 27180,
+    "high": 27400,
+    "low": 26920,
+    "close": 27100,
+    "volume": 436058445,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 26945,
+    "high": 27670,
+    "low": 26930,
+    "close": 27600,
+    "volume": 1025747930,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 27550,
+    "high": 27900,
+    "low": 27370,
+    "close": 27800,
+    "volume": 913365330,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 27610,
+    "high": 27980,
+    "low": 27445,
+    "close": 27500,
+    "volume": 296619385,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 27500,
+    "high": 27915,
+    "low": 27095,
+    "close": 27225,
+    "volume": 1174113675,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 27225,
+    "high": 27450,
+    "low": 26990,
+    "close": 27350,
+    "volume": 683056870,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 27500,
+    "high": 27715,
+    "low": 27330,
+    "close": 27445,
+    "volume": 402525935,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 27455,
+    "high": 27555,
+    "low": 26935,
+    "close": 27105,
+    "volume": 665073490,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 27200,
+    "high": 27720,
+    "low": 27040,
+    "close": 27155,
+    "volume": 883163540,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 27200,
+    "high": 27550,
+    "low": 27045,
+    "close": 27455,
+    "volume": 500595275,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 27500,
+    "high": 27500,
+    "low": 26865,
+    "close": 27130,
+    "volume": 761543635,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 27055,
+    "high": 27200,
+    "low": 26805,
+    "close": 26955,
+    "volume": 1145538725,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 27230,
+    "high": 27230,
+    "low": 26155,
+    "close": 26450,
+    "volume": 689220140,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 26385,
+    "high": 26850,
+    "low": 26110,
+    "close": 26790,
+    "volume": 1119086135,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 27200,
+    "high": 27435,
+    "low": 26780,
+    "close": 27200,
+    "volume": 1403056130,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 27080,
+    "high": 27525,
+    "low": 26905,
+    "close": 27460,
+    "volume": 701331995,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 27460,
+    "high": 27545,
+    "low": 27100,
+    "close": 27270,
+    "volume": 1049512650,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 27270,
+    "high": 27430,
+    "low": 27040,
+    "close": 27350,
+    "volume": 402539725,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 26685,
+    "high": 27260,
+    "low": 26435,
+    "close": 27100,
+    "volume": 1998763265,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 27070,
+    "high": 27090,
+    "low": 26450,
+    "close": 26500,
+    "volume": 1024509945,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 26600,
+    "high": 26850,
+    "low": 26365,
+    "close": 26750,
+    "volume": 678917025,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 26750,
+    "high": 26800,
+    "low": 26280,
+    "close": 26350,
+    "volume": 744600770,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 26090,
+    "high": 26255,
+    "low": 25750,
+    "close": 26100,
+    "volume": 724316575,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 25940,
+    "high": 26375,
+    "low": 25915,
+    "close": 26250,
+    "volume": 307148595,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 26200,
+    "high": 26440,
+    "low": 26125,
+    "close": 26335,
+    "volume": 342083630,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 26495,
+    "high": 26780,
+    "low": 26335,
+    "close": 26680,
+    "volume": 645612785,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 26780,
+    "high": 27150,
+    "low": 26110,
+    "close": 26250,
+    "volume": 866485415,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 26250,
+    "high": 26700,
+    "low": 25965,
+    "close": 26490,
+    "volume": 424591860,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 26520,
+    "high": 27045,
+    "low": 26365,
+    "close": 26450,
+    "volume": 646881675,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 26460,
+    "high": 26790,
+    "low": 26270,
+    "close": 26560,
+    "volume": 750733225,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 26400,
+    "high": 26980,
+    "low": 26400,
+    "close": 26950,
+    "volume": 452327290,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 26865,
+    "high": 27020,
+    "low": 26605,
+    "close": 26850,
+    "volume": 332948375,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 26850,
+    "high": 26865,
+    "low": 25965,
+    "close": 25995,
+    "volume": 1186688905,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 25200,
+    "high": 26215,
+    "low": 25185,
+    "close": 25850,
+    "volume": 728965045,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 25865,
+    "high": 25865,
+    "low": 24955,
+    "close": 25350,
+    "volume": 942646755,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 25355,
+    "high": 25520,
+    "low": 24760,
+    "close": 25225,
+    "volume": 927215530,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 25150,
+    "high": 25275,
+    "low": 24825,
+    "close": 24945,
+    "volume": 496452185,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 24600,
+    "high": 24600,
+    "low": 23520,
+    "close": 23565,
+    "volume": 908456435,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 23925,
+    "high": 24245,
+    "low": 23850,
+    "close": 23955,
+    "volume": 1681430905,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 24130,
+    "high": 24130,
+    "low": 23695,
+    "close": 23750,
+    "volume": 1059236215,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 23740,
+    "high": 23740,
+    "low": 23315,
+    "close": 23450,
+    "volume": 943185045,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 23500,
+    "high": 23505,
+    "low": 22855,
+    "close": 23000,
+    "volume": 1120836215,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 22970,
+    "high": 23470,
+    "low": 22945,
+    "close": 23450,
+    "volume": 1003070175,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 23395,
+    "high": 23780,
+    "low": 23170,
+    "close": 23695,
+    "volume": 370445595,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 23910,
+    "high": 24000,
+    "low": 23705,
+    "close": 23890,
+    "volume": 406027835,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 23410,
+    "high": 23645,
+    "low": 23125,
+    "close": 23355,
+    "volume": 468058720,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 23405,
+    "high": 23710,
+    "low": 23360,
+    "close": 23550,
+    "volume": 702826835,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 23495,
+    "high": 23495,
+    "low": 22550,
+    "close": 22750,
+    "volume": 844945325,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 23085,
+    "high": 23475,
+    "low": 22615,
+    "close": 23385,
+    "volume": 912662725,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 23500,
+    "high": 24355,
+    "low": 23445,
+    "close": 24260,
+    "volume": 460040315,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 24220,
+    "high": 24220,
+    "low": 23565,
+    "close": 23620,
+    "volume": 1247557170,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 23365,
+    "high": 23625,
+    "low": 22955,
+    "close": 23000,
+    "volume": 1882858865,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 23490,
+    "high": 23510,
+    "low": 23080,
+    "close": 23340,
+    "volume": 465639100,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 22955,
+    "high": 23265,
+    "low": 22675,
+    "close": 23120,
+    "volume": 470744370,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 23460,
+    "high": 24015,
+    "low": 22980,
+    "close": 23580,
+    "volume": 734159415,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 23390,
+    "high": 23525,
+    "low": 23140,
+    "close": 23320,
+    "volume": 1350016205,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 24200,
+    "high": 24700,
+    "low": 23895,
+    "close": 24205,
+    "volume": 769479125,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 24200,
+    "high": 24320,
+    "low": 23665,
+    "close": 23755,
+    "volume": 2479852395,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 23990,
+    "high": 24495,
+    "low": 23940,
+    "close": 24225,
+    "volume": 1848263550,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 23940,
+    "high": 24395,
+    "low": 23600,
+    "close": 24250,
+    "volume": 579352855,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 24700,
+    "high": 25150,
+    "low": 24545,
+    "close": 24960,
+    "volume": 2046204655,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 25200,
+    "high": 25275,
+    "low": 24830,
+    "close": 25130,
+    "volume": 870709975,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 25110,
+    "high": 25325,
+    "low": 25055,
+    "close": 25300,
+    "volume": 410484605,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 25300,
+    "high": 25520,
+    "low": 25050,
+    "close": 25160,
+    "volume": 891180275,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 25420,
+    "high": 25890,
+    "low": 25230,
+    "close": 25640,
+    "volume": 212678450,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 25590,
+    "high": 25800,
+    "low": 25455,
+    "close": 25700,
+    "volume": 294663215,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 25605,
+    "high": 25850,
+    "low": 25125,
+    "close": 25485,
+    "volume": 387890770,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 25470,
+    "high": 25550,
+    "low": 24815,
+    "close": 25000,
+    "volume": 286513275,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 25070,
+    "high": 25465,
+    "low": 25020,
+    "close": 25190,
+    "volume": 904054995,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 25200,
+    "high": 25230,
+    "low": 24680,
+    "close": 25140,
+    "volume": 730693170,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 25100,
+    "high": 25355,
+    "low": 24500,
+    "close": 24615,
+    "volume": 294871270,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 24450,
+    "high": 24450,
+    "low": 23800,
+    "close": 24290,
+    "volume": 778148760,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 24295,
+    "high": 24900,
+    "low": 24295,
+    "close": 24730,
+    "volume": 299171810,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 24600,
+    "high": 24990,
+    "low": 24405,
+    "close": 24855,
+    "volume": 484383390,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 25105,
+    "high": 25200,
+    "low": 24660,
+    "close": 25140,
+    "volume": 1319453570,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 25450,
+    "high": 25990,
+    "low": 25430,
+    "close": 25650,
+    "volume": 1506482900,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 25590,
+    "high": 25590,
+    "low": 25165,
+    "close": 25280,
+    "volume": 773827650,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 25190,
+    "high": 25385,
+    "low": 25000,
+    "close": 25155,
+    "volume": 286340550,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 25100,
+    "high": 25325,
+    "low": 24800,
+    "close": 24880,
+    "volume": 475653525,
+    "symbol": "SHREECEM"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 24705,
+    "high": 25285,
+    "low": 24705,
+    "close": 24980,
+    "volume": 346465230,
+    "symbol": "SHREECEM"
+  }
+]

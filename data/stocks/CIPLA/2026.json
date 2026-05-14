@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1512,
+    "high": 1512,
+    "low": 1499,
+    "close": 1502,
+    "volume": 342494068,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1500.9,
+    "high": 1517.8,
+    "low": 1498.6,
+    "close": 1510,
+    "volume": 1456106338,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1511,
+    "high": 1525,
+    "low": 1507.2,
+    "close": 1520.1,
+    "volume": 2325746394,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1519.8,
+    "high": 1539.7,
+    "low": 1519.8,
+    "close": 1528.6,
+    "volume": 2469562443,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1516,
+    "high": 1516,
+    "low": 1455,
+    "close": 1465.3,
+    "volume": 7486000314,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1467.9,
+    "high": 1469.3,
+    "low": 1458,
+    "close": 1461,
+    "volume": 3877774466,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1464.7,
+    "high": 1468.3,
+    "low": 1456.1,
+    "close": 1466,
+    "volume": 2640001017,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1464,
+    "high": 1467.5,
+    "low": 1444.2,
+    "close": 1464,
+    "volume": 3467740374,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1460,
+    "high": 1469.4,
+    "low": 1436.6,
+    "close": 1448,
+    "volume": 2760961730,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1443.8,
+    "high": 1449.8,
+    "low": 1425.7,
+    "close": 1433.5,
+    "volume": 2545532622,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1379,
+    "high": 1409.5,
+    "low": 1367.2,
+    "close": 1398,
+    "volume": 6036486145,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1396.5,
+    "high": 1398.1,
+    "low": 1371.9,
+    "close": 1387.8,
+    "volume": 2291881551,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1392.3,
+    "high": 1395.9,
+    "low": 1375.4,
+    "close": 1381,
+    "volume": 2822289276,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1378.4,
+    "high": 1398.4,
+    "low": 1363.8,
+    "close": 1370,
+    "volume": 3169354486,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1381.2,
+    "high": 1384.5,
+    "low": 1366.7,
+    "close": 1374,
+    "volume": 2111163716,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1372.2,
+    "high": 1385.9,
+    "low": 1303,
+    "close": 1322.3,
+    "volume": 8805880479,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1300,
+    "high": 1323.5,
+    "low": 1281.7,
+    "close": 1314,
+    "volume": 5373410448,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1313,
+    "high": 1334.7,
+    "low": 1310.1,
+    "close": 1334.7,
+    "volume": 2028738828,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1325,
+    "high": 1327.6,
+    "low": 1307,
+    "close": 1319,
+    "volume": 2765195036,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1319,
+    "high": 1329.9,
+    "low": 1314.4,
+    "close": 1325,
+    "volume": 2853942958,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1328.5,
+    "high": 1343,
+    "low": 1308.7,
+    "close": 1343,
+    "volume": 1478481173,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1330,
+    "high": 1333,
+    "low": 1293.1,
+    "close": 1314.5,
+    "volume": 2390196641,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1365,
+    "high": 1381.3,
+    "low": 1319.6,
+    "close": 1323.4,
+    "volume": 3606597437,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1322.8,
+    "high": 1335.1,
+    "low": 1315.8,
+    "close": 1329,
+    "volume": 2113744882,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1335.9,
+    "high": 1335.9,
+    "low": 1321,
+    "close": 1332.7,
+    "volume": 1329399692,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1328,
+    "high": 1335.7,
+    "low": 1316.5,
+    "close": 1326.1,
+    "volume": 1934921245,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1338,
+    "high": 1352,
+    "low": 1328,
+    "close": 1348,
+    "volume": 2586332963,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1349.7,
+    "high": 1358,
+    "low": 1337,
+    "close": 1341.1,
+    "volume": 1418124668,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1342.1,
+    "high": 1352.4,
+    "low": 1335,
+    "close": 1350.1,
+    "volume": 1118285131,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1349.9,
+    "high": 1350,
+    "low": 1321.6,
+    "close": 1329.8,
+    "volume": 2149982825,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1328,
+    "high": 1336.1,
+    "low": 1315.8,
+    "close": 1331.7,
+    "volume": 1642514525,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1331,
+    "high": 1358,
+    "low": 1327.5,
+    "close": 1355,
+    "volume": 2178477639,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1350,
+    "high": 1356,
+    "low": 1340.1,
+    "close": 1343.2,
+    "volume": 1901109818,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1350.8,
+    "high": 1352.9,
+    "low": 1338.1,
+    "close": 1350,
+    "volume": 1503355112,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1349.8,
+    "high": 1357,
+    "low": 1323.7,
+    "close": 1329,
+    "volume": 786798875,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1328.9,
+    "high": 1342.9,
+    "low": 1324.3,
+    "close": 1338,
+    "volume": 2074108235,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1335.9,
+    "high": 1335.9,
+    "low": 1308.8,
+    "close": 1327,
+    "volume": 3225777163,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1326,
+    "high": 1338.5,
+    "low": 1316.5,
+    "close": 1330.1,
+    "volume": 2798615050,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1326.7,
+    "high": 1349,
+    "low": 1326.7,
+    "close": 1345,
+    "volume": 1366068840,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1352.8,
+    "high": 1364.9,
+    "low": 1343.3,
+    "close": 1358,
+    "volume": 2724755688,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1353,
+    "high": 1356.9,
+    "low": 1338.5,
+    "close": 1346,
+    "volume": 3514352815,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1313,
+    "high": 1354.5,
+    "low": 1313,
+    "close": 1351,
+    "volume": 2548324241,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1348.2,
+    "high": 1348.9,
+    "low": 1311,
+    "close": 1313,
+    "volume": 2567733353,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1314.9,
+    "high": 1332.1,
+    "low": 1314.9,
+    "close": 1327.5,
+    "volume": 1566607176,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1326.1,
+    "high": 1332.7,
+    "low": 1315,
+    "close": 1323.8,
+    "volume": 921025773,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1309,
+    "high": 1329.8,
+    "low": 1292.7,
+    "close": 1325,
+    "volume": 2202526793,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1323,
+    "high": 1340.3,
+    "low": 1317.5,
+    "close": 1335.1,
+    "volume": 1397819963,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1325,
+    "high": 1338.1,
+    "low": 1324.9,
+    "close": 1327.4,
+    "volume": 1689537868,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1325.1,
+    "high": 1341.7,
+    "low": 1319,
+    "close": 1327.8,
+    "volume": 1865308392,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1324.3,
+    "high": 1327.5,
+    "low": 1301,
+    "close": 1315.1,
+    "volume": 1770114360,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1314.7,
+    "high": 1327.9,
+    "low": 1291.6,
+    "close": 1299.1,
+    "volume": 1949433285,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1300,
+    "high": 1302.6,
+    "low": 1275.6,
+    "close": 1280.4,
+    "volume": 2616869916,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1282,
+    "high": 1289.5,
+    "low": 1264.6,
+    "close": 1266.7,
+    "volume": 2838675043,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1253.9,
+    "high": 1263.5,
+    "low": 1235.4,
+    "close": 1245,
+    "volume": 1348038063,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1250,
+    "high": 1264,
+    "low": 1248,
+    "close": 1260,
+    "volume": 1447443927,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1252,
+    "high": 1252.7,
+    "low": 1217.8,
+    "close": 1220.6,
+    "volume": 1599322190,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1235,
+    "high": 1240,
+    "low": 1216.6,
+    "close": 1220,
+    "volume": 1044557617,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1222.7,
+    "high": 1252.9,
+    "low": 1219,
+    "close": 1248.4,
+    "volume": 1818679842,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1226.5,
+    "high": 1249.2,
+    "low": 1226.5,
+    "close": 1242,
+    "volume": 2752406320,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1231.2,
+    "high": 1235,
+    "low": 1215,
+    "close": 1222,
+    "volume": 2561093142,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1255,
+    "high": 1257,
+    "low": 1194,
+    "close": 1199.7,
+    "volume": 2640543099,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1190,
+    "high": 1196.6,
+    "low": 1165.7,
+    "close": 1195,
+    "volume": 3708949642,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1190.3,
+    "high": 1206,
+    "low": 1170,
+    "close": 1203.9,
+    "volume": 2599666012,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1195,
+    "high": 1210.4,
+    "low": 1185.4,
+    "close": 1203,
+    "volume": 2459683862,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1220,
+    "high": 1223,
+    "low": 1204.5,
+    "close": 1216.6,
+    "volume": 3008582085,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1215.2,
+    "high": 1231.2,
+    "low": 1213.1,
+    "close": 1225,
+    "volume": 3118015732,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1225.4,
+    "high": 1239,
+    "low": 1220.8,
+    "close": 1230.8,
+    "volume": 2570446120,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1222.3,
+    "high": 1222.3,
+    "low": 1203.2,
+    "close": 1211.8,
+    "volume": 1953015583,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1220,
+    "high": 1228.7,
+    "low": 1216.1,
+    "close": 1227,
+    "volume": 1589556972,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1231,
+    "high": 1235.5,
+    "low": 1222.8,
+    "close": 1231.9,
+    "volume": 2186901308,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1230.5,
+    "high": 1244.5,
+    "low": 1224.4,
+    "close": 1244.5,
+    "volume": 2835448778,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1245,
+    "high": 1246,
+    "low": 1226,
+    "close": 1228.8,
+    "volume": 1429801993,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1228.6,
+    "high": 1236.4,
+    "low": 1223.3,
+    "close": 1233.8,
+    "volume": 1758930557,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1226,
+    "high": 1240.8,
+    "low": 1222,
+    "close": 1239.8,
+    "volume": 1445366423,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1234.1,
+    "high": 1308.4,
+    "low": 1227.6,
+    "close": 1307,
+    "volume": 6795227940,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1295,
+    "high": 1303.9,
+    "low": 1254.1,
+    "close": 1296,
+    "volume": 5696241560,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1303.2,
+    "high": 1320.7,
+    "low": 1299,
+    "close": 1315,
+    "volume": 2261250934,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1316,
+    "high": 1326,
+    "low": 1296.3,
+    "close": 1310.9,
+    "volume": 1967285634,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1312,
+    "high": 1322,
+    "low": 1307.8,
+    "close": 1313.2,
+    "volume": 1299561507,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1317.9,
+    "high": 1329.8,
+    "low": 1305,
+    "close": 1305,
+    "volume": 1801426900,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1320,
+    "high": 1337.4,
+    "low": 1313.6,
+    "close": 1335,
+    "volume": 1448091013,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1339,
+    "high": 1339.4,
+    "low": 1316.4,
+    "close": 1335.2,
+    "volume": 1395330904,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1340,
+    "high": 1372,
+    "low": 1333.1,
+    "close": 1362.9,
+    "volume": 2520646241,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1370,
+    "high": 1379.5,
+    "low": 1360.1,
+    "close": 1361,
+    "volume": 1709001228,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1355,
+    "high": 1366.7,
+    "low": 1341.3,
+    "close": 1348,
+    "volume": 1410633012,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1347,
+    "high": 1350,
+    "low": 1300.1,
+    "close": 1305.5,
+    "volume": 1881836572,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1304.6,
+    "high": 1309,
+    "low": 1289,
+    "close": 1293.7,
+    "volume": 1816657775,
+    "symbol": "CIPLA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1279.1,
+    "high": 1356.6,
+    "low": 1274.7,
+    "close": 1329.8,
+    "volume": 7947423229,
+    "symbol": "CIPLA"
+  }
+]

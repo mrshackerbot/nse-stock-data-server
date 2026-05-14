@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 46.55,
+    "high": 48.2,
+    "low": 45.5,
+    "close": 47.3,
+    "volume": 1828250140,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 47.6,
+    "high": 48.75,
+    "low": 46.3,
+    "close": 48.4,
+    "volume": 1902754486,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 48.3,
+    "high": 49.15,
+    "low": 47,
+    "close": 47.45,
+    "volume": 1618910829,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 47,
+    "high": 49.1,
+    "low": 46.75,
+    "close": 48.4,
+    "volume": 2048181292,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 48.7,
+    "high": 48.8,
+    "low": 44.55,
+    "close": 45.8,
+    "volume": 6100835579,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 46.4,
+    "high": 49.05,
+    "low": 45.4,
+    "close": 48.4,
+    "volume": 5573821446,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 43.75,
+    "high": 46.7,
+    "low": 43.15,
+    "close": 44.75,
+    "volume": 2624549908,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 45,
+    "high": 45.4,
+    "low": 43.95,
+    "close": 45,
+    "volume": 1038744449,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 45.1,
+    "high": 45.2,
+    "low": 44.3,
+    "close": 44.7,
+    "volume": 708895381,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 44.5,
+    "high": 45.95,
+    "low": 44.25,
+    "close": 45.3,
+    "volume": 1055895114,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 45.35,
+    "high": 46.1,
+    "low": 44.6,
+    "close": 44.85,
+    "volume": 991281267,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 45.2,
+    "high": 45.2,
+    "low": 43.1,
+    "close": 43.5,
+    "volume": 723848290,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 43.5,
+    "high": 44.2,
+    "low": 42.1,
+    "close": 44,
+    "volume": 683577030,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 44,
+    "high": 44.4,
+    "low": 43.05,
+    "close": 43.35,
+    "volume": 676279220,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 43.35,
+    "high": 43.7,
+    "low": 42,
+    "close": 42.4,
+    "volume": 375733781,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 42.3,
+    "high": 42.75,
+    "low": 39.6,
+    "close": 39.7,
+    "volume": 485768797,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 39.75,
+    "high": 40.8,
+    "low": 39,
+    "close": 40.35,
+    "volume": 509923925,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 40.3,
+    "high": 40.3,
+    "low": 39.05,
+    "close": 40.05,
+    "volume": 661769698,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 40.25,
+    "high": 41.5,
+    "low": 40.15,
+    "close": 40.65,
+    "volume": 506993098,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 41.05,
+    "high": 42.4,
+    "low": 40.8,
+    "close": 42.4,
+    "volume": 683585099,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 42.8,
+    "high": 43.75,
+    "low": 41.7,
+    "close": 42.4,
+    "volume": 1494503703,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 42.7,
+    "high": 44.2,
+    "low": 42.7,
+    "close": 43.75,
+    "volume": 1297940771,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 43.85,
+    "high": 44.5,
+    "low": 43.45,
+    "close": 43.9,
+    "volume": 811486118,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 44.15,
+    "high": 44.15,
+    "low": 42.95,
+    "close": 43.05,
+    "volume": 523590448,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 43,
+    "high": 43.2,
+    "low": 41.8,
+    "close": 42.4,
+    "volume": 531284606,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 42.55,
+    "high": 42.85,
+    "low": 41.3,
+    "close": 42.45,
+    "volume": 881251454,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 43.1,
+    "high": 43.75,
+    "low": 42.15,
+    "close": 43.35,
+    "volume": 842268342,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 44,
+    "high": 44,
+    "low": 42.25,
+    "close": 42.55,
+    "volume": 940495919,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 42,
+    "high": 43.15,
+    "low": 41.8,
+    "close": 42.45,
+    "volume": 604907867,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 41.1,
+    "high": 41.4,
+    "low": 39,
+    "close": 39.15,
+    "volume": 878510191,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 39.4,
+    "high": 41.25,
+    "low": 38.95,
+    "close": 40.9,
+    "volume": 1207973022,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 41.25,
+    "high": 41.45,
+    "low": 40.5,
+    "close": 40.6,
+    "volume": 430376468,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 40.8,
+    "high": 41.1,
+    "low": 39.9,
+    "close": 40.35,
+    "volume": 1037482460,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 40.1,
+    "high": 40.8,
+    "low": 39.8,
+    "close": 39.9,
+    "volume": 327108745,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 39.8,
+    "high": 39.95,
+    "low": 38.95,
+    "close": 39.1,
+    "volume": 362559099,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 37.6,
+    "high": 38.45,
+    "low": 37.4,
+    "close": 38.15,
+    "volume": 497160151,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 38.35,
+    "high": 39.45,
+    "low": 38.25,
+    "close": 38.6,
+    "volume": 366168562,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 37.15,
+    "high": 37.5,
+    "low": 33.85,
+    "close": 34.65,
+    "volume": 666538893,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 35.75,
+    "high": 37.8,
+    "low": 35.6,
+    "close": 37.65,
+    "volume": 1167007177,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 36.8,
+    "high": 38.2,
+    "low": 36.2,
+    "close": 38.05,
+    "volume": 496722174,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 37.8,
+    "high": 38.35,
+    "low": 36.95,
+    "close": 38.25,
+    "volume": 376226348,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 38.6,
+    "high": 38.95,
+    "low": 37.95,
+    "close": 38.4,
+    "volume": 418234157,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 38,
+    "high": 38.15,
+    "low": 37,
+    "close": 37.25,
+    "volume": 299534802,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 36.95,
+    "high": 36.95,
+    "low": 35.7,
+    "close": 36.8,
+    "volume": 274960290,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 36.6,
+    "high": 38,
+    "low": 36.6,
+    "close": 37.6,
+    "volume": 451546146,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 38.1,
+    "high": 39.95,
+    "low": 38,
+    "close": 39.6,
+    "volume": 645935796,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 40.85,
+    "high": 40.85,
+    "low": 38.9,
+    "close": 39.1,
+    "volume": 615484907,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 39,
+    "high": 39.6,
+    "low": 38.7,
+    "close": 39.35,
+    "volume": 1373973950,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 39.3,
+    "high": 39.5,
+    "low": 38.15,
+    "close": 38.75,
+    "volume": 564092179,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 38.9,
+    "high": 39.05,
+    "low": 37.4,
+    "close": 37.45,
+    "volume": 379093249,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 38.15,
+    "high": 38.65,
+    "low": 38,
+    "close": 38.5,
+    "volume": 756209679,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 39.25,
+    "high": 39.25,
+    "low": 38,
+    "close": 38.15,
+    "volume": 1346846690,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 38.4,
+    "high": 38.4,
+    "low": 37.3,
+    "close": 37.5,
+    "volume": 486698281,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 37.5,
+    "high": 38.15,
+    "low": 36.75,
+    "close": 38.1,
+    "volume": 628276746,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 38.3,
+    "high": 38.45,
+    "low": 37.05,
+    "close": 37.15,
+    "volume": 664780743,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 37.1,
+    "high": 37.2,
+    "low": 36.75,
+    "close": 36.8,
+    "volume": 450110765,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 37,
+    "high": 37.25,
+    "low": 36.45,
+    "close": 36.65,
+    "volume": 639530033,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 36.7,
+    "high": 36.8,
+    "low": 35.7,
+    "close": 35.85,
+    "volume": 1320425078,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 36,
+    "high": 37,
+    "low": 35.45,
+    "close": 36.65,
+    "volume": 615442186,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 36.95,
+    "high": 37.6,
+    "low": 36.6,
+    "close": 36.9,
+    "volume": 340392497,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 37.05,
+    "high": 37.6,
+    "low": 36.35,
+    "close": 36.85,
+    "volume": 543238102,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 36.9,
+    "high": 39.3,
+    "low": 36.6,
+    "close": 38.75,
+    "volume": 610105953,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 39.2,
+    "high": 39.8,
+    "low": 38.7,
+    "close": 39.1,
+    "volume": 401009557,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 39.1,
+    "high": 40.05,
+    "low": 38.95,
+    "close": 39.5,
+    "volume": 802820204,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 39.3,
+    "high": 41,
+    "low": 39.1,
+    "close": 40.95,
+    "volume": 580701577,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 40.8,
+    "high": 41.3,
+    "low": 39.85,
+    "close": 40.4,
+    "volume": 479661942,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 40.4,
+    "high": 40.85,
+    "low": 39.65,
+    "close": 40.45,
+    "volume": 461793357,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 40.4,
+    "high": 41,
+    "low": 39.75,
+    "close": 40.1,
+    "volume": 333102720,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 39.8,
+    "high": 40,
+    "low": 38.8,
+    "close": 39.3,
+    "volume": 342910727,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 39.6,
+    "high": 39.75,
+    "low": 38.8,
+    "close": 38.95,
+    "volume": 219862705,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 38.95,
+    "high": 38.95,
+    "low": 37.9,
+    "close": 38.5,
+    "volume": 242665401,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 38.85,
+    "high": 38.95,
+    "low": 36.5,
+    "close": 36.95,
+    "volume": 234381170,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 37.45,
+    "high": 37.6,
+    "low": 36.65,
+    "close": 36.85,
+    "volume": 397331063,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 37,
+    "high": 38.15,
+    "low": 37,
+    "close": 37.95,
+    "volume": 317669539,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 37.95,
+    "high": 38.5,
+    "low": 37.45,
+    "close": 37.6,
+    "volume": 349491070,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 37,
+    "high": 37.2,
+    "low": 36.4,
+    "close": 37,
+    "volume": 333787800,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 37.25,
+    "high": 38,
+    "low": 37.15,
+    "close": 37.9,
+    "volume": 234226610,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 37.75,
+    "high": 37.85,
+    "low": 36.8,
+    "close": 37.1,
+    "volume": 221372588,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 37.3,
+    "high": 37.55,
+    "low": 36.45,
+    "close": 37.45,
+    "volume": 350249941,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 37.5,
+    "high": 38.5,
+    "low": 37.45,
+    "close": 37.6,
+    "volume": 303179170,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 37.45,
+    "high": 38.1,
+    "low": 36.65,
+    "close": 37.6,
+    "volume": 245380885,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 37.95,
+    "high": 37.95,
+    "low": 35.65,
+    "close": 36.05,
+    "volume": 330227077,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 36.5,
+    "high": 36.95,
+    "low": 35.85,
+    "close": 36.1,
+    "volume": 165255737,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 35.4,
+    "high": 35.6,
+    "low": 34.7,
+    "close": 35.3,
+    "volume": 229242094,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 35.15,
+    "high": 35.15,
+    "low": 33.65,
+    "close": 33.85,
+    "volume": 298498089,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 33.85,
+    "high": 34.8,
+    "low": 33.4,
+    "close": 33.45,
+    "volume": 213108908,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 33.85,
+    "high": 34.1,
+    "low": 31.85,
+    "close": 33.25,
+    "volume": 475743783,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 33,
+    "high": 33.15,
+    "low": 31.75,
+    "close": 32.45,
+    "volume": 335698178,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 32.5,
+    "high": 34.15,
+    "low": 32.5,
+    "close": 33.35,
+    "volume": 301365210,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 33.4,
+    "high": 35,
+    "low": 33.2,
+    "close": 34.85,
+    "volume": 259407014,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 34.6,
+    "high": 36.65,
+    "low": 34.6,
+    "close": 36.35,
+    "volume": 325353688,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 36,
+    "high": 36.4,
+    "low": 35.15,
+    "close": 35.95,
+    "volume": 412629975,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 35.15,
+    "high": 35.6,
+    "low": 34.8,
+    "close": 35.45,
+    "volume": 202982783,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 35.75,
+    "high": 36.95,
+    "low": 35.6,
+    "close": 36.95,
+    "volume": 227333745,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 36.95,
+    "high": 37.5,
+    "low": 36.45,
+    "close": 36.5,
+    "volume": 395001677,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 36.95,
+    "high": 37.5,
+    "low": 36.55,
+    "close": 37.3,
+    "volume": 4148751414,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 37.4,
+    "high": 37.65,
+    "low": 36.15,
+    "close": 36.25,
+    "volume": 216414393,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 36.65,
+    "high": 37.45,
+    "low": 35.45,
+    "close": 36.85,
+    "volume": 250281282,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 37.05,
+    "high": 38.05,
+    "low": 36.75,
+    "close": 37.9,
+    "volume": 438713813,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 38,
+    "high": 38.85,
+    "low": 37.9,
+    "close": 38.3,
+    "volume": 294152211,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 38.4,
+    "high": 39,
+    "low": 37.65,
+    "close": 37.9,
+    "volume": 515043961,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 38.4,
+    "high": 38.75,
+    "low": 38.1,
+    "close": 38.6,
+    "volume": 267719899,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 38.45,
+    "high": 38.7,
+    "low": 38.1,
+    "close": 38.4,
+    "volume": 151021240,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 38.7,
+    "high": 38.9,
+    "low": 37.05,
+    "close": 37.25,
+    "volume": 236571758,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 37.25,
+    "high": 37.6,
+    "low": 36.65,
+    "close": 37.1,
+    "volume": 134666758,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 37,
+    "high": 37.45,
+    "low": 36.35,
+    "close": 36.7,
+    "volume": 180202292,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 36.7,
+    "high": 37.3,
+    "low": 36.2,
+    "close": 36.25,
+    "volume": 167370761,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 36.35,
+    "high": 36.75,
+    "low": 35.85,
+    "close": 36.55,
+    "volume": 268454568,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 36.05,
+    "high": 37.6,
+    "low": 35.95,
+    "close": 37.1,
+    "volume": 471475158,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 36.75,
+    "high": 36.8,
+    "low": 35.3,
+    "close": 35.9,
+    "volume": 456777991,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 35.3,
+    "high": 36.4,
+    "low": 35.3,
+    "close": 35.9,
+    "volume": 187927865,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 35.8,
+    "high": 36.15,
+    "low": 35.5,
+    "close": 35.85,
+    "volume": 137829013,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 36.45,
+    "high": 36.45,
+    "low": 33.75,
+    "close": 34,
+    "volume": 610061357,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 34,
+    "high": 34.45,
+    "low": 33.25,
+    "close": 34.1,
+    "volume": 405649453,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 34.05,
+    "high": 34.45,
+    "low": 32.3,
+    "close": 33.7,
+    "volume": 487690370,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 33.6,
+    "high": 35.6,
+    "low": 33.55,
+    "close": 34.8,
+    "volume": 249082921,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 34.6,
+    "high": 34.7,
+    "low": 33.05,
+    "close": 33.4,
+    "volume": 185953198,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 33.55,
+    "high": 34.25,
+    "low": 33.35,
+    "close": 33.9,
+    "volume": 192066993,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 34.15,
+    "high": 34.9,
+    "low": 34.1,
+    "close": 34.8,
+    "volume": 102415980,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 35.25,
+    "high": 35.5,
+    "low": 34.55,
+    "close": 34.85,
+    "volume": 129181031,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 34.9,
+    "high": 35.2,
+    "low": 34.7,
+    "close": 35,
+    "volume": 309242107,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 34.75,
+    "high": 34.95,
+    "low": 34.5,
+    "close": 34.75,
+    "volume": 110906134,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 34.65,
+    "high": 35,
+    "low": 33.9,
+    "close": 34,
+    "volume": 190636126,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 34,
+    "high": 34.75,
+    "low": 33.6,
+    "close": 34.5,
+    "volume": 148338431,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 34.45,
+    "high": 34.65,
+    "low": 33.45,
+    "close": 33.95,
+    "volume": 246662552,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 34.15,
+    "high": 34.4,
+    "low": 33.45,
+    "close": 33.45,
+    "volume": 164546633,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 33.75,
+    "high": 34.25,
+    "low": 33.25,
+    "close": 34.2,
+    "volume": 195754336,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 34.3,
+    "high": 34.95,
+    "low": 34,
+    "close": 34.85,
+    "volume": 150449849,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 34.95,
+    "high": 35.1,
+    "low": 34.35,
+    "close": 34.9,
+    "volume": 141835277,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 34.8,
+    "high": 35.55,
+    "low": 34.45,
+    "close": 35.15,
+    "volume": 164541277,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 35.1,
+    "high": 35.3,
+    "low": 34.8,
+    "close": 34.9,
+    "volume": 95196956,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 35.3,
+    "high": 35.3,
+    "low": 34.45,
+    "close": 34.8,
+    "volume": 177361767,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 35,
+    "high": 35.1,
+    "low": 34.1,
+    "close": 34.65,
+    "volume": 181723683,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 34.7,
+    "high": 35.05,
+    "low": 34.35,
+    "close": 34.9,
+    "volume": 139331531,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 35.05,
+    "high": 35.35,
+    "low": 34.8,
+    "close": 35.2,
+    "volume": 124976488,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 35.2,
+    "high": 35.2,
+    "low": 34.5,
+    "close": 34.75,
+    "volume": 274543153,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 35.15,
+    "high": 35.2,
+    "low": 34.4,
+    "close": 34.55,
+    "volume": 329448090,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 34.6,
+    "high": 35.5,
+    "low": 34.3,
+    "close": 35.45,
+    "volume": 337921736,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 35.5,
+    "high": 35.7,
+    "low": 34.7,
+    "close": 35.15,
+    "volume": 218087213,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 35.4,
+    "high": 36.15,
+    "low": 34.8,
+    "close": 35.75,
+    "volume": 293486268,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 35.75,
+    "high": 35.95,
+    "low": 35,
+    "close": 35.1,
+    "volume": 389961199,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 34.9,
+    "high": 35.7,
+    "low": 34.6,
+    "close": 35.4,
+    "volume": 235718469,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 35.7,
+    "high": 36.15,
+    "low": 35.3,
+    "close": 35.45,
+    "volume": 191018905,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 35.9,
+    "high": 38.05,
+    "low": 35.6,
+    "close": 37.2,
+    "volume": 750341355,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 37.5,
+    "high": 37.5,
+    "low": 35.9,
+    "close": 35.9,
+    "volume": 394404647,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 35.5,
+    "high": 35.8,
+    "low": 34.6,
+    "close": 35.6,
+    "volume": 506775547,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 35.6,
+    "high": 35.95,
+    "low": 35,
+    "close": 35.2,
+    "volume": 181009955,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 35.35,
+    "high": 35.65,
+    "low": 34.55,
+    "close": 34.7,
+    "volume": 193175987,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 34.75,
+    "high": 35.05,
+    "low": 34.5,
+    "close": 34.7,
+    "volume": 156124055,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 34.7,
+    "high": 34.95,
+    "low": 34.2,
+    "close": 34.25,
+    "volume": 146907684,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 34.25,
+    "high": 35,
+    "low": 34.15,
+    "close": 34.7,
+    "volume": 155779397,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 34.95,
+    "high": 35.1,
+    "low": 34.55,
+    "close": 34.65,
+    "volume": 117276770,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 34.75,
+    "high": 34.85,
+    "low": 34.4,
+    "close": 34.55,
+    "volume": 100216183,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 34.6,
+    "high": 35.15,
+    "low": 34.4,
+    "close": 34.95,
+    "volume": 149647519,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 35,
+    "high": 35.55,
+    "low": 35,
+    "close": 35.3,
+    "volume": 137218486,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 35.35,
+    "high": 35.75,
+    "low": 35.05,
+    "close": 35.5,
+    "volume": 150051861,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 35.4,
+    "high": 35.85,
+    "low": 34.6,
+    "close": 34.7,
+    "volume": 161648350,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 34.75,
+    "high": 34.85,
+    "low": 33.75,
+    "close": 34.05,
+    "volume": 293182471,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 34,
+    "high": 34.45,
+    "low": 33.65,
+    "close": 34,
+    "volume": 182580345,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 34.05,
+    "high": 34.25,
+    "low": 33.35,
+    "close": 33.85,
+    "volume": 355131789,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 33.95,
+    "high": 35.35,
+    "low": 33.9,
+    "close": 34.8,
+    "volume": 895332292,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 35.25,
+    "high": 35.5,
+    "low": 35,
+    "close": 35.2,
+    "volume": 196697953,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 34.65,
+    "high": 34.8,
+    "low": 34,
+    "close": 34.7,
+    "volume": 299818475,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 35.1,
+    "high": 36.4,
+    "low": 34.9,
+    "close": 35.8,
+    "volume": 475981651,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 35.75,
+    "high": 38.7,
+    "low": 35.7,
+    "close": 38.4,
+    "volume": 1246083886,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 38.6,
+    "high": 40.75,
+    "low": 38,
+    "close": 39.3,
+    "volume": 1613189469,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 39.65,
+    "high": 40.1,
+    "low": 38.85,
+    "close": 39.2,
+    "volume": 497577391,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 39.3,
+    "high": 39.8,
+    "low": 39,
+    "close": 39.15,
+    "volume": 284130147,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 38.8,
+    "high": 40.2,
+    "low": 38.7,
+    "close": 39.85,
+    "volume": 396439525,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 39.95,
+    "high": 40.1,
+    "low": 39.35,
+    "close": 39.6,
+    "volume": 218047488,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 40,
+    "high": 40.75,
+    "low": 39.35,
+    "close": 39.5,
+    "volume": 435040838,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 39.55,
+    "high": 39.9,
+    "low": 39.05,
+    "close": 39.35,
+    "volume": 213030116,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 39.55,
+    "high": 40.65,
+    "low": 39.35,
+    "close": 40.4,
+    "volume": 411319876,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 39.7,
+    "high": 40.35,
+    "low": 39.4,
+    "close": 40,
+    "volume": 417032939,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 40.25,
+    "high": 41.8,
+    "low": 40,
+    "close": 40.2,
+    "volume": 820259456,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 40.2,
+    "high": 40.25,
+    "low": 38.2,
+    "close": 38.6,
+    "volume": 617214995,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 38.5,
+    "high": 39.35,
+    "low": 37.85,
+    "close": 38.75,
+    "volume": 313525874,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 39,
+    "high": 39.35,
+    "low": 38.15,
+    "close": 38.15,
+    "volume": 359332932,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 38.15,
+    "high": 38.6,
+    "low": 38,
+    "close": 38.05,
+    "volume": 314493654,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 38.2,
+    "high": 38.4,
+    "low": 37.55,
+    "close": 38,
+    "volume": 235313602,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 37.95,
+    "high": 38.05,
+    "low": 36.8,
+    "close": 37.15,
+    "volume": 531975751,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 36.7,
+    "high": 36.75,
+    "low": 35.05,
+    "close": 35.5,
+    "volume": 469620173,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 35.8,
+    "high": 36.2,
+    "low": 35.3,
+    "close": 35.8,
+    "volume": 392360199,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 35.65,
+    "high": 36.1,
+    "low": 35,
+    "close": 35.25,
+    "volume": 214326786,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 35.6,
+    "high": 36.15,
+    "low": 34.35,
+    "close": 35.2,
+    "volume": 396011636,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 35.15,
+    "high": 35.9,
+    "low": 34.5,
+    "close": 35.55,
+    "volume": 575207550,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 35.75,
+    "high": 35.9,
+    "low": 34.55,
+    "close": 34.8,
+    "volume": 346458423,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 35.15,
+    "high": 35.75,
+    "low": 35,
+    "close": 35.65,
+    "volume": 172680616,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 35.85,
+    "high": 36.2,
+    "low": 35.75,
+    "close": 35.85,
+    "volume": 149311881,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 35.9,
+    "high": 35.9,
+    "low": 35.1,
+    "close": 35.45,
+    "volume": 171669473,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 35.05,
+    "high": 35.25,
+    "low": 34.65,
+    "close": 35.2,
+    "volume": 127812521,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 35.3,
+    "high": 35.35,
+    "low": 34.75,
+    "close": 34.85,
+    "volume": 171275583,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 35.05,
+    "high": 35.6,
+    "low": 34.7,
+    "close": 35.5,
+    "volume": 284341717,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 35.55,
+    "high": 35.85,
+    "low": 34.3,
+    "close": 34.65,
+    "volume": 252826270,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 35.15,
+    "high": 35.3,
+    "low": 34.6,
+    "close": 34.8,
+    "volume": 183520671,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 34.8,
+    "high": 35.1,
+    "low": 34.1,
+    "close": 34.9,
+    "volume": 150910872,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 35.05,
+    "high": 35.6,
+    "low": 35,
+    "close": 35.4,
+    "volume": 140829499,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 35.5,
+    "high": 35.65,
+    "low": 34.85,
+    "close": 35,
+    "volume": 167458476,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 34.85,
+    "high": 35.05,
+    "low": 34.4,
+    "close": 34.95,
+    "volume": 192428108,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 34.9,
+    "high": 35.15,
+    "low": 34.35,
+    "close": 34.85,
+    "volume": 283174440,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 35.15,
+    "high": 35.15,
+    "low": 34.8,
+    "close": 34.95,
+    "volume": 26553937,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 34.95,
+    "high": 35.8,
+    "low": 34.55,
+    "close": 35.7,
+    "volume": 200374132,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 35.7,
+    "high": 38.75,
+    "low": 35.35,
+    "close": 37.55,
+    "volume": 919914198,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 37.85,
+    "high": 37.9,
+    "low": 36.7,
+    "close": 36.9,
+    "volume": 265216280,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 37.05,
+    "high": 37.6,
+    "low": 36.75,
+    "close": 37.45,
+    "volume": 233227720,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 37.7,
+    "high": 37.8,
+    "low": 37.05,
+    "close": 37.4,
+    "volume": 208035450,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 37.45,
+    "high": 37.65,
+    "low": 36.95,
+    "close": 37.25,
+    "volume": 123228928,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 37,
+    "high": 37.55,
+    "low": 36.95,
+    "close": 37.35,
+    "volume": 158626404,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 37.45,
+    "high": 38.3,
+    "low": 37.4,
+    "close": 38.05,
+    "volume": 345306934,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 38.1,
+    "high": 38.55,
+    "low": 37.5,
+    "close": 38.15,
+    "volume": 346067592,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 38.4,
+    "high": 38.5,
+    "low": 37.55,
+    "close": 37.65,
+    "volume": 251145868,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 37.7,
+    "high": 38.3,
+    "low": 37.35,
+    "close": 37.95,
+    "volume": 231705980,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 38.3,
+    "high": 38.7,
+    "low": 37.85,
+    "close": 38.1,
+    "volume": 327893187,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 38.25,
+    "high": 38.85,
+    "low": 37.8,
+    "close": 38.55,
+    "volume": 442274806,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 38.5,
+    "high": 38.5,
+    "low": 36.5,
+    "close": 37.1,
+    "volume": 615602287,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 37,
+    "high": 37.3,
+    "low": 36.15,
+    "close": 36.5,
+    "volume": 265266265,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 36.5,
+    "high": 37.9,
+    "low": 35.6,
+    "close": 37.15,
+    "volume": 697957114,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 37.55,
+    "high": 37.55,
+    "low": 36.9,
+    "close": 37.4,
+    "volume": 244413252,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 37.4,
+    "high": 37.8,
+    "low": 36.95,
+    "close": 37.75,
+    "volume": 207384441,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 37.8,
+    "high": 37.9,
+    "low": 37.2,
+    "close": 37.8,
+    "volume": 206246480,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 37.85,
+    "high": 39.45,
+    "low": 37.6,
+    "close": 38.9,
+    "volume": 697060365,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 39.25,
+    "high": 39.4,
+    "low": 38.55,
+    "close": 39,
+    "volume": 379865100,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 38.95,
+    "high": 41.05,
+    "low": 38.8,
+    "close": 40.75,
+    "volume": 1163486098,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 41,
+    "high": 41.15,
+    "low": 40.05,
+    "close": 40.25,
+    "volume": 467926825,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 40.35,
+    "high": 41.35,
+    "low": 39.9,
+    "close": 40.6,
+    "volume": 555717527,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 40.6,
+    "high": 43.2,
+    "low": 40.5,
+    "close": 42.9,
+    "volume": 1916481575,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 43.2,
+    "high": 43.25,
+    "low": 42.5,
+    "close": 42.75,
+    "volume": 755776957,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 42.75,
+    "high": 43.65,
+    "low": 42.6,
+    "close": 42.75,
+    "volume": 622723343,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 42.95,
+    "high": 43.6,
+    "low": 42.7,
+    "close": 43.45,
+    "volume": 706933045,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 43.6,
+    "high": 44.15,
+    "low": 43.15,
+    "close": 43.3,
+    "volume": 710262196,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 43.4,
+    "high": 43.6,
+    "low": 42.35,
+    "close": 43.05,
+    "volume": 674581450,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 43.15,
+    "high": 44.1,
+    "low": 42.85,
+    "close": 43.85,
+    "volume": 628551282,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 44.05,
+    "high": 44.3,
+    "low": 42.15,
+    "close": 42.5,
+    "volume": 574253527,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 42.7,
+    "high": 43.4,
+    "low": 42.25,
+    "close": 43.25,
+    "volume": 427544008,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 43.4,
+    "high": 43.65,
+    "low": 43.1,
+    "close": 43.4,
+    "volume": 341675582,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 43.6,
+    "high": 44.3,
+    "low": 43.1,
+    "close": 43.3,
+    "volume": 647880050,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 43.2,
+    "high": 43.65,
+    "low": 42,
+    "close": 42.3,
+    "volume": 486921228,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 42.2,
+    "high": 42.75,
+    "low": 41.25,
+    "close": 41.5,
+    "volume": 578512103,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 41.8,
+    "high": 43.1,
+    "low": 41.1,
+    "close": 43,
+    "volume": 620351100,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 42.75,
+    "high": 43.1,
+    "low": 41.9,
+    "close": 42.7,
+    "volume": 440417763,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 42.95,
+    "high": 42.95,
+    "low": 40.6,
+    "close": 40.85,
+    "volume": 455105057,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 41,
+    "high": 41.4,
+    "low": 39.6,
+    "close": 39.9,
+    "volume": 474815018,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 39.4,
+    "high": 39.65,
+    "low": 37.45,
+    "close": 37.95,
+    "volume": 596196048,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 38,
+    "high": 39,
+    "low": 37.15,
+    "close": 38.7,
+    "volume": 341453387,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 38.9,
+    "high": 39.35,
+    "low": 38.45,
+    "close": 39.2,
+    "volume": 415831454,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 39.1,
+    "high": 39.45,
+    "low": 38.75,
+    "close": 39,
+    "volume": 293472803,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 39,
+    "high": 40.15,
+    "low": 38.5,
+    "close": 39.4,
+    "volume": 904326916,
+    "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 39.9,
+    "high": 40.1,
+    "low": 39.45,
+    "close": 39.9,
+    "volume": 363524419,
+    "symbol": "GMRAIRPORT"
+  }
+]

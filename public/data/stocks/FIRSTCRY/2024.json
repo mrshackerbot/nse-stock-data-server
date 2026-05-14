@@ -1,0 +1,866 @@
+[
+  {
+    "date": "13-Aug-2024",
+    "open": 651,
+    "high": 707.7,
+    "low": 640,
+    "close": 673.5,
+    "volume": 41170825034,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "14-Aug-2024",
+    "open": 669.9,
+    "high": 677.7,
+    "low": 633.3,
+    "close": 643.1,
+    "volume": 4466404551,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "16-Aug-2024",
+    "open": 640,
+    "high": 688,
+    "low": 636.1,
+    "close": 669,
+    "volume": 5932548102,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "19-Aug-2024",
+    "open": 674,
+    "high": 704,
+    "low": 658.65,
+    "close": 669.05,
+    "volume": 2353654810,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "20-Aug-2024",
+    "open": 675.95,
+    "high": 684.95,
+    "low": 628.3,
+    "close": 637,
+    "volume": 2174275372,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "21-Aug-2024",
+    "open": 633.15,
+    "high": 644.65,
+    "low": 621.9,
+    "close": 625.55,
+    "volume": 952040471,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "22-Aug-2024",
+    "open": 629.45,
+    "high": 662.4,
+    "low": 628.95,
+    "close": 645.55,
+    "volume": 1210406648,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "23-Aug-2024",
+    "open": 645,
+    "high": 657,
+    "low": 635,
+    "close": 640,
+    "volume": 773805453,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "26-Aug-2024",
+    "open": 639.95,
+    "high": 643.6,
+    "low": 621,
+    "close": 626.5,
+    "volume": 523900362,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "27-Aug-2024",
+    "open": 626.5,
+    "high": 641,
+    "low": 622.8,
+    "close": 630,
+    "volume": 647098072,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "28-Aug-2024",
+    "open": 631.95,
+    "high": 640.95,
+    "low": 621.45,
+    "close": 623.35,
+    "volume": 597902124,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "29-Aug-2024",
+    "open": 625,
+    "high": 636,
+    "low": 623.05,
+    "close": 627.5,
+    "volume": 796807730,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "30-Aug-2024",
+    "open": 632.45,
+    "high": 650.5,
+    "low": 627.3,
+    "close": 640,
+    "volume": 1033454723,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "02-Sep-2024",
+    "open": 639.05,
+    "high": 650,
+    "low": 624.1,
+    "close": 632,
+    "volume": 855896466,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "03-Sep-2024",
+    "open": 635,
+    "high": 637.2,
+    "low": 621.6,
+    "close": 625,
+    "volume": 559167004,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "04-Sep-2024",
+    "open": 621,
+    "high": 626.75,
+    "low": 605,
+    "close": 612.75,
+    "volume": 390168865,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "05-Sep-2024",
+    "open": 615,
+    "high": 619.55,
+    "low": 610,
+    "close": 611.4,
+    "volume": 234535809,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "06-Sep-2024",
+    "open": 616.4,
+    "high": 635,
+    "low": 611,
+    "close": 623.5,
+    "volume": 556587485,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "09-Sep-2024",
+    "open": 623,
+    "high": 625,
+    "low": 587.6,
+    "close": 604.5,
+    "volume": 1070603564,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "10-Sep-2024",
+    "open": 604.25,
+    "high": 617.35,
+    "low": 599,
+    "close": 604,
+    "volume": 421355877,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "11-Sep-2024",
+    "open": 606.5,
+    "high": 644.9,
+    "low": 604.05,
+    "close": 640,
+    "volume": 899590156,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "12-Sep-2024",
+    "open": 640.1,
+    "high": 657.9,
+    "low": 633.25,
+    "close": 650,
+    "volume": 859377077,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "13-Sep-2024",
+    "open": 649.35,
+    "high": 663.3,
+    "low": 646.05,
+    "close": 655,
+    "volume": 374915580,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "16-Sep-2024",
+    "open": 660,
+    "high": 661.45,
+    "low": 638,
+    "close": 642,
+    "volume": 358873267,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "17-Sep-2024",
+    "open": 640.05,
+    "high": 645,
+    "low": 635,
+    "close": 642,
+    "volume": 196578516,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "18-Sep-2024",
+    "open": 641,
+    "high": 645.55,
+    "low": 635.85,
+    "close": 640,
+    "volume": 379553419,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "19-Sep-2024",
+    "open": 676.95,
+    "high": 688.45,
+    "low": 632.75,
+    "close": 649.95,
+    "volume": 1737335331,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "20-Sep-2024",
+    "open": 653.9,
+    "high": 673.65,
+    "low": 644.45,
+    "close": 650,
+    "volume": 710201969,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "23-Sep-2024",
+    "open": 656.05,
+    "high": 658.2,
+    "low": 641.2,
+    "close": 651,
+    "volume": 447924269,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "24-Sep-2024",
+    "open": 649.9,
+    "high": 672.95,
+    "low": 641.5,
+    "close": 665,
+    "volume": 427017321,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "25-Sep-2024",
+    "open": 664.9,
+    "high": 664.9,
+    "low": 652,
+    "close": 661,
+    "volume": 256940592,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "26-Sep-2024",
+    "open": 658.1,
+    "high": 662.65,
+    "low": 648.7,
+    "close": 656,
+    "volume": 329940832,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "27-Sep-2024",
+    "open": 651.25,
+    "high": 656.95,
+    "low": 621.1,
+    "close": 631,
+    "volume": 183614256,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "30-Sep-2024",
+    "open": 625.75,
+    "high": 648,
+    "low": 611.4,
+    "close": 642,
+    "volume": 407565929,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "01-Oct-2024",
+    "open": 635,
+    "high": 662,
+    "low": 634,
+    "close": 646,
+    "volume": 948624106,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "03-Oct-2024",
+    "open": 639.15,
+    "high": 668,
+    "low": 626.6,
+    "close": 652,
+    "volume": 412447653,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "04-Oct-2024",
+    "open": 647.3,
+    "high": 661.45,
+    "low": 646.4,
+    "close": 649,
+    "volume": 413571642,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "07-Oct-2024",
+    "open": 645.1,
+    "high": 659.65,
+    "low": 622.75,
+    "close": 626.95,
+    "volume": 455547069,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "08-Oct-2024",
+    "open": 621,
+    "high": 653.45,
+    "low": 617.8,
+    "close": 641.1,
+    "volume": 362262261,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "09-Oct-2024",
+    "open": 643.9,
+    "high": 654.5,
+    "low": 633.05,
+    "close": 647.6,
+    "volume": 222255720,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "10-Oct-2024",
+    "open": 649.05,
+    "high": 684,
+    "low": 646.05,
+    "close": 673,
+    "volume": 717630772,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "11-Oct-2024",
+    "open": 678.95,
+    "high": 697.5,
+    "low": 669,
+    "close": 680.7,
+    "volume": 621546698,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "14-Oct-2024",
+    "open": 682.4,
+    "high": 724,
+    "low": 673,
+    "close": 714,
+    "volume": 955427243,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "15-Oct-2024",
+    "open": 726,
+    "high": 734,
+    "low": 707.25,
+    "close": 720.15,
+    "volume": 730215517,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "16-Oct-2024",
+    "open": 720,
+    "high": 720.15,
+    "low": 690.5,
+    "close": 695.8,
+    "volume": 394054085,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "17-Oct-2024",
+    "open": 695.65,
+    "high": 706.9,
+    "low": 678.25,
+    "close": 690,
+    "volume": 355350071,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "18-Oct-2024",
+    "open": 687.95,
+    "high": 714.8,
+    "low": 675.35,
+    "close": 682.6,
+    "volume": 313945134,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "21-Oct-2024",
+    "open": 688.95,
+    "high": 697.7,
+    "low": 659.05,
+    "close": 664.9,
+    "volume": 206193828,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "22-Oct-2024",
+    "open": 662.1,
+    "high": 669.45,
+    "low": 630.2,
+    "close": 635,
+    "volume": 338470444,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "23-Oct-2024",
+    "open": 640,
+    "high": 644.9,
+    "low": 622.4,
+    "close": 629,
+    "volume": 220209802,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "24-Oct-2024",
+    "open": 630,
+    "high": 645,
+    "low": 625,
+    "close": 639.8,
+    "volume": 184041340,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "25-Oct-2024",
+    "open": 643.5,
+    "high": 645.95,
+    "low": 617,
+    "close": 620.5,
+    "volume": 184254977,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "28-Oct-2024",
+    "open": 621,
+    "high": 629.9,
+    "low": 612,
+    "close": 617,
+    "volume": 79068266,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "29-Oct-2024",
+    "open": 623.45,
+    "high": 705.15,
+    "low": 610,
+    "close": 688,
+    "volume": 764668004,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "30-Oct-2024",
+    "open": 681,
+    "high": 684.65,
+    "low": 647.55,
+    "close": 651.95,
+    "volume": 218480476,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "31-Oct-2024",
+    "open": 652,
+    "high": 658.45,
+    "low": 625.05,
+    "close": 627,
+    "volume": 276980665,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "01-Nov-2024",
+    "open": 631,
+    "high": 643.9,
+    "low": 630.05,
+    "close": 634,
+    "volume": 38885697,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "04-Nov-2024",
+    "open": 634.65,
+    "high": 637.1,
+    "low": 606.7,
+    "close": 618,
+    "volume": 282209111,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "05-Nov-2024",
+    "open": 613,
+    "high": 624.4,
+    "low": 608,
+    "close": 617.1,
+    "volume": 206792090,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "06-Nov-2024",
+    "open": 624.95,
+    "high": 630.85,
+    "low": 614.75,
+    "close": 623,
+    "volume": 170392272,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "07-Nov-2024",
+    "open": 616,
+    "high": 625,
+    "low": 587.75,
+    "close": 589.95,
+    "volume": 380050039,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "08-Nov-2024",
+    "open": 595.8,
+    "high": 600.9,
+    "low": 552.85,
+    "close": 564.8,
+    "volume": 978329230,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "11-Nov-2024",
+    "open": 570,
+    "high": 575.15,
+    "low": 520,
+    "close": 527,
+    "volume": 694038320,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "12-Nov-2024",
+    "open": 528,
+    "high": 554.9,
+    "low": 518.35,
+    "close": 531.7,
+    "volume": 728416876,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "13-Nov-2024",
+    "open": 532,
+    "high": 544,
+    "low": 514.5,
+    "close": 521.45,
+    "volume": 653466189,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "14-Nov-2024",
+    "open": 522.5,
+    "high": 535.7,
+    "low": 516.35,
+    "close": 519.8,
+    "volume": 355641278,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "18-Nov-2024",
+    "open": 544,
+    "high": 582,
+    "low": 526.05,
+    "close": 539,
+    "volume": 2496551994,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "19-Nov-2024",
+    "open": 542.95,
+    "high": 563.95,
+    "low": 536.95,
+    "close": 550,
+    "volume": 700891460,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "21-Nov-2024",
+    "open": 545,
+    "high": 568,
+    "low": 539.45,
+    "close": 564,
+    "volume": 385587947,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "22-Nov-2024",
+    "open": 563.05,
+    "high": 563.75,
+    "low": 543.1,
+    "close": 546.85,
+    "volume": 187022241,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "25-Nov-2024",
+    "open": 553.7,
+    "high": 558.45,
+    "low": 542.1,
+    "close": 544.5,
+    "volume": 182839696,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "26-Nov-2024",
+    "open": 543.6,
+    "high": 590.8,
+    "low": 543.6,
+    "close": 577,
+    "volume": 589284889,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "27-Nov-2024",
+    "open": 569.7,
+    "high": 591.75,
+    "low": 560.9,
+    "close": 585.85,
+    "volume": 200277736,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "28-Nov-2024",
+    "open": 592,
+    "high": 620.95,
+    "low": 591.95,
+    "close": 609.1,
+    "volume": 481003399,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "29-Nov-2024",
+    "open": 609.95,
+    "high": 615.3,
+    "low": 597.2,
+    "close": 601.8,
+    "volume": 387112389,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "02-Dec-2024",
+    "open": 598,
+    "high": 601.75,
+    "low": 582.45,
+    "close": 594,
+    "volume": 397278864,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "03-Dec-2024",
+    "open": 596,
+    "high": 612.1,
+    "low": 588.5,
+    "close": 602.25,
+    "volume": 242913831,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "04-Dec-2024",
+    "open": 614.75,
+    "high": 617.9,
+    "low": 602.15,
+    "close": 604.5,
+    "volume": 204786972,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "05-Dec-2024",
+    "open": 611.8,
+    "high": 611.95,
+    "low": 585.6,
+    "close": 590.25,
+    "volume": 194490875,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "06-Dec-2024",
+    "open": 594.35,
+    "high": 598.7,
+    "low": 585.95,
+    "close": 590.05,
+    "volume": 76283608,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "09-Dec-2024",
+    "open": 591.1,
+    "high": 595.2,
+    "low": 585.35,
+    "close": 592,
+    "volume": 68764460,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "10-Dec-2024",
+    "open": 595.95,
+    "high": 602.75,
+    "low": 578.05,
+    "close": 588.4,
+    "volume": 530486420,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "11-Dec-2024",
+    "open": 587.4,
+    "high": 607.95,
+    "low": 585.35,
+    "close": 598.25,
+    "volume": 169506477,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "12-Dec-2024",
+    "open": 620.05,
+    "high": 623.7,
+    "low": 602.2,
+    "close": 603.2,
+    "volume": 514362376,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "13-Dec-2024",
+    "open": 596,
+    "high": 607,
+    "low": 588.85,
+    "close": 591.4,
+    "volume": 178790002,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "16-Dec-2024",
+    "open": 594.65,
+    "high": 617,
+    "low": 594.65,
+    "close": 613.05,
+    "volume": 257410086,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "17-Dec-2024",
+    "open": 618.8,
+    "high": 618.8,
+    "low": 605,
+    "close": 609,
+    "volume": 150847787,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "18-Dec-2024",
+    "open": 605.1,
+    "high": 642.4,
+    "low": 605.1,
+    "close": 621,
+    "volume": 534788596,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "19-Dec-2024",
+    "open": 613,
+    "high": 614.95,
+    "low": 602.95,
+    "close": 606,
+    "volume": 123990623,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "20-Dec-2024",
+    "open": 603.15,
+    "high": 654.35,
+    "low": 603.15,
+    "close": 625,
+    "volume": 1264505506,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "23-Dec-2024",
+    "open": 634.05,
+    "high": 634.05,
+    "low": 606.15,
+    "close": 615.9,
+    "volume": 204787318,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "24-Dec-2024",
+    "open": 620.45,
+    "high": 636.4,
+    "low": 604.3,
+    "close": 626.5,
+    "volume": 215684620,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "26-Dec-2024",
+    "open": 627,
+    "high": 640.05,
+    "low": 620,
+    "close": 636,
+    "volume": 365039804,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "27-Dec-2024",
+    "open": 651,
+    "high": 651,
+    "low": 625.05,
+    "close": 633.2,
+    "volume": 208544489,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "30-Dec-2024",
+    "open": 628.2,
+    "high": 634.95,
+    "low": 615,
+    "close": 619.6,
+    "volume": 80728094,
+    "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "31-Dec-2024",
+    "open": 615,
+    "high": 659,
+    "low": 605.05,
+    "close": 653,
+    "volume": 350454223,
+    "symbol": "FIRSTCRY"
+  }
+]

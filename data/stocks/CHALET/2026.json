@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 876,
+    "high": 902.5,
+    "low": 871.85,
+    "close": 896.05,
+    "volume": 576282975,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 899,
+    "high": 914,
+    "low": 891.05,
+    "close": 901.45,
+    "volume": 268999789,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 902.35,
+    "high": 902.4,
+    "low": 872.1,
+    "close": 872.5,
+    "volume": 168593775,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 876,
+    "high": 879.2,
+    "low": 867.45,
+    "close": 871,
+    "volume": 246763816,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 872.8,
+    "high": 897.9,
+    "low": 860,
+    "close": 875,
+    "volume": 308689334,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 874.9,
+    "high": 884.6,
+    "low": 865.4,
+    "close": 870,
+    "volume": 67886644,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 870,
+    "high": 888,
+    "low": 864.35,
+    "close": 866.65,
+    "volume": 53622877,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 865.5,
+    "high": 868.25,
+    "low": 851,
+    "close": 862,
+    "volume": 63885902,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 862.95,
+    "high": 883.4,
+    "low": 862.95,
+    "close": 875,
+    "volume": 60435946,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 865.3,
+    "high": 886.3,
+    "low": 865.3,
+    "close": 880,
+    "volume": 96853364,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 877.25,
+    "high": 892,
+    "low": 871.3,
+    "close": 871.3,
+    "volume": 362143456,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 872,
+    "high": 879.7,
+    "low": 861.25,
+    "close": 872.65,
+    "volume": 79773209,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 875.8,
+    "high": 877.15,
+    "low": 843,
+    "close": 845.15,
+    "volume": 126651828,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 850,
+    "high": 852.35,
+    "low": 807.65,
+    "close": 837.5,
+    "volume": 232819896,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 844.4,
+    "high": 853.45,
+    "low": 834.8,
+    "close": 838.2,
+    "volume": 75946380,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 842.1,
+    "high": 843.9,
+    "low": 812.3,
+    "close": 819,
+    "volume": 42513056,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 812.6,
+    "high": 822.85,
+    "low": 803,
+    "close": 821.9,
+    "volume": 62272368,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 819.8,
+    "high": 837.4,
+    "low": 815.7,
+    "close": 831,
+    "volume": 57630815,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 827.75,
+    "high": 839.6,
+    "low": 817.8,
+    "close": 835.6,
+    "volume": 43441828,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 837,
+    "high": 873.8,
+    "low": 828.05,
+    "close": 869.9,
+    "volume": 117758274,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 871.3,
+    "high": 874.85,
+    "low": 852,
+    "close": 854.1,
+    "volume": 17865845,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 856.2,
+    "high": 864,
+    "low": 832.85,
+    "close": 859.95,
+    "volume": 86860063,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 865,
+    "high": 914,
+    "low": 848,
+    "close": 893.2,
+    "volume": 323175327,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 899.9,
+    "high": 899.9,
+    "low": 863.4,
+    "close": 872,
+    "volume": 116139358,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 874.05,
+    "high": 875.4,
+    "low": 847.3,
+    "close": 847.3,
+    "volume": 88774793,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 847.3,
+    "high": 853.45,
+    "low": 837,
+    "close": 845,
+    "volume": 38323072,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 864.4,
+    "high": 869,
+    "low": 851,
+    "close": 867.6,
+    "volume": 42757054,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 869.75,
+    "high": 886,
+    "low": 864.55,
+    "close": 881.9,
+    "volume": 90314551,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 882.35,
+    "high": 883.95,
+    "low": 865,
+    "close": 876,
+    "volume": 42521587,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 878.7,
+    "high": 885,
+    "low": 865.55,
+    "close": 877,
+    "volume": 84027312,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 877,
+    "high": 877,
+    "low": 851.3,
+    "close": 860,
+    "volume": 56032025,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 854.1,
+    "high": 865.6,
+    "low": 838,
+    "close": 857.8,
+    "volume": 63697238,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 853,
+    "high": 884,
+    "low": 850.85,
+    "close": 872.55,
+    "volume": 68392569,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 879.8,
+    "high": 879.8,
+    "low": 866.05,
+    "close": 869,
+    "volume": 36894730,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 868.2,
+    "high": 877.3,
+    "low": 852.25,
+    "close": 852.25,
+    "volume": 163797851,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 859.75,
+    "high": 867.9,
+    "low": 844,
+    "close": 864,
+    "volume": 58224336,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 868.7,
+    "high": 871.3,
+    "low": 858.2,
+    "close": 859.75,
+    "volume": 21325721,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 862.5,
+    "high": 867,
+    "low": 842,
+    "close": 845,
+    "volume": 48978813,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 844.95,
+    "high": 846.4,
+    "low": 805.6,
+    "close": 830,
+    "volume": 229549835,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 831.8,
+    "high": 834.7,
+    "low": 822.7,
+    "close": 822.7,
+    "volume": 25367792,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 825,
+    "high": 829.7,
+    "low": 800,
+    "close": 811.4,
+    "volume": 85155900,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 772.05,
+    "high": 793.5,
+    "low": 770,
+    "close": 789.9,
+    "volume": 452378006,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 771,
+    "high": 776.65,
+    "low": 745.2,
+    "close": 755,
+    "volume": 116767542,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 757,
+    "high": 774.7,
+    "low": 743.3,
+    "close": 766.2,
+    "volume": 157221307,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 770.5,
+    "high": 771.35,
+    "low": 760,
+    "close": 765,
+    "volume": 122974156,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 758,
+    "high": 758,
+    "low": 727,
+    "close": 736.9,
+    "volume": 83480505,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 744.95,
+    "high": 764.25,
+    "low": 730.3,
+    "close": 753,
+    "volume": 49485037,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 749.95,
+    "high": 778.3,
+    "low": 738.1,
+    "close": 774.75,
+    "volume": 207078557,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 772,
+    "high": 779.65,
+    "low": 746.1,
+    "close": 774,
+    "volume": 79874790,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 768.8,
+    "high": 770,
+    "low": 728,
+    "close": 742,
+    "volume": 51728501,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 735,
+    "high": 736.15,
+    "low": 713,
+    "close": 717.1,
+    "volume": 77957431,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 724.8,
+    "high": 736,
+    "low": 714.1,
+    "close": 715,
+    "volume": 94949206,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 717.9,
+    "high": 754.45,
+    "low": 717.5,
+    "close": 750,
+    "volume": 120846165,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 745.15,
+    "high": 754.3,
+    "low": 728.3,
+    "close": 735,
+    "volume": 130283440,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 736.9,
+    "high": 744.75,
+    "low": 711,
+    "close": 726.2,
+    "volume": 289477390,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 713.5,
+    "high": 719.65,
+    "low": 698.4,
+    "close": 714,
+    "volume": 122794633,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 719.3,
+    "high": 728.7,
+    "low": 705.05,
+    "close": 723,
+    "volume": 78855184,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 727,
+    "high": 744.9,
+    "low": 722.15,
+    "close": 734.8,
+    "volume": 64687453,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 728.5,
+    "high": 729.95,
+    "low": 709.55,
+    "close": 718,
+    "volume": 191218207,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 718.85,
+    "high": 718.85,
+    "low": 691.35,
+    "close": 698.95,
+    "volume": 182584935,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 710.05,
+    "high": 729,
+    "low": 707.5,
+    "close": 717.65,
+    "volume": 129074182,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 713,
+    "high": 733,
+    "low": 696.35,
+    "close": 723.6,
+    "volume": 34860610,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 723.05,
+    "high": 735,
+    "low": 712.9,
+    "close": 731.3,
+    "volume": 38721358,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 724,
+    "high": 742,
+    "low": 715,
+    "close": 740,
+    "volume": 66464288,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 750,
+    "high": 776,
+    "low": 745,
+    "close": 765.8,
+    "volume": 256126057,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 766.1,
+    "high": 771.05,
+    "low": 751.3,
+    "close": 754.05,
+    "volume": 35145382,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 760,
+    "high": 779,
+    "low": 756,
+    "close": 770.15,
+    "volume": 47981487,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 748.3,
+    "high": 770,
+    "low": 743,
+    "close": 756.05,
+    "volume": 42618114,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 762,
+    "high": 788,
+    "low": 762,
+    "close": 772.3,
+    "volume": 120425522,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 773,
+    "high": 788,
+    "low": 762.5,
+    "close": 770,
+    "volume": 30860336,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 770.1,
+    "high": 783.55,
+    "low": 765.55,
+    "close": 778.55,
+    "volume": 50766304,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 777,
+    "high": 794,
+    "low": 766.5,
+    "close": 789.7,
+    "volume": 139523628,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 793,
+    "high": 808.15,
+    "low": 784.35,
+    "close": 800.55,
+    "volume": 74007527,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 803.35,
+    "high": 820.05,
+    "low": 798.8,
+    "close": 810.5,
+    "volume": 72610609,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 809.95,
+    "high": 817.95,
+    "low": 781.8,
+    "close": 784.9,
+    "volume": 74241052,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 790.85,
+    "high": 802,
+    "low": 772,
+    "close": 791.35,
+    "volume": 125238643,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 798.9,
+    "high": 813.4,
+    "low": 788.35,
+    "close": 793.55,
+    "volume": 106368549,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 788,
+    "high": 793.45,
+    "low": 782,
+    "close": 789.6,
+    "volume": 49216986,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 797.05,
+    "high": 798.55,
+    "low": 769,
+    "close": 769,
+    "volume": 69691702,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 771.4,
+    "high": 774.7,
+    "low": 754.3,
+    "close": 755.7,
+    "volume": 59905964,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 750,
+    "high": 769.7,
+    "low": 745.35,
+    "close": 754.45,
+    "volume": 69069524,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 758.2,
+    "high": 760.15,
+    "low": 745.1,
+    "close": 749.1,
+    "volume": 70957332,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 758.2,
+    "high": 798,
+    "low": 754.35,
+    "close": 794,
+    "volume": 359846475,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 796,
+    "high": 797.95,
+    "low": 783.25,
+    "close": 790,
+    "volume": 65958315,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 791.15,
+    "high": 794,
+    "low": 778.15,
+    "close": 787,
+    "volume": 43203447,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 789.2,
+    "high": 789.2,
+    "low": 767.85,
+    "close": 777.2,
+    "volume": 53132833,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 777,
+    "high": 780.4,
+    "low": 755,
+    "close": 763,
+    "volume": 31433700,
+    "symbol": "CHALET"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 765.75,
+    "high": 765.75,
+    "low": 736,
+    "close": 746,
+    "volume": 193863107,
+    "symbol": "CHALET"
+  }
+]

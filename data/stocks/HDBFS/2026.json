@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 766,
+    "high": 766.4,
+    "low": 760.15,
+    "close": 764,
+    "volume": 160906401,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 760.1,
+    "high": 771.5,
+    "low": 757.2,
+    "close": 770.9,
+    "volume": 440648608,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 768,
+    "high": 771.75,
+    "low": 755.05,
+    "close": 763,
+    "volume": 433139778,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 757.05,
+    "high": 771.5,
+    "low": 755.6,
+    "close": 766.25,
+    "volume": 480674376,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 769.25,
+    "high": 769.25,
+    "low": 758.7,
+    "close": 765,
+    "volume": 711614585,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 765,
+    "high": 765.5,
+    "low": 752,
+    "close": 752.4,
+    "volume": 508851020,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 753,
+    "high": 756.5,
+    "low": 745.4,
+    "close": 748,
+    "volume": 416991288,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 747.9,
+    "high": 770.9,
+    "low": 737.25,
+    "close": 766.3,
+    "volume": 731286588,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 766.25,
+    "high": 771.95,
+    "low": 765.1,
+    "close": 766.6,
+    "volume": 289003078,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 762,
+    "high": 768.95,
+    "low": 758.5,
+    "close": 763.45,
+    "volume": 313768359,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 778,
+    "high": 788.95,
+    "low": 761.15,
+    "close": 765.5,
+    "volume": 1643213064,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 762.5,
+    "high": 763.55,
+    "low": 747,
+    "close": 755,
+    "volume": 384073810,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 751.65,
+    "high": 754,
+    "low": 728.15,
+    "close": 730,
+    "volume": 599492168,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 725,
+    "high": 728.8,
+    "low": 706.65,
+    "close": 712,
+    "volume": 841332039,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 724,
+    "high": 724,
+    "low": 711.1,
+    "close": 712,
+    "volume": 598735056,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 717.9,
+    "high": 718,
+    "low": 694,
+    "close": 696,
+    "volume": 785805103,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 695.45,
+    "high": 702.55,
+    "low": 687.3,
+    "close": 700.95,
+    "volume": 504466800,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 700,
+    "high": 714,
+    "low": 699,
+    "close": 711,
+    "volume": 1053607976,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 703,
+    "high": 717.95,
+    "low": 703,
+    "close": 716,
+    "volume": 200492274,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 710,
+    "high": 714.8,
+    "low": 703.85,
+    "close": 708.45,
+    "volume": 793342235,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 707.4,
+    "high": 715.7,
+    "low": 702,
+    "close": 712,
+    "volume": 272179987,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 704,
+    "high": 710,
+    "low": 700.4,
+    "close": 707.8,
+    "volume": 474772520,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 721,
+    "high": 725.95,
+    "low": 712.35,
+    "close": 714,
+    "volume": 1815505150,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 715.2,
+    "high": 717.95,
+    "low": 706.5,
+    "close": 712.05,
+    "volume": 412406949,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 712,
+    "high": 713,
+    "low": 698.1,
+    "close": 700.9,
+    "volume": 1969654872,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 703.2,
+    "high": 727,
+    "low": 700.55,
+    "close": 718.35,
+    "volume": 1929430403,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 720.15,
+    "high": 731.4,
+    "low": 718.8,
+    "close": 725.6,
+    "volume": 241534190,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 729.65,
+    "high": 729.65,
+    "low": 717.5,
+    "close": 724.2,
+    "volume": 598749495,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 721.4,
+    "high": 724,
+    "low": 717,
+    "close": 722,
+    "volume": 486422466,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 720.3,
+    "high": 720.45,
+    "low": 710,
+    "close": 713.1,
+    "volume": 217840668,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 714,
+    "high": 717.5,
+    "low": 704.45,
+    "close": 710,
+    "volume": 752135039,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 705.25,
+    "high": 715.3,
+    "low": 701.5,
+    "close": 710,
+    "volume": 448196244,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 710,
+    "high": 720.15,
+    "low": 707.3,
+    "close": 717,
+    "volume": 843083576,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 718.95,
+    "high": 726.4,
+    "low": 718,
+    "close": 725,
+    "volume": 176054302,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 721.05,
+    "high": 728,
+    "low": 720.15,
+    "close": 725,
+    "volume": 406275131,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 722.85,
+    "high": 731.3,
+    "low": 716,
+    "close": 716,
+    "volume": 158530867,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 719.9,
+    "high": 728,
+    "low": 717.25,
+    "close": 717.55,
+    "volume": 232778024,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 715,
+    "high": 723.95,
+    "low": 712.75,
+    "close": 718.9,
+    "volume": 142164873,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 716.8,
+    "high": 726.7,
+    "low": 716.8,
+    "close": 723.9,
+    "volume": 218847900,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 723,
+    "high": 725.8,
+    "low": 712,
+    "close": 712.15,
+    "volume": 129404505,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 713.6,
+    "high": 719.05,
+    "low": 702.35,
+    "close": 706.4,
+    "volume": 584075885,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 685.05,
+    "high": 703.4,
+    "low": 685,
+    "close": 701,
+    "volume": 401318840,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 690.15,
+    "high": 691,
+    "low": 673.5,
+    "close": 679,
+    "volume": 685255217,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 682,
+    "high": 692.55,
+    "low": 674,
+    "close": 684.2,
+    "volume": 964155106,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 682.8,
+    "high": 683.85,
+    "low": 669.05,
+    "close": 671.5,
+    "volume": 978598114,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 660,
+    "high": 663.95,
+    "low": 642,
+    "close": 652.85,
+    "volume": 622926049,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 661,
+    "high": 667.95,
+    "low": 648.1,
+    "close": 666.9,
+    "volume": 802193452,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 665.9,
+    "high": 666.9,
+    "low": 653.25,
+    "close": 656.55,
+    "volume": 462388882,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 653,
+    "high": 653.45,
+    "low": 640.3,
+    "close": 650.6,
+    "volume": 481792806,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 645,
+    "high": 652.8,
+    "low": 641,
+    "close": 643.95,
+    "volume": 397130396,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 641.05,
+    "high": 643.8,
+    "low": 633,
+    "close": 642,
+    "volume": 327839886,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 643,
+    "high": 645.4,
+    "low": 640.05,
+    "close": 645,
+    "volume": 635198096,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 648.15,
+    "high": 658.4,
+    "low": 648.15,
+    "close": 655.85,
+    "volume": 545554294,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 640,
+    "high": 650.95,
+    "low": 629.5,
+    "close": 637.2,
+    "volume": 542439671,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 635.2,
+    "high": 641.95,
+    "low": 630.7,
+    "close": 635.95,
+    "volume": 908262776,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 627,
+    "high": 629,
+    "low": 600.55,
+    "close": 605,
+    "volume": 845523026,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 614.85,
+    "high": 614.85,
+    "low": 590.2,
+    "close": 605,
+    "volume": 1121363741,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 606,
+    "high": 619.9,
+    "low": 604.5,
+    "close": 612,
+    "volume": 834959296,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 605,
+    "high": 607.1,
+    "low": 585,
+    "close": 592.55,
+    "volume": 2342987689,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 584,
+    "high": 584,
+    "low": 555.3,
+    "close": 559,
+    "volume": 1030735203,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 574,
+    "high": 580,
+    "low": 570.1,
+    "close": 579.85,
+    "volume": 510851786,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 571.6,
+    "high": 580.95,
+    "low": 560.05,
+    "close": 577.25,
+    "volume": 140362705,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 577.25,
+    "high": 590.5,
+    "low": 566.85,
+    "close": 589.6,
+    "volume": 310045204,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 588.95,
+    "high": 590.35,
+    "low": 575.75,
+    "close": 584.3,
+    "volume": 499757160,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 605.05,
+    "high": 638.25,
+    "low": 600,
+    "close": 629.85,
+    "volume": 879165702,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 625.9,
+    "high": 628.3,
+    "low": 613,
+    "close": 618.5,
+    "volume": 672592556,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 625,
+    "high": 632.2,
+    "low": 621.7,
+    "close": 627.5,
+    "volume": 193873581,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 617.95,
+    "high": 619,
+    "low": 606.05,
+    "close": 616,
+    "volume": 290833653,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 631,
+    "high": 650,
+    "low": 627.15,
+    "close": 646.55,
+    "volume": 362659276,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 720,
+    "high": 723.95,
+    "low": 683,
+    "close": 685,
+    "volume": 8669233381,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 690,
+    "high": 690.8,
+    "low": 678,
+    "close": 679.05,
+    "volume": 1194930844,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 680.35,
+    "high": 681.6,
+    "low": 666,
+    "close": 669.9,
+    "volume": 1162706838,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 670.15,
+    "high": 690,
+    "low": 668.85,
+    "close": 682,
+    "volume": 473784712,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 676,
+    "high": 686,
+    "low": 670.2,
+    "close": 673.8,
+    "volume": 259793601,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 673.9,
+    "high": 676.05,
+    "low": 657.5,
+    "close": 659,
+    "volume": 240332212,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 659,
+    "high": 677.45,
+    "low": 651.1,
+    "close": 670.2,
+    "volume": 284859404,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 675,
+    "high": 678.6,
+    "low": 669,
+    "close": 670,
+    "volume": 141306553,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 670,
+    "high": 680.7,
+    "low": 660.95,
+    "close": 665.05,
+    "volume": 238403476,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 668.05,
+    "high": 673.9,
+    "low": 666.25,
+    "close": 667.3,
+    "volume": 114554335,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 666,
+    "high": 667,
+    "low": 654.45,
+    "close": 658.85,
+    "volume": 187914890,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 657.95,
+    "high": 672.2,
+    "low": 657.95,
+    "close": 665,
+    "volume": 141329564,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 665,
+    "high": 669.8,
+    "low": 662.95,
+    "close": 666.45,
+    "volume": 84609818,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 672.8,
+    "high": 691.45,
+    "low": 667.85,
+    "close": 685.35,
+    "volume": 394773894,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 688.7,
+    "high": 704.7,
+    "low": 683.25,
+    "close": 701.95,
+    "volume": 479158262,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 700.5,
+    "high": 705,
+    "low": 696,
+    "close": 700,
+    "volume": 244416277,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 694,
+    "high": 696.7,
+    "low": 686,
+    "close": 689,
+    "volume": 254732999,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 685.05,
+    "high": 688.6,
+    "low": 669.5,
+    "close": 674.8,
+    "volume": 297148565,
+    "symbol": "HDBFS"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 674.8,
+    "high": 685.1,
+    "low": 666.15,
+    "close": 672.45,
+    "volume": 491243354,
+    "symbol": "HDBFS"
+  }
+]

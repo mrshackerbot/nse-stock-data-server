@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1573.7,
+    "high": 1592.5,
+    "low": 1571.1,
+    "close": 1572.9,
+    "volume": 10116346867,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1580,
+    "high": 1594.6,
+    "low": 1578.2,
+    "close": 1593,
+    "volume": 10491999169,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1593,
+    "high": 1611.8,
+    "low": 1575.3,
+    "close": 1577,
+    "volume": 13835333400,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1569,
+    "high": 1569,
+    "low": 1496.3,
+    "close": 1508.9,
+    "volume": 41569080602,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1510,
+    "high": 1520,
+    "low": 1498,
+    "close": 1505.1,
+    "volume": 16875253099,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1500,
+    "high": 1503.9,
+    "low": 1468.8,
+    "close": 1470.7,
+    "volume": 24410037550,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1465,
+    "high": 1479.9,
+    "low": 1465,
+    "close": 1476,
+    "volume": 12270672520,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1475.3,
+    "high": 1485.3,
+    "low": 1451,
+    "close": 1484,
+    "volume": 13057259395,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1485,
+    "high": 1485.8,
+    "low": 1444.7,
+    "close": 1456.9,
+    "volume": 19678131155,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1444,
+    "high": 1467,
+    "low": 1440.2,
+    "close": 1458.8,
+    "volume": 12134950551,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1458.8,
+    "high": 1480,
+    "low": 1455.1,
+    "close": 1461,
+    "volume": 25135247618,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1450.6,
+    "high": 1450.6,
+    "low": 1403.3,
+    "close": 1413.2,
+    "volume": 28863128634,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1410.7,
+    "high": 1416,
+    "low": 1390,
+    "close": 1392.4,
+    "volume": 18479164578,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1389.5,
+    "high": 1412.9,
+    "low": 1373,
+    "close": 1407.5,
+    "volume": 24278965746,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1410.1,
+    "high": 1419.5,
+    "low": 1395,
+    "close": 1404.1,
+    "volume": 22070150220,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1401.8,
+    "high": 1407,
+    "low": 1381,
+    "close": 1387,
+    "volume": 13687560136,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1380,
+    "high": 1391.6,
+    "low": 1368,
+    "close": 1384,
+    "volume": 36346567203,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1385,
+    "high": 1409.9,
+    "low": 1384.9,
+    "close": 1398.5,
+    "volume": 15535335257,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1402.9,
+    "high": 1402.9,
+    "low": 1384,
+    "close": 1386.9,
+    "volume": 29050818209,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1382.6,
+    "high": 1398,
+    "low": 1378.5,
+    "close": 1397,
+    "volume": 15637418399,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1396,
+    "high": 1411,
+    "low": 1335,
+    "close": 1342.8,
+    "volume": 13378145108,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1340,
+    "high": 1392.9,
+    "low": 1335.5,
+    "close": 1388,
+    "volume": 21575643258,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1473.9,
+    "high": 1489.5,
+    "low": 1430.2,
+    "close": 1438,
+    "volume": 36802006349,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1444,
+    "high": 1464,
+    "low": 1440.3,
+    "close": 1455.4,
+    "volume": 12127957783,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1457,
+    "high": 1461.5,
+    "low": 1439.5,
+    "close": 1441.9,
+    "volume": 16997446034,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1441.5,
+    "high": 1452.8,
+    "low": 1433.5,
+    "close": 1451,
+    "volume": 11942366313,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1458,
+    "high": 1465.9,
+    "low": 1453,
+    "close": 1461.2,
+    "volume": 8445811902,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1471,
+    "high": 1471,
+    "low": 1452.2,
+    "close": 1456.2,
+    "volume": 14971196098,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1459.6,
+    "high": 1470,
+    "low": 1453.6,
+    "close": 1469,
+    "volume": 10412535997,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1470,
+    "high": 1473,
+    "low": 1445.5,
+    "close": 1449.9,
+    "volume": 16186860274,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1445.5,
+    "high": 1450.7,
+    "low": 1416.3,
+    "close": 1418.6,
+    "volume": 15313221949,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1420.1,
+    "high": 1439.6,
+    "low": 1409.3,
+    "close": 1434.1,
+    "volume": 8408865413,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1431.1,
+    "high": 1431.8,
+    "low": 1418.6,
+    "close": 1424.2,
+    "volume": 15272175589,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1427,
+    "high": 1442.1,
+    "low": 1419.2,
+    "close": 1441,
+    "volume": 7906956447,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1443,
+    "high": 1443,
+    "low": 1400,
+    "close": 1407.2,
+    "volume": 16827934160,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1409.5,
+    "high": 1427.4,
+    "low": 1406.1,
+    "close": 1419.1,
+    "volume": 11612283011,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1425,
+    "high": 1434.9,
+    "low": 1418.3,
+    "close": 1425,
+    "volume": 11060270073,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1425.3,
+    "high": 1433.3,
+    "low": 1415,
+    "close": 1431.1,
+    "volume": 17853917144,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1435,
+    "high": 1440.5,
+    "low": 1393.5,
+    "close": 1400.8,
+    "volume": 15171307392,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1398.5,
+    "high": 1412.9,
+    "low": 1391.9,
+    "close": 1409,
+    "volume": 23424295896,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1398,
+    "high": 1410.4,
+    "low": 1388.1,
+    "close": 1394.9,
+    "volume": 16813512507,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1375.5,
+    "high": 1378.6,
+    "low": 1341.5,
+    "close": 1360,
+    "volume": 32228124369,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1330,
+    "high": 1352.8,
+    "low": 1307,
+    "close": 1345.2,
+    "volume": 43367943821,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1353.1,
+    "high": 1399,
+    "low": 1353.1,
+    "close": 1386.4,
+    "volume": 35899997226,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1396.5,
+    "high": 1424.3,
+    "low": 1390.3,
+    "close": 1407,
+    "volume": 27285257299,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1375,
+    "high": 1429.4,
+    "low": 1370,
+    "close": 1418.6,
+    "volume": 34920585822,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1430.6,
+    "high": 1431.5,
+    "low": 1400.6,
+    "close": 1410.9,
+    "volume": 25497167382,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1424.9,
+    "high": 1434,
+    "low": 1383.6,
+    "close": 1386.8,
+    "volume": 30651692543,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1390,
+    "high": 1410.9,
+    "low": 1381.1,
+    "close": 1390,
+    "volume": 29264877793,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1385.2,
+    "high": 1400.8,
+    "low": 1378.4,
+    "close": 1382.1,
+    "volume": 23968236254,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1380,
+    "high": 1397.3,
+    "low": 1363.5,
+    "close": 1394,
+    "volume": 31619378231,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1399,
+    "high": 1405.9,
+    "low": 1388.2,
+    "close": 1394.8,
+    "volume": 26576882526,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1397.2,
+    "high": 1412.9,
+    "low": 1397.2,
+    "close": 1407.2,
+    "volume": 13465178867,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1388,
+    "high": 1415.7,
+    "low": 1376.1,
+    "close": 1392,
+    "volume": 23010687830,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1398,
+    "high": 1430,
+    "low": 1396.1,
+    "close": 1413.6,
+    "volume": 32628466606,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1400,
+    "high": 1415.6,
+    "low": 1391,
+    "close": 1404,
+    "volume": 26655971496,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1420,
+    "high": 1422.4,
+    "low": 1406.6,
+    "close": 1414,
+    "volume": 26315089062,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1420,
+    "high": 1430.5,
+    "low": 1408.4,
+    "close": 1413.8,
+    "volume": 27014940455,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1401,
+    "high": 1404.7,
+    "low": 1345,
+    "close": 1348,
+    "volume": 31641734742,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1335,
+    "high": 1365,
+    "low": 1334.1,
+    "close": 1348.3,
+    "volume": 32864544984,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1384.2,
+    "high": 1384.4,
+    "low": 1362.9,
+    "close": 1369.5,
+    "volume": 19763387955,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1357,
+    "high": 1358.2,
+    "low": 1328,
+    "close": 1350.9,
+    "volume": 28656873097,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1359,
+    "high": 1359,
+    "low": 1290,
+    "close": 1306,
+    "volume": 38243783551,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1295,
+    "high": 1308.3,
+    "low": 1291,
+    "close": 1307.3,
+    "volume": 36869641751,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1349,
+    "high": 1350.6,
+    "low": 1326.2,
+    "close": 1349.4,
+    "volume": 29301422736,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1346,
+    "high": 1350,
+    "low": 1326.3,
+    "close": 1330,
+    "volume": 27632249237,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1337,
+    "high": 1352.3,
+    "low": 1331.5,
+    "close": 1350,
+    "volume": 26083304335,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1321.2,
+    "high": 1327.6,
+    "low": 1310,
+    "close": 1314,
+    "volume": 37852516273,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1337,
+    "high": 1347,
+    "low": 1334.2,
+    "close": 1342.9,
+    "volume": 20520818325,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1352,
+    "high": 1353.8,
+    "low": 1330,
+    "close": 1345.9,
+    "volume": 40436195396,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1340,
+    "high": 1368.4,
+    "low": 1340,
+    "close": 1364.9,
+    "volume": 18850089777,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1363.2,
+    "high": 1373,
+    "low": 1352.8,
+    "close": 1361.1,
+    "volume": 18596570380,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1359,
+    "high": 1369.8,
+    "low": 1350.1,
+    "close": 1354.9,
+    "volume": 37026449570,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1350.3,
+    "high": 1366,
+    "low": 1349.1,
+    "close": 1362,
+    "volume": 12959100398,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1346,
+    "high": 1355.5,
+    "low": 1340.7,
+    "close": 1344.4,
+    "volume": 22084484854,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1340,
+    "high": 1345.9,
+    "low": 1325,
+    "close": 1331,
+    "volume": 15655932416,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1313,
+    "high": 1371.6,
+    "low": 1311,
+    "close": 1370,
+    "volume": 33221715766,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1358,
+    "high": 1395.2,
+    "low": 1357,
+    "close": 1393,
+    "volume": 56634360964,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1392,
+    "high": 1433.8,
+    "low": 1391.3,
+    "close": 1430,
+    "volume": 43315858969,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1409,
+    "high": 1437,
+    "low": 1393.1,
+    "close": 1436,
+    "volume": 43849430496,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1433.4,
+    "high": 1467.4,
+    "low": 1433.4,
+    "close": 1467.2,
+    "volume": 34947863091,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1460,
+    "high": 1473.4,
+    "low": 1450,
+    "close": 1462.5,
+    "volume": 34407523385,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1463,
+    "high": 1473.3,
+    "low": 1427.5,
+    "close": 1438.7,
+    "volume": 20542051719,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1438.8,
+    "high": 1449.5,
+    "low": 1430.3,
+    "close": 1435.5,
+    "volume": 28509373904,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1426,
+    "high": 1442.8,
+    "low": 1417.5,
+    "close": 1436,
+    "volume": 12374131086,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1420,
+    "high": 1428,
+    "low": 1382,
+    "close": 1385.3,
+    "volume": 21408932295,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1392,
+    "high": 1393.5,
+    "low": 1360.3,
+    "close": 1366.5,
+    "volume": 33509995739,
+    "symbol": "RELIANCE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1361.4,
+    "high": 1372.4,
+    "low": 1352.4,
+    "close": 1361.2,
+    "volume": 18776783797,
+    "symbol": "RELIANCE"
+  }
+]

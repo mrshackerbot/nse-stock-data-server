@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 577.9,
+    "high": 580.55,
+    "low": 571.35,
+    "close": 580,
+    "volume": 340043736,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 578.5,
+    "high": 612,
+    "low": 577.15,
+    "close": 602.75,
+    "volume": 2902809481,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 605,
+    "high": 644.4,
+    "low": 600.9,
+    "close": 629.95,
+    "volume": 5300021364,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 633.85,
+    "high": 633.85,
+    "low": 618.2,
+    "close": 628,
+    "volume": 1214212435,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 624.7,
+    "high": 633.75,
+    "low": 619.3,
+    "close": 621,
+    "volume": 729470693,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 622,
+    "high": 626.35,
+    "low": 605.35,
+    "close": 607,
+    "volume": 702424389,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 605.65,
+    "high": 615,
+    "low": 592.15,
+    "close": 597,
+    "volume": 737053472,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 595.7,
+    "high": 601.05,
+    "low": 581.75,
+    "close": 596.55,
+    "volume": 1292882105,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 597.55,
+    "high": 600.8,
+    "low": 580.35,
+    "close": 590.9,
+    "volume": 781482131,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 588,
+    "high": 599.65,
+    "low": 584.6,
+    "close": 586.9,
+    "volume": 668801883,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 587.3,
+    "high": 600.4,
+    "low": 582.6,
+    "close": 585.4,
+    "volume": 972368186,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 582,
+    "high": 586.7,
+    "low": 567.65,
+    "close": 571,
+    "volume": 729902073,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 570.5,
+    "high": 572.95,
+    "low": 549.1,
+    "close": 551.5,
+    "volume": 1273828648,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 549.5,
+    "high": 551.5,
+    "low": 524.25,
+    "close": 535.7,
+    "volume": 1545684931,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 540,
+    "high": 549,
+    "low": 525.6,
+    "close": 530.45,
+    "volume": 712149269,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 527,
+    "high": 545.85,
+    "low": 507.65,
+    "close": 512.7,
+    "volume": 1030800208,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 520,
+    "high": 524.85,
+    "low": 506.4,
+    "close": 523,
+    "volume": 1164081928,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 518.65,
+    "high": 544,
+    "low": 518.65,
+    "close": 543.25,
+    "volume": 745771198,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 542,
+    "high": 548,
+    "low": 523.05,
+    "close": 528.75,
+    "volume": 1191333805,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 525,
+    "high": 564.2,
+    "low": 520.75,
+    "close": 549,
+    "volume": 2497234686,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 547.7,
+    "high": 566.9,
+    "low": 532.7,
+    "close": 542,
+    "volume": 688395312,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 541.5,
+    "high": 566,
+    "low": 526.25,
+    "close": 563.55,
+    "volume": 1916684785,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 588.05,
+    "high": 609.2,
+    "low": 543.5,
+    "close": 561.85,
+    "volume": 7513057067,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 561.3,
+    "high": 595.5,
+    "low": 560.7,
+    "close": 591.35,
+    "volume": 2709058507,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 595,
+    "high": 595,
+    "low": 579.3,
+    "close": 583.7,
+    "volume": 747016585,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 579.7,
+    "high": 588,
+    "low": 562.35,
+    "close": 584.95,
+    "volume": 1261380336,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 590,
+    "high": 604.65,
+    "low": 585.95,
+    "close": 592.5,
+    "volume": 1765049283,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 599,
+    "high": 615.6,
+    "low": 595.5,
+    "close": 602,
+    "volume": 2033862940,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 604,
+    "high": 624.95,
+    "low": 597,
+    "close": 617.75,
+    "volume": 1645698609,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 616.95,
+    "high": 628.4,
+    "low": 608.8,
+    "close": 623,
+    "volume": 1035079661,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 615,
+    "high": 622.45,
+    "low": 601.9,
+    "close": 614,
+    "volume": 869381829,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 613.3,
+    "high": 626.25,
+    "low": 608.5,
+    "close": 617.9,
+    "volume": 989024731,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 615.2,
+    "high": 628.9,
+    "low": 612.05,
+    "close": 628.65,
+    "volume": 691918549,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 630.95,
+    "high": 632,
+    "low": 618.3,
+    "close": 625,
+    "volume": 662093714,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 625.8,
+    "high": 630.6,
+    "low": 604.2,
+    "close": 607.5,
+    "volume": 524061287,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 603,
+    "high": 620,
+    "low": 603,
+    "close": 614,
+    "volume": 629001143,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 614.2,
+    "high": 622.95,
+    "low": 600.6,
+    "close": 609.3,
+    "volume": 826003982,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 602.1,
+    "high": 619.9,
+    "low": 602.1,
+    "close": 615,
+    "volume": 837890067,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 614.95,
+    "high": 626.3,
+    "low": 609.5,
+    "close": 620,
+    "volume": 978311996,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 621.7,
+    "high": 631.7,
+    "low": 619,
+    "close": 623,
+    "volume": 649801853,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 621,
+    "high": 634.65,
+    "low": 616.55,
+    "close": 627.5,
+    "volume": 1012511294,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 595.05,
+    "high": 620.35,
+    "low": 595.05,
+    "close": 618,
+    "volume": 1159250763,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 600,
+    "high": 606.95,
+    "low": 576.3,
+    "close": 592.65,
+    "volume": 1607240243,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 597,
+    "high": 617.8,
+    "low": 583.1,
+    "close": 615,
+    "volume": 1259061746,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 610,
+    "high": 620.75,
+    "low": 606.05,
+    "close": 609.9,
+    "volume": 814815666,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 599,
+    "high": 599,
+    "low": 517.5,
+    "close": 519.6,
+    "volume": 6110660386,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 532,
+    "high": 552,
+    "low": 517,
+    "close": 552,
+    "volume": 5779649035,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 553,
+    "high": 564.4,
+    "low": 544.75,
+    "close": 549.2,
+    "volume": 2556277059,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 544.95,
+    "high": 546.8,
+    "low": 527,
+    "close": 532.25,
+    "volume": 1801807186,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 530,
+    "high": 534.4,
+    "low": 490.65,
+    "close": 502.8,
+    "volume": 5520601463,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 504.15,
+    "high": 510.95,
+    "low": 486,
+    "close": 508,
+    "volume": 2384822745,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 513.3,
+    "high": 529,
+    "low": 511.6,
+    "close": 523.6,
+    "volume": 2761997868,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 529.75,
+    "high": 542.55,
+    "low": 525.4,
+    "close": 535.85,
+    "volume": 1584911112,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 519.85,
+    "high": 526.45,
+    "low": 502.2,
+    "close": 509,
+    "volume": 1877421421,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 511.95,
+    "high": 520.95,
+    "low": 507.4,
+    "close": 516,
+    "volume": 1679152765,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 500,
+    "high": 500,
+    "low": 481.2,
+    "close": 495.4,
+    "volume": 2043099173,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 506,
+    "high": 506,
+    "low": 485.65,
+    "close": 502.3,
+    "volume": 1943050052,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 515,
+    "high": 546.9,
+    "low": 513.65,
+    "close": 516.1,
+    "volume": 4228527040,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 512.05,
+    "high": 514.95,
+    "low": 485.6,
+    "close": 487,
+    "volume": 1631276670,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 480,
+    "high": 494.7,
+    "low": 467,
+    "close": 471,
+    "volume": 1910582784,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 486.95,
+    "high": 500,
+    "low": 474.6,
+    "close": 482.7,
+    "volume": 1560917667,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 472,
+    "high": 474.95,
+    "low": 443.05,
+    "close": 455.2,
+    "volume": 3394841496,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 455.8,
+    "high": 457.65,
+    "low": 436.55,
+    "close": 451,
+    "volume": 3076629878,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 451.6,
+    "high": 451.6,
+    "low": 437.3,
+    "close": 439.2,
+    "volume": 2444910221,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 471.1,
+    "high": 493,
+    "low": 462.3,
+    "close": 483.45,
+    "volume": 4135481877,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 480,
+    "high": 483.9,
+    "low": 462.2,
+    "close": 483.5,
+    "volume": 3002731478,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 486.4,
+    "high": 503.85,
+    "low": 484.15,
+    "close": 487,
+    "volume": 2259846483,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 470.45,
+    "high": 490.65,
+    "low": 462.25,
+    "close": 488.75,
+    "volume": 1546932027,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 502,
+    "high": 544.25,
+    "low": 494.75,
+    "close": 537,
+    "volume": 6626099812,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 538.5,
+    "high": 560.85,
+    "low": 538.5,
+    "close": 558.05,
+    "volume": 3632447442,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 558.05,
+    "high": 565,
+    "low": 551.35,
+    "close": 561.75,
+    "volume": 1595422568,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 561,
+    "high": 566.75,
+    "low": 549.25,
+    "close": 557,
+    "volume": 1276063483,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 559.55,
+    "high": 569.75,
+    "low": 559.35,
+    "close": 561,
+    "volume": 1015708825,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 559.95,
+    "high": 577.95,
+    "low": 556.2,
+    "close": 570,
+    "volume": 1599663352,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 564.1,
+    "high": 569.55,
+    "low": 548.4,
+    "close": 549.95,
+    "volume": 1623968379,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 552.1,
+    "high": 558.5,
+    "low": 542.75,
+    "close": 545.5,
+    "volume": 1180137476,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 554.9,
+    "high": 570,
+    "low": 550.6,
+    "close": 565.5,
+    "volume": 1400549517,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 566,
+    "high": 571.6,
+    "low": 557.8,
+    "close": 565.8,
+    "volume": 1075183104,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 565.5,
+    "high": 567.9,
+    "low": 546.8,
+    "close": 550.9,
+    "volume": 1065138527,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 545,
+    "high": 545,
+    "low": 519.05,
+    "close": 535.5,
+    "volume": 2453648271,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 537,
+    "high": 538.85,
+    "low": 526.55,
+    "close": 535.1,
+    "volume": 637887746,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 532,
+    "high": 547.45,
+    "low": 530.65,
+    "close": 531,
+    "volume": 715401513,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 536.25,
+    "high": 547.65,
+    "low": 530.55,
+    "close": 546,
+    "volume": 884904111,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 547,
+    "high": 549.75,
+    "low": 532.9,
+    "close": 535.95,
+    "volume": 1089374841,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 536,
+    "high": 536,
+    "low": 524.65,
+    "close": 530.4,
+    "volume": 957340147,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 524.95,
+    "high": 533.3,
+    "low": 509,
+    "close": 510,
+    "volume": 1267936023,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 508,
+    "high": 513.55,
+    "low": 491.9,
+    "close": 496.4,
+    "volume": 722547707,
+    "symbol": "PGEL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 491.9,
+    "high": 507.35,
+    "low": 491.9,
+    "close": 496.5,
+    "volume": 717013857,
+    "symbol": "PGEL"
+  }
+]

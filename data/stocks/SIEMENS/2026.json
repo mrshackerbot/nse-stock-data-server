@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 3072,
+    "high": 3095.7,
+    "low": 3050.2,
+    "close": 3094.8,
+    "volume": 209576160,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 3094.8,
+    "high": 3117.2,
+    "low": 3058.4,
+    "close": 3100,
+    "volume": 876856674,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 3097.7,
+    "high": 3123,
+    "low": 3072.6,
+    "close": 3089.8,
+    "volume": 482906951,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 3089,
+    "high": 3132,
+    "low": 3058.4,
+    "close": 3120.7,
+    "volume": 1161419570,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 3120,
+    "high": 3138.4,
+    "low": 3090,
+    "close": 3131.8,
+    "volume": 594053877,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 3130,
+    "high": 3152.5,
+    "low": 2990.8,
+    "close": 3000,
+    "volume": 1767100456,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 3013,
+    "high": 3108,
+    "low": 2985,
+    "close": 3025,
+    "volume": 1802291751,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 3035,
+    "high": 3035,
+    "low": 2925,
+    "close": 2987.9,
+    "volume": 1255067632,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 3014,
+    "high": 3015.1,
+    "low": 2930.4,
+    "close": 2942.1,
+    "volume": 1664032857,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2950,
+    "high": 2986,
+    "low": 2930.5,
+    "close": 2963.8,
+    "volume": 441952012,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2971,
+    "high": 2974.8,
+    "low": 2903,
+    "close": 2916.3,
+    "volume": 820993791,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2919.9,
+    "high": 2975.9,
+    "low": 2910.1,
+    "close": 2947.7,
+    "volume": 646933310,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2942,
+    "high": 2950,
+    "low": 2837.6,
+    "close": 2855,
+    "volume": 588296204,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2848.2,
+    "high": 2895.9,
+    "low": 2826,
+    "close": 2895.5,
+    "volume": 833948254,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2901,
+    "high": 2934.4,
+    "low": 2872.7,
+    "close": 2921.3,
+    "volume": 696894687,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2928,
+    "high": 2942.6,
+    "low": 2890,
+    "close": 2900,
+    "volume": 819307008,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2918,
+    "high": 2926.5,
+    "low": 2852,
+    "close": 2900.5,
+    "volume": 657813359,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2891,
+    "high": 2989,
+    "low": 2887,
+    "close": 2978.1,
+    "volume": 737264598,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2980,
+    "high": 3118.9,
+    "low": 2960.8,
+    "close": 3096,
+    "volume": 1489490574,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 3092.6,
+    "high": 3115,
+    "low": 3052.3,
+    "close": 3088,
+    "volume": 749722721,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 3124,
+    "high": 3134.9,
+    "low": 2891.3,
+    "close": 2985,
+    "volume": 843694052,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2984.9,
+    "high": 3098,
+    "low": 2972.6,
+    "close": 3095,
+    "volume": 642803512,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 3160,
+    "high": 3249,
+    "low": 3159.9,
+    "close": 3215,
+    "volume": 1786206898,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 3246,
+    "high": 3321,
+    "low": 3190,
+    "close": 3290,
+    "volume": 1535753251,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 3305,
+    "high": 3324.6,
+    "low": 3250.1,
+    "close": 3297.7,
+    "volume": 678715110,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 3288,
+    "high": 3324.4,
+    "low": 3132,
+    "close": 3139,
+    "volume": 2740423786,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 3115.1,
+    "high": 3138.8,
+    "low": 3036.7,
+    "close": 3109,
+    "volume": 1993240729,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 3126,
+    "high": 3140.2,
+    "low": 3094,
+    "close": 3113,
+    "volume": 695058840,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 3119.9,
+    "high": 3158,
+    "low": 3105.1,
+    "close": 3148,
+    "volume": 600854294,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 3160,
+    "high": 3165.8,
+    "low": 3114.7,
+    "close": 3151,
+    "volume": 1290523406,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 3131,
+    "high": 3184.5,
+    "low": 3083.1,
+    "close": 3113,
+    "volume": 1286637006,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 3116.5,
+    "high": 3226,
+    "low": 3083.1,
+    "close": 3216,
+    "volume": 928336555,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 3212,
+    "high": 3262,
+    "low": 3162.6,
+    "close": 3187,
+    "volume": 878891714,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 3198.9,
+    "high": 3214.7,
+    "low": 3170.5,
+    "close": 3186,
+    "volume": 508970738,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 3187.9,
+    "high": 3218.9,
+    "low": 3098.2,
+    "close": 3110.1,
+    "volume": 557631926,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 3111.9,
+    "high": 3307,
+    "low": 3105,
+    "close": 3190.1,
+    "volume": 4348305638,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 3210.1,
+    "high": 3317,
+    "low": 3201,
+    "close": 3301,
+    "volume": 2471108618,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 3305,
+    "high": 3391.9,
+    "low": 3274.2,
+    "close": 3371.5,
+    "volume": 1770409653,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 3376.9,
+    "high": 3396,
+    "low": 3304,
+    "close": 3343.9,
+    "volume": 1295362789,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 3365,
+    "high": 3373.8,
+    "low": 3328.4,
+    "close": 3334.1,
+    "volume": 513803713,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 3336,
+    "high": 3440,
+    "low": 3271.8,
+    "close": 3428,
+    "volume": 2905294609,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 3396.2,
+    "high": 3396.3,
+    "low": 3295.2,
+    "close": 3321.9,
+    "volume": 2001953666,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 3285,
+    "high": 3285,
+    "low": 3141.7,
+    "close": 3150,
+    "volume": 1354586489,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 3172,
+    "high": 3236,
+    "low": 3170.1,
+    "close": 3216.8,
+    "volume": 890352908,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 3215.1,
+    "high": 3318.9,
+    "low": 3177.5,
+    "close": 3269.9,
+    "volume": 1263117040,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 3180,
+    "high": 3246.8,
+    "low": 3130,
+    "close": 3219.1,
+    "volume": 935454152,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 3265,
+    "high": 3333,
+    "low": 3246.4,
+    "close": 3296,
+    "volume": 1182364593,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 3296,
+    "high": 3348.4,
+    "low": 3262.6,
+    "close": 3280,
+    "volume": 971042850,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 3249.5,
+    "high": 3349.6,
+    "low": 3219.6,
+    "close": 3324.8,
+    "volume": 1196938155,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 3324,
+    "high": 3361.9,
+    "low": 3195.9,
+    "close": 3217,
+    "volume": 1020913830,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 3220,
+    "high": 3233.1,
+    "low": 3101,
+    "close": 3152.8,
+    "volume": 2140125588,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 3153.4,
+    "high": 3183.3,
+    "low": 3121,
+    "close": 3176.9,
+    "volume": 850874929,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 3180,
+    "high": 3231.6,
+    "low": 3144,
+    "close": 3211,
+    "volume": 651975885,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 3175,
+    "high": 3175,
+    "low": 3066,
+    "close": 3078.9,
+    "volume": 1275200956,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 3121.1,
+    "high": 3199,
+    "low": 3089.9,
+    "close": 3121.1,
+    "volume": 1058864063,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 3110,
+    "high": 3110,
+    "low": 2937,
+    "close": 3000,
+    "volume": 1572208530,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 3069.9,
+    "high": 3070,
+    "low": 2980,
+    "close": 2995.1,
+    "volume": 1699572835,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 3015,
+    "high": 3127,
+    "low": 3015,
+    "close": 3108,
+    "volume": 1134234198,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 3096,
+    "high": 3105,
+    "low": 3010,
+    "close": 3045.4,
+    "volume": 1523194739,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 2997.6,
+    "high": 3020.3,
+    "low": 2923.1,
+    "close": 2930,
+    "volume": 1423821984,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 3010,
+    "high": 3072.3,
+    "low": 2985.7,
+    "close": 3025,
+    "volume": 838803078,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 2970,
+    "high": 3045,
+    "low": 2906,
+    "close": 3045,
+    "volume": 789368374,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 3041.4,
+    "high": 3065.9,
+    "low": 2965.1,
+    "close": 3060,
+    "volume": 1122489144,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 3053.4,
+    "high": 3084,
+    "low": 2992.8,
+    "close": 3080,
+    "volume": 563114452,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 3180,
+    "high": 3245.6,
+    "low": 3147,
+    "close": 3231,
+    "volume": 1271460963,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 3230.9,
+    "high": 3255,
+    "low": 3181,
+    "close": 3223,
+    "volume": 899041847,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 3234.4,
+    "high": 3402.4,
+    "low": 3232,
+    "close": 3390,
+    "volume": 2096330916,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 3340,
+    "high": 3375.5,
+    "low": 3275.5,
+    "close": 3338,
+    "volume": 1103196725,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 3400,
+    "high": 3590,
+    "low": 3365.6,
+    "close": 3584,
+    "volume": 7511854156,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 3600,
+    "high": 3619.3,
+    "low": 3532.8,
+    "close": 3569.9,
+    "volume": 3644486555,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 3589,
+    "high": 3718.9,
+    "low": 3565,
+    "close": 3702,
+    "volume": 3792447122,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 3702,
+    "high": 3778.5,
+    "low": 3659.5,
+    "close": 3710,
+    "volume": 2458474185,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 3726,
+    "high": 3787,
+    "low": 3701,
+    "close": 3708.3,
+    "volume": 1391432541,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 3709,
+    "high": 3885,
+    "low": 3706.6,
+    "close": 3825.2,
+    "volume": 3372695146,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 3849,
+    "high": 3901,
+    "low": 3811.5,
+    "close": 3860.9,
+    "volume": 2561611347,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 3882,
+    "high": 3893.6,
+    "low": 3767.9,
+    "close": 3817,
+    "volume": 1203772740,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 3830.5,
+    "high": 3881,
+    "low": 3797,
+    "close": 3850,
+    "volume": 1191436454,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 3856,
+    "high": 3892,
+    "low": 3805.5,
+    "close": 3835,
+    "volume": 1027189958,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 3850,
+    "high": 3870,
+    "low": 3765.6,
+    "close": 3777,
+    "volume": 780183237,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 3790,
+    "high": 3847.6,
+    "low": 3734.5,
+    "close": 3825,
+    "volume": 1803566721,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 3850,
+    "high": 3930,
+    "low": 3820,
+    "close": 3847,
+    "volume": 3157962429,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 3851.2,
+    "high": 3866.5,
+    "low": 3809.5,
+    "close": 3842,
+    "volume": 974195493,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 3880,
+    "high": 3885,
+    "low": 3783,
+    "close": 3833,
+    "volume": 1265355461,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 3860,
+    "high": 3895.5,
+    "low": 3792.9,
+    "close": 3865.3,
+    "volume": 1215421476,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 3871.6,
+    "high": 3906.9,
+    "low": 3786,
+    "close": 3834,
+    "volume": 1400681173,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 3720,
+    "high": 3720,
+    "low": 3552.9,
+    "close": 3589.2,
+    "volume": 3604285233,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 3605,
+    "high": 3644.8,
+    "low": 3555.8,
+    "close": 3595.8,
+    "volume": 1387531963,
+    "symbol": "SIEMENS"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 3574.4,
+    "high": 3628.5,
+    "low": 3518.2,
+    "close": 3541.1,
+    "volume": 1412273116,
+    "symbol": "SIEMENS"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1048.2,
+    "high": 1054,
+    "low": 1040.1,
+    "close": 1047.7,
+    "volume": 1278046851,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1049.4,
+    "high": 1064.4,
+    "low": 1047,
+    "close": 1061.1,
+    "volume": 982061017,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1062.6,
+    "high": 1062.6,
+    "low": 1048.5,
+    "close": 1051.1,
+    "volume": 1605304631,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1050.5,
+    "high": 1062.1,
+    "low": 1043.3,
+    "close": 1051.6,
+    "volume": 2064698521,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1049,
+    "high": 1049.9,
+    "low": 1022,
+    "close": 1034.9,
+    "volume": 4635961243,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1030,
+    "high": 1035.1,
+    "low": 1019.1,
+    "close": 1030,
+    "volume": 2176299447,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1028.3,
+    "high": 1032.8,
+    "low": 1008,
+    "close": 1017.1,
+    "volume": 2618041079,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1012,
+    "high": 1019.8,
+    "low": 994,
+    "close": 1015.9,
+    "volume": 2117535061,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1013.7,
+    "high": 1031.7,
+    "low": 1003.3,
+    "close": 1029.9,
+    "volume": 2830853248,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1019,
+    "high": 1040,
+    "low": 1019,
+    "close": 1034.6,
+    "volume": 3321516486,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1029,
+    "high": 1040.1,
+    "low": 1022.7,
+    "close": 1033.5,
+    "volume": 2667122079,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1035,
+    "high": 1038.4,
+    "low": 1010.5,
+    "close": 1011,
+    "volume": 2364520980,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1010.1,
+    "high": 1013.1,
+    "low": 988,
+    "close": 990,
+    "volume": 2634878772,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 985,
+    "high": 1010.4,
+    "low": 976.7,
+    "close": 1006,
+    "volume": 3084274621,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1010,
+    "high": 1013.4,
+    "low": 990.5,
+    "close": 999.5,
+    "volume": 2524973705,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1000,
+    "high": 1007.2,
+    "low": 987.4,
+    "close": 991.4,
+    "volume": 2292936698,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1000,
+    "high": 1000,
+    "low": 965.4,
+    "close": 975.1,
+    "volume": 4126715287,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 963.9,
+    "high": 979,
+    "low": 954.1,
+    "close": 960,
+    "volume": 4075309835,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 955,
+    "high": 959.1,
+    "low": 944.3,
+    "close": 951,
+    "volume": 3366560469,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 945,
+    "high": 964,
+    "low": 940,
+    "close": 957.2,
+    "volume": 5383576753,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 958,
+    "high": 996.4,
+    "low": 950.6,
+    "close": 974.25,
+    "volume": 3922376609,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 980,
+    "high": 980,
+    "low": 933.8,
+    "close": 958.95,
+    "volume": 2782132436,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1011,
+    "high": 1011.05,
+    "low": 964.7,
+    "close": 1006.05,
+    "volume": 4515689176,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1000,
+    "high": 1031,
+    "low": 996.1,
+    "close": 1022.5,
+    "volume": 1617333638,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1027.35,
+    "high": 1046.15,
+    "low": 1008.1,
+    "close": 1038,
+    "volume": 3966736844,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1042.7,
+    "high": 1042.7,
+    "low": 1008,
+    "close": 1040,
+    "volume": 3483466291,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1040.05,
+    "high": 1042.4,
+    "low": 1007.6,
+    "close": 1010.5,
+    "volume": 3298034542,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1010.5,
+    "high": 1024.2,
+    "low": 1009.45,
+    "close": 1021.7,
+    "volume": 4534295921,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1025,
+    "high": 1056.65,
+    "low": 1023.1,
+    "close": 1055.5,
+    "volume": 4314382530,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1058.7,
+    "high": 1065.35,
+    "low": 1046,
+    "close": 1062,
+    "volume": 3554611527,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1062,
+    "high": 1067.95,
+    "low": 1044.15,
+    "close": 1049,
+    "volume": 2893870966,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1057.9,
+    "high": 1077.15,
+    "low": 1044,
+    "close": 1075,
+    "volume": 2697928001,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1079.2,
+    "high": 1083.4,
+    "low": 1057.9,
+    "close": 1076,
+    "volume": 1830986444,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1076.15,
+    "high": 1087.9,
+    "low": 1071.65,
+    "close": 1085,
+    "volume": 737050025,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1080,
+    "high": 1087.5,
+    "low": 1074.5,
+    "close": 1075,
+    "volume": 2526914247,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1075.05,
+    "high": 1095.4,
+    "low": 1075.05,
+    "close": 1086.75,
+    "volume": 2266422354,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1098,
+    "high": 1104.1,
+    "low": 1074,
+    "close": 1082,
+    "volume": 2203182870,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1078.75,
+    "high": 1089.5,
+    "low": 1077.4,
+    "close": 1080.4,
+    "volume": 2576818006,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1084.1,
+    "high": 1090.9,
+    "low": 1072.75,
+    "close": 1086,
+    "volume": 1992024075,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1086,
+    "high": 1112.55,
+    "low": 1086,
+    "close": 1106.45,
+    "volume": 3736720755,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1108.95,
+    "high": 1109,
+    "low": 1087.6,
+    "close": 1090.75,
+    "volume": 6623481751,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1056.5,
+    "high": 1088.4,
+    "low": 1056.5,
+    "close": 1079.2,
+    "volume": 3742889390,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1065.6,
+    "high": 1067.8,
+    "low": 1039.5,
+    "close": 1052.3,
+    "volume": 3520687453,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1054,
+    "high": 1063.7,
+    "low": 1033.6,
+    "close": 1053.8,
+    "volume": 3104346442,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1048.6,
+    "high": 1049.5,
+    "low": 1030,
+    "close": 1045,
+    "volume": 3311828793,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1036.8,
+    "high": 1050.9,
+    "low": 1013.8,
+    "close": 1039,
+    "volume": 2528045048,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1051.1,
+    "high": 1055,
+    "low": 1037,
+    "close": 1040,
+    "volume": 2469383402,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1037.1,
+    "high": 1047.4,
+    "low": 1024.1,
+    "close": 1033,
+    "volume": 2026351546,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1022.1,
+    "high": 1031.6,
+    "low": 1008.8,
+    "close": 1019.9,
+    "volume": 5870184596,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1014,
+    "high": 1020.8,
+    "low": 985.3,
+    "close": 991,
+    "volume": 3257868164,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 990,
+    "high": 999.5,
+    "low": 964.2,
+    "close": 967,
+    "volume": 3961711679,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 976.7,
+    "high": 987.7,
+    "low": 969.6,
+    "close": 976,
+    "volume": 2584285981,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 984.2,
+    "high": 989.4,
+    "low": 967.1,
+    "close": 979.8,
+    "volume": 2443873627,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 973.9,
+    "high": 975,
+    "low": 946,
+    "close": 955,
+    "volume": 1893067971,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 954.2,
+    "high": 974,
+    "low": 951.5,
+    "close": 962,
+    "volume": 3748578091,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 964,
+    "high": 971.3,
+    "low": 937.3,
+    "close": 953.3,
+    "volume": 2919393968,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 967,
+    "high": 983.1,
+    "low": 963.4,
+    "close": 966.5,
+    "volume": 2387718094,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 973.9,
+    "high": 993.3,
+    "low": 965.2,
+    "close": 992.8,
+    "volume": 2661517530,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 978.1,
+    "high": 990.8,
+    "low": 970.8,
+    "close": 977,
+    "volume": 2499507797,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 965,
+    "high": 969.9,
+    "low": 944,
+    "close": 960,
+    "volume": 4747566460,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 966.2,
+    "high": 981.5,
+    "low": 952.3,
+    "close": 956,
+    "volume": 2376916131,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 954,
+    "high": 958.3,
+    "low": 929.05,
+    "close": 946.5,
+    "volume": 1778511608,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 956.9,
+    "high": 956.9,
+    "low": 923,
+    "close": 933,
+    "volume": 4290573125,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 927,
+    "high": 936,
+    "low": 903,
+    "close": 933.5,
+    "volume": 4046039108,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 942.45,
+    "high": 953,
+    "low": 939.3,
+    "close": 940.55,
+    "volume": 3166201397,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 941.5,
+    "high": 962.5,
+    "low": 941.5,
+    "close": 953.85,
+    "volume": 3394586825,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 954.95,
+    "high": 959.45,
+    "low": 941.5,
+    "close": 957,
+    "volume": 3813346237,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 934,
+    "high": 967,
+    "low": 933.05,
+    "close": 950.3,
+    "volume": 2266857962,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 961,
+    "high": 991.7,
+    "low": 960,
+    "close": 990.35,
+    "volume": 2713500240,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 995,
+    "high": 1008.5,
+    "low": 982,
+    "close": 991.5,
+    "volume": 3357883489,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 990.65,
+    "high": 1011.4,
+    "low": 983,
+    "close": 1008,
+    "volume": 1645594920,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1005.15,
+    "high": 1022,
+    "low": 1002.05,
+    "close": 1008.65,
+    "volume": 2327491509,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1008.9,
+    "high": 1025.55,
+    "low": 1008,
+    "close": 1015,
+    "volume": 1346165773,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1012.15,
+    "high": 1020,
+    "low": 1000.85,
+    "close": 1001,
+    "volume": 1425272444,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1000,
+    "high": 1011.1,
+    "low": 989.1,
+    "close": 1002.05,
+    "volume": 1396440004,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1009.95,
+    "high": 1019.45,
+    "low": 996.1,
+    "close": 999.9,
+    "volume": 2564009523,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1000,
+    "high": 1015.4,
+    "low": 1000,
+    "close": 1008,
+    "volume": 1076755989,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1018,
+    "high": 1018,
+    "low": 1001.4,
+    "close": 1003.9,
+    "volume": 1044463115,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1009.9,
+    "high": 1029.1,
+    "low": 1003,
+    "close": 1004,
+    "volume": 1904853403,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 935,
+    "high": 1006.5,
+    "low": 934.95,
+    "close": 992,
+    "volume": 2342266721,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 993.05,
+    "high": 1021,
+    "low": 992,
+    "close": 1013.3,
+    "volume": 2630094243,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1011.9,
+    "high": 1014.4,
+    "low": 996.5,
+    "close": 1004,
+    "volume": 973226320,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1013,
+    "high": 1019.65,
+    "low": 1006,
+    "close": 1018.9,
+    "volume": 1347441254,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1024,
+    "high": 1025.9,
+    "low": 1008.9,
+    "close": 1013.6,
+    "volume": 1915000823,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1013.6,
+    "high": 1024.6,
+    "low": 1007.4,
+    "close": 1013,
+    "volume": 1862617262,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1012.5,
+    "high": 1041.8,
+    "low": 1003.85,
+    "close": 1040,
+    "volume": 3138777413,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1040.3,
+    "high": 1046,
+    "low": 1014,
+    "close": 1017.7,
+    "volume": 1947712889,
+    "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1009.3,
+    "high": 1032.75,
+    "low": 1003.55,
+    "close": 1028,
+    "volume": 1080615363,
+    "symbol": "MAXHEALTH"
+  }
+]

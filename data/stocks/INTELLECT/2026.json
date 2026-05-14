@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 977.4,
+    "high": 980.75,
+    "low": 942.2,
+    "close": 947.9,
+    "volume": 135125428,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 944,
+    "high": 968,
+    "low": 943.9,
+    "close": 959,
+    "volume": 177538392,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 964.15,
+    "high": 974,
+    "low": 949.45,
+    "close": 967.1,
+    "volume": 193686924,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 967.8,
+    "high": 971.45,
+    "low": 945,
+    "close": 946,
+    "volume": 104626839,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 946,
+    "high": 998.65,
+    "low": 946,
+    "close": 990,
+    "volume": 457621018,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 991.4,
+    "high": 996.25,
+    "low": 938.5,
+    "close": 948.5,
+    "volume": 262987951,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 947.7,
+    "high": 972.4,
+    "low": 915.55,
+    "close": 922.35,
+    "volume": 361440529,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 925.5,
+    "high": 925.5,
+    "low": 881.65,
+    "close": 919.75,
+    "volume": 313455389,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 916,
+    "high": 947,
+    "low": 916,
+    "close": 929,
+    "volume": 194413195,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 931,
+    "high": 937.25,
+    "low": 911.3,
+    "close": 915.5,
+    "volume": 104400534,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 920,
+    "high": 940.5,
+    "low": 914,
+    "close": 917.25,
+    "volume": 194421237,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 912.5,
+    "high": 918.35,
+    "low": 898,
+    "close": 901.6,
+    "volume": 109470965,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 905,
+    "high": 911,
+    "low": 883.05,
+    "close": 902,
+    "volume": 346523547,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 895,
+    "high": 905.25,
+    "low": 879.55,
+    "close": 898,
+    "volume": 219575165,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 908.1,
+    "high": 928,
+    "low": 899.05,
+    "close": 925,
+    "volume": 157267095,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 926.7,
+    "high": 926.75,
+    "low": 890,
+    "close": 891,
+    "volume": 187164607,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 891,
+    "high": 900,
+    "low": 871,
+    "close": 899.25,
+    "volume": 186134021,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 900,
+    "high": 914,
+    "low": 897.6,
+    "close": 910,
+    "volume": 108888833,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 910,
+    "high": 913.45,
+    "low": 885.9,
+    "close": 902.4,
+    "volume": 162125149,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 902.95,
+    "high": 932.1,
+    "low": 900.1,
+    "close": 917.2,
+    "volume": 249560753,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 832.3,
+    "high": 907.85,
+    "low": 785,
+    "close": 878,
+    "volume": 1157186561,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 869.1,
+    "high": 870,
+    "low": 808,
+    "close": 831,
+    "volume": 975215030,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 860,
+    "high": 877.9,
+    "low": 795.7,
+    "close": 814,
+    "volume": 1191969344,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 813.05,
+    "high": 813.05,
+    "low": 791.7,
+    "close": 797,
+    "volume": 410362169,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 795.5,
+    "high": 796,
+    "low": 763.7,
+    "close": 774,
+    "volume": 330233570,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 774,
+    "high": 774.05,
+    "low": 754.8,
+    "close": 760,
+    "volume": 286574737,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 770,
+    "high": 779.5,
+    "low": 760.05,
+    "close": 770,
+    "volume": 255009732,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 771.7,
+    "high": 787.95,
+    "low": 758.5,
+    "close": 760.9,
+    "volume": 257369438,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 763,
+    "high": 773,
+    "low": 740.3,
+    "close": 748.5,
+    "volume": 321351376,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 746,
+    "high": 746,
+    "low": 698.25,
+    "close": 711.5,
+    "volume": 794733626,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 695.75,
+    "high": 700,
+    "low": 672,
+    "close": 676.9,
+    "volume": 457011375,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 678.7,
+    "high": 692.6,
+    "low": 664,
+    "close": 684.5,
+    "volume": 233571285,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 688.9,
+    "high": 721.85,
+    "low": 681,
+    "close": 702,
+    "volume": 543334743,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 704.7,
+    "high": 704.7,
+    "low": 679.15,
+    "close": 700.6,
+    "volume": 295256312,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 712.55,
+    "high": 741.3,
+    "low": 698.5,
+    "close": 700,
+    "volume": 1528731484,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 699,
+    "high": 711.55,
+    "low": 686.4,
+    "close": 702.6,
+    "volume": 380589727,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 710.25,
+    "high": 714.45,
+    "low": 696.8,
+    "close": 703,
+    "volume": 310621272,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 701.45,
+    "high": 708,
+    "low": 683,
+    "close": 694.35,
+    "volume": 208644302,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 701,
+    "high": 705.7,
+    "low": 686.3,
+    "close": 687.5,
+    "volume": 289627546,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 689.6,
+    "high": 705.6,
+    "low": 685.15,
+    "close": 700.05,
+    "volume": 167792654,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 702.95,
+    "high": 705.3,
+    "low": 688.5,
+    "close": 696.7,
+    "volume": 237671354,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 661.5,
+    "high": 690.35,
+    "low": 658,
+    "close": 683,
+    "volume": 240467260,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 668.9,
+    "high": 678.95,
+    "low": 664.45,
+    "close": 666.2,
+    "volume": 206548071,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 676.35,
+    "high": 676.35,
+    "low": 652.25,
+    "close": 656.8,
+    "volume": 296574810,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 658.35,
+    "high": 692.25,
+    "low": 658.05,
+    "close": 680,
+    "volume": 354822500,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 674.1,
+    "high": 680.05,
+    "low": 657,
+    "close": 675.8,
+    "volume": 239010052,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 684.1,
+    "high": 686,
+    "low": 674,
+    "close": 677.15,
+    "volume": 160274934,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 680,
+    "high": 686,
+    "low": 660,
+    "close": 662,
+    "volume": 203012888,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 660,
+    "high": 675.45,
+    "low": 650.3,
+    "close": 666.85,
+    "volume": 213395453,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 666,
+    "high": 669.3,
+    "low": 656.6,
+    "close": 661,
+    "volume": 192633254,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 666.75,
+    "high": 666.75,
+    "low": 642,
+    "close": 646,
+    "volume": 188903774,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 654.2,
+    "high": 659.8,
+    "low": 640.4,
+    "close": 642.35,
+    "volume": 323346232,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 646,
+    "high": 699,
+    "low": 646,
+    "close": 670,
+    "volume": 1900160081,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 665.05,
+    "high": 681,
+    "low": 657.5,
+    "close": 658.1,
+    "volume": 196824450,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 665.95,
+    "high": 678.4,
+    "low": 648.15,
+    "close": 650.5,
+    "volume": 307690251,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 648,
+    "high": 654.25,
+    "low": 634.4,
+    "close": 638,
+    "volume": 222042739,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 652,
+    "high": 654,
+    "low": 631.5,
+    "close": 647,
+    "volume": 196801168,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 651,
+    "high": 663.85,
+    "low": 645.4,
+    "close": 655,
+    "volume": 207530046,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 649.95,
+    "high": 660,
+    "low": 626,
+    "close": 628.6,
+    "volume": 221637846,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 626,
+    "high": 629.95,
+    "low": 595.2,
+    "close": 597.95,
+    "volume": 324074170,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 607.95,
+    "high": 644.7,
+    "low": 607.95,
+    "close": 638.7,
+    "volume": 206551626,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 625,
+    "high": 663.4,
+    "low": 616.2,
+    "close": 655.95,
+    "volume": 172442943,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 656.95,
+    "high": 659.2,
+    "low": 642.55,
+    "close": 654.65,
+    "volume": 138056982,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 654.9,
+    "high": 674.9,
+    "low": 651.8,
+    "close": 668,
+    "volume": 195585036,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 690,
+    "high": 692,
+    "low": 674,
+    "close": 687.2,
+    "volume": 244565772,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 687.2,
+    "high": 690.1,
+    "low": 666.35,
+    "close": 673.4,
+    "volume": 180128328,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 675.05,
+    "high": 690.55,
+    "low": 670,
+    "close": 684.7,
+    "volume": 139720956,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 650,
+    "high": 659.65,
+    "low": 639.05,
+    "close": 652.7,
+    "volume": 488293415,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 661.05,
+    "high": 692,
+    "low": 661,
+    "close": 691,
+    "volume": 477607402,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 700,
+    "high": 732,
+    "low": 692.1,
+    "close": 698.6,
+    "volume": 646687702,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 703.7,
+    "high": 703.7,
+    "low": 692.2,
+    "close": 694.4,
+    "volume": 226686828,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 701.35,
+    "high": 701.35,
+    "low": 674.85,
+    "close": 678,
+    "volume": 250747788,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 680.35,
+    "high": 689.7,
+    "low": 673,
+    "close": 679,
+    "volume": 335659356,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 675,
+    "high": 698,
+    "low": 660.25,
+    "close": 698,
+    "volume": 364454994,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 698,
+    "high": 715.5,
+    "low": 690,
+    "close": 702,
+    "volume": 598241638,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 704.9,
+    "high": 704.9,
+    "low": 681.65,
+    "close": 687,
+    "volume": 301088882,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 685.5,
+    "high": 715,
+    "low": 685.5,
+    "close": 709,
+    "volume": 342167649,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 709.05,
+    "high": 770.9,
+    "low": 706.55,
+    "close": 754.6,
+    "volume": 2076240194,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 761,
+    "high": 766.95,
+    "low": 736,
+    "close": 743.7,
+    "volume": 413556285,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 735,
+    "high": 751.15,
+    "low": 728.25,
+    "close": 745.95,
+    "volume": 295453372,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 751.5,
+    "high": 752.05,
+    "low": 728.6,
+    "close": 736,
+    "volume": 307898048,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 738.85,
+    "high": 761.7,
+    "low": 732,
+    "close": 753.8,
+    "volume": 690908932,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 762.2,
+    "high": 789.3,
+    "low": 762,
+    "close": 783.6,
+    "volume": 1171890633,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 795,
+    "high": 804,
+    "low": 776.5,
+    "close": 790,
+    "volume": 854721594,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 792.1,
+    "high": 834.4,
+    "low": 775.15,
+    "close": 804,
+    "volume": 3869630187,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 805,
+    "high": 805,
+    "low": 755,
+    "close": 762.8,
+    "volume": 763043513,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 760.4,
+    "high": 765,
+    "low": 720,
+    "close": 724.75,
+    "volume": 534839760,
+    "symbol": "INTELLECT"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 737.8,
+    "high": 740.6,
+    "low": 716.1,
+    "close": 717.55,
+    "volume": 273112242,
+    "symbol": "INTELLECT"
+  }
+]

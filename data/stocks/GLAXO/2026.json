@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2476,
+    "high": 2476,
+    "low": 2442.5,
+    "close": 2455.9,
+    "volume": 100184614,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2461.3,
+    "high": 2487.7,
+    "low": 2443.9,
+    "close": 2485,
+    "volume": 67813862,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2484.9,
+    "high": 2484.9,
+    "low": 2452,
+    "close": 2455,
+    "volume": 108797925,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2456,
+    "high": 2504,
+    "low": 2437.2,
+    "close": 2479.8,
+    "volume": 113089733,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2483.3,
+    "high": 2528,
+    "low": 2448,
+    "close": 2455,
+    "volume": 388009170,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2455,
+    "high": 2455.3,
+    "low": 2386.8,
+    "close": 2399,
+    "volume": 106292373,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2390,
+    "high": 2404,
+    "low": 2350,
+    "close": 2370,
+    "volume": 193483152,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2372,
+    "high": 2403.8,
+    "low": 2337.6,
+    "close": 2388,
+    "volume": 105510083,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2397,
+    "high": 2417.1,
+    "low": 2349,
+    "close": 2374.2,
+    "volume": 139066642,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2369,
+    "high": 2411.5,
+    "low": 2361,
+    "close": 2384,
+    "volume": 134277132,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2409.8,
+    "high": 2409.8,
+    "low": 2340,
+    "close": 2344.2,
+    "volume": 140023774,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2345.9,
+    "high": 2354.8,
+    "low": 2324.9,
+    "close": 2331,
+    "volume": 53569129,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2329,
+    "high": 2337.3,
+    "low": 2263.3,
+    "close": 2271,
+    "volume": 230792590,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2270.1,
+    "high": 2299,
+    "low": 2220.3,
+    "close": 2296.2,
+    "volume": 226094510,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2304,
+    "high": 2393.5,
+    "low": 2291.3,
+    "close": 2390,
+    "volume": 209648071,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2381.9,
+    "high": 2420,
+    "low": 2307.6,
+    "close": 2308,
+    "volume": 202525690,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2319,
+    "high": 2356.2,
+    "low": 2278.3,
+    "close": 2352.7,
+    "volume": 108866523,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2351,
+    "high": 2442.9,
+    "low": 2331.9,
+    "close": 2442.9,
+    "volume": 188885512,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2438.2,
+    "high": 2438.2,
+    "low": 2345,
+    "close": 2355.5,
+    "volume": 175640358,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2359.9,
+    "high": 2414,
+    "low": 2306.3,
+    "close": 2397,
+    "volume": 259958845,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2421.4,
+    "high": 2448,
+    "low": 2372.2,
+    "close": 2408,
+    "volume": 50115581,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2400.2,
+    "high": 2426.6,
+    "low": 2342.1,
+    "close": 2400,
+    "volume": 179736459,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2465,
+    "high": 2475.6,
+    "low": 2401.8,
+    "close": 2435.3,
+    "volume": 217561667,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2406.6,
+    "high": 2420,
+    "low": 2385.1,
+    "close": 2393,
+    "volume": 87469126,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2407.1,
+    "high": 2456.5,
+    "low": 2370.3,
+    "close": 2425.1,
+    "volume": 123772998,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2444.6,
+    "high": 2489,
+    "low": 2405,
+    "close": 2484.9,
+    "volume": 184727329,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2489,
+    "high": 2540,
+    "low": 2475,
+    "close": 2515,
+    "volume": 263638197,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2550.4,
+    "high": 2675,
+    "low": 2541.6,
+    "close": 2612.9,
+    "volume": 933019076,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2622,
+    "high": 2719.8,
+    "low": 2610,
+    "close": 2701,
+    "volume": 307447867,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2705.7,
+    "high": 2705.7,
+    "low": 2644.8,
+    "close": 2668.6,
+    "volume": 115931628,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2645,
+    "high": 2668.5,
+    "low": 2584.8,
+    "close": 2590,
+    "volume": 160189416,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2590,
+    "high": 2639,
+    "low": 2584.8,
+    "close": 2590.9,
+    "volume": 88889773,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2590.8,
+    "high": 2627,
+    "low": 2579,
+    "close": 2597.2,
+    "volume": 227692738,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2603.6,
+    "high": 2644,
+    "low": 2578.6,
+    "close": 2584,
+    "volume": 116198037,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2584,
+    "high": 2625,
+    "low": 2560,
+    "close": 2578.8,
+    "volume": 147835382,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2577,
+    "high": 2610.4,
+    "low": 2558.1,
+    "close": 2600.2,
+    "volume": 101367205,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2616.8,
+    "high": 2668.8,
+    "low": 2610.5,
+    "close": 2635.3,
+    "volume": 156539564,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2635.1,
+    "high": 2635.1,
+    "low": 2591.3,
+    "close": 2617.7,
+    "volume": 150547186,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2602.5,
+    "high": 2667.4,
+    "low": 2602.5,
+    "close": 2650,
+    "volume": 104277290,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 2650,
+    "high": 2650,
+    "low": 2610,
+    "close": 2633,
+    "volume": 90836479,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 2632.1,
+    "high": 2633.1,
+    "low": 2566,
+    "close": 2570,
+    "volume": 120264849,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2520,
+    "high": 2581.6,
+    "low": 2511.7,
+    "close": 2531.5,
+    "volume": 270813486,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2501,
+    "high": 2512.1,
+    "low": 2480,
+    "close": 2485,
+    "volume": 130360298,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2487,
+    "high": 2525,
+    "low": 2450.1,
+    "close": 2478,
+    "volume": 114196576,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2478,
+    "high": 2528.9,
+    "low": 2470.5,
+    "close": 2510.2,
+    "volume": 82597656,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 2500,
+    "high": 2529.9,
+    "low": 2450.8,
+    "close": 2529.5,
+    "volume": 111606459,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2527,
+    "high": 2554,
+    "low": 2473,
+    "close": 2493.7,
+    "volume": 151139825,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2489.5,
+    "high": 2541,
+    "low": 2471,
+    "close": 2471,
+    "volume": 106963645,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2486,
+    "high": 2519.4,
+    "low": 2436.8,
+    "close": 2504.9,
+    "volume": 116910492,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 2500,
+    "high": 2500,
+    "low": 2397.7,
+    "close": 2415,
+    "volume": 125275376,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 2413,
+    "high": 2432.4,
+    "low": 2379.2,
+    "close": 2404.9,
+    "volume": 105205882,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 2404.9,
+    "high": 2440,
+    "low": 2396,
+    "close": 2422.2,
+    "volume": 75447950,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 2428.9,
+    "high": 2472,
+    "low": 2418.2,
+    "close": 2433.4,
+    "volume": 64558419,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 2401,
+    "high": 2419.6,
+    "low": 2372.4,
+    "close": 2378.9,
+    "volume": 55225719,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 2376.8,
+    "high": 2416,
+    "low": 2362.5,
+    "close": 2365,
+    "volume": 140713090,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 2353.4,
+    "high": 2364.9,
+    "low": 2269.1,
+    "close": 2280,
+    "volume": 117546781,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 2301,
+    "high": 2340,
+    "low": 2284.6,
+    "close": 2310,
+    "volume": 118757977,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 2310,
+    "high": 2352.5,
+    "low": 2305.2,
+    "close": 2325.9,
+    "volume": 205197723,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 2320.6,
+    "high": 2330.4,
+    "low": 2255.1,
+    "close": 2261,
+    "volume": 139742894,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 2259.5,
+    "high": 2296.9,
+    "low": 2217.6,
+    "close": 2270.5,
+    "volume": 292645587,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 2305,
+    "high": 2401.9,
+    "low": 2291.2,
+    "close": 2322.6,
+    "volume": 165066949,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 2293.1,
+    "high": 2339.8,
+    "low": 2261.9,
+    "close": 2305,
+    "volume": 250841816,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 2307,
+    "high": 2355.9,
+    "low": 2267.8,
+    "close": 2348.2,
+    "volume": 87322682,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 2339.9,
+    "high": 2357.9,
+    "low": 2315.2,
+    "close": 2329,
+    "volume": 128203059,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 2377,
+    "high": 2396.9,
+    "low": 2348,
+    "close": 2350.1,
+    "volume": 133937089,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 2354.3,
+    "high": 2374.3,
+    "low": 2345,
+    "close": 2357,
+    "volume": 55768297,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 2359.7,
+    "high": 2431.8,
+    "low": 2357,
+    "close": 2393.3,
+    "volume": 135039192,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 2370.1,
+    "high": 2468.8,
+    "low": 2341.2,
+    "close": 2408,
+    "volume": 153968874,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 2430,
+    "high": 2439.3,
+    "low": 2391,
+    "close": 2407,
+    "volume": 147093054,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 2417.2,
+    "high": 2441.6,
+    "low": 2391.6,
+    "close": 2420.8,
+    "volume": 82698509,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 2419.8,
+    "high": 2465.4,
+    "low": 2410,
+    "close": 2452,
+    "volume": 104658267,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 2465,
+    "high": 2466.1,
+    "low": 2410.9,
+    "close": 2425,
+    "volume": 87391385,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 2429.9,
+    "high": 2450,
+    "low": 2420.1,
+    "close": 2428.8,
+    "volume": 47062095,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 2420.2,
+    "high": 2496,
+    "low": 2397.1,
+    "close": 2472,
+    "volume": 143806366,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 2480,
+    "high": 2529.9,
+    "low": 2456,
+    "close": 2491,
+    "volume": 174436598,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 2496.4,
+    "high": 2509.6,
+    "low": 2459.8,
+    "close": 2470.2,
+    "volume": 140056047,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 2472,
+    "high": 2495,
+    "low": 2427,
+    "close": 2440.7,
+    "volume": 298388742,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 2450,
+    "high": 2466.3,
+    "low": 2404.2,
+    "close": 2412,
+    "volume": 129345860,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 2415,
+    "high": 2428.5,
+    "low": 2359.5,
+    "close": 2367,
+    "volume": 385146174,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 2367.2,
+    "high": 2370.8,
+    "low": 2319.4,
+    "close": 2348,
+    "volume": 266216027,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 2342,
+    "high": 2387.4,
+    "low": 2322.5,
+    "close": 2330.3,
+    "volume": 267646883,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 2335,
+    "high": 2399,
+    "low": 2335,
+    "close": 2360,
+    "volume": 246242270,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 2380,
+    "high": 2450,
+    "low": 2365,
+    "close": 2422.2,
+    "volume": 169296986,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 2423.5,
+    "high": 2490,
+    "low": 2423.5,
+    "close": 2482,
+    "volume": 320467800,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 2481.3,
+    "high": 2504.9,
+    "low": 2441,
+    "close": 2480.4,
+    "volume": 168895049,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 2476.9,
+    "high": 2476.9,
+    "low": 2430.5,
+    "close": 2435.8,
+    "volume": 77984698,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 2436.2,
+    "high": 2493.7,
+    "low": 2407.4,
+    "close": 2446,
+    "volume": 206155703,
+    "symbol": "GLAXO"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 2449.9,
+    "high": 2520,
+    "low": 2400.4,
+    "close": 2410,
+    "volume": 337947393,
+    "symbol": "GLAXO"
+  }
+]

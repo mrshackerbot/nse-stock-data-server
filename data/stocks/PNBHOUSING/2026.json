@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 954,
+    "high": 998,
+    "low": 951.55,
+    "close": 984.5,
+    "volume": 3505610881,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 983.05,
+    "high": 1002.9,
+    "low": 980.45,
+    "close": 999.05,
+    "volume": 1208821452,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1004,
+    "high": 1015.75,
+    "low": 995.6,
+    "close": 1001.95,
+    "volume": 771875287,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1003.9,
+    "high": 1014,
+    "low": 995.8,
+    "close": 1009.75,
+    "volume": 1013694708,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1007,
+    "high": 1010.65,
+    "low": 985.25,
+    "close": 1006.05,
+    "volume": 1324400420,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1005,
+    "high": 1007.7,
+    "low": 975.9,
+    "close": 979.6,
+    "volume": 1203695815,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 979.55,
+    "high": 988.75,
+    "low": 969.4,
+    "close": 972,
+    "volume": 1013887738,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 971,
+    "high": 982.8,
+    "low": 956.55,
+    "close": 979.9,
+    "volume": 1051221459,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 983.5,
+    "high": 992.65,
+    "low": 959.4,
+    "close": 970.7,
+    "volume": 563159510,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 968,
+    "high": 982.45,
+    "low": 967.8,
+    "close": 976.8,
+    "volume": 344488578,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 984,
+    "high": 988.75,
+    "low": 957.25,
+    "close": 959.8,
+    "volume": 569872062,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 957.2,
+    "high": 967.5,
+    "low": 950.4,
+    "close": 955.55,
+    "volume": 635843314,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 955.6,
+    "high": 966.9,
+    "low": 944,
+    "close": 944.5,
+    "volume": 607667903,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 949.9,
+    "high": 954.75,
+    "low": 918.2,
+    "close": 933,
+    "volume": 779667121,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 925,
+    "high": 925,
+    "low": 837.5,
+    "close": 858,
+    "volume": 6638743847,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 860.25,
+    "high": 866.25,
+    "low": 806,
+    "close": 812,
+    "volume": 3141949107,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 814,
+    "high": 834.25,
+    "low": 798.75,
+    "close": 826.85,
+    "volume": 1206260947,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 829.5,
+    "high": 849.1,
+    "low": 818.9,
+    "close": 844.35,
+    "volume": 750379490,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 845,
+    "high": 852.85,
+    "low": 836,
+    "close": 836,
+    "volume": 666150858,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 833.5,
+    "high": 841,
+    "low": 815,
+    "close": 822.55,
+    "volume": 1070469644,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 824.3,
+    "high": 860,
+    "low": 796,
+    "close": 800,
+    "volume": 693368660,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 805.5,
+    "high": 810,
+    "low": 779.9,
+    "close": 806.4,
+    "volume": 1173399208,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 835,
+    "high": 860,
+    "low": 813.7,
+    "close": 820.9,
+    "volume": 1943911509,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 823.2,
+    "high": 853.3,
+    "low": 820.15,
+    "close": 849.5,
+    "volume": 1352385637,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 851.4,
+    "high": 855,
+    "low": 838.4,
+    "close": 847,
+    "volume": 598023013,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 840.4,
+    "high": 851.7,
+    "low": 832.05,
+    "close": 847.6,
+    "volume": 1014223670,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 857,
+    "high": 872,
+    "low": 852,
+    "close": 866,
+    "volume": 673410657,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 868.6,
+    "high": 869.85,
+    "low": 845.1,
+    "close": 856,
+    "volume": 1204324542,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 854.75,
+    "high": 859,
+    "low": 843.55,
+    "close": 855,
+    "volume": 905245495,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 855.95,
+    "high": 857.95,
+    "low": 840.5,
+    "close": 850.3,
+    "volume": 523533361,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 848,
+    "high": 848,
+    "low": 827.7,
+    "close": 836,
+    "volume": 885904736,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 832,
+    "high": 853.8,
+    "low": 830.15,
+    "close": 845,
+    "volume": 425650684,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 853,
+    "high": 866.2,
+    "low": 841,
+    "close": 862,
+    "volume": 1340669614,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 870.95,
+    "high": 870.95,
+    "low": 859.1,
+    "close": 865,
+    "volume": 388467124,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 868.55,
+    "high": 868.55,
+    "low": 840,
+    "close": 845,
+    "volume": 351513978,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 844.2,
+    "high": 859.3,
+    "low": 838.4,
+    "close": 848.55,
+    "volume": 284150794,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 850,
+    "high": 854.45,
+    "low": 833.65,
+    "close": 836.5,
+    "volume": 971551116,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 836,
+    "high": 838,
+    "low": 818.35,
+    "close": 837.5,
+    "volume": 722681511,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 835,
+    "high": 859.8,
+    "low": 832.25,
+    "close": 848.5,
+    "volume": 664819307,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 836.05,
+    "high": 869.15,
+    "low": 836.05,
+    "close": 844.7,
+    "volume": 374543450,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 846.7,
+    "high": 847.65,
+    "low": 817.4,
+    "close": 824.1,
+    "volume": 638609476,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 811.15,
+    "high": 827.7,
+    "low": 804.6,
+    "close": 817.25,
+    "volume": 638419946,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 805,
+    "high": 808.65,
+    "low": 774.85,
+    "close": 781,
+    "volume": 614459356,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 785.45,
+    "high": 795.85,
+    "low": 772.35,
+    "close": 789.35,
+    "volume": 675201106,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 788.1,
+    "high": 798.8,
+    "low": 770.6,
+    "close": 772.2,
+    "volume": 457244124,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 763,
+    "high": 763,
+    "low": 729.6,
+    "close": 757,
+    "volume": 1218041605,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 768,
+    "high": 797,
+    "low": 767.55,
+    "close": 794,
+    "volume": 698864130,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 790,
+    "high": 806.4,
+    "low": 774.05,
+    "close": 776,
+    "volume": 708307699,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 774,
+    "high": 787.35,
+    "low": 756.15,
+    "close": 780.5,
+    "volume": 778126824,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 776.5,
+    "high": 780,
+    "low": 761.55,
+    "close": 765.95,
+    "volume": 857317252,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 763,
+    "high": 777.55,
+    "low": 749.5,
+    "close": 768.55,
+    "volume": 408241335,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 768.4,
+    "high": 786.35,
+    "low": 767.15,
+    "close": 779,
+    "volume": 556731068,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 784.05,
+    "high": 813.45,
+    "low": 783.2,
+    "close": 803.5,
+    "volume": 821907494,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 798.05,
+    "high": 798.6,
+    "low": 782,
+    "close": 790,
+    "volume": 652144808,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 795,
+    "high": 810.7,
+    "low": 789.05,
+    "close": 790.6,
+    "volume": 991573012,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 786,
+    "high": 787.95,
+    "low": 737.05,
+    "close": 745,
+    "volume": 941563002,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 767.95,
+    "high": 793.7,
+    "low": 757.8,
+    "close": 784,
+    "volume": 673979435,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 789,
+    "high": 812.9,
+    "low": 786.15,
+    "close": 804,
+    "volume": 1307869966,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 800,
+    "high": 804.05,
+    "low": 787.4,
+    "close": 799.9,
+    "volume": 752832625,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 785,
+    "high": 785.9,
+    "low": 749,
+    "close": 760,
+    "volume": 1124255696,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 786.85,
+    "high": 795.75,
+    "low": 773.7,
+    "close": 781,
+    "volume": 988893181,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 775,
+    "high": 787.5,
+    "low": 754.3,
+    "close": 779.65,
+    "volume": 824575560,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 781,
+    "high": 819.25,
+    "low": 775.95,
+    "close": 819,
+    "volume": 664979910,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 814.05,
+    "high": 820.15,
+    "low": 804.7,
+    "close": 813.6,
+    "volume": 342874881,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 834.9,
+    "high": 885.45,
+    "low": 834.9,
+    "close": 875.5,
+    "volume": 916560980,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 873.3,
+    "high": 873.3,
+    "low": 852.4,
+    "close": 863,
+    "volume": 604510104,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 865,
+    "high": 884.25,
+    "low": 859.9,
+    "close": 866.4,
+    "volume": 351647603,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 855,
+    "high": 857.7,
+    "low": 836.2,
+    "close": 850.6,
+    "volume": 679019977,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 852.05,
+    "high": 878.55,
+    "low": 852.05,
+    "close": 865.25,
+    "volume": 1267031474,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 874.2,
+    "high": 906.5,
+    "low": 871.05,
+    "close": 894,
+    "volume": 1735417354,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 894,
+    "high": 927.9,
+    "low": 889,
+    "close": 927.5,
+    "volume": 1957421441,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 923.3,
+    "high": 933.8,
+    "low": 899.15,
+    "close": 906.6,
+    "volume": 1396547685,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 949.5,
+    "high": 1007,
+    "low": 943.9,
+    "close": 979,
+    "volume": 19665523040,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 979.1,
+    "high": 1001.3,
+    "low": 978,
+    "close": 990.05,
+    "volume": 3894097184,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 981.5,
+    "high": 1011.7,
+    "low": 981,
+    "close": 1003.45,
+    "volume": 1723120522,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1012,
+    "high": 1041.25,
+    "low": 995,
+    "close": 1031.2,
+    "volume": 3256729524,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1047.9,
+    "high": 1060.7,
+    "low": 1040.35,
+    "close": 1047.8,
+    "volume": 2490713026,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1049.5,
+    "high": 1055.2,
+    "low": 1034,
+    "close": 1049,
+    "volume": 895665849,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1044.9,
+    "high": 1068.5,
+    "low": 1034.35,
+    "close": 1055,
+    "volume": 1701585791,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1043.05,
+    "high": 1052.5,
+    "low": 1027.5,
+    "close": 1043.05,
+    "volume": 1479532529,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1050,
+    "high": 1057,
+    "low": 1038.6,
+    "close": 1043.7,
+    "volume": 447249186,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1042.2,
+    "high": 1051,
+    "low": 1031.4,
+    "close": 1036.8,
+    "volume": 925131446,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1050,
+    "high": 1070.5,
+    "low": 1042.1,
+    "close": 1057.2,
+    "volume": 910558670,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1065.1,
+    "high": 1065.1,
+    "low": 1046.9,
+    "close": 1050.5,
+    "volume": 819202195,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1059.1,
+    "high": 1095.8,
+    "low": 1053.3,
+    "close": 1089,
+    "volume": 2233036868,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1080,
+    "high": 1095,
+    "low": 1067.2,
+    "close": 1078.3,
+    "volume": 847290315,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1072.1,
+    "high": 1082,
+    "low": 1051.9,
+    "close": 1056.6,
+    "volume": 1628004266,
+    "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1055,
+    "high": 1076.7,
+    "low": 1051.6,
+    "close": 1054.2,
+    "volume": 967469407,
+    "symbol": "PNBHOUSING"
+  }
+]

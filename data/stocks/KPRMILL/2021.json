@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 876.05,
+    "high": 882,
+    "low": 870,
+    "close": 871,
+    "volume": 14604121,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 880,
+    "high": 884,
+    "low": 869.05,
+    "close": 876.4,
+    "volume": 24821667,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 875.2,
+    "high": 878.95,
+    "low": 871.7,
+    "close": 874.5,
+    "volume": 18939349,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 877.2,
+    "high": 880,
+    "low": 848.8,
+    "close": 862.8,
+    "volume": 52399355,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 866.7,
+    "high": 929.45,
+    "low": 866.7,
+    "close": 927,
+    "volume": 183954019,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 930,
+    "high": 980,
+    "low": 930,
+    "close": 956.05,
+    "volume": 198868128,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 975.9,
+    "high": 1000,
+    "low": 955,
+    "close": 957.7,
+    "volume": 85282238,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 963.75,
+    "high": 974.9,
+    "low": 949,
+    "close": 950,
+    "volume": 26922047,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 959.95,
+    "high": 971,
+    "low": 946.2,
+    "close": 968,
+    "volume": 34671223,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 968,
+    "high": 970,
+    "low": 945,
+    "close": 946.8,
+    "volume": 16616959,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 945,
+    "high": 948,
+    "low": 926,
+    "close": 928,
+    "volume": 22762325,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 925,
+    "high": 925,
+    "low": 885,
+    "close": 889.4,
+    "volume": 34151077,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 905,
+    "high": 917.9,
+    "low": 891.85,
+    "close": 897.6,
+    "volume": 16317296,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 902.7,
+    "high": 908.85,
+    "low": 890,
+    "close": 895.9,
+    "volume": 11484350,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 909,
+    "high": 909,
+    "low": 876.95,
+    "close": 900,
+    "volume": 36805389,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 897.55,
+    "high": 908,
+    "low": 885.05,
+    "close": 900,
+    "volume": 20355567,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 908,
+    "high": 914,
+    "low": 889.3,
+    "close": 908,
+    "volume": 39152617,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 910.45,
+    "high": 914,
+    "low": 891,
+    "close": 902.15,
+    "volume": 46635731,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 900,
+    "high": 947,
+    "low": 900,
+    "close": 929.95,
+    "volume": 92892996,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 939.95,
+    "high": 950,
+    "low": 908,
+    "close": 915,
+    "volume": 66074035,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 914.65,
+    "high": 950,
+    "low": 898.75,
+    "close": 938,
+    "volume": 43885717,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 949.65,
+    "high": 949.65,
+    "low": 928.95,
+    "close": 935,
+    "volume": 52411547,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 940,
+    "high": 953.7,
+    "low": 910.05,
+    "close": 922,
+    "volume": 244913917,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 935,
+    "high": 947.95,
+    "low": 917.45,
+    "close": 927.9,
+    "volume": 38841026,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 931,
+    "high": 938.6,
+    "low": 914,
+    "close": 920,
+    "volume": 38957834,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 930.95,
+    "high": 942.9,
+    "low": 930.05,
+    "close": 933,
+    "volume": 34796393,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 943.95,
+    "high": 947,
+    "low": 933,
+    "close": 935.3,
+    "volume": 28778091,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 931.05,
+    "high": 947.9,
+    "low": 930.3,
+    "close": 931,
+    "volume": 18510352,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 940,
+    "high": 940.5,
+    "low": 930,
+    "close": 932.95,
+    "volume": 13014829,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 927.9,
+    "high": 940.25,
+    "low": 906.35,
+    "close": 918.95,
+    "volume": 22709449,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 926.7,
+    "high": 932.45,
+    "low": 916,
+    "close": 916,
+    "volume": 9881216,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 920.15,
+    "high": 936.45,
+    "low": 910,
+    "close": 920,
+    "volume": 15201719,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 926,
+    "high": 926,
+    "low": 897.9,
+    "close": 900,
+    "volume": 36036973,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 909.85,
+    "high": 947,
+    "low": 902.05,
+    "close": 939,
+    "volume": 73340725,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 939.5,
+    "high": 945,
+    "low": 915.4,
+    "close": 925,
+    "volume": 29715946,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 920.75,
+    "high": 925,
+    "low": 895,
+    "close": 899.8,
+    "volume": 21235388,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 891.1,
+    "high": 919.9,
+    "low": 888,
+    "close": 915,
+    "volume": 24400271,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 889,
+    "high": 929,
+    "low": 830.2,
+    "close": 925.5,
+    "volume": 11331449,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 915.15,
+    "high": 940,
+    "low": 915,
+    "close": 926.6,
+    "volume": 23402587,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 919.9,
+    "high": 938.7,
+    "low": 909.5,
+    "close": 928.15,
+    "volume": 38141268,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 933.5,
+    "high": 991.8,
+    "low": 922.4,
+    "close": 973.95,
+    "volume": 162124515,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 993.45,
+    "high": 1018.95,
+    "low": 944.4,
+    "close": 962,
+    "volume": 144640308,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 965,
+    "high": 978,
+    "low": 950,
+    "close": 960,
+    "volume": 47190691,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 960,
+    "high": 1005,
+    "low": 955,
+    "close": 965,
+    "volume": 58133235,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 970.95,
+    "high": 999,
+    "low": 970,
+    "close": 994,
+    "volume": 56725921,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 995,
+    "high": 1009.85,
+    "low": 970.1,
+    "close": 982,
+    "volume": 21734354,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 985,
+    "high": 995.7,
+    "low": 973,
+    "close": 994.5,
+    "volume": 15004177,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 991.05,
+    "high": 1094.5,
+    "low": 984.95,
+    "close": 1077,
+    "volume": 157340907,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 1091.75,
+    "high": 1120,
+    "low": 1073.65,
+    "close": 1101,
+    "volume": 142237091,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 1119,
+    "high": 1135,
+    "low": 1062.05,
+    "close": 1110,
+    "volume": 97172261,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 1111,
+    "high": 1140,
+    "low": 1080,
+    "close": 1100,
+    "volume": 63981673,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 1091,
+    "high": 1108.35,
+    "low": 1041,
+    "close": 1060,
+    "volume": 42494402,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 1053.05,
+    "high": 1067,
+    "low": 995.05,
+    "close": 1000,
+    "volume": 57311792,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 981.1,
+    "high": 1150,
+    "low": 958.1,
+    "close": 1141.1,
+    "volume": 237369367,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 1140,
+    "high": 1140,
+    "low": 1041.6,
+    "close": 1059,
+    "volume": 176623586,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 1065.7,
+    "high": 1083.65,
+    "low": 1058.95,
+    "close": 1062,
+    "volume": 52923437,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 1042,
+    "high": 1061,
+    "low": 1042,
+    "close": 1046.6,
+    "volume": 30888062,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 1046.85,
+    "high": 1046.85,
+    "low": 1010.9,
+    "close": 1018,
+    "volume": 31140240,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 1039,
+    "high": 1047.05,
+    "low": 1014.5,
+    "close": 1030,
+    "volume": 20296061,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 1028.65,
+    "high": 1100,
+    "low": 1022,
+    "close": 1053,
+    "volume": 36794353,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 1065,
+    "high": 1077.95,
+    "low": 1037.05,
+    "close": 1053,
+    "volume": 107629472,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 1068.95,
+    "high": 1071.95,
+    "low": 1046.95,
+    "close": 1060,
+    "volume": 98215161,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 1057,
+    "high": 1061.15,
+    "low": 1032,
+    "close": 1049,
+    "volume": 74492906,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 1050,
+    "high": 1079,
+    "low": 1033.25,
+    "close": 1072.1,
+    "volume": 56738261,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 1061,
+    "high": 1086.9,
+    "low": 1059.95,
+    "close": 1070,
+    "volume": 16775046,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 1072.15,
+    "high": 1092.15,
+    "low": 1067,
+    "close": 1079.5,
+    "volume": 23001246,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 1076.2,
+    "high": 1136.8,
+    "low": 1075.5,
+    "close": 1081.15,
+    "volume": 48644187,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 1089.9,
+    "high": 1099.8,
+    "low": 1065.25,
+    "close": 1085,
+    "volume": 37843902,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 1096,
+    "high": 1278,
+    "low": 1079.2,
+    "close": 1215,
+    "volume": 474805186,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 1228,
+    "high": 1247,
+    "low": 1170.5,
+    "close": 1223.4,
+    "volume": 183401120,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 1227,
+    "high": 1240,
+    "low": 1175.1,
+    "close": 1177,
+    "volume": 71814821,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 1180,
+    "high": 1275,
+    "low": 1165.1,
+    "close": 1222,
+    "volume": 340223869,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 1240.6,
+    "high": 1294.95,
+    "low": 1208.15,
+    "close": 1225,
+    "volume": 137152139,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 1220.4,
+    "high": 1237.45,
+    "low": 1177,
+    "close": 1189,
+    "volume": 121134938,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 1190,
+    "high": 1229.95,
+    "low": 1190,
+    "close": 1216.3,
+    "volume": 61009816,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 1217.95,
+    "high": 1309.7,
+    "low": 1217.95,
+    "close": 1267,
+    "volume": 191288738,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 1287.95,
+    "high": 1312.95,
+    "low": 1275.6,
+    "close": 1304,
+    "volume": 92951729,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 1322.9,
+    "high": 1424.7,
+    "low": 1291.75,
+    "close": 1346,
+    "volume": 772707473,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 1373,
+    "high": 1373,
+    "low": 1320.9,
+    "close": 1358.7,
+    "volume": 188306750,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 1332,
+    "high": 1385,
+    "low": 1330,
+    "close": 1378.75,
+    "volume": 73653179,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 1409,
+    "high": 1631.25,
+    "low": 1400,
+    "close": 1457,
+    "volume": 738226031,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 1468,
+    "high": 1497.05,
+    "low": 1444.1,
+    "close": 1464.9,
+    "volume": 137254499,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 1474.8,
+    "high": 1485,
+    "low": 1451.2,
+    "close": 1459,
+    "volume": 57125691,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 1469,
+    "high": 1471,
+    "low": 1441.05,
+    "close": 1453,
+    "volume": 85578897,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 1450,
+    "high": 1467.9,
+    "low": 1412,
+    "close": 1425,
+    "volume": 52524118,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 1455,
+    "high": 1517.95,
+    "low": 1450,
+    "close": 1480,
+    "volume": 115402814,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 1499,
+    "high": 1521,
+    "low": 1469.85,
+    "close": 1508,
+    "volume": 141045913,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 1530,
+    "high": 1530,
+    "low": 1460.5,
+    "close": 1490.1,
+    "volume": 42727422,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 1504.95,
+    "high": 1509.25,
+    "low": 1460,
+    "close": 1463,
+    "volume": 55278402,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 1470,
+    "high": 1514.5,
+    "low": 1403.4,
+    "close": 1483,
+    "volume": 97693919,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 1476.1,
+    "high": 1529,
+    "low": 1476.1,
+    "close": 1508.95,
+    "volume": 57206983,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 1505,
+    "high": 1525,
+    "low": 1475.05,
+    "close": 1480,
+    "volume": 32509650,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 1497.95,
+    "high": 1505,
+    "low": 1437.5,
+    "close": 1454.5,
+    "volume": 57822688,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 1450,
+    "high": 1519.7,
+    "low": 1440.7,
+    "close": 1450,
+    "volume": 44146112,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 1473.9,
+    "high": 1499.4,
+    "low": 1466.75,
+    "close": 1495,
+    "volume": 63991481,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 1495,
+    "high": 1509.3,
+    "low": 1451,
+    "close": 1469,
+    "volume": 65520119,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 1487.2,
+    "high": 1573.7,
+    "low": 1484.25,
+    "close": 1558,
+    "volume": 187274537,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 1562.5,
+    "high": 1624.4,
+    "low": 1551.15,
+    "close": 1600,
+    "volume": 226814851,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 1618,
+    "high": 1624.85,
+    "low": 1579.85,
+    "close": 1590,
+    "volume": 88320268,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 1600,
+    "high": 1620,
+    "low": 1579.75,
+    "close": 1590.75,
+    "volume": 118861081,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 1597,
+    "high": 1601.25,
+    "low": 1517,
+    "close": 1530,
+    "volume": 63598925,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 1533,
+    "high": 1559.95,
+    "low": 1533,
+    "close": 1549.2,
+    "volume": 74723699,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 1565,
+    "high": 1582.15,
+    "low": 1525.55,
+    "close": 1550,
+    "volume": 35457927,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 1563.9,
+    "high": 1573.95,
+    "low": 1531.5,
+    "close": 1535,
+    "volume": 43469372,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 1560,
+    "high": 1579,
+    "low": 1550,
+    "close": 1559.95,
+    "volume": 53176851,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 1565.5,
+    "high": 1695,
+    "low": 1565.5,
+    "close": 1616,
+    "volume": 310511626,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 1629,
+    "high": 1634.45,
+    "low": 1577,
+    "close": 1590,
+    "volume": 94693338,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 1599.95,
+    "high": 1609.6,
+    "low": 1569,
+    "close": 1571.15,
+    "volume": 38895599,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 1550.7,
+    "high": 1599.5,
+    "low": 1550.7,
+    "close": 1560,
+    "volume": 50538184,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 1564,
+    "high": 1583.9,
+    "low": 1514.05,
+    "close": 1541,
+    "volume": 58581158,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 1542.25,
+    "high": 1575.05,
+    "low": 1522.5,
+    "close": 1530,
+    "volume": 101168361,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 1534.95,
+    "high": 1556.3,
+    "low": 1510,
+    "close": 1525,
+    "volume": 41565121,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 1508,
+    "high": 1600,
+    "low": 1508,
+    "close": 1540,
+    "volume": 148236767,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 1559.8,
+    "high": 1559.95,
+    "low": 1485,
+    "close": 1535,
+    "volume": 64492684,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 1515.5,
+    "high": 1558,
+    "low": 1511.05,
+    "close": 1545.6,
+    "volume": 38289653,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 1572.95,
+    "high": 1580.1,
+    "low": 1555.2,
+    "close": 1568.65,
+    "volume": 28102502,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 1587.95,
+    "high": 1589.95,
+    "low": 1540,
+    "close": 1550,
+    "volume": 33019858,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 1550,
+    "high": 1562.95,
+    "low": 1516,
+    "close": 1530,
+    "volume": 28620364,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 1510,
+    "high": 1557,
+    "low": 1489.95,
+    "close": 1518,
+    "volume": 44945369,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 1532.95,
+    "high": 1549.95,
+    "low": 1510,
+    "close": 1538,
+    "volume": 31839120,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 1544,
+    "high": 1559.5,
+    "low": 1520,
+    "close": 1538.75,
+    "volume": 29749748,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 1547.85,
+    "high": 1549,
+    "low": 1520,
+    "close": 1520,
+    "volume": 27685499,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 1523.05,
+    "high": 1550,
+    "low": 1520.05,
+    "close": 1540,
+    "volume": 21199615,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 1548,
+    "high": 1553,
+    "low": 1529.7,
+    "close": 1538,
+    "volume": 23968846,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 1550.7,
+    "high": 1670,
+    "low": 1538.95,
+    "close": 1660.05,
+    "volume": 225147884,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 1675.8,
+    "high": 1798.5,
+    "low": 1611.05,
+    "close": 1636.8,
+    "volume": 397666764,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 1640,
+    "high": 1718.45,
+    "low": 1622.05,
+    "close": 1705.9,
+    "volume": 106711651,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 1835,
+    "high": 1864.75,
+    "low": 1755,
+    "close": 1783,
+    "volume": 488587679,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 1788,
+    "high": 1844,
+    "low": 1753,
+    "close": 1790,
+    "volume": 222495620,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 1804.7,
+    "high": 1835.85,
+    "low": 1783.4,
+    "close": 1793.95,
+    "volume": 126162029,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 1809.9,
+    "high": 1814.9,
+    "low": 1780,
+    "close": 1791,
+    "volume": 153388376,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 1802.4,
+    "high": 1860,
+    "low": 1795,
+    "close": 1820,
+    "volume": 405522898,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 1835,
+    "high": 1853.45,
+    "low": 1820,
+    "close": 1830,
+    "volume": 124672145,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 1852,
+    "high": 1903,
+    "low": 1850,
+    "close": 1856.1,
+    "volume": 177680696,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 1860,
+    "high": 1880,
+    "low": 1822.5,
+    "close": 1837,
+    "volume": 83621856,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 1849.45,
+    "high": 1852.95,
+    "low": 1760,
+    "close": 1808,
+    "volume": 65231329,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 1837.85,
+    "high": 1874.45,
+    "low": 1795.2,
+    "close": 1835,
+    "volume": 150722230,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 1854.95,
+    "high": 1863.95,
+    "low": 1810.65,
+    "close": 1850,
+    "volume": 85545996,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 1847,
+    "high": 1899,
+    "low": 1810,
+    "close": 1881,
+    "volume": 142336355,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 1900,
+    "high": 2085,
+    "low": 1879.15,
+    "close": 2030,
+    "volume": 782601564,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 2037,
+    "high": 2045.65,
+    "low": 1926.1,
+    "close": 1960.15,
+    "volume": 311845577,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 1974,
+    "high": 1999,
+    "low": 1916.65,
+    "close": 1941,
+    "volume": 100704493,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 1955,
+    "high": 1962.1,
+    "low": 1855.15,
+    "close": 1900,
+    "volume": 149643636,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 1920,
+    "high": 1968,
+    "low": 1900,
+    "close": 1954.95,
+    "volume": 143529274,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 2004.85,
+    "high": 2020,
+    "low": 1975.05,
+    "close": 1982.15,
+    "volume": 147820002,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 1982.15,
+    "high": 2000,
+    "low": 1951,
+    "close": 1985,
+    "volume": 141178078,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 1990,
+    "high": 1992,
+    "low": 1904.05,
+    "close": 1969.7,
+    "volume": 85881167,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 1972.45,
+    "high": 1998,
+    "low": 1952,
+    "close": 1968.95,
+    "volume": 37151305,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 1998,
+    "high": 1998,
+    "low": 1910,
+    "close": 1922,
+    "volume": 106418963,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 1915,
+    "high": 1920,
+    "low": 1774.85,
+    "close": 1810,
+    "volume": 113770251,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 1800,
+    "high": 1848.95,
+    "low": 1720,
+    "close": 1789,
+    "volume": 198469724,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 1793.5,
+    "high": 1871,
+    "low": 1780,
+    "close": 1830,
+    "volume": 127338288,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 1849,
+    "high": 1852,
+    "low": 1806.3,
+    "close": 1815,
+    "volume": 44708752,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 1815,
+    "high": 1853,
+    "low": 1797.3,
+    "close": 1845,
+    "volume": 50243156,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 1844,
+    "high": 1852,
+    "low": 1783.45,
+    "close": 1794.95,
+    "volume": 127940799,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 1800.1,
+    "high": 1824.95,
+    "low": 1771,
+    "close": 1780,
+    "volume": 55497208,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 1750,
+    "high": 1790.3,
+    "low": 1739.9,
+    "close": 1755.4,
+    "volume": 36707534,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 1754.4,
+    "high": 1805,
+    "low": 1651.15,
+    "close": 1730.35,
+    "volume": 143528583,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 1728.7,
+    "high": 1754.95,
+    "low": 1701.15,
+    "close": 1714.9,
+    "volume": 71266958,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 1729,
+    "high": 1775,
+    "low": 1709.95,
+    "close": 1762,
+    "volume": 30290874,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 1775,
+    "high": 1784.8,
+    "low": 1730,
+    "close": 1739.8,
+    "volume": 26304493,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 1750,
+    "high": 1754,
+    "low": 1712.45,
+    "close": 1715,
+    "volume": 39946969,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 1730,
+    "high": 1750,
+    "low": 1705,
+    "close": 1717.9,
+    "volume": 91617726,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 1746.95,
+    "high": 1805,
+    "low": 1727.8,
+    "close": 1782,
+    "volume": 82012111,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 1791,
+    "high": 1795.5,
+    "low": 1760,
+    "close": 1782.5,
+    "volume": 41294005,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 1778.5,
+    "high": 1948,
+    "low": 1778.5,
+    "close": 1929,
+    "volume": 298843191,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 1944,
+    "high": 2020,
+    "low": 1870,
+    "close": 1973,
+    "volume": 204652933,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 1987,
+    "high": 2028.95,
+    "low": 1970,
+    "close": 1995,
+    "volume": 102378822,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 2022,
+    "high": 2029,
+    "low": 1951.2,
+    "close": 1987.05,
+    "volume": 82983343,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 2010,
+    "high": 2030,
+    "low": 1981.05,
+    "close": 2015,
+    "volume": 164428546,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 2022.8,
+    "high": 2349,
+    "low": 2016.1,
+    "close": 2285,
+    "volume": 768539682,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 2322,
+    "high": 2346.45,
+    "low": 2168.85,
+    "close": 2196,
+    "volume": 505147157,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 2228,
+    "high": 2286,
+    "low": 2190,
+    "close": 2239,
+    "volume": 316534736,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 2260,
+    "high": 2274.95,
+    "low": 2192,
+    "close": 2204.5,
+    "volume": 144209273,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 2214,
+    "high": 2214,
+    "low": 2141.35,
+    "close": 2181,
+    "volume": 114262518,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 2195,
+    "high": 2285,
+    "low": 2127.7,
+    "close": 2212,
+    "volume": 473374829,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 2220,
+    "high": 2256.1,
+    "low": 2160,
+    "close": 2170.1,
+    "volume": 157054191,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 2170,
+    "high": 2181,
+    "low": 2055.05,
+    "close": 2094,
+    "volume": 201894131,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 2109.85,
+    "high": 2176,
+    "low": 2082.35,
+    "close": 2139.95,
+    "volume": 118069673,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 2160,
+    "high": 2170,
+    "low": 2085.2,
+    "close": 2115.9,
+    "volume": 207367943,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 426.3,
+    "high": 493.75,
+    "low": 425,
+    "close": 461.9,
+    "volume": 719204602,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 470.75,
+    "high": 504,
+    "low": 463,
+    "close": 474.65,
+    "volume": 492071161,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 471.9,
+    "high": 472.95,
+    "low": 445.05,
+    "close": 449.9,
+    "volume": 282906175,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 442,
+    "high": 445,
+    "low": 424,
+    "close": 429,
+    "volume": 247119264,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 432,
+    "high": 446.25,
+    "low": 422.65,
+    "close": 426.6,
+    "volume": 280882700,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 426.95,
+    "high": 431.5,
+    "low": 420.65,
+    "close": 425.55,
+    "volume": 136136588,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 427.1,
+    "high": 435.7,
+    "low": 424.05,
+    "close": 425.9,
+    "volume": 171351883,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 426,
+    "high": 445,
+    "low": 424.5,
+    "close": 438.8,
+    "volume": 333572035,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 442,
+    "high": 451.9,
+    "low": 438,
+    "close": 444.4,
+    "volume": 229205150,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 452,
+    "high": 456.45,
+    "low": 440,
+    "close": 454,
+    "volume": 185523543,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 459,
+    "high": 464.9,
+    "low": 452,
+    "close": 459.8,
+    "volume": 179270768,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 461.4,
+    "high": 461.4,
+    "low": 450,
+    "close": 450.35,
+    "volume": 126298391,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 453,
+    "high": 467.7,
+    "low": 453,
+    "close": 461.85,
+    "volume": 263248488,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 465,
+    "high": 481.5,
+    "low": 459.5,
+    "close": 478.85,
+    "volume": 291689011,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 483,
+    "high": 483,
+    "low": 468,
+    "close": 472,
+    "volume": 187528463,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 472,
+    "high": 482,
+    "low": 465,
+    "close": 482,
+    "volume": 181040310,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 481.9,
+    "high": 486,
+    "low": 466,
+    "close": 469.5,
+    "volume": 128895402,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 471.95,
+    "high": 471.95,
+    "low": 445,
+    "close": 449.95,
+    "volume": 201709684,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 447.9,
+    "high": 459.25,
+    "low": 440,
+    "close": 444.95,
+    "volume": 60289511,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 436.2,
+    "high": 446.35,
+    "low": 420,
+    "close": 424.75,
+    "volume": 223647816,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 423.9,
+    "high": 453.9,
+    "low": 410,
+    "close": 432,
+    "volume": 177130182,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 435.95,
+    "high": 470.5,
+    "low": 435,
+    "close": 468,
+    "volume": 303868946,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 469.5,
+    "high": 482.5,
+    "low": 455,
+    "close": 465,
+    "volume": 643041187,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 470,
+    "high": 477.25,
+    "low": 454.45,
+    "close": 457,
+    "volume": 204135839,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 458.9,
+    "high": 462.05,
+    "low": 445.2,
+    "close": 451.95,
+    "volume": 167482626,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 460,
+    "high": 468,
+    "low": 453.3,
+    "close": 463.7,
+    "volume": 132805188,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 464,
+    "high": 468,
+    "low": 457.25,
+    "close": 461.05,
+    "volume": 155856367,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 466.7,
+    "high": 498,
+    "low": 464,
+    "close": 495.9,
+    "volume": 624655272,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 500,
+    "high": 518.5,
+    "low": 498.2,
+    "close": 516,
+    "volume": 215640992,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 525,
+    "high": 546.9,
+    "low": 515.2,
+    "close": 546.5,
+    "volume": 634975659,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 546.5,
+    "high": 548,
+    "low": 510.35,
+    "close": 520.1,
+    "volume": 343211299,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 518,
+    "high": 536.9,
+    "low": 518,
+    "close": 536,
+    "volume": 165608586,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 537,
+    "high": 544.85,
+    "low": 532.05,
+    "close": 540,
+    "volume": 212451630,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 542.5,
+    "high": 547.5,
+    "low": 524.9,
+    "close": 536,
+    "volume": 231470350,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 537.85,
+    "high": 540,
+    "low": 523,
+    "close": 537.5,
+    "volume": 128102036,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 538,
+    "high": 539.05,
+    "low": 515.2,
+    "close": 519.7,
+    "volume": 131770787,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 519.95,
+    "high": 521.45,
+    "low": 506.05,
+    "close": 507,
+    "volume": 143854914,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 509,
+    "high": 514.65,
+    "low": 491.65,
+    "close": 494.1,
+    "volume": 188509495,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 492.9,
+    "high": 506,
+    "low": 482.85,
+    "close": 499,
+    "volume": 181458556,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 496,
+    "high": 498.4,
+    "low": 484,
+    "close": 489.15,
+    "volume": 123167420,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 489.85,
+    "high": 501.7,
+    "low": 484.7,
+    "close": 486.15,
+    "volume": 400243791,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 492,
+    "high": 524.5,
+    "low": 490.8,
+    "close": 516.5,
+    "volume": 401132184,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 513.95,
+    "high": 528,
+    "low": 507,
+    "close": 511,
+    "volume": 293662638,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 514,
+    "high": 515,
+    "low": 445.6,
+    "close": 490.05,
+    "volume": 284120227,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 498,
+    "high": 539,
+    "low": 495.7,
+    "close": 529.3,
+    "volume": 493014895,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 531.05,
+    "high": 537,
+    "low": 508.7,
+    "close": 512.9,
+    "volume": 203275402,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 513.9,
+    "high": 517,
+    "low": 503.25,
+    "close": 509.5,
+    "volume": 166015425,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 512.2,
+    "high": 514.4,
+    "low": 505,
+    "close": 508.65,
+    "volume": 83959626,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 508.9,
+    "high": 522.5,
+    "low": 507.15,
+    "close": 514.4,
+    "volume": 152684998,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 514.7,
+    "high": 515.75,
+    "low": 507.85,
+    "close": 511,
+    "volume": 87487634,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 515.9,
+    "high": 535.95,
+    "low": 514.1,
+    "close": 527,
+    "volume": 213490296,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 530.3,
+    "high": 562.3,
+    "low": 523.3,
+    "close": 530,
+    "volume": 442401637,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 528,
+    "high": 540,
+    "low": 511.15,
+    "close": 520,
+    "volume": 151222747,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 530,
+    "high": 548.55,
+    "low": 530,
+    "close": 547.5,
+    "volume": 323892112,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 545,
+    "high": 559,
+    "low": 540.6,
+    "close": 557.2,
+    "volume": 283922180,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 563.45,
+    "high": 595,
+    "low": 562.05,
+    "close": 568.85,
+    "volume": 477988525,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 569.4,
+    "high": 615,
+    "low": 562.55,
+    "close": 614.5,
+    "volume": 582806251,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 620,
+    "high": 647,
+    "low": 580.6,
+    "close": 589.95,
+    "volume": 1209265119,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 592.5,
+    "high": 604.75,
+    "low": 565.65,
+    "close": 588,
+    "volume": 395200643,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 591.65,
+    "high": 615.7,
+    "low": 588.15,
+    "close": 608,
+    "volume": 285985402,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 614.9,
+    "high": 620.9,
+    "low": 596.8,
+    "close": 609,
+    "volume": 224356653,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 609.7,
+    "high": 617.95,
+    "low": 605.65,
+    "close": 610,
+    "volume": 246797136,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 608.75,
+    "high": 617,
+    "low": 601.05,
+    "close": 611.05,
+    "volume": 593958275,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 615,
+    "high": 690,
+    "low": 602.55,
+    "close": 679,
+    "volume": 875723336,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 682,
+    "high": 699,
+    "low": 662.4,
+    "close": 668,
+    "volume": 595909871,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 671.9,
+    "high": 689,
+    "low": 657.3,
+    "close": 680,
+    "volume": 330477873,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 680.5,
+    "high": 687,
+    "low": 670,
+    "close": 678,
+    "volume": 159748602,
+    "symbol": "KPRMILL"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 679,
+    "high": 689,
+    "low": 666,
+    "close": 671.6,
+    "volume": 262982224,
+    "symbol": "KPRMILL"
+  }
+]

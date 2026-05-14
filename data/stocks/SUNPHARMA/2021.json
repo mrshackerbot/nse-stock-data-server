@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 592.5,
+    "high": 599.75,
+    "low": 585.85,
+    "close": 597.7,
+    "volume": 4880771793,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 600,
+    "high": 609.45,
+    "low": 595.2,
+    "close": 604.25,
+    "volume": 6835213567,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 608.45,
+    "high": 608.7,
+    "low": 600,
+    "close": 602.95,
+    "volume": 4707613797,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 604.1,
+    "high": 610.95,
+    "low": 596.15,
+    "close": 604,
+    "volume": 3885999085,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 606.05,
+    "high": 608,
+    "low": 598,
+    "close": 601.6,
+    "volume": 2745995426,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 607,
+    "high": 622.8,
+    "low": 604,
+    "close": 620.05,
+    "volume": 7067188082,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 623.7,
+    "high": 628,
+    "low": 614.05,
+    "close": 621.6,
+    "volume": 4674068456,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 621,
+    "high": 623.9,
+    "low": 607.05,
+    "close": 609.95,
+    "volume": 4130515081,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 611,
+    "high": 614.5,
+    "low": 597.25,
+    "close": 602.45,
+    "volume": 3752216257,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 602.3,
+    "high": 611.65,
+    "low": 596.4,
+    "close": 606.95,
+    "volume": 4064849636,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 609,
+    "high": 616.8,
+    "low": 598.1,
+    "close": 604,
+    "volume": 5099354128,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 604.1,
+    "high": 607.35,
+    "low": 578.45,
+    "close": 579.95,
+    "volume": 4356842561,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 586.9,
+    "high": 603,
+    "low": 583.35,
+    "close": 602,
+    "volume": 3250558740,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 601.2,
+    "high": 603.6,
+    "low": 592.95,
+    "close": 594,
+    "volume": 3096139668,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 598,
+    "high": 598.75,
+    "low": 580.65,
+    "close": 585.6,
+    "volume": 2681408607,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 582.9,
+    "high": 586.95,
+    "low": 570.6,
+    "close": 575.5,
+    "volume": 3235315874,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 577.1,
+    "high": 594,
+    "low": 567,
+    "close": 584.45,
+    "volume": 4763638621,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 585.9,
+    "high": 585.9,
+    "low": 563.75,
+    "close": 569.2,
+    "volume": 4885169910,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 554.9,
+    "high": 574.5,
+    "low": 550.4,
+    "close": 563.45,
+    "volume": 5555891511,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 568,
+    "high": 600,
+    "low": 554.1,
+    "close": 588.4,
+    "volume": 13063740256,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 596,
+    "high": 599.4,
+    "low": 579.6,
+    "close": 593,
+    "volume": 7439716431,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 596.95,
+    "high": 616.9,
+    "low": 591.5,
+    "close": 609.85,
+    "volume": 9553281045,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 612.5,
+    "high": 648.4,
+    "low": 610.5,
+    "close": 628.55,
+    "volume": 15096527157,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 632.5,
+    "high": 641,
+    "low": 626.25,
+    "close": 632.95,
+    "volume": 5031419340,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 633.5,
+    "high": 644.25,
+    "low": 623.15,
+    "close": 637,
+    "volume": 6972874190,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 640.9,
+    "high": 644.85,
+    "low": 632.55,
+    "close": 633.95,
+    "volume": 4137302493,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 631.9,
+    "high": 639.25,
+    "low": 621,
+    "close": 623.05,
+    "volume": 3656738980,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 623.05,
+    "high": 631.55,
+    "low": 614.1,
+    "close": 630.85,
+    "volume": 4290525924,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 622,
+    "high": 648.75,
+    "low": 622,
+    "close": 643.6,
+    "volume": 7315697298,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 654.4,
+    "high": 654.4,
+    "low": 622.35,
+    "close": 628.5,
+    "volume": 9800604801,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 632,
+    "high": 637.3,
+    "low": 623.3,
+    "close": 627.45,
+    "volume": 4608807100,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 631,
+    "high": 634.5,
+    "low": 623,
+    "close": 630.15,
+    "volume": 3860889391,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 628.7,
+    "high": 632.4,
+    "low": 619.8,
+    "close": 621.45,
+    "volume": 2938690933,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 622,
+    "high": 627.25,
+    "low": 614.1,
+    "close": 616,
+    "volume": 3489459823,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 615.9,
+    "high": 622.3,
+    "low": 601.2,
+    "close": 608,
+    "volume": 4479763718,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 608,
+    "high": 610.85,
+    "low": 590.4,
+    "close": 591.5,
+    "volume": 3213067747,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 595,
+    "high": 608.35,
+    "low": 592,
+    "close": 603.95,
+    "volume": 4562727889,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 607.1,
+    "high": 609.35,
+    "low": 595.85,
+    "close": 600.4,
+    "volume": 1987223170,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 606.4,
+    "high": 618.9,
+    "low": 602.7,
+    "close": 611.15,
+    "volume": 3842675523,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 604.95,
+    "high": 621.35,
+    "low": 590,
+    "close": 595.45,
+    "volume": 9375387497,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 600,
+    "high": 610.8,
+    "low": 597.05,
+    "close": 606,
+    "volume": 3180312580,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 609,
+    "high": 616.35,
+    "low": 604.5,
+    "close": 614.3,
+    "volume": 2916418360,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 616.5,
+    "high": 625.4,
+    "low": 612.25,
+    "close": 624.5,
+    "volume": 4108703932,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 622,
+    "high": 636.75,
+    "low": 616,
+    "close": 618.45,
+    "volume": 7222511383,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 619.45,
+    "high": 619.45,
+    "low": 606.9,
+    "close": 611,
+    "volume": 3756438616,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 611.5,
+    "high": 621.9,
+    "low": 611.3,
+    "close": 614.35,
+    "volume": 2808484810,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 618,
+    "high": 620.9,
+    "low": 607.5,
+    "close": 612,
+    "volume": 2476863214,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 618,
+    "high": 627.9,
+    "low": 615.35,
+    "close": 624.35,
+    "volume": 3624108916,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 628,
+    "high": 629.15,
+    "low": 611.5,
+    "close": 612.3,
+    "volume": 2642944356,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 614,
+    "high": 614,
+    "low": 596.5,
+    "close": 605.5,
+    "volume": 2432985364,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 606,
+    "high": 609.95,
+    "low": 599.25,
+    "close": 601.8,
+    "volume": 2527751779,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 604,
+    "high": 604,
+    "low": 582,
+    "close": 582.25,
+    "volume": 4523302175,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 587.4,
+    "high": 591.55,
+    "low": 572,
+    "close": 575.7,
+    "volume": 3212169926,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 571,
+    "high": 582.65,
+    "low": 562.1,
+    "close": 580.5,
+    "volume": 3565864902,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 578.6,
+    "high": 593.6,
+    "low": 578.6,
+    "close": 591.25,
+    "volume": 4143983606,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 591.2,
+    "high": 594.7,
+    "low": 583,
+    "close": 585.7,
+    "volume": 3136825897,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 585,
+    "high": 597,
+    "low": 583.2,
+    "close": 584.9,
+    "volume": 4317405549,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 584.4,
+    "high": 587.95,
+    "low": 571.5,
+    "close": 574,
+    "volume": 2723744601,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 580.85,
+    "high": 590.3,
+    "low": 574.6,
+    "close": 586.85,
+    "volume": 3365314774,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 594.95,
+    "high": 599,
+    "low": 587.25,
+    "close": 598.15,
+    "volume": 2751580387,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 598.2,
+    "high": 606,
+    "low": 595.7,
+    "close": 597.65,
+    "volume": 3167018642,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 600,
+    "high": 612.7,
+    "low": 597.35,
+    "close": 610,
+    "volume": 3651919425,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 611.7,
+    "high": 611.95,
+    "low": 592.75,
+    "close": 608.6,
+    "volume": 3238275202,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 608.75,
+    "high": 621.9,
+    "low": 603.5,
+    "close": 619.45,
+    "volume": 4588113391,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 621,
+    "high": 628.4,
+    "low": 616.15,
+    "close": 620.55,
+    "volume": 2959879877,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 620.55,
+    "high": 626,
+    "low": 613.3,
+    "close": 614,
+    "volume": 1998577194,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 613,
+    "high": 642,
+    "low": 609.5,
+    "close": 636,
+    "volume": 10622760754,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 639,
+    "high": 645.85,
+    "low": 615.2,
+    "close": 622.45,
+    "volume": 9633823631,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 624,
+    "high": 635.55,
+    "low": 616.1,
+    "close": 628.45,
+    "volume": 4625932833,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 633.6,
+    "high": 641.5,
+    "low": 626.5,
+    "close": 632.3,
+    "volume": 5455191766,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 633.25,
+    "high": 650,
+    "low": 626.35,
+    "close": 645,
+    "volume": 6279877849,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 644,
+    "high": 651.4,
+    "low": 635,
+    "close": 640.65,
+    "volume": 7280081907,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 643.8,
+    "high": 659.5,
+    "low": 639.15,
+    "close": 643,
+    "volume": 8968739787,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 650.7,
+    "high": 658,
+    "low": 638.1,
+    "close": 638.1,
+    "volume": 7336076400,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 636.5,
+    "high": 645.8,
+    "low": 630.15,
+    "close": 637.15,
+    "volume": 4896988153,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 644,
+    "high": 644,
+    "low": 631,
+    "close": 633.45,
+    "volume": 4142696527,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 632.7,
+    "high": 642.45,
+    "low": 632,
+    "close": 638,
+    "volume": 3255176750,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 640.95,
+    "high": 647.3,
+    "low": 638.3,
+    "close": 643.3,
+    "volume": 3901096646,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 648.95,
+    "high": 652,
+    "low": 641.1,
+    "close": 646.8,
+    "volume": 3668690166,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 642,
+    "high": 666.6,
+    "low": 640.1,
+    "close": 653.75,
+    "volume": 7132851776,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 653.95,
+    "high": 663.95,
+    "low": 650.1,
+    "close": 659.1,
+    "volume": 4316304804,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 662,
+    "high": 664.9,
+    "low": 642,
+    "close": 646,
+    "volume": 3658702776,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 642.25,
+    "high": 687.9,
+    "low": 642.25,
+    "close": 683,
+    "volume": 17034337983,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 689.85,
+    "high": 696.7,
+    "low": 673.35,
+    "close": 677.7,
+    "volume": 7619488649,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 681,
+    "high": 691,
+    "low": 677.6,
+    "close": 679,
+    "volume": 4420479869,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 688,
+    "high": 703.5,
+    "low": 683.6,
+    "close": 698,
+    "volume": 7614504825,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 698.5,
+    "high": 721.85,
+    "low": 696.2,
+    "close": 708,
+    "volume": 10493968940,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 714.95,
+    "high": 714.95,
+    "low": 700,
+    "close": 703,
+    "volume": 5121699237,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 703,
+    "high": 711,
+    "low": 687,
+    "close": 691.85,
+    "volume": 4772959764,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 688,
+    "high": 698.5,
+    "low": 680.05,
+    "close": 688.55,
+    "volume": 4337645119,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 691,
+    "high": 695.85,
+    "low": 684.75,
+    "close": 689.2,
+    "volume": 2818563922,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 694.3,
+    "high": 706.75,
+    "low": 690.8,
+    "close": 703.95,
+    "volume": 5419788159,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 700,
+    "high": 701.65,
+    "low": 685,
+    "close": 688.3,
+    "volume": 4304515621,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 691.75,
+    "high": 694.5,
+    "low": 688,
+    "close": 690.15,
+    "volume": 2371297635,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 691,
+    "high": 698.4,
+    "low": 689.6,
+    "close": 692.15,
+    "volume": 2579551832,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 695,
+    "high": 697.4,
+    "low": 691,
+    "close": 696,
+    "volume": 1945086902,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 699.5,
+    "high": 706.15,
+    "low": 696.2,
+    "close": 704.25,
+    "volume": 4383090903,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 707.25,
+    "high": 709.75,
+    "low": 694.5,
+    "close": 700.5,
+    "volume": 6921639323,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 694,
+    "high": 694.5,
+    "low": 666.3,
+    "close": 672.65,
+    "volume": 19111664141,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 672,
+    "high": 675.7,
+    "low": 659,
+    "close": 668,
+    "volume": 9307527628,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 670.1,
+    "high": 673.3,
+    "low": 664.3,
+    "close": 671,
+    "volume": 4305681858,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 671,
+    "high": 678.1,
+    "low": 670.15,
+    "close": 677.9,
+    "volume": 3364803373,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 678,
+    "high": 680.85,
+    "low": 673.5,
+    "close": 675.8,
+    "volume": 2439836252,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 678.9,
+    "high": 679.25,
+    "low": 672.8,
+    "close": 673.6,
+    "volume": 2532286611,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 673.95,
+    "high": 677.8,
+    "low": 670.9,
+    "close": 674.5,
+    "volume": 1883631957,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 673,
+    "high": 679.95,
+    "low": 665.1,
+    "close": 679.7,
+    "volume": 3828185902,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 681.05,
+    "high": 684.7,
+    "low": 667.6,
+    "close": 673.05,
+    "volume": 3048793811,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 673.05,
+    "high": 681,
+    "low": 673,
+    "close": 676.45,
+    "volume": 2101484574,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 675.2,
+    "high": 686.35,
+    "low": 674.05,
+    "close": 681.2,
+    "volume": 2601707667,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 682,
+    "high": 683.7,
+    "low": 671.55,
+    "close": 677.1,
+    "volume": 2464522859,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 677.1,
+    "high": 681.4,
+    "low": 671.75,
+    "close": 673.7,
+    "volume": 2607091460,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 675,
+    "high": 680.5,
+    "low": 666.85,
+    "close": 667.85,
+    "volume": 3254132746,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 671.8,
+    "high": 673.55,
+    "low": 661.65,
+    "close": 664.5,
+    "volume": 1855182838,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 667,
+    "high": 673,
+    "low": 652.7,
+    "close": 669.95,
+    "volume": 2769670674,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 662,
+    "high": 674.8,
+    "low": 662,
+    "close": 671.9,
+    "volume": 1964703789,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 678,
+    "high": 680.25,
+    "low": 665.85,
+    "close": 666.55,
+    "volume": 3068860137,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 666.8,
+    "high": 672.35,
+    "low": 664.25,
+    "close": 666,
+    "volume": 1758057190,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 664.2,
+    "high": 671,
+    "low": 661.5,
+    "close": 664.8,
+    "volume": 2305674367,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 664.8,
+    "high": 677.4,
+    "low": 664.8,
+    "close": 672.15,
+    "volume": 2026939206,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 675,
+    "high": 679.9,
+    "low": 669.55,
+    "close": 677.5,
+    "volume": 2262592290,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 673.25,
+    "high": 681.5,
+    "low": 673.1,
+    "close": 677,
+    "volume": 1989897511,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 678.05,
+    "high": 683.45,
+    "low": 674.25,
+    "close": 674.25,
+    "volume": 2562939821,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 675,
+    "high": 685.8,
+    "low": 673.7,
+    "close": 684,
+    "volume": 2798903981,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 685.5,
+    "high": 689.5,
+    "low": 678.3,
+    "close": 681.4,
+    "volume": 3469263556,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 684,
+    "high": 684.95,
+    "low": 678.6,
+    "close": 681,
+    "volume": 1090778737,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 678,
+    "high": 683,
+    "low": 672.4,
+    "close": 672.5,
+    "volume": 1814953882,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 668,
+    "high": 682,
+    "low": 666.1,
+    "close": 679.45,
+    "volume": 1745433332,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 677,
+    "high": 680.9,
+    "low": 665.1,
+    "close": 667.2,
+    "volume": 1709160405,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 666.5,
+    "high": 672.3,
+    "low": 664.2,
+    "close": 668.1,
+    "volume": 1332069607,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 668.6,
+    "high": 672.85,
+    "low": 666.4,
+    "close": 668.15,
+    "volume": 1041500465,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 670.3,
+    "high": 689.35,
+    "low": 669,
+    "close": 682.3,
+    "volume": 5296272557,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 681.95,
+    "high": 692.4,
+    "low": 681,
+    "close": 685.1,
+    "volume": 1830617265,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 686,
+    "high": 688.2,
+    "low": 681.3,
+    "close": 681.3,
+    "volume": 1303149742,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 684.9,
+    "high": 695.65,
+    "low": 682.65,
+    "close": 688.45,
+    "volume": 2402808606,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 678.05,
+    "high": 691.5,
+    "low": 678.05,
+    "close": 688.8,
+    "volume": 1334907233,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 689,
+    "high": 691.6,
+    "low": 673.9,
+    "close": 676.05,
+    "volume": 1861541468,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 680,
+    "high": 688.2,
+    "low": 675.55,
+    "close": 686.55,
+    "volume": 1398706689,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 686.2,
+    "high": 698.95,
+    "low": 681.6,
+    "close": 695,
+    "volume": 2740208338,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 695.2,
+    "high": 705,
+    "low": 695.2,
+    "close": 701.75,
+    "volume": 3307510213,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 705,
+    "high": 705.7,
+    "low": 673.85,
+    "close": 686.9,
+    "volume": 3675428965,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 688.3,
+    "high": 691.95,
+    "low": 672.55,
+    "close": 688.5,
+    "volume": 2279515629,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 687.8,
+    "high": 705.95,
+    "low": 680.7,
+    "close": 701.5,
+    "volume": 3068204805,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 702.95,
+    "high": 783.75,
+    "low": 696.15,
+    "close": 773.55,
+    "volume": 26987910978,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 785,
+    "high": 801.9,
+    "low": 764.1,
+    "close": 772,
+    "volume": 14524692976,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 773.95,
+    "high": 804.35,
+    "low": 765.25,
+    "close": 792,
+    "volume": 11652240380,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 791,
+    "high": 797.9,
+    "low": 779.7,
+    "close": 785.3,
+    "volume": 4560092694,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 785.5,
+    "high": 794.4,
+    "low": 783.3,
+    "close": 784.5,
+    "volume": 3966897575,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 786.5,
+    "high": 796.45,
+    "low": 781.55,
+    "close": 785.2,
+    "volume": 3206297635,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 789.15,
+    "high": 793,
+    "low": 782,
+    "close": 786,
+    "volume": 2263122024,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 789.95,
+    "high": 798.8,
+    "low": 782.2,
+    "close": 790.9,
+    "volume": 4471053528,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 794,
+    "high": 795,
+    "low": 773.3,
+    "close": 779.25,
+    "volume": 3338442666,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 780,
+    "high": 781.25,
+    "low": 773.15,
+    "close": 776.65,
+    "volume": 2193301142,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 769,
+    "high": 788.5,
+    "low": 767.65,
+    "close": 776.9,
+    "volume": 3362161572,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 775.2,
+    "high": 783,
+    "low": 771.05,
+    "close": 780.5,
+    "volume": 1795348431,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 783,
+    "high": 793.2,
+    "low": 778.2,
+    "close": 783,
+    "volume": 4466584678,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 788,
+    "high": 791.4,
+    "low": 779.3,
+    "close": 783.05,
+    "volume": 3167202147,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 775,
+    "high": 784.45,
+    "low": 743.35,
+    "close": 761.15,
+    "volume": 4761907435,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 765,
+    "high": 770,
+    "low": 750.8,
+    "close": 758.5,
+    "volume": 1808813985,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 759.8,
+    "high": 777.95,
+    "low": 754.25,
+    "close": 771.4,
+    "volume": 2092641992,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 770,
+    "high": 776,
+    "low": 759.6,
+    "close": 768.5,
+    "volume": 1734406683,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 765.15,
+    "high": 771.1,
+    "low": 759.25,
+    "close": 760.65,
+    "volume": 1328806310,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 760.75,
+    "high": 777,
+    "low": 758.1,
+    "close": 771.5,
+    "volume": 1872729859,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 769,
+    "high": 794.95,
+    "low": 768.15,
+    "close": 787.45,
+    "volume": 2840699185,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 787.45,
+    "high": 801,
+    "low": 783.7,
+    "close": 794.85,
+    "volume": 5900519211,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 795.05,
+    "high": 803.9,
+    "low": 787,
+    "close": 788.3,
+    "volume": 2230885338,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 790.3,
+    "high": 795.65,
+    "low": 788.3,
+    "close": 789.3,
+    "volume": 2119526334,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 793,
+    "high": 797.2,
+    "low": 784,
+    "close": 788.55,
+    "volume": 2266637969,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 789.4,
+    "high": 793.1,
+    "low": 779.75,
+    "close": 783.3,
+    "volume": 3620739910,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 782,
+    "high": 783,
+    "low": 766.6,
+    "close": 767.3,
+    "volume": 2979523742,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 767.3,
+    "high": 778.95,
+    "low": 763.55,
+    "close": 777,
+    "volume": 1972323875,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 772.2,
+    "high": 782.25,
+    "low": 771.45,
+    "close": 775.4,
+    "volume": 1558649350,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 776.3,
+    "high": 783,
+    "low": 771.65,
+    "close": 779.95,
+    "volume": 1505888553,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 784.7,
+    "high": 788,
+    "low": 777.3,
+    "close": 782.5,
+    "volume": 1563246711,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 784.7,
+    "high": 785.75,
+    "low": 778.8,
+    "close": 780.55,
+    "volume": 1089755321,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 780,
+    "high": 784.55,
+    "low": 778.3,
+    "close": 780.9,
+    "volume": 1057768338,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 785,
+    "high": 787.9,
+    "low": 766.65,
+    "close": 769.85,
+    "volume": 3132139860,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 766.7,
+    "high": 774.75,
+    "low": 751.6,
+    "close": 753.95,
+    "volume": 1688597833,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 756.5,
+    "high": 766.35,
+    "low": 751.05,
+    "close": 762.2,
+    "volume": 1615797634,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 765,
+    "high": 774,
+    "low": 764.5,
+    "close": 770.5,
+    "volume": 1398341378,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 771.1,
+    "high": 777.2,
+    "low": 766.1,
+    "close": 769,
+    "volume": 1626288458,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 769,
+    "high": 776.65,
+    "low": 762,
+    "close": 769.05,
+    "volume": 1367419604,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 771.45,
+    "high": 774.5,
+    "low": 760.1,
+    "close": 763,
+    "volume": 2188914252,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 766.7,
+    "high": 791,
+    "low": 754.95,
+    "close": 790.5,
+    "volume": 3780298749,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 784,
+    "high": 819.75,
+    "low": 771.35,
+    "close": 810.15,
+    "volume": 14865368143,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 814.8,
+    "high": 832.95,
+    "low": 806.6,
+    "close": 817.8,
+    "volume": 8613708559,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 812,
+    "high": 830.7,
+    "low": 805.3,
+    "close": 825,
+    "volume": 4702594505,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 830,
+    "high": 838.9,
+    "low": 826.45,
+    "close": 831.55,
+    "volume": 3337402097,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 828,
+    "high": 834.4,
+    "low": 814.95,
+    "close": 820.15,
+    "volume": 2455822533,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 820.45,
+    "high": 824,
+    "low": 797.3,
+    "close": 803.75,
+    "volume": 2353471054,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 808.05,
+    "high": 826.35,
+    "low": 804.1,
+    "close": 822.8,
+    "volume": 3332463791,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 825.1,
+    "high": 833.8,
+    "low": 818.6,
+    "close": 819.9,
+    "volume": 2271439182,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 826,
+    "high": 836.2,
+    "low": 817.8,
+    "close": 833.5,
+    "volume": 2476576547,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 833.5,
+    "high": 842.75,
+    "low": 823.7,
+    "close": 827.95,
+    "volume": 1999837246,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 827.95,
+    "high": 846.8,
+    "low": 827.25,
+    "close": 840.6,
+    "volume": 3458260732,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 843.9,
+    "high": 850,
+    "low": 838.25,
+    "close": 840.1,
+    "volume": 1942831188,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 850,
+    "high": 851,
+    "low": 832.15,
+    "close": 836.95,
+    "volume": 2211371663,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 837,
+    "high": 842.2,
+    "low": 825.65,
+    "close": 826,
+    "volume": 1688443864,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 825.05,
+    "high": 834.8,
+    "low": 807.5,
+    "close": 815,
+    "volume": 1714628397,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 823.05,
+    "high": 829,
+    "low": 810.05,
+    "close": 820.5,
+    "volume": 2580916592,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 825.1,
+    "high": 826.85,
+    "low": 800.15,
+    "close": 812.85,
+    "volume": 1390254924,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 810,
+    "high": 821.25,
+    "low": 795.55,
+    "close": 811.95,
+    "volume": 1724297377,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 817,
+    "high": 823.9,
+    "low": 806.3,
+    "close": 814.95,
+    "volume": 1326770099,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 815.8,
+    "high": 838.45,
+    "low": 815.8,
+    "close": 823,
+    "volume": 2963267611,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 823.95,
+    "high": 829.15,
+    "low": 803.05,
+    "close": 809.8,
+    "volume": 1340604032,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 800,
+    "high": 816.55,
+    "low": 779.35,
+    "close": 796,
+    "volume": 3455356728,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 798.95,
+    "high": 813.85,
+    "low": 787,
+    "close": 813.1,
+    "volume": 1552944919,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 814.65,
+    "high": 836,
+    "low": 782.75,
+    "close": 813.95,
+    "volume": 14270319356,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 820,
+    "high": 822,
+    "low": 781.35,
+    "close": 789,
+    "volume": 7505998303,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 797,
+    "high": 797,
+    "low": 788.5,
+    "close": 797,
+    "volume": 385901164,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 798,
+    "high": 803,
+    "low": 783,
+    "close": 799.05,
+    "volume": 3397428127,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 800,
+    "high": 812,
+    "low": 797,
+    "close": 801,
+    "volume": 2603042609,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 799.75,
+    "high": 815,
+    "low": 797,
+    "close": 807.5,
+    "volume": 2347130173,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 808.95,
+    "high": 810.45,
+    "low": 792.1,
+    "close": 796,
+    "volume": 1685331561,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 803.95,
+    "high": 808.55,
+    "low": 796.1,
+    "close": 808.2,
+    "volume": 1666208355,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 808.3,
+    "high": 819.65,
+    "low": 806.65,
+    "close": 809.65,
+    "volume": 1713665617,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 812.3,
+    "high": 817.45,
+    "low": 795.65,
+    "close": 798,
+    "volume": 1217001251,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 800,
+    "high": 805,
+    "low": 787.4,
+    "close": 789.3,
+    "volume": 1322264159,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 790,
+    "high": 794.35,
+    "low": 780.1,
+    "close": 788.5,
+    "volume": 2498886020,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 791.85,
+    "high": 794,
+    "low": 765.05,
+    "close": 771,
+    "volume": 2252643963,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 770,
+    "high": 791.75,
+    "low": 761.55,
+    "close": 786.2,
+    "volume": 2135738837,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 783.5,
+    "high": 796.95,
+    "low": 775.55,
+    "close": 775.8,
+    "volume": 1886009524,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 775.6,
+    "high": 787.25,
+    "low": 774.35,
+    "close": 781.25,
+    "volume": 1453163277,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 775,
+    "high": 798.9,
+    "low": 762,
+    "close": 767.25,
+    "volume": 4240513141,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 773,
+    "high": 775,
+    "low": 749.05,
+    "close": 749.4,
+    "volume": 3537960930,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 751,
+    "high": 761.65,
+    "low": 746.05,
+    "close": 751.6,
+    "volume": 4150987143,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 756.75,
+    "high": 763.25,
+    "low": 740.35,
+    "close": 747.5,
+    "volume": 2759422035,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 753,
+    "high": 770.75,
+    "low": 746.1,
+    "close": 770.2,
+    "volume": 3737110889,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 771.9,
+    "high": 771.9,
+    "low": 748.9,
+    "close": 753,
+    "volume": 2366197609,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 751.2,
+    "high": 752.55,
+    "low": 733.7,
+    "close": 741,
+    "volume": 1918550319,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 741.1,
+    "high": 751,
+    "low": 735,
+    "close": 750,
+    "volume": 1918162418,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 750.2,
+    "high": 763.5,
+    "low": 747.35,
+    "close": 761.6,
+    "volume": 1911690279,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 758.2,
+    "high": 766.8,
+    "low": 756.15,
+    "close": 759.35,
+    "volume": 1981106184,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 754.2,
+    "high": 775,
+    "low": 754.2,
+    "close": 760.5,
+    "volume": 2263409391,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 763.85,
+    "high": 773.35,
+    "low": 759,
+    "close": 763,
+    "volume": 1907245255,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 757.25,
+    "high": 768.75,
+    "low": 753.6,
+    "close": 755.65,
+    "volume": 2449935127,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 752.5,
+    "high": 778.85,
+    "low": 745.3,
+    "close": 777,
+    "volume": 4751183538,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 786.5,
+    "high": 786.5,
+    "low": 760,
+    "close": 764,
+    "volume": 4739336570,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 762,
+    "high": 772.35,
+    "low": 753.5,
+    "close": 770,
+    "volume": 5485372596,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 768,
+    "high": 774.7,
+    "low": 753.05,
+    "close": 760.85,
+    "volume": 5709185383,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 764.05,
+    "high": 783.95,
+    "low": 764.05,
+    "close": 780.1,
+    "volume": 4359490026,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 785,
+    "high": 801,
+    "low": 777.5,
+    "close": 796.75,
+    "volume": 4650939108,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 801.85,
+    "high": 803.95,
+    "low": 790,
+    "close": 791.25,
+    "volume": 3408975624,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 793.4,
+    "high": 794.8,
+    "low": 777.6,
+    "close": 785.6,
+    "volume": 2413423571,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 784,
+    "high": 796.6,
+    "low": 781.15,
+    "close": 794.05,
+    "volume": 2852934728,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 796,
+    "high": 819.9,
+    "low": 794.2,
+    "close": 818.6,
+    "volume": 4414824022,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 822.5,
+    "high": 843.65,
+    "low": 816.5,
+    "close": 834.1,
+    "volume": 7272461222,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 836.65,
+    "high": 841.95,
+    "low": 827.35,
+    "close": 833.85,
+    "volume": 4331429048,
+    "symbol": "SUNPHARMA"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 834.45,
+    "high": 850.95,
+    "low": 834,
+    "close": 845,
+    "volume": 2823829621,
+    "symbol": "SUNPHARMA"
+  }
+]

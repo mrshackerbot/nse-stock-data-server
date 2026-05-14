@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 135.4,
+    "high": 136.25,
+    "low": 135.05,
+    "close": 135.5,
+    "volume": 947938204,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 136.85,
+    "high": 137.75,
+    "low": 135.8,
+    "close": 137.35,
+    "volume": 1596991008,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 136.75,
+    "high": 136.75,
+    "low": 134.4,
+    "close": 135.15,
+    "volume": 1671642228,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 135.4,
+    "high": 137.3,
+    "low": 133.8,
+    "close": 135,
+    "volume": 1916062213,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 136.5,
+    "high": 137.5,
+    "low": 135.5,
+    "close": 136.5,
+    "volume": 2357582244,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 137.1,
+    "high": 140.95,
+    "low": 137.1,
+    "close": 139.7,
+    "volume": 3907729749,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 140.5,
+    "high": 143,
+    "low": 140.3,
+    "close": 141.8,
+    "volume": 3515317102,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 142.5,
+    "high": 147.55,
+    "low": 141.7,
+    "close": 146.8,
+    "volume": 4134443936,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 148.5,
+    "high": 148.8,
+    "low": 143.5,
+    "close": 145.55,
+    "volume": 3104463249,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 146.6,
+    "high": 148.2,
+    "low": 144.85,
+    "close": 147.1,
+    "volume": 2166711851,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 146.8,
+    "high": 147.6,
+    "low": 142.35,
+    "close": 143.55,
+    "volume": 1541969378,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 143.3,
+    "high": 143.9,
+    "low": 136.6,
+    "close": 138.05,
+    "volume": 2374768894,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 140.85,
+    "high": 141.9,
+    "low": 139.6,
+    "close": 140.5,
+    "volume": 1259041398,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 140.5,
+    "high": 141.95,
+    "low": 138.65,
+    "close": 141.15,
+    "volume": 1655789476,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 142,
+    "high": 142.15,
+    "low": 136.55,
+    "close": 137.8,
+    "volume": 1509200605,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 137.35,
+    "high": 137.8,
+    "low": 132.5,
+    "close": 133.55,
+    "volume": 1992852347,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 134.9,
+    "high": 135.5,
+    "low": 130.85,
+    "close": 131.5,
+    "volume": 1347832035,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 132,
+    "high": 132.55,
+    "low": 128.7,
+    "close": 129.25,
+    "volume": 1517219352,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 128,
+    "high": 129.95,
+    "low": 127.8,
+    "close": 128.45,
+    "volume": 1541421305,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 129.25,
+    "high": 129.65,
+    "low": 125.25,
+    "close": 126,
+    "volume": 1951660897,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 126.4,
+    "high": 129.75,
+    "low": 125.85,
+    "close": 129.3,
+    "volume": 1637213543,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 131,
+    "high": 132.85,
+    "low": 129.65,
+    "close": 131.9,
+    "volume": 2033251741,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 131.25,
+    "high": 138,
+    "low": 131.25,
+    "close": 137,
+    "volume": 3448902518,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 137.9,
+    "high": 144.25,
+    "low": 136.8,
+    "close": 143.3,
+    "volume": 4364943906,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 144.1,
+    "high": 144.3,
+    "low": 139.35,
+    "close": 140.8,
+    "volume": 2818477137,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 141.05,
+    "high": 142.4,
+    "low": 140.3,
+    "close": 141.3,
+    "volume": 1671021581,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 141.5,
+    "high": 143.45,
+    "low": 138.7,
+    "close": 139.4,
+    "volume": 1213380414,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 139.9,
+    "high": 140.55,
+    "low": 136.8,
+    "close": 138.7,
+    "volume": 1201795501,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 138.3,
+    "high": 139.5,
+    "low": 136,
+    "close": 136.85,
+    "volume": 1951631040,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 136.5,
+    "high": 137,
+    "low": 132.75,
+    "close": 133.95,
+    "volume": 2207222103,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 134.5,
+    "high": 134.85,
+    "low": 132,
+    "close": 132.25,
+    "volume": 1402078090,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 132.3,
+    "high": 135.4,
+    "low": 132.3,
+    "close": 134,
+    "volume": 1573391608,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 133.3,
+    "high": 135.75,
+    "low": 132.9,
+    "close": 135.4,
+    "volume": 1205502040,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 135,
+    "high": 141.2,
+    "low": 134.05,
+    "close": 140,
+    "volume": 3056355931,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 139.95,
+    "high": 143.2,
+    "low": 137.25,
+    "close": 139,
+    "volume": 3218052089,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 138.85,
+    "high": 139.4,
+    "low": 135.1,
+    "close": 136.05,
+    "volume": 2785829971,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 137.6,
+    "high": 138.6,
+    "low": 136.2,
+    "close": 136.9,
+    "volume": 2633721989,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 139.95,
+    "high": 145,
+    "low": 139.5,
+    "close": 144.1,
+    "volume": 5542241831,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 146.9,
+    "high": 157.7,
+    "low": 145.75,
+    "close": 156.9,
+    "volume": 13064129136,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 156.15,
+    "high": 163,
+    "low": 150.5,
+    "close": 151.8,
+    "volume": 14601588401,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 155.5,
+    "high": 157.1,
+    "low": 153.7,
+    "close": 154.65,
+    "volume": 3456412057,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 154.35,
+    "high": 156.15,
+    "low": 152.5,
+    "close": 153.65,
+    "volume": 2707299695,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 155,
+    "high": 157.3,
+    "low": 153.8,
+    "close": 154.9,
+    "volume": 2735220148,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 154,
+    "high": 154.9,
+    "low": 151.7,
+    "close": 152.2,
+    "volume": 2619941469,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 152,
+    "high": 152.7,
+    "low": 149.7,
+    "close": 151.7,
+    "volume": 2619800695,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 153.9,
+    "high": 156,
+    "low": 152.35,
+    "close": 153.4,
+    "volume": 2885134243,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 154.95,
+    "high": 154.95,
+    "low": 148.5,
+    "close": 151.9,
+    "volume": 2216370505,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 153.05,
+    "high": 153.25,
+    "low": 149.4,
+    "close": 151.35,
+    "volume": 1624243877,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 152,
+    "high": 153,
+    "low": 149,
+    "close": 150.85,
+    "volume": 2243401242,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 146.45,
+    "high": 147.6,
+    "low": 144.75,
+    "close": 146.8,
+    "volume": 2305488739,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 147,
+    "high": 148.05,
+    "low": 144.6,
+    "close": 145.85,
+    "volume": 1728524008,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 145.05,
+    "high": 145.45,
+    "low": 139.5,
+    "close": 139.75,
+    "volume": 2208468663,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 141.5,
+    "high": 141.75,
+    "low": 136.2,
+    "close": 137.5,
+    "volume": 1991504802,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 136,
+    "high": 140,
+    "low": 133.5,
+    "close": 136.4,
+    "volume": 4560662941,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 137.6,
+    "high": 137.6,
+    "low": 135.3,
+    "close": 135.6,
+    "volume": 1552505477,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 135.6,
+    "high": 136.65,
+    "low": 134.1,
+    "close": 135.1,
+    "volume": 1205534913,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 133.9,
+    "high": 135.15,
+    "low": 132.05,
+    "close": 132.6,
+    "volume": 1447636001,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 132,
+    "high": 133.1,
+    "low": 127.05,
+    "close": 127.8,
+    "volume": 2408244112,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 129.1,
+    "high": 130.4,
+    "low": 128.7,
+    "close": 129.45,
+    "volume": 1231488215,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 131,
+    "high": 134.45,
+    "low": 130.15,
+    "close": 133,
+    "volume": 2723357099,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 133,
+    "high": 133,
+    "low": 130,
+    "close": 130.1,
+    "volume": 1952451303,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 131.45,
+    "high": 132.4,
+    "low": 130.6,
+    "close": 132.2,
+    "volume": 818972855,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 131.9,
+    "high": 132.1,
+    "low": 128.05,
+    "close": 129.9,
+    "volume": 1167805362,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 130.85,
+    "high": 131.85,
+    "low": 129.3,
+    "close": 130.4,
+    "volume": 874003219,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 130.3,
+    "high": 131.7,
+    "low": 129.75,
+    "close": 131.2,
+    "volume": 742256664,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 131.3,
+    "high": 133.75,
+    "low": 131.2,
+    "close": 131.7,
+    "volume": 1238777796,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 131.65,
+    "high": 131.95,
+    "low": 128.95,
+    "close": 129.6,
+    "volume": 1320922033,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 128,
+    "high": 128.3,
+    "low": 123.6,
+    "close": 125.25,
+    "volume": 1417969855,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 124.8,
+    "high": 128.45,
+    "low": 124.8,
+    "close": 128.3,
+    "volume": 990267305,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 127.95,
+    "high": 130.8,
+    "low": 126.95,
+    "close": 128.4,
+    "volume": 1146566896,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 128.85,
+    "high": 129.95,
+    "low": 127.1,
+    "close": 127.9,
+    "volume": 1329241613,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 125.6,
+    "high": 126,
+    "low": 123.4,
+    "close": 124.5,
+    "volume": 886879257,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 125,
+    "high": 126.25,
+    "low": 124.05,
+    "close": 124.5,
+    "volume": 967012533,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 124.65,
+    "high": 125.5,
+    "low": 124,
+    "close": 125,
+    "volume": 1063139847,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 124.95,
+    "high": 127.25,
+    "low": 124.25,
+    "close": 126.3,
+    "volume": 1134895098,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 127.75,
+    "high": 128,
+    "low": 126.5,
+    "close": 127,
+    "volume": 632410405,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 127,
+    "high": 127.9,
+    "low": 126.6,
+    "close": 127.55,
+    "volume": 507702317,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 128,
+    "high": 129.45,
+    "low": 127.5,
+    "close": 128.5,
+    "volume": 798504898,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 129.75,
+    "high": 130.05,
+    "low": 127.65,
+    "close": 127.95,
+    "volume": 1072040150,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 127.4,
+    "high": 134.6,
+    "low": 127,
+    "close": 133,
+    "volume": 3633106785,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 133,
+    "high": 133.45,
+    "low": 131.2,
+    "close": 132.2,
+    "volume": 1356811541,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 132.55,
+    "high": 135.8,
+    "low": 132.25,
+    "close": 132.7,
+    "volume": 1329915026,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 133,
+    "high": 134.5,
+    "low": 132.5,
+    "close": 133.5,
+    "volume": 649641888,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 134.2,
+    "high": 135.45,
+    "low": 133.75,
+    "close": 134.5,
+    "volume": 1026772000,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 135.4,
+    "high": 138,
+    "low": 135,
+    "close": 136.75,
+    "volume": 1727866035,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 137.1,
+    "high": 148.5,
+    "low": 137.1,
+    "close": 148.1,
+    "volume": 6498507260,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 146.45,
+    "high": 156.75,
+    "low": 145.15,
+    "close": 155.65,
+    "volume": 10237840314,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 155.9,
+    "high": 159.7,
+    "low": 151.8,
+    "close": 153.7,
+    "volume": 6698132592,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 155.95,
+    "high": 155.95,
+    "low": 146.1,
+    "close": 146.7,
+    "volume": 3445096971,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 147,
+    "high": 149.15,
+    "low": 144,
+    "close": 147.4,
+    "volume": 2499551685,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 149.1,
+    "high": 149.8,
+    "low": 146.1,
+    "close": 146.8,
+    "volume": 1521612548,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 146.45,
+    "high": 152.5,
+    "low": 145.1,
+    "close": 151.5,
+    "volume": 3587579173,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 152.4,
+    "high": 152.4,
+    "low": 146.05,
+    "close": 146.65,
+    "volume": 3419313422,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 147,
+    "high": 149.6,
+    "low": 146.85,
+    "close": 147.1,
+    "volume": 1926735602,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 148.1,
+    "high": 149.75,
+    "low": 145.65,
+    "close": 148.95,
+    "volume": 2107567030,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 149.8,
+    "high": 150,
+    "low": 147.1,
+    "close": 147.5,
+    "volume": 1551542972,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 147.8,
+    "high": 148,
+    "low": 145.2,
+    "close": 145.9,
+    "volume": 1457209124,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 145.75,
+    "high": 146.3,
+    "low": 144.1,
+    "close": 145,
+    "volume": 3486211935,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 145.6,
+    "high": 148.8,
+    "low": 144.75,
+    "close": 147.1,
+    "volume": 2424584258,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 147.05,
+    "high": 148.4,
+    "low": 145.05,
+    "close": 147.75,
+    "volume": 1726328109,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 148.55,
+    "high": 149.4,
+    "low": 146.9,
+    "close": 147.55,
+    "volume": 1377672639,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 147.5,
+    "high": 149.9,
+    "low": 147,
+    "close": 149.05,
+    "volume": 1596723915,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 150,
+    "high": 150.4,
+    "low": 148.6,
+    "close": 149,
+    "volume": 1386710355,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 149,
+    "high": 154.4,
+    "low": 148.2,
+    "close": 153.2,
+    "volume": 4482938081,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 156,
+    "high": 158.85,
+    "low": 155.45,
+    "close": 156.7,
+    "volume": 4874918155,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 157.4,
+    "high": 157.5,
+    "low": 152.8,
+    "close": 156,
+    "volume": 1999746929,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 157,
+    "high": 161.4,
+    "low": 155.2,
+    "close": 157.2,
+    "volume": 4815572032,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 157.1,
+    "high": 158.75,
+    "low": 155.75,
+    "close": 156.55,
+    "volume": 1801151098,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 157,
+    "high": 165,
+    "low": 156.65,
+    "close": 162.25,
+    "volume": 10045524488,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 164,
+    "high": 164,
+    "low": 155.55,
+    "close": 159.2,
+    "volume": 4914421832,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 161.1,
+    "high": 161.85,
+    "low": 156.75,
+    "close": 157.1,
+    "volume": 4772101327,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 157.3,
+    "high": 158.8,
+    "low": 154.85,
+    "close": 155.2,
+    "volume": 2210915680,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 155,
+    "high": 155.4,
+    "low": 151.4,
+    "close": 152.3,
+    "volume": 2419208333,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 153,
+    "high": 153.8,
+    "low": 145.1,
+    "close": 147,
+    "volume": 3669095807,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 146,
+    "high": 148,
+    "low": 143.5,
+    "close": 147.9,
+    "volume": 2191340476,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 148.9,
+    "high": 149.5,
+    "low": 147.8,
+    "close": 148.8,
+    "volume": 1860462792,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 149.85,
+    "high": 150.6,
+    "low": 148.15,
+    "close": 148.4,
+    "volume": 1192796586,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 148.45,
+    "high": 149.1,
+    "low": 146,
+    "close": 146.75,
+    "volume": 1903764121,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 146.75,
+    "high": 149.25,
+    "low": 146.75,
+    "close": 148.75,
+    "volume": 1095743041,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 147.1,
+    "high": 149,
+    "low": 147,
+    "close": 147.1,
+    "volume": 1214163807,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 147.1,
+    "high": 147.9,
+    "low": 143.95,
+    "close": 145.6,
+    "volume": 3129955043,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 145.6,
+    "high": 147.4,
+    "low": 145.1,
+    "close": 146.35,
+    "volume": 1892735272,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 146.6,
+    "high": 147.3,
+    "low": 145.5,
+    "close": 145.75,
+    "volume": 827978905,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 147,
+    "high": 148.65,
+    "low": 146.05,
+    "close": 147.5,
+    "volume": 3066518619,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 148,
+    "high": 150.5,
+    "low": 147.6,
+    "close": 150.5,
+    "volume": 1551648964,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 150.05,
+    "high": 150.7,
+    "low": 146.9,
+    "close": 147.65,
+    "volume": 1428360273,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 147.5,
+    "high": 148.75,
+    "low": 146.55,
+    "close": 147.6,
+    "volume": 895492711,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 147,
+    "high": 148.15,
+    "low": 145.3,
+    "close": 146.45,
+    "volume": 1813524902,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 146.25,
+    "high": 147.5,
+    "low": 145.65,
+    "close": 146.55,
+    "volume": 727158909,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 146.8,
+    "high": 147.85,
+    "low": 146.1,
+    "close": 146.45,
+    "volume": 589064211,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 147,
+    "high": 148.5,
+    "low": 146.65,
+    "close": 148.15,
+    "volume": 845150680,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 147.95,
+    "high": 149.4,
+    "low": 147.25,
+    "close": 148,
+    "volume": 1070057719,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 148,
+    "high": 148.4,
+    "low": 145.65,
+    "close": 147,
+    "volume": 1064392303,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 146.75,
+    "high": 148.05,
+    "low": 145.3,
+    "close": 145.8,
+    "volume": 1582624235,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 145,
+    "high": 146.4,
+    "low": 144,
+    "close": 144.6,
+    "volume": 748657198,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 144.5,
+    "high": 145.05,
+    "low": 141.7,
+    "close": 142.75,
+    "volume": 897007298,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 144,
+    "high": 145.4,
+    "low": 143.25,
+    "close": 144.7,
+    "volume": 689832656,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 144.7,
+    "high": 145,
+    "low": 143.35,
+    "close": 144.15,
+    "volume": 492862274,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 144,
+    "high": 145.5,
+    "low": 143.25,
+    "close": 144.2,
+    "volume": 639460171,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 144.5,
+    "high": 145.25,
+    "low": 142.1,
+    "close": 142.45,
+    "volume": 608905679,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 143.45,
+    "high": 144.3,
+    "low": 141.05,
+    "close": 144,
+    "volume": 1263644202,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 144.05,
+    "high": 144.65,
+    "low": 141.9,
+    "close": 142.05,
+    "volume": 1176152616,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 142.3,
+    "high": 144.9,
+    "low": 141.25,
+    "close": 144.05,
+    "volume": 1368848977,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 144.3,
+    "high": 144.9,
+    "low": 143.1,
+    "close": 143.6,
+    "volume": 885582995,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 143.9,
+    "high": 144.75,
+    "low": 143,
+    "close": 144.2,
+    "volume": 812254819,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 144.15,
+    "high": 147.35,
+    "low": 144.15,
+    "close": 144.75,
+    "volume": 1287954092,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 145,
+    "high": 145.9,
+    "low": 142.2,
+    "close": 145.6,
+    "volume": 897547639,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 145.6,
+    "high": 148.45,
+    "low": 145.25,
+    "close": 146.55,
+    "volume": 1584871741,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 147.5,
+    "high": 147.85,
+    "low": 142.35,
+    "close": 143.4,
+    "volume": 1883217022,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 143.7,
+    "high": 144.25,
+    "low": 140.75,
+    "close": 142.2,
+    "volume": 2001051672,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 142.9,
+    "high": 144.35,
+    "low": 141.15,
+    "close": 144.05,
+    "volume": 1195482022,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 144.05,
+    "high": 146.7,
+    "low": 143.7,
+    "close": 144.5,
+    "volume": 1116042062,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 145.05,
+    "high": 146.3,
+    "low": 143.2,
+    "close": 144,
+    "volume": 1364703154,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 143.8,
+    "high": 144.15,
+    "low": 141.75,
+    "close": 141.95,
+    "volume": 749883168,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 142.1,
+    "high": 142.55,
+    "low": 137.2,
+    "close": 139.3,
+    "volume": 1913383498,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 139.25,
+    "high": 140.25,
+    "low": 138,
+    "close": 138.45,
+    "volume": 1064372424,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 137.5,
+    "high": 138.05,
+    "low": 135,
+    "close": 135.3,
+    "volume": 1210071324,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 136.3,
+    "high": 136.4,
+    "low": 132.75,
+    "close": 133.95,
+    "volume": 1045127894,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 134.35,
+    "high": 136.9,
+    "low": 134,
+    "close": 136.3,
+    "volume": 1013568856,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 136.5,
+    "high": 139.15,
+    "low": 136.5,
+    "close": 138.8,
+    "volume": 1081439157,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 138.85,
+    "high": 139.4,
+    "low": 136.35,
+    "close": 137.9,
+    "volume": 943249894,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 137.9,
+    "high": 139.3,
+    "low": 137.05,
+    "close": 139.1,
+    "volume": 611649769,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 138.6,
+    "high": 143.95,
+    "low": 138.6,
+    "close": 143.3,
+    "volume": 1612502001,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 143.6,
+    "high": 146.15,
+    "low": 143.25,
+    "close": 145.75,
+    "volume": 2075001709,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 146.6,
+    "high": 146.65,
+    "low": 143.9,
+    "close": 144.55,
+    "volume": 1221336523,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 143.8,
+    "high": 143.8,
+    "low": 141.2,
+    "close": 141.8,
+    "volume": 1105024642,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 141.9,
+    "high": 147.15,
+    "low": 141.75,
+    "close": 146.6,
+    "volume": 1842680057,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 147.8,
+    "high": 147.85,
+    "low": 144.3,
+    "close": 146.1,
+    "volume": 1418444763,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 147,
+    "high": 148.1,
+    "low": 145.55,
+    "close": 147.05,
+    "volume": 1391927143,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 147.35,
+    "high": 149.85,
+    "low": 146.3,
+    "close": 149.5,
+    "volume": 1165113798,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 149.15,
+    "high": 150.95,
+    "low": 148,
+    "close": 148.35,
+    "volume": 1420146924,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 149.6,
+    "high": 155.9,
+    "low": 149.3,
+    "close": 154.45,
+    "volume": 5474762945,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 155.35,
+    "high": 155.5,
+    "low": 153.35,
+    "close": 154.6,
+    "volume": 1358480248,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 155.5,
+    "high": 162.25,
+    "low": 154.25,
+    "close": 160.85,
+    "volume": 3915446992,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 162.15,
+    "high": 163,
+    "low": 157.55,
+    "close": 162.2,
+    "volume": 2958959882,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 162.7,
+    "high": 163.3,
+    "low": 155.4,
+    "close": 156.7,
+    "volume": 2743921443,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 155.9,
+    "high": 157.55,
+    "low": 152.8,
+    "close": 153.35,
+    "volume": 1945900076,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 155.7,
+    "high": 158,
+    "low": 153.45,
+    "close": 156.45,
+    "volume": 2129999060,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 157.25,
+    "high": 162.5,
+    "low": 155,
+    "close": 162.05,
+    "volume": 3016602887,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 163.75,
+    "high": 170,
+    "low": 163.1,
+    "close": 167.5,
+    "volume": 5258439242,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 168.1,
+    "high": 169.45,
+    "low": 162.9,
+    "close": 166.3,
+    "volume": 2869495639,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 167,
+    "high": 169.15,
+    "low": 165.35,
+    "close": 167,
+    "volume": 1521859923,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 168.5,
+    "high": 176.3,
+    "low": 168.15,
+    "close": 174.1,
+    "volume": 7234800483,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 174.5,
+    "high": 197,
+    "low": 172.8,
+    "close": 185.4,
+    "volume": 18918693923,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 187.6,
+    "high": 191.5,
+    "low": 184.1,
+    "close": 184.7,
+    "volume": 9137683508,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 185.4,
+    "high": 189.9,
+    "low": 182.4,
+    "close": 188.8,
+    "volume": 4762230064,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 192.5,
+    "high": 193.35,
+    "low": 188.3,
+    "close": 190,
+    "volume": 4440218641,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 191,
+    "high": 198.9,
+    "low": 190.4,
+    "close": 197.95,
+    "volume": 8284292323,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 200,
+    "high": 203.8,
+    "low": 191.7,
+    "close": 192.15,
+    "volume": 8260208849,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 194.75,
+    "high": 194.95,
+    "low": 189.25,
+    "close": 191,
+    "volume": 3162351122,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 191.1,
+    "high": 191.7,
+    "low": 184.1,
+    "close": 187.7,
+    "volume": 5437824936,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 192,
+    "high": 199.7,
+    "low": 191.65,
+    "close": 196.65,
+    "volume": 6860461955,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 199.2,
+    "high": 201,
+    "low": 191.25,
+    "close": 193.45,
+    "volume": 4905902459,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 194,
+    "high": 194.55,
+    "low": 189.35,
+    "close": 190.3,
+    "volume": 3327975426,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 190,
+    "high": 191.8,
+    "low": 182.3,
+    "close": 184.5,
+    "volume": 5482054331,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 184.8,
+    "high": 187.75,
+    "low": 183.4,
+    "close": 185.25,
+    "volume": 2872057542,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 187.3,
+    "high": 188.95,
+    "low": 183.6,
+    "close": 184.95,
+    "volume": 3242852629,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 182.7,
+    "high": 183.4,
+    "low": 177.4,
+    "close": 180.75,
+    "volume": 2865917200,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 182,
+    "high": 183,
+    "low": 178.9,
+    "close": 182.4,
+    "volume": 2826241217,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 183.4,
+    "high": 184.3,
+    "low": 175.3,
+    "close": 175.75,
+    "volume": 2420204274,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 176.25,
+    "high": 177.25,
+    "low": 173,
+    "close": 173.25,
+    "volume": 2053539669,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 173,
+    "high": 176,
+    "low": 171.75,
+    "close": 175.9,
+    "volume": 2015450205,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 175.7,
+    "high": 176.65,
+    "low": 172.8,
+    "close": 173.2,
+    "volume": 1666143216,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 173,
+    "high": 173,
+    "low": 165.95,
+    "close": 167.15,
+    "volume": 4125055491,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 165,
+    "high": 169.5,
+    "low": 163.3,
+    "close": 164.7,
+    "volume": 2464019021,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 165,
+    "high": 171.95,
+    "low": 163.8,
+    "close": 170.35,
+    "volume": 2273645795,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 171.45,
+    "high": 173.75,
+    "low": 168.35,
+    "close": 168.8,
+    "volume": 2442089691,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 168.2,
+    "high": 171.1,
+    "low": 167.35,
+    "close": 169.45,
+    "volume": 1521247466,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 171.2,
+    "high": 171.4,
+    "low": 169.75,
+    "close": 170.75,
+    "volume": 166254938,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 171,
+    "high": 174.2,
+    "low": 168.5,
+    "close": 171.55,
+    "volume": 1497970782,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 172.05,
+    "high": 172.4,
+    "low": 169.6,
+    "close": 170.6,
+    "volume": 977808542,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 169.9,
+    "high": 170.85,
+    "low": 166.45,
+    "close": 166.7,
+    "volume": 1542591140,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 165.9,
+    "high": 167.65,
+    "low": 165.2,
+    "close": 167.3,
+    "volume": 1074595288,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 168.85,
+    "high": 168.85,
+    "low": 165.7,
+    "close": 167.25,
+    "volume": 1174399124,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 164.25,
+    "high": 167.6,
+    "low": 159.5,
+    "close": 159.7,
+    "volume": 3140759995,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 161,
+    "high": 161.65,
+    "low": 158.6,
+    "close": 159.1,
+    "volume": 1364365161,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 159.05,
+    "high": 159.25,
+    "low": 155.7,
+    "close": 156.05,
+    "volume": 1175794423,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 156.05,
+    "high": 157.75,
+    "low": 153,
+    "close": 153.1,
+    "volume": 2011285565,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 152.2,
+    "high": 152.9,
+    "low": 149.1,
+    "close": 150.95,
+    "volume": 1738819939,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 150,
+    "high": 156.75,
+    "low": 150,
+    "close": 156.5,
+    "volume": 2053784121,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 158.3,
+    "high": 161.65,
+    "low": 155.6,
+    "close": 158.85,
+    "volume": 2988207212,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 161.5,
+    "high": 162.8,
+    "low": 156,
+    "close": 158.75,
+    "volume": 3556331466,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 157.75,
+    "high": 159.4,
+    "low": 155.35,
+    "close": 155.9,
+    "volume": 1855100653,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 155.9,
+    "high": 156.65,
+    "low": 151.9,
+    "close": 155.2,
+    "volume": 2810127447,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 158.5,
+    "high": 158.5,
+    "low": 151.35,
+    "close": 151.75,
+    "volume": 8728540934,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 153.6,
+    "high": 156.25,
+    "low": 152.55,
+    "close": 155.9,
+    "volume": 2510135637,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 156.9,
+    "high": 159.55,
+    "low": 155.15,
+    "close": 159.25,
+    "volume": 2466576476,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 159,
+    "high": 160.7,
+    "low": 158.25,
+    "close": 159.85,
+    "volume": 3258899567,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 152,
+    "high": 152.45,
+    "low": 148.1,
+    "close": 148.75,
+    "volume": 3628149420,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 150.1,
+    "high": 150.95,
+    "low": 149.15,
+    "close": 150.85,
+    "volume": 1182907791,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 151.25,
+    "high": 151.75,
+    "low": 150.05,
+    "close": 151,
+    "volume": 1102795989,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 151.75,
+    "high": 153.5,
+    "low": 150.65,
+    "close": 152.75,
+    "volume": 1435328318,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 152.65,
+    "high": 153.75,
+    "low": 150.9,
+    "close": 151.3,
+    "volume": 1127363188,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 152.8,
+    "high": 152.8,
+    "low": 147.95,
+    "close": 149.3,
+    "volume": 1484921182,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 149,
+    "high": 149.75,
+    "low": 146.75,
+    "close": 148.75,
+    "volume": 1256264530,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 149.15,
+    "high": 150.6,
+    "low": 147.95,
+    "close": 148.05,
+    "volume": 805736738,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 148.1,
+    "high": 150.1,
+    "low": 147.55,
+    "close": 149.4,
+    "volume": 1123265708,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 149.1,
+    "high": 149.4,
+    "low": 146,
+    "close": 146.35,
+    "volume": 1287764690,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 145.35,
+    "high": 145.65,
+    "low": 139.15,
+    "close": 140.8,
+    "volume": 1254052652,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 141.8,
+    "high": 146,
+    "low": 141.4,
+    "close": 144.6,
+    "volume": 1167802206,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 145.45,
+    "high": 149.4,
+    "low": 144.45,
+    "close": 145.1,
+    "volume": 988836248,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 146.25,
+    "high": 147.95,
+    "low": 146,
+    "close": 147.75,
+    "volume": 714587196,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 148,
+    "high": 148.15,
+    "low": 145.4,
+    "close": 145.8,
+    "volume": 668866461,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 145,
+    "high": 146.5,
+    "low": 144.1,
+    "close": 146.5,
+    "volume": 513656914,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 146.25,
+    "high": 149.25,
+    "low": 146.25,
+    "close": 148.95,
+    "volume": 727821199,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 149.25,
+    "high": 149.25,
+    "low": 146.3,
+    "close": 146.6,
+    "volume": 620513568,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 146.75,
+    "high": 149,
+    "low": 143.9,
+    "close": 146.05,
+    "volume": 3619654239,
+    "symbol": "COALINDIA"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 145.95,
+    "high": 147.55,
+    "low": 145.35,
+    "close": 146.25,
+    "volume": 778362925,
+    "symbol": "COALINDIA"
+  }
+]

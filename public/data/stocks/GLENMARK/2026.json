@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2034,
+    "high": 2039.1,
+    "low": 2011,
+    "close": 2030,
+    "volume": 562980795,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2025.9,
+    "high": 2073,
+    "low": 2021,
+    "close": 2073,
+    "volume": 798050215,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2071.5,
+    "high": 2091.8,
+    "low": 2031.5,
+    "close": 2039.2,
+    "volume": 688040798,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2031.5,
+    "high": 2080.8,
+    "low": 2031.5,
+    "close": 2080.8,
+    "volume": 460686801,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2076,
+    "high": 2147.5,
+    "low": 2070.7,
+    "close": 2111,
+    "volume": 2709326990,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2122.1,
+    "high": 2122.1,
+    "low": 2074,
+    "close": 2074,
+    "volume": 863305594,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2074,
+    "high": 2079,
+    "low": 1997,
+    "close": 2004.5,
+    "volume": 956607022,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2007.2,
+    "high": 2020.4,
+    "low": 1967.6,
+    "close": 2014.3,
+    "volume": 698815485,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2028,
+    "high": 2028,
+    "low": 1951.1,
+    "close": 2007.8,
+    "volume": 1649784390,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2025,
+    "high": 2041.8,
+    "low": 2003.3,
+    "close": 2015,
+    "volume": 1048771405,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2022,
+    "high": 2028,
+    "low": 1990,
+    "close": 1997,
+    "volume": 728176048,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1996,
+    "high": 2007.4,
+    "low": 1980.3,
+    "close": 1985.7,
+    "volume": 320245184,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1980.3,
+    "high": 1989.8,
+    "low": 1927.4,
+    "close": 1931,
+    "volume": 805070647,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1927,
+    "high": 1960,
+    "low": 1910.1,
+    "close": 1950.2,
+    "volume": 907395935,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1955,
+    "high": 2009,
+    "low": 1955,
+    "close": 2004,
+    "volume": 1433411062,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2000,
+    "high": 2022.9,
+    "low": 1961.8,
+    "close": 1968.7,
+    "volume": 844136589,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1968.4,
+    "high": 2010,
+    "low": 1967.1,
+    "close": 2007.1,
+    "volume": 912151789,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2011.5,
+    "high": 2012.1,
+    "low": 1980,
+    "close": 1995,
+    "volume": 463019470,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2002.4,
+    "high": 2022,
+    "low": 1975.1,
+    "close": 1980,
+    "volume": 915895569,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1978.7,
+    "high": 2026.1,
+    "low": 1928.8,
+    "close": 2026.1,
+    "volume": 1109168901,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2011,
+    "high": 2011,
+    "low": 1929,
+    "close": 1936,
+    "volume": 743254911,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1935.1,
+    "high": 1964.4,
+    "low": 1842,
+    "close": 1922.2,
+    "volume": 2806092248,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1995,
+    "high": 2006.6,
+    "low": 1947.6,
+    "close": 1957.5,
+    "volume": 1052711914,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1954.2,
+    "high": 1992.1,
+    "low": 1945.9,
+    "close": 1954,
+    "volume": 762605531,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1955.2,
+    "high": 1976.3,
+    "low": 1926,
+    "close": 1969.7,
+    "volume": 782199221,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1969.3,
+    "high": 1969.3,
+    "low": 1911,
+    "close": 1927.1,
+    "volume": 947912075,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1958,
+    "high": 1979.9,
+    "low": 1941.4,
+    "close": 1978,
+    "volume": 786171391,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2000,
+    "high": 2000.1,
+    "low": 1953.4,
+    "close": 1953.7,
+    "volume": 549389150,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1959.9,
+    "high": 2018.9,
+    "low": 1949.9,
+    "close": 2015.5,
+    "volume": 1095547619,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2020,
+    "high": 2039,
+    "low": 2001.1,
+    "close": 2036.3,
+    "volume": 687070061,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2034,
+    "high": 2047.9,
+    "low": 1992,
+    "close": 1997,
+    "volume": 1749136737,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1997.6,
+    "high": 2037.4,
+    "low": 1988,
+    "close": 2028.9,
+    "volume": 1294151348,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2028.9,
+    "high": 2046.9,
+    "low": 2021.8,
+    "close": 2034,
+    "volume": 411039370,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2038,
+    "high": 2044.5,
+    "low": 2009,
+    "close": 2022,
+    "volume": 712001318,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2028,
+    "high": 2057,
+    "low": 2005,
+    "close": 2006.7,
+    "volume": 735255311,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2005,
+    "high": 2049.8,
+    "low": 1999.2,
+    "close": 2040.5,
+    "volume": 626854529,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2043.2,
+    "high": 2053.6,
+    "low": 2021.8,
+    "close": 2033,
+    "volume": 599215803,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2028.5,
+    "high": 2078.5,
+    "low": 2025.4,
+    "close": 2070.8,
+    "volume": 762199507,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2070,
+    "high": 2092.3,
+    "low": 2061,
+    "close": 2078.5,
+    "volume": 946739772,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 2080,
+    "high": 2139,
+    "low": 2080,
+    "close": 2125.6,
+    "volume": 1092289140,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 2125.6,
+    "high": 2159.8,
+    "low": 2116.4,
+    "close": 2144,
+    "volume": 1318427191,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2112.5,
+    "high": 2149.9,
+    "low": 2094.4,
+    "close": 2134.1,
+    "volume": 670095481,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2106.3,
+    "high": 2110.5,
+    "low": 2031.1,
+    "close": 2037.4,
+    "volume": 851871716,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2042.2,
+    "high": 2118.9,
+    "low": 2042.2,
+    "close": 2107,
+    "volume": 1094946964,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2094.4,
+    "high": 2138,
+    "low": 2094.4,
+    "close": 2126.7,
+    "volume": 915441818,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 2100,
+    "high": 2124.8,
+    "low": 2050.2,
+    "close": 2119,
+    "volume": 636657365,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2140,
+    "high": 2240,
+    "low": 2130.4,
+    "close": 2238,
+    "volume": 3413900056,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2243,
+    "high": 2297.9,
+    "low": 2228,
+    "close": 2269.6,
+    "volume": 2088826266,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2273.2,
+    "high": 2273.2,
+    "low": 2215.4,
+    "close": 2259.9,
+    "volume": 2233907259,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 2242,
+    "high": 2266,
+    "low": 2163.7,
+    "close": 2172,
+    "volume": 1130629659,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 2172.5,
+    "high": 2214.8,
+    "low": 2145,
+    "close": 2160,
+    "volume": 1151748024,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 2179.9,
+    "high": 2184.7,
+    "low": 2136,
+    "close": 2144.1,
+    "volume": 1669194896,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 2145.9,
+    "high": 2237.6,
+    "low": 2143.1,
+    "close": 2183,
+    "volume": 1947567593,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 2174,
+    "high": 2176.6,
+    "low": 2087.4,
+    "close": 2105,
+    "volume": 989938604,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 2114.1,
+    "high": 2190.9,
+    "low": 2110.1,
+    "close": 2180,
+    "volume": 1293387299,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 2170,
+    "high": 2170,
+    "low": 2079.9,
+    "close": 2080,
+    "volume": 864204112,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 2103,
+    "high": 2137.1,
+    "low": 2078.3,
+    "close": 2098,
+    "volume": 1135514680,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 2120,
+    "high": 2179.7,
+    "low": 2102.4,
+    "close": 2164.5,
+    "volume": 961818498,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 2168.5,
+    "high": 2188.4,
+    "low": 2146.6,
+    "close": 2169.5,
+    "volume": 1611772506,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 2169.5,
+    "high": 2170.8,
+    "low": 2108.7,
+    "close": 2122,
+    "volume": 2573499967,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 2180,
+    "high": 2238.4,
+    "low": 2085,
+    "close": 2095.5,
+    "volume": 2184866318,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 2085,
+    "high": 2098.4,
+    "low": 1966.5,
+    "close": 2084,
+    "volume": 1965566542,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 2079.3,
+    "high": 2112.8,
+    "low": 2036.7,
+    "close": 2105,
+    "volume": 1214626147,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 2100,
+    "high": 2138,
+    "low": 2068.2,
+    "close": 2105.4,
+    "volume": 818057373,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 2165,
+    "high": 2187,
+    "low": 2129.6,
+    "close": 2174.6,
+    "volume": 1174229012,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 2173.5,
+    "high": 2186.2,
+    "low": 2142,
+    "close": 2158.1,
+    "volume": 1326258148,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 2173.9,
+    "high": 2198.9,
+    "low": 2148.9,
+    "close": 2163.5,
+    "volume": 1451984931,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 2153.4,
+    "high": 2205,
+    "low": 2115.1,
+    "close": 2205,
+    "volume": 1574738175,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 2230.9,
+    "high": 2265,
+    "low": 2205,
+    "close": 2265,
+    "volume": 1382677924,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 2267,
+    "high": 2273.8,
+    "low": 2228.6,
+    "close": 2249.9,
+    "volume": 975552101,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 2249.5,
+    "high": 2274.9,
+    "low": 2240.9,
+    "close": 2246,
+    "volume": 825501158,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 2249.5,
+    "high": 2250.5,
+    "low": 2210.5,
+    "close": 2231.4,
+    "volume": 910197836,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 2221.9,
+    "high": 2245,
+    "low": 2215.2,
+    "close": 2235,
+    "volume": 569083895,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 2233.1,
+    "high": 2247,
+    "low": 2204.8,
+    "close": 2235.3,
+    "volume": 718685331,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 2247.9,
+    "high": 2359.4,
+    "low": 2212.1,
+    "close": 2348,
+    "volume": 3943563678,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 2351,
+    "high": 2372.8,
+    "low": 2283.2,
+    "close": 2287,
+    "volume": 1948353615,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 2312,
+    "high": 2339.9,
+    "low": 2290.9,
+    "close": 2328,
+    "volume": 1071429887,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 2328.1,
+    "high": 2427.4,
+    "low": 2327.3,
+    "close": 2396.5,
+    "volume": 3691162502,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 2418.7,
+    "high": 2474,
+    "low": 2403.7,
+    "close": 2415,
+    "volume": 1499420411,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 2400.1,
+    "high": 2455.9,
+    "low": 2385.6,
+    "close": 2400,
+    "volume": 1913343263,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 2434.3,
+    "high": 2438.8,
+    "low": 2382.6,
+    "close": 2389.6,
+    "volume": 1086768505,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 2384.3,
+    "high": 2430,
+    "low": 2360,
+    "close": 2426.1,
+    "volume": 2208228239,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 2435,
+    "high": 2440,
+    "low": 2354.9,
+    "close": 2379,
+    "volume": 2673347240,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 2390,
+    "high": 2404,
+    "low": 2355.7,
+    "close": 2370,
+    "volume": 1015543947,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 2350,
+    "high": 2384.9,
+    "low": 2315.8,
+    "close": 2368,
+    "volume": 1653142554,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 2356.5,
+    "high": 2368.8,
+    "low": 2317.7,
+    "close": 2342,
+    "volume": 1945106949,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 2340.9,
+    "high": 2340.9,
+    "low": 2244,
+    "close": 2267.7,
+    "volume": 1732998819,
+    "symbol": "GLENMARK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 2245.2,
+    "high": 2326.5,
+    "low": 2245.2,
+    "close": 2286,
+    "volume": 2326830237,
+    "symbol": "GLENMARK"
+  }
+]

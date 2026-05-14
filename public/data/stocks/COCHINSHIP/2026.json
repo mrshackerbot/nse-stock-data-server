@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1622,
+    "high": 1634,
+    "low": 1607.3,
+    "close": 1632,
+    "volume": 504704267,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1622.6,
+    "high": 1642.9,
+    "low": 1619.4,
+    "close": 1630.9,
+    "volume": 721362074,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1630,
+    "high": 1666.6,
+    "low": 1621.1,
+    "close": 1632,
+    "volume": 1702400008,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1630.6,
+    "high": 1633.3,
+    "low": 1602,
+    "close": 1606.7,
+    "volume": 965266236,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1601,
+    "high": 1618,
+    "low": 1590.1,
+    "close": 1612.5,
+    "volume": 716394624,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1608.2,
+    "high": 1633,
+    "low": 1573,
+    "close": 1582,
+    "volume": 1078672465,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1580.4,
+    "high": 1636.8,
+    "low": 1561,
+    "close": 1569.8,
+    "volume": 1785911258,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1569.8,
+    "high": 1579,
+    "low": 1520.2,
+    "close": 1567.7,
+    "volume": 1557557679,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1569,
+    "high": 1582.5,
+    "low": 1538.6,
+    "close": 1545.9,
+    "volume": 860084684,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1547,
+    "high": 1559.9,
+    "low": 1525.6,
+    "close": 1532,
+    "volume": 723792192,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1535,
+    "high": 1542.5,
+    "low": 1520.5,
+    "close": 1526.2,
+    "volume": 701773345,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1512,
+    "high": 1524.6,
+    "low": 1501,
+    "close": 1506,
+    "volume": 719711156,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1504,
+    "high": 1510.9,
+    "low": 1425,
+    "close": 1446,
+    "volume": 1321768526,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1437,
+    "high": 1480,
+    "low": 1409,
+    "close": 1474.9,
+    "volume": 1602895871,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1476.1,
+    "high": 1505,
+    "low": 1463,
+    "close": 1505,
+    "volume": 1134843697,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1499,
+    "high": 1504,
+    "low": 1474,
+    "close": 1488.9,
+    "volume": 660928643,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1490,
+    "high": 1544.8,
+    "low": 1457.8,
+    "close": 1541,
+    "volume": 1265627174,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1526.1,
+    "high": 1632,
+    "low": 1526,
+    "close": 1631,
+    "volume": 2930508274,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1629,
+    "high": 1655,
+    "low": 1602,
+    "close": 1605.2,
+    "volume": 2786466330,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1608,
+    "high": 1666,
+    "low": 1575,
+    "close": 1660.6,
+    "volume": 3244476616,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1675,
+    "high": 1689,
+    "low": 1492,
+    "close": 1554.6,
+    "volume": 3465517580,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1559.9,
+    "high": 1597.8,
+    "low": 1483.3,
+    "close": 1519.6,
+    "volume": 2344435955,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1578,
+    "high": 1578,
+    "low": 1487.2,
+    "close": 1506.8,
+    "volume": 1881787287,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1508.5,
+    "high": 1517,
+    "low": 1495.6,
+    "close": 1503.5,
+    "volume": 872423077,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1502.2,
+    "high": 1503.5,
+    "low": 1476.7,
+    "close": 1481.8,
+    "volume": 695327610,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1481.8,
+    "high": 1496,
+    "low": 1472.1,
+    "close": 1494.8,
+    "volume": 685026634,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1490.2,
+    "high": 1544.9,
+    "low": 1488.6,
+    "close": 1528.5,
+    "volume": 1154942878,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1534,
+    "high": 1574,
+    "low": 1524,
+    "close": 1527,
+    "volume": 1024375459,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1528.6,
+    "high": 1534.9,
+    "low": 1506,
+    "close": 1515.8,
+    "volume": 523602492,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1513.7,
+    "high": 1515.8,
+    "low": 1495,
+    "close": 1497,
+    "volume": 555690339,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1500.4,
+    "high": 1500.4,
+    "low": 1462.7,
+    "close": 1474,
+    "volume": 626091590,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1472.8,
+    "high": 1482,
+    "low": 1455,
+    "close": 1475,
+    "volume": 514719314,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1550,
+    "high": 1574.5,
+    "low": 1520,
+    "close": 1520.1,
+    "volume": 6680659142,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1532.9,
+    "high": 1540,
+    "low": 1505.9,
+    "close": 1529.3,
+    "volume": 1327490183,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1550,
+    "high": 1562.3,
+    "low": 1501.5,
+    "close": 1514,
+    "volume": 1528199385,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1521.3,
+    "high": 1543.8,
+    "low": 1496.6,
+    "close": 1515,
+    "volume": 1165278074,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1517.6,
+    "high": 1519.9,
+    "low": 1492.6,
+    "close": 1502,
+    "volume": 716843650,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1501.8,
+    "high": 1501.8,
+    "low": 1478.2,
+    "close": 1495,
+    "volume": 527543640,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1494,
+    "high": 1504.6,
+    "low": 1476,
+    "close": 1487.6,
+    "volume": 528867105,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1487.6,
+    "high": 1515.9,
+    "low": 1480.1,
+    "close": 1495.2,
+    "volume": 931360451,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1491.4,
+    "high": 1505,
+    "low": 1474.3,
+    "close": 1502,
+    "volume": 742762641,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1435,
+    "high": 1524.4,
+    "low": 1428.3,
+    "close": 1452.9,
+    "volume": 1718475719,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1447.3,
+    "high": 1447.3,
+    "low": 1389,
+    "close": 1395,
+    "volume": 1170772137,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1405,
+    "high": 1497,
+    "low": 1400.2,
+    "close": 1453,
+    "volume": 4903554713,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1458,
+    "high": 1523.8,
+    "low": 1445.9,
+    "close": 1495,
+    "volume": 4608303303,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1490.3,
+    "high": 1491,
+    "low": 1435.1,
+    "close": 1459.8,
+    "volume": 1152191218,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1480,
+    "high": 1494.4,
+    "low": 1453.1,
+    "close": 1478,
+    "volume": 1687780917,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1474.6,
+    "high": 1507.1,
+    "low": 1450.2,
+    "close": 1457.1,
+    "volume": 932432818,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1450,
+    "high": 1452,
+    "low": 1422.6,
+    "close": 1446,
+    "volume": 837480470,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1435,
+    "high": 1439.6,
+    "low": 1375,
+    "close": 1382,
+    "volume": 1003585844,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1385.5,
+    "high": 1387.6,
+    "low": 1310.1,
+    "close": 1339,
+    "volume": 1905431822,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1349,
+    "high": 1366,
+    "low": 1328,
+    "close": 1360,
+    "volume": 1212983863,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1369,
+    "high": 1414.8,
+    "low": 1364,
+    "close": 1413.9,
+    "volume": 1340166698,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1394.9,
+    "high": 1404.9,
+    "low": 1355.7,
+    "close": 1366.5,
+    "volume": 873562701,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1368,
+    "high": 1395,
+    "low": 1331.6,
+    "close": 1347.4,
+    "volume": 1107196353,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1330.9,
+    "high": 1333.5,
+    "low": 1260.1,
+    "close": 1272,
+    "volume": 1327202085,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1319,
+    "high": 1321.9,
+    "low": 1283.2,
+    "close": 1308,
+    "volume": 1479339422,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1328,
+    "high": 1352.4,
+    "low": 1310,
+    "close": 1317.8,
+    "volume": 1206703177,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1305.1,
+    "high": 1312,
+    "low": 1253,
+    "close": 1256,
+    "volume": 1822574732,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1243.9,
+    "high": 1284.6,
+    "low": 1187,
+    "close": 1195,
+    "volume": 3006601164,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1244.9,
+    "high": 1372,
+    "low": 1228.1,
+    "close": 1340,
+    "volume": 10781264887,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1300,
+    "high": 1320,
+    "low": 1266.8,
+    "close": 1315,
+    "volume": 2808606009,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1310,
+    "high": 1343.7,
+    "low": 1275.1,
+    "close": 1337,
+    "volume": 2279864346,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1333.9,
+    "high": 1363.8,
+    "low": 1322.3,
+    "close": 1345.5,
+    "volume": 1781705799,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1420,
+    "high": 1425,
+    "low": 1374.2,
+    "close": 1381,
+    "volume": 2261338835,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1380,
+    "high": 1449,
+    "low": 1372.5,
+    "close": 1426,
+    "volume": 5036257963,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1436,
+    "high": 1502.2,
+    "low": 1435,
+    "close": 1460,
+    "volume": 4464150846,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1417.1,
+    "high": 1447.8,
+    "low": 1394.2,
+    "close": 1440,
+    "volume": 2337997626,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1465,
+    "high": 1491,
+    "low": 1459.2,
+    "close": 1482.3,
+    "volume": 1934182485,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1492,
+    "high": 1511.8,
+    "low": 1464,
+    "close": 1502.9,
+    "volume": 2734456025,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1500,
+    "high": 1569.5,
+    "low": 1498.1,
+    "close": 1560,
+    "volume": 5523881903,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1568,
+    "high": 1582.9,
+    "low": 1538,
+    "close": 1542,
+    "volume": 2508211669,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1540.4,
+    "high": 1584.8,
+    "low": 1531.2,
+    "close": 1558,
+    "volume": 2427200791,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1556.9,
+    "high": 1588,
+    "low": 1542.9,
+    "close": 1583.1,
+    "volume": 2452993872,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1580,
+    "high": 1612.5,
+    "low": 1571.8,
+    "close": 1600.4,
+    "volume": 3173869125,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1595,
+    "high": 1710,
+    "low": 1592.8,
+    "close": 1669,
+    "volume": 19611740541,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1677.1,
+    "high": 1716.5,
+    "low": 1647.2,
+    "close": 1678.8,
+    "volume": 5802610106,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1682,
+    "high": 1709.9,
+    "low": 1675.2,
+    "close": 1700.1,
+    "volume": 3651029302,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1714,
+    "high": 1780,
+    "low": 1714,
+    "close": 1776,
+    "volume": 11806271517,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1773.8,
+    "high": 1776.9,
+    "low": 1710.6,
+    "close": 1740,
+    "volume": 3382580246,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1742,
+    "high": 1753.8,
+    "low": 1677.3,
+    "close": 1720,
+    "volume": 3339903814,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1710.9,
+    "high": 1733.8,
+    "low": 1693.8,
+    "close": 1718,
+    "volume": 2138591675,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1725,
+    "high": 1765.8,
+    "low": 1721.9,
+    "close": 1754,
+    "volume": 3696210653,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1760,
+    "high": 1823.9,
+    "low": 1746,
+    "close": 1816,
+    "volume": 6109234287,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1830,
+    "high": 1842.8,
+    "low": 1767.9,
+    "close": 1769.4,
+    "volume": 4816829167,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1760,
+    "high": 1764.5,
+    "low": 1712,
+    "close": 1721,
+    "volume": 2152220376,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1715,
+    "high": 1718.1,
+    "low": 1607.6,
+    "close": 1630,
+    "volume": 3220383736,
+    "symbol": "COCHINSHIP"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1619.9,
+    "high": 1668.9,
+    "low": 1616.2,
+    "close": 1657,
+    "volume": 2517963417,
+    "symbol": "COCHINSHIP"
+  }
+]

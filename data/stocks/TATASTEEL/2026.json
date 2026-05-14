@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 180.6,
+    "high": 182.2,
+    "low": 180.2,
+    "close": 181.74,
+    "volume": 3899881548,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 182,
+    "high": 183.85,
+    "low": 181.6,
+    "close": 182.8,
+    "volume": 4208596517,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 182.88,
+    "high": 186.89,
+    "low": 182.87,
+    "close": 185.73,
+    "volume": 5680401827,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 186,
+    "high": 187.85,
+    "low": 184.47,
+    "close": 186.32,
+    "volume": 5317456496,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 186.2,
+    "high": 186.65,
+    "low": 182.9,
+    "close": 183.55,
+    "volume": 3359558960,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 185.45,
+    "high": 185.87,
+    "low": 179.55,
+    "close": 179.9,
+    "volume": 6976261295,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 179.05,
+    "high": 181.5,
+    "low": 177.33,
+    "close": 178.5,
+    "volume": 4537682420,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 178.4,
+    "high": 183.65,
+    "low": 177.64,
+    "close": 183.3,
+    "volume": 4666632319,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 183.5,
+    "high": 184.39,
+    "low": 181.1,
+    "close": 182.45,
+    "volume": 3500409050,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 182.57,
+    "high": 190.65,
+    "low": 181.66,
+    "close": 189.35,
+    "volume": 10517926531,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 190.05,
+    "high": 191,
+    "low": 187.31,
+    "close": 188,
+    "volume": 4920382644,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 187.1,
+    "high": 189.44,
+    "low": 186.8,
+    "close": 188,
+    "volume": 3709767886,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 188.27,
+    "high": 190,
+    "low": 183.03,
+    "close": 183.68,
+    "volume": 3733729229,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 183.56,
+    "high": 185.71,
+    "low": 180.88,
+    "close": 184.5,
+    "volume": 6427132712,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 185.89,
+    "high": 189.99,
+    "low": 185.79,
+    "close": 189.4,
+    "volume": 6722734157,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 190.5,
+    "high": 192.4,
+    "low": 187.27,
+    "close": 187.6,
+    "volume": 5408330190,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 189.67,
+    "high": 193.14,
+    "low": 187.72,
+    "close": 193.1,
+    "volume": 8080832828,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 193.49,
+    "high": 195.2,
+    "low": 192.1,
+    "close": 193.85,
+    "volume": 6455367645,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 194.45,
+    "high": 202.99,
+    "low": 194.11,
+    "close": 202.55,
+    "volume": 12066145271,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 198.55,
+    "high": 199,
+    "low": 190.63,
+    "close": 192.58,
+    "volume": 10105746545,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 188.81,
+    "high": 193.76,
+    "low": 184.26,
+    "close": 185.9,
+    "volume": 5011651321,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 185.38,
+    "high": 189,
+    "low": 182.55,
+    "close": 188.72,
+    "volume": 4748095257,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 193.58,
+    "high": 199,
+    "low": 191.51,
+    "close": 193.22,
+    "volume": 5504206296,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 193.99,
+    "high": 196.14,
+    "low": 193.45,
+    "close": 195.2,
+    "volume": 2706925099,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 193,
+    "high": 198.41,
+    "low": 191.52,
+    "close": 197.6,
+    "volume": 6135676594,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 197.6,
+    "high": 197.6,
+    "low": 194.37,
+    "close": 196.51,
+    "volume": 3618159250,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 202,
+    "high": 206.34,
+    "low": 197.55,
+    "close": 201.36,
+    "volume": 13918269579,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 202.99,
+    "high": 211.1,
+    "low": 201.08,
+    "close": 207.85,
+    "volume": 17123186655,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 209.4,
+    "high": 210.25,
+    "low": 205.3,
+    "close": 207.6,
+    "volume": 8498943451,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 208,
+    "high": 210.39,
+    "low": 206.2,
+    "close": 207.98,
+    "volume": 5031615137,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 206.59,
+    "high": 206.85,
+    "low": 202.56,
+    "close": 202.98,
+    "volume": 5292004652,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 201,
+    "high": 206.12,
+    "low": 200.55,
+    "close": 205.5,
+    "volume": 3662125249,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 205.5,
+    "high": 205.8,
+    "low": 201.66,
+    "close": 202.89,
+    "volume": 3759230373,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 203.55,
+    "high": 209.7,
+    "low": 203.55,
+    "close": 208.85,
+    "volume": 10071442353,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 211,
+    "high": 211.39,
+    "low": 204.25,
+    "close": 205.2,
+    "volume": 5770338722,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 206.41,
+    "high": 209.3,
+    "low": 204.73,
+    "close": 208.21,
+    "volume": 5529692606,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 210,
+    "high": 210.1,
+    "low": 205.5,
+    "close": 208,
+    "volume": 4857783993,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 207.21,
+    "high": 209.54,
+    "low": 206.75,
+    "close": 209,
+    "volume": 4883616282,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 210.1,
+    "high": 216.45,
+    "low": 209.4,
+    "close": 214.22,
+    "volume": 10472763121,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 215.95,
+    "high": 215.95,
+    "low": 213.01,
+    "close": 215.15,
+    "volume": 5474144029,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 215.5,
+    "high": 215.9,
+    "low": 211.66,
+    "close": 212.59,
+    "volume": 5466619064,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 205,
+    "high": 214.34,
+    "low": 204.5,
+    "close": 210.87,
+    "volume": 6430986089,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 207,
+    "high": 207,
+    "low": 194.43,
+    "close": 196.06,
+    "volume": 14258915692,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 198.5,
+    "high": 203.04,
+    "low": 197.63,
+    "close": 200.72,
+    "volume": 8215952931,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 199.5,
+    "high": 202.2,
+    "low": 197.1,
+    "close": 198.79,
+    "volume": 5703261980,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 193.45,
+    "high": 193.7,
+    "low": 187.03,
+    "close": 191.13,
+    "volume": 8164270198,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 194.01,
+    "high": 196.64,
+    "low": 192,
+    "close": 195.34,
+    "volume": 5009045313,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 197.14,
+    "high": 198.88,
+    "low": 194,
+    "close": 194.66,
+    "volume": 6710715267,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 193.99,
+    "high": 194.66,
+    "low": 190.1,
+    "close": 193.5,
+    "volume": 4698943177,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 191.95,
+    "high": 192.5,
+    "low": 182.26,
+    "close": 183.01,
+    "volume": 7921846030,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 183,
+    "high": 187.65,
+    "low": 181.25,
+    "close": 186.25,
+    "volume": 8315004054,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 187.8,
+    "high": 196.31,
+    "low": 186.85,
+    "close": 195.2,
+    "volume": 8812372587,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 196.4,
+    "high": 196.43,
+    "low": 193.17,
+    "close": 195,
+    "volume": 5135339068,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 190.8,
+    "high": 194.22,
+    "low": 189.37,
+    "close": 191.2,
+    "volume": 4639361111,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 193.4,
+    "high": 199.44,
+    "low": 193.34,
+    "close": 196.38,
+    "volume": 9242507427,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 193,
+    "high": 193.95,
+    "low": 186.51,
+    "close": 187,
+    "volume": 8350975100,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 192,
+    "high": 192.19,
+    "low": 187.78,
+    "close": 191.2,
+    "volume": 6522794084,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 193.03,
+    "high": 197.15,
+    "low": 192.32,
+    "close": 196.78,
+    "volume": 6798626728,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 194.32,
+    "high": 195.5,
+    "low": 192.64,
+    "close": 193.19,
+    "volume": 7163811518,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 192,
+    "high": 194.42,
+    "low": 188.3,
+    "close": 191.59,
+    "volume": 8803357572,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 200,
+    "high": 200.2,
+    "low": 194,
+    "close": 194.85,
+    "volume": 7036027199,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 192.91,
+    "high": 194.85,
+    "low": 187.95,
+    "close": 193.5,
+    "volume": 5278924464,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 193.02,
+    "high": 196.65,
+    "low": 190.25,
+    "close": 195.6,
+    "volume": 5472782987,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 195.6,
+    "high": 198.42,
+    "low": 193.28,
+    "close": 197.9,
+    "volume": 6304473667,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 202.01,
+    "high": 206.4,
+    "low": 202,
+    "close": 204.25,
+    "volume": 7571517855,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 204.51,
+    "high": 208.19,
+    "low": 204.06,
+    "close": 204.83,
+    "volume": 7583178409,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 207.98,
+    "high": 209,
+    "low": 204.8,
+    "close": 206.85,
+    "volume": 5856811283,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 203.7,
+    "high": 207,
+    "low": 201.5,
+    "close": 206.1,
+    "volume": 5282615109,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 209,
+    "high": 211.15,
+    "low": 207.6,
+    "close": 208.19,
+    "volume": 6451871068,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 209.75,
+    "high": 212.92,
+    "low": 209.01,
+    "close": 210.7,
+    "volume": 5636520456,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 210.69,
+    "high": 212.46,
+    "low": 208.5,
+    "close": 211.82,
+    "volume": 4815505748,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 212,
+    "high": 213.4,
+    "low": 209.8,
+    "close": 212.04,
+    "volume": 5289180627,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 211.72,
+    "high": 214.49,
+    "low": 211.08,
+    "close": 211.6,
+    "volume": 3703768432,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 211,
+    "high": 213.78,
+    "low": 210.51,
+    "close": 212.6,
+    "volume": 4424255827,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 213.04,
+    "high": 213.1,
+    "low": 210.16,
+    "close": 210.5,
+    "volume": 4076983792,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 211,
+    "high": 212,
+    "low": 208.6,
+    "close": 210,
+    "volume": 4700831852,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 211,
+    "high": 215,
+    "low": 210.93,
+    "close": 213.28,
+    "volume": 7067361145,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 213.2,
+    "high": 218.24,
+    "low": 212.2,
+    "close": 215.58,
+    "volume": 7548537437,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 216.1,
+    "high": 217,
+    "low": 211.36,
+    "close": 215.99,
+    "volume": 7059002347,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 215.78,
+    "high": 215.78,
+    "low": 210,
+    "close": 211.4,
+    "volume": 5264443783,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 212.55,
+    "high": 214.5,
+    "low": 211.4,
+    "close": 212,
+    "volume": 4928391367,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 212.2,
+    "high": 212.34,
+    "low": 209.45,
+    "close": 211.48,
+    "volume": 4377567294,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 214,
+    "high": 216.73,
+    "low": 212.42,
+    "close": 215.23,
+    "volume": 5166396803,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 216.7,
+    "high": 219.2,
+    "low": 215.75,
+    "close": 217.1,
+    "volume": 4618172066,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 217,
+    "high": 217.4,
+    "low": 214.25,
+    "close": 214.6,
+    "volume": 3828093225,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 213.5,
+    "high": 215,
+    "low": 211.52,
+    "close": 212,
+    "volume": 3475228852,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 212,
+    "high": 216.33,
+    "low": 211.5,
+    "close": 211.7,
+    "volume": 6049149843,
+    "symbol": "TATASTEEL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 213.24,
+    "high": 220.91,
+    "low": 213.07,
+    "close": 219.9,
+    "volume": 10072034414,
+    "symbol": "TATASTEEL"
+  }
+]

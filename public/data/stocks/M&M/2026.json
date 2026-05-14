@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 3725,
+    "high": 3774,
+    "low": 3721.1,
+    "close": 3755,
+    "volume": 5628441048,
+    "symbol": "M&M"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 3759.9,
+    "high": 3812,
+    "low": 3743.2,
+    "close": 3801,
+    "volume": 5613565429,
+    "symbol": "M&M"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 3805.9,
+    "high": 3839.9,
+    "low": 3785,
+    "close": 3790,
+    "volume": 5996125123,
+    "symbol": "M&M"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 3788,
+    "high": 3819.1,
+    "low": 3758.1,
+    "close": 3787,
+    "volume": 4908017597,
+    "symbol": "M&M"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 3800,
+    "high": 3808.6,
+    "low": 3718.5,
+    "close": 3755,
+    "volume": 3929860377,
+    "symbol": "M&M"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 3730,
+    "high": 3756.8,
+    "low": 3693.2,
+    "close": 3715,
+    "volume": 4698269114,
+    "symbol": "M&M"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 3712.1,
+    "high": 3748.5,
+    "low": 3667.1,
+    "close": 3679,
+    "volume": 4569116950,
+    "symbol": "M&M"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 3675.3,
+    "high": 3717,
+    "low": 3598.8,
+    "close": 3685,
+    "volume": 6088843581,
+    "symbol": "M&M"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 3717,
+    "high": 3717,
+    "low": 3631.5,
+    "close": 3658,
+    "volume": 6216527829,
+    "symbol": "M&M"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 3663,
+    "high": 3682,
+    "low": 3635.1,
+    "close": 3646.5,
+    "volume": 5749921740,
+    "symbol": "M&M"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 3650.1,
+    "high": 3729.9,
+    "low": 3650.1,
+    "close": 3660,
+    "volume": 7709969645,
+    "symbol": "M&M"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 3689,
+    "high": 3689,
+    "low": 3614,
+    "close": 3662.9,
+    "volume": 6262553142,
+    "symbol": "M&M"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 3646,
+    "high": 3677.5,
+    "low": 3540,
+    "close": 3557.5,
+    "volume": 6309358267,
+    "symbol": "M&M"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 3543,
+    "high": 3586.7,
+    "low": 3517.1,
+    "close": 3560,
+    "volume": 5639473929,
+    "symbol": "M&M"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 3600,
+    "high": 3620,
+    "low": 3533.4,
+    "close": 3578,
+    "volume": 7516217772,
+    "symbol": "M&M"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 3573.7,
+    "high": 3596,
+    "low": 3534.8,
+    "close": 3555,
+    "volume": 6846214915,
+    "symbol": "M&M"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 3437.2,
+    "high": 3497.7,
+    "low": 3344.1,
+    "close": 3392.9,
+    "volume": 24252090651,
+    "symbol": "M&M"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 3379,
+    "high": 3456.9,
+    "low": 3376,
+    "close": 3450.3,
+    "volume": 13569356916,
+    "symbol": "M&M"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 3449.2,
+    "high": 3479.6,
+    "low": 3321,
+    "close": 3388.1,
+    "volume": 18816199115,
+    "symbol": "M&M"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 3283,
+    "high": 3452.4,
+    "low": 3282.8,
+    "close": 3444.3,
+    "volume": 17960922575,
+    "symbol": "M&M"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 3444.3,
+    "high": 3525,
+    "low": 3343,
+    "close": 3362,
+    "volume": 5527305421,
+    "symbol": "M&M"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 3355,
+    "high": 3472.1,
+    "low": 3343.7,
+    "close": 3455,
+    "volume": 10069622028,
+    "symbol": "M&M"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 3638,
+    "high": 3643.8,
+    "low": 3513,
+    "close": 3530,
+    "volume": 19549361476,
+    "symbol": "M&M"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 3549,
+    "high": 3620,
+    "low": 3519.1,
+    "close": 3574.9,
+    "volume": 8583479893,
+    "symbol": "M&M"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 3592,
+    "high": 3598.8,
+    "low": 3528.1,
+    "close": 3575,
+    "volume": 4463552019,
+    "symbol": "M&M"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 3577,
+    "high": 3590,
+    "low": 3530.6,
+    "close": 3580,
+    "volume": 5211583214,
+    "symbol": "M&M"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 3593.8,
+    "high": 3619.1,
+    "low": 3557.1,
+    "close": 3616,
+    "volume": 4664267168,
+    "symbol": "M&M"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 3616.3,
+    "high": 3699,
+    "low": 3601,
+    "close": 3677,
+    "volume": 7026663761,
+    "symbol": "M&M"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 3704.7,
+    "high": 3787,
+    "low": 3666.1,
+    "close": 3675,
+    "volume": 17795220557,
+    "symbol": "M&M"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 3698.2,
+    "high": 3699,
+    "low": 3582.2,
+    "close": 3590,
+    "volume": 9243849569,
+    "symbol": "M&M"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 3530,
+    "high": 3596.5,
+    "low": 3520.3,
+    "close": 3533,
+    "volume": 5803847085,
+    "symbol": "M&M"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 3535,
+    "high": 3549.5,
+    "low": 3469,
+    "close": 3506.3,
+    "volume": 5474612063,
+    "symbol": "M&M"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 3509.7,
+    "high": 3515.8,
+    "low": 3462,
+    "close": 3488.4,
+    "volume": 6931024436,
+    "symbol": "M&M"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 3491.1,
+    "high": 3545,
+    "low": 3483.2,
+    "close": 3543,
+    "volume": 5897023535,
+    "symbol": "M&M"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 3534.9,
+    "high": 3546.5,
+    "low": 3421.3,
+    "close": 3427,
+    "volume": 8592574883,
+    "symbol": "M&M"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 3443,
+    "high": 3449.9,
+    "low": 3402.5,
+    "close": 3417,
+    "volume": 7728281619,
+    "symbol": "M&M"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 3425,
+    "high": 3457.6,
+    "low": 3416.9,
+    "close": 3435,
+    "volume": 6163887641,
+    "symbol": "M&M"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 3415,
+    "high": 3441,
+    "low": 3390,
+    "close": 3440,
+    "volume": 6603708111,
+    "symbol": "M&M"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 3435,
+    "high": 3500.9,
+    "low": 3425.4,
+    "close": 3480,
+    "volume": 7905718227,
+    "symbol": "M&M"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 3505,
+    "high": 3507,
+    "low": 3461.6,
+    "close": 3480,
+    "volume": 6959615790,
+    "symbol": "M&M"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 3460,
+    "high": 3488.1,
+    "low": 3381.1,
+    "close": 3402.6,
+    "volume": 12864513716,
+    "symbol": "M&M"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 3299.9,
+    "high": 3374.9,
+    "low": 3283,
+    "close": 3324.8,
+    "volume": 9959455449,
+    "symbol": "M&M"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 3240,
+    "high": 3278.1,
+    "low": 3207.9,
+    "close": 3269.5,
+    "volume": 14731944105,
+    "symbol": "M&M"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 3277.3,
+    "high": 3360.6,
+    "low": 3276.2,
+    "close": 3350,
+    "volume": 7644132441,
+    "symbol": "M&M"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 3315,
+    "high": 3367,
+    "low": 3315,
+    "close": 3333,
+    "volume": 6967595282,
+    "symbol": "M&M"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 3250,
+    "high": 3250,
+    "low": 3142.9,
+    "close": 3184.5,
+    "volume": 12586185934,
+    "symbol": "M&M"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 3278,
+    "high": 3309.4,
+    "low": 3228.9,
+    "close": 3296,
+    "volume": 8724852333,
+    "symbol": "M&M"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 3276,
+    "high": 3292.9,
+    "low": 3156,
+    "close": 3178,
+    "volume": 14671188631,
+    "symbol": "M&M"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 3115.1,
+    "high": 3142.8,
+    "low": 3020,
+    "close": 3029.1,
+    "volume": 21299817984,
+    "symbol": "M&M"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 2965,
+    "high": 3025,
+    "low": 2922.6,
+    "close": 2940,
+    "volume": 21449059382,
+    "symbol": "M&M"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 2902,
+    "high": 3043.7,
+    "low": 2896,
+    "close": 3029,
+    "volume": 16041545970,
+    "symbol": "M&M"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 3052,
+    "high": 3139.3,
+    "low": 3024.5,
+    "close": 3122.5,
+    "volume": 10857811662,
+    "symbol": "M&M"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 3140.1,
+    "high": 3236.2,
+    "low": 3140.1,
+    "close": 3212.1,
+    "volume": 12018050322,
+    "symbol": "M&M"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 3136.3,
+    "high": 3147.9,
+    "low": 3032.6,
+    "close": 3059.8,
+    "volume": 9454071522,
+    "symbol": "M&M"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 3059.2,
+    "high": 3106.6,
+    "low": 3043.2,
+    "close": 3075,
+    "volume": 13726888143,
+    "symbol": "M&M"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 3015.1,
+    "high": 3019.7,
+    "low": 2935,
+    "close": 2948.5,
+    "volume": 11804856445,
+    "symbol": "M&M"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 3030,
+    "high": 3057.3,
+    "low": 2965.9,
+    "close": 3041,
+    "volume": 11896716470,
+    "symbol": "M&M"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 3099.9,
+    "high": 3157.9,
+    "low": 3082.9,
+    "close": 3125.1,
+    "volume": 10419104590,
+    "symbol": "M&M"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 3100,
+    "high": 3105.2,
+    "low": 3030,
+    "close": 3044,
+    "volume": 9642015334,
+    "symbol": "M&M"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 2980,
+    "high": 3023.7,
+    "low": 2945,
+    "close": 2963.9,
+    "volume": 16083649932,
+    "symbol": "M&M"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 3079.9,
+    "high": 3079.9,
+    "low": 3010.1,
+    "close": 3021,
+    "volume": 10723658219,
+    "symbol": "M&M"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 2975,
+    "high": 3028.8,
+    "low": 2928.1,
+    "close": 3007,
+    "volume": 9824416094,
+    "symbol": "M&M"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 3006.1,
+    "high": 3030,
+    "low": 2961,
+    "close": 3019,
+    "volume": 7658378608,
+    "symbol": "M&M"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 3001.6,
+    "high": 3017,
+    "low": 2949.5,
+    "close": 3013,
+    "volume": 6854320009,
+    "symbol": "M&M"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 3125,
+    "high": 3231,
+    "low": 3109,
+    "close": 3212.5,
+    "volume": 13545329857,
+    "symbol": "M&M"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 3179.9,
+    "high": 3199.9,
+    "low": 3131,
+    "close": 3158,
+    "volume": 9627663262,
+    "symbol": "M&M"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 3180,
+    "high": 3270,
+    "low": 3180,
+    "close": 3266,
+    "volume": 9091031620,
+    "symbol": "M&M"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 3194.6,
+    "high": 3249.2,
+    "low": 3183.1,
+    "close": 3210,
+    "volume": 10255837657,
+    "symbol": "M&M"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 3250,
+    "high": 3301.9,
+    "low": 3225,
+    "close": 3259,
+    "volume": 8463616182,
+    "symbol": "M&M"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 3273,
+    "high": 3288,
+    "low": 3201,
+    "close": 3220,
+    "volume": 8662680476,
+    "symbol": "M&M"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 3210,
+    "high": 3242.5,
+    "low": 3185,
+    "close": 3202,
+    "volume": 6999663384,
+    "symbol": "M&M"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 3207,
+    "high": 3235.5,
+    "low": 3162.6,
+    "close": 3212.5,
+    "volume": 10274203692,
+    "symbol": "M&M"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 3212,
+    "high": 3262.3,
+    "low": 3212,
+    "close": 3247.8,
+    "volume": 6403436537,
+    "symbol": "M&M"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 3214.1,
+    "high": 3249.9,
+    "low": 3143,
+    "close": 3150,
+    "volume": 9883172474,
+    "symbol": "M&M"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 3105,
+    "high": 3114.7,
+    "low": 3032.2,
+    "close": 3060,
+    "volume": 13911642458,
+    "symbol": "M&M"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 3047.7,
+    "high": 3089,
+    "low": 3035,
+    "close": 3040,
+    "volume": 7028787807,
+    "symbol": "M&M"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 3050,
+    "high": 3114,
+    "low": 3050,
+    "close": 3104.8,
+    "volume": 5617465498,
+    "symbol": "M&M"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 3115.9,
+    "high": 3144,
+    "low": 3075,
+    "close": 3084.8,
+    "volume": 8203313898,
+    "symbol": "M&M"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 3100,
+    "high": 3192,
+    "low": 3092,
+    "close": 3149,
+    "volume": 12394981993,
+    "symbol": "M&M"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 3105.4,
+    "high": 3117.3,
+    "low": 3047,
+    "close": 3094.2,
+    "volume": 10267694184,
+    "symbol": "M&M"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 3131.5,
+    "high": 3172,
+    "low": 3081.5,
+    "close": 3109.9,
+    "volume": 8973635803,
+    "symbol": "M&M"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 3114,
+    "high": 3222,
+    "low": 3070.2,
+    "close": 3220.8,
+    "volume": 20321725717,
+    "symbol": "M&M"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 3245,
+    "high": 3315.7,
+    "low": 3243.5,
+    "close": 3297,
+    "volume": 19740371594,
+    "symbol": "M&M"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 3311.9,
+    "high": 3399,
+    "low": 3305,
+    "close": 3366,
+    "volume": 16566650048,
+    "symbol": "M&M"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 3357.8,
+    "high": 3363,
+    "low": 3317.6,
+    "close": 3331.5,
+    "volume": 6924180330,
+    "symbol": "M&M"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 3235,
+    "high": 3292,
+    "low": 3224.2,
+    "close": 3246,
+    "volume": 7559565921,
+    "symbol": "M&M"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 3240,
+    "high": 3261.6,
+    "low": 3166.3,
+    "close": 3189.6,
+    "volume": 8470572732,
+    "symbol": "M&M"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 3176,
+    "high": 3189.6,
+    "low": 3103.6,
+    "close": 3127,
+    "volume": 8446009465,
+    "symbol": "M&M"
+  }
+]

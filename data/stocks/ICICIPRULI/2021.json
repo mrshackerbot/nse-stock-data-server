@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 501,
+    "high": 501.4,
+    "low": 496.25,
+    "close": 499,
+    "volume": 202942818,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 500.2,
+    "high": 505.95,
+    "low": 494.5,
+    "close": 505.5,
+    "volume": 1023817335,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 505.5,
+    "high": 515,
+    "low": 503.3,
+    "close": 508,
+    "volume": 1460374147,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 512,
+    "high": 518.85,
+    "low": 504.15,
+    "close": 509.8,
+    "volume": 1283724309,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 512.95,
+    "high": 517.5,
+    "low": 506.05,
+    "close": 507.35,
+    "volume": 662609874,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 512.95,
+    "high": 534.5,
+    "low": 512.95,
+    "close": 524.25,
+    "volume": 1746582239,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 529.45,
+    "high": 537.9,
+    "low": 521.9,
+    "close": 524.75,
+    "volume": 1386682418,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 526,
+    "high": 526,
+    "low": 518.3,
+    "close": 521,
+    "volume": 377040520,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 528,
+    "high": 529.4,
+    "low": 505.15,
+    "close": 509.95,
+    "volume": 1002222588,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 512.65,
+    "high": 517,
+    "low": 506.55,
+    "close": 509.55,
+    "volume": 829090314,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 512.6,
+    "high": 524,
+    "low": 497.8,
+    "close": 500.05,
+    "volume": 1777333399,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 499.7,
+    "high": 513.15,
+    "low": 497.95,
+    "close": 506,
+    "volume": 1830992318,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 510,
+    "high": 518.5,
+    "low": 509,
+    "close": 515.5,
+    "volume": 1001732296,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 515.55,
+    "high": 526,
+    "low": 513.75,
+    "close": 516.5,
+    "volume": 855466469,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 516.15,
+    "high": 519.85,
+    "low": 503.85,
+    "close": 505,
+    "volume": 705946445,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 505,
+    "high": 510.9,
+    "low": 500,
+    "close": 501.8,
+    "volume": 664016657,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 503.85,
+    "high": 512.25,
+    "low": 496.95,
+    "close": 501.9,
+    "volume": 1261661895,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 506.9,
+    "high": 507.25,
+    "low": 497.6,
+    "close": 498.95,
+    "volume": 1409590236,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 498.55,
+    "high": 501.2,
+    "low": 487.15,
+    "close": 490.5,
+    "volume": 1465338184,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 491.1,
+    "high": 502,
+    "low": 477.7,
+    "close": 482.35,
+    "volume": 1397801724,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 482.35,
+    "high": 510.45,
+    "low": 477.7,
+    "close": 487.5,
+    "volume": 3149141610,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 492,
+    "high": 498.85,
+    "low": 473.35,
+    "close": 475.05,
+    "volume": 2985263619,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 477,
+    "high": 485.9,
+    "low": 470.45,
+    "close": 480.5,
+    "volume": 3052129322,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 482.9,
+    "high": 488.2,
+    "low": 472.55,
+    "close": 475.6,
+    "volume": 2346948444,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 477,
+    "high": 484.5,
+    "low": 470.05,
+    "close": 472.9,
+    "volume": 1044333504,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 474,
+    "high": 480.95,
+    "low": 472.05,
+    "close": 476.85,
+    "volume": 1187763411,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 479.8,
+    "high": 484.9,
+    "low": 473.25,
+    "close": 478,
+    "volume": 1307054903,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 481,
+    "high": 484,
+    "low": 471.6,
+    "close": 477.9,
+    "volume": 2190573644,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 478.7,
+    "high": 493.55,
+    "low": 478.45,
+    "close": 493.25,
+    "volume": 2995564003,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 495,
+    "high": 497.95,
+    "low": 485,
+    "close": 487.55,
+    "volume": 1617008778,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 492.2,
+    "high": 497,
+    "low": 485.2,
+    "close": 486.9,
+    "volume": 665665511,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 488.7,
+    "high": 495.45,
+    "low": 486.15,
+    "close": 491.9,
+    "volume": 976720092,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 493.7,
+    "high": 503.5,
+    "low": 486.6,
+    "close": 488.5,
+    "volume": 1204425326,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 491,
+    "high": 494.95,
+    "low": 484.85,
+    "close": 487.4,
+    "volume": 1040849094,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 487,
+    "high": 497.45,
+    "low": 479.3,
+    "close": 486.5,
+    "volume": 1565858590,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 482,
+    "high": 490,
+    "low": 462.55,
+    "close": 465.6,
+    "volume": 970746548,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 464.55,
+    "high": 473.45,
+    "low": 460,
+    "close": 471,
+    "volume": 1321855589,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 470,
+    "high": 479.05,
+    "low": 462,
+    "close": 478.5,
+    "volume": 589308440,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 476.5,
+    "high": 494,
+    "low": 475.35,
+    "close": 478.6,
+    "volume": 1376259053,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 474.7,
+    "high": 474.7,
+    "low": 457.85,
+    "close": 461.3,
+    "volume": 1347877973,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 464.05,
+    "high": 477.2,
+    "low": 464.05,
+    "close": 472,
+    "volume": 991022483,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 475,
+    "high": 480.15,
+    "low": 471.5,
+    "close": 477,
+    "volume": 661835290,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 482,
+    "high": 491.95,
+    "low": 477,
+    "close": 489.1,
+    "volume": 1510928318,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 484.9,
+    "high": 501,
+    "low": 482.6,
+    "close": 496.6,
+    "volume": 1494088978,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 498,
+    "high": 498.55,
+    "low": 481.1,
+    "close": 483.9,
+    "volume": 866714835,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 489,
+    "high": 489,
+    "low": 477.85,
+    "close": 479.95,
+    "volume": 1152768654,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 477.5,
+    "high": 497.8,
+    "low": 477.4,
+    "close": 487,
+    "volume": 2020308718,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 488.95,
+    "high": 490.55,
+    "low": 481,
+    "close": 485,
+    "volume": 784376135,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 485,
+    "high": 485.7,
+    "low": 461,
+    "close": 462.5,
+    "volume": 2899423994,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 462,
+    "high": 463.9,
+    "low": 440,
+    "close": 449,
+    "volume": 3708689394,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 452,
+    "high": 452.95,
+    "low": 442.7,
+    "close": 443.9,
+    "volume": 839157128,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 445.25,
+    "high": 445.85,
+    "low": 425,
+    "close": 426.65,
+    "volume": 2407024881,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 431,
+    "high": 433.9,
+    "low": 420.3,
+    "close": 422.3,
+    "volume": 1055238459,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 421.15,
+    "high": 432.65,
+    "low": 418.5,
+    "close": 430.05,
+    "volume": 1428941573,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 430.2,
+    "high": 439.1,
+    "low": 430,
+    "close": 438.4,
+    "volume": 1474258940,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 439.75,
+    "high": 443.5,
+    "low": 434.25,
+    "close": 436.8,
+    "volume": 894887576,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 432.95,
+    "high": 437.4,
+    "low": 428.4,
+    "close": 432.8,
+    "volume": 863504602,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 431.9,
+    "high": 438.95,
+    "low": 425.65,
+    "close": 432.7,
+    "volume": 1090427784,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 434.5,
+    "high": 440,
+    "low": 429.5,
+    "close": 432.25,
+    "volume": 893864596,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 436.4,
+    "high": 440.8,
+    "low": 430.3,
+    "close": 433.75,
+    "volume": 970574709,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 431.75,
+    "high": 448.65,
+    "low": 431.75,
+    "close": 444.55,
+    "volume": 1486563607,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 447.45,
+    "high": 449.05,
+    "low": 437.5,
+    "close": 445,
+    "volume": 672020978,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 446.5,
+    "high": 446.95,
+    "low": 433.5,
+    "close": 439.7,
+    "volume": 1108983695,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 438,
+    "high": 451.55,
+    "low": 437.5,
+    "close": 449.15,
+    "volume": 634601060,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 448.9,
+    "high": 457.5,
+    "low": 448.1,
+    "close": 455.95,
+    "volume": 659665013,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 457.9,
+    "high": 460.15,
+    "low": 452,
+    "close": 456,
+    "volume": 672684206,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 455.1,
+    "high": 461,
+    "low": 450.5,
+    "close": 454.95,
+    "volume": 628259123,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 448.15,
+    "high": 450,
+    "low": 431.3,
+    "close": 445,
+    "volume": 836283899,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 444,
+    "high": 460.65,
+    "low": 442.05,
+    "close": 458,
+    "volume": 892590977,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 458.5,
+    "high": 462.85,
+    "low": 444.1,
+    "close": 457,
+    "volume": 721116534,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 455.8,
+    "high": 465.5,
+    "low": 446.6,
+    "close": 452.8,
+    "volume": 1730975751,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 449,
+    "high": 454.5,
+    "low": 432.85,
+    "close": 450.85,
+    "volume": 614816492,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 465.5,
+    "high": 514.9,
+    "low": 465.5,
+    "close": 476.8,
+    "volume": 11322691088,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 477.9,
+    "high": 494.1,
+    "low": 474.2,
+    "close": 493,
+    "volume": 1726306984,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 493.5,
+    "high": 525.8,
+    "low": 489.25,
+    "close": 513,
+    "volume": 7035330850,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 517.1,
+    "high": 547,
+    "low": 506.25,
+    "close": 542.7,
+    "volume": 5665063570,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 546.8,
+    "high": 546.8,
+    "low": 520.35,
+    "close": 526,
+    "volume": 3072889685,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 526.7,
+    "high": 537.9,
+    "low": 518.3,
+    "close": 520.25,
+    "volume": 1855967304,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 527.65,
+    "high": 532.35,
+    "low": 521.5,
+    "close": 525.05,
+    "volume": 1053167811,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 521.05,
+    "high": 534.5,
+    "low": 517.15,
+    "close": 521.85,
+    "volume": 1169873549,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 521.95,
+    "high": 554.7,
+    "low": 520.1,
+    "close": 553,
+    "volume": 3149038613,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 555,
+    "high": 565.45,
+    "low": 540.75,
+    "close": 555.05,
+    "volume": 3553942766,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 561,
+    "high": 574.7,
+    "low": 551.5,
+    "close": 556.6,
+    "volume": 3317352264,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 560,
+    "high": 570,
+    "low": 554,
+    "close": 563.4,
+    "volume": 2961773321,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 566,
+    "high": 577.85,
+    "low": 558.5,
+    "close": 560.8,
+    "volume": 1402039383,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 561.3,
+    "high": 564.8,
+    "low": 552.15,
+    "close": 558,
+    "volume": 910963461,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 553,
+    "high": 574.5,
+    "low": 552,
+    "close": 572,
+    "volume": 1158736226,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 570.9,
+    "high": 570.9,
+    "low": 553.85,
+    "close": 556.05,
+    "volume": 1174784337,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 555,
+    "high": 563,
+    "low": 550.2,
+    "close": 560.65,
+    "volume": 1295755506,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 562,
+    "high": 567.9,
+    "low": 546,
+    "close": 548.9,
+    "volume": 1054561008,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 550.2,
+    "high": 558.85,
+    "low": 546,
+    "close": 547.75,
+    "volume": 942580274,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 546,
+    "high": 551.55,
+    "low": 538.6,
+    "close": 545,
+    "volume": 1467972093,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 549.75,
+    "high": 557.55,
+    "low": 540,
+    "close": 542.65,
+    "volume": 1067131604,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 544.1,
+    "high": 547.55,
+    "low": 540.1,
+    "close": 545.85,
+    "volume": 446651140,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 543.25,
+    "high": 555.95,
+    "low": 542.2,
+    "close": 553,
+    "volume": 627744358,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 558,
+    "high": 558.8,
+    "low": 529.6,
+    "close": 533.85,
+    "volume": 2025079247,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 534,
+    "high": 544.9,
+    "low": 524.1,
+    "close": 525,
+    "volume": 1468948859,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 527,
+    "high": 539.75,
+    "low": 521.25,
+    "close": 529.5,
+    "volume": 2321520502,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 532,
+    "high": 549.55,
+    "low": 530.5,
+    "close": 546.4,
+    "volume": 1602721584,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 549.6,
+    "high": 556,
+    "low": 543.85,
+    "close": 554.8,
+    "volume": 1977494670,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 554.5,
+    "high": 558.95,
+    "low": 550.2,
+    "close": 552.2,
+    "volume": 823186640,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 553,
+    "high": 569.7,
+    "low": 553,
+    "close": 565.65,
+    "volume": 1521727489,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 566.1,
+    "high": 572,
+    "low": 560,
+    "close": 569.9,
+    "volume": 1298639975,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 572.25,
+    "high": 581,
+    "low": 570.25,
+    "close": 576.05,
+    "volume": 1215823424,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 581.1,
+    "high": 584.65,
+    "low": 575.6,
+    "close": 581,
+    "volume": 934226648,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 580,
+    "high": 588.85,
+    "low": 571.4,
+    "close": 576,
+    "volume": 1124904709,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 577,
+    "high": 582.75,
+    "low": 569.3,
+    "close": 571.7,
+    "volume": 1061300511,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 572,
+    "high": 585,
+    "low": 571.4,
+    "close": 581.95,
+    "volume": 826683186,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 583.8,
+    "high": 588.9,
+    "low": 574.05,
+    "close": 579.75,
+    "volume": 785998922,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 578,
+    "high": 593.35,
+    "low": 567.2,
+    "close": 589,
+    "volume": 1085278634,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 592.95,
+    "high": 592.95,
+    "low": 584.6,
+    "close": 587.5,
+    "volume": 551934425,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 583.4,
+    "high": 591.05,
+    "low": 575.9,
+    "close": 578,
+    "volume": 696096225,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 571,
+    "high": 593,
+    "low": 569.8,
+    "close": 592.2,
+    "volume": 1051126665,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 593.1,
+    "high": 596.95,
+    "low": 576.25,
+    "close": 582,
+    "volume": 1232871759,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 568,
+    "high": 585,
+    "low": 568,
+    "close": 580,
+    "volume": 1162211288,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 582.8,
+    "high": 607.5,
+    "low": 578.05,
+    "close": 603.35,
+    "volume": 2221592612,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 606.55,
+    "high": 613.5,
+    "low": 599.3,
+    "close": 606,
+    "volume": 1853379084,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 606,
+    "high": 611.25,
+    "low": 600,
+    "close": 602,
+    "volume": 1079743519,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 600,
+    "high": 621.8,
+    "low": 599,
+    "close": 616.15,
+    "volume": 1155746421,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 620,
+    "high": 621.95,
+    "low": 612.25,
+    "close": 620.2,
+    "volume": 1165966459,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 619,
+    "high": 619,
+    "low": 611,
+    "close": 615,
+    "volume": 816201934,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 617.2,
+    "high": 625.6,
+    "low": 609.85,
+    "close": 613.25,
+    "volume": 867152470,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 612.5,
+    "high": 617.9,
+    "low": 611.65,
+    "close": 614.35,
+    "volume": 288757952,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 615,
+    "high": 624,
+    "low": 609.5,
+    "close": 622.95,
+    "volume": 506447898,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 626,
+    "high": 626.85,
+    "low": 617.25,
+    "close": 619.05,
+    "volume": 586224728,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 622,
+    "high": 634.45,
+    "low": 620.2,
+    "close": 629.15,
+    "volume": 1188766180,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 625.95,
+    "high": 635.4,
+    "low": 620,
+    "close": 626,
+    "volume": 644810401,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 627.95,
+    "high": 634.75,
+    "low": 614.3,
+    "close": 620.95,
+    "volume": 930072869,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 622,
+    "high": 622.7,
+    "low": 609.1,
+    "close": 612.8,
+    "volume": 949441707,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 615,
+    "high": 630,
+    "low": 613.75,
+    "close": 628,
+    "volume": 436639942,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 629,
+    "high": 630.6,
+    "low": 621,
+    "close": 628.4,
+    "volume": 504393368,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 627.5,
+    "high": 633.05,
+    "low": 624.25,
+    "close": 632,
+    "volume": 657434479,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 634,
+    "high": 634.8,
+    "low": 620.8,
+    "close": 623,
+    "volume": 543820653,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 623.5,
+    "high": 630.4,
+    "low": 616.75,
+    "close": 627,
+    "volume": 456775648,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 623,
+    "high": 629.45,
+    "low": 618,
+    "close": 625,
+    "volume": 361499838,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 625,
+    "high": 625.35,
+    "low": 601.6,
+    "close": 602.1,
+    "volume": 735872416,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 625,
+    "high": 661,
+    "low": 622,
+    "close": 638.5,
+    "volume": 6561178863,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 636.25,
+    "high": 647.5,
+    "low": 632,
+    "close": 644.85,
+    "volume": 1149608905,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 644.45,
+    "high": 650,
+    "low": 639.25,
+    "close": 645.75,
+    "volume": 639631060,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 640.75,
+    "high": 657.9,
+    "low": 639.3,
+    "close": 652.5,
+    "volume": 788630234,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 655,
+    "high": 657,
+    "low": 645,
+    "close": 651,
+    "volume": 542771425,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 652.5,
+    "high": 659.55,
+    "low": 633.65,
+    "close": 638.65,
+    "volume": 1121748989,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 638.4,
+    "high": 647.7,
+    "low": 631.3,
+    "close": 632.05,
+    "volume": 716656860,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 640.8,
+    "high": 645,
+    "low": 631,
+    "close": 634,
+    "volume": 517278397,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 638,
+    "high": 652.4,
+    "low": 632.25,
+    "close": 651.2,
+    "volume": 854431253,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 653.4,
+    "high": 684.7,
+    "low": 653.4,
+    "close": 670,
+    "volume": 4536584965,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 670,
+    "high": 673.2,
+    "low": 648.85,
+    "close": 652,
+    "volume": 731707355,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 651.6,
+    "high": 656.75,
+    "low": 646.8,
+    "close": 650.25,
+    "volume": 479950977,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 646.95,
+    "high": 654.9,
+    "low": 645.15,
+    "close": 650.2,
+    "volume": 495409742,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 652,
+    "high": 668,
+    "low": 651.55,
+    "close": 660,
+    "volume": 1432575281,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 659.8,
+    "high": 661,
+    "low": 633.85,
+    "close": 657.65,
+    "volume": 812221369,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 652,
+    "high": 672.3,
+    "low": 645,
+    "close": 669,
+    "volume": 541950681,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 672,
+    "high": 675.5,
+    "low": 668.6,
+    "close": 670,
+    "volume": 714068628,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 674,
+    "high": 678.95,
+    "low": 666.85,
+    "close": 671,
+    "volume": 798515130,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 668.2,
+    "high": 679.25,
+    "low": 664.75,
+    "close": 675.35,
+    "volume": 852476036,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 677.8,
+    "high": 694.5,
+    "low": 677.05,
+    "close": 677.05,
+    "volume": 1171940432,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 676.5,
+    "high": 688.95,
+    "low": 662,
+    "close": 664,
+    "volume": 950259500,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 666,
+    "high": 683.9,
+    "low": 653.75,
+    "close": 681,
+    "volume": 783251905,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 683.3,
+    "high": 686.8,
+    "low": 663,
+    "close": 667,
+    "volume": 1162152724,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 672.45,
+    "high": 673.85,
+    "low": 653.55,
+    "close": 655.8,
+    "volume": 899639269,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 651.1,
+    "high": 656.75,
+    "low": 645.3,
+    "close": 653.75,
+    "volume": 1328976235,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 652.65,
+    "high": 661.95,
+    "low": 649,
+    "close": 657.5,
+    "volume": 1971282969,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 655,
+    "high": 673.9,
+    "low": 655,
+    "close": 659.9,
+    "volume": 1778707588,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 661.45,
+    "high": 666,
+    "low": 648.7,
+    "close": 658.55,
+    "volume": 4958265755,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 659.1,
+    "high": 668.8,
+    "low": 656.6,
+    "close": 657.85,
+    "volume": 1391046703,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 658,
+    "high": 680,
+    "low": 651,
+    "close": 678,
+    "volume": 4261643167,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 681.7,
+    "high": 708,
+    "low": 679.05,
+    "close": 698.9,
+    "volume": 3604223315,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 704.65,
+    "high": 704.65,
+    "low": 690.3,
+    "close": 694.05,
+    "volume": 997878606,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 693.8,
+    "high": 714.6,
+    "low": 689.7,
+    "close": 701,
+    "volume": 3077400614,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 705.5,
+    "high": 724.3,
+    "low": 703.65,
+    "close": 715.05,
+    "volume": 3636957209,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 716.45,
+    "high": 718,
+    "low": 694.5,
+    "close": 696.75,
+    "volume": 984018396,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 694.95,
+    "high": 697.8,
+    "low": 684.05,
+    "close": 693.55,
+    "volume": 575347553,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 698.8,
+    "high": 700.25,
+    "low": 687.5,
+    "close": 689.9,
+    "volume": 437160463,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 689.9,
+    "high": 698,
+    "low": 689.05,
+    "close": 693.95,
+    "volume": 485399627,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 698,
+    "high": 707.4,
+    "low": 691.4,
+    "close": 699.3,
+    "volume": 628612157,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 702,
+    "high": 707,
+    "low": 692.55,
+    "close": 701.4,
+    "volume": 685089865,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 693,
+    "high": 702,
+    "low": 676,
+    "close": 676.25,
+    "volume": 356582307,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 677,
+    "high": 696.6,
+    "low": 670.4,
+    "close": 691,
+    "volume": 693598326,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 694.95,
+    "high": 698.55,
+    "low": 685.8,
+    "close": 687,
+    "volume": 577892349,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 697.2,
+    "high": 700,
+    "low": 679.3,
+    "close": 684.7,
+    "volume": 497210648,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 686,
+    "high": 693.5,
+    "low": 670.5,
+    "close": 674,
+    "volume": 1022260997,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 660.2,
+    "high": 678.6,
+    "low": 659.2,
+    "close": 661.55,
+    "volume": 969980748,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 665.55,
+    "high": 678.15,
+    "low": 661.25,
+    "close": 667,
+    "volume": 707272053,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 663,
+    "high": 678.5,
+    "low": 659.8,
+    "close": 670.6,
+    "volume": 542873960,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 672.7,
+    "high": 680.7,
+    "low": 666.8,
+    "close": 672,
+    "volume": 696779295,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 673.75,
+    "high": 673.75,
+    "low": 658,
+    "close": 667.4,
+    "volume": 654511037,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 667.8,
+    "high": 679.9,
+    "low": 660.4,
+    "close": 676.2,
+    "volume": 744378114,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 672.5,
+    "high": 685.5,
+    "low": 667.95,
+    "close": 680.7,
+    "volume": 683016618,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 681.65,
+    "high": 692.55,
+    "low": 677.35,
+    "close": 679.55,
+    "volume": 570917148,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 681,
+    "high": 687,
+    "low": 676.55,
+    "close": 678.3,
+    "volume": 393758246,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 682,
+    "high": 684.55,
+    "low": 659.1,
+    "close": 660.5,
+    "volume": 1008272748,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 657,
+    "high": 666,
+    "low": 650.05,
+    "close": 659.65,
+    "volume": 907511853,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 659,
+    "high": 667.35,
+    "low": 655.2,
+    "close": 661.5,
+    "volume": 486673554,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 663,
+    "high": 668.55,
+    "low": 655.2,
+    "close": 656.05,
+    "volume": 395175762,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 660,
+    "high": 661.95,
+    "low": 650,
+    "close": 651.45,
+    "volume": 1075779801,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 658.5,
+    "high": 678,
+    "low": 653,
+    "close": 674,
+    "volume": 1210301012,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 679.7,
+    "high": 682.45,
+    "low": 655.55,
+    "close": 659,
+    "volume": 939386825,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 653,
+    "high": 661.35,
+    "low": 619.15,
+    "close": 634,
+    "volume": 3050113510,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 637.9,
+    "high": 643.9,
+    "low": 625,
+    "close": 631.5,
+    "volume": 564145334,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 632,
+    "high": 637.85,
+    "low": 619,
+    "close": 620.9,
+    "volume": 535155156,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 620.5,
+    "high": 624,
+    "low": 609.55,
+    "close": 619.8,
+    "volume": 1010096480,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 617.5,
+    "high": 629,
+    "low": 617.5,
+    "close": 622.75,
+    "volume": 473969688,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 625.45,
+    "high": 642,
+    "low": 624.7,
+    "close": 629.9,
+    "volume": 1342337310,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 629.9,
+    "high": 635.8,
+    "low": 612.55,
+    "close": 614.3,
+    "volume": 598584249,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 617,
+    "high": 624.85,
+    "low": 609.5,
+    "close": 619,
+    "volume": 524954054,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 622,
+    "high": 629.5,
+    "low": 613.2,
+    "close": 627.95,
+    "volume": 423448477,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 628,
+    "high": 633.3,
+    "low": 622.3,
+    "close": 631.3,
+    "volume": 470474280,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 632,
+    "high": 638,
+    "low": 619.2,
+    "close": 626,
+    "volume": 750819089,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 623.3,
+    "high": 628.4,
+    "low": 622.35,
+    "close": 627.5,
+    "volume": 39162926,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 631,
+    "high": 661.25,
+    "low": 629.9,
+    "close": 656.2,
+    "volume": 1636445868,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 660.7,
+    "high": 660.7,
+    "low": 646.85,
+    "close": 651.2,
+    "volume": 426657114,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 646.35,
+    "high": 657.7,
+    "low": 641.75,
+    "close": 644.9,
+    "volume": 1075924077,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 646.3,
+    "high": 646.4,
+    "low": 637.3,
+    "close": 643.2,
+    "volume": 532038823,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 648.35,
+    "high": 679.95,
+    "low": 642.2,
+    "close": 673.5,
+    "volume": 3013692546,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 677,
+    "high": 677,
+    "low": 661.1,
+    "close": 661.2,
+    "volume": 647169427,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 661.5,
+    "high": 664.8,
+    "low": 650.4,
+    "close": 651,
+    "volume": 545594205,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 651,
+    "high": 665.6,
+    "low": 641.1,
+    "close": 642.5,
+    "volume": 625633633,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 646.45,
+    "high": 655,
+    "low": 637.55,
+    "close": 639,
+    "volume": 825804368,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 640.9,
+    "high": 642.95,
+    "low": 616.25,
+    "close": 621.2,
+    "volume": 445263683,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 614.25,
+    "high": 629.45,
+    "low": 605.5,
+    "close": 615.65,
+    "volume": 695639363,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 616.25,
+    "high": 625.15,
+    "low": 596.6,
+    "close": 598.95,
+    "volume": 751521333,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 604.1,
+    "high": 607.55,
+    "low": 596.05,
+    "close": 603.4,
+    "volume": 618445717,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 594.75,
+    "high": 597.35,
+    "low": 587.65,
+    "close": 590,
+    "volume": 801384619,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 588,
+    "high": 593,
+    "low": 567.8,
+    "close": 585.65,
+    "volume": 935896673,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 587.25,
+    "high": 602.95,
+    "low": 585,
+    "close": 591.6,
+    "volume": 1353939711,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 594.05,
+    "high": 608,
+    "low": 592.35,
+    "close": 597.25,
+    "volume": 688149487,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 594.8,
+    "high": 611.4,
+    "low": 594.35,
+    "close": 609.15,
+    "volume": 661946850,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 608.7,
+    "high": 612.55,
+    "low": 600.65,
+    "close": 602.5,
+    "volume": 467360524,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 605,
+    "high": 605,
+    "low": 585.05,
+    "close": 585.9,
+    "volume": 366934483,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 586.8,
+    "high": 597.8,
+    "low": 584.25,
+    "close": 586.7,
+    "volume": 602003023,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 589.65,
+    "high": 592.5,
+    "low": 585.8,
+    "close": 586.95,
+    "volume": 497522848,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 594.9,
+    "high": 594.9,
+    "low": 576,
+    "close": 579.6,
+    "volume": 513687791,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 583,
+    "high": 583,
+    "low": 575.5,
+    "close": 577.9,
+    "volume": 742334575,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 577,
+    "high": 580.9,
+    "low": 566.2,
+    "close": 569,
+    "volume": 529900200,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 565.65,
+    "high": 577.75,
+    "low": 563.1,
+    "close": 575.95,
+    "volume": 1091897034,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 576.5,
+    "high": 577.15,
+    "low": 557.65,
+    "close": 567.5,
+    "volume": 879163472,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 569,
+    "high": 580.95,
+    "low": 569,
+    "close": 577.5,
+    "volume": 885443185,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 575,
+    "high": 577.95,
+    "low": 554.3,
+    "close": 555.95,
+    "volume": 518737165,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 552,
+    "high": 555,
+    "low": 533.65,
+    "close": 540.5,
+    "volume": 483475604,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 542,
+    "high": 563.2,
+    "low": 542,
+    "close": 556.5,
+    "volume": 586263558,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 556.8,
+    "high": 559.85,
+    "low": 550.5,
+    "close": 556.95,
+    "volume": 566586973,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 558.2,
+    "high": 570,
+    "low": 554.9,
+    "close": 564,
+    "volume": 585867891,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 565,
+    "high": 567,
+    "low": 555,
+    "close": 565,
+    "volume": 433045432,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 565,
+    "high": 565.75,
+    "low": 554.7,
+    "close": 558,
+    "volume": 321631395,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 560.15,
+    "high": 567,
+    "low": 560.15,
+    "close": 563.6,
+    "volume": 219933177,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 563.8,
+    "high": 565.8,
+    "low": 553,
+    "close": 554.9,
+    "volume": 222417695,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 554.9,
+    "high": 555.75,
+    "low": 547.05,
+    "close": 551.5,
+    "volume": 361519684,
+    "symbol": "ICICIPRULI"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 552,
+    "high": 564.5,
+    "low": 550.2,
+    "close": 560.7,
+    "volume": 460028199,
+    "symbol": "ICICIPRULI"
+  }
+]

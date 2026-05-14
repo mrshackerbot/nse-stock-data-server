@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 7615,
+    "high": 7695,
+    "low": 7520,
+    "close": 7675,
+    "volume": 1060011489,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 7676.5,
+    "high": 7821,
+    "low": 7664.5,
+    "close": 7810,
+    "volume": 1501013726,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 7840.5,
+    "high": 7840.5,
+    "low": 7584.5,
+    "close": 7757,
+    "volume": 8679092706,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 7752,
+    "high": 7868.5,
+    "low": 7737,
+    "close": 7795.5,
+    "volume": 2852646960,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 7764,
+    "high": 7935,
+    "low": 7764,
+    "close": 7897,
+    "volume": 2886120836,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 7871.5,
+    "high": 7948,
+    "low": 7723,
+    "close": 7766,
+    "volume": 2566157940,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 7740,
+    "high": 7775.5,
+    "low": 7629,
+    "close": 7690,
+    "volume": 2381498547,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 7700,
+    "high": 7710,
+    "low": 7576.5,
+    "close": 7624.5,
+    "volume": 2023445001,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 7640,
+    "high": 7663.5,
+    "low": 7402,
+    "close": 7517.5,
+    "volume": 3288504985,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 7328,
+    "high": 7538,
+    "low": 7303.5,
+    "close": 7318,
+    "volume": 12201568745,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 7301,
+    "high": 7359,
+    "low": 7019.5,
+    "close": 7049.5,
+    "volume": 5901868784,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 7182.5,
+    "high": 7440.5,
+    "low": 7157,
+    "close": 7415.5,
+    "volume": 8732879036,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 7420,
+    "high": 7427.5,
+    "low": 7050,
+    "close": 7067,
+    "volume": 4091755764,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 7000,
+    "high": 7044.5,
+    "low": 6808,
+    "close": 6950,
+    "volume": 5371649719,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 7050,
+    "high": 7098,
+    "low": 6980.5,
+    "close": 6999,
+    "volume": 3063673132,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 7050,
+    "high": 7050,
+    "low": 6705.5,
+    "close": 6731,
+    "volume": 2510959029,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 6805.5,
+    "high": 6810,
+    "low": 6663,
+    "close": 6795,
+    "volume": 3229595436,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 6829,
+    "high": 6938.5,
+    "low": 6802.5,
+    "close": 6870,
+    "volume": 2414801966,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 6900,
+    "high": 7034,
+    "low": 6850,
+    "close": 7020.5,
+    "volume": 2361445467,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 7029.5,
+    "high": 7037.5,
+    "low": 6915,
+    "close": 7006,
+    "volume": 2770904807,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 7050,
+    "high": 7050,
+    "low": 6733,
+    "close": 6810,
+    "volume": 876052962,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 6800.5,
+    "high": 7070,
+    "low": 6800,
+    "close": 7055.5,
+    "volume": 2024688804,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 7400,
+    "high": 7699.5,
+    "low": 7360,
+    "close": 7504,
+    "volume": 6878991722,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 7504,
+    "high": 7666,
+    "low": 7420,
+    "close": 7613,
+    "volume": 2701660305,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 7600,
+    "high": 7613,
+    "low": 7503,
+    "close": 7555,
+    "volume": 1467711416,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 7536.5,
+    "high": 7643.5,
+    "low": 7524,
+    "close": 7611,
+    "volume": 1085576087,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 7679,
+    "high": 7844.5,
+    "low": 7645.5,
+    "close": 7770,
+    "volume": 2043855121,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 7790,
+    "high": 7794,
+    "low": 7706,
+    "close": 7735,
+    "volume": 1016461725,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 7789.5,
+    "high": 7825,
+    "low": 7756,
+    "close": 7807,
+    "volume": 930790427,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 7781,
+    "high": 7799,
+    "low": 7730,
+    "close": 7764,
+    "volume": 1131193376,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 7760.5,
+    "high": 7764,
+    "low": 7565,
+    "close": 7577,
+    "volume": 1222829571,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 7617.5,
+    "high": 7674,
+    "low": 7536,
+    "close": 7636.5,
+    "volume": 824071760,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 7650,
+    "high": 7754.5,
+    "low": 7616,
+    "close": 7734,
+    "volume": 697223764,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 7777,
+    "high": 7838.5,
+    "low": 7753.5,
+    "close": 7815,
+    "volume": 1266759719,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 7830,
+    "high": 7898.5,
+    "low": 7720,
+    "close": 7755.5,
+    "volume": 2064673841,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 7780,
+    "high": 7932,
+    "low": 7710,
+    "close": 7829,
+    "volume": 3083031833,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 7939,
+    "high": 8005,
+    "low": 7830,
+    "close": 7992,
+    "volume": 2606606788,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 7969,
+    "high": 8147.5,
+    "low": 7911,
+    "close": 8120,
+    "volume": 6952828473,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 8120.5,
+    "high": 8407.5,
+    "low": 8119.5,
+    "close": 8348,
+    "volume": 7376573945,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 8348.5,
+    "high": 8539.5,
+    "low": 8345,
+    "close": 8504,
+    "volume": 5322267218,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 8502,
+    "high": 8722,
+    "low": 8469.5,
+    "close": 8606.5,
+    "volume": 7981509807,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 8400,
+    "high": 8696.5,
+    "low": 8400,
+    "close": 8550,
+    "volume": 5610536477,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 8420,
+    "high": 8475,
+    "low": 8266.5,
+    "close": 8279,
+    "volume": 4056729630,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 8331,
+    "high": 8586,
+    "low": 8272,
+    "close": 8570.5,
+    "volume": 4255780374,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 8562,
+    "high": 8630,
+    "low": 8480,
+    "close": 8562,
+    "volume": 2471019890,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 8450,
+    "high": 8455,
+    "low": 8180,
+    "close": 8244.5,
+    "volume": 4103715241,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 8363,
+    "high": 8363,
+    "low": 7684,
+    "close": 7725,
+    "volume": 8321569427,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 7690,
+    "high": 7707.5,
+    "low": 7383,
+    "close": 7405,
+    "volume": 8229668787,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 7400,
+    "high": 7538,
+    "low": 7282,
+    "close": 7442,
+    "volume": 3708869380,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 7429.5,
+    "high": 7429.5,
+    "low": 7118,
+    "close": 7200,
+    "volume": 4534781111,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 7203,
+    "high": 7224.5,
+    "low": 7008,
+    "close": 7119,
+    "volume": 3264960275,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 7150,
+    "high": 7194.5,
+    "low": 7050,
+    "close": 7170,
+    "volume": 2515295640,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 7200,
+    "high": 7409,
+    "low": 7176.5,
+    "close": 7376,
+    "volume": 5024356738,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 7277,
+    "high": 7288,
+    "low": 7101.5,
+    "close": 7205,
+    "volume": 4611071050,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 7205,
+    "high": 7346.5,
+    "low": 7126,
+    "close": 7150,
+    "volume": 3244672955,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 7100,
+    "high": 7100,
+    "low": 6750,
+    "close": 6800,
+    "volume": 4464135284,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 7001.5,
+    "high": 7141,
+    "low": 6774.5,
+    "close": 7068,
+    "volume": 6320777835,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 7120,
+    "high": 7271,
+    "low": 7104,
+    "close": 7163.5,
+    "volume": 3542763010,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 7046,
+    "high": 7109.5,
+    "low": 6935,
+    "close": 7069.5,
+    "volume": 4090567688,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 6941.5,
+    "high": 7017.5,
+    "low": 6800,
+    "close": 6830.5,
+    "volume": 3787675220,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 7148.5,
+    "high": 7188,
+    "low": 6882,
+    "close": 6947.5,
+    "volume": 2986295948,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 6860,
+    "high": 6906,
+    "low": 6690.5,
+    "close": 6877,
+    "volume": 2633642632,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 6925,
+    "high": 7075,
+    "low": 6817,
+    "close": 7040,
+    "volume": 2406896403,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 7035.5,
+    "high": 7239.5,
+    "low": 6942.5,
+    "close": 7234,
+    "volume": 2461114741,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 7450,
+    "high": 7648.5,
+    "low": 7442,
+    "close": 7606,
+    "volume": 5412465873,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 7599,
+    "high": 7663.5,
+    "low": 7515.5,
+    "close": 7601,
+    "volume": 3181513875,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 7632.5,
+    "high": 7804,
+    "low": 7632.5,
+    "close": 7700,
+    "volume": 3793781264,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 7511.5,
+    "high": 7604,
+    "low": 7435.5,
+    "close": 7535.5,
+    "volume": 3715349613,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 7675,
+    "high": 7855,
+    "low": 7675,
+    "close": 7773.5,
+    "volume": 3850569579,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 7845,
+    "high": 7930,
+    "low": 7772.5,
+    "close": 7923,
+    "volume": 2138025019,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 7950,
+    "high": 8224.5,
+    "low": 7910,
+    "close": 8188.5,
+    "volume": 5564712424,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 8182.5,
+    "high": 8285,
+    "low": 8049,
+    "close": 8225,
+    "volume": 3317839129,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 8200,
+    "high": 8305,
+    "low": 7925.5,
+    "close": 7945,
+    "volume": 3567828485,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 7945,
+    "high": 8103,
+    "low": 7897,
+    "close": 8040,
+    "volume": 3760243292,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 8000,
+    "high": 8125,
+    "low": 7950,
+    "close": 7966,
+    "volume": 3878933110,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 8000,
+    "high": 8088,
+    "low": 7901,
+    "close": 8002,
+    "volume": 4922771852,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 8087.5,
+    "high": 8147,
+    "low": 8020,
+    "close": 8062.5,
+    "volume": 2353525504,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 8040,
+    "high": 8290,
+    "low": 8040,
+    "close": 8271,
+    "volume": 2981434607,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 8300,
+    "high": 8338.5,
+    "low": 8119,
+    "close": 8148,
+    "volume": 2164240983,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 8132.5,
+    "high": 8163.5,
+    "low": 7970.5,
+    "close": 8088.5,
+    "volume": 3354580601,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 8110.5,
+    "high": 8363,
+    "low": 8062.5,
+    "close": 8347.5,
+    "volume": 3589315077,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 8347.5,
+    "high": 8374,
+    "low": 8154,
+    "close": 8360,
+    "volume": 3822117466,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 8400,
+    "high": 8525,
+    "low": 8355.5,
+    "close": 8400,
+    "volume": 9153264079,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 8499,
+    "high": 9050,
+    "low": 8450,
+    "close": 9030,
+    "volume": 16326513782,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 9030,
+    "high": 9159,
+    "low": 8952.5,
+    "close": 9080,
+    "volume": 5585037754,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 9004.5,
+    "high": 9136,
+    "low": 8963,
+    "close": 9058,
+    "volume": 2370078694,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 9115,
+    "high": 9220,
+    "low": 8979,
+    "close": 9009.5,
+    "volume": 5644253262,
+    "symbol": "POLYCAB"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 8991,
+    "high": 9072.5,
+    "low": 8865,
+    "close": 8900,
+    "volume": 3789770829,
+    "symbol": "POLYCAB"
+  }
+]

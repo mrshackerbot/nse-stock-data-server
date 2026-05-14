@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 2715,
+    "high": 2953,
+    "low": 2665,
+    "close": 2791.5,
+    "volume": 2405588319,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 2805,
+    "high": 2850,
+    "low": 2732.05,
+    "close": 2788.9,
+    "volume": 597896392,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 2792.7,
+    "high": 2927,
+    "low": 2770,
+    "close": 2819,
+    "volume": 650464655,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 2786,
+    "high": 2809.9,
+    "low": 2735.1,
+    "close": 2762.7,
+    "volume": 321537125,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 2789.25,
+    "high": 2790,
+    "low": 2690.1,
+    "close": 2706,
+    "volume": 212660357,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 2800,
+    "high": 2868.95,
+    "low": 2755,
+    "close": 2793,
+    "volume": 437706810,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 2807,
+    "high": 2878.15,
+    "low": 2765,
+    "close": 2835.1,
+    "volume": 424602772,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 2863.9,
+    "high": 2881,
+    "low": 2830,
+    "close": 2850,
+    "volume": 231428686,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 2869.25,
+    "high": 2970,
+    "low": 2815,
+    "close": 2920,
+    "volume": 505978657,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 2920.75,
+    "high": 2920.75,
+    "low": 2821.05,
+    "close": 2850,
+    "volume": 347938536,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 2850,
+    "high": 2935,
+    "low": 2840.1,
+    "close": 2910,
+    "volume": 181342135,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 2927,
+    "high": 2927,
+    "low": 2771,
+    "close": 2800.9,
+    "volume": 405338790,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 2820,
+    "high": 2833.95,
+    "low": 2735,
+    "close": 2770.75,
+    "volume": 204034406,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 2777,
+    "high": 2825.65,
+    "low": 2685.3,
+    "close": 2695.5,
+    "volume": 184625939,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 2698.95,
+    "high": 2703.25,
+    "low": 2505,
+    "close": 2575,
+    "volume": 253660386,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 2578.25,
+    "high": 2794.1,
+    "low": 2370,
+    "close": 2416,
+    "volume": 665614082,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 2415.05,
+    "high": 2583.05,
+    "low": 2350,
+    "close": 2460.1,
+    "volume": 489869142,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 2450,
+    "high": 2473,
+    "low": 2352,
+    "close": 2390.45,
+    "volume": 121838676,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 2343.5,
+    "high": 2448.95,
+    "low": 2301.5,
+    "close": 2314,
+    "volume": 178423967,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 2316,
+    "high": 2385.4,
+    "low": 2255.6,
+    "close": 2360,
+    "volume": 260601428,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 2413.9,
+    "high": 2469,
+    "low": 2378.8,
+    "close": 2460,
+    "volume": 155668277,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 2479.8,
+    "high": 2523.55,
+    "low": 2472.5,
+    "close": 2485.4,
+    "volume": 97059386,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 2550,
+    "high": 2574.9,
+    "low": 2411.15,
+    "close": 2418,
+    "volume": 239620895,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 2456.9,
+    "high": 2465.7,
+    "low": 2429,
+    "close": 2454.15,
+    "volume": 84204670,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 2453.25,
+    "high": 2488.85,
+    "low": 2420,
+    "close": 2443.85,
+    "volume": 107876924,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 2420,
+    "high": 2466.4,
+    "low": 2349.7,
+    "close": 2369.9,
+    "volume": 91869616,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 2381.15,
+    "high": 2410,
+    "low": 2318.05,
+    "close": 2324,
+    "volume": 83942625,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 2357.25,
+    "high": 2378.75,
+    "low": 2344.7,
+    "close": 2369,
+    "volume": 118279826,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 2355,
+    "high": 2389.9,
+    "low": 2349.45,
+    "close": 2362.4,
+    "volume": 145552857,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 2281.5,
+    "high": 2345,
+    "low": 2265.05,
+    "close": 2293.1,
+    "volume": 96587736,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 2340,
+    "high": 2379.5,
+    "low": 2201.1,
+    "close": 2352,
+    "volume": 134904550,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 2379,
+    "high": 2379,
+    "low": 2302.25,
+    "close": 2310,
+    "volume": 78637658,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 2345.95,
+    "high": 2345.95,
+    "low": 2240,
+    "close": 2250,
+    "volume": 130909047,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 2269.25,
+    "high": 2269.25,
+    "low": 2201.1,
+    "close": 2204.55,
+    "volume": 57990096,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 2153,
+    "high": 2186.3,
+    "low": 2110,
+    "close": 2135,
+    "volume": 134327609,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 2101.25,
+    "high": 2198.9,
+    "low": 2073.05,
+    "close": 2100,
+    "volume": 203543655,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 2123.95,
+    "high": 2229.5,
+    "low": 2123.9,
+    "close": 2219.85,
+    "volume": 156224794,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 2180,
+    "high": 2209.2,
+    "low": 2053,
+    "close": 2135.95,
+    "volume": 152326509,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 2133.35,
+    "high": 2232,
+    "low": 2133.35,
+    "close": 2170,
+    "volume": 86711693,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 2197.25,
+    "high": 2197.25,
+    "low": 2101.95,
+    "close": 2173,
+    "volume": 115558902,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 2151,
+    "high": 2197.85,
+    "low": 2121.1,
+    "close": 2125,
+    "volume": 62272127,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 2149.25,
+    "high": 2193.6,
+    "low": 2135.6,
+    "close": 2188.85,
+    "volume": 71106596,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 2164,
+    "high": 2267.6,
+    "low": 2141.7,
+    "close": 2232,
+    "volume": 182222425,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 2175.25,
+    "high": 2385,
+    "low": 2162.05,
+    "close": 2320,
+    "volume": 235290291,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 2306.2,
+    "high": 2449.9,
+    "low": 2306.2,
+    "close": 2415,
+    "volume": 232882242,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 2415,
+    "high": 2519,
+    "low": 2415,
+    "close": 2455,
+    "volume": 157506771,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 2514,
+    "high": 2542,
+    "low": 2437.4,
+    "close": 2459.95,
+    "volume": 145295143,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 2430.35,
+    "high": 2549.9,
+    "low": 2420.05,
+    "close": 2489.4,
+    "volume": 280655380,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 2516.25,
+    "high": 2549.9,
+    "low": 2419.7,
+    "close": 2448.55,
+    "volume": 188635685,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 2462,
+    "high": 2495.35,
+    "low": 2407,
+    "close": 2438,
+    "volume": 154981560,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 2460,
+    "high": 2478.55,
+    "low": 2400.5,
+    "close": 2450,
+    "volume": 47810656,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 2454.25,
+    "high": 2454.25,
+    "low": 2314,
+    "close": 2329.35,
+    "volume": 109405060,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 2334,
+    "high": 2357.25,
+    "low": 2290,
+    "close": 2307,
+    "volume": 66973183,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 2301,
+    "high": 2395,
+    "low": 2301,
+    "close": 2365,
+    "volume": 102913446,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 2376.1,
+    "high": 2429,
+    "low": 2350,
+    "close": 2360.8,
+    "volume": 68317278,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 2355,
+    "high": 2393.65,
+    "low": 2263.55,
+    "close": 2390,
+    "volume": 263538856,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 2384.95,
+    "high": 2384.95,
+    "low": 2291,
+    "close": 2292.1,
+    "volume": 97724971,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 2267,
+    "high": 2298.95,
+    "low": 2222,
+    "close": 2258,
+    "volume": 95330509,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 2274.85,
+    "high": 2328.95,
+    "low": 2223,
+    "close": 2308,
+    "volume": 182552215,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 2329,
+    "high": 2359,
+    "low": 2300,
+    "close": 2328.85,
+    "volume": 110948735,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 2345.8,
+    "high": 2400,
+    "low": 2304.8,
+    "close": 2378,
+    "volume": 178568121,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 2408,
+    "high": 2408,
+    "low": 2331.6,
+    "close": 2363,
+    "volume": 127015841,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 2384,
+    "high": 2397.95,
+    "low": 2354,
+    "close": 2381.75,
+    "volume": 74703096,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 2368,
+    "high": 2439.7,
+    "low": 2365,
+    "close": 2427.5,
+    "volume": 148173882,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 2409.85,
+    "high": 2523,
+    "low": 2409.85,
+    "close": 2515,
+    "volume": 181880861,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 2530.55,
+    "high": 2553.85,
+    "low": 2459.35,
+    "close": 2489,
+    "volume": 125662255,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 2482,
+    "high": 2535,
+    "low": 2451.05,
+    "close": 2517,
+    "volume": 59843802,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 2541.25,
+    "high": 2544.7,
+    "low": 2412.1,
+    "close": 2448,
+    "volume": 75641268,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 2439,
+    "high": 2439,
+    "low": 2348,
+    "close": 2350.15,
+    "volume": 68344175,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 2377,
+    "high": 2420,
+    "low": 2372.85,
+    "close": 2401.15,
+    "volume": 36424311,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 2393,
+    "high": 2393.4,
+    "low": 2350,
+    "close": 2355,
+    "volume": 97815675,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 2355,
+    "high": 2498.9,
+    "low": 2350.8,
+    "close": 2412.55,
+    "volume": 155980568,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 2441,
+    "high": 2448.1,
+    "low": 2332.65,
+    "close": 2448,
+    "volume": 224534504,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 2440,
+    "high": 2461.15,
+    "low": 2404.15,
+    "close": 2432.6,
+    "volume": 65112537,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 2432,
+    "high": 2456.3,
+    "low": 2355,
+    "close": 2377.6,
+    "volume": 102083409,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 2351,
+    "high": 2397.8,
+    "low": 2313,
+    "close": 2330,
+    "volume": 52040882,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 2350,
+    "high": 2392.95,
+    "low": 2336,
+    "close": 2375.05,
+    "volume": 72932365,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 2362,
+    "high": 2380,
+    "low": 2289.95,
+    "close": 2370,
+    "volume": 42229458,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 2370,
+    "high": 2490,
+    "low": 2367.65,
+    "close": 2423.25,
+    "volume": 95630743,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 2453.25,
+    "high": 2453.25,
+    "low": 2390,
+    "close": 2412,
+    "volume": 45528976,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 2388,
+    "high": 2398,
+    "low": 2321.4,
+    "close": 2351.25,
+    "volume": 49320530,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 2351.05,
+    "high": 2365.75,
+    "low": 2260,
+    "close": 2269.5,
+    "volume": 89577966,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 2285,
+    "high": 2357.8,
+    "low": 2272.55,
+    "close": 2318,
+    "volume": 44588683,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 2291,
+    "high": 2291,
+    "low": 2212.6,
+    "close": 2224,
+    "volume": 36411887,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 2219.25,
+    "high": 2234.35,
+    "low": 2160,
+    "close": 2178,
+    "volume": 43005426,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 2172,
+    "high": 2222.75,
+    "low": 2100,
+    "close": 2147.9,
+    "volume": 48028285,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 2111,
+    "high": 2122.9,
+    "low": 2055.05,
+    "close": 2079.15,
+    "volume": 79457366,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 2065.2,
+    "high": 2150,
+    "low": 2027.6,
+    "close": 2100.1,
+    "volume": 80231581,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 2147,
+    "high": 2189,
+    "low": 2101.25,
+    "close": 2130,
+    "volume": 40294930,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 2142.1,
+    "high": 2200,
+    "low": 2125.1,
+    "close": 2187.6,
+    "volume": 40933486,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 2200,
+    "high": 2242.4,
+    "low": 2180,
+    "close": 2242.4,
+    "volume": 25676220,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 2246.9,
+    "high": 2272.75,
+    "low": 2151.15,
+    "close": 2162,
+    "volume": 31129734,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 2125.15,
+    "high": 2149.85,
+    "low": 2095,
+    "close": 2142.15,
+    "volume": 64048175,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 2141.1,
+    "high": 2205,
+    "low": 2141.1,
+    "close": 2193.45,
+    "volume": 94472421,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 2203,
+    "high": 2235,
+    "low": 2166.05,
+    "close": 2172.2,
+    "volume": 30479388,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 2199,
+    "high": 2358,
+    "low": 2181.2,
+    "close": 2184.05,
+    "volume": 224672718,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 2220,
+    "high": 2266.75,
+    "low": 2070.15,
+    "close": 2100,
+    "volume": 129283844,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 2085,
+    "high": 2122.6,
+    "low": 1975.15,
+    "close": 2047,
+    "volume": 104889552,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 1990,
+    "high": 2071.3,
+    "low": 1915.4,
+    "close": 2055,
+    "volume": 197846001,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 2065,
+    "high": 2134.95,
+    "low": 2050,
+    "close": 2116.4,
+    "volume": 142956920,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 2115.95,
+    "high": 2115.95,
+    "low": 2016.05,
+    "close": 2019,
+    "volume": 117323320,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 2034,
+    "high": 2180.35,
+    "low": 1991,
+    "close": 2123,
+    "volume": 183344849,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 2111,
+    "high": 2157,
+    "low": 2095,
+    "close": 2104.25,
+    "volume": 66611538,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 2134.25,
+    "high": 2155,
+    "low": 2106.15,
+    "close": 2120,
+    "volume": 54347116,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 2100.1,
+    "high": 2131.95,
+    "low": 2081.1,
+    "close": 2110.7,
+    "volume": 37361835,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 2101.05,
+    "high": 2126.35,
+    "low": 2086,
+    "close": 2103,
+    "volume": 38928761,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 2119.25,
+    "high": 2129.05,
+    "low": 2087,
+    "close": 2113.3,
+    "volume": 26029910,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 2114,
+    "high": 2131,
+    "low": 2094.8,
+    "close": 2107,
+    "volume": 17484296,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 2119,
+    "high": 2125.25,
+    "low": 2100,
+    "close": 2124.95,
+    "volume": 21402733,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 2118.9,
+    "high": 2118.9,
+    "low": 2045.8,
+    "close": 2067.4,
+    "volume": 60722349,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 2064.9,
+    "high": 2105.6,
+    "low": 2032,
+    "close": 2053.9,
+    "volume": 33503006,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 2023.5,
+    "high": 2105.45,
+    "low": 2023.5,
+    "close": 2068.65,
+    "volume": 73904301,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 2079,
+    "high": 2091.5,
+    "low": 1873,
+    "close": 1940,
+    "volume": 246732482,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 1939.95,
+    "high": 1949.85,
+    "low": 1833.95,
+    "close": 1880,
+    "volume": 74829446,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 1899.85,
+    "high": 1903,
+    "low": 1869.8,
+    "close": 1881,
+    "volume": 103495349,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 1882,
+    "high": 1902,
+    "low": 1868,
+    "close": 1885,
+    "volume": 62557819,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 1890,
+    "high": 1940,
+    "low": 1861,
+    "close": 1882,
+    "volume": 121962898,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 1889,
+    "high": 1928.4,
+    "low": 1889,
+    "close": 1907.65,
+    "volume": 54220945,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 1931,
+    "high": 1978.45,
+    "low": 1909,
+    "close": 1920.9,
+    "volume": 62050854,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 1944.25,
+    "high": 2000,
+    "low": 1944,
+    "close": 1980,
+    "volume": 33692721,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 1971,
+    "high": 1987.85,
+    "low": 1905,
+    "close": 1929,
+    "volume": 56811876,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 1902,
+    "high": 1984.7,
+    "low": 1902,
+    "close": 1919.2,
+    "volume": 55576710,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 1905.2,
+    "high": 1951.95,
+    "low": 1905.2,
+    "close": 1911,
+    "volume": 66995777,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 1920.25,
+    "high": 1920.25,
+    "low": 1888.8,
+    "close": 1905.2,
+    "volume": 23805611,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 1929,
+    "high": 1937.85,
+    "low": 1900,
+    "close": 1907,
+    "volume": 58059940,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 1923.25,
+    "high": 1984.85,
+    "low": 1911.1,
+    "close": 1955,
+    "volume": 48398483,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 1978,
+    "high": 1987.5,
+    "low": 1950,
+    "close": 1987,
+    "volume": 20746022,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 1989,
+    "high": 2038.7,
+    "low": 1986.7,
+    "close": 2035,
+    "volume": 24555766,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 2057,
+    "high": 2070,
+    "low": 2040,
+    "close": 2055,
+    "volume": 33145513,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 2042.2,
+    "high": 2070.75,
+    "low": 2016.9,
+    "close": 2026.8,
+    "volume": 60517635,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 2045.9,
+    "high": 2082.4,
+    "low": 2027.8,
+    "close": 2045,
+    "volume": 31752790,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 2078,
+    "high": 2078,
+    "low": 2043.2,
+    "close": 2070,
+    "volume": 16977082,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 2068,
+    "high": 2093.8,
+    "low": 2030.9,
+    "close": 2065,
+    "volume": 48234775,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 2073,
+    "high": 2135,
+    "low": 2050,
+    "close": 2122.8,
+    "volume": 88222570,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 2130,
+    "high": 2148.9,
+    "low": 2092.85,
+    "close": 2102.2,
+    "volume": 58124612,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 2109.85,
+    "high": 2152.8,
+    "low": 2096.75,
+    "close": 2131.7,
+    "volume": 22558016,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 2155,
+    "high": 2220,
+    "low": 2131,
+    "close": 2189.65,
+    "volume": 46262963,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 2195,
+    "high": 2294.9,
+    "low": 2195,
+    "close": 2220,
+    "volume": 91174201,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 2238.65,
+    "high": 2256.95,
+    "low": 2182,
+    "close": 2214.2,
+    "volume": 47651969,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 2220.6,
+    "high": 2225.8,
+    "low": 2175.55,
+    "close": 2188.35,
+    "volume": 12666096,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 2190,
+    "high": 2198.45,
+    "low": 2121,
+    "close": 2121,
+    "volume": 30992509,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 2129.9,
+    "high": 2150,
+    "low": 2113.55,
+    "close": 2122.65,
+    "volume": 26247094,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 2139,
+    "high": 2160,
+    "low": 2101.1,
+    "close": 2107.2,
+    "volume": 57648974,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 2119.1,
+    "high": 2194.95,
+    "low": 2118.85,
+    "close": 2170,
+    "volume": 72765454,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 2193,
+    "high": 2193,
+    "low": 2166.05,
+    "close": 2174.95,
+    "volume": 35015175,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 2172.05,
+    "high": 2213.05,
+    "low": 2172.05,
+    "close": 2186,
+    "volume": 58620336,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 2376,
+    "high": 2516,
+    "low": 2262,
+    "close": 2288,
+    "volume": 1423636116,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 2305,
+    "high": 2340,
+    "low": 2262.05,
+    "close": 2279,
+    "volume": 152579166,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 2308.2,
+    "high": 2308.2,
+    "low": 2262.05,
+    "close": 2282,
+    "volume": 78111149,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 2299,
+    "high": 2339,
+    "low": 2284,
+    "close": 2305,
+    "volume": 116068936,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 2270,
+    "high": 2275.7,
+    "low": 2130.1,
+    "close": 2136,
+    "volume": 301770107,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 2169,
+    "high": 2187.9,
+    "low": 2146,
+    "close": 2163,
+    "volume": 345160088,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 2163,
+    "high": 2231.7,
+    "low": 2148.3,
+    "close": 2209,
+    "volume": 108180725,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 2234.45,
+    "high": 2245,
+    "low": 2205.05,
+    "close": 2215,
+    "volume": 50580024,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 2201,
+    "high": 2240,
+    "low": 2200.6,
+    "close": 2239.95,
+    "volume": 76096259,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 2234.8,
+    "high": 2275.05,
+    "low": 2204.9,
+    "close": 2245.15,
+    "volume": 103085669,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 2258,
+    "high": 2295,
+    "low": 2240.2,
+    "close": 2242.55,
+    "volume": 61542568,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 2240,
+    "high": 2240,
+    "low": 2206.35,
+    "close": 2235,
+    "volume": 43448110,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 2215,
+    "high": 2250,
+    "low": 2191.75,
+    "close": 2230.25,
+    "volume": 51499561,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 2239,
+    "high": 2268,
+    "low": 2230.4,
+    "close": 2245,
+    "volume": 33810300,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 2210,
+    "high": 2236.75,
+    "low": 2195.15,
+    "close": 2206.25,
+    "volume": 172298395,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 2222.25,
+    "high": 2227.95,
+    "low": 2196,
+    "close": 2200,
+    "volume": 40377625,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 2168,
+    "high": 2189.9,
+    "low": 2144,
+    "close": 2147.85,
+    "volume": 78216675,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 2149,
+    "high": 2181,
+    "low": 2100,
+    "close": 2106,
+    "volume": 100512117,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 2110,
+    "high": 2142,
+    "low": 2085,
+    "close": 2120.75,
+    "volume": 59776687,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 2135.95,
+    "high": 2175.1,
+    "low": 2112.7,
+    "close": 2158,
+    "volume": 59108686,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 2151.3,
+    "high": 2173,
+    "low": 2131.25,
+    "close": 2160.4,
+    "volume": 40558056,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 2168,
+    "high": 2170,
+    "low": 2128.1,
+    "close": 2137.5,
+    "volume": 47150215,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 2132,
+    "high": 2187.75,
+    "low": 2132,
+    "close": 2174,
+    "volume": 38926916,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 2176,
+    "high": 2226,
+    "low": 2170.35,
+    "close": 2220,
+    "volume": 48496865,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 2230,
+    "high": 2249.95,
+    "low": 2201.25,
+    "close": 2228,
+    "volume": 50242244,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 2231,
+    "high": 2275.05,
+    "low": 2220,
+    "close": 2231,
+    "volume": 84968163,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 2284.8,
+    "high": 2370,
+    "low": 2275.7,
+    "close": 2310,
+    "volume": 302635612,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 2280,
+    "high": 2329,
+    "low": 2272.25,
+    "close": 2307,
+    "volume": 83451364,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 2315,
+    "high": 2329,
+    "low": 2289.95,
+    "close": 2290,
+    "volume": 63698183,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 2314,
+    "high": 2323.85,
+    "low": 2211,
+    "close": 2215,
+    "volume": 105198074,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 2239,
+    "high": 2242.1,
+    "low": 2132.45,
+    "close": 2155,
+    "volume": 122164823,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 2169,
+    "high": 2218.55,
+    "low": 2132.9,
+    "close": 2171,
+    "volume": 87766524,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 1529,
+    "high": 1545,
+    "low": 1512,
+    "close": 1525,
+    "volume": 276512203,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 1519,
+    "high": 1521.95,
+    "low": 1456.6,
+    "close": 1500,
+    "volume": 72512349,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 1492.8,
+    "high": 1499.1,
+    "low": 1462.6,
+    "close": 1468,
+    "volume": 22539741,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 1474,
+    "high": 1495,
+    "low": 1425,
+    "close": 1472,
+    "volume": 66502704,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 1489,
+    "high": 1500,
+    "low": 1459.3,
+    "close": 1499,
+    "volume": 42454241,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 1490,
+    "high": 1490,
+    "low": 1450,
+    "close": 1460,
+    "volume": 22876432,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 1469,
+    "high": 1480,
+    "low": 1440,
+    "close": 1451.65,
+    "volume": 20621510,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 1450,
+    "high": 1454.3,
+    "low": 1420,
+    "close": 1424.15,
+    "volume": 51500823,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 1424,
+    "high": 1435.45,
+    "low": 1371.95,
+    "close": 1403.05,
+    "volume": 28579813,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 1402,
+    "high": 1419,
+    "low": 1377.9,
+    "close": 1391,
+    "volume": 44527424,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 1399,
+    "high": 1439.85,
+    "low": 1392.8,
+    "close": 1423.1,
+    "volume": 85609830,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 1421,
+    "high": 1500,
+    "low": 1393.75,
+    "close": 1460,
+    "volume": 200913637,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 1445,
+    "high": 1446.1,
+    "low": 1420,
+    "close": 1433.8,
+    "volume": 22636514,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 1435,
+    "high": 1435.6,
+    "low": 1350.1,
+    "close": 1364.5,
+    "volume": 53221347,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 1368.35,
+    "high": 1377.7,
+    "low": 1335,
+    "close": 1352.2,
+    "volume": 47475999,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 1349.9,
+    "high": 1354.9,
+    "low": 1301,
+    "close": 1321,
+    "volume": 40502241,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 1324.95,
+    "high": 1339.45,
+    "low": 1299,
+    "close": 1315,
+    "volume": 67397989,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 1310,
+    "high": 1323.05,
+    "low": 1301.05,
+    "close": 1307,
+    "volume": 27197145,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 1313,
+    "high": 1330,
+    "low": 1301,
+    "close": 1309,
+    "volume": 26705038,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 1312.4,
+    "high": 1312.4,
+    "low": 1284.05,
+    "close": 1290,
+    "volume": 36680347,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 1293.8,
+    "high": 1323,
+    "low": 1272,
+    "close": 1287.8,
+    "volume": 32606834,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 1285.35,
+    "high": 1295.5,
+    "low": 1275.35,
+    "close": 1287.15,
+    "volume": 16311787,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 1278,
+    "high": 1300,
+    "low": 1277,
+    "close": 1297.75,
+    "volume": 5366564,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 1303.45,
+    "high": 1313,
+    "low": 1286.8,
+    "close": 1301.9,
+    "volume": 18995839,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 1301,
+    "high": 1310.55,
+    "low": 1276,
+    "close": 1287.65,
+    "volume": 46511776,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 1271,
+    "high": 1281.3,
+    "low": 1254,
+    "close": 1267.05,
+    "volume": 14373505,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 1275,
+    "high": 1326,
+    "low": 1272.25,
+    "close": 1317.45,
+    "volume": 40997233,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 1326.3,
+    "high": 1349,
+    "low": 1312.05,
+    "close": 1325,
+    "volume": 44332414,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 1330,
+    "high": 1330,
+    "low": 1296.75,
+    "close": 1310,
+    "volume": 73502255,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 1293,
+    "high": 1333.45,
+    "low": 1293,
+    "close": 1328,
+    "volume": 28293784,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 1365,
+    "high": 1399.9,
+    "low": 1337.5,
+    "close": 1349,
+    "volume": 173927298,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 1360,
+    "high": 1362,
+    "low": 1332.95,
+    "close": 1341.05,
+    "volume": 23092564,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 1359.9,
+    "high": 1375,
+    "low": 1325.7,
+    "close": 1372.85,
+    "volume": 32721104,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 1364.9,
+    "high": 1378.75,
+    "low": 1350,
+    "close": 1374,
+    "volume": 55461084,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 1429.9,
+    "high": 1494.9,
+    "low": 1392.05,
+    "close": 1398,
+    "volume": 663398629,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 1409,
+    "high": 1434.35,
+    "low": 1398.4,
+    "close": 1417.3,
+    "volume": 82632703,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 1409,
+    "high": 1433.5,
+    "low": 1409,
+    "close": 1424,
+    "volume": 30190930,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 1445,
+    "high": 1468.5,
+    "low": 1430.5,
+    "close": 1437.25,
+    "volume": 97194407,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 1435,
+    "high": 1448.95,
+    "low": 1415,
+    "close": 1420,
+    "volume": 41840212,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 1424,
+    "high": 1438,
+    "low": 1391,
+    "close": 1391,
+    "volume": 49381391,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 1406.05,
+    "high": 1413.15,
+    "low": 1390.95,
+    "close": 1399.8,
+    "volume": 82992233,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 1404.6,
+    "high": 1421,
+    "low": 1395.25,
+    "close": 1399.4,
+    "volume": 39976796,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 1405.1,
+    "high": 1421,
+    "low": 1404.3,
+    "close": 1408.2,
+    "volume": 22447783,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 1414.9,
+    "high": 1438.85,
+    "low": 1414.1,
+    "close": 1432,
+    "volume": 82635176,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 1435,
+    "high": 1468.9,
+    "low": 1427,
+    "close": 1430,
+    "volume": 111536616,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 1436.5,
+    "high": 1462.95,
+    "low": 1430.05,
+    "close": 1459,
+    "volume": 199200002,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 1464.85,
+    "high": 1483,
+    "low": 1421.05,
+    "close": 1430.8,
+    "volume": 83962869,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 1433.8,
+    "high": 1457.5,
+    "low": 1433.8,
+    "close": 1444.15,
+    "volume": 62061154,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 1457.9,
+    "high": 1469,
+    "low": 1441.1,
+    "close": 1447.9,
+    "volume": 73909292,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 1454,
+    "high": 1471.05,
+    "low": 1446.1,
+    "close": 1450,
+    "volume": 64268944,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 1464,
+    "high": 1473.55,
+    "low": 1435,
+    "close": 1436.9,
+    "volume": 44681364,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 1440,
+    "high": 1446.9,
+    "low": 1414,
+    "close": 1416,
+    "volume": 52694001,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 1425.4,
+    "high": 1425.4,
+    "low": 1408,
+    "close": 1409.5,
+    "volume": 37536033,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 1410,
+    "high": 1425,
+    "low": 1401.2,
+    "close": 1410,
+    "volume": 82414159,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 1410.1,
+    "high": 1415,
+    "low": 1387.65,
+    "close": 1394.8,
+    "volume": 46674834,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 1391,
+    "high": 1402.9,
+    "low": 1390,
+    "close": 1394.9,
+    "volume": 25261009,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 1421.85,
+    "high": 1421.85,
+    "low": 1377.7,
+    "close": 1382,
+    "volume": 53336555,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 1388.65,
+    "high": 1400,
+    "low": 1385.75,
+    "close": 1399.9,
+    "volume": 29048278,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 1414.9,
+    "high": 1418,
+    "low": 1372.55,
+    "close": 1379,
+    "volume": 224633568,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 1381,
+    "high": 1383.15,
+    "low": 1376.7,
+    "close": 1379.6,
+    "volume": 51555520,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 1386.6,
+    "high": 1386.6,
+    "low": 1357,
+    "close": 1360,
+    "volume": 40137624,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 1364.9,
+    "high": 1364.9,
+    "low": 1338,
+    "close": 1339.85,
+    "volume": 55971166,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 1345,
+    "high": 1371,
+    "low": 1341,
+    "close": 1362.95,
+    "volume": 93889327,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 1361,
+    "high": 1395.95,
+    "low": 1351.3,
+    "close": 1390.2,
+    "volume": 69263376,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 1383,
+    "high": 1387,
+    "low": 1354,
+    "close": 1371.5,
+    "volume": 63898996,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 1305.9,
+    "high": 1367.9,
+    "low": 1221,
+    "close": 1331,
+    "volume": 156326507,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 1329,
+    "high": 1335.95,
+    "low": 1305.1,
+    "close": 1319,
+    "volume": 43364189,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 1304.1,
+    "high": 1310,
+    "low": 1293.6,
+    "close": 1296.5,
+    "volume": 29103005,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 1297,
+    "high": 1297.5,
+    "low": 1272.05,
+    "close": 1280,
+    "volume": 36983366,
+    "symbol": "ECLERX"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 1283,
+    "high": 1291.7,
+    "low": 1273.65,
+    "close": 1279.9,
+    "volume": 23955089,
+    "symbol": "ECLERX"
+  }
+]

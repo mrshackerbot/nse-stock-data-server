@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 221,
+    "high": 225.35,
+    "low": 218.4,
+    "close": 221.6,
+    "volume": 4159994350,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 223.75,
+    "high": 225.9,
+    "low": 216.5,
+    "close": 220.3,
+    "volume": 3786925067,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 219,
+    "high": 221.8,
+    "low": 215.6,
+    "close": 218.3,
+    "volume": 4232883048,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 220,
+    "high": 227,
+    "low": 215.85,
+    "close": 219.25,
+    "volume": 6153401498,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 222.65,
+    "high": 238.7,
+    "low": 222.6,
+    "close": 234.2,
+    "volume": 9240490939,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 250,
+    "high": 250.9,
+    "low": 238,
+    "close": 238.85,
+    "volume": 11045433395,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 242.3,
+    "high": 242.45,
+    "low": 230.5,
+    "close": 233.9,
+    "volume": 4387807619,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 232.5,
+    "high": 240.75,
+    "low": 229,
+    "close": 234.2,
+    "volume": 3932021998,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 236.1,
+    "high": 243.4,
+    "low": 222.7,
+    "close": 232.9,
+    "volume": 7044703328,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 235.6,
+    "high": 237.35,
+    "low": 229.4,
+    "close": 232.4,
+    "volume": 3539362202,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 234.8,
+    "high": 239.5,
+    "low": 227.6,
+    "close": 230.5,
+    "volume": 4184085058,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 230.9,
+    "high": 231.85,
+    "low": 213.75,
+    "close": 214.2,
+    "volume": 4270170410,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 217.85,
+    "high": 231.25,
+    "low": 217.05,
+    "close": 229.35,
+    "volume": 4528347977,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 229,
+    "high": 229.9,
+    "low": 224.55,
+    "close": 226,
+    "volume": 2782751215,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 228.35,
+    "high": 233.15,
+    "low": 216,
+    "close": 219.3,
+    "volume": 3783965172,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 217,
+    "high": 222,
+    "low": 207.8,
+    "close": 211.85,
+    "volume": 4294089838,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 215.3,
+    "high": 217.85,
+    "low": 200,
+    "close": 202.1,
+    "volume": 4351984123,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 203.2,
+    "high": 204.7,
+    "low": 195.05,
+    "close": 197.4,
+    "volume": 3383906990,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 195,
+    "high": 198.45,
+    "low": 191.7,
+    "close": 193.2,
+    "volume": 2983975477,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 196,
+    "high": 199.2,
+    "low": 188.6,
+    "close": 191.65,
+    "volume": 3134426303,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 192.75,
+    "high": 207.3,
+    "low": 187.8,
+    "close": 206.6,
+    "volume": 3941452919,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 208.5,
+    "high": 218.5,
+    "low": 208.2,
+    "close": 213.35,
+    "volume": 4771698025,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 214.75,
+    "high": 221.15,
+    "low": 211.8,
+    "close": 217.8,
+    "volume": 3861455431,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 217,
+    "high": 226.4,
+    "low": 214.5,
+    "close": 221.65,
+    "volume": 5662245405,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 223.95,
+    "high": 225.85,
+    "low": 213,
+    "close": 215.25,
+    "volume": 3165136145,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 217.25,
+    "high": 221.3,
+    "low": 215.5,
+    "close": 218.05,
+    "volume": 2163387607,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 219.3,
+    "high": 225.3,
+    "low": 214.45,
+    "close": 218.2,
+    "volume": 3602277510,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 219.1,
+    "high": 234.4,
+    "low": 217.05,
+    "close": 234,
+    "volume": 9937144069,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 233,
+    "high": 238.3,
+    "low": 230.1,
+    "close": 232.2,
+    "volume": 4677055300,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 233.7,
+    "high": 240.5,
+    "low": 229.85,
+    "close": 233.25,
+    "volume": 7783240244,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 233,
+    "high": 236.35,
+    "low": 220.3,
+    "close": 221.8,
+    "volume": 8763778131,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 223.45,
+    "high": 229.4,
+    "low": 218.55,
+    "close": 225.5,
+    "volume": 4494968392,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 225.5,
+    "high": 227.85,
+    "low": 220.25,
+    "close": 221.25,
+    "volume": 3382541983,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 223.55,
+    "high": 233.9,
+    "low": 221.55,
+    "close": 232.15,
+    "volume": 5325497954,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 232,
+    "high": 247.4,
+    "low": 223.3,
+    "close": 228.8,
+    "volume": 13339721368,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 228.3,
+    "high": 231.75,
+    "low": 217.6,
+    "close": 219,
+    "volume": 4352809548,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 221.9,
+    "high": 224.45,
+    "low": 215.05,
+    "close": 215.95,
+    "volume": 3863782527,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 217.85,
+    "high": 220.4,
+    "low": 214,
+    "close": 217.6,
+    "volume": 1404853258,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 220,
+    "high": 227.5,
+    "low": 220,
+    "close": 226.45,
+    "volume": 4019983687,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 220,
+    "high": 224.15,
+    "low": 214.6,
+    "close": 217.9,
+    "volume": 4224573461,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 222,
+    "high": 224.2,
+    "low": 216.85,
+    "close": 222.45,
+    "volume": 3090835410,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 224.25,
+    "high": 235.5,
+    "low": 223.25,
+    "close": 228.55,
+    "volume": 6070815688,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 231.1,
+    "high": 251,
+    "low": 229.5,
+    "close": 249.5,
+    "volume": 10929494965,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 245,
+    "high": 250.65,
+    "low": 242.1,
+    "close": 243,
+    "volume": 7480472361,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 243,
+    "high": 243.85,
+    "low": 227.1,
+    "close": 232,
+    "volume": 5065894762,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 235.5,
+    "high": 239.95,
+    "low": 229.5,
+    "close": 230.4,
+    "volume": 3528187262,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 233,
+    "high": 240,
+    "low": 222.15,
+    "close": 228.9,
+    "volume": 4873881915,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 231.65,
+    "high": 234.45,
+    "low": 226.4,
+    "close": 229.35,
+    "volume": 2696544256,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 232.45,
+    "high": 234.7,
+    "low": 222.5,
+    "close": 222.8,
+    "volume": 2935944288,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 224.95,
+    "high": 224.95,
+    "low": 212.75,
+    "close": 218.4,
+    "volume": 3516590303,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 219.5,
+    "high": 226,
+    "low": 218.4,
+    "close": 221.3,
+    "volume": 3985368470,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 222.95,
+    "high": 223.75,
+    "low": 213.5,
+    "close": 214.75,
+    "volume": 3713296039,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 217.45,
+    "high": 220.2,
+    "low": 211.2,
+    "close": 215.8,
+    "volume": 3887177448,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 212.5,
+    "high": 218,
+    "low": 207.75,
+    "close": 215.1,
+    "volume": 5638380711,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 216.75,
+    "high": 218.25,
+    "low": 212.2,
+    "close": 213.3,
+    "volume": 3393106806,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 214.35,
+    "high": 216,
+    "low": 211.15,
+    "close": 211.95,
+    "volume": 3586097149,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 212,
+    "high": 212.4,
+    "low": 202,
+    "close": 204,
+    "volume": 3503517910,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 203.5,
+    "high": 203.9,
+    "low": 193.6,
+    "close": 196.55,
+    "volume": 4201413012,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 198.7,
+    "high": 202.65,
+    "low": 196.6,
+    "close": 197.6,
+    "volume": 2986429036,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 201,
+    "high": 201,
+    "low": 193.1,
+    "close": 195.7,
+    "volume": 2102508185,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 196,
+    "high": 201.15,
+    "low": 193.2,
+    "close": 195.9,
+    "volume": 2670533672,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 200.05,
+    "high": 205.5,
+    "low": 196.3,
+    "close": 204.65,
+    "volume": 2860704978,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 204,
+    "high": 204.8,
+    "low": 190.1,
+    "close": 193.6,
+    "volume": 3062499252,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 194.5,
+    "high": 197.6,
+    "low": 192.35,
+    "close": 195.65,
+    "volume": 1622744056,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 196.2,
+    "high": 198.4,
+    "low": 194.45,
+    "close": 195.4,
+    "volume": 1885284281,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 196.8,
+    "high": 197.3,
+    "low": 190.6,
+    "close": 191.05,
+    "volume": 2996331543,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 190.6,
+    "high": 195.6,
+    "low": 188.9,
+    "close": 192.3,
+    "volume": 2785666272,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 186.5,
+    "high": 186.9,
+    "low": 166.55,
+    "close": 169.2,
+    "volume": 4068693838,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 172,
+    "high": 173.4,
+    "low": 166.5,
+    "close": 171.35,
+    "volume": 2819848979,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 169.1,
+    "high": 171.7,
+    "low": 161.1,
+    "close": 164.75,
+    "volume": 3285212777,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 166,
+    "high": 168.5,
+    "low": 164,
+    "close": 165.3,
+    "volume": 2025932683,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 156.2,
+    "high": 162.65,
+    "low": 154.2,
+    "close": 160.45,
+    "volume": 3091084220,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 163.8,
+    "high": 168,
+    "low": 163,
+    "close": 164.6,
+    "volume": 2483133548,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 170,
+    "high": 185.7,
+    "low": 169.25,
+    "close": 175.9,
+    "volume": 10780182870,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 176.05,
+    "high": 179,
+    "low": 173.35,
+    "close": 177.2,
+    "volume": 2514528367,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 179.6,
+    "high": 181.4,
+    "low": 174.1,
+    "close": 179.3,
+    "volume": 1896102451,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 179,
+    "high": 183.15,
+    "low": 177,
+    "close": 181.85,
+    "volume": 2161901175,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 184.7,
+    "high": 192,
+    "low": 183.1,
+    "close": 186.3,
+    "volume": 4219209668,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 188.65,
+    "high": 189.9,
+    "low": 181.3,
+    "close": 181.5,
+    "volume": 2155861395,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 178,
+    "high": 186.2,
+    "low": 177.2,
+    "close": 181.2,
+    "volume": 1838232904,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 178.9,
+    "high": 180.35,
+    "low": 176,
+    "close": 178,
+    "volume": 1357548098,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 180,
+    "high": 187.3,
+    "low": 176.85,
+    "close": 178,
+    "volume": 2680085657,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 180,
+    "high": 181.3,
+    "low": 177.3,
+    "close": 180.2,
+    "volume": 1129951225,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 181.2,
+    "high": 181.4,
+    "low": 174.65,
+    "close": 176.5,
+    "volume": 1356387089,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 178.2,
+    "high": 181.95,
+    "low": 177.5,
+    "close": 179.4,
+    "volume": 1672594495,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 181.25,
+    "high": 188.1,
+    "low": 179.8,
+    "close": 186.9,
+    "volume": 2537544611,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 183.5,
+    "high": 189.6,
+    "low": 182.2,
+    "close": 184.7,
+    "volume": 2435991045,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 186.5,
+    "high": 192.95,
+    "low": 184.5,
+    "close": 187.9,
+    "volume": 2795068154,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 190,
+    "high": 190.55,
+    "low": 182.1,
+    "close": 183.9,
+    "volume": 2284021346,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 185.35,
+    "high": 188.65,
+    "low": 184.35,
+    "close": 187.4,
+    "volume": 1552309612,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 189.4,
+    "high": 194.7,
+    "low": 189,
+    "close": 192.25,
+    "volume": 2169210284,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 192.65,
+    "high": 194.8,
+    "low": 190.55,
+    "close": 192.95,
+    "volume": 1797544010,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 197.45,
+    "high": 216.45,
+    "low": 192.5,
+    "close": 210.9,
+    "volume": 16235865507,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 214,
+    "high": 221.8,
+    "low": 212.1,
+    "close": 215.65,
+    "volume": 7173270966,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 217.8,
+    "high": 222,
+    "low": 215.65,
+    "close": 216.9,
+    "volume": 3468749002,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 219.45,
+    "high": 219.95,
+    "low": 213.85,
+    "close": 215.05,
+    "volume": 2157040051,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 215.15,
+    "high": 227,
+    "low": 215.05,
+    "close": 224.5,
+    "volume": 5994053428,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 225.6,
+    "high": 226.45,
+    "low": 221.7,
+    "close": 225,
+    "volume": 3030546170,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 219.95,
+    "high": 229.9,
+    "low": 217.6,
+    "close": 223.2,
+    "volume": 4822666593,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 223.2,
+    "high": 232.7,
+    "low": 220,
+    "close": 223.05,
+    "volume": 4721801071,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 223.2,
+    "high": 230.3,
+    "low": 219.6,
+    "close": 221.9,
+    "volume": 3226407397,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 223,
+    "high": 227.9,
+    "low": 221.5,
+    "close": 226.8,
+    "volume": 2663250325,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 229.2,
+    "high": 235.6,
+    "low": 228.1,
+    "close": 228.8,
+    "volume": 4961350798,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 229.9,
+    "high": 272.75,
+    "low": 227.75,
+    "close": 263.15,
+    "volume": 16609053594,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 263.5,
+    "high": 263.7,
+    "low": 246.4,
+    "close": 247,
+    "volume": 7484869381,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 249.2,
+    "high": 256.8,
+    "low": 246.05,
+    "close": 252.5,
+    "volume": 5264721622,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 253.5,
+    "high": 275.5,
+    "low": 253.5,
+    "close": 263.55,
+    "volume": 16470763718,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 265.9,
+    "high": 296.8,
+    "low": 264.2,
+    "close": 279.6,
+    "volume": 27044458501,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 279.6,
+    "high": 294.8,
+    "low": 278,
+    "close": 287.55,
+    "volume": 14225561811,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 288,
+    "high": 304,
+    "low": 282.65,
+    "close": 297.25,
+    "volume": 14389571015,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 301.2,
+    "high": 312.45,
+    "low": 300.1,
+    "close": 309.4,
+    "volume": 10814852362,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 312.5,
+    "high": 313.7,
+    "low": 292.45,
+    "close": 296.4,
+    "volume": 16198215567,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 294,
+    "high": 301.5,
+    "low": 281.2,
+    "close": 283,
+    "volume": 9050669679,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 286.95,
+    "high": 288.8,
+    "low": 268.35,
+    "close": 280.55,
+    "volume": 8705093175,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 271.5,
+    "high": 283.6,
+    "low": 268.8,
+    "close": 276.15,
+    "volume": 5831088016,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 280,
+    "high": 288.8,
+    "low": 273.65,
+    "close": 274.25,
+    "volume": 6277914145,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 279,
+    "high": 279,
+    "low": 266.55,
+    "close": 269,
+    "volume": 4922563408,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 270.5,
+    "high": 272.5,
+    "low": 263,
+    "close": 265.5,
+    "volume": 4421926794,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 267.6,
+    "high": 276.4,
+    "low": 263.6,
+    "close": 272.55,
+    "volume": 5492924316,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 273,
+    "high": 278,
+    "low": 266.7,
+    "close": 268.9,
+    "volume": 4189553176,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 270,
+    "high": 270.9,
+    "low": 262,
+    "close": 263.7,
+    "volume": 3261538135,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 266.5,
+    "high": 266.6,
+    "low": 259.85,
+    "close": 260.3,
+    "volume": 3226979735,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 261.05,
+    "high": 263.4,
+    "low": 259,
+    "close": 260.2,
+    "volume": 2249872085,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 261.5,
+    "high": 266.05,
+    "low": 259.15,
+    "close": 259.6,
+    "volume": 2587100460,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 262,
+    "high": 276.7,
+    "low": 260.15,
+    "close": 271.8,
+    "volume": 7874483770,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 271.45,
+    "high": 271.95,
+    "low": 261,
+    "close": 261.5,
+    "volume": 3002037621,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 264.2,
+    "high": 265.65,
+    "low": 258.45,
+    "close": 263.95,
+    "volume": 2209822776,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 262.95,
+    "high": 266.65,
+    "low": 260.4,
+    "close": 261.4,
+    "volume": 1675800155,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 260.65,
+    "high": 271.6,
+    "low": 260.4,
+    "close": 270.9,
+    "volume": 2862411493,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 271.9,
+    "high": 275,
+    "low": 267,
+    "close": 271.4,
+    "volume": 2779664139,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 273,
+    "high": 281,
+    "low": 269.05,
+    "close": 278.95,
+    "volume": 5455801764,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 281,
+    "high": 284.85,
+    "low": 269.25,
+    "close": 270.2,
+    "volume": 7061144347,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 271.1,
+    "high": 272,
+    "low": 265.05,
+    "close": 265.8,
+    "volume": 2168352402,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 266.2,
+    "high": 277,
+    "low": 266.2,
+    "close": 275.55,
+    "volume": 3782128208,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 273,
+    "high": 278.8,
+    "low": 268.5,
+    "close": 270.05,
+    "volume": 2889301530,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 270.85,
+    "high": 276.9,
+    "low": 264.05,
+    "close": 264.6,
+    "volume": 3216970798,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 273,
+    "high": 279,
+    "low": 272,
+    "close": 275.35,
+    "volume": 4177934238,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 277,
+    "high": 285,
+    "low": 272.2,
+    "close": 284.5,
+    "volume": 4877767776,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 284,
+    "high": 297.8,
+    "low": 283,
+    "close": 283.95,
+    "volume": 11626214357,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 286,
+    "high": 289.85,
+    "low": 275.4,
+    "close": 276.45,
+    "volume": 4846296667,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 278.15,
+    "high": 282.4,
+    "low": 269.4,
+    "close": 274.4,
+    "volume": 6360185894,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 275.65,
+    "high": 285,
+    "low": 271,
+    "close": 282.15,
+    "volume": 6594940763,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 282.2,
+    "high": 285.15,
+    "low": 274.65,
+    "close": 275.65,
+    "volume": 3621413549,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 277.95,
+    "high": 291.5,
+    "low": 276.5,
+    "close": 286.35,
+    "volume": 6743764465,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 287,
+    "high": 289.6,
+    "low": 283.4,
+    "close": 284.85,
+    "volume": 3524994741,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 286,
+    "high": 291.5,
+    "low": 270.1,
+    "close": 270.7,
+    "volume": 6304614840,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 272.85,
+    "high": 274.2,
+    "low": 264,
+    "close": 269.35,
+    "volume": 3776195298,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 272,
+    "high": 277.4,
+    "low": 269.2,
+    "close": 270.65,
+    "volume": 2537510303,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 272.2,
+    "high": 274.4,
+    "low": 266.5,
+    "close": 266.65,
+    "volume": 1666094955,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 267.95,
+    "high": 269.05,
+    "low": 248.6,
+    "close": 252.5,
+    "volume": 3332055506,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 253.95,
+    "high": 257.35,
+    "low": 239,
+    "close": 247.25,
+    "volume": 5487894366,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 248.55,
+    "high": 254.3,
+    "low": 246,
+    "close": 248.35,
+    "volume": 2692720171,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 248.5,
+    "high": 253.9,
+    "low": 247,
+    "close": 249.9,
+    "volume": 2217471281,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 249.7,
+    "high": 256.95,
+    "low": 248.1,
+    "close": 253.35,
+    "volume": 2321982296,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 254.65,
+    "high": 256.8,
+    "low": 247.5,
+    "close": 248.1,
+    "volume": 2360589980,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 250.6,
+    "high": 254.5,
+    "low": 239.2,
+    "close": 239.6,
+    "volume": 4217923694,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 237,
+    "high": 241.9,
+    "low": 221.2,
+    "close": 222,
+    "volume": 4357222057,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 227,
+    "high": 229.45,
+    "low": 216.55,
+    "close": 218,
+    "volume": 3952235317,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 220,
+    "high": 228.95,
+    "low": 217.05,
+    "close": 224.6,
+    "volume": 3463726799,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 225.9,
+    "high": 231.85,
+    "low": 222.1,
+    "close": 223.6,
+    "volume": 3141081879,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 223.6,
+    "high": 225.75,
+    "low": 217.25,
+    "close": 219.1,
+    "volume": 2590848907,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 220,
+    "high": 222.9,
+    "low": 217.6,
+    "close": 219.55,
+    "volume": 2402659227,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 221.25,
+    "high": 229.7,
+    "low": 221.25,
+    "close": 228,
+    "volume": 2918912691,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 228.6,
+    "high": 228.9,
+    "low": 221.55,
+    "close": 223.8,
+    "volume": 2585746786,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 224.6,
+    "high": 236.2,
+    "low": 223.2,
+    "close": 232.5,
+    "volume": 4433240712,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 233.2,
+    "high": 238,
+    "low": 230.35,
+    "close": 231.65,
+    "volume": 3347553253,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 232.7,
+    "high": 234.6,
+    "low": 229.4,
+    "close": 230,
+    "volume": 1973522747,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 231.85,
+    "high": 233.8,
+    "low": 230,
+    "close": 230.6,
+    "volume": 1289519382,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 231.5,
+    "high": 232.5,
+    "low": 225.5,
+    "close": 225.8,
+    "volume": 1449497690,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 227,
+    "high": 231,
+    "low": 226.6,
+    "close": 230.15,
+    "volume": 1267961876,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 229.45,
+    "high": 229.8,
+    "low": 226.5,
+    "close": 227.1,
+    "volume": 797344613,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 227,
+    "high": 229.7,
+    "low": 224.6,
+    "close": 229.25,
+    "volume": 1264170416,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 230,
+    "high": 240.35,
+    "low": 229.6,
+    "close": 239.05,
+    "volume": 2667279457,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 240.45,
+    "high": 244.25,
+    "low": 235,
+    "close": 235.1,
+    "volume": 4055925158,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 236.5,
+    "high": 249.9,
+    "low": 235.2,
+    "close": 242.3,
+    "volume": 3797541042,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 243,
+    "high": 243.95,
+    "low": 228,
+    "close": 228.9,
+    "volume": 4311641366,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 228.45,
+    "high": 228.45,
+    "low": 214,
+    "close": 214.5,
+    "volume": 2783142151,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 216.5,
+    "high": 218,
+    "low": 207.05,
+    "close": 208.25,
+    "volume": 3534777967,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 209.75,
+    "high": 224.6,
+    "low": 209.75,
+    "close": 220.3,
+    "volume": 4903465949,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 224,
+    "high": 232,
+    "low": 223.45,
+    "close": 229.3,
+    "volume": 3171790630,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 230.8,
+    "high": 238.2,
+    "low": 221.5,
+    "close": 225.2,
+    "volume": 4115517957,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 228,
+    "high": 234.45,
+    "low": 226.1,
+    "close": 232.5,
+    "volume": 3336328021,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 234.15,
+    "high": 235.3,
+    "low": 223.95,
+    "close": 226.4,
+    "volume": 4334836423,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 224.5,
+    "high": 233.3,
+    "low": 222.55,
+    "close": 228.8,
+    "volume": 3210306820,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 230,
+    "high": 236.5,
+    "low": 229,
+    "close": 232,
+    "volume": 3026299642,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 230.95,
+    "high": 235.45,
+    "low": 227.5,
+    "close": 234.75,
+    "volume": 2507712194,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 237,
+    "high": 244,
+    "low": 235.45,
+    "close": 239.6,
+    "volume": 3790379878,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 239.3,
+    "high": 246,
+    "low": 235.6,
+    "close": 241.7,
+    "volume": 2991680980,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 243.2,
+    "high": 254.3,
+    "low": 239.45,
+    "close": 240,
+    "volume": 8765338219,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 243.7,
+    "high": 250,
+    "low": 242.65,
+    "close": 243.75,
+    "volume": 2753102309,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 245.1,
+    "high": 247.9,
+    "low": 239.55,
+    "close": 240.2,
+    "volume": 1476695220,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 241.7,
+    "high": 246.4,
+    "low": 240.85,
+    "close": 242.35,
+    "volume": 1438053770,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 241,
+    "high": 242.95,
+    "low": 235.1,
+    "close": 237.8,
+    "volume": 1627498114,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 239.65,
+    "high": 242.85,
+    "low": 235.5,
+    "close": 236.4,
+    "volume": 1638773821,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 238.5,
+    "high": 242,
+    "low": 236.6,
+    "close": 238.1,
+    "volume": 2013592827,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 240.5,
+    "high": 250.7,
+    "low": 240.5,
+    "close": 248.5,
+    "volume": 3732955320,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 251.1,
+    "high": 264.65,
+    "low": 248.5,
+    "close": 251,
+    "volume": 10581559465,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 253.45,
+    "high": 255.3,
+    "low": 244.55,
+    "close": 246.2,
+    "volume": 4890882251,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 248,
+    "high": 253.4,
+    "low": 243.35,
+    "close": 249.5,
+    "volume": 4249728269,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 247,
+    "high": 247.25,
+    "low": 224,
+    "close": 229.05,
+    "volume": 7853422124,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 230.1,
+    "high": 232.75,
+    "low": 212.5,
+    "close": 219.8,
+    "volume": 3127531796,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 222.5,
+    "high": 229.9,
+    "low": 222.5,
+    "close": 228,
+    "volume": 2117436345,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 229.7,
+    "high": 230.45,
+    "low": 221.1,
+    "close": 221.35,
+    "volume": 2126477874,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 222.35,
+    "high": 223.5,
+    "low": 209.05,
+    "close": 210.65,
+    "volume": 4146474565,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 212.75,
+    "high": 221.6,
+    "low": 210.85,
+    "close": 216.7,
+    "volume": 4358441647,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 218.2,
+    "high": 220.85,
+    "low": 215.05,
+    "close": 219.05,
+    "volume": 2161902368,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 220.05,
+    "high": 228.5,
+    "low": 219.25,
+    "close": 225.2,
+    "volume": 3168976533,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 226.1,
+    "high": 227.55,
+    "low": 223,
+    "close": 225.6,
+    "volume": 1707332490,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 226.25,
+    "high": 226.85,
+    "low": 225.6,
+    "close": 226.3,
+    "volume": 302077855,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 228,
+    "high": 234,
+    "low": 226.6,
+    "close": 233.9,
+    "volume": 2369695289,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 234,
+    "high": 248.45,
+    "low": 233.35,
+    "close": 244,
+    "volume": 5452504958,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 240.5,
+    "high": 258.5,
+    "low": 238.95,
+    "close": 244.85,
+    "volume": 9568757467,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 245.4,
+    "high": 246.4,
+    "low": 236.05,
+    "close": 237.4,
+    "volume": 2276120830,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 235,
+    "high": 235.65,
+    "low": 226,
+    "close": 229.6,
+    "volume": 3363515792,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 231.35,
+    "high": 232.85,
+    "low": 225.1,
+    "close": 225.6,
+    "volume": 1206083328,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 227,
+    "high": 228.75,
+    "low": 221,
+    "close": 221.9,
+    "volume": 1547888076,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 222,
+    "high": 222.25,
+    "low": 217.85,
+    "close": 218.15,
+    "volume": 1654188224,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 219.4,
+    "high": 220.1,
+    "low": 213,
+    "close": 216.35,
+    "volume": 1606919130,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 217.2,
+    "high": 218.3,
+    "low": 201.45,
+    "close": 205.2,
+    "volume": 2847815575,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 204.65,
+    "high": 217.5,
+    "low": 203.25,
+    "close": 216.5,
+    "volume": 2664507605,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 218.25,
+    "high": 221,
+    "low": 213.55,
+    "close": 214.2,
+    "volume": 2624135695,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 215,
+    "high": 230.1,
+    "low": 212.1,
+    "close": 229.45,
+    "volume": 7812525092,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 224.55,
+    "high": 259.8,
+    "low": 224.55,
+    "close": 242.5,
+    "volume": 27120055509,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 243.8,
+    "high": 245.2,
+    "low": 228.6,
+    "close": 229.9,
+    "volume": 5048780659,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 230.5,
+    "high": 241,
+    "low": 227.1,
+    "close": 228,
+    "volume": 4057113523,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 231.45,
+    "high": 252,
+    "low": 228.85,
+    "close": 248.95,
+    "volume": 10897691456,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 252.1,
+    "high": 259.85,
+    "low": 245.4,
+    "close": 254.1,
+    "volume": 11545645193,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 256.9,
+    "high": 265.95,
+    "low": 252.8,
+    "close": 256.15,
+    "volume": 11220135635,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 255,
+    "high": 256.8,
+    "low": 242.5,
+    "close": 244.5,
+    "volume": 5530633610,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 248,
+    "high": 259.5,
+    "low": 244.7,
+    "close": 247.2,
+    "volume": 8865574810,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 250.2,
+    "high": 254,
+    "low": 247.2,
+    "close": 251,
+    "volume": 3880038305,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 253,
+    "high": 255.25,
+    "low": 246.85,
+    "close": 254,
+    "volume": 4887812909,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 253,
+    "high": 264,
+    "low": 251.3,
+    "close": 262,
+    "volume": 7540859111,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 265,
+    "high": 269,
+    "low": 258,
+    "close": 259,
+    "volume": 5452716034,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 257,
+    "high": 268,
+    "low": 255.15,
+    "close": 267.05,
+    "volume": 5083049748,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 267,
+    "high": 274,
+    "low": 263,
+    "close": 266.75,
+    "volume": 9494374216,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 279,
+    "high": 279,
+    "low": 248.65,
+    "close": 253.8,
+    "volume": 28117572309,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 252.95,
+    "high": 252.95,
+    "low": 215.9,
+    "close": 232.6,
+    "volume": 24144058308,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 225,
+    "high": 230.4,
+    "low": 212.4,
+    "close": 216.6,
+    "volume": 7208204394,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 222,
+    "high": 225.95,
+    "low": 217.15,
+    "close": 218.6,
+    "volume": 4437435204,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 220.8,
+    "high": 225,
+    "low": 219,
+    "close": 222.95,
+    "volume": 3317747351,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 225,
+    "high": 227.45,
+    "low": 223.25,
+    "close": 223.65,
+    "volume": 2288325388,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 225.2,
+    "high": 225.65,
+    "low": 218.1,
+    "close": 219.6,
+    "volume": 2064115297,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 219,
+    "high": 219,
+    "low": 212.55,
+    "close": 216.65,
+    "volume": 2250724856,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 217.55,
+    "high": 222.55,
+    "low": 217.55,
+    "close": 220.1,
+    "volume": 1713559678,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 220.25,
+    "high": 221.8,
+    "low": 215.8,
+    "close": 216.45,
+    "volume": 1844310623,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 216.95,
+    "high": 219.2,
+    "low": 211.55,
+    "close": 213.4,
+    "volume": 4056460722,
+    "symbol": "SAMMAANCAP"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 215.9,
+    "high": 219.65,
+    "low": 215.25,
+    "close": 218,
+    "volume": 4181732548,
+    "symbol": "SAMMAANCAP"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2086.1,
+    "high": 2100,
+    "low": 2079.1,
+    "close": 2094,
+    "volume": 711784117,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2105,
+    "high": 2105,
+    "low": 2080.3,
+    "close": 2094,
+    "volume": 329695483,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2090.1,
+    "high": 2108.3,
+    "low": 2085.5,
+    "close": 2095,
+    "volume": 1538577659,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2093,
+    "high": 2096.5,
+    "low": 2072.8,
+    "close": 2091.5,
+    "volume": 957400921,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2089,
+    "high": 2103.5,
+    "low": 2061.1,
+    "close": 2075,
+    "volume": 415319933,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2077.2,
+    "high": 2077.9,
+    "low": 2033,
+    "close": 2047.1,
+    "volume": 816318009,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2042.3,
+    "high": 2083.8,
+    "low": 2041.8,
+    "close": 2061,
+    "volume": 622998275,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2042.3,
+    "high": 2112,
+    "low": 2042.3,
+    "close": 2099.4,
+    "volume": 995046826,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2091,
+    "high": 2118.5,
+    "low": 2088.9,
+    "close": 2105.5,
+    "volume": 681960620,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2115,
+    "high": 2115,
+    "low": 2082.7,
+    "close": 2097.8,
+    "volume": 472104785,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2092.3,
+    "high": 2110,
+    "low": 2088.6,
+    "close": 2107,
+    "volume": 628685275,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2101.3,
+    "high": 2209.9,
+    "low": 2095.8,
+    "close": 2177.9,
+    "volume": 2448091847,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2175,
+    "high": 2188.1,
+    "low": 2106.4,
+    "close": 2118.8,
+    "volume": 649445071,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2109.1,
+    "high": 2132.1,
+    "low": 2087.6,
+    "close": 2127,
+    "volume": 842828168,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2123.1,
+    "high": 2184,
+    "low": 2120,
+    "close": 2179.5,
+    "volume": 1305507212,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2185,
+    "high": 2185.9,
+    "low": 2158,
+    "close": 2158,
+    "volume": 743538383,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2158,
+    "high": 2165.9,
+    "low": 2128,
+    "close": 2152.5,
+    "volume": 988962826,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2146,
+    "high": 2159.2,
+    "low": 2120,
+    "close": 2153.1,
+    "volume": 612977183,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2154,
+    "high": 2154.2,
+    "low": 2105,
+    "close": 2111,
+    "volume": 838054700,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2083,
+    "high": 2125,
+    "low": 2029.4,
+    "close": 2108,
+    "volume": 2575209801,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2114,
+    "high": 2125,
+    "low": 2069.2,
+    "close": 2096.2,
+    "volume": 502568758,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2100,
+    "high": 2138.8,
+    "low": 2080.3,
+    "close": 2132,
+    "volume": 516941271,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2151,
+    "high": 2159.9,
+    "low": 2103.9,
+    "close": 2138,
+    "volume": 1078001866,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2138.7,
+    "high": 2159.9,
+    "low": 2108.9,
+    "close": 2115,
+    "volume": 667634021,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2116.2,
+    "high": 2152.8,
+    "low": 2111,
+    "close": 2111,
+    "volume": 306819973,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2114.3,
+    "high": 2140,
+    "low": 2088,
+    "close": 2135,
+    "volume": 494321710,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2141,
+    "high": 2162.1,
+    "low": 2127.3,
+    "close": 2152,
+    "volume": 561580704,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2155.6,
+    "high": 2194.1,
+    "low": 2135.5,
+    "close": 2187.4,
+    "volume": 759113596,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2185,
+    "high": 2190.6,
+    "low": 2166,
+    "close": 2170,
+    "volume": 324627227,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2173.4,
+    "high": 2173.4,
+    "low": 2130,
+    "close": 2136,
+    "volume": 305193654,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2128,
+    "high": 2130,
+    "low": 2100.5,
+    "close": 2115.4,
+    "volume": 792872402,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2120.6,
+    "high": 2128.3,
+    "low": 2100.7,
+    "close": 2117,
+    "volume": 326945195,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2118.6,
+    "high": 2161,
+    "low": 2118.6,
+    "close": 2149,
+    "volume": 384221737,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2159.7,
+    "high": 2207.6,
+    "low": 2148.7,
+    "close": 2205,
+    "volume": 829079287,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2215,
+    "high": 2230.5,
+    "low": 2160,
+    "close": 2172.3,
+    "volume": 899553254,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2167.2,
+    "high": 2211.8,
+    "low": 2167.2,
+    "close": 2190.1,
+    "volume": 768386765,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2197.9,
+    "high": 2211.3,
+    "low": 2190.2,
+    "close": 2201,
+    "volume": 403958865,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2199.9,
+    "high": 2240,
+    "low": 2185.7,
+    "close": 2239.9,
+    "volume": 985637270,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2240.1,
+    "high": 2274.8,
+    "low": 2234.1,
+    "close": 2272,
+    "volume": 1861129259,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 2283,
+    "high": 2301.3,
+    "low": 2262.4,
+    "close": 2301,
+    "volume": 1014205738,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 2301,
+    "high": 2301.6,
+    "low": 2243.6,
+    "close": 2253.9,
+    "volume": 1306308006,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2198.8,
+    "high": 2239.9,
+    "low": 2197,
+    "close": 2228.4,
+    "volume": 502789056,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2198.5,
+    "high": 2204.4,
+    "low": 2178.1,
+    "close": 2186,
+    "volume": 597410810,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2191,
+    "high": 2212.2,
+    "low": 2167,
+    "close": 2199,
+    "volume": 565029336,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2200.1,
+    "high": 2220,
+    "low": 2196.4,
+    "close": 2205,
+    "volume": 514760005,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 2193,
+    "high": 2193,
+    "low": 2140.7,
+    "close": 2160,
+    "volume": 666388146,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2160,
+    "high": 2210.7,
+    "low": 2159.2,
+    "close": 2209,
+    "volume": 808616270,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2198.3,
+    "high": 2198.3,
+    "low": 2046,
+    "close": 2051,
+    "volume": 3470729110,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2040,
+    "high": 2040,
+    "low": 1962.2,
+    "close": 1971,
+    "volume": 1665406549,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1969.7,
+    "high": 1995,
+    "low": 1951,
+    "close": 1964,
+    "volume": 1301744028,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1960,
+    "high": 1970.7,
+    "low": 1919,
+    "close": 1938.7,
+    "volume": 695879576,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1949.9,
+    "high": 1958.3,
+    "low": 1930.5,
+    "close": 1933,
+    "volume": 562762767,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1933,
+    "high": 1956,
+    "low": 1928.6,
+    "close": 1942,
+    "volume": 417993261,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1930.1,
+    "high": 1935.2,
+    "low": 1882.6,
+    "close": 1892,
+    "volume": 648019767,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1899.7,
+    "high": 1921.8,
+    "low": 1890,
+    "close": 1904,
+    "volume": 604335959,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1894,
+    "high": 1894,
+    "low": 1838.1,
+    "close": 1850.9,
+    "volume": 623616067,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1872,
+    "high": 1890,
+    "low": 1840,
+    "close": 1876.7,
+    "volume": 549910913,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1894,
+    "high": 1927.7,
+    "low": 1877,
+    "close": 1919,
+    "volume": 1326371666,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1918.7,
+    "high": 1918.7,
+    "low": 1872.1,
+    "close": 1885,
+    "volume": 930057858,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1850,
+    "high": 1857.8,
+    "low": 1782,
+    "close": 1795,
+    "volume": 1644701880,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1822,
+    "high": 1845,
+    "low": 1810.3,
+    "close": 1831.8,
+    "volume": 744742152,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1817,
+    "high": 1836,
+    "low": 1782.1,
+    "close": 1835.3,
+    "volume": 494994882,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1835.7,
+    "high": 1845,
+    "low": 1811.1,
+    "close": 1827,
+    "volume": 639510539,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1822,
+    "high": 1854.7,
+    "low": 1800.7,
+    "close": 1849,
+    "volume": 541496269,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1885,
+    "high": 1915.8,
+    "low": 1869.6,
+    "close": 1907,
+    "volume": 860651059,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1906.6,
+    "high": 1928.1,
+    "low": 1881.9,
+    "close": 1905,
+    "volume": 1152516902,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1925.8,
+    "high": 1942.1,
+    "low": 1903.9,
+    "close": 1938.8,
+    "volume": 838510635,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1910.5,
+    "high": 1928,
+    "low": 1878.1,
+    "close": 1915,
+    "volume": 801207092,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1935,
+    "high": 1951.5,
+    "low": 1916.8,
+    "close": 1937,
+    "volume": 651945656,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1956.1,
+    "high": 1997,
+    "low": 1940,
+    "close": 1971.6,
+    "volume": 739222249,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1977.4,
+    "high": 2121.9,
+    "low": 1969.2,
+    "close": 2108,
+    "volume": 4387989665,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 2119,
+    "high": 2148,
+    "low": 2089.2,
+    "close": 2121.6,
+    "volume": 1239995591,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 2129,
+    "high": 2138.3,
+    "low": 2070.5,
+    "close": 2115,
+    "volume": 945441787,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 2115,
+    "high": 2137,
+    "low": 2093.9,
+    "close": 2110.3,
+    "volume": 953244792,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 2110.3,
+    "high": 2155,
+    "low": 2057.6,
+    "close": 2145,
+    "volume": 1369917985,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 2150.2,
+    "high": 2177.8,
+    "low": 2139,
+    "close": 2162.9,
+    "volume": 1593782942,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 2180,
+    "high": 2190.1,
+    "low": 2135.4,
+    "close": 2140,
+    "volume": 803138081,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 2132.7,
+    "high": 2136.4,
+    "low": 2105,
+    "close": 2131.6,
+    "volume": 771126872,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 2135,
+    "high": 2175.8,
+    "low": 2104.6,
+    "close": 2135,
+    "volume": 838676940,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 2115.2,
+    "high": 2140.2,
+    "low": 2090,
+    "close": 2100,
+    "volume": 771861496,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 2110.2,
+    "high": 2180,
+    "low": 2099.2,
+    "close": 2176,
+    "volume": 1102389655,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 2184,
+    "high": 2185,
+    "low": 2159,
+    "close": 2171.7,
+    "volume": 658787756,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 2198,
+    "high": 2198,
+    "low": 2151.9,
+    "close": 2162,
+    "volume": 469316123,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 2172,
+    "high": 2185,
+    "low": 2144.9,
+    "close": 2170,
+    "volume": 454222053,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 2161.2,
+    "high": 2205.9,
+    "low": 2157.3,
+    "close": 2193.7,
+    "volume": 598154437,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 2196.9,
+    "high": 2204.2,
+    "low": 2132.4,
+    "close": 2140,
+    "volume": 1276876912,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 2139.9,
+    "high": 2157.2,
+    "low": 2118,
+    "close": 2145,
+    "volume": 638989488,
+    "symbol": "COLPAL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 2127.8,
+    "high": 2147,
+    "low": 2111.6,
+    "close": 2133,
+    "volume": 663050006,
+    "symbol": "COLPAL"
+  }
+]

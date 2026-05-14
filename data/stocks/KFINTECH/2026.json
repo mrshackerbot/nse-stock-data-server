@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1083,
+    "high": 1084.6,
+    "low": 1065.7,
+    "close": 1077,
+    "volume": 359935920,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1083.6,
+    "high": 1087.9,
+    "low": 1071.3,
+    "close": 1085,
+    "volume": 363931752,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1088.9,
+    "high": 1102.9,
+    "low": 1077.7,
+    "close": 1096.1,
+    "volume": 1032450851,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1085.2,
+    "high": 1085.5,
+    "low": 1065.5,
+    "close": 1076.8,
+    "volume": 1506474169,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1070.2,
+    "high": 1079.5,
+    "low": 1060.8,
+    "close": 1070.1,
+    "volume": 1104969571,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1069,
+    "high": 1088.2,
+    "low": 1052.5,
+    "close": 1062.2,
+    "volume": 1037309142,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1061,
+    "high": 1070.9,
+    "low": 1051.2,
+    "close": 1061.8,
+    "volume": 1330170614,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1053,
+    "high": 1065.1,
+    "low": 1037,
+    "close": 1050.9,
+    "volume": 1016533700,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1051,
+    "high": 1063,
+    "low": 1037,
+    "close": 1054,
+    "volume": 1116040011,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1054.9,
+    "high": 1074.2,
+    "low": 1049.5,
+    "close": 1070,
+    "volume": 503958739,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1067.8,
+    "high": 1077.7,
+    "low": 1052.7,
+    "close": 1063.3,
+    "volume": 990298918,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1065,
+    "high": 1067.5,
+    "low": 1030,
+    "close": 1034,
+    "volume": 852030378,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1041,
+    "high": 1042,
+    "low": 1001.1,
+    "close": 1007,
+    "volume": 1062146865,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1004.1,
+    "high": 1016.7,
+    "low": 986.4,
+    "close": 1004.9,
+    "volume": 960697257,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1002,
+    "high": 1052,
+    "low": 1001.6,
+    "close": 1031.8,
+    "volume": 821208914,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1042.8,
+    "high": 1053.5,
+    "low": 1016.3,
+    "close": 1020,
+    "volume": 692322810,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1022.8,
+    "high": 1028,
+    "low": 997.6,
+    "close": 1025.9,
+    "volume": 799123564,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1026,
+    "high": 1034.6,
+    "low": 1002.1,
+    "close": 1014.2,
+    "volume": 677432916,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1026,
+    "high": 1027.6,
+    "low": 1005.5,
+    "close": 1019,
+    "volume": 495996832,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1010,
+    "high": 1021,
+    "low": 1001.1,
+    "close": 1012.9,
+    "volume": 455808570,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1012.9,
+    "high": 1014.9,
+    "low": 980,
+    "close": 987,
+    "volume": 424760058,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 972,
+    "high": 1002.9,
+    "low": 958,
+    "close": 1001.9,
+    "volume": 714710378,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1050,
+    "high": 1054.1,
+    "low": 1021.4,
+    "close": 1028.1,
+    "volume": 781418917,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1030.5,
+    "high": 1038,
+    "low": 1010.5,
+    "close": 1019.7,
+    "volume": 1034913240,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1012,
+    "high": 1013.3,
+    "low": 983,
+    "close": 990,
+    "volume": 728746355,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 990.1,
+    "high": 990.2,
+    "low": 951.1,
+    "close": 968.5,
+    "volume": 766673235,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 974,
+    "high": 999.4,
+    "low": 963.3,
+    "close": 995.6,
+    "volume": 785870823,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 989,
+    "high": 1038,
+    "low": 985,
+    "close": 1022,
+    "volume": 1381728728,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1030,
+    "high": 1030,
+    "low": 1015.3,
+    "close": 1019,
+    "volume": 483974760,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1025.1,
+    "high": 1025.1,
+    "low": 982,
+    "close": 984.4,
+    "volume": 872477259,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 980,
+    "high": 983.6,
+    "low": 955.6,
+    "close": 965.5,
+    "volume": 777115817,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 968.1,
+    "high": 1040,
+    "low": 952,
+    "close": 1006.5,
+    "volume": 2279945367,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1010,
+    "high": 1061.4,
+    "low": 1005.9,
+    "close": 1022,
+    "volume": 3065897675,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1034.5,
+    "high": 1041.7,
+    "low": 1012.1,
+    "close": 1038.8,
+    "volume": 1351986717,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1038.8,
+    "high": 1044.7,
+    "low": 1012.5,
+    "close": 1013.3,
+    "volume": 498377210,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1016.5,
+    "high": 1027.5,
+    "low": 1004.9,
+    "close": 1007.6,
+    "volume": 576111392,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1016.9,
+    "high": 1029,
+    "low": 1005.9,
+    "close": 1009,
+    "volume": 779955999,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1009,
+    "high": 1009.5,
+    "low": 988,
+    "close": 1002.5,
+    "volume": 781358812,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1004,
+    "high": 1009.6,
+    "low": 990.3,
+    "close": 998,
+    "volume": 391640049,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1004,
+    "high": 1004,
+    "low": 974.4,
+    "close": 976.8,
+    "volume": 912477304,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 979,
+    "high": 980.6,
+    "low": 955,
+    "close": 956.7,
+    "volume": 920836432,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 934,
+    "high": 956.7,
+    "low": 923.2,
+    "close": 938,
+    "volume": 728067189,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 920,
+    "high": 921,
+    "low": 899.4,
+    "close": 907.5,
+    "volume": 1003224075,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 920.95,
+    "high": 937.4,
+    "low": 911.85,
+    "close": 929.9,
+    "volume": 475996185,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 925,
+    "high": 931.1,
+    "low": 904.75,
+    "close": 914,
+    "volume": 411112572,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 906,
+    "high": 923.3,
+    "low": 873.45,
+    "close": 907.3,
+    "volume": 734446540,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 923,
+    "high": 956.95,
+    "low": 915.55,
+    "close": 949.55,
+    "volume": 858254246,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 945.1,
+    "high": 954.2,
+    "low": 923.65,
+    "close": 926,
+    "volume": 210556198,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 919.1,
+    "high": 922.95,
+    "low": 900.85,
+    "close": 907,
+    "volume": 452799129,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 902.6,
+    "high": 905.85,
+    "low": 889.75,
+    "close": 893,
+    "volume": 459742419,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 893,
+    "high": 913.8,
+    "low": 889.1,
+    "close": 900,
+    "volume": 629406454,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 914.35,
+    "high": 914.35,
+    "low": 892,
+    "close": 901.45,
+    "volume": 930933208,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 907.85,
+    "high": 950,
+    "low": 899.4,
+    "close": 944.5,
+    "volume": 1028823905,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 928.05,
+    "high": 928.05,
+    "low": 906.9,
+    "close": 915,
+    "volume": 564218713,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 917.1,
+    "high": 925,
+    "low": 903.9,
+    "close": 917,
+    "volume": 480247452,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 910,
+    "high": 911.4,
+    "low": 870,
+    "close": 873,
+    "volume": 807217674,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 903,
+    "high": 919.6,
+    "low": 886.6,
+    "close": 906,
+    "volume": 695030222,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 915.05,
+    "high": 947.8,
+    "low": 914,
+    "close": 933.05,
+    "volume": 904848655,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 929.85,
+    "high": 931.05,
+    "low": 904,
+    "close": 912,
+    "volume": 1384610894,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 899,
+    "high": 904.75,
+    "low": 866,
+    "close": 870,
+    "volume": 1010620449,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 914,
+    "high": 920.7,
+    "low": 897,
+    "close": 903,
+    "volume": 419217881,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 892.3,
+    "high": 908.9,
+    "low": 877.45,
+    "close": 905,
+    "volume": 393515462,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 905,
+    "high": 922.8,
+    "low": 887.8,
+    "close": 918.1,
+    "volume": 458215419,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 900.2,
+    "high": 911,
+    "low": 881.7,
+    "close": 909.85,
+    "volume": 1273029956,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 942,
+    "high": 946.9,
+    "low": 914,
+    "close": 920.7,
+    "volume": 1885400117,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 919.35,
+    "high": 921.2,
+    "low": 884.6,
+    "close": 895.45,
+    "volume": 1609987027,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 904,
+    "high": 924.4,
+    "low": 900.55,
+    "close": 911.35,
+    "volume": 1154824186,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 894,
+    "high": 911.95,
+    "low": 882.7,
+    "close": 903.4,
+    "volume": 818717344,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 923.85,
+    "high": 937,
+    "low": 908,
+    "close": 933.1,
+    "volume": 1020959980,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 945,
+    "high": 965.5,
+    "low": 941.1,
+    "close": 956,
+    "volume": 1594816542,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 964.95,
+    "high": 983,
+    "low": 955.05,
+    "close": 977.15,
+    "volume": 2004058004,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 980,
+    "high": 989.5,
+    "low": 960,
+    "close": 971.3,
+    "volume": 1186716613,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 978.35,
+    "high": 1004.1,
+    "low": 975.95,
+    "close": 999.6,
+    "volume": 889195999,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 998,
+    "high": 1006,
+    "low": 980,
+    "close": 990,
+    "volume": 787855188,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 988.85,
+    "high": 991.5,
+    "low": 977,
+    "close": 980,
+    "volume": 571622020,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 980.8,
+    "high": 992.7,
+    "low": 951.35,
+    "close": 954,
+    "volume": 1032694873,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 961.95,
+    "high": 974.5,
+    "low": 958,
+    "close": 960.55,
+    "volume": 383432812,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 964,
+    "high": 966.95,
+    "low": 950.8,
+    "close": 957.1,
+    "volume": 485337101,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 962,
+    "high": 986.4,
+    "low": 958.65,
+    "close": 979,
+    "volume": 971137163,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 936.25,
+    "high": 977,
+    "low": 892,
+    "close": 898.85,
+    "volume": 6277105516,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 902.5,
+    "high": 905.85,
+    "low": 856.7,
+    "close": 865.5,
+    "volume": 2290683727,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 868.25,
+    "high": 908.7,
+    "low": 858.05,
+    "close": 893.75,
+    "volume": 2025865247,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 902,
+    "high": 914.5,
+    "low": 891.5,
+    "close": 913,
+    "volume": 823276357,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 920,
+    "high": 938.1,
+    "low": 915,
+    "close": 922.1,
+    "volume": 1198248181,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 926.5,
+    "high": 927.95,
+    "low": 912.35,
+    "close": 918,
+    "volume": 1200870013,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 905,
+    "high": 911.65,
+    "low": 888.05,
+    "close": 892.3,
+    "volume": 812806211,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 887.3,
+    "high": 892.05,
+    "low": 853.65,
+    "close": 859.65,
+    "volume": 740787381,
+    "symbol": "KFINTECH"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 860,
+    "high": 864.9,
+    "low": 828.15,
+    "close": 833.5,
+    "volume": 903557629,
+    "symbol": "KFINTECH"
+  }
+]

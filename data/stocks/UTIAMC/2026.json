@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1129.6,
+    "high": 1138,
+    "low": 1110,
+    "close": 1122.5,
+    "volume": 62330172,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1115.3,
+    "high": 1132.1,
+    "low": 1110,
+    "close": 1124.9,
+    "volume": 95963713,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1127.6,
+    "high": 1143.9,
+    "low": 1125,
+    "close": 1133.6,
+    "volume": 82455397,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1135,
+    "high": 1137.9,
+    "low": 1120.6,
+    "close": 1134,
+    "volume": 47144832,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1128,
+    "high": 1138,
+    "low": 1117.2,
+    "close": 1136,
+    "volume": 57657992,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1135,
+    "high": 1140.1,
+    "low": 1107,
+    "close": 1110.7,
+    "volume": 58987121,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1100.4,
+    "high": 1109.9,
+    "low": 1076.4,
+    "close": 1082.6,
+    "volume": 197365481,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1075,
+    "high": 1078.6,
+    "low": 1046.9,
+    "close": 1062.8,
+    "volume": 140116154,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1060,
+    "high": 1083.8,
+    "low": 1056.7,
+    "close": 1081.8,
+    "volume": 48896579,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1070.2,
+    "high": 1088.3,
+    "low": 1070.2,
+    "close": 1075.7,
+    "volume": 41988217,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1092.3,
+    "high": 1107.5,
+    "low": 1078.7,
+    "close": 1090,
+    "volume": 81685747,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1082.1,
+    "high": 1100.9,
+    "low": 1071.4,
+    "close": 1095.3,
+    "volume": 50080989,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1090.7,
+    "high": 1090.7,
+    "low": 1061.1,
+    "close": 1068,
+    "volume": 103200571,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1060.6,
+    "high": 1067.4,
+    "low": 1024,
+    "close": 1034,
+    "volume": 248975046,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1037,
+    "high": 1079,
+    "low": 1026.1,
+    "close": 1030,
+    "volume": 101405376,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1030.1,
+    "high": 1036.9,
+    "low": 972.1,
+    "close": 972.1,
+    "volume": 138659198,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 977,
+    "high": 981.8,
+    "low": 927.2,
+    "close": 966,
+    "volume": 203392506,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 966,
+    "high": 996.8,
+    "low": 966,
+    "close": 991,
+    "volume": 58833767,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 991.8,
+    "high": 995.4,
+    "low": 965,
+    "close": 970,
+    "volume": 77005397,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 960,
+    "high": 980,
+    "low": 945.4,
+    "close": 965.1,
+    "volume": 188553310,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 972.95,
+    "high": 990,
+    "low": 961.25,
+    "close": 989,
+    "volume": 50278009,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 989,
+    "high": 1009.5,
+    "low": 962,
+    "close": 1002,
+    "volume": 87743675,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1028,
+    "high": 1054.9,
+    "low": 1015,
+    "close": 1046.4,
+    "volume": 120463885,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1055,
+    "high": 1065,
+    "low": 1035.4,
+    "close": 1061,
+    "volume": 59363940,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1062.85,
+    "high": 1073,
+    "low": 1042.5,
+    "close": 1063.8,
+    "volume": 134168290,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1065.75,
+    "high": 1067.05,
+    "low": 1025.5,
+    "close": 1065,
+    "volume": 148208558,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1072,
+    "high": 1073.3,
+    "low": 1050.1,
+    "close": 1066.55,
+    "volume": 57009431,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1065.25,
+    "high": 1097.4,
+    "low": 1061.25,
+    "close": 1093,
+    "volume": 92972502,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1097.9,
+    "high": 1119.8,
+    "low": 1090.9,
+    "close": 1096,
+    "volume": 106028270,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1085.55,
+    "high": 1096.6,
+    "low": 1075.1,
+    "close": 1080.55,
+    "volume": 56618151,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1062.5,
+    "high": 1079.8,
+    "low": 1052.6,
+    "close": 1071,
+    "volume": 40270130,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1054,
+    "high": 1079.1,
+    "low": 1054,
+    "close": 1070,
+    "volume": 44932679,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1060,
+    "high": 1085.5,
+    "low": 1060,
+    "close": 1085.5,
+    "volume": 32056515,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1080.85,
+    "high": 1090.65,
+    "low": 1066,
+    "close": 1078,
+    "volume": 55094350,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1074.7,
+    "high": 1090.85,
+    "low": 1044.2,
+    "close": 1051,
+    "volume": 39238621,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1045.05,
+    "high": 1071.95,
+    "low": 1033,
+    "close": 1070,
+    "volume": 78701775,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1067.35,
+    "high": 1086,
+    "low": 1064.65,
+    "close": 1079,
+    "volume": 58903493,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1075,
+    "high": 1075,
+    "low": 1041.15,
+    "close": 1052.35,
+    "volume": 78198530,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1051.75,
+    "high": 1066.7,
+    "low": 1039.15,
+    "close": 1049,
+    "volume": 88630366,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1047,
+    "high": 1052.8,
+    "low": 1025.25,
+    "close": 1026,
+    "volume": 42164366,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1028.95,
+    "high": 1028.95,
+    "low": 980.75,
+    "close": 992,
+    "volume": 165968462,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 963,
+    "high": 989.35,
+    "low": 960.3,
+    "close": 973.9,
+    "volume": 66017317,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 948,
+    "high": 966.7,
+    "low": 944.3,
+    "close": 966,
+    "volume": 201534544,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 958.65,
+    "high": 998,
+    "low": 958.65,
+    "close": 992,
+    "volume": 57311501,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 987.65,
+    "high": 988.8,
+    "low": 966.65,
+    "close": 971,
+    "volume": 42380691,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 945.05,
+    "high": 953.95,
+    "low": 927.75,
+    "close": 953,
+    "volume": 71302087,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 958.5,
+    "high": 995.8,
+    "low": 954.3,
+    "close": 990,
+    "volume": 166591933,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 984.05,
+    "high": 997,
+    "low": 975,
+    "close": 980,
+    "volume": 78771092,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 977,
+    "high": 989.7,
+    "low": 956,
+    "close": 981.8,
+    "volume": 42189960,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 969.95,
+    "high": 976.4,
+    "low": 950,
+    "close": 952.45,
+    "volume": 66161657,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 960,
+    "high": 964,
+    "low": 935,
+    "close": 962,
+    "volume": 77680411,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 980,
+    "high": 980,
+    "low": 951.4,
+    "close": 959.8,
+    "volume": 93389476,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 958.55,
+    "high": 979.85,
+    "low": 958.55,
+    "close": 972.8,
+    "volume": 52327972,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 964,
+    "high": 964,
+    "low": 940.25,
+    "close": 946,
+    "volume": 37914136,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 952.3,
+    "high": 967.45,
+    "low": 935.1,
+    "close": 938.45,
+    "volume": 54268183,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 932,
+    "high": 933.7,
+    "low": 896.5,
+    "close": 912,
+    "volume": 83811871,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 924.25,
+    "high": 937.45,
+    "low": 907,
+    "close": 928.8,
+    "volume": 58324349,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 931,
+    "high": 977,
+    "low": 931,
+    "close": 962,
+    "volume": 102299326,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 951,
+    "high": 968,
+    "low": 935,
+    "close": 938.55,
+    "volume": 100768126,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 931.95,
+    "high": 943.8,
+    "low": 914.55,
+    "close": 940,
+    "volume": 172030523,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 974.95,
+    "high": 974.95,
+    "low": 944,
+    "close": 950,
+    "volume": 128026630,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 942.2,
+    "high": 946.1,
+    "low": 926.5,
+    "close": 940,
+    "volume": 78400015,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 944.85,
+    "high": 954.95,
+    "low": 931.55,
+    "close": 944.1,
+    "volume": 88653391,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 949.05,
+    "high": 949.95,
+    "low": 929.05,
+    "close": 930,
+    "volume": 77284075,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 949,
+    "high": 980,
+    "low": 948,
+    "close": 965,
+    "volume": 834643522,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 974.9,
+    "high": 988.05,
+    "low": 935,
+    "close": 942.95,
+    "volume": 298418876,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 952,
+    "high": 978.8,
+    "low": 945.05,
+    "close": 970.1,
+    "volume": 268495296,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 954,
+    "high": 967.45,
+    "low": 943,
+    "close": 959.95,
+    "volume": 162021125,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 974.8,
+    "high": 1016.85,
+    "low": 972.6,
+    "close": 1011.8,
+    "volume": 589423554,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1025,
+    "high": 1025,
+    "low": 993,
+    "close": 1000,
+    "volume": 325232802,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1000,
+    "high": 1042.2,
+    "low": 1000,
+    "close": 1036.85,
+    "volume": 325505201,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1048,
+    "high": 1048,
+    "low": 1018.1,
+    "close": 1031,
+    "volume": 224952778,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1038.85,
+    "high": 1074,
+    "low": 1022.2,
+    "close": 1068,
+    "volume": 247117370,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1073.3,
+    "high": 1083,
+    "low": 1055,
+    "close": 1072,
+    "volume": 189526429,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1065,
+    "high": 1077.75,
+    "low": 1024.3,
+    "close": 1042.65,
+    "volume": 243393065,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1037.5,
+    "high": 1037.5,
+    "low": 915,
+    "close": 950.05,
+    "volume": 1986482161,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 937,
+    "high": 978.2,
+    "low": 931,
+    "close": 975,
+    "volume": 443852758,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 973.95,
+    "high": 973.95,
+    "low": 961,
+    "close": 962,
+    "volume": 136425741,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 963,
+    "high": 968.9,
+    "low": 951.1,
+    "close": 953.9,
+    "volume": 114720116,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 954.65,
+    "high": 954.65,
+    "low": 928.5,
+    "close": 950,
+    "volume": 510675340,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 950,
+    "high": 964.65,
+    "low": 947.2,
+    "close": 956,
+    "volume": 95768125,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 956,
+    "high": 963,
+    "low": 948.7,
+    "close": 955.8,
+    "volume": 94099955,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 962.05,
+    "high": 970,
+    "low": 950.1,
+    "close": 964,
+    "volume": 126571073,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 975,
+    "high": 984,
+    "low": 959,
+    "close": 970.65,
+    "volume": 167295077,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 974.95,
+    "high": 980.4,
+    "low": 970,
+    "close": 973.15,
+    "volume": 76318452,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 972.05,
+    "high": 994,
+    "low": 956.9,
+    "close": 987,
+    "volume": 145924416,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 986,
+    "high": 986,
+    "low": 963,
+    "close": 970.5,
+    "volume": 98682388,
+    "symbol": "UTIAMC"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 970,
+    "high": 979,
+    "low": 952.55,
+    "close": 968.1,
+    "volume": 153536333,
+    "symbol": "UTIAMC"
+  }
+]

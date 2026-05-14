@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 261.8,
+    "high": 273.8,
+    "low": 260.5,
+    "close": 268,
+    "volume": 1130065274,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 269.4,
+    "high": 275.9,
+    "low": 266.55,
+    "close": 272.1,
+    "volume": 1006624666,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 270.05,
+    "high": 278.75,
+    "low": 269.35,
+    "close": 278,
+    "volume": 926458558,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 278,
+    "high": 280.45,
+    "low": 273.6,
+    "close": 276,
+    "volume": 526675483,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 276,
+    "high": 276.2,
+    "low": 269.4,
+    "close": 270,
+    "volume": 213425243,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 272.1,
+    "high": 275.45,
+    "low": 267.75,
+    "close": 273.9,
+    "volume": 603297401,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 274.45,
+    "high": 278.4,
+    "low": 261.5,
+    "close": 265.5,
+    "volume": 926652075,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 262.05,
+    "high": 267,
+    "low": 257.5,
+    "close": 264,
+    "volume": 595246281,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 265.95,
+    "high": 266.25,
+    "low": 262.55,
+    "close": 264.8,
+    "volume": 249160362,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 265.35,
+    "high": 271,
+    "low": 259.7,
+    "close": 268,
+    "volume": 743923685,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 268.9,
+    "high": 270.9,
+    "low": 265,
+    "close": 267.5,
+    "volume": 679670850,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 268.5,
+    "high": 269.75,
+    "low": 264.3,
+    "close": 266.9,
+    "volume": 500255788,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 266.7,
+    "high": 267.95,
+    "low": 257.5,
+    "close": 259.6,
+    "volume": 514739447,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 255.1,
+    "high": 260,
+    "low": 250.7,
+    "close": 256,
+    "volume": 919260386,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 259,
+    "high": 264.9,
+    "low": 257.3,
+    "close": 264,
+    "volume": 729071843,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 264,
+    "high": 275.75,
+    "low": 258.5,
+    "close": 264.15,
+    "volume": 2289763613,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 272,
+    "high": 298.95,
+    "low": 272,
+    "close": 291.5,
+    "volume": 16193920712,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 292.55,
+    "high": 296,
+    "low": 286.5,
+    "close": 293.95,
+    "volume": 2378830001,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 293.95,
+    "high": 304.65,
+    "low": 293,
+    "close": 302.2,
+    "volume": 2360354781,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 303,
+    "high": 306,
+    "low": 297,
+    "close": 298.05,
+    "volume": 1135865193,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 298,
+    "high": 298.7,
+    "low": 282,
+    "close": 286,
+    "volume": 1737413780,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 288.5,
+    "high": 297.5,
+    "low": 285,
+    "close": 295.75,
+    "volume": 1650938999,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 314,
+    "high": 323,
+    "low": 298.4,
+    "close": 303.5,
+    "volume": 1394231997,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 305,
+    "high": 318.15,
+    "low": 302.5,
+    "close": 317,
+    "volume": 1595376055,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 315.7,
+    "high": 321.95,
+    "low": 312.6,
+    "close": 312.9,
+    "volume": 1004840711,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 312.95,
+    "high": 320.7,
+    "low": 310,
+    "close": 314.3,
+    "volume": 871683000,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 321,
+    "high": 327.9,
+    "low": 317.45,
+    "close": 326.7,
+    "volume": 1149919637,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 326,
+    "high": 326.9,
+    "low": 318.3,
+    "close": 324,
+    "volume": 1137828238,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 326.7,
+    "high": 327.75,
+    "low": 318,
+    "close": 319,
+    "volume": 608583791,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 318.95,
+    "high": 321.4,
+    "low": 316.05,
+    "close": 318.55,
+    "volume": 668693103,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 315,
+    "high": 320.95,
+    "low": 313.1,
+    "close": 315.5,
+    "volume": 608528314,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 315.95,
+    "high": 318.5,
+    "low": 312.2,
+    "close": 315.5,
+    "volume": 345820488,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 316.35,
+    "high": 329,
+    "low": 314.7,
+    "close": 325,
+    "volume": 1064931590,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 325,
+    "high": 327.9,
+    "low": 322,
+    "close": 325.25,
+    "volume": 453494629,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 326,
+    "high": 326,
+    "low": 317.3,
+    "close": 318.6,
+    "volume": 475800842,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 319.5,
+    "high": 325,
+    "low": 316.05,
+    "close": 323.55,
+    "volume": 657776827,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 323.95,
+    "high": 326.5,
+    "low": 318.35,
+    "close": 326,
+    "volume": 524762956,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 325.55,
+    "high": 339,
+    "low": 322.75,
+    "close": 337.45,
+    "volume": 2290848813,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 337.05,
+    "high": 343.45,
+    "low": 332.95,
+    "close": 337.1,
+    "volume": 1005551396,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 336.85,
+    "high": 340.9,
+    "low": 334.2,
+    "close": 335.1,
+    "volume": 984077025,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 337,
+    "high": 338,
+    "low": 320.65,
+    "close": 326.8,
+    "volume": 1407196514,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 315,
+    "high": 325.9,
+    "low": 311.2,
+    "close": 315.75,
+    "volume": 914667644,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 313.35,
+    "high": 320.75,
+    "low": 309.1,
+    "close": 311,
+    "volume": 1837112264,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 312.95,
+    "high": 317.55,
+    "low": 312.25,
+    "close": 317,
+    "volume": 702240948,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 318,
+    "high": 319,
+    "low": 312,
+    "close": 313.3,
+    "volume": 359331059,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 301.1,
+    "high": 304.7,
+    "low": 290.55,
+    "close": 293.8,
+    "volume": 923325585,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 296.9,
+    "high": 303.05,
+    "low": 294.95,
+    "close": 302.65,
+    "volume": 591717361,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 305,
+    "high": 309.9,
+    "low": 301.55,
+    "close": 305.15,
+    "volume": 755608545,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 304,
+    "high": 304.8,
+    "low": 295,
+    "close": 296,
+    "volume": 383573682,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 294,
+    "high": 294.9,
+    "low": 281.3,
+    "close": 281.8,
+    "volume": 616656595,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 277.55,
+    "high": 286.65,
+    "low": 272.35,
+    "close": 284,
+    "volume": 1132353242,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 287.95,
+    "high": 287.95,
+    "low": 280.55,
+    "close": 285,
+    "volume": 498661504,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 284,
+    "high": 287.75,
+    "low": 283.15,
+    "close": 284.2,
+    "volume": 742141708,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 281.7,
+    "high": 282.2,
+    "low": 270.45,
+    "close": 273,
+    "volume": 675521445,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 273.95,
+    "high": 274.8,
+    "low": 262.8,
+    "close": 264.5,
+    "volume": 958189819,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 259,
+    "high": 263.5,
+    "low": 255.55,
+    "close": 260.3,
+    "volume": 946714591,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 271.05,
+    "high": 276.25,
+    "low": 260.35,
+    "close": 272.15,
+    "volume": 1643834058,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 275,
+    "high": 291.95,
+    "low": 274.3,
+    "close": 284,
+    "volume": 1516335118,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 281,
+    "high": 300.4,
+    "low": 277.1,
+    "close": 294.35,
+    "volume": 2907454488,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 290.9,
+    "high": 291.55,
+    "low": 281.3,
+    "close": 290,
+    "volume": 1155693714,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 299.4,
+    "high": 299.4,
+    "low": 288,
+    "close": 291.5,
+    "volume": 879881709,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 288.9,
+    "high": 288.9,
+    "low": 270,
+    "close": 273.45,
+    "volume": 2340503710,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 275,
+    "high": 279.1,
+    "low": 265.45,
+    "close": 270.2,
+    "volume": 1590822514,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 270.2,
+    "high": 272.5,
+    "low": 261,
+    "close": 262.05,
+    "volume": 882093446,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 270.85,
+    "high": 285.55,
+    "low": 269.1,
+    "close": 281.95,
+    "volume": 2022861343,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 281.3,
+    "high": 287.3,
+    "low": 276.25,
+    "close": 277.7,
+    "volume": 1020222839,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 279.8,
+    "high": 286.75,
+    "low": 278.75,
+    "close": 282.7,
+    "volume": 987297322,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 276.5,
+    "high": 283.45,
+    "low": 273.1,
+    "close": 280.9,
+    "volume": 733078070,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 286.9,
+    "high": 287.9,
+    "low": 279.15,
+    "close": 279.5,
+    "volume": 1011459686,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 281,
+    "high": 285.7,
+    "low": 277.35,
+    "close": 280.5,
+    "volume": 833659375,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 280.3,
+    "high": 281.5,
+    "low": 275.4,
+    "close": 277.5,
+    "volume": 739770431,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 277.55,
+    "high": 279.6,
+    "low": 273.1,
+    "close": 274.75,
+    "volume": 666904475,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 274.25,
+    "high": 292,
+    "low": 273.3,
+    "close": 291.2,
+    "volume": 2756841544,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 292,
+    "high": 301.55,
+    "low": 289.6,
+    "close": 301,
+    "volume": 1480460457,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 301,
+    "high": 301.95,
+    "low": 295.5,
+    "close": 297.5,
+    "volume": 524783723,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 297.15,
+    "high": 299.35,
+    "low": 293.05,
+    "close": 296,
+    "volume": 286037442,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 297.3,
+    "high": 301.5,
+    "low": 296.5,
+    "close": 298.4,
+    "volume": 491241202,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 299.5,
+    "high": 302,
+    "low": 292.1,
+    "close": 294.25,
+    "volume": 937475988,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 295,
+    "high": 299.8,
+    "low": 291.2,
+    "close": 297,
+    "volume": 563351270,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 295.5,
+    "high": 298.5,
+    "low": 290.65,
+    "close": 292.55,
+    "volume": 685517276,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 293.6,
+    "high": 306.2,
+    "low": 293.6,
+    "close": 299,
+    "volume": 1280415304,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 299.55,
+    "high": 301,
+    "low": 295.6,
+    "close": 299.7,
+    "volume": 766212489,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 301,
+    "high": 309.05,
+    "low": 298.15,
+    "close": 307,
+    "volume": 1127581220,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 308.8,
+    "high": 322,
+    "low": 304.6,
+    "close": 321.6,
+    "volume": 2095715796,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 319.35,
+    "high": 319.35,
+    "low": 302.2,
+    "close": 305,
+    "volume": 2903595606,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 304.05,
+    "high": 306.5,
+    "low": 295.5,
+    "close": 295.5,
+    "volume": 874144394,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 296.85,
+    "high": 297.5,
+    "low": 277,
+    "close": 283.45,
+    "volume": 1816335481,
+    "symbol": "KARURVYSYA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 283.2,
+    "high": 283.45,
+    "low": 275.35,
+    "close": 279.5,
+    "volume": 1261336979,
+    "symbol": "KARURVYSYA"
+  }
+]

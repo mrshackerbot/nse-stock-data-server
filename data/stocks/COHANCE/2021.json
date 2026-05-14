@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 456.4,
+    "high": 465,
+    "low": 452.3,
+    "close": 465,
+    "volume": 119192106,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 465.1,
+    "high": 468.8,
+    "low": 456.8,
+    "close": 466,
+    "volume": 143228048,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 460,
+    "high": 471.25,
+    "low": 451,
+    "close": 463.7,
+    "volume": 145215856,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 465,
+    "high": 465,
+    "low": 453.25,
+    "close": 459.5,
+    "volume": 128035694,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 462.95,
+    "high": 469.95,
+    "low": 452.95,
+    "close": 456.2,
+    "volume": 121409273,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 465.5,
+    "high": 467,
+    "low": 457.1,
+    "close": 459.65,
+    "volume": 80187478,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 468.5,
+    "high": 468.5,
+    "low": 435.75,
+    "close": 455,
+    "volume": 176773253,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 455,
+    "high": 455.95,
+    "low": 445,
+    "close": 446.9,
+    "volume": 89864579,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 455.1,
+    "high": 460,
+    "low": 435,
+    "close": 438,
+    "volume": 167992328,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 446,
+    "high": 514,
+    "low": 438.2,
+    "close": 499,
+    "volume": 1558421694,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 507.8,
+    "high": 515,
+    "low": 487.6,
+    "close": 499.5,
+    "volume": 785714892,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 499.7,
+    "high": 499.7,
+    "low": 462,
+    "close": 480,
+    "volume": 323626099,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 484,
+    "high": 493.85,
+    "low": 475,
+    "close": 485.25,
+    "volume": 139509729,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 487.75,
+    "high": 501,
+    "low": 483.05,
+    "close": 485,
+    "volume": 142911090,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 488,
+    "high": 498.8,
+    "low": 486.05,
+    "close": 489,
+    "volume": 130728544,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 490,
+    "high": 499,
+    "low": 480.1,
+    "close": 483,
+    "volume": 126460760,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 488.85,
+    "high": 488.85,
+    "low": 456.75,
+    "close": 469.4,
+    "volume": 125524740,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 470,
+    "high": 475,
+    "low": 453.95,
+    "close": 465.5,
+    "volume": 162661048,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 459,
+    "high": 472.05,
+    "low": 455.65,
+    "close": 460,
+    "volume": 126014136,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 464.25,
+    "high": 469,
+    "low": 457.35,
+    "close": 461.7,
+    "volume": 62540033,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 461,
+    "high": 476.95,
+    "low": 453.2,
+    "close": 465,
+    "volume": 130248205,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 465.05,
+    "high": 484.9,
+    "low": 465.05,
+    "close": 470.95,
+    "volume": 88592009,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 475.15,
+    "high": 483.65,
+    "low": 471.15,
+    "close": 480.5,
+    "volume": 125239915,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 482,
+    "high": 502,
+    "low": 479.45,
+    "close": 492.55,
+    "volume": 167645018,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 495,
+    "high": 497.5,
+    "low": 490.1,
+    "close": 497,
+    "volume": 66234229,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 497,
+    "high": 504,
+    "low": 483.3,
+    "close": 504,
+    "volume": 85668786,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 504,
+    "high": 504,
+    "low": 482,
+    "close": 486,
+    "volume": 96919945,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 486,
+    "high": 515.25,
+    "low": 468.65,
+    "close": 512.8,
+    "volume": 618052600,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 520,
+    "high": 525.6,
+    "low": 484,
+    "close": 493.9,
+    "volume": 684261265,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 502,
+    "high": 502,
+    "low": 476,
+    "close": 486.8,
+    "volume": 317719246,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 490.35,
+    "high": 503.85,
+    "low": 489.35,
+    "close": 492,
+    "volume": 182624508,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 502.7,
+    "high": 505,
+    "low": 488.85,
+    "close": 496,
+    "volume": 201158354,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 500,
+    "high": 500.75,
+    "low": 492.05,
+    "close": 492.05,
+    "volume": 73459100,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 496,
+    "high": 502.45,
+    "low": 491.25,
+    "close": 496.05,
+    "volume": 127126088,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 497,
+    "high": 497.1,
+    "low": 487.45,
+    "close": 488,
+    "volume": 92715400,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 492.85,
+    "high": 492.85,
+    "low": 478,
+    "close": 478.1,
+    "volume": 124266583,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 483.45,
+    "high": 499,
+    "low": 465.1,
+    "close": 486.1,
+    "volume": 106681478,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 488.55,
+    "high": 488.6,
+    "low": 478.4,
+    "close": 480,
+    "volume": 34125496,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 480,
+    "high": 485.5,
+    "low": 476,
+    "close": 478.5,
+    "volume": 157014917,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 477.8,
+    "high": 484.4,
+    "low": 471.75,
+    "close": 482,
+    "volume": 69177311,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 481.9,
+    "high": 485.4,
+    "low": 471,
+    "close": 477.15,
+    "volume": 93748881,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 485,
+    "high": 488.65,
+    "low": 472,
+    "close": 475,
+    "volume": 124402672,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 490,
+    "high": 490,
+    "low": 471,
+    "close": 473.25,
+    "volume": 226512656,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 480.5,
+    "high": 490,
+    "low": 477,
+    "close": 489,
+    "volume": 147935936,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 490,
+    "high": 492.75,
+    "low": 475,
+    "close": 480,
+    "volume": 103877822,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 485,
+    "high": 487,
+    "low": 474.2,
+    "close": 480.7,
+    "volume": 101313806,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 483.25,
+    "high": 487.45,
+    "low": 477,
+    "close": 481.6,
+    "volume": 136245851,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 491.7,
+    "high": 491.7,
+    "low": 477.8,
+    "close": 479.8,
+    "volume": 94973312,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 489.55,
+    "high": 491,
+    "low": 469.1,
+    "close": 475,
+    "volume": 107839089,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 472.2,
+    "high": 484.8,
+    "low": 462.15,
+    "close": 484.8,
+    "volume": 71448220,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 478,
+    "high": 483.5,
+    "low": 469,
+    "close": 477.85,
+    "volume": 106268906,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 481,
+    "high": 481.05,
+    "low": 450,
+    "close": 478,
+    "volume": 119188131,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 475.1,
+    "high": 479.35,
+    "low": 452.55,
+    "close": 468,
+    "volume": 156315392,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 472,
+    "high": 488.75,
+    "low": 455.25,
+    "close": 486.3,
+    "volume": 164108463,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 483,
+    "high": 483,
+    "low": 464,
+    "close": 480.25,
+    "volume": 117868809,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 480,
+    "high": 481,
+    "low": 466.1,
+    "close": 478.45,
+    "volume": 123264357,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 472.2,
+    "high": 480.15,
+    "low": 468,
+    "close": 468,
+    "volume": 106550753,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 471.05,
+    "high": 473.95,
+    "low": 455.55,
+    "close": 461,
+    "volume": 81739769,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 468,
+    "high": 471.25,
+    "low": 454.3,
+    "close": 463,
+    "volume": 84531887,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 473,
+    "high": 485,
+    "low": 463.3,
+    "close": 470.1,
+    "volume": 273292871,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 479.9,
+    "high": 500,
+    "low": 467.7,
+    "close": 496.5,
+    "volume": 228842628,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 496.8,
+    "high": 499,
+    "low": 483,
+    "close": 490,
+    "volume": 130361281,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 491,
+    "high": 491,
+    "low": 475.05,
+    "close": 475.5,
+    "volume": 64855787,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 477.5,
+    "high": 489.55,
+    "low": 473.75,
+    "close": 488.9,
+    "volume": 122989745,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 495,
+    "high": 499,
+    "low": 478,
+    "close": 483.3,
+    "volume": 111965176,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 489,
+    "high": 492.4,
+    "low": 478.95,
+    "close": 489.1,
+    "volume": 103778224,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 487.15,
+    "high": 495,
+    "low": 481.3,
+    "close": 491,
+    "volume": 156470808,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 495,
+    "high": 520,
+    "low": 478.95,
+    "close": 479.5,
+    "volume": 193980049,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 485,
+    "high": 489.65,
+    "low": 479.15,
+    "close": 481.65,
+    "volume": 79411215,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 488,
+    "high": 488,
+    "low": 477,
+    "close": 484.2,
+    "volume": 80700473,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 486.6,
+    "high": 486.8,
+    "low": 479.1,
+    "close": 480,
+    "volume": 122350906,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 475.2,
+    "high": 488.5,
+    "low": 470.3,
+    "close": 481,
+    "volume": 188133949,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 487.65,
+    "high": 504,
+    "low": 478.55,
+    "close": 492.75,
+    "volume": 229897795,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 500,
+    "high": 543.95,
+    "low": 483.5,
+    "close": 523,
+    "volume": 771685259,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 529.9,
+    "high": 547,
+    "low": 522,
+    "close": 543.15,
+    "volume": 571751358,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 550,
+    "high": 559.35,
+    "low": 526.7,
+    "close": 544.5,
+    "volume": 339318045,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 543.05,
+    "high": 549,
+    "low": 536.2,
+    "close": 544.9,
+    "volume": 134061999,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 546,
+    "high": 549.95,
+    "low": 531.9,
+    "close": 541,
+    "volume": 189717241,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 546.75,
+    "high": 555,
+    "low": 536,
+    "close": 547.3,
+    "volume": 281389319,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 537,
+    "high": 546.65,
+    "low": 536.4,
+    "close": 538.35,
+    "volume": 124783018,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 540,
+    "high": 548.75,
+    "low": 537.05,
+    "close": 541.05,
+    "volume": 58675387,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 554.9,
+    "high": 554.9,
+    "low": 537.2,
+    "close": 542.85,
+    "volume": 181878733,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 538.1,
+    "high": 549.8,
+    "low": 532.75,
+    "close": 546.95,
+    "volume": 187674015,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 550,
+    "high": 550,
+    "low": 534.75,
+    "close": 539,
+    "volume": 201356179,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 545,
+    "high": 545,
+    "low": 534.1,
+    "close": 534.4,
+    "volume": 214154843,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 537.5,
+    "high": 547,
+    "low": 533.6,
+    "close": 539.65,
+    "volume": 238376508,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 538,
+    "high": 547,
+    "low": 527.4,
+    "close": 529.5,
+    "volume": 159590640,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 534,
+    "high": 540,
+    "low": 520.95,
+    "close": 525,
+    "volume": 134991596,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 526.7,
+    "high": 533,
+    "low": 497.4,
+    "close": 522,
+    "volume": 231853906,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 522,
+    "high": 534.95,
+    "low": 518.3,
+    "close": 529.8,
+    "volume": 86404114,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 534.95,
+    "high": 538,
+    "low": 528,
+    "close": 536,
+    "volume": 82637910,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 538,
+    "high": 538.2,
+    "low": 517.8,
+    "close": 524.9,
+    "volume": 145490540,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 532.1,
+    "high": 532.1,
+    "low": 505,
+    "close": 510,
+    "volume": 113249532,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 510,
+    "high": 525,
+    "low": 510,
+    "close": 519.6,
+    "volume": 96376519,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 524.9,
+    "high": 530,
+    "low": 514,
+    "close": 525,
+    "volume": 62163154,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 528.9,
+    "high": 528.9,
+    "low": 511.6,
+    "close": 513.5,
+    "volume": 61171955,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 512.95,
+    "high": 518.25,
+    "low": 507.6,
+    "close": 509.95,
+    "volume": 58852048,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 511,
+    "high": 519.6,
+    "low": 511,
+    "close": 516,
+    "volume": 69934585,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 520,
+    "high": 526,
+    "low": 518.65,
+    "close": 522.7,
+    "volume": 84707012,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 522,
+    "high": 528,
+    "low": 511.2,
+    "close": 515,
+    "volume": 97592116,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 514.15,
+    "high": 523.05,
+    "low": 501.2,
+    "close": 505,
+    "volume": 69565948,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 505,
+    "high": 522,
+    "low": 505,
+    "close": 515,
+    "volume": 193666008,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 520,
+    "high": 524.9,
+    "low": 516.2,
+    "close": 518.9,
+    "volume": 83749769,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 521.95,
+    "high": 524,
+    "low": 515.15,
+    "close": 518,
+    "volume": 51916720,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 521.2,
+    "high": 523.45,
+    "low": 514.05,
+    "close": 519,
+    "volume": 76871059,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 520,
+    "high": 521,
+    "low": 480,
+    "close": 501,
+    "volume": 585440607,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 500,
+    "high": 507.05,
+    "low": 469,
+    "close": 469.95,
+    "volume": 506808162,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 474.9,
+    "high": 484.8,
+    "low": 470.05,
+    "close": 484,
+    "volume": 362325539,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 499.8,
+    "high": 515.65,
+    "low": 480.5,
+    "close": 486.9,
+    "volume": 600886421,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 490,
+    "high": 493.8,
+    "low": 476,
+    "close": 489.05,
+    "volume": 131883666,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 481.05,
+    "high": 490.95,
+    "low": 481.05,
+    "close": 487.5,
+    "volume": 83092809,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 485,
+    "high": 486,
+    "low": 480.1,
+    "close": 484,
+    "volume": 126434025,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 484,
+    "high": 490,
+    "low": 480.55,
+    "close": 481.75,
+    "volume": 88740299,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 481,
+    "high": 487,
+    "low": 461,
+    "close": 480,
+    "volume": 193713610,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 479.7,
+    "high": 479.75,
+    "low": 471.95,
+    "close": 475.2,
+    "volume": 84081763,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 474.05,
+    "high": 482.8,
+    "low": 474,
+    "close": 480.15,
+    "volume": 80153779,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 480.05,
+    "high": 482,
+    "low": 472,
+    "close": 480.25,
+    "volume": 87649367,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 475,
+    "high": 479.95,
+    "low": 464.6,
+    "close": 475,
+    "volume": 74556699,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 470.55,
+    "high": 474.5,
+    "low": 467,
+    "close": 470.05,
+    "volume": 239723183,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 472.1,
+    "high": 477,
+    "low": 468.6,
+    "close": 471.65,
+    "volume": 84713108,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 471.35,
+    "high": 477.25,
+    "low": 468.05,
+    "close": 477.25,
+    "volume": 70236850,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 479.9,
+    "high": 485,
+    "low": 474.7,
+    "close": 480.9,
+    "volume": 120112507,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 479,
+    "high": 489.2,
+    "low": 479,
+    "close": 487.5,
+    "volume": 70387850,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 489,
+    "high": 494,
+    "low": 485.3,
+    "close": 490,
+    "volume": 143508015,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 494,
+    "high": 494.65,
+    "low": 482.25,
+    "close": 483,
+    "volume": 164461662,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 484.45,
+    "high": 487,
+    "low": 473,
+    "close": 475.9,
+    "volume": 61317941,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 473,
+    "high": 476.65,
+    "low": 466.2,
+    "close": 471.4,
+    "volume": 74428732,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 478.7,
+    "high": 479.55,
+    "low": 470.4,
+    "close": 471,
+    "volume": 36846730,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 468.55,
+    "high": 477,
+    "low": 468,
+    "close": 471.8,
+    "volume": 43663174,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 475.95,
+    "high": 477.5,
+    "low": 470,
+    "close": 471.5,
+    "volume": 221794064,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 475.4,
+    "high": 475.5,
+    "low": 467.9,
+    "close": 468.45,
+    "volume": 49767479,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 468.45,
+    "high": 473.95,
+    "low": 463.3,
+    "close": 468,
+    "volume": 93156945,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 468.15,
+    "high": 470.85,
+    "low": 462.8,
+    "close": 467.9,
+    "volume": 77338464,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 467.95,
+    "high": 470.85,
+    "low": 457,
+    "close": 464.05,
+    "volume": 183216761,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 464.9,
+    "high": 468.85,
+    "low": 457.05,
+    "close": 467.35,
+    "volume": 181534249,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 459.1,
+    "high": 477,
+    "low": 459.1,
+    "close": 474,
+    "volume": 309601151,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 480,
+    "high": 490,
+    "low": 473.45,
+    "close": 489.75,
+    "volume": 220995501,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 490.4,
+    "high": 505,
+    "low": 482,
+    "close": 502.9,
+    "volume": 309280417,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 502,
+    "high": 507.8,
+    "low": 497.05,
+    "close": 499.9,
+    "volume": 178082885,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 502,
+    "high": 510.5,
+    "low": 481.35,
+    "close": 498,
+    "volume": 201573498,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 493,
+    "high": 498.65,
+    "low": 484.75,
+    "close": 494.25,
+    "volume": 95125780,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 501.7,
+    "high": 505.8,
+    "low": 495,
+    "close": 501.1,
+    "volume": 107412801,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 509,
+    "high": 511.8,
+    "low": 504,
+    "close": 506.05,
+    "volume": 115058759,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 506.3,
+    "high": 522,
+    "low": 506.3,
+    "close": 520.05,
+    "volume": 164931334,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 520.1,
+    "high": 574.5,
+    "low": 520.1,
+    "close": 563.2,
+    "volume": 1392640570,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 564.8,
+    "high": 567.3,
+    "low": 528.5,
+    "close": 533.2,
+    "volume": 255254602,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 536.75,
+    "high": 566,
+    "low": 517.85,
+    "close": 559,
+    "volume": 279160603,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 557,
+    "high": 590,
+    "low": 546.6,
+    "close": 586,
+    "volume": 559172850,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 587,
+    "high": 588,
+    "low": 546.6,
+    "close": 552,
+    "volume": 708324906,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 560,
+    "high": 568.95,
+    "low": 512.45,
+    "close": 538,
+    "volume": 295508333,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 543.3,
+    "high": 549.8,
+    "low": 507.2,
+    "close": 543,
+    "volume": 273062422,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 537.7,
+    "high": 552.1,
+    "low": 530.2,
+    "close": 538.55,
+    "volume": 175012673,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 545.2,
+    "high": 549.8,
+    "low": 507.2,
+    "close": 541,
+    "volume": 426286118,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 541.7,
+    "high": 564,
+    "low": 529.05,
+    "close": 562.75,
+    "volume": 235345855,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 562.5,
+    "high": 578.75,
+    "low": 547.05,
+    "close": 555,
+    "volume": 231072492,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 563,
+    "high": 565,
+    "low": 551,
+    "close": 562,
+    "volume": 167748816,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 556,
+    "high": 564.9,
+    "low": 536.25,
+    "close": 560.05,
+    "volume": 156808844,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 564.5,
+    "high": 564.5,
+    "low": 540,
+    "close": 550,
+    "volume": 123675122,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 552.9,
+    "high": 558.7,
+    "low": 541.5,
+    "close": 542.05,
+    "volume": 63378500,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 541,
+    "high": 550.35,
+    "low": 535.25,
+    "close": 540,
+    "volume": 64167944,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 544.95,
+    "high": 562,
+    "low": 541,
+    "close": 561.9,
+    "volume": 137673360,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 564.95,
+    "high": 564.95,
+    "low": 547,
+    "close": 552.2,
+    "volume": 106990463,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 559.95,
+    "high": 559.95,
+    "low": 543,
+    "close": 544.7,
+    "volume": 87688785,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 546,
+    "high": 552.35,
+    "low": 532.2,
+    "close": 536,
+    "volume": 177522737,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 532.1,
+    "high": 539,
+    "low": 524.55,
+    "close": 525,
+    "volume": 92206556,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 523.05,
+    "high": 526,
+    "low": 515.1,
+    "close": 517.75,
+    "volume": 126115140,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 520.95,
+    "high": 531.95,
+    "low": 519,
+    "close": 520,
+    "volume": 130910192,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 524.5,
+    "high": 531.7,
+    "low": 518.4,
+    "close": 527,
+    "volume": 60521313,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 530.8,
+    "high": 542,
+    "low": 526.4,
+    "close": 540,
+    "volume": 279595640,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 542.95,
+    "high": 544.4,
+    "low": 529.05,
+    "close": 536.85,
+    "volume": 147890613,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 539.7,
+    "high": 539.7,
+    "low": 525.8,
+    "close": 531.85,
+    "volume": 56939262,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 535,
+    "high": 535.8,
+    "low": 529,
+    "close": 531.7,
+    "volume": 75743506,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 532.25,
+    "high": 540,
+    "low": 524.9,
+    "close": 533,
+    "volume": 111697318,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 540,
+    "high": 540.1,
+    "low": 530.3,
+    "close": 539.9,
+    "volume": 83859248,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 544.8,
+    "high": 544.8,
+    "low": 525.05,
+    "close": 535,
+    "volume": 187149403,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 536,
+    "high": 539.55,
+    "low": 519.7,
+    "close": 523,
+    "volume": 148760847,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 521,
+    "high": 528.9,
+    "low": 517,
+    "close": 520.65,
+    "volume": 84886185,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 521,
+    "high": 528.6,
+    "low": 512.65,
+    "close": 521.45,
+    "volume": 85604341,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 520.1,
+    "high": 539.95,
+    "low": 520,
+    "close": 536.05,
+    "volume": 143914115,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 539.95,
+    "high": 543,
+    "low": 529.2,
+    "close": 538.1,
+    "volume": 126321078,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 544.95,
+    "high": 548.6,
+    "low": 527.1,
+    "close": 540,
+    "volume": 91842993,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 540.45,
+    "high": 540.45,
+    "low": 527,
+    "close": 529.75,
+    "volume": 86719438,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 533,
+    "high": 539.25,
+    "low": 521.2,
+    "close": 524,
+    "volume": 72476845,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 524.7,
+    "high": 527.35,
+    "low": 520,
+    "close": 520.95,
+    "volume": 82018742,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 524.9,
+    "high": 539.75,
+    "low": 518.4,
+    "close": 531.55,
+    "volume": 84996912,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 531,
+    "high": 531.65,
+    "low": 520.05,
+    "close": 525.5,
+    "volume": 71536667,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 532,
+    "high": 539,
+    "low": 522.8,
+    "close": 533.3,
+    "volume": 124187995,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 537.5,
+    "high": 538,
+    "low": 525.1,
+    "close": 532,
+    "volume": 135778579,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 535.55,
+    "high": 542,
+    "low": 525.5,
+    "close": 541,
+    "volume": 192405248,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 545,
+    "high": 559.9,
+    "low": 528,
+    "close": 556.5,
+    "volume": 221783511,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 560,
+    "high": 568,
+    "low": 553.9,
+    "close": 560.2,
+    "volume": 172729110,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 556.25,
+    "high": 565,
+    "low": 540.3,
+    "close": 541.75,
+    "volume": 141804259,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 543,
+    "high": 548.5,
+    "low": 527.1,
+    "close": 533.95,
+    "volume": 95426781,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 538.75,
+    "high": 539.95,
+    "low": 527.5,
+    "close": 533.8,
+    "volume": 152239527,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 532.05,
+    "high": 544,
+    "low": 524.2,
+    "close": 538,
+    "volume": 158153035,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 535.55,
+    "high": 539.9,
+    "low": 528.6,
+    "close": 529.55,
+    "volume": 132684841,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 534,
+    "high": 535,
+    "low": 522,
+    "close": 523,
+    "volume": 118649933,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 526.85,
+    "high": 555,
+    "low": 521.2,
+    "close": 536,
+    "volume": 173834689,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 536.45,
+    "high": 536.45,
+    "low": 524.05,
+    "close": 528.1,
+    "volume": 110535811,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 531.05,
+    "high": 531.05,
+    "low": 524.05,
+    "close": 525,
+    "volume": 67642415,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 529.75,
+    "high": 529.75,
+    "low": 515.5,
+    "close": 519,
+    "volume": 178042235,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 513.1,
+    "high": 520,
+    "low": 509,
+    "close": 516.45,
+    "volume": 80773926,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 516.4,
+    "high": 517.15,
+    "low": 508.2,
+    "close": 510,
+    "volume": 60924438,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 515,
+    "high": 518.1,
+    "low": 508.5,
+    "close": 518.05,
+    "volume": 63307068,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 517,
+    "high": 520,
+    "low": 497.1,
+    "close": 507,
+    "volume": 93040839,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 480.6,
+    "high": 500,
+    "low": 476.1,
+    "close": 497.05,
+    "volume": 297528200,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 502.9,
+    "high": 504.5,
+    "low": 488.05,
+    "close": 491.05,
+    "volume": 116013460,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 490.05,
+    "high": 495,
+    "low": 483,
+    "close": 485,
+    "volume": 209636081,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 485.5,
+    "high": 528.65,
+    "low": 484.95,
+    "close": 514,
+    "volume": 79109563,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 521.95,
+    "high": 521.95,
+    "low": 497.4,
+    "close": 502.2,
+    "volume": 318141556,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 504.5,
+    "high": 509.9,
+    "low": 499.55,
+    "close": 501.8,
+    "volume": 98487290,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 503,
+    "high": 514.7,
+    "low": 500.15,
+    "close": 513,
+    "volume": 73584529,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 514,
+    "high": 524.4,
+    "low": 506,
+    "close": 519.8,
+    "volume": 113498795,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 522,
+    "high": 524,
+    "low": 502.65,
+    "close": 514,
+    "volume": 71508329,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 511,
+    "high": 519,
+    "low": 506,
+    "close": 512.2,
+    "volume": 60465266,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 516.4,
+    "high": 531,
+    "low": 510.05,
+    "close": 523.35,
+    "volume": 87493028,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 521,
+    "high": 525.8,
+    "low": 505.05,
+    "close": 515,
+    "volume": 80850151,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 519.95,
+    "high": 519.95,
+    "low": 489,
+    "close": 503.45,
+    "volume": 98816865,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 501.2,
+    "high": 509.8,
+    "low": 491.8,
+    "close": 493.35,
+    "volume": 66497623,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 490,
+    "high": 522,
+    "low": 483.05,
+    "close": 510.05,
+    "volume": 109976519,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 510,
+    "high": 516.35,
+    "low": 500.2,
+    "close": 500.25,
+    "volume": 103348946,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 503.05,
+    "high": 512,
+    "low": 500.3,
+    "close": 510,
+    "volume": 45942949,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 501.5,
+    "high": 510.1,
+    "low": 495.1,
+    "close": 500.05,
+    "volume": 71264908,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 500,
+    "high": 501.75,
+    "low": 482.05,
+    "close": 493.65,
+    "volume": 96611302,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 498,
+    "high": 502.75,
+    "low": 484.4,
+    "close": 489,
+    "volume": 121067271,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 488.95,
+    "high": 494.45,
+    "low": 484.9,
+    "close": 484.95,
+    "volume": 57450463,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 487.3,
+    "high": 507.8,
+    "low": 485,
+    "close": 502,
+    "volume": 69034598,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 498.9,
+    "high": 504,
+    "low": 486.15,
+    "close": 488.8,
+    "volume": 133953309,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 490.05,
+    "high": 492.2,
+    "low": 485,
+    "close": 491.9,
+    "volume": 53744363,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 488.35,
+    "high": 516,
+    "low": 486,
+    "close": 499.1,
+    "volume": 123120533,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 507.6,
+    "high": 514.2,
+    "low": 503,
+    "close": 510.35,
+    "volume": 89921928,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 511.6,
+    "high": 520,
+    "low": 505.05,
+    "close": 518,
+    "volume": 92063799,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 517.5,
+    "high": 519.85,
+    "low": 506.2,
+    "close": 515,
+    "volume": 47977479,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 523.8,
+    "high": 523.8,
+    "low": 512.1,
+    "close": 513,
+    "volume": 80888151,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 516.45,
+    "high": 535,
+    "low": 511.05,
+    "close": 514,
+    "volume": 310667548,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 512.5,
+    "high": 519.3,
+    "low": 506.2,
+    "close": 507,
+    "volume": 102575362,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 507.5,
+    "high": 517.6,
+    "low": 501.3,
+    "close": 503.05,
+    "volume": 489664208,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 507.35,
+    "high": 507.35,
+    "low": 478.95,
+    "close": 482.8,
+    "volume": 241345220,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 480,
+    "high": 486.5,
+    "low": 456,
+    "close": 472.85,
+    "volume": 108117452,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 476.05,
+    "high": 489.85,
+    "low": 476.05,
+    "close": 478,
+    "volume": 54597496,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 481.8,
+    "high": 492.9,
+    "low": 479.85,
+    "close": 486.9,
+    "volume": 62286975,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 488.2,
+    "high": 507.3,
+    "low": 487.25,
+    "close": 490,
+    "volume": 52710604,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 490,
+    "high": 495.4,
+    "low": 475.1,
+    "close": 478,
+    "volume": 43414750,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 482.9,
+    "high": 497.75,
+    "low": 477.9,
+    "close": 494,
+    "volume": 63290363,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 499,
+    "high": 499.45,
+    "low": 481.95,
+    "close": 484.25,
+    "volume": 52349662,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 486.15,
+    "high": 497.2,
+    "low": 486.15,
+    "close": 491,
+    "volume": 50675354,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 493,
+    "high": 501.85,
+    "low": 485.1,
+    "close": 489,
+    "volume": 88586840,
+    "symbol": "COHANCE"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 489.9,
+    "high": 499,
+    "low": 489.8,
+    "close": 492,
+    "volume": 63193591,
+    "symbol": "COHANCE"
+  }
+]

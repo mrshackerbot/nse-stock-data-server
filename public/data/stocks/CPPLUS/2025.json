@@ -1,0 +1,911 @@
+[
+  {
+    "date": "05-Aug-2025",
+    "open": 1015,
+    "high": 1104,
+    "low": 1015,
+    "close": 1085,
+    "volume": 20643176073,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "06-Aug-2025",
+    "open": 1070,
+    "high": 1091.15,
+    "low": 1026,
+    "close": 1071,
+    "volume": 3118067329,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "07-Aug-2025",
+    "open": 1060,
+    "high": 1167.8,
+    "low": 1042.5,
+    "close": 1150.8,
+    "volume": 1852521592,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "08-Aug-2025",
+    "open": 1150,
+    "high": 1224,
+    "low": 1071.05,
+    "close": 1080,
+    "volume": 3471836752,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "11-Aug-2025",
+    "open": 1094,
+    "high": 1122.5,
+    "low": 1047.85,
+    "close": 1050,
+    "volume": 1161466319,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "12-Aug-2025",
+    "open": 1063,
+    "high": 1078.95,
+    "low": 1045.55,
+    "close": 1061.25,
+    "volume": 404957707,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "13-Aug-2025",
+    "open": 1065,
+    "high": 1085,
+    "low": 1051.1,
+    "close": 1064,
+    "volume": 369925042,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "14-Aug-2025",
+    "open": 1071,
+    "high": 1080,
+    "low": 1046.65,
+    "close": 1047,
+    "volume": 363794334,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "18-Aug-2025",
+    "open": 1069.9,
+    "high": 1098.95,
+    "low": 1059,
+    "close": 1090.75,
+    "volume": 457307496,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "19-Aug-2025",
+    "open": 1095.9,
+    "high": 1159.2,
+    "low": 1093.6,
+    "close": 1119,
+    "volume": 873212250,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "20-Aug-2025",
+    "open": 1124.95,
+    "high": 1223.75,
+    "low": 1086.15,
+    "close": 1223.75,
+    "volume": 1867048021,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "21-Aug-2025",
+    "open": 1275,
+    "high": 1320,
+    "low": 1187,
+    "close": 1301,
+    "volume": 5443140583,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "22-Aug-2025",
+    "open": 1293.35,
+    "high": 1385,
+    "low": 1267.2,
+    "close": 1344,
+    "volume": 2273766969,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "25-Aug-2025",
+    "open": 1354,
+    "high": 1354,
+    "low": 1292.45,
+    "close": 1320.9,
+    "volume": 954869962,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "26-Aug-2025",
+    "open": 1316.85,
+    "high": 1325.95,
+    "low": 1261.1,
+    "close": 1273.65,
+    "volume": 568347040,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "28-Aug-2025",
+    "open": 1283,
+    "high": 1285.65,
+    "low": 1232,
+    "close": 1250,
+    "volume": 395426919,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "29-Aug-2025",
+    "open": 1250.3,
+    "high": 1303,
+    "low": 1244.9,
+    "close": 1254.9,
+    "volume": 504704416,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "01-Sep-2025",
+    "open": 1262.7,
+    "high": 1262.7,
+    "low": 1200.8,
+    "close": 1255.2,
+    "volume": 961848638,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "02-Sep-2025",
+    "open": 1260,
+    "high": 1310.6,
+    "low": 1257,
+    "close": 1310.6,
+    "volume": 384020883,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "03-Sep-2025",
+    "open": 1322,
+    "high": 1376.1,
+    "low": 1281.6,
+    "close": 1376.1,
+    "volume": 618505141,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "04-Sep-2025",
+    "open": 1384,
+    "high": 1425.5,
+    "low": 1361.6,
+    "close": 1375,
+    "volume": 858739119,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "05-Sep-2025",
+    "open": 1389.9,
+    "high": 1401.6,
+    "low": 1356.3,
+    "close": 1358,
+    "volume": 274990667,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "08-Sep-2025",
+    "open": 1383.7,
+    "high": 1423.8,
+    "low": 1352.1,
+    "close": 1360.6,
+    "volume": 287358923,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "09-Sep-2025",
+    "open": 1372,
+    "high": 1374,
+    "low": 1334,
+    "close": 1346.1,
+    "volume": 176395705,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "10-Sep-2025",
+    "open": 1360,
+    "high": 1363.7,
+    "low": 1325.1,
+    "close": 1347.9,
+    "volume": 294697262,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "11-Sep-2025",
+    "open": 1354.8,
+    "high": 1414.8,
+    "low": 1351.2,
+    "close": 1402,
+    "volume": 674266220,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "12-Sep-2025",
+    "open": 1410.9,
+    "high": 1462,
+    "low": 1398.4,
+    "close": 1437.4,
+    "volume": 570029650,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "15-Sep-2025",
+    "open": 1449,
+    "high": 1469.9,
+    "low": 1433,
+    "close": 1440,
+    "volume": 364070518,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "16-Sep-2025",
+    "open": 1445,
+    "high": 1452.8,
+    "low": 1413.3,
+    "close": 1431.1,
+    "volume": 143239428,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "17-Sep-2025",
+    "open": 1430.9,
+    "high": 1476,
+    "low": 1430,
+    "close": 1460,
+    "volume": 423467428,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "18-Sep-2025",
+    "open": 1464.9,
+    "high": 1474,
+    "low": 1435,
+    "close": 1439,
+    "volume": 219795139,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "19-Sep-2025",
+    "open": 1448,
+    "high": 1452.3,
+    "low": 1395.4,
+    "close": 1399.9,
+    "volume": 259573625,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "22-Sep-2025",
+    "open": 1398.9,
+    "high": 1428.3,
+    "low": 1380.2,
+    "close": 1421.5,
+    "volume": 519891481,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "23-Sep-2025",
+    "open": 1429.9,
+    "high": 1433.1,
+    "low": 1384.7,
+    "close": 1388,
+    "volume": 127417119,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "24-Sep-2025",
+    "open": 1394,
+    "high": 1395,
+    "low": 1362.6,
+    "close": 1372.7,
+    "volume": 159911536,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "25-Sep-2025",
+    "open": 1372.1,
+    "high": 1373.8,
+    "low": 1311.1,
+    "close": 1319,
+    "volume": 169072884,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "26-Sep-2025",
+    "open": 1324.8,
+    "high": 1327.8,
+    "low": 1254.7,
+    "close": 1254.7,
+    "volume": 325378320,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "29-Sep-2025",
+    "open": 1260,
+    "high": 1285.6,
+    "low": 1227,
+    "close": 1275,
+    "volume": 470903633,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "30-Sep-2025",
+    "open": 1294.9,
+    "high": 1332,
+    "low": 1271,
+    "close": 1321,
+    "volume": 314775930,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "01-Oct-2025",
+    "open": 1329.7,
+    "high": 1358.7,
+    "low": 1300,
+    "close": 1330,
+    "volume": 199468788,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "03-Oct-2025",
+    "open": 1345,
+    "high": 1369,
+    "low": 1332,
+    "close": 1358,
+    "volume": 143171200,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "06-Oct-2025",
+    "open": 1363.4,
+    "high": 1412.8,
+    "low": 1356.8,
+    "close": 1382,
+    "volume": 349665062,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "07-Oct-2025",
+    "open": 1380,
+    "high": 1447.6,
+    "low": 1380,
+    "close": 1421,
+    "volume": 392072168,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "08-Oct-2025",
+    "open": 1425,
+    "high": 1449,
+    "low": 1393,
+    "close": 1393,
+    "volume": 133681275,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "09-Oct-2025",
+    "open": 1401.8,
+    "high": 1405.6,
+    "low": 1340.5,
+    "close": 1360,
+    "volume": 216309931,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "10-Oct-2025",
+    "open": 1366.2,
+    "high": 1403,
+    "low": 1353.8,
+    "close": 1393,
+    "volume": 217696019,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "13-Oct-2025",
+    "open": 1388.1,
+    "high": 1403.9,
+    "low": 1355,
+    "close": 1361,
+    "volume": 126657816,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "14-Oct-2025",
+    "open": 1368.6,
+    "high": 1374.4,
+    "low": 1312.2,
+    "close": 1349,
+    "volume": 227419047,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "15-Oct-2025",
+    "open": 1354,
+    "high": 1439.8,
+    "low": 1353.5,
+    "close": 1415,
+    "volume": 445328397,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "16-Oct-2025",
+    "open": 1423.3,
+    "high": 1426,
+    "low": 1370.9,
+    "close": 1384.6,
+    "volume": 242831843,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "17-Oct-2025",
+    "open": 1391.5,
+    "high": 1405.1,
+    "low": 1381.5,
+    "close": 1400.7,
+    "volume": 100695666,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "20-Oct-2025",
+    "open": 1409.8,
+    "high": 1433.5,
+    "low": 1398,
+    "close": 1417.9,
+    "volume": 174930165,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "21-Oct-2025",
+    "open": 1425,
+    "high": 1448,
+    "low": 1420,
+    "close": 1431.8,
+    "volume": 82667983,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "23-Oct-2025",
+    "open": 1455,
+    "high": 1475,
+    "low": 1400,
+    "close": 1404.5,
+    "volume": 172995789,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "24-Oct-2025",
+    "open": 1404.8,
+    "high": 1424.1,
+    "low": 1365.5,
+    "close": 1381.1,
+    "volume": 149102469,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "27-Oct-2025",
+    "open": 1394.8,
+    "high": 1395.9,
+    "low": 1360,
+    "close": 1382.5,
+    "volume": 95850082,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "28-Oct-2025",
+    "open": 1388,
+    "high": 1390,
+    "low": 1364,
+    "close": 1370.1,
+    "volume": 94645120,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "29-Oct-2025",
+    "open": 1379,
+    "high": 1387,
+    "low": 1363.1,
+    "close": 1380,
+    "volume": 80071678,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "30-Oct-2025",
+    "open": 1375.1,
+    "high": 1379.9,
+    "low": 1337.5,
+    "close": 1360,
+    "volume": 409677457,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "31-Oct-2025",
+    "open": 1364.9,
+    "high": 1372.4,
+    "low": 1304,
+    "close": 1330,
+    "volume": 416336469,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "03-Nov-2025",
+    "open": 1338,
+    "high": 1347,
+    "low": 1304,
+    "close": 1325,
+    "volume": 252181726,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "04-Nov-2025",
+    "open": 1329.8,
+    "high": 1329.8,
+    "low": 1307,
+    "close": 1325.9,
+    "volume": 167998251,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "06-Nov-2025",
+    "open": 1335.5,
+    "high": 1425.8,
+    "low": 1327.5,
+    "close": 1402,
+    "volume": 581889054,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "07-Nov-2025",
+    "open": 1400,
+    "high": 1544.2,
+    "low": 1390.8,
+    "close": 1527,
+    "volume": 2359718724,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "10-Nov-2025",
+    "open": 1589.9,
+    "high": 1589.9,
+    "low": 1462.6,
+    "close": 1496,
+    "volume": 925562548,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "11-Nov-2025",
+    "open": 1501.8,
+    "high": 1524.5,
+    "low": 1463.7,
+    "close": 1497.1,
+    "volume": 255736117,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "12-Nov-2025",
+    "open": 1507.8,
+    "high": 1515.1,
+    "low": 1482.3,
+    "close": 1500,
+    "volume": 215277764,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "13-Nov-2025",
+    "open": 1570,
+    "high": 1645.1,
+    "low": 1552,
+    "close": 1645.1,
+    "volume": 2365628128,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "14-Nov-2025",
+    "open": 1668,
+    "high": 1716.9,
+    "low": 1580,
+    "close": 1618.1,
+    "volume": 1092524274,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "17-Nov-2025",
+    "open": 1620.9,
+    "high": 1703.2,
+    "low": 1604.8,
+    "close": 1674,
+    "volume": 530451562,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "18-Nov-2025",
+    "open": 1676.1,
+    "high": 1699.9,
+    "low": 1666.1,
+    "close": 1687,
+    "volume": 210942464,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "19-Nov-2025",
+    "open": 1690,
+    "high": 1745.1,
+    "low": 1671.6,
+    "close": 1728,
+    "volume": 647862895,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "20-Nov-2025",
+    "open": 1737.3,
+    "high": 1742,
+    "low": 1666,
+    "close": 1682,
+    "volume": 208679060,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "21-Nov-2025",
+    "open": 1671.8,
+    "high": 1698,
+    "low": 1656.4,
+    "close": 1665,
+    "volume": 162022785,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "24-Nov-2025",
+    "open": 1667.7,
+    "high": 1683.9,
+    "low": 1588.2,
+    "close": 1622.2,
+    "volume": 254103491,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "25-Nov-2025",
+    "open": 1607.5,
+    "high": 1678,
+    "low": 1605.6,
+    "close": 1621.9,
+    "volume": 221909627,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "26-Nov-2025",
+    "open": 1631.7,
+    "high": 1651.5,
+    "low": 1577.2,
+    "close": 1592,
+    "volume": 219606610,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "27-Nov-2025",
+    "open": 1600,
+    "high": 1648,
+    "low": 1542.5,
+    "close": 1570.5,
+    "volume": 462252357,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "28-Nov-2025",
+    "open": 1571.5,
+    "high": 1596.1,
+    "low": 1521.1,
+    "close": 1540,
+    "volume": 343448942,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "01-Dec-2025",
+    "open": 1542,
+    "high": 1562.1,
+    "low": 1500,
+    "close": 1520.1,
+    "volume": 450864364,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "02-Dec-2025",
+    "open": 1525.4,
+    "high": 1554.4,
+    "low": 1515.1,
+    "close": 1547.5,
+    "volume": 234657899,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "03-Dec-2025",
+    "open": 1546.5,
+    "high": 1549.9,
+    "low": 1517.5,
+    "close": 1538.9,
+    "volume": 106755569,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "04-Dec-2025",
+    "open": 1530,
+    "high": 1535.9,
+    "low": 1493.9,
+    "close": 1513,
+    "volume": 217193431,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "05-Dec-2025",
+    "open": 1515,
+    "high": 1528.9,
+    "low": 1500,
+    "close": 1502.9,
+    "volume": 111792118,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "08-Dec-2025",
+    "open": 1505,
+    "high": 1550,
+    "low": 1470,
+    "close": 1499,
+    "volume": 336503778,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "09-Dec-2025",
+    "open": 1490.5,
+    "high": 1498.6,
+    "low": 1451.9,
+    "close": 1484,
+    "volume": 192360824,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "10-Dec-2025",
+    "open": 1483.5,
+    "high": 1508.2,
+    "low": 1461.1,
+    "close": 1461.1,
+    "volume": 137960082,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "11-Dec-2025",
+    "open": 1468.7,
+    "high": 1549,
+    "low": 1449.8,
+    "close": 1537.1,
+    "volume": 373327848,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "12-Dec-2025",
+    "open": 1544.7,
+    "high": 1565,
+    "low": 1531.1,
+    "close": 1555,
+    "volume": 206957151,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "15-Dec-2025",
+    "open": 1554.9,
+    "high": 1586.8,
+    "low": 1545.5,
+    "close": 1565,
+    "volume": 129571139,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "16-Dec-2025",
+    "open": 1570,
+    "high": 1570.9,
+    "low": 1530,
+    "close": 1538,
+    "volume": 71858320,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "17-Dec-2025",
+    "open": 1536.4,
+    "high": 1553.2,
+    "low": 1516.2,
+    "close": 1524,
+    "volume": 129103588,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "18-Dec-2025",
+    "open": 1521.4,
+    "high": 1537,
+    "low": 1494.5,
+    "close": 1521,
+    "volume": 68904858,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "19-Dec-2025",
+    "open": 1522.4,
+    "high": 1568,
+    "low": 1515.2,
+    "close": 1568,
+    "volume": 77642855,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "22-Dec-2025",
+    "open": 1573,
+    "high": 1607.9,
+    "low": 1564.9,
+    "close": 1594,
+    "volume": 227186072,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "23-Dec-2025",
+    "open": 1605,
+    "high": 1605,
+    "low": 1545.9,
+    "close": 1550.4,
+    "volume": 123521040,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "24-Dec-2025",
+    "open": 1544,
+    "high": 1558.6,
+    "low": 1510.8,
+    "close": 1520,
+    "volume": 123484588,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "26-Dec-2025",
+    "open": 1531.2,
+    "high": 1531.2,
+    "low": 1500,
+    "close": 1500.9,
+    "volume": 69216338,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "29-Dec-2025",
+    "open": 1505,
+    "high": 1532,
+    "low": 1463.3,
+    "close": 1485,
+    "volume": 138125944,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "30-Dec-2025",
+    "open": 1491.1,
+    "high": 1505,
+    "low": 1451.5,
+    "close": 1468,
+    "volume": 76812021,
+    "symbol": "CPPLUS"
+  },
+  {
+    "date": "31-Dec-2025",
+    "open": 1487.1,
+    "high": 1505.8,
+    "low": 1474.7,
+    "close": 1480,
+    "volume": 149955934,
+    "symbol": "CPPLUS"
+  }
+]

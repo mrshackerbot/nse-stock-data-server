@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1485,
+    "high": 1485,
+    "low": 1448.5,
+    "close": 1464.6,
+    "volume": 338785446,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1459,
+    "high": 1476,
+    "low": 1453,
+    "close": 1469.8,
+    "volume": 368881133,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1475,
+    "high": 1505.2,
+    "low": 1467.5,
+    "close": 1489.8,
+    "volume": 533665272,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1493,
+    "high": 1504.9,
+    "low": 1467.4,
+    "close": 1478.1,
+    "volume": 310572781,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1478.1,
+    "high": 1492.8,
+    "low": 1465.8,
+    "close": 1487.7,
+    "volume": 334567657,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1479.1,
+    "high": 1487.4,
+    "low": 1440,
+    "close": 1447,
+    "volume": 532318694,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1448,
+    "high": 1464.6,
+    "low": 1415,
+    "close": 1427,
+    "volume": 357420811,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1417.7,
+    "high": 1432.2,
+    "low": 1400.4,
+    "close": 1420,
+    "volume": 306960036,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1420,
+    "high": 1427.2,
+    "low": 1402.1,
+    "close": 1421,
+    "volume": 278247278,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1413.1,
+    "high": 1450.9,
+    "low": 1413,
+    "close": 1433,
+    "volume": 457341375,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1448,
+    "high": 1501.9,
+    "low": 1442.1,
+    "close": 1475.1,
+    "volume": 1178639607,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1468,
+    "high": 1489,
+    "low": 1450.5,
+    "close": 1461.9,
+    "volume": 610715255,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1455,
+    "high": 1456.4,
+    "low": 1416.9,
+    "close": 1427.5,
+    "volume": 948611228,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1414,
+    "high": 1425.9,
+    "low": 1354.7,
+    "close": 1361.7,
+    "volume": 706027826,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1380,
+    "high": 1402.5,
+    "low": 1367.6,
+    "close": 1378.5,
+    "volume": 478813015,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1385.1,
+    "high": 1385.2,
+    "low": 1324.6,
+    "close": 1351.7,
+    "volume": 572776931,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1310.3,
+    "high": 1329.9,
+    "low": 1234,
+    "close": 1278,
+    "volume": 1888201488,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1268.8,
+    "high": 1334,
+    "low": 1265,
+    "close": 1314,
+    "volume": 1110029355,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1323.8,
+    "high": 1333.9,
+    "low": 1296.7,
+    "close": 1333,
+    "volume": 664730022,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1320,
+    "high": 1355.4,
+    "low": 1300,
+    "close": 1345,
+    "volume": 405564407,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1345.4,
+    "high": 1356.9,
+    "low": 1210.9,
+    "close": 1246.8,
+    "volume": 2405328822,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1230.3,
+    "high": 1289,
+    "low": 1223,
+    "close": 1283,
+    "volume": 1210248051,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1350,
+    "high": 1385,
+    "low": 1336.8,
+    "close": 1356.5,
+    "volume": 622814381,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1362.9,
+    "high": 1396.5,
+    "low": 1338.6,
+    "close": 1388,
+    "volume": 309866880,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1387,
+    "high": 1395.2,
+    "low": 1365,
+    "close": 1375.1,
+    "volume": 166769892,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1382,
+    "high": 1382,
+    "low": 1324.5,
+    "close": 1354,
+    "volume": 342269903,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1375,
+    "high": 1403.1,
+    "low": 1365,
+    "close": 1385.7,
+    "volume": 252930676,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1394,
+    "high": 1406.3,
+    "low": 1368,
+    "close": 1377.4,
+    "volume": 369190038,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1370,
+    "high": 1392.5,
+    "low": 1302.9,
+    "close": 1313.9,
+    "volume": 794761916,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1324,
+    "high": 1344,
+    "low": 1302.1,
+    "close": 1307.4,
+    "volume": 599677723,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1297.4,
+    "high": 1319.4,
+    "low": 1280.7,
+    "close": 1296,
+    "volume": 387684846,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1259.6,
+    "high": 1293.2,
+    "low": 1235.4,
+    "close": 1289.9,
+    "volume": 1063746802,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1286.9,
+    "high": 1297,
+    "low": 1266.3,
+    "close": 1296.9,
+    "volume": 685214193,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1298.9,
+    "high": 1320,
+    "low": 1296.4,
+    "close": 1317.9,
+    "volume": 384041766,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1323,
+    "high": 1324.1,
+    "low": 1283.5,
+    "close": 1296,
+    "volume": 496425592,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1298.4,
+    "high": 1311,
+    "low": 1280.8,
+    "close": 1281.6,
+    "volume": 242531837,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1298.6,
+    "high": 1300,
+    "low": 1248.7,
+    "close": 1266.9,
+    "volume": 580318677,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1270,
+    "high": 1288,
+    "low": 1256.6,
+    "close": 1280,
+    "volume": 317034054,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1281.8,
+    "high": 1282,
+    "low": 1261.9,
+    "close": 1278,
+    "volume": 223584979,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1278,
+    "high": 1294.2,
+    "low": 1267.7,
+    "close": 1280,
+    "volume": 267923087,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1269,
+    "high": 1280,
+    "low": 1231,
+    "close": 1242.2,
+    "volume": 519838887,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1188.8,
+    "high": 1237.1,
+    "low": 1187.8,
+    "close": 1208.4,
+    "volume": 579217320,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1200,
+    "high": 1210.1,
+    "low": 1178.1,
+    "close": 1192.3,
+    "volume": 909719503,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1200.1,
+    "high": 1246,
+    "low": 1200.1,
+    "close": 1243,
+    "volume": 447986674,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1243.5,
+    "high": 1264.6,
+    "low": 1221.2,
+    "close": 1232,
+    "volume": 253185142,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1200,
+    "high": 1222.5,
+    "low": 1171.1,
+    "close": 1201,
+    "volume": 272859721,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1224,
+    "high": 1243.5,
+    "low": 1220,
+    "close": 1239.5,
+    "volume": 248033994,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1235.1,
+    "high": 1246.8,
+    "low": 1208.3,
+    "close": 1208.6,
+    "volume": 216912762,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1204.1,
+    "high": 1207.9,
+    "low": 1175.6,
+    "close": 1181.5,
+    "volume": 391308187,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1189,
+    "high": 1189,
+    "low": 1152,
+    "close": 1158.5,
+    "volume": 317727075,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1150,
+    "high": 1171,
+    "low": 1136.8,
+    "close": 1156,
+    "volume": 422462565,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1170,
+    "high": 1170.5,
+    "low": 1149.5,
+    "close": 1157.4,
+    "volume": 340921176,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1169,
+    "high": 1195,
+    "low": 1158,
+    "close": 1180.7,
+    "volume": 848731157,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1153.5,
+    "high": 1165,
+    "low": 1144.9,
+    "close": 1156.4,
+    "volume": 201885565,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1158.2,
+    "high": 1175,
+    "low": 1142.5,
+    "close": 1150.7,
+    "volume": 205749203,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1140,
+    "high": 1141.8,
+    "low": 1096.9,
+    "close": 1107.7,
+    "volume": 431172839,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1150,
+    "high": 1158.4,
+    "low": 1108.9,
+    "close": 1151,
+    "volume": 439843612,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1156,
+    "high": 1206.8,
+    "low": 1149.9,
+    "close": 1201,
+    "volume": 641389273,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1190.1,
+    "high": 1212,
+    "low": 1190,
+    "close": 1205,
+    "volume": 1300638031,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1195.4,
+    "high": 1195.4,
+    "low": 1125,
+    "close": 1125,
+    "volume": 830031963,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1181.6,
+    "high": 1200.2,
+    "low": 1130.4,
+    "close": 1143.8,
+    "volume": 947727483,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1124.9,
+    "high": 1149.4,
+    "low": 1109.5,
+    "close": 1140,
+    "volume": 411678518,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1150,
+    "high": 1180.8,
+    "low": 1125.7,
+    "close": 1175,
+    "volume": 494866779,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1174,
+    "high": 1181.4,
+    "low": 1155,
+    "close": 1179,
+    "volume": 358930193,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1210,
+    "high": 1290.6,
+    "low": 1210,
+    "close": 1284.9,
+    "volume": 874444719,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1284,
+    "high": 1321.8,
+    "low": 1276,
+    "close": 1299,
+    "volume": 428078213,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1308,
+    "high": 1327.9,
+    "low": 1297,
+    "close": 1305.3,
+    "volume": 270567823,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1292,
+    "high": 1304.9,
+    "low": 1259.9,
+    "close": 1299.4,
+    "volume": 245819153,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1334,
+    "high": 1348.9,
+    "low": 1316.3,
+    "close": 1341.8,
+    "volume": 348915152,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1344.9,
+    "high": 1377.6,
+    "low": 1344.9,
+    "close": 1366,
+    "volume": 656116699,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1366.8,
+    "high": 1410,
+    "low": 1360.1,
+    "close": 1408,
+    "volume": 512397130,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1406.9,
+    "high": 1415,
+    "low": 1371,
+    "close": 1380.9,
+    "volume": 510870499,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1381.4,
+    "high": 1398,
+    "low": 1376.5,
+    "close": 1385.5,
+    "volume": 287042418,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1387.2,
+    "high": 1404,
+    "low": 1368.4,
+    "close": 1368.5,
+    "volume": 710816779,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1363.3,
+    "high": 1382,
+    "low": 1360,
+    "close": 1377,
+    "volume": 330642081,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1379,
+    "high": 1389.9,
+    "low": 1335,
+    "close": 1344.9,
+    "volume": 557886111,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1350,
+    "high": 1373.5,
+    "low": 1347,
+    "close": 1362.7,
+    "volume": 333647001,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1353.5,
+    "high": 1391.2,
+    "low": 1353.5,
+    "close": 1383.3,
+    "volume": 432354991,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1386,
+    "high": 1392,
+    "low": 1341.4,
+    "close": 1345,
+    "volume": 427069833,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1346,
+    "high": 1346,
+    "low": 1313.1,
+    "close": 1333.4,
+    "volume": 470533732,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1335.7,
+    "high": 1347.8,
+    "low": 1316,
+    "close": 1342.9,
+    "volume": 467994844,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1334.1,
+    "high": 1364.7,
+    "low": 1318.4,
+    "close": 1342,
+    "volume": 1239781587,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1365,
+    "high": 1439,
+    "low": 1360.7,
+    "close": 1435,
+    "volume": 953646458,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1420,
+    "high": 1478.6,
+    "low": 1402,
+    "close": 1475,
+    "volume": 1416371665,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1474.5,
+    "high": 1647.9,
+    "low": 1462.3,
+    "close": 1631.1,
+    "volume": 9575677737,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1626,
+    "high": 1635.6,
+    "low": 1585.2,
+    "close": 1605,
+    "volume": 1446724131,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1575,
+    "high": 1598,
+    "low": 1542.8,
+    "close": 1551,
+    "volume": 1170916042,
+    "symbol": "NUVAMA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1541.1,
+    "high": 1563.6,
+    "low": 1515.4,
+    "close": 1525,
+    "volume": 507404210,
+    "symbol": "NUVAMA"
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 36.5,
+    "high": 37.3,
+    "low": 36.25,
+    "close": 36.75,
+    "volume": 77546195,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 37,
+    "high": 37.5,
+    "low": 36.7,
+    "close": 37,
+    "volume": 66770952,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 37,
+    "high": 37.9,
+    "low": 36.8,
+    "close": 37.1,
+    "volume": 93131966,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 36.6,
+    "high": 38.85,
+    "low": 36.45,
+    "close": 38.5,
+    "volume": 172367688,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 38.45,
+    "high": 39.1,
+    "low": 37.4,
+    "close": 37.65,
+    "volume": 147423896,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 38,
+    "high": 39.2,
+    "low": 38,
+    "close": 38.8,
+    "volume": 127531401,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 39.45,
+    "high": 39.8,
+    "low": 38.75,
+    "close": 39.15,
+    "volume": 194122458,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 39.4,
+    "high": 43.1,
+    "low": 39.4,
+    "close": 42.25,
+    "volume": 1132929741,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 42.8,
+    "high": 43.6,
+    "low": 42.15,
+    "close": 43.1,
+    "volume": 350709270,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 43,
+    "high": 43.25,
+    "low": 42.5,
+    "close": 42.95,
+    "volume": 143610683,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 43.2,
+    "high": 43.6,
+    "low": 42.7,
+    "close": 42.75,
+    "volume": 120858228,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 42.85,
+    "high": 43,
+    "low": 41,
+    "close": 41.2,
+    "volume": 164153759,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 41.05,
+    "high": 42.6,
+    "low": 40.4,
+    "close": 42.15,
+    "volume": 162229782,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 42.05,
+    "high": 42.45,
+    "low": 41.4,
+    "close": 41.7,
+    "volume": 78738202,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 41.4,
+    "high": 41.7,
+    "low": 40.3,
+    "close": 40.95,
+    "volume": 82819467,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 40.7,
+    "high": 40.8,
+    "low": 37.5,
+    "close": 37.9,
+    "volume": 174138553,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 37.85,
+    "high": 39.4,
+    "low": 35.5,
+    "close": 39.2,
+    "volume": 119808020,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 39.2,
+    "high": 41.85,
+    "low": 38.5,
+    "close": 41.3,
+    "volume": 165495028,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 41.75,
+    "high": 42.2,
+    "low": 40.85,
+    "close": 41,
+    "volume": 140001177,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 41.35,
+    "high": 42.3,
+    "low": 40.8,
+    "close": 41.35,
+    "volume": 76808881,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 41.6,
+    "high": 42.15,
+    "low": 39.7,
+    "close": 40.5,
+    "volume": 136465725,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 40.85,
+    "high": 42.35,
+    "low": 40.6,
+    "close": 41.65,
+    "volume": 184408026,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 41.55,
+    "high": 42.3,
+    "low": 41.35,
+    "close": 41.5,
+    "volume": 119828989,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 41.8,
+    "high": 41.85,
+    "low": 40.6,
+    "close": 40.85,
+    "volume": 64981105,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 40.5,
+    "high": 42,
+    "low": 40.4,
+    "close": 41.1,
+    "volume": 117213913,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 41.4,
+    "high": 41.6,
+    "low": 40,
+    "close": 41.1,
+    "volume": 99908255,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 42,
+    "high": 42.75,
+    "low": 40,
+    "close": 40.25,
+    "volume": 193883938,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 40.4,
+    "high": 40.95,
+    "low": 39.8,
+    "close": 40.4,
+    "volume": 70237003,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 39.75,
+    "high": 40.85,
+    "low": 39.5,
+    "close": 39.7,
+    "volume": 53695682,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 38.8,
+    "high": 38.95,
+    "low": 36.1,
+    "close": 36.65,
+    "volume": 225670292,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 37.1,
+    "high": 38.05,
+    "low": 36.15,
+    "close": 37.75,
+    "volume": 98718738,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 38.55,
+    "high": 38.8,
+    "low": 38.1,
+    "close": 38.2,
+    "volume": 64017004,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 38.6,
+    "high": 38.7,
+    "low": 36.2,
+    "close": 36.9,
+    "volume": 93048462,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 36.5,
+    "high": 37.25,
+    "low": 36.4,
+    "close": 36.5,
+    "volume": 59928265,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 36.45,
+    "high": 36.55,
+    "low": 35.2,
+    "close": 35.45,
+    "volume": 68111625,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 34.4,
+    "high": 35.1,
+    "low": 34,
+    "close": 34.95,
+    "volume": 54630720,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 35.95,
+    "high": 36.15,
+    "low": 35.05,
+    "close": 35.15,
+    "volume": 77769012,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 33.3,
+    "high": 34.3,
+    "low": 31.5,
+    "close": 31.75,
+    "volume": 134253011,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 33.8,
+    "high": 34.6,
+    "low": 33.1,
+    "close": 34.4,
+    "volume": 107943232,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 33.5,
+    "high": 34.3,
+    "low": 32.9,
+    "close": 34.15,
+    "volume": 74712936,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 33.85,
+    "high": 34.4,
+    "low": 33.5,
+    "close": 34.15,
+    "volume": 52833050,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 34.5,
+    "high": 34.9,
+    "low": 33.85,
+    "close": 34.05,
+    "volume": 48210975,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 33.6,
+    "high": 34.05,
+    "low": 33.35,
+    "close": 33.8,
+    "volume": 37058444,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 33,
+    "high": 33.25,
+    "low": 32.15,
+    "close": 32.9,
+    "volume": 60701818,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 32.9,
+    "high": 34.35,
+    "low": 32.75,
+    "close": 33.75,
+    "volume": 46773243,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 34.2,
+    "high": 34.7,
+    "low": 34.1,
+    "close": 34.5,
+    "volume": 35841561,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 35.4,
+    "high": 35.65,
+    "low": 34.6,
+    "close": 34.75,
+    "volume": 66482387,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 34.8,
+    "high": 35.5,
+    "low": 34.4,
+    "close": 35,
+    "volume": 33103633,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 35,
+    "high": 35.6,
+    "low": 34.95,
+    "close": 35.3,
+    "volume": 58544531,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 35.3,
+    "high": 35.6,
+    "low": 33.8,
+    "close": 34,
+    "volume": 61334580,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 34.9,
+    "high": 34.9,
+    "low": 34.3,
+    "close": 34.5,
+    "volume": 37047289,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 34.95,
+    "high": 35.3,
+    "low": 34.65,
+    "close": 35,
+    "volume": 77336799,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 35.05,
+    "high": 35.2,
+    "low": 34.45,
+    "close": 34.5,
+    "volume": 36152839,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 34.7,
+    "high": 35.05,
+    "low": 34.3,
+    "close": 34.75,
+    "volume": 35028169,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 34.9,
+    "high": 35.1,
+    "low": 34.55,
+    "close": 34.6,
+    "volume": 44254245,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 34.3,
+    "high": 35.1,
+    "low": 33.65,
+    "close": 33.85,
+    "volume": 97931374,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 34.15,
+    "high": 34.25,
+    "low": 33.4,
+    "close": 33.6,
+    "volume": 39977130,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 33.75,
+    "high": 33.8,
+    "low": 32.85,
+    "close": 33,
+    "volume": 54873987,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 33.7,
+    "high": 34.25,
+    "low": 32.75,
+    "close": 33,
+    "volume": 111831686,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 33.45,
+    "high": 33.6,
+    "low": 31.2,
+    "close": 32.35,
+    "volume": 147936241,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 32.3,
+    "high": 33.1,
+    "low": 32.15,
+    "close": 32.25,
+    "volume": 83189170,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 32.6,
+    "high": 34.8,
+    "low": 32.4,
+    "close": 34.6,
+    "volume": 155487581,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 34.8,
+    "high": 36.7,
+    "low": 34.8,
+    "close": 35.8,
+    "volume": 137999470,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 36.5,
+    "high": 36.65,
+    "low": 35.55,
+    "close": 35.85,
+    "volume": 99775416,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 32.7,
+    "high": 33.55,
+    "low": 32.35,
+    "close": 33.15,
+    "volume": 815002980,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 33.25,
+    "high": 34,
+    "low": 33.25,
+    "close": 33.4,
+    "volume": 238655060,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 33.7,
+    "high": 33.75,
+    "low": 32.85,
+    "close": 33.1,
+    "volume": 215239390,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 32.95,
+    "high": 33.4,
+    "low": 32.8,
+    "close": 33.1,
+    "volume": 112216649,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 32.8,
+    "high": 33.1,
+    "low": 32.5,
+    "close": 32.8,
+    "volume": 100755597,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 32.85,
+    "high": 33.1,
+    "low": 32.6,
+    "close": 32.85,
+    "volume": 88542286,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 32.5,
+    "high": 32.55,
+    "low": 32.1,
+    "close": 32.4,
+    "volume": 75923495,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 32.45,
+    "high": 32.95,
+    "low": 31.35,
+    "close": 31.6,
+    "volume": 103340500,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 32.05,
+    "high": 32.15,
+    "low": 31.7,
+    "close": 32,
+    "volume": 69011372,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 32.15,
+    "high": 32.75,
+    "low": 32,
+    "close": 32.65,
+    "volume": 51665977,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 32.35,
+    "high": 32.5,
+    "low": 31.8,
+    "close": 31.95,
+    "volume": 62249364,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 31.25,
+    "high": 31.8,
+    "low": 31.25,
+    "close": 31.4,
+    "volume": 58637502,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 31.8,
+    "high": 32.1,
+    "low": 30.85,
+    "close": 31.15,
+    "volume": 102698225,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 31.1,
+    "high": 31.55,
+    "low": 30.85,
+    "close": 31.2,
+    "volume": 55855043,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 31.5,
+    "high": 31.6,
+    "low": 30.8,
+    "close": 30.9,
+    "volume": 66268723,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 31.15,
+    "high": 31.4,
+    "low": 30.8,
+    "close": 30.95,
+    "volume": 48633204,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 30.5,
+    "high": 30.8,
+    "low": 30.3,
+    "close": 30.65,
+    "volume": 48249179,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 30.8,
+    "high": 30.95,
+    "low": 30,
+    "close": 30.45,
+    "volume": 56184143,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 30.8,
+    "high": 31.2,
+    "low": 30.55,
+    "close": 30.8,
+    "volume": 45176189,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 30.2,
+    "high": 30.7,
+    "low": 29.85,
+    "close": 30.4,
+    "volume": 52534216,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 30.15,
+    "high": 30.35,
+    "low": 29.8,
+    "close": 30.2,
+    "volume": 47470395,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 30.4,
+    "high": 31.1,
+    "low": 30,
+    "close": 30.35,
+    "volume": 51481807,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 30.05,
+    "high": 30.3,
+    "low": 28.8,
+    "close": 29.6,
+    "volume": 78126855,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 30,
+    "high": 30,
+    "low": 25.5,
+    "close": 27.9,
+    "volume": 95578834,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 27.7,
+    "high": 28.85,
+    "low": 27.4,
+    "close": 28.55,
+    "volume": 92034667,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 29.35,
+    "high": 29.35,
+    "low": 28.4,
+    "close": 28.95,
+    "volume": 31291490,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 29,
+    "high": 29.4,
+    "low": 28.65,
+    "close": 29.35,
+    "volume": 38371212,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 29.3,
+    "high": 29.8,
+    "low": 29.1,
+    "close": 29.2,
+    "volume": 36318473,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 28.85,
+    "high": 28.95,
+    "low": 28.5,
+    "close": 28.7,
+    "volume": 33024073,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 28.65,
+    "high": 29.25,
+    "low": 28.65,
+    "close": 29,
+    "volume": 39812388,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 29.2,
+    "high": 29.2,
+    "low": 28.7,
+    "close": 29.05,
+    "volume": 25056661,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 28.8,
+    "high": 29.3,
+    "low": 28.8,
+    "close": 28.95,
+    "volume": 23026186,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 28.9,
+    "high": 29.25,
+    "low": 28.25,
+    "close": 28.25,
+    "volume": 22489577,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 28.55,
+    "high": 28.9,
+    "low": 28.2,
+    "close": 28.8,
+    "volume": 30533218,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 29,
+    "high": 29.15,
+    "low": 28.65,
+    "close": 29.05,
+    "volume": 23364054,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 29.25,
+    "high": 30.4,
+    "low": 29.15,
+    "close": 30.15,
+    "volume": 35727790,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 30.2,
+    "high": 30.3,
+    "low": 29.65,
+    "close": 30.2,
+    "volume": 26944186,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 29.95,
+    "high": 30.2,
+    "low": 29.65,
+    "close": 30,
+    "volume": 22124976,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 30,
+    "high": 30.8,
+    "low": 29.75,
+    "close": 30.15,
+    "volume": 37096722,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 30.3,
+    "high": 30.5,
+    "low": 29.6,
+    "close": 29.8,
+    "volume": 24991698,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 29.55,
+    "high": 29.65,
+    "low": 28.95,
+    "close": 29.3,
+    "volume": 18093130,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 29,
+    "high": 29.25,
+    "low": 28.85,
+    "close": 29.05,
+    "volume": 23103162,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 29.05,
+    "high": 29.45,
+    "low": 28.8,
+    "close": 29,
+    "volume": 15413542,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 28.95,
+    "high": 29.05,
+    "low": 28.7,
+    "close": 28.75,
+    "volume": 17352429,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 28.55,
+    "high": 28.85,
+    "low": 28.45,
+    "close": 28.6,
+    "volume": 16228624,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 28.25,
+    "high": 28.25,
+    "low": 26.85,
+    "close": 26.9,
+    "volume": 30391357,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 27.05,
+    "high": 27.2,
+    "low": 26.7,
+    "close": 26.9,
+    "volume": 19086833,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 27.25,
+    "high": 27.25,
+    "low": 26.55,
+    "close": 26.75,
+    "volume": 18486282,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 27,
+    "high": 27.15,
+    "low": 25,
+    "close": 25.15,
+    "volume": 26567896,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 25.1,
+    "high": 25.55,
+    "low": 24.7,
+    "close": 25.45,
+    "volume": 27597679,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 25.6,
+    "high": 25.6,
+    "low": 23.8,
+    "close": 24.2,
+    "volume": 22483394,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 24.1,
+    "high": 25.1,
+    "low": 24.1,
+    "close": 25,
+    "volume": 17933948,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 24.85,
+    "high": 24.95,
+    "low": 24.3,
+    "close": 24.5,
+    "volume": 13889356,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 24.75,
+    "high": 25.15,
+    "low": 24.4,
+    "close": 25.1,
+    "volume": 16003205,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 25.4,
+    "high": 25.6,
+    "low": 25,
+    "close": 25.35,
+    "volume": 17239189,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 25.9,
+    "high": 26.15,
+    "low": 25.45,
+    "close": 25.55,
+    "volume": 28117198,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 25.5,
+    "high": 26.45,
+    "low": 25.4,
+    "close": 26.35,
+    "volume": 22609083,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 26.1,
+    "high": 26.75,
+    "low": 25.8,
+    "close": 25.8,
+    "volume": 39101475,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 25.6,
+    "high": 26,
+    "low": 25.2,
+    "close": 25.3,
+    "volume": 15932471,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 25.4,
+    "high": 25.45,
+    "low": 24.5,
+    "close": 25.3,
+    "volume": 19355611,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 25.5,
+    "high": 25.65,
+    "low": 24.95,
+    "close": 25.5,
+    "volume": 18567978,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 25.6,
+    "high": 26.2,
+    "low": 25.45,
+    "close": 25.6,
+    "volume": 24662839,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 25.6,
+    "high": 25.85,
+    "low": 25.55,
+    "close": 25.75,
+    "volume": 10411894,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 25.8,
+    "high": 27.1,
+    "low": 25.8,
+    "close": 27,
+    "volume": 39472374,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 27.25,
+    "high": 27.25,
+    "low": 26.5,
+    "close": 26.7,
+    "volume": 19827694,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 26.4,
+    "high": 27.45,
+    "low": 26.4,
+    "close": 27.2,
+    "volume": 31503627,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 26.9,
+    "high": 27.45,
+    "low": 26.75,
+    "close": 26.9,
+    "volume": 17198756,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 26.95,
+    "high": 27.45,
+    "low": 26.7,
+    "close": 26.9,
+    "volume": 11986491,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 26.9,
+    "high": 27,
+    "low": 26.5,
+    "close": 26.65,
+    "volume": 12905263,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 26.9,
+    "high": 26.9,
+    "low": 26.25,
+    "close": 26.55,
+    "volume": 10030437,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 27,
+    "high": 27.15,
+    "low": 26.6,
+    "close": 27.1,
+    "volume": 21917431,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 27,
+    "high": 28.05,
+    "low": 26.95,
+    "close": 27.85,
+    "volume": 48139279,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 28.1,
+    "high": 28.7,
+    "low": 27.8,
+    "close": 27.85,
+    "volume": 35626620,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 27.75,
+    "high": 28.4,
+    "low": 27.65,
+    "close": 28.05,
+    "volume": 33823866,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 28.1,
+    "high": 29,
+    "low": 28,
+    "close": 28.6,
+    "volume": 49766817,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 28.6,
+    "high": 28.7,
+    "low": 27.9,
+    "close": 28.3,
+    "volume": 26744845,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 28.05,
+    "high": 28.3,
+    "low": 27.7,
+    "close": 27.85,
+    "volume": 20103406,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 27.95,
+    "high": 28.55,
+    "low": 27.7,
+    "close": 28.45,
+    "volume": 26299911,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 28.3,
+    "high": 29.25,
+    "low": 28.3,
+    "close": 28.95,
+    "volume": 37778797,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 29.25,
+    "high": 29.55,
+    "low": 28.8,
+    "close": 28.95,
+    "volume": 24362196,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 29,
+    "high": 30.2,
+    "low": 29,
+    "close": 29.7,
+    "volume": 50910962,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 29.65,
+    "high": 32.25,
+    "low": 29.5,
+    "close": 31.05,
+    "volume": 128111903,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 31.2,
+    "high": 31.25,
+    "low": 30.4,
+    "close": 30.7,
+    "volume": 35965125,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 30.65,
+    "high": 31.35,
+    "low": 30.05,
+    "close": 30.6,
+    "volume": 49061366,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 30.6,
+    "high": 31.25,
+    "low": 30.5,
+    "close": 30.75,
+    "volume": 45631813,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 30.85,
+    "high": 31.15,
+    "low": 30.5,
+    "close": 30.65,
+    "volume": 19802174,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 30.75,
+    "high": 30.95,
+    "low": 30.5,
+    "close": 30.55,
+    "volume": 18570967,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 30.7,
+    "high": 30.95,
+    "low": 28.85,
+    "close": 29.3,
+    "volume": 89904521,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 29.35,
+    "high": 29.75,
+    "low": 29.25,
+    "close": 29.65,
+    "volume": 21939816,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 29.85,
+    "high": 29.95,
+    "low": 29.4,
+    "close": 29.6,
+    "volume": 26651334,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 29.75,
+    "high": 30.5,
+    "low": 29.45,
+    "close": 30.3,
+    "volume": 42998459,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 30.3,
+    "high": 31.55,
+    "low": 30.15,
+    "close": 31.3,
+    "volume": 104195060,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 31.15,
+    "high": 31.55,
+    "low": 30.2,
+    "close": 30.35,
+    "volume": 49660812,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 30.2,
+    "high": 30.2,
+    "low": 29.55,
+    "close": 29.7,
+    "volume": 25078745,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 29.4,
+    "high": 30.4,
+    "low": 29.25,
+    "close": 30.25,
+    "volume": 22794476,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 30.25,
+    "high": 30.65,
+    "low": 29.9,
+    "close": 30.3,
+    "volume": 32057012,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 30.6,
+    "high": 32.1,
+    "low": 30.6,
+    "close": 31.5,
+    "volume": 155527476,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 32,
+    "high": 32.75,
+    "low": 31.65,
+    "close": 31.95,
+    "volume": 95330921,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 31,
+    "high": 31.45,
+    "low": 30.15,
+    "close": 31.35,
+    "volume": 31291847,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 31.4,
+    "high": 32.45,
+    "low": 31.3,
+    "close": 31.75,
+    "volume": 39161258,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 31.5,
+    "high": 32.55,
+    "low": 31.3,
+    "close": 31.8,
+    "volume": 49192971,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 31.85,
+    "high": 32.25,
+    "low": 30.95,
+    "close": 31.2,
+    "volume": 37787691,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 31.2,
+    "high": 32.2,
+    "low": 31.2,
+    "close": 31.85,
+    "volume": 49513587,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 31.9,
+    "high": 32.8,
+    "low": 31.65,
+    "close": 31.9,
+    "volume": 97462051,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 31.85,
+    "high": 32.2,
+    "low": 31.5,
+    "close": 32,
+    "volume": 61061651,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 32.1,
+    "high": 33.45,
+    "low": 32.1,
+    "close": 32.5,
+    "volume": 146039271,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 32.7,
+    "high": 33.1,
+    "low": 32.35,
+    "close": 32.45,
+    "volume": 69770764,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 32.7,
+    "high": 32.9,
+    "low": 32.35,
+    "close": 32.7,
+    "volume": 42973465,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 32.95,
+    "high": 33.15,
+    "low": 32.65,
+    "close": 32.7,
+    "volume": 50886003,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 32.4,
+    "high": 33.55,
+    "low": 32,
+    "close": 33.05,
+    "volume": 124630166,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 33.65,
+    "high": 33.95,
+    "low": 33.1,
+    "close": 33.15,
+    "volume": 87864089,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 33.25,
+    "high": 33.8,
+    "low": 31.55,
+    "close": 31.75,
+    "volume": 139922343,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 32.1,
+    "high": 32.95,
+    "low": 31.95,
+    "close": 32.1,
+    "volume": 76472204,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 32.75,
+    "high": 32.85,
+    "low": 31.65,
+    "close": 32.15,
+    "volume": 92033461,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 32.6,
+    "high": 32.85,
+    "low": 31.4,
+    "close": 32.15,
+    "volume": 84832190,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 31.75,
+    "high": 32.55,
+    "low": 31.65,
+    "close": 32.2,
+    "volume": 49707034,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 32,
+    "high": 32.35,
+    "low": 31.1,
+    "close": 31.25,
+    "volume": 53742728,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 31.15,
+    "high": 31.15,
+    "low": 29.5,
+    "close": 29.65,
+    "volume": 95473772,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 29.95,
+    "high": 30.25,
+    "low": 27.85,
+    "close": 28.15,
+    "volume": 154635844,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 27.8,
+    "high": 28.1,
+    "low": 27.3,
+    "close": 27.6,
+    "volume": 72892143,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 28.35,
+    "high": 28.35,
+    "low": 26.7,
+    "close": 27.15,
+    "volume": 117963819,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 27.15,
+    "high": 28.2,
+    "low": 27,
+    "close": 28.2,
+    "volume": 101707732,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 28.1,
+    "high": 28.5,
+    "low": 27.4,
+    "close": 27.75,
+    "volume": 70572171,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 28.25,
+    "high": 28.7,
+    "low": 27.9,
+    "close": 28.5,
+    "volume": 86253817,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 28.7,
+    "high": 29.95,
+    "low": 28.7,
+    "close": 29.4,
+    "volume": 62039877,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 29.3,
+    "high": 29.5,
+    "low": 29,
+    "close": 29.3,
+    "volume": 49056942,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 28.75,
+    "high": 29.1,
+    "low": 28.7,
+    "close": 28.85,
+    "volume": 34336775,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 28.7,
+    "high": 29.05,
+    "low": 28.45,
+    "close": 28.55,
+    "volume": 33129743,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 28.7,
+    "high": 28.9,
+    "low": 28.3,
+    "close": 28.6,
+    "volume": 23841054,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 28.75,
+    "high": 28.75,
+    "low": 27.75,
+    "close": 28.15,
+    "volume": 30996328,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 28.65,
+    "high": 28.75,
+    "low": 28.25,
+    "close": 28.3,
+    "volume": 23192178,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 28.55,
+    "high": 29.35,
+    "low": 28.35,
+    "close": 28.9,
+    "volume": 49670498,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 29.1,
+    "high": 31.95,
+    "low": 29.1,
+    "close": 31.3,
+    "volume": 278643616,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 31.45,
+    "high": 31.6,
+    "low": 30.5,
+    "close": 30.6,
+    "volume": 81090682,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 30.2,
+    "high": 31.7,
+    "low": 29.9,
+    "close": 31.6,
+    "volume": 124572510,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 31.9,
+    "high": 35.15,
+    "low": 31.5,
+    "close": 33.45,
+    "volume": 683330990,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 34.45,
+    "high": 35,
+    "low": 34.3,
+    "close": 35,
+    "volume": 165593484,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 34.65,
+    "high": 38.1,
+    "low": 33.6,
+    "close": 37.3,
+    "volume": 950543674,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 37.5,
+    "high": 39.2,
+    "low": 37.05,
+    "close": 38.5,
+    "volume": 605676182,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 38.75,
+    "high": 39.35,
+    "low": 37.7,
+    "close": 38.15,
+    "volume": 470536039,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 38.65,
+    "high": 40.1,
+    "low": 37.7,
+    "close": 39.5,
+    "volume": 593564252,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 39.2,
+    "high": 40.7,
+    "low": 38.85,
+    "close": 40,
+    "volume": 536919655,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 39.55,
+    "high": 41.35,
+    "low": 39.15,
+    "close": 39.5,
+    "volume": 427093475,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 39,
+    "high": 41,
+    "low": 39,
+    "close": 40.85,
+    "volume": 396589604,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 40.8,
+    "high": 41.8,
+    "low": 40.7,
+    "close": 41.4,
+    "volume": 410397461,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 42.1,
+    "high": 42.7,
+    "low": 40.5,
+    "close": 40.75,
+    "volume": 395444621,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 41.3,
+    "high": 43.5,
+    "low": 40.45,
+    "close": 42.45,
+    "volume": 832022313,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 42.5,
+    "high": 42.65,
+    "low": 40.25,
+    "close": 40.9,
+    "volume": 396768258,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 41.95,
+    "high": 42.35,
+    "low": 40.45,
+    "close": 40.9,
+    "volume": 256363874,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 40.85,
+    "high": 40.85,
+    "low": 38.55,
+    "close": 39,
+    "volume": 252111484,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 39.15,
+    "high": 39.6,
+    "low": 38.2,
+    "close": 39.35,
+    "volume": 237808022,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 39.45,
+    "high": 40.9,
+    "low": 39.15,
+    "close": 39.95,
+    "volume": 289663489,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 39.8,
+    "high": 41.1,
+    "low": 39.65,
+    "close": 40.15,
+    "volume": 387526954,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 40.7,
+    "high": 42.85,
+    "low": 40.5,
+    "close": 42,
+    "volume": 742143997,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 42.1,
+    "high": 45.45,
+    "low": 41.9,
+    "close": 44.65,
+    "volume": 1200132651,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 44.6,
+    "high": 47.4,
+    "low": 44.55,
+    "close": 45.9,
+    "volume": 1227004379,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 46.3,
+    "high": 47,
+    "low": 45.5,
+    "close": 45.65,
+    "volume": 525446599,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 45.95,
+    "high": 48.35,
+    "low": 45.6,
+    "close": 46.7,
+    "volume": 794603376,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 46.9,
+    "high": 48.85,
+    "low": 46.75,
+    "close": 47,
+    "volume": 736404239,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 47.5,
+    "high": 47.6,
+    "low": 46.05,
+    "close": 46.4,
+    "volume": 352025765,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 46.6,
+    "high": 47.1,
+    "low": 45.4,
+    "close": 46.55,
+    "volume": 383197156,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 46.75,
+    "high": 47.2,
+    "low": 45.45,
+    "close": 45.7,
+    "volume": 258843897,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 45.95,
+    "high": 46.35,
+    "low": 44.75,
+    "close": 45.85,
+    "volume": 312338455,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 45.85,
+    "high": 47.4,
+    "low": 45.55,
+    "close": 46.75,
+    "volume": 325856997,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 47,
+    "high": 51.75,
+    "low": 46.4,
+    "close": 51.75,
+    "volume": 1292120717,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 51.65,
+    "high": 54.85,
+    "low": 50.8,
+    "close": 54.6,
+    "volume": 2045131510,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 54.8,
+    "high": 57.6,
+    "low": 53.6,
+    "close": 56.7,
+    "volume": 1766609087,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 57.1,
+    "high": 62,
+    "low": 56.5,
+    "close": 61.55,
+    "volume": 2110556064,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 62,
+    "high": 62,
+    "low": 54.25,
+    "close": 55.95,
+    "volume": 2222641918,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 55.85,
+    "high": 60.95,
+    "low": 55.65,
+    "close": 60.2,
+    "volume": 1640209780,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 60.4,
+    "high": 62.8,
+    "low": 58.4,
+    "close": 60.8,
+    "volume": 1994905111,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 61.2,
+    "high": 62.65,
+    "low": 58.8,
+    "close": 59.85,
+    "volume": 1324748077,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 60.85,
+    "high": 62.25,
+    "low": 56,
+    "close": 56.95,
+    "volume": 1680673394,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 57.8,
+    "high": 58.65,
+    "low": 54.95,
+    "close": 56.4,
+    "volume": 1052132424,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 56.4,
+    "high": 56.65,
+    "low": 53.8,
+    "close": 55.55,
+    "volume": 689633852,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 54.8,
+    "high": 57.4,
+    "low": 54.8,
+    "close": 56.3,
+    "volume": 704010299,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 56.55,
+    "high": 57.8,
+    "low": 51.5,
+    "close": 52.8,
+    "volume": 1076213151,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 53.2,
+    "high": 53.9,
+    "low": 49.3,
+    "close": 50.35,
+    "volume": 931918101,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 49,
+    "high": 50.1,
+    "low": 45.9,
+    "close": 47.1,
+    "volume": 1001435771,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 47.2,
+    "high": 55.95,
+    "low": 46.25,
+    "close": 55.95,
+    "volume": 1873037091,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 56.4,
+    "high": 57.85,
+    "low": 53.35,
+    "close": 55,
+    "volume": 958552744,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 55.1,
+    "high": 56.4,
+    "low": 54.5,
+    "close": 54.7,
+    "volume": 678860668,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 54.2,
+    "high": 56.7,
+    "low": 53.55,
+    "close": 56.65,
+    "volume": 388716768,
+    "symbol": "J&KBANK"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 56.55,
+    "high": 57.8,
+    "low": 55.1,
+    "close": 56.55,
+    "volume": 545966070,
+    "symbol": "J&KBANK"
+  }
+]

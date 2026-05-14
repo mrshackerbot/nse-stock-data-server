@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 44.3,
+    "high": 44.79,
+    "low": 43.6,
+    "close": 44.1,
+    "volume": 153678054,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 44.14,
+    "high": 45.79,
+    "low": 43.87,
+    "close": 45.75,
+    "volume": 327324204,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 45.75,
+    "high": 45.85,
+    "low": 44.66,
+    "close": 44.96,
+    "volume": 137742560,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 45.19,
+    "high": 46.15,
+    "low": 45.06,
+    "close": 45.7,
+    "volume": 321511663,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 45.6,
+    "high": 46.37,
+    "low": 45.06,
+    "close": 45.9,
+    "volume": 175293934,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 45.9,
+    "high": 45.97,
+    "low": 42.6,
+    "close": 42.9,
+    "volume": 297191756,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 42.79,
+    "high": 43.12,
+    "low": 41.59,
+    "close": 41.8,
+    "volume": 157811393,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 41.7,
+    "high": 42.24,
+    "low": 40.71,
+    "close": 42.22,
+    "volume": 140842764,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 42.5,
+    "high": 42.77,
+    "low": 41.47,
+    "close": 41.84,
+    "volume": 93975574,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 41.61,
+    "high": 44.14,
+    "low": 41.47,
+    "close": 42.98,
+    "volume": 309612627,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 43.5,
+    "high": 43.5,
+    "low": 41.61,
+    "close": 41.83,
+    "volume": 124897992,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 41.7,
+    "high": 41.86,
+    "low": 41.08,
+    "close": 41.34,
+    "volume": 75751600,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 41.4,
+    "high": 41.48,
+    "low": 39.6,
+    "close": 39.99,
+    "volume": 168879106,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 39.5,
+    "high": 40.21,
+    "low": 39.05,
+    "close": 39.7,
+    "volume": 154076593,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 39.75,
+    "high": 41.1,
+    "low": 39.75,
+    "close": 40.7,
+    "volume": 129843516,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 40.7,
+    "high": 41.38,
+    "low": 39.48,
+    "close": 39.79,
+    "volume": 163407806,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 39.98,
+    "high": 41.9,
+    "low": 39.2,
+    "close": 41.69,
+    "volume": 234715027,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 41.83,
+    "high": 42.96,
+    "low": 41.57,
+    "close": 42.85,
+    "volume": 162281831,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 43,
+    "high": 43.85,
+    "low": 42.78,
+    "close": 43.6,
+    "volume": 226240628,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 43,
+    "high": 43.15,
+    "low": 41.61,
+    "close": 42.32,
+    "volume": 170001075,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 42.25,
+    "high": 42.28,
+    "low": 40.75,
+    "close": 41.09,
+    "volume": 112775748,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 41.02,
+    "high": 42.8,
+    "low": 40.25,
+    "close": 42.38,
+    "volume": 176771427,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 43.5,
+    "high": 43.53,
+    "low": 39.7,
+    "close": 41.39,
+    "volume": 517121672,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 41.33,
+    "high": 41.56,
+    "low": 40.41,
+    "close": 41.4,
+    "volume": 282896820,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 41.02,
+    "high": 41.78,
+    "low": 40.75,
+    "close": 41.5,
+    "volume": 133579092,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 41.28,
+    "high": 41.75,
+    "low": 40.52,
+    "close": 41.4,
+    "volume": 108485807,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 41.71,
+    "high": 42.75,
+    "low": 41.14,
+    "close": 42.04,
+    "volume": 168591987,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 42.1,
+    "high": 43.11,
+    "low": 41.91,
+    "close": 42.4,
+    "volume": 145199528,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 42.45,
+    "high": 42.45,
+    "low": 41.75,
+    "close": 41.9,
+    "volume": 114138016,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 41.93,
+    "high": 41.93,
+    "low": 41.11,
+    "close": 41.21,
+    "volume": 78269180,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 40.95,
+    "high": 40.95,
+    "low": 40,
+    "close": 40.31,
+    "volume": 167207302,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 40.3,
+    "high": 40.54,
+    "low": 39.89,
+    "close": 40.39,
+    "volume": 62495802,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 40.4,
+    "high": 40.41,
+    "low": 39.92,
+    "close": 40.18,
+    "volume": 98678574,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 40.38,
+    "high": 40.83,
+    "low": 39.5,
+    "close": 39.8,
+    "volume": 241186773,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 40.01,
+    "high": 40.23,
+    "low": 38.75,
+    "close": 38.99,
+    "volume": 242458170,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 38.93,
+    "high": 39.3,
+    "low": 38.53,
+    "close": 39.1,
+    "volume": 73121292,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 39.2,
+    "high": 39.33,
+    "low": 38.6,
+    "close": 38.82,
+    "volume": 80837495,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 38.75,
+    "high": 38.85,
+    "low": 37.9,
+    "close": 38.8,
+    "volume": 113445364,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 39,
+    "high": 40.09,
+    "low": 38.88,
+    "close": 39.3,
+    "volume": 211891853,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 39.45,
+    "high": 40.69,
+    "low": 39.32,
+    "close": 40.24,
+    "volume": 260062427,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 40.54,
+    "high": 40.85,
+    "low": 39.84,
+    "close": 40.63,
+    "volume": 150030147,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 39.25,
+    "high": 41.14,
+    "low": 39.07,
+    "close": 39.9,
+    "volume": 185421703,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 39.01,
+    "high": 39.22,
+    "low": 37.81,
+    "close": 38.31,
+    "volume": 175857622,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 38.65,
+    "high": 39.13,
+    "low": 38.1,
+    "close": 38.6,
+    "volume": 98650125,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 38.4,
+    "high": 39.24,
+    "low": 38.32,
+    "close": 38.55,
+    "volume": 74081860,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 37.85,
+    "high": 37.85,
+    "low": 36.55,
+    "close": 37.48,
+    "volume": 153260525,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 37.62,
+    "high": 38.09,
+    "low": 37.3,
+    "close": 37.75,
+    "volume": 100610409,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 37.63,
+    "high": 38.84,
+    "low": 37.61,
+    "close": 37.69,
+    "volume": 128775236,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 37.89,
+    "high": 38.44,
+    "low": 36.81,
+    "close": 37.89,
+    "volume": 134704217,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 38,
+    "high": 38,
+    "low": 36.5,
+    "close": 36.52,
+    "volume": 140811596,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 36.52,
+    "high": 36.6,
+    "low": 35.4,
+    "close": 35.95,
+    "volume": 120465215,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 36.15,
+    "high": 37.14,
+    "low": 35.7,
+    "close": 36.98,
+    "volume": 105091159,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 37.07,
+    "high": 37.54,
+    "low": 36.58,
+    "close": 37.33,
+    "volume": 110867349,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 36.52,
+    "high": 36.9,
+    "low": 35.91,
+    "close": 36.11,
+    "volume": 101863689,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 36.4,
+    "high": 37.43,
+    "low": 36.4,
+    "close": 36.51,
+    "volume": 154004227,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 36.5,
+    "high": 36.51,
+    "low": 34.1,
+    "close": 34.28,
+    "volume": 451444649,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 35.5,
+    "high": 35.7,
+    "low": 34.43,
+    "close": 35.01,
+    "volume": 108937352,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 35.21,
+    "high": 36.16,
+    "low": 34.91,
+    "close": 35,
+    "volume": 194451906,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 34.99,
+    "high": 35.15,
+    "low": 34.05,
+    "close": 34.61,
+    "volume": 214640305,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 34.5,
+    "high": 34.59,
+    "low": 33.01,
+    "close": 33.29,
+    "volume": 208221757,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 34.87,
+    "high": 35.6,
+    "low": 34.07,
+    "close": 35.48,
+    "volume": 149499575,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 35.2,
+    "high": 35.75,
+    "low": 34.21,
+    "close": 35.45,
+    "volume": 90275367,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 35.51,
+    "high": 39,
+    "low": 34.94,
+    "close": 37.5,
+    "volume": 252252834,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 37.36,
+    "high": 41.68,
+    "low": 37.05,
+    "close": 39.2,
+    "volume": 1461555377,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 41,
+    "high": 41,
+    "low": 39.74,
+    "close": 40.12,
+    "volume": 264238173,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 40.19,
+    "high": 41.74,
+    "low": 39.78,
+    "close": 40.8,
+    "volume": 340984893,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 41,
+    "high": 42.27,
+    "low": 40.81,
+    "close": 41.85,
+    "volume": 406191476,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 41.1,
+    "high": 42.19,
+    "low": 40.5,
+    "close": 41.48,
+    "volume": 233220286,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 42.1,
+    "high": 42.63,
+    "low": 41.21,
+    "close": 41.39,
+    "volume": 264428687,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 41.93,
+    "high": 42.28,
+    "low": 41.25,
+    "close": 41.92,
+    "volume": 283896250,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 41.9,
+    "high": 42.91,
+    "low": 41.9,
+    "close": 42.7,
+    "volume": 203560658,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 42.5,
+    "high": 42.56,
+    "low": 41.55,
+    "close": 41.79,
+    "volume": 138482850,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 41.8,
+    "high": 42.42,
+    "low": 41.65,
+    "close": 41.9,
+    "volume": 111179424,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 41.78,
+    "high": 42.62,
+    "low": 41.78,
+    "close": 42.5,
+    "volume": 131864509,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 42.1,
+    "high": 42.44,
+    "low": 41.1,
+    "close": 41.2,
+    "volume": 105883395,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 41.45,
+    "high": 41.5,
+    "low": 40.6,
+    "close": 41.25,
+    "volume": 77402608,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 41.25,
+    "high": 42.15,
+    "low": 41.25,
+    "close": 41.58,
+    "volume": 99851817,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 41.58,
+    "high": 42.55,
+    "low": 40.91,
+    "close": 41.51,
+    "volume": 234817312,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 41.8,
+    "high": 42.89,
+    "low": 41.23,
+    "close": 42.5,
+    "volume": 332509200,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 42.74,
+    "high": 43.54,
+    "low": 42.24,
+    "close": 42.79,
+    "volume": 495597125,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 43.19,
+    "high": 43.35,
+    "low": 42.42,
+    "close": 42.98,
+    "volume": 183235269,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 42.53,
+    "high": 43.45,
+    "low": 42.1,
+    "close": 42.69,
+    "volume": 179129630,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 42.89,
+    "high": 43.34,
+    "low": 42.5,
+    "close": 43,
+    "volume": 121014816,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 43.3,
+    "high": 44.97,
+    "low": 43.1,
+    "close": 44.37,
+    "volume": 496153373,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 44.37,
+    "high": 44.8,
+    "low": 43.5,
+    "close": 43.6,
+    "volume": 188921719,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 43.5,
+    "high": 43.54,
+    "low": 42.31,
+    "close": 43.17,
+    "volume": 196537909,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 42.7,
+    "high": 43.41,
+    "low": 41.75,
+    "close": 41.9,
+    "volume": 157596673,
+    "symbol": "NSLNISP"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 41.75,
+    "high": 45.94,
+    "low": 41.75,
+    "close": 44.4,
+    "volume": 1586425368,
+    "symbol": "NSLNISP"
+  }
+]

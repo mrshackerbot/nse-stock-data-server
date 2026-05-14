@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 37.54,
+    "high": 38.07,
+    "low": 37.24,
+    "close": 37.6,
+    "volume": 150520728,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 37.64,
+    "high": 38.89,
+    "low": 37.64,
+    "close": 38.84,
+    "volume": 394900366,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 39,
+    "high": 39.65,
+    "low": 38.27,
+    "close": 38.46,
+    "volume": 500968901,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 38.68,
+    "high": 38.93,
+    "low": 38.3,
+    "close": 38.45,
+    "volume": 240100975,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 38.4,
+    "high": 38.75,
+    "low": 38.11,
+    "close": 38.38,
+    "volume": 161547793,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 38.37,
+    "high": 38.46,
+    "low": 37.2,
+    "close": 37.25,
+    "volume": 213833172,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 37.2,
+    "high": 37.69,
+    "low": 36.8,
+    "close": 36.84,
+    "volume": 196387101,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 36.94,
+    "high": 37.33,
+    "low": 36.3,
+    "close": 37.2,
+    "volume": 270446947,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 37.41,
+    "high": 37.8,
+    "low": 37.25,
+    "close": 37.7,
+    "volume": 192882597,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 37.89,
+    "high": 38.65,
+    "low": 37.5,
+    "close": 38.46,
+    "volume": 421601667,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 38.67,
+    "high": 39.75,
+    "low": 38.44,
+    "close": 38.57,
+    "volume": 1505968234,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 38.7,
+    "high": 38.8,
+    "low": 38.16,
+    "close": 38.17,
+    "volume": 355186464,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 38.07,
+    "high": 38.35,
+    "low": 36.61,
+    "close": 36.83,
+    "volume": 334168606,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 36.55,
+    "high": 37.15,
+    "low": 36.16,
+    "close": 36.88,
+    "volume": 371867336,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 37.33,
+    "high": 37.86,
+    "low": 36.92,
+    "close": 37.27,
+    "volume": 220095238,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 37.35,
+    "high": 37.35,
+    "low": 36.2,
+    "close": 36.32,
+    "volume": 187876879,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 36.5,
+    "high": 36.51,
+    "low": 35.5,
+    "close": 36.31,
+    "volume": 303524707,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 36.21,
+    "high": 37.25,
+    "low": 36.13,
+    "close": 37.17,
+    "volume": 194399777,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 37.26,
+    "high": 37.41,
+    "low": 36.6,
+    "close": 36.62,
+    "volume": 181280706,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 36.62,
+    "high": 37.57,
+    "low": 36.15,
+    "close": 37.49,
+    "volume": 330095039,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 36.26,
+    "high": 37.34,
+    "low": 35.7,
+    "close": 36.3,
+    "volume": 355075135,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 36.55,
+    "high": 36.55,
+    "low": 35.52,
+    "close": 36.43,
+    "volume": 201493273,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 37.9,
+    "high": 37.9,
+    "low": 36.3,
+    "close": 36.54,
+    "volume": 245864573,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 36.64,
+    "high": 37.44,
+    "low": 36.4,
+    "close": 37.24,
+    "volume": 195369732,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 37.21,
+    "high": 37.62,
+    "low": 36.83,
+    "close": 36.91,
+    "volume": 146492971,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 36.84,
+    "high": 37.15,
+    "low": 36.52,
+    "close": 37.01,
+    "volume": 179828276,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 37.5,
+    "high": 37.98,
+    "low": 37.25,
+    "close": 37.79,
+    "volume": 220072533,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 38,
+    "high": 38.35,
+    "low": 37.74,
+    "close": 37.93,
+    "volume": 198754383,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 38.12,
+    "high": 38.12,
+    "low": 37.41,
+    "close": 37.81,
+    "volume": 154768544,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 37.81,
+    "high": 37.9,
+    "low": 37.37,
+    "close": 37.43,
+    "volume": 176432928,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 37.23,
+    "high": 37.23,
+    "low": 36.76,
+    "close": 36.9,
+    "volume": 153171669,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 36.79,
+    "high": 37.3,
+    "low": 36.6,
+    "close": 37.26,
+    "volume": 112034438,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 37.26,
+    "high": 38.8,
+    "low": 37.23,
+    "close": 38.02,
+    "volume": 329663049,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 38.2,
+    "high": 38.75,
+    "low": 38.14,
+    "close": 38.55,
+    "volume": 306481684,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 39,
+    "high": 39,
+    "low": 37.96,
+    "close": 38.03,
+    "volume": 316278910,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 37.8,
+    "high": 38.6,
+    "low": 37.8,
+    "close": 38.26,
+    "volume": 183721714,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 38.85,
+    "high": 39.35,
+    "low": 38.36,
+    "close": 38.56,
+    "volume": 416588879,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 38.5,
+    "high": 40.2,
+    "low": 38.2,
+    "close": 39.52,
+    "volume": 1289685252,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 40,
+    "high": 40.85,
+    "low": 39.3,
+    "close": 40.21,
+    "volume": 1201191586,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 40.46,
+    "high": 40.92,
+    "low": 39.84,
+    "close": 40.45,
+    "volume": 871696342,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 40.45,
+    "high": 40.68,
+    "low": 39.95,
+    "close": 40.04,
+    "volume": 539828780,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 37.79,
+    "high": 39.2,
+    "low": 37.79,
+    "close": 38.8,
+    "volume": 655674732,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 38,
+    "high": 38,
+    "low": 36.86,
+    "close": 37.08,
+    "volume": 528404424,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 37.19,
+    "high": 37.9,
+    "low": 37.12,
+    "close": 37.77,
+    "volume": 264209349,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 37.79,
+    "high": 37.79,
+    "low": 37,
+    "close": 37.14,
+    "volume": 166174327,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 36.98,
+    "high": 36.98,
+    "low": 34.92,
+    "close": 35.95,
+    "volume": 396015662,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 36.2,
+    "high": 36.89,
+    "low": 35.73,
+    "close": 36.79,
+    "volume": 326930999,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 36.96,
+    "high": 37.15,
+    "low": 36.5,
+    "close": 36.54,
+    "volume": 203739824,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 36.17,
+    "high": 36.98,
+    "low": 35.62,
+    "close": 36.69,
+    "volume": 254386509,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 36.45,
+    "high": 36.5,
+    "low": 35.22,
+    "close": 35.64,
+    "volume": 263488929,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 35.5,
+    "high": 35.59,
+    "low": 34.52,
+    "close": 35.02,
+    "volume": 324140764,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 35.33,
+    "high": 35.33,
+    "low": 34.69,
+    "close": 34.99,
+    "volume": 167789629,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 35.24,
+    "high": 35.5,
+    "low": 35.01,
+    "close": 35.18,
+    "volume": 203413791,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 34.79,
+    "high": 34.79,
+    "low": 33.52,
+    "close": 33.74,
+    "volume": 355524586,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 33.95,
+    "high": 34.69,
+    "low": 33.85,
+    "close": 34.25,
+    "volume": 350490492,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 33.6,
+    "high": 33.69,
+    "low": 32.4,
+    "close": 32.4,
+    "volume": 405130793,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 33.4,
+    "high": 33.45,
+    "low": 32.48,
+    "close": 33.05,
+    "volume": 255926096,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 33.29,
+    "high": 34.25,
+    "low": 33.29,
+    "close": 34.07,
+    "volume": 230062368,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 33.85,
+    "high": 33.87,
+    "low": 32.85,
+    "close": 33.01,
+    "volume": 298314460,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 32.71,
+    "high": 32.79,
+    "low": 31.3,
+    "close": 31.41,
+    "volume": 339191962,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 32.6,
+    "high": 33.4,
+    "low": 32.14,
+    "close": 33.15,
+    "volume": 210266633,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 32.5,
+    "high": 33.44,
+    "low": 32.01,
+    "close": 33.3,
+    "volume": 171187316,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 33.59,
+    "high": 34.04,
+    "low": 32.82,
+    "close": 33.95,
+    "volume": 219309922,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 33.5,
+    "high": 33.9,
+    "low": 33.43,
+    "close": 33.8,
+    "volume": 127207990,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 35,
+    "high": 35.64,
+    "low": 34.85,
+    "close": 35.47,
+    "volume": 326532418,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 35.38,
+    "high": 35.69,
+    "low": 34.95,
+    "close": 34.98,
+    "volume": 159965327,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 35.05,
+    "high": 35.82,
+    "low": 35.05,
+    "close": 35.64,
+    "volume": 180984089,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 34.8,
+    "high": 35.33,
+    "low": 34.34,
+    "close": 35.27,
+    "volume": 173755139,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 36,
+    "high": 36.09,
+    "low": 35.63,
+    "close": 35.69,
+    "volume": 139285969,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 35.99,
+    "high": 36.25,
+    "low": 35.62,
+    "close": 35.84,
+    "volume": 181566791,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 35.87,
+    "high": 36.14,
+    "low": 35.72,
+    "close": 36.05,
+    "volume": 167180808,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 36.1,
+    "high": 36.35,
+    "low": 35.57,
+    "close": 35.67,
+    "volume": 199352623,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 35.88,
+    "high": 36.72,
+    "low": 35.73,
+    "close": 36.29,
+    "volume": 270204953,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 36.28,
+    "high": 37.09,
+    "low": 36.16,
+    "close": 36.89,
+    "volume": 278245552,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 36.76,
+    "high": 36.9,
+    "low": 36.03,
+    "close": 36.17,
+    "volume": 176251022,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 36.24,
+    "high": 36.4,
+    "low": 35.55,
+    "close": 36.04,
+    "volume": 204059226,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 36.27,
+    "high": 36.66,
+    "low": 36.19,
+    "close": 36.54,
+    "volume": 154377275,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 36.18,
+    "high": 36.47,
+    "low": 35.97,
+    "close": 36.09,
+    "volume": 139032740,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 36.26,
+    "high": 37.04,
+    "low": 36.07,
+    "close": 36.34,
+    "volume": 197636870,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 36.24,
+    "high": 36.55,
+    "low": 35.8,
+    "close": 36.43,
+    "volume": 190250532,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 36.01,
+    "high": 36.09,
+    "low": 35.42,
+    "close": 35.61,
+    "volume": 300363402,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 35.58,
+    "high": 36.3,
+    "low": 35.45,
+    "close": 36.12,
+    "volume": 176848732,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 36.5,
+    "high": 36.79,
+    "low": 36.33,
+    "close": 36.74,
+    "volume": 233758272,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 36.9,
+    "high": 37.33,
+    "low": 36.64,
+    "close": 37.3,
+    "volume": 285296821,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 36.84,
+    "high": 36.93,
+    "low": 36.36,
+    "close": 36.54,
+    "volume": 141869917,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 36.18,
+    "high": 36.18,
+    "low": 35.5,
+    "close": 35.7,
+    "volume": 175360728,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 35.44,
+    "high": 35.69,
+    "low": 34.45,
+    "close": 34.69,
+    "volume": 165195113,
+    "symbol": "CENTRALBK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 34.6,
+    "high": 34.93,
+    "low": 34.3,
+    "close": 34.38,
+    "volume": 193643795,
+    "symbol": "CENTRALBK"
+  }
+]

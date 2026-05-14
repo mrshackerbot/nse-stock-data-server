@@ -1,0 +1,956 @@
+[
+  {
+    "date": "27-Jul-2023",
+    "open": 947,
+    "high": 952,
+    "low": 876.05,
+    "close": 912,
+    "volume": 15750863000,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "28-Jul-2023",
+    "open": 916.8,
+    "high": 934.25,
+    "low": 885.2,
+    "close": 894.05,
+    "volume": 1533045701,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "31-Jul-2023",
+    "open": 900,
+    "high": 900,
+    "low": 857,
+    "close": 876,
+    "volume": 659547867,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "01-Aug-2023",
+    "open": 879,
+    "high": 898.95,
+    "low": 872.15,
+    "close": 879,
+    "volume": 384056226,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "02-Aug-2023",
+    "open": 881.4,
+    "high": 888,
+    "low": 849.85,
+    "close": 854.9,
+    "volume": 339068209,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "03-Aug-2023",
+    "open": 845.65,
+    "high": 911.55,
+    "low": 845,
+    "close": 891,
+    "volume": 589530970,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "04-Aug-2023",
+    "open": 898.8,
+    "high": 905,
+    "low": 885,
+    "close": 892,
+    "volume": 439246691,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "07-Aug-2023",
+    "open": 893.8,
+    "high": 899.9,
+    "low": 880,
+    "close": 883,
+    "volume": 201167027,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "08-Aug-2023",
+    "open": 886.1,
+    "high": 889,
+    "low": 854.45,
+    "close": 858,
+    "volume": 145806126,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "09-Aug-2023",
+    "open": 861,
+    "high": 866.9,
+    "low": 849.8,
+    "close": 852,
+    "volume": 155307821,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "10-Aug-2023",
+    "open": 850.05,
+    "high": 869.95,
+    "low": 840,
+    "close": 861,
+    "volume": 169094518,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "11-Aug-2023",
+    "open": 865,
+    "high": 882.8,
+    "low": 856.7,
+    "close": 868,
+    "volume": 222162961,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "14-Aug-2023",
+    "open": 811,
+    "high": 879,
+    "low": 811,
+    "close": 847.95,
+    "volume": 298207368,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "16-Aug-2023",
+    "open": 849.2,
+    "high": 856.25,
+    "low": 823.3,
+    "close": 824.4,
+    "volume": 146356784,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "17-Aug-2023",
+    "open": 830,
+    "high": 836.55,
+    "low": 811,
+    "close": 822,
+    "volume": 113507101,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "18-Aug-2023",
+    "open": 825,
+    "high": 832.95,
+    "low": 810.05,
+    "close": 815,
+    "volume": 246861699,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "21-Aug-2023",
+    "open": 816.45,
+    "high": 823.9,
+    "low": 782.7,
+    "close": 797.1,
+    "volume": 244468731,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "22-Aug-2023",
+    "open": 799.9,
+    "high": 812,
+    "low": 789,
+    "close": 791.7,
+    "volume": 82393461,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "23-Aug-2023",
+    "open": 794.95,
+    "high": 828.7,
+    "low": 792.05,
+    "close": 807.05,
+    "volume": 343294383,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "24-Aug-2023",
+    "open": 810.1,
+    "high": 887.5,
+    "low": 810.05,
+    "close": 887.5,
+    "volume": 495286746,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "25-Aug-2023",
+    "open": 900,
+    "high": 920.7,
+    "low": 851.05,
+    "close": 861,
+    "volume": 422016743,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "28-Aug-2023",
+    "open": 868,
+    "high": 892,
+    "low": 853.1,
+    "close": 864,
+    "volume": 124528593,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "29-Aug-2023",
+    "open": 876,
+    "high": 876,
+    "low": 843,
+    "close": 844.95,
+    "volume": 57722255,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "30-Aug-2023",
+    "open": 856,
+    "high": 859.8,
+    "low": 832,
+    "close": 841.5,
+    "volume": 162487536,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "31-Aug-2023",
+    "open": 856.95,
+    "high": 874.9,
+    "low": 835.2,
+    "close": 844.05,
+    "volume": 435579238,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "01-Sep-2023",
+    "open": 850,
+    "high": 854.95,
+    "low": 844.1,
+    "close": 845.9,
+    "volume": 70772618,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "04-Sep-2023",
+    "open": 846,
+    "high": 851.5,
+    "low": 824.85,
+    "close": 840,
+    "volume": 235245778,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "05-Sep-2023",
+    "open": 842,
+    "high": 858.5,
+    "low": 841.2,
+    "close": 845,
+    "volume": 86024771,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "06-Sep-2023",
+    "open": 849,
+    "high": 866.15,
+    "low": 843,
+    "close": 846,
+    "volume": 104940212,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "07-Sep-2023",
+    "open": 849.5,
+    "high": 853,
+    "low": 839.15,
+    "close": 843,
+    "volume": 49701652,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "08-Sep-2023",
+    "open": 842.55,
+    "high": 849.75,
+    "low": 837.45,
+    "close": 837.5,
+    "volume": 52871983,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "11-Sep-2023",
+    "open": 842.95,
+    "high": 854.95,
+    "low": 832.1,
+    "close": 845.5,
+    "volume": 101912868,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "12-Sep-2023",
+    "open": 849,
+    "high": 849.1,
+    "low": 824.85,
+    "close": 835.95,
+    "volume": 149858030,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "13-Sep-2023",
+    "open": 834,
+    "high": 839.95,
+    "low": 806.85,
+    "close": 821.6,
+    "volume": 164117885,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "14-Sep-2023",
+    "open": 825.2,
+    "high": 837.15,
+    "low": 812,
+    "close": 813.95,
+    "volume": 49973776,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "15-Sep-2023",
+    "open": 822.45,
+    "high": 824,
+    "low": 811.1,
+    "close": 817,
+    "volume": 52467425,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "18-Sep-2023",
+    "open": 816.55,
+    "high": 820.45,
+    "low": 806,
+    "close": 807,
+    "volume": 37865121,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "20-Sep-2023",
+    "open": 808.35,
+    "high": 815,
+    "low": 803.4,
+    "close": 814,
+    "volume": 36142768,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "21-Sep-2023",
+    "open": 810,
+    "high": 815,
+    "low": 804.2,
+    "close": 811,
+    "volume": 37281524,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "22-Sep-2023",
+    "open": 810.95,
+    "high": 818,
+    "low": 803.1,
+    "close": 810.45,
+    "volume": 40411251,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "25-Sep-2023",
+    "open": 814.3,
+    "high": 814.3,
+    "low": 800,
+    "close": 805.1,
+    "volume": 24506620,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "26-Sep-2023",
+    "open": 807.05,
+    "high": 808,
+    "low": 795,
+    "close": 803.05,
+    "volume": 49937469,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "27-Sep-2023",
+    "open": 790.1,
+    "high": 830,
+    "low": 790.1,
+    "close": 812,
+    "volume": 104016644,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "28-Sep-2023",
+    "open": 823,
+    "high": 823,
+    "low": 806.7,
+    "close": 810,
+    "volume": 27085704,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "29-Sep-2023",
+    "open": 811,
+    "high": 834.3,
+    "low": 807.6,
+    "close": 825.9,
+    "volume": 53019903,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "03-Oct-2023",
+    "open": 829.95,
+    "high": 835.45,
+    "low": 820.15,
+    "close": 830,
+    "volume": 28766364,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "04-Oct-2023",
+    "open": 820.15,
+    "high": 859.9,
+    "low": 820.15,
+    "close": 829.7,
+    "volume": 110875767,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "05-Oct-2023",
+    "open": 834.95,
+    "high": 841.25,
+    "low": 822.6,
+    "close": 824.2,
+    "volume": 22455985,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "06-Oct-2023",
+    "open": 824.2,
+    "high": 832.6,
+    "low": 811,
+    "close": 812.25,
+    "volume": 36255717,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "09-Oct-2023",
+    "open": 812,
+    "high": 814.95,
+    "low": 792.8,
+    "close": 812.1,
+    "volume": 41258954,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "10-Oct-2023",
+    "open": 824.95,
+    "high": 824.95,
+    "low": 810.05,
+    "close": 819,
+    "volume": 29254286,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "11-Oct-2023",
+    "open": 823.95,
+    "high": 885,
+    "low": 820,
+    "close": 881,
+    "volume": 420792839,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "12-Oct-2023",
+    "open": 885.7,
+    "high": 888.8,
+    "low": 871.05,
+    "close": 880,
+    "volume": 237592235,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "13-Oct-2023",
+    "open": 875,
+    "high": 875,
+    "low": 856,
+    "close": 871.1,
+    "volume": 81068687,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "16-Oct-2023",
+    "open": 855,
+    "high": 918.9,
+    "low": 852.95,
+    "close": 895.35,
+    "volume": 223946105,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "17-Oct-2023",
+    "open": 899.15,
+    "high": 909.9,
+    "low": 874.05,
+    "close": 879.1,
+    "volume": 85975669,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "18-Oct-2023",
+    "open": 882,
+    "high": 893.2,
+    "low": 865,
+    "close": 866,
+    "volume": 35228004,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "19-Oct-2023",
+    "open": 871.9,
+    "high": 899.45,
+    "low": 862,
+    "close": 888,
+    "volume": 77686464,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "20-Oct-2023",
+    "open": 890,
+    "high": 912.9,
+    "low": 880.55,
+    "close": 890,
+    "volume": 110072770,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "23-Oct-2023",
+    "open": 890,
+    "high": 909.9,
+    "low": 831,
+    "close": 841,
+    "volume": 103662097,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "25-Oct-2023",
+    "open": 852,
+    "high": 855,
+    "low": 770.25,
+    "close": 778,
+    "volume": 241129005,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "26-Oct-2023",
+    "open": 780,
+    "high": 783.95,
+    "low": 738.6,
+    "close": 749.7,
+    "volume": 122872362,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "27-Oct-2023",
+    "open": 763.45,
+    "high": 777.7,
+    "low": 748,
+    "close": 752.5,
+    "volume": 163275225,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "30-Oct-2023",
+    "open": 762,
+    "high": 767.7,
+    "low": 750,
+    "close": 752,
+    "volume": 56684877,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "31-Oct-2023",
+    "open": 753.35,
+    "high": 759,
+    "low": 742.7,
+    "close": 747,
+    "volume": 86589973,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "01-Nov-2023",
+    "open": 751,
+    "high": 765,
+    "low": 751,
+    "close": 757,
+    "volume": 40119731,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "02-Nov-2023",
+    "open": 814,
+    "high": 833.15,
+    "low": 800,
+    "close": 812.05,
+    "volume": 433654244,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "03-Nov-2023",
+    "open": 823,
+    "high": 824.65,
+    "low": 789.15,
+    "close": 797,
+    "volume": 138245767,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "06-Nov-2023",
+    "open": 801,
+    "high": 808.8,
+    "low": 778.8,
+    "close": 779,
+    "volume": 64465581,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "07-Nov-2023",
+    "open": 782.1,
+    "high": 789.4,
+    "low": 772.8,
+    "close": 775,
+    "volume": 48042749,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 779.95,
+    "high": 788.45,
+    "low": 776.8,
+    "close": 783,
+    "volume": 27908325,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 789.9,
+    "high": 789.9,
+    "low": 770,
+    "close": 773,
+    "volume": 93560770,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 770,
+    "high": 776.45,
+    "low": 765.75,
+    "close": 769.2,
+    "volume": 19572554,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 778.65,
+    "high": 782,
+    "low": 772,
+    "close": 781.5,
+    "volume": 12151591,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 775,
+    "high": 795,
+    "low": 772.5,
+    "close": 788.65,
+    "volume": 30144911,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 795.45,
+    "high": 811.75,
+    "low": 787.1,
+    "close": 801.5,
+    "volume": 66461958,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 801.4,
+    "high": 838.45,
+    "low": 795,
+    "close": 829.95,
+    "volume": 146522599,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 835,
+    "high": 835,
+    "low": 812.65,
+    "close": 814.5,
+    "volume": 35428014,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 850,
+    "high": 850,
+    "low": 822,
+    "close": 825,
+    "volume": 183154641,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 830.5,
+    "high": 831,
+    "low": 818,
+    "close": 824,
+    "volume": 42964649,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 820.05,
+    "high": 827,
+    "low": 804,
+    "close": 820.4,
+    "volume": 40599574,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 823.95,
+    "high": 825,
+    "low": 816.55,
+    "close": 822,
+    "volume": 24931261,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 818,
+    "high": 822.75,
+    "low": 810,
+    "close": 811,
+    "volume": 19789638,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 887.85,
+    "high": 892.4,
+    "low": 861,
+    "close": 880,
+    "volume": 808694630,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 890,
+    "high": 916.95,
+    "low": 885,
+    "close": 895,
+    "volume": 364983455,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 914,
+    "high": 915.95,
+    "low": 875.05,
+    "close": 900.1,
+    "volume": 249490845,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 906.95,
+    "high": 909.95,
+    "low": 890.1,
+    "close": 890.1,
+    "volume": 128144919,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 910,
+    "high": 912.45,
+    "low": 876.15,
+    "close": 900,
+    "volume": 167234276,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 901.95,
+    "high": 986.9,
+    "low": 901.95,
+    "close": 963,
+    "volume": 921678579,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 987,
+    "high": 994,
+    "low": 948.05,
+    "close": 975,
+    "volume": 320104178,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 975.95,
+    "high": 1020,
+    "low": 961.1,
+    "close": 1000.1,
+    "volume": 472685711,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 1015,
+    "high": 1017.95,
+    "low": 963.55,
+    "close": 998,
+    "volume": 188423444,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 1019.65,
+    "high": 1094.5,
+    "low": 997.1,
+    "close": 1094.5,
+    "volume": 429599438,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 1129.75,
+    "high": 1203.95,
+    "low": 1121,
+    "close": 1198.15,
+    "volume": 1150839993,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 1205,
+    "high": 1218,
+    "low": 1140,
+    "close": 1179.5,
+    "volume": 325582485,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 1210,
+    "high": 1246.6,
+    "low": 1165.1,
+    "close": 1246.6,
+    "volume": 286442241,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 1290,
+    "high": 1308.9,
+    "low": 1251,
+    "close": 1270.05,
+    "volume": 452401201,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 1298.7,
+    "high": 1298.95,
+    "low": 1226.05,
+    "close": 1229.95,
+    "volume": 333037582,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 1200,
+    "high": 1287.4,
+    "low": 1177,
+    "close": 1200,
+    "volume": 343626507,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 1232,
+    "high": 1232,
+    "low": 1141.35,
+    "close": 1141.35,
+    "volume": 143471550,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 1090,
+    "high": 1189.8,
+    "low": 1084.3,
+    "close": 1183.5,
+    "volume": 214738295,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 1205,
+    "high": 1237.95,
+    "low": 1193,
+    "close": 1224,
+    "volume": 226989671,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 1249.95,
+    "high": 1263.7,
+    "low": 1200,
+    "close": 1229,
+    "volume": 117256009,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 1236.75,
+    "high": 1245,
+    "low": 1201,
+    "close": 1221,
+    "volume": 241819410,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 1231,
+    "high": 1255,
+    "low": 1200.5,
+    "close": 1203,
+    "volume": 105348803,
+    "symbol": "NETWEB"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 1210,
+    "high": 1214.95,
+    "low": 1180,
+    "close": 1185,
+    "volume": 86058270,
+    "symbol": "NETWEB"
+  }
+]

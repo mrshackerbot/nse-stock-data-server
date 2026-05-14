@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 3175.1,
+    "high": 3193.9,
+    "low": 3141,
+    "close": 3180,
+    "volume": 139920736,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 3199,
+    "high": 3218.9,
+    "low": 3163,
+    "close": 3200,
+    "volume": 133237091,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 3201.7,
+    "high": 3201.8,
+    "low": 3162,
+    "close": 3178.1,
+    "volume": 107219178,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 3182.8,
+    "high": 3203,
+    "low": 3141,
+    "close": 3195,
+    "volume": 514398443,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 3180.1,
+    "high": 3224,
+    "low": 3153,
+    "close": 3160,
+    "volume": 967859023,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 3171.5,
+    "high": 3174,
+    "low": 3150,
+    "close": 3168.8,
+    "volume": 157125313,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 3132.4,
+    "high": 3160.8,
+    "low": 3111.2,
+    "close": 3111.2,
+    "volume": 127202028,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 3129,
+    "high": 3149,
+    "low": 3080.4,
+    "close": 3141.8,
+    "volume": 113630157,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 3138.3,
+    "high": 3148,
+    "low": 3083,
+    "close": 3103.8,
+    "volume": 70798827,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 3096,
+    "high": 3124.2,
+    "low": 3085,
+    "close": 3087,
+    "volume": 89995217,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 3095,
+    "high": 3108,
+    "low": 3066.5,
+    "close": 3086.1,
+    "volume": 199676097,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 3104,
+    "high": 3104,
+    "low": 3044,
+    "close": 3044,
+    "volume": 101316893,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 3042.2,
+    "high": 3071.8,
+    "low": 2960,
+    "close": 2976,
+    "volume": 165889412,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2960,
+    "high": 2992.8,
+    "low": 2921,
+    "close": 2985,
+    "volume": 244595979,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2959.9,
+    "high": 2975.9,
+    "low": 2916.5,
+    "close": 2920,
+    "volume": 62063477,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2923,
+    "high": 2956.6,
+    "low": 2910,
+    "close": 2925,
+    "volume": 60096198,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2959.9,
+    "high": 2969.9,
+    "low": 2851.5,
+    "close": 2908,
+    "volume": 131378911,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2916.6,
+    "high": 2916.6,
+    "low": 2811,
+    "close": 2829,
+    "volume": 148589805,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2817.2,
+    "high": 2852.1,
+    "low": 2746.7,
+    "close": 2798,
+    "volume": 112213922,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2788,
+    "high": 2817,
+    "low": 2733.5,
+    "close": 2800,
+    "volume": 143609335,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2800,
+    "high": 2812.4,
+    "low": 2658.7,
+    "close": 2720.5,
+    "volume": 72232995,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2720,
+    "high": 2845,
+    "low": 2686.5,
+    "close": 2844.8,
+    "volume": 161578430,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2859.9,
+    "high": 2879.8,
+    "low": 2788,
+    "close": 2857,
+    "volume": 162683968,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2856.9,
+    "high": 2896,
+    "low": 2797.6,
+    "close": 2891.6,
+    "volume": 61948780,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2880,
+    "high": 2893.9,
+    "low": 2799.3,
+    "close": 2827.1,
+    "volume": 119000779,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2823.2,
+    "high": 2940,
+    "low": 2808.2,
+    "close": 2928.5,
+    "volume": 84058015,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2918.6,
+    "high": 2988.9,
+    "low": 2890,
+    "close": 2942,
+    "volume": 83323533,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2940,
+    "high": 3033,
+    "low": 2940,
+    "close": 3011.6,
+    "volume": 59321807,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 3022.3,
+    "high": 3035,
+    "low": 2989.1,
+    "close": 3001.2,
+    "volume": 39934301,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 3001.1,
+    "high": 3020,
+    "low": 2977.6,
+    "close": 2994.9,
+    "volume": 28718199,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 3000,
+    "high": 3019.8,
+    "low": 2889.3,
+    "close": 2950,
+    "volume": 84876462,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2950,
+    "high": 3028,
+    "low": 2921.8,
+    "close": 3026.4,
+    "volume": 82654323,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 3039,
+    "high": 3041,
+    "low": 2993.5,
+    "close": 3035.8,
+    "volume": 51191056,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 3034.1,
+    "high": 3074.8,
+    "low": 3017.7,
+    "close": 3074,
+    "volume": 61481030,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 3086.9,
+    "high": 3087,
+    "low": 3000.1,
+    "close": 3045,
+    "volume": 49844402,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 3039,
+    "high": 3079.8,
+    "low": 3030.3,
+    "close": 3064.8,
+    "volume": 54433777,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 3079,
+    "high": 3097.7,
+    "low": 3042.4,
+    "close": 3068.8,
+    "volume": 77041177,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 3086.1,
+    "high": 3119.4,
+    "low": 3079.9,
+    "close": 3110.1,
+    "volume": 95322055,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 3121,
+    "high": 3125,
+    "low": 3072.4,
+    "close": 3094.8,
+    "volume": 52706877,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 3091,
+    "high": 3091,
+    "low": 2955,
+    "close": 3011,
+    "volume": 109578254,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 3008.5,
+    "high": 3029.9,
+    "low": 2889,
+    "close": 2977.1,
+    "volume": 832792762,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2778.6,
+    "high": 2938.7,
+    "low": 2778.6,
+    "close": 2927,
+    "volume": 90732620,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2872.9,
+    "high": 2930.1,
+    "low": 2829.8,
+    "close": 2851.5,
+    "volume": 62023490,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2894.9,
+    "high": 2902.3,
+    "low": 2820.1,
+    "close": 2832,
+    "volume": 89458143,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2840.8,
+    "high": 2870.7,
+    "low": 2756.5,
+    "close": 2766.5,
+    "volume": 63935458,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 2748,
+    "high": 2755,
+    "low": 2667,
+    "close": 2715,
+    "volume": 75711804,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2725,
+    "high": 2915,
+    "low": 2725,
+    "close": 2909.9,
+    "volume": 146755435,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2895.3,
+    "high": 2920,
+    "low": 2840.9,
+    "close": 2869,
+    "volume": 91496701,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2835,
+    "high": 2939,
+    "low": 2821.8,
+    "close": 2925,
+    "volume": 51758566,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 2901.1,
+    "high": 2924.4,
+    "low": 2840.3,
+    "close": 2884.9,
+    "volume": 58193140,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 2866,
+    "high": 2896.8,
+    "low": 2811,
+    "close": 2851,
+    "volume": 56012468,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 2884.7,
+    "high": 2901.9,
+    "low": 2850,
+    "close": 2894,
+    "volume": 35314086,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 2915.8,
+    "high": 2941,
+    "low": 2883.7,
+    "close": 2924,
+    "volume": 68029283,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 2880,
+    "high": 2898.4,
+    "low": 2780.1,
+    "close": 2812.1,
+    "volume": 32875216,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 2807.8,
+    "high": 2909.2,
+    "low": 2773.1,
+    "close": 2862,
+    "volume": 405638140,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 2844,
+    "high": 2869.7,
+    "low": 2743.2,
+    "close": 2855,
+    "volume": 70965474,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 2865,
+    "high": 2879.6,
+    "low": 2800,
+    "close": 2856.5,
+    "volume": 148176097,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 2852.5,
+    "high": 2933.7,
+    "low": 2852.5,
+    "close": 2929.9,
+    "volume": 142763827,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 2929.9,
+    "high": 2950,
+    "low": 2858.6,
+    "close": 2948,
+    "volume": 148717472,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 2915,
+    "high": 2948,
+    "low": 2813.1,
+    "close": 2818.5,
+    "volume": 152742422,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 2858.9,
+    "high": 2996.8,
+    "low": 2830.2,
+    "close": 2855,
+    "volume": 116345222,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 2818.1,
+    "high": 3050,
+    "low": 2758,
+    "close": 2961.4,
+    "volume": 312222530,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 2961.4,
+    "high": 2999,
+    "low": 2928.1,
+    "close": 2980,
+    "volume": 38999525,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 2980,
+    "high": 2990.4,
+    "low": 2940,
+    "close": 2963,
+    "volume": 14852388,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 3049,
+    "high": 3064.2,
+    "low": 2961,
+    "close": 2976.9,
+    "volume": 55312615,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 2972,
+    "high": 3011.3,
+    "low": 2952.5,
+    "close": 2965,
+    "volume": 21524843,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 2980.7,
+    "high": 2999.9,
+    "low": 2961.7,
+    "close": 2979.5,
+    "volume": 191289016,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 2951,
+    "high": 3010,
+    "low": 2918.1,
+    "close": 2976.5,
+    "volume": 143560096,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 2999.8,
+    "high": 3025,
+    "low": 2986.8,
+    "close": 2994,
+    "volume": 44237258,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 3019,
+    "high": 3041,
+    "low": 2931,
+    "close": 2958.9,
+    "volume": 97339591,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 2985,
+    "high": 2985,
+    "low": 2911,
+    "close": 2915,
+    "volume": 43887075,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 2917,
+    "high": 2935,
+    "low": 2878,
+    "close": 2902,
+    "volume": 26350686,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 2895.7,
+    "high": 2930,
+    "low": 2860,
+    "close": 2927,
+    "volume": 75945321,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 2927,
+    "high": 2956.2,
+    "low": 2880.1,
+    "close": 2954,
+    "volume": 87885045,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 2949.9,
+    "high": 2965,
+    "low": 2922.1,
+    "close": 2944.1,
+    "volume": 26650381,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 2947,
+    "high": 2985,
+    "low": 2920.3,
+    "close": 2953,
+    "volume": 61086748,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 2960,
+    "high": 3049,
+    "low": 2947.8,
+    "close": 3000,
+    "volume": 52145889,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 3000,
+    "high": 3024.7,
+    "low": 2951,
+    "close": 2975,
+    "volume": 21452028,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 2981.1,
+    "high": 3001.5,
+    "low": 2953.9,
+    "close": 2961,
+    "volume": 28391388,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 2990,
+    "high": 2997.2,
+    "low": 2931.5,
+    "close": 2952.9,
+    "volume": 38196606,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 2950.7,
+    "high": 2970.6,
+    "low": 2925,
+    "close": 2948,
+    "volume": 15609354,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 2972.5,
+    "high": 3033.4,
+    "low": 2942.1,
+    "close": 2979,
+    "volume": 96997785,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 2976.7,
+    "high": 3011.3,
+    "low": 2922.2,
+    "close": 3000,
+    "volume": 39220867,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 2998,
+    "high": 3015.6,
+    "low": 2952.6,
+    "close": 2964.5,
+    "volume": 35485679,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 2953,
+    "high": 2983.8,
+    "low": 2935,
+    "close": 2950,
+    "volume": 84867782,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 2960,
+    "high": 3050,
+    "low": 2875,
+    "close": 3003,
+    "volume": 146898200,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 3045.2,
+    "high": 3070,
+    "low": 2901,
+    "close": 2931,
+    "volume": 48094954,
+    "symbol": "JSWDULUX"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 2949,
+    "high": 3034,
+    "low": 2909,
+    "close": 2991,
+    "volume": 83271147,
+    "symbol": "JSWDULUX"
+  }
+]

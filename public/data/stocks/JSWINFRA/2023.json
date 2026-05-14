@@ -1,0 +1,551 @@
+[
+  {
+    "date": "03-Oct-2023",
+    "open": 143,
+    "high": 157.3,
+    "low": 142.2,
+    "close": 157.3,
+    "volume": 18405044850,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "04-Oct-2023",
+    "open": 165.1,
+    "high": 168.7,
+    "low": 160.4,
+    "close": 163.9,
+    "volume": 9040229144,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "05-Oct-2023",
+    "open": 166.5,
+    "high": 167.85,
+    "low": 159.3,
+    "close": 164.15,
+    "volume": 2435452867,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "06-Oct-2023",
+    "open": 165.15,
+    "high": 173.35,
+    "low": 164,
+    "close": 170.95,
+    "volume": 2458664588,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "09-Oct-2023",
+    "open": 168,
+    "high": 169.05,
+    "low": 161.2,
+    "close": 161.95,
+    "volume": 1435851640,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "10-Oct-2023",
+    "open": 164,
+    "high": 174.8,
+    "low": 163.05,
+    "close": 169.8,
+    "volume": 1879981308,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "11-Oct-2023",
+    "open": 171.75,
+    "high": 175.8,
+    "low": 170.2,
+    "close": 172.9,
+    "volume": 1103372030,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "12-Oct-2023",
+    "open": 173.65,
+    "high": 174.8,
+    "low": 171.2,
+    "close": 172.15,
+    "volume": 688178097,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "13-Oct-2023",
+    "open": 170.55,
+    "high": 174.65,
+    "low": 169.35,
+    "close": 170.95,
+    "volume": 658593666,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "16-Oct-2023",
+    "open": 170.9,
+    "high": 171,
+    "low": 165.75,
+    "close": 168,
+    "volume": 542654601,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "17-Oct-2023",
+    "open": 169.7,
+    "high": 177.75,
+    "low": 168.3,
+    "close": 177.5,
+    "volume": 1990614600,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "18-Oct-2023",
+    "open": 178.9,
+    "high": 186.35,
+    "low": 173.5,
+    "close": 175.35,
+    "volume": 3019714165,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "19-Oct-2023",
+    "open": 175,
+    "high": 181.55,
+    "low": 174.3,
+    "close": 178,
+    "volume": 1099587612,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "20-Oct-2023",
+    "open": 179.45,
+    "high": 181.5,
+    "low": 175.35,
+    "close": 176.35,
+    "volume": 606499408,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "23-Oct-2023",
+    "open": 177.2,
+    "high": 178.45,
+    "low": 166.5,
+    "close": 167.25,
+    "volume": 930036747,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "25-Oct-2023",
+    "open": 170,
+    "high": 170.8,
+    "low": 162.35,
+    "close": 166,
+    "volume": 617588088,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "26-Oct-2023",
+    "open": 166,
+    "high": 173.45,
+    "low": 162.05,
+    "close": 172.6,
+    "volume": 847114260,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "27-Oct-2023",
+    "open": 174,
+    "high": 179.95,
+    "low": 172.75,
+    "close": 175.9,
+    "volume": 751901678,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "30-Oct-2023",
+    "open": 177.4,
+    "high": 177.4,
+    "low": 168.5,
+    "close": 170.2,
+    "volume": 960188111,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "31-Oct-2023",
+    "open": 171.45,
+    "high": 172.9,
+    "low": 168,
+    "close": 169.8,
+    "volume": 412433290,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "01-Nov-2023",
+    "open": 170.85,
+    "high": 173.5,
+    "low": 167.65,
+    "close": 168.1,
+    "volume": 481877854,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "02-Nov-2023",
+    "open": 170.5,
+    "high": 173,
+    "low": 169.55,
+    "close": 171.4,
+    "volume": 302017948,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "03-Nov-2023",
+    "open": 172.05,
+    "high": 174.7,
+    "low": 170.2,
+    "close": 171.3,
+    "volume": 434612551,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "06-Nov-2023",
+    "open": 179,
+    "high": 188.55,
+    "low": 177.2,
+    "close": 188.55,
+    "volume": 3769491423,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "07-Nov-2023",
+    "open": 194.4,
+    "high": 207.1,
+    "low": 187.35,
+    "close": 206.1,
+    "volume": 4588851399,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 208.4,
+    "high": 215.45,
+    "low": 201.5,
+    "close": 202,
+    "volume": 3921367814,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 202.5,
+    "high": 206.5,
+    "low": 198.2,
+    "close": 200.15,
+    "volume": 1215435429,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 199.35,
+    "high": 206.6,
+    "low": 194.85,
+    "close": 196.85,
+    "volume": 1579418718,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 200,
+    "high": 203.8,
+    "low": 199.5,
+    "close": 203,
+    "volume": 479557469,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 202.95,
+    "high": 202.95,
+    "low": 199.25,
+    "close": 201.05,
+    "volume": 727020923,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 202,
+    "high": 202.25,
+    "low": 197.15,
+    "close": 197.85,
+    "volume": 544992952,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 198.45,
+    "high": 206.65,
+    "low": 196.5,
+    "close": 203.3,
+    "volume": 1368491617,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 213.45,
+    "high": 220,
+    "low": 207.75,
+    "close": 209.95,
+    "volume": 3432246104,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 211,
+    "high": 212.45,
+    "low": 205.5,
+    "close": 206.7,
+    "volume": 788134264,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 207.95,
+    "high": 209.8,
+    "low": 204.05,
+    "close": 206.9,
+    "volume": 764689513,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 207.5,
+    "high": 211.95,
+    "low": 205.2,
+    "close": 208.05,
+    "volume": 733267839,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 209.4,
+    "high": 210.3,
+    "low": 204.4,
+    "close": 205,
+    "volume": 505093340,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 205.8,
+    "high": 207.9,
+    "low": 202.55,
+    "close": 205.35,
+    "volume": 692053489,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 206.75,
+    "high": 209.4,
+    "low": 202.6,
+    "close": 207.85,
+    "volume": 727226393,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 208.9,
+    "high": 217.15,
+    "low": 207.55,
+    "close": 211,
+    "volume": 1423319211,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 215,
+    "high": 215.4,
+    "low": 207.8,
+    "close": 210.65,
+    "volume": 718075394,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 211.85,
+    "high": 224.5,
+    "low": 211.1,
+    "close": 219.55,
+    "volume": 2298095291,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 227.6,
+    "high": 227.6,
+    "low": 216.55,
+    "close": 218,
+    "volume": 1167717696,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 222.8,
+    "high": 234.8,
+    "low": 222,
+    "close": 227,
+    "volume": 2648586649,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 229.5,
+    "high": 244.9,
+    "low": 229,
+    "close": 239,
+    "volume": 2544249610,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 241,
+    "high": 247.5,
+    "low": 235,
+    "close": 236.1,
+    "volume": 2255758023,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 237.85,
+    "high": 240,
+    "low": 224.8,
+    "close": 229,
+    "volume": 1721166368,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 230,
+    "high": 235.5,
+    "low": 229.65,
+    "close": 230,
+    "volume": 1072299895,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 232,
+    "high": 241.25,
+    "low": 229.45,
+    "close": 238.45,
+    "volume": 1650431939,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 239,
+    "high": 242,
+    "low": 236,
+    "close": 238.95,
+    "volume": 930748983,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 241.4,
+    "high": 242.4,
+    "low": 235.25,
+    "close": 237,
+    "volume": 814247245,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 237.7,
+    "high": 238.8,
+    "low": 230.8,
+    "close": 231.7,
+    "volume": 797035786,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 220,
+    "high": 235.85,
+    "low": 220,
+    "close": 232.1,
+    "volume": 1745849230,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 232.9,
+    "high": 233.5,
+    "low": 223.55,
+    "close": 225.35,
+    "volume": 955419952,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 225.5,
+    "high": 229.6,
+    "low": 210,
+    "close": 211,
+    "volume": 1452785753,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 208,
+    "high": 218,
+    "low": 205.65,
+    "close": 216.2,
+    "volume": 1086502012,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 216.9,
+    "high": 221.65,
+    "low": 214,
+    "close": 220.8,
+    "volume": 883372671,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 221.3,
+    "high": 222.9,
+    "low": 219.1,
+    "close": 221.2,
+    "volume": 462332399,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 222,
+    "high": 223,
+    "low": 211.25,
+    "close": 212.8,
+    "volume": 937487616,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 214,
+    "high": 215.1,
+    "low": 210.2,
+    "close": 211,
+    "volume": 891625877,
+    "symbol": "JSWINFRA"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 211.25,
+    "high": 214.2,
+    "low": 208,
+    "close": 208.05,
+    "volume": 870880518,
+    "symbol": "JSWINFRA"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 625,
+    "high": 633.1,
+    "low": 622.45,
+    "close": 625,
+    "volume": 183945848,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 626.25,
+    "high": 674.65,
+    "low": 625,
+    "close": 664.95,
+    "volume": 8708663380,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 659.2,
+    "high": 664.9,
+    "low": 647.2,
+    "close": 650,
+    "volume": 486039497,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 648.6,
+    "high": 652.5,
+    "low": 638.55,
+    "close": 640,
+    "volume": 222120969,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 639,
+    "high": 681,
+    "low": 634,
+    "close": 660,
+    "volume": 2841841521,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 660,
+    "high": 662.8,
+    "low": 634.3,
+    "close": 639.2,
+    "volume": 548028498,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 637.35,
+    "high": 639.05,
+    "low": 610.45,
+    "close": 613.8,
+    "volume": 390845185,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 613.55,
+    "high": 613.55,
+    "low": 585.3,
+    "close": 601,
+    "volume": 620640219,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 603,
+    "high": 623.6,
+    "low": 598.1,
+    "close": 607.5,
+    "volume": 506898737,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 607.05,
+    "high": 611,
+    "low": 596.6,
+    "close": 600.8,
+    "volume": 258065902,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 601,
+    "high": 608.7,
+    "low": 590,
+    "close": 591.9,
+    "volume": 210945369,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 592.05,
+    "high": 593.8,
+    "low": 583.25,
+    "close": 586.3,
+    "volume": 178838647,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 586,
+    "high": 588.1,
+    "low": 553.65,
+    "close": 562.95,
+    "volume": 284102595,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 558,
+    "high": 568.25,
+    "low": 548.15,
+    "close": 554.5,
+    "volume": 303022834,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 558.5,
+    "high": 566.3,
+    "low": 550,
+    "close": 554,
+    "volume": 190964551,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 555,
+    "high": 557.9,
+    "low": 525.3,
+    "close": 529,
+    "volume": 232259891,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 530.25,
+    "high": 543.75,
+    "low": 518,
+    "close": 540.3,
+    "volume": 280772789,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 537,
+    "high": 566.75,
+    "low": 534.05,
+    "close": 562.6,
+    "volume": 512534838,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 564.6,
+    "high": 567.25,
+    "low": 546.4,
+    "close": 561,
+    "volume": 212039379,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 558,
+    "high": 573.6,
+    "low": 548,
+    "close": 567,
+    "volume": 410803631,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 567.9,
+    "high": 589,
+    "low": 541.3,
+    "close": 547,
+    "volume": 408654454,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 545,
+    "high": 567.9,
+    "low": 542.1,
+    "close": 558.95,
+    "volume": 278171382,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 601.45,
+    "high": 603,
+    "low": 567.35,
+    "close": 571.6,
+    "volume": 212357645,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 572.95,
+    "high": 618.4,
+    "low": 567.35,
+    "close": 593.9,
+    "volume": 2663752102,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 593.8,
+    "high": 593.8,
+    "low": 580.6,
+    "close": 586.5,
+    "volume": 224523156,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 580,
+    "high": 588.85,
+    "low": 573,
+    "close": 577.5,
+    "volume": 159301761,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 585,
+    "high": 601.95,
+    "low": 583.55,
+    "close": 596.5,
+    "volume": 209923108,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 598,
+    "high": 612.4,
+    "low": 598,
+    "close": 602,
+    "volume": 203314980,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 603.65,
+    "high": 612.4,
+    "low": 601,
+    "close": 610,
+    "volume": 295218487,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 608.05,
+    "high": 608.05,
+    "low": 592.9,
+    "close": 593.05,
+    "volume": 136880640,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 593.05,
+    "high": 593.05,
+    "low": 578,
+    "close": 578.95,
+    "volume": 120546690,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 572.9,
+    "high": 591.85,
+    "low": 572.9,
+    "close": 581.9,
+    "volume": 145701770,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 577,
+    "high": 586.85,
+    "low": 576,
+    "close": 584,
+    "volume": 81566074,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 580,
+    "high": 589.85,
+    "low": 580,
+    "close": 582.1,
+    "volume": 84794207,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 581.4,
+    "high": 586.15,
+    "low": 566.4,
+    "close": 569.95,
+    "volume": 78078099,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 567,
+    "high": 572,
+    "low": 561.05,
+    "close": 568.5,
+    "volume": 108365381,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 570.95,
+    "high": 577.7,
+    "low": 561.25,
+    "close": 574.8,
+    "volume": 139553908,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 565,
+    "high": 567.95,
+    "low": 553,
+    "close": 561.95,
+    "volume": 99365473,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 558.2,
+    "high": 562.35,
+    "low": 548.05,
+    "close": 556.4,
+    "volume": 115053640,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 558.9,
+    "high": 570.9,
+    "low": 553.8,
+    "close": 561.9,
+    "volume": 117481741,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 560.3,
+    "high": 560.65,
+    "low": 548.55,
+    "close": 551.55,
+    "volume": 65024960,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 526.1,
+    "high": 538.65,
+    "low": 517.75,
+    "close": 525.55,
+    "volume": 189509901,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 515,
+    "high": 517.4,
+    "low": 504.5,
+    "close": 507,
+    "volume": 171199446,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 508.55,
+    "high": 521,
+    "low": 502.3,
+    "close": 515.95,
+    "volume": 143417382,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 514.2,
+    "high": 528.15,
+    "low": 510.7,
+    "close": 522,
+    "volume": 123231368,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 513.95,
+    "high": 513.95,
+    "low": 497,
+    "close": 509.95,
+    "volume": 117789437,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 514.9,
+    "high": 525,
+    "low": 511.3,
+    "close": 523.1,
+    "volume": 152272766,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 522.25,
+    "high": 531.7,
+    "low": 510.05,
+    "close": 511,
+    "volume": 100921080,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 509.95,
+    "high": 526.15,
+    "low": 496.3,
+    "close": 513.95,
+    "volume": 195467841,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 511,
+    "high": 511.9,
+    "low": 491,
+    "close": 492.2,
+    "volume": 165066981,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 499.85,
+    "high": 500.4,
+    "low": 477,
+    "close": 485.95,
+    "volume": 202963656,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 488.75,
+    "high": 498.5,
+    "low": 488.1,
+    "close": 493.4,
+    "volume": 125206808,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 496.2,
+    "high": 590.6,
+    "low": 496.2,
+    "close": 590.6,
+    "volume": 24953750462,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 562.95,
+    "high": 573.9,
+    "low": 542.25,
+    "close": 554,
+    "volume": 5353365588,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 550,
+    "high": 588.45,
+    "low": 540.1,
+    "close": 556.8,
+    "volume": 9094616148,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 556,
+    "high": 569.4,
+    "low": 533,
+    "close": 535,
+    "volume": 1182312392,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 560,
+    "high": 603.55,
+    "low": 553.15,
+    "close": 563.95,
+    "volume": 11005912817,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 572.95,
+    "high": 592,
+    "low": 566.9,
+    "close": 569.6,
+    "volume": 1381107218,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 570,
+    "high": 570,
+    "low": 542.65,
+    "close": 545.5,
+    "volume": 587180160,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 539,
+    "high": 541.1,
+    "low": 512.4,
+    "close": 516,
+    "volume": 407649095,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 540,
+    "high": 584.75,
+    "low": 533.55,
+    "close": 558.95,
+    "volume": 7062730639,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 550,
+    "high": 571.5,
+    "low": 536.8,
+    "close": 558,
+    "volume": 947689097,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 562,
+    "high": 573.15,
+    "low": 546.2,
+    "close": 560.1,
+    "volume": 597192455,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 563,
+    "high": 572,
+    "low": 555.05,
+    "close": 559.8,
+    "volume": 470435883,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 588,
+    "high": 588,
+    "low": 575,
+    "close": 581.1,
+    "volume": 633428669,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 581.1,
+    "high": 633,
+    "low": 575.65,
+    "close": 603.8,
+    "volume": 5195105568,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 608,
+    "high": 626.95,
+    "low": 606.35,
+    "close": 610.95,
+    "volume": 1336763875,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 609,
+    "high": 644.95,
+    "low": 606.8,
+    "close": 622.75,
+    "volume": 3704923604,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 635,
+    "high": 637.7,
+    "low": 625,
+    "close": 626.5,
+    "volume": 664550542,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 632,
+    "high": 639.75,
+    "low": 619,
+    "close": 625.6,
+    "volume": 589975067,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 626.1,
+    "high": 632,
+    "low": 622.15,
+    "close": 626,
+    "volume": 294516744,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 627,
+    "high": 627,
+    "low": 613.1,
+    "close": 614.6,
+    "volume": 326875891,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 615.65,
+    "high": 635.75,
+    "low": 613.75,
+    "close": 625.05,
+    "volume": 595636746,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 624,
+    "high": 638,
+    "low": 622.15,
+    "close": 629.3,
+    "volume": 382774747,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 625,
+    "high": 639.3,
+    "low": 617.1,
+    "close": 619.55,
+    "volume": 418630847,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 620,
+    "high": 627,
+    "low": 606.65,
+    "close": 613.2,
+    "volume": 262717193,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 617.7,
+    "high": 634.8,
+    "low": 615.25,
+    "close": 630.65,
+    "volume": 361069194,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 630.65,
+    "high": 655,
+    "low": 626,
+    "close": 644,
+    "volume": 1535233396,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 650.9,
+    "high": 654.7,
+    "low": 635.05,
+    "close": 638.25,
+    "volume": 371457816,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 636.05,
+    "high": 638.8,
+    "low": 621.1,
+    "close": 628,
+    "volume": 324538362,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 633.2,
+    "high": 638.8,
+    "low": 623.55,
+    "close": 627.2,
+    "volume": 238831699,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 627,
+    "high": 633,
+    "low": 617,
+    "close": 619.5,
+    "volume": 224922450,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 623.95,
+    "high": 628,
+    "low": 611.05,
+    "close": 622,
+    "volume": 365740553,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 622,
+    "high": 628,
+    "low": 616.6,
+    "close": 627.3,
+    "volume": 330172340,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 623,
+    "high": 663.5,
+    "low": 616,
+    "close": 649,
+    "volume": 2016947511,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 659,
+    "high": 697.9,
+    "low": 653.1,
+    "close": 684,
+    "volume": 10294244947,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 690,
+    "high": 711.2,
+    "low": 645.15,
+    "close": 665,
+    "volume": 4408271326,
+    "symbol": "JBMA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 664,
+    "high": 673,
+    "low": 658.2,
+    "close": 665,
+    "volume": 690941076,
+    "symbol": "JBMA"
+  }
+]

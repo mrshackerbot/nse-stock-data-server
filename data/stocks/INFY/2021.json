@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 1257.9,
+    "high": 1265.5,
+    "low": 1255.8,
+    "close": 1259.5,
+    "volume": 5366530407,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 1269,
+    "high": 1290,
+    "low": 1261.15,
+    "close": 1288,
+    "volume": 9214400329,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 1282,
+    "high": 1299,
+    "low": 1275.05,
+    "close": 1290.35,
+    "volume": 10505964474,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 1300,
+    "high": 1302,
+    "low": 1268.05,
+    "close": 1282.5,
+    "volume": 9226975582,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 1296,
+    "high": 1297.65,
+    "low": 1255.5,
+    "close": 1266.5,
+    "volume": 13875416120,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 1278.25,
+    "high": 1316.8,
+    "low": 1278.25,
+    "close": 1311.5,
+    "volume": 17117011224,
+    "symbol": "INFY"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 1342.1,
+    "high": 1383.35,
+    "low": 1340,
+    "close": 1375.95,
+    "volume": 28058554925,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 1378,
+    "high": 1378,
+    "low": 1360,
+    "close": 1376.5,
+    "volume": 11382710088,
+    "symbol": "INFY"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 1373.85,
+    "high": 1392.8,
+    "low": 1360,
+    "close": 1388.65,
+    "volume": 19916243435,
+    "symbol": "INFY"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 1360,
+    "high": 1384,
+    "low": 1318.45,
+    "close": 1370.5,
+    "volume": 37411219055,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 1360,
+    "high": 1364.45,
+    "low": 1340,
+    "close": 1343.4,
+    "volume": 20319423540,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 1338,
+    "high": 1340,
+    "low": 1306,
+    "close": 1311,
+    "volume": 11702148822,
+    "symbol": "INFY"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 1320,
+    "high": 1331,
+    "low": 1312,
+    "close": 1319.35,
+    "volume": 7374694216,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 1320.55,
+    "high": 1348.4,
+    "low": 1320.55,
+    "close": 1338.85,
+    "volume": 11009221845,
+    "symbol": "INFY"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 1350,
+    "high": 1361.05,
+    "low": 1335,
+    "close": 1342,
+    "volume": 8257354257,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 1327,
+    "high": 1356,
+    "low": 1326.55,
+    "close": 1336,
+    "volume": 12971261022,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 1345,
+    "high": 1347.9,
+    "low": 1313,
+    "close": 1335,
+    "volume": 8751273546,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 1319.6,
+    "high": 1327.55,
+    "low": 1285.1,
+    "close": 1300.5,
+    "volume": 10646861260,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 1291.8,
+    "high": 1296.45,
+    "low": 1272.55,
+    "close": 1276.5,
+    "volume": 5979774972,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 1286.25,
+    "high": 1291.15,
+    "low": 1231,
+    "close": 1250,
+    "volume": 15269437394,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 1250.55,
+    "high": 1277.95,
+    "low": 1241,
+    "close": 1267.1,
+    "volume": 11150104432,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 1280,
+    "high": 1294.4,
+    "low": 1263.6,
+    "close": 1275.5,
+    "volume": 8789223156,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 1277.65,
+    "high": 1304,
+    "low": 1273,
+    "close": 1285,
+    "volume": 10549003463,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 1285,
+    "high": 1293.4,
+    "low": 1272.05,
+    "close": 1278.5,
+    "volume": 6446486331,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 1286.4,
+    "high": 1288.75,
+    "low": 1262,
+    "close": 1273,
+    "volume": 6956468417,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 1285.5,
+    "high": 1310,
+    "low": 1275.5,
+    "close": 1310,
+    "volume": 8943252910,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 1306.9,
+    "high": 1332,
+    "low": 1297.85,
+    "close": 1308.1,
+    "volume": 10498269840,
+    "symbol": "INFY"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 1295.8,
+    "high": 1304.35,
+    "low": 1283.6,
+    "close": 1297,
+    "volume": 7697265667,
+    "symbol": "INFY"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 1289,
+    "high": 1296,
+    "low": 1283.05,
+    "close": 1292.2,
+    "volume": 6026438862,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 1305,
+    "high": 1323.75,
+    "low": 1301.55,
+    "close": 1312,
+    "volume": 7608600802,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 1320,
+    "high": 1328.4,
+    "low": 1307.1,
+    "close": 1312,
+    "volume": 5748561879,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 1314,
+    "high": 1319.75,
+    "low": 1286,
+    "close": 1294.5,
+    "volume": 8951918993,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 1290.4,
+    "high": 1294.5,
+    "low": 1275,
+    "close": 1280.5,
+    "volume": 5874133583,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 1276,
+    "high": 1306,
+    "low": 1275,
+    "close": 1289.35,
+    "volume": 8316445821,
+    "symbol": "INFY"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 1296.1,
+    "high": 1299.5,
+    "low": 1276.8,
+    "close": 1293,
+    "volume": 6943924608,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 1295,
+    "high": 1308.55,
+    "low": 1260,
+    "close": 1264.15,
+    "volume": 9455456933,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 1271.15,
+    "high": 1291,
+    "low": 1257.55,
+    "close": 1268,
+    "volume": 8404181985,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 1260.05,
+    "high": 1276.6,
+    "low": 1252,
+    "close": 1272.7,
+    "volume": 5740727000,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 1288.45,
+    "high": 1299.75,
+    "low": 1272,
+    "close": 1275,
+    "volume": 11279133375,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 1269,
+    "high": 1274.3,
+    "low": 1244.75,
+    "close": 1252,
+    "volume": 19014856542,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 1263.3,
+    "high": 1284.5,
+    "low": 1259,
+    "close": 1271,
+    "volume": 7320037306,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 1282.25,
+    "high": 1310,
+    "low": 1279.2,
+    "close": 1308.6,
+    "volume": 13542927955,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 1319.2,
+    "high": 1347,
+    "low": 1308,
+    "close": 1340.95,
+    "volume": 12038222652,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 1335,
+    "high": 1363.85,
+    "low": 1325.9,
+    "close": 1334.6,
+    "volume": 16174961451,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 1328.5,
+    "high": 1340,
+    "low": 1305.05,
+    "close": 1320.05,
+    "volume": 8579075404,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 1324.8,
+    "high": 1346.1,
+    "low": 1317.2,
+    "close": 1336.05,
+    "volume": 6830699261,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 1329.5,
+    "high": 1350.45,
+    "low": 1318.75,
+    "close": 1344,
+    "volume": 8696584495,
+    "symbol": "INFY"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 1356.9,
+    "high": 1374,
+    "low": 1355,
+    "close": 1366.5,
+    "volume": 10820304084,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 1373,
+    "high": 1391.7,
+    "low": 1370.05,
+    "close": 1375.3,
+    "volume": 13068374479,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 1370,
+    "high": 1379.9,
+    "low": 1358.5,
+    "close": 1371.95,
+    "volume": 9122082515,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 1386.05,
+    "high": 1406,
+    "low": 1380.5,
+    "close": 1384.6,
+    "volume": 13011543029,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 1392.25,
+    "high": 1400,
+    "low": 1382,
+    "close": 1387.1,
+    "volume": 10620025456,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 1393.75,
+    "high": 1393.75,
+    "low": 1313.5,
+    "close": 1341.8,
+    "volume": 14774234434,
+    "symbol": "INFY"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 1330,
+    "high": 1355.2,
+    "low": 1318,
+    "close": 1347.15,
+    "volume": 17111330912,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 1350.1,
+    "high": 1376,
+    "low": 1336.1,
+    "close": 1371.1,
+    "volume": 6593605265,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 1372.45,
+    "high": 1383.25,
+    "low": 1359.6,
+    "close": 1369.8,
+    "volume": 9833991115,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 1357.85,
+    "high": 1370.45,
+    "low": 1346.25,
+    "close": 1355,
+    "volume": 8328138652,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 1346.75,
+    "high": 1352.5,
+    "low": 1327.6,
+    "close": 1337.6,
+    "volume": 11715231220,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 1344.7,
+    "high": 1356.7,
+    "low": 1332,
+    "close": 1338.7,
+    "volume": 6598564525,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 1346.9,
+    "high": 1400,
+    "low": 1336.15,
+    "close": 1386.5,
+    "volume": 14491356277,
+    "symbol": "INFY"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 1382,
+    "high": 1388,
+    "low": 1363.3,
+    "close": 1367.3,
+    "volume": 11268677504,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 1380,
+    "high": 1391.6,
+    "low": 1371,
+    "close": 1386,
+    "volume": 7847148794,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 1391,
+    "high": 1425,
+    "low": 1387,
+    "close": 1415,
+    "volume": 13336273564,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 1423,
+    "high": 1426,
+    "low": 1406.45,
+    "close": 1414,
+    "volume": 8201898839,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 1410.25,
+    "high": 1434.95,
+    "low": 1406.6,
+    "close": 1430,
+    "volume": 8361600367,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 1430,
+    "high": 1451.7,
+    "low": 1421,
+    "close": 1438.15,
+    "volume": 8147788509,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 1455,
+    "high": 1455,
+    "low": 1430.05,
+    "close": 1441,
+    "volume": 8723370111,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 1474,
+    "high": 1477.55,
+    "low": 1415,
+    "close": 1431.5,
+    "volume": 29325012715,
+    "symbol": "INFY"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 1433,
+    "high": 1435.25,
+    "low": 1375,
+    "close": 1402.85,
+    "volume": 20721814129,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 1332.3,
+    "high": 1366.4,
+    "low": 1320,
+    "close": 1363.3,
+    "volume": 34145935655,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 1365,
+    "high": 1370.85,
+    "low": 1346.6,
+    "close": 1348.1,
+    "volume": 14785392742,
+    "symbol": "INFY"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 1340,
+    "high": 1379.7,
+    "low": 1332.35,
+    "close": 1363,
+    "volume": 17005547107,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 1379,
+    "high": 1379,
+    "low": 1342.4,
+    "close": 1349,
+    "volume": 11618460456,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 1355.55,
+    "high": 1364.8,
+    "low": 1345.15,
+    "close": 1352,
+    "volume": 8956080142,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 1343,
+    "high": 1348.4,
+    "low": 1331,
+    "close": 1333.9,
+    "volume": 9800084842,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 1332.25,
+    "high": 1351.3,
+    "low": 1321,
+    "close": 1345,
+    "volume": 9521361287,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 1346,
+    "high": 1353,
+    "low": 1340.15,
+    "close": 1347.5,
+    "volume": 4897445224,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 1358,
+    "high": 1359.5,
+    "low": 1344.6,
+    "close": 1355.8,
+    "volume": 6603777602,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 1368,
+    "high": 1369,
+    "low": 1351.4,
+    "close": 1356,
+    "volume": 7361090047,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 1346.3,
+    "high": 1373.9,
+    "low": 1345.9,
+    "close": 1348.6,
+    "volume": 11372027784,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 1340.8,
+    "high": 1361,
+    "low": 1338,
+    "close": 1349,
+    "volume": 6160448676,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 1354,
+    "high": 1354.95,
+    "low": 1324.1,
+    "close": 1331,
+    "volume": 6548565378,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 1341.1,
+    "high": 1343.9,
+    "low": 1327.8,
+    "close": 1343,
+    "volume": 5268794240,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 1345,
+    "high": 1364.7,
+    "low": 1337.4,
+    "close": 1359.15,
+    "volume": 6514432065,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 1365.3,
+    "high": 1373.05,
+    "low": 1348.5,
+    "close": 1352.7,
+    "volume": 6774539803,
+    "symbol": "INFY"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 1349.85,
+    "high": 1352.9,
+    "low": 1335.05,
+    "close": 1339.9,
+    "volume": 9649893780,
+    "symbol": "INFY"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 1336.9,
+    "high": 1341,
+    "low": 1325.1,
+    "close": 1332.05,
+    "volume": 8539945151,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 1330,
+    "high": 1330,
+    "low": 1314.5,
+    "close": 1327.6,
+    "volume": 6937427272,
+    "symbol": "INFY"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 1326.85,
+    "high": 1326.85,
+    "low": 1311.3,
+    "close": 1320,
+    "volume": 6350387004,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 1320.3,
+    "high": 1334.95,
+    "low": 1320.3,
+    "close": 1328.55,
+    "volume": 6669458544,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 1338,
+    "high": 1344.6,
+    "low": 1329.5,
+    "close": 1338.75,
+    "volume": 7520081253,
+    "symbol": "INFY"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 1342,
+    "high": 1357.45,
+    "low": 1333.25,
+    "close": 1334.65,
+    "volume": 5963617809,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 1348.4,
+    "high": 1349.1,
+    "low": 1335,
+    "close": 1341.95,
+    "volume": 6020330291,
+    "symbol": "INFY"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 1347.5,
+    "high": 1357.5,
+    "low": 1346.35,
+    "close": 1356,
+    "volume": 6717856342,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 1356.65,
+    "high": 1363,
+    "low": 1345.1,
+    "close": 1349,
+    "volume": 5714441955,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 1358,
+    "high": 1368,
+    "low": 1354.45,
+    "close": 1364,
+    "volume": 5582984590,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 1367.9,
+    "high": 1400,
+    "low": 1362.05,
+    "close": 1395,
+    "volume": 9500378457,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 1404.2,
+    "high": 1416.25,
+    "low": 1391.7,
+    "close": 1408.9,
+    "volume": 21583297998,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 1409.75,
+    "high": 1414,
+    "low": 1396.1,
+    "close": 1407.7,
+    "volume": 5993259437,
+    "symbol": "INFY"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 1401.5,
+    "high": 1401.5,
+    "low": 1383,
+    "close": 1395,
+    "volume": 6171426112,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 1400,
+    "high": 1401,
+    "low": 1378.65,
+    "close": 1388.95,
+    "volume": 6635964926,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 1380.75,
+    "high": 1391.95,
+    "low": 1365,
+    "close": 1381,
+    "volume": 12748517787,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 1388.1,
+    "high": 1399,
+    "low": 1377.05,
+    "close": 1390.8,
+    "volume": 7089319506,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 1393.95,
+    "high": 1396.9,
+    "low": 1377.65,
+    "close": 1385.15,
+    "volume": 5809075426,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 1391,
+    "high": 1392,
+    "low": 1377.3,
+    "close": 1390.5,
+    "volume": 7138486995,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 1396,
+    "high": 1421.75,
+    "low": 1395.55,
+    "close": 1414,
+    "volume": 10396698470,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 1413.4,
+    "high": 1425,
+    "low": 1404.6,
+    "close": 1415,
+    "volume": 7636846520,
+    "symbol": "INFY"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 1424,
+    "high": 1429,
+    "low": 1419,
+    "close": 1424.25,
+    "volume": 4977561087,
+    "symbol": "INFY"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 1430.1,
+    "high": 1451.6,
+    "low": 1429.45,
+    "close": 1446.05,
+    "volume": 8861316923,
+    "symbol": "INFY"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 1471,
+    "high": 1477,
+    "low": 1453.45,
+    "close": 1460,
+    "volume": 10435431661,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 1464,
+    "high": 1476,
+    "low": 1463,
+    "close": 1474,
+    "volume": 7941636318,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 1472.7,
+    "high": 1489.45,
+    "low": 1467.5,
+    "close": 1479.2,
+    "volume": 11327444062,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 1475.1,
+    "high": 1502.65,
+    "low": 1475.1,
+    "close": 1501.2,
+    "volume": 11423116458,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 1509,
+    "high": 1515.8,
+    "low": 1487.4,
+    "close": 1510,
+    "volume": 20326029669,
+    "symbol": "INFY"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 1493,
+    "high": 1505.8,
+    "low": 1484.2,
+    "close": 1501.25,
+    "volume": 8164276798,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 1509.7,
+    "high": 1521.45,
+    "low": 1502.1,
+    "close": 1511.35,
+    "volume": 9709910031,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 1525,
+    "high": 1525,
+    "low": 1498.65,
+    "close": 1503,
+    "volume": 8340557841,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 1517,
+    "high": 1568.75,
+    "low": 1511.2,
+    "close": 1556.1,
+    "volume": 16647892220,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 1572,
+    "high": 1578,
+    "low": 1543,
+    "close": 1574,
+    "volume": 15307252499,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 1572.9,
+    "high": 1580.15,
+    "low": 1560.6,
+    "close": 1569.1,
+    "volume": 7884237903,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 1561,
+    "high": 1573.65,
+    "low": 1559.2,
+    "close": 1562,
+    "volume": 9252700415,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 1572.05,
+    "high": 1591,
+    "low": 1572.05,
+    "close": 1580,
+    "volume": 9587562981,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 1576.85,
+    "high": 1576.85,
+    "low": 1559.05,
+    "close": 1561.95,
+    "volume": 7537112360,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 1558.95,
+    "high": 1569.45,
+    "low": 1542.6,
+    "close": 1566.2,
+    "volume": 8034520019,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 1569.15,
+    "high": 1585,
+    "low": 1561.05,
+    "close": 1583.65,
+    "volume": 6382678903,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 1573.7,
+    "high": 1586.75,
+    "low": 1557.1,
+    "close": 1561,
+    "volume": 6441517704,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 1566.05,
+    "high": 1570.55,
+    "low": 1544.65,
+    "close": 1562.5,
+    "volume": 7485054451,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 1568,
+    "high": 1576,
+    "low": 1549,
+    "close": 1560.4,
+    "volume": 5189118227,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 1556,
+    "high": 1569.9,
+    "low": 1551,
+    "close": 1564.9,
+    "volume": 5368362102,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 1570.55,
+    "high": 1578,
+    "low": 1533.75,
+    "close": 1547,
+    "volume": 7152341636,
+    "symbol": "INFY"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 1556.4,
+    "high": 1556.4,
+    "low": 1536.3,
+    "close": 1545.5,
+    "volume": 6874707703,
+    "symbol": "INFY"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 1554,
+    "high": 1582.8,
+    "low": 1538.1,
+    "close": 1577.4,
+    "volume": 8856261426,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 1557.9,
+    "high": 1596.85,
+    "low": 1556,
+    "close": 1579.85,
+    "volume": 15851201207,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 1573.75,
+    "high": 1574.65,
+    "low": 1549.6,
+    "close": 1556.75,
+    "volume": 9775371403,
+    "symbol": "INFY"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 1544.7,
+    "high": 1552.9,
+    "low": 1537.55,
+    "close": 1544.55,
+    "volume": 8743641778,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 1538.3,
+    "high": 1557.7,
+    "low": 1538,
+    "close": 1547,
+    "volume": 7845558519,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 1561.4,
+    "high": 1592.85,
+    "low": 1561.4,
+    "close": 1588.95,
+    "volume": 12415707697,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 1588.55,
+    "high": 1598.5,
+    "low": 1585.05,
+    "close": 1589,
+    "volume": 6653435201,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 1594.1,
+    "high": 1611.65,
+    "low": 1594.1,
+    "close": 1603.05,
+    "volume": 7366526110,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 1605,
+    "high": 1609.3,
+    "low": 1597.9,
+    "close": 1600.1,
+    "volume": 9446568393,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 1605.1,
+    "high": 1607.6,
+    "low": 1585.5,
+    "close": 1607,
+    "volume": 7487050950,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 1600.1,
+    "high": 1620,
+    "low": 1600.1,
+    "close": 1615.5,
+    "volume": 7526375521,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 1610,
+    "high": 1623.4,
+    "low": 1606.15,
+    "close": 1611.75,
+    "volume": 10058016360,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 1627.45,
+    "high": 1634.75,
+    "low": 1619.2,
+    "close": 1632,
+    "volume": 9038450771,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 1647,
+    "high": 1658.65,
+    "low": 1635.6,
+    "close": 1657,
+    "volume": 9074703956,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 1669.1,
+    "high": 1679.9,
+    "low": 1639.05,
+    "close": 1648.55,
+    "volume": 11143605330,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 1649.5,
+    "high": 1666,
+    "low": 1647.05,
+    "close": 1652,
+    "volume": 8975400927,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 1657,
+    "high": 1660.65,
+    "low": 1644,
+    "close": 1652.1,
+    "volume": 6206401477,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 1661,
+    "high": 1667.45,
+    "low": 1646.4,
+    "close": 1664.4,
+    "volume": 8314309677,
+    "symbol": "INFY"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 1668,
+    "high": 1680,
+    "low": 1661.05,
+    "close": 1674.15,
+    "volume": 11463058438,
+    "symbol": "INFY"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 1674.8,
+    "high": 1684,
+    "low": 1668,
+    "close": 1675.1,
+    "volume": 8211808501,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 1679.15,
+    "high": 1696.5,
+    "low": 1674,
+    "close": 1684.95,
+    "volume": 9551399367,
+    "symbol": "INFY"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 1697,
+    "high": 1722.5,
+    "low": 1691.3,
+    "close": 1713.95,
+    "volume": 9585318721,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 1707.7,
+    "high": 1719.95,
+    "low": 1690.1,
+    "close": 1702.95,
+    "volume": 7776599067,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 1703.9,
+    "high": 1748.9,
+    "low": 1686.55,
+    "close": 1737.4,
+    "volume": 16453341374,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 1729,
+    "high": 1755.5,
+    "low": 1727,
+    "close": 1732,
+    "volume": 11629623310,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 1716.1,
+    "high": 1745,
+    "low": 1716.1,
+    "close": 1729.5,
+    "volume": 10764080448,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 1735.75,
+    "high": 1753.15,
+    "low": 1732,
+    "close": 1739.6,
+    "volume": 10779186291,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 1750,
+    "high": 1757,
+    "low": 1712.7,
+    "close": 1721.5,
+    "volume": 13151981489,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 1718,
+    "high": 1746.9,
+    "low": 1718,
+    "close": 1737.65,
+    "volume": 10658228275,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 1734,
+    "high": 1746,
+    "low": 1720,
+    "close": 1723.4,
+    "volume": 9195716831,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 1725,
+    "high": 1727.7,
+    "low": 1705.2,
+    "close": 1707.5,
+    "volume": 11476309163,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 1703.05,
+    "high": 1718.65,
+    "low": 1690.4,
+    "close": 1699.85,
+    "volume": 11157103925,
+    "symbol": "INFY"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 1700.15,
+    "high": 1715,
+    "low": 1685.85,
+    "close": 1713,
+    "volume": 20843024213,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 1709.5,
+    "high": 1709.5,
+    "low": 1673.15,
+    "close": 1677.05,
+    "volume": 13140486835,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 1677.35,
+    "high": 1694.3,
+    "low": 1662.65,
+    "close": 1686.05,
+    "volume": 11442649484,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 1696.05,
+    "high": 1705.95,
+    "low": 1684.4,
+    "close": 1700.5,
+    "volume": 9066475360,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 1705.15,
+    "high": 1732,
+    "low": 1699.35,
+    "close": 1731.2,
+    "volume": 8364392786,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 1730,
+    "high": 1734.9,
+    "low": 1704,
+    "close": 1708,
+    "volume": 6032143710,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 1700.85,
+    "high": 1700.85,
+    "low": 1682.95,
+    "close": 1696.45,
+    "volume": 7762344324,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 1685.9,
+    "high": 1694.9,
+    "low": 1682.15,
+    "close": 1687.95,
+    "volume": 5627248636,
+    "symbol": "INFY"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 1683,
+    "high": 1701.5,
+    "low": 1675.2,
+    "close": 1690.85,
+    "volume": 7876437378,
+    "symbol": "INFY"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 1695.95,
+    "high": 1695.95,
+    "low": 1678.6,
+    "close": 1686.5,
+    "volume": 8349299076,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 1693.25,
+    "high": 1715.1,
+    "low": 1690.2,
+    "close": 1710.2,
+    "volume": 6926434283,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 1715.2,
+    "high": 1719.25,
+    "low": 1691.45,
+    "close": 1702.05,
+    "volume": 5522817876,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 1697,
+    "high": 1718,
+    "low": 1684.45,
+    "close": 1692,
+    "volume": 12647632623,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 1685,
+    "high": 1707.7,
+    "low": 1677.95,
+    "close": 1687.4,
+    "volume": 9599964334,
+    "symbol": "INFY"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 1700,
+    "high": 1726.75,
+    "low": 1684.65,
+    "close": 1717.7,
+    "volume": 7977838674,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 1717,
+    "high": 1738.9,
+    "low": 1713.05,
+    "close": 1715.65,
+    "volume": 7864586458,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 1732,
+    "high": 1745,
+    "low": 1721.1,
+    "close": 1742.1,
+    "volume": 6630769717,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 1758,
+    "high": 1788,
+    "low": 1752.45,
+    "close": 1763.8,
+    "volume": 14674577075,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 1768.75,
+    "high": 1769,
+    "low": 1718.1,
+    "close": 1723,
+    "volume": 8739379305,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 1710,
+    "high": 1710,
+    "low": 1675,
+    "close": 1686.3,
+    "volume": 11068146871,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 1659.25,
+    "high": 1701.4,
+    "low": 1655,
+    "close": 1688.55,
+    "volume": 13115587857,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 1703,
+    "high": 1703,
+    "low": 1670.1,
+    "close": 1679.5,
+    "volume": 11630225539,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 1665.1,
+    "high": 1678.95,
+    "low": 1661.25,
+    "close": 1665.6,
+    "volume": 9577431061,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 1672.5,
+    "high": 1688,
+    "low": 1665.4,
+    "close": 1681.9,
+    "volume": 4946872978,
+    "symbol": "INFY"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 1671,
+    "high": 1702.95,
+    "low": 1663,
+    "close": 1691.7,
+    "volume": 7336751142,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 1702.1,
+    "high": 1709,
+    "low": 1670,
+    "close": 1672.65,
+    "volume": 7188385186,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 1687,
+    "high": 1704.2,
+    "low": 1676.65,
+    "close": 1690.35,
+    "volume": 9272107761,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 1705.25,
+    "high": 1731.5,
+    "low": 1698.4,
+    "close": 1723.85,
+    "volume": 8147261439,
+    "symbol": "INFY"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 1682,
+    "high": 1730,
+    "low": 1663.7,
+    "close": 1693,
+    "volume": 15017023820,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 1677,
+    "high": 1689,
+    "low": 1662,
+    "close": 1688,
+    "volume": 12477416052,
+    "symbol": "INFY"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 1695.95,
+    "high": 1713.65,
+    "low": 1680.05,
+    "close": 1705,
+    "volume": 12062453914,
+    "symbol": "INFY"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 1754,
+    "high": 1783.6,
+    "low": 1698.2,
+    "close": 1714,
+    "volume": 34164007327,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 1740,
+    "high": 1799,
+    "low": 1740,
+    "close": 1798,
+    "volume": 23795103034,
+    "symbol": "INFY"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 1814,
+    "high": 1834.5,
+    "low": 1782.3,
+    "close": 1823.5,
+    "volume": 18778087117,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 1829.4,
+    "high": 1848,
+    "low": 1794.05,
+    "close": 1797.4,
+    "volume": 10690134351,
+    "symbol": "INFY"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 1814,
+    "high": 1814,
+    "low": 1746.85,
+    "close": 1757,
+    "volume": 15523851574,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 1749.9,
+    "high": 1763.2,
+    "low": 1707,
+    "close": 1717.85,
+    "volume": 12737099864,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 1722.05,
+    "high": 1729.75,
+    "low": 1687.2,
+    "close": 1708.4,
+    "volume": 10039080678,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 1710.05,
+    "high": 1726.6,
+    "low": 1695.9,
+    "close": 1707.95,
+    "volume": 10008498840,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 1709.1,
+    "high": 1734.15,
+    "low": 1701.15,
+    "close": 1726.55,
+    "volume": 8747027004,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 1719.35,
+    "high": 1724.75,
+    "low": 1692.05,
+    "close": 1705.85,
+    "volume": 9114701909,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 1699,
+    "high": 1712.6,
+    "low": 1661.05,
+    "close": 1671,
+    "volume": 9914259072,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 1677.5,
+    "high": 1707.2,
+    "low": 1676,
+    "close": 1701.35,
+    "volume": 6166483835,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 1695,
+    "high": 1706.45,
+    "low": 1686.35,
+    "close": 1699,
+    "volume": 5888203296,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 1709,
+    "high": 1717.45,
+    "low": 1699,
+    "close": 1703.6,
+    "volume": 6027214982,
+    "symbol": "INFY"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 1715,
+    "high": 1717,
+    "low": 1705,
+    "close": 1705.5,
+    "volume": 826894810,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 1730,
+    "high": 1741,
+    "low": 1703,
+    "close": 1740,
+    "volume": 9063983393,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 1734.75,
+    "high": 1750,
+    "low": 1726,
+    "close": 1740.7,
+    "volume": 6992803829,
+    "symbol": "INFY"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 1726,
+    "high": 1750.95,
+    "low": 1721.95,
+    "close": 1742,
+    "volume": 8305852157,
+    "symbol": "INFY"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 1732.95,
+    "high": 1739.75,
+    "low": 1709,
+    "close": 1735,
+    "volume": 8155869538,
+    "symbol": "INFY"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 1743,
+    "high": 1782.85,
+    "low": 1738.05,
+    "close": 1779.5,
+    "volume": 8954436975,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 1782.1,
+    "high": 1800,
+    "low": 1775.5,
+    "close": 1785,
+    "volume": 7809957008,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 1790,
+    "high": 1808.95,
+    "low": 1777,
+    "close": 1791.4,
+    "volume": 10846091248,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 1792.55,
+    "high": 1802,
+    "low": 1780.7,
+    "close": 1790.55,
+    "volume": 8483456713,
+    "symbol": "INFY"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 1781.6,
+    "high": 1789.45,
+    "low": 1759,
+    "close": 1774,
+    "volume": 7675682400,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 1784,
+    "high": 1785.4,
+    "low": 1751.15,
+    "close": 1760.25,
+    "volume": 11696747300,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 1735.1,
+    "high": 1747.25,
+    "low": 1710,
+    "close": 1727.5,
+    "volume": 14616871616,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 1740,
+    "high": 1740.5,
+    "low": 1688,
+    "close": 1690.2,
+    "volume": 12560636398,
+    "symbol": "INFY"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 1700,
+    "high": 1726.2,
+    "low": 1696.95,
+    "close": 1722.5,
+    "volume": 7678310603,
+    "symbol": "INFY"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 1702.55,
+    "high": 1718.35,
+    "low": 1684,
+    "close": 1689.55,
+    "volume": 7646702666,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 1691,
+    "high": 1712,
+    "low": 1669.15,
+    "close": 1696.2,
+    "volume": 6681771091,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 1704.55,
+    "high": 1729.9,
+    "low": 1700.05,
+    "close": 1717,
+    "volume": 25379600677,
+    "symbol": "INFY"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 1715,
+    "high": 1741.9,
+    "low": 1713,
+    "close": 1717,
+    "volume": 8967308949,
+    "symbol": "INFY"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 1715,
+    "high": 1750.5,
+    "low": 1711.35,
+    "close": 1748,
+    "volume": 9661020145,
+    "symbol": "INFY"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 1771.1,
+    "high": 1786.65,
+    "low": 1732.55,
+    "close": 1737.6,
+    "volume": 11876876753,
+    "symbol": "INFY"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 1730,
+    "high": 1733.95,
+    "low": 1691.5,
+    "close": 1694.95,
+    "volume": 6807306903,
+    "symbol": "INFY"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 1701.1,
+    "high": 1724.9,
+    "low": 1694,
+    "close": 1711.45,
+    "volume": 7191049985,
+    "symbol": "INFY"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 1733,
+    "high": 1759.8,
+    "low": 1732.6,
+    "close": 1752.4,
+    "volume": 5299514521,
+    "symbol": "INFY"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 1759,
+    "high": 1769.4,
+    "low": 1742,
+    "close": 1758,
+    "volume": 3658856607,
+    "symbol": "INFY"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 1760,
+    "high": 1763.75,
+    "low": 1746,
+    "close": 1757.05,
+    "volume": 3199026984,
+    "symbol": "INFY"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 1767.05,
+    "high": 1771.35,
+    "low": 1738.8,
+    "close": 1747,
+    "volume": 7076097488,
+    "symbol": "INFY"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 1730.9,
+    "high": 1763,
+    "low": 1710.35,
+    "close": 1743.75,
+    "volume": 8328622415,
+    "symbol": "INFY"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 1745,
+    "high": 1747.95,
+    "low": 1721.2,
+    "close": 1734.9,
+    "volume": 5289916760,
+    "symbol": "INFY"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 1762.65,
+    "high": 1777.6,
+    "low": 1758,
+    "close": 1777,
+    "volume": 7924136141,
+    "symbol": "INFY"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 1820,
+    "high": 1842,
+    "low": 1806.75,
+    "close": 1823,
+    "volume": 34427916211,
+    "symbol": "INFY"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 1801.7,
+    "high": 1829.65,
+    "low": 1787.3,
+    "close": 1800.7,
+    "volume": 10423053263,
+    "symbol": "INFY"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 1801,
+    "high": 1838,
+    "low": 1801,
+    "close": 1814.7,
+    "volume": 9753723500,
+    "symbol": "INFY"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 1825,
+    "high": 1829.15,
+    "low": 1812.35,
+    "close": 1824,
+    "volume": 7565456224,
+    "symbol": "INFY"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 1831.25,
+    "high": 1861.6,
+    "low": 1827,
+    "close": 1856.15,
+    "volume": 7607253609,
+    "symbol": "INFY"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 1872.95,
+    "high": 1875.75,
+    "low": 1854,
+    "close": 1863.4,
+    "volume": 7047796921,
+    "symbol": "INFY"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 1860,
+    "high": 1874.5,
+    "low": 1845.05,
+    "close": 1869.4,
+    "volume": 4935229849,
+    "symbol": "INFY"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 1880.7,
+    "high": 1895.9,
+    "low": 1878.4,
+    "close": 1885.2,
+    "volume": 6304763251,
+    "symbol": "INFY"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 1883.5,
+    "high": 1893.8,
+    "low": 1876.4,
+    "close": 1883.25,
+    "volume": 6104257383,
+    "symbol": "INFY"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 1884.5,
+    "high": 1909.8,
+    "low": 1874.35,
+    "close": 1897,
+    "volume": 8689853629,
+    "symbol": "INFY"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 1890,
+    "high": 1898.35,
+    "low": 1871.65,
+    "close": 1893,
+    "volume": 8717788085,
+    "symbol": "INFY"
+  }
+]

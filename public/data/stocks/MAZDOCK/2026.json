@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2500,
+    "high": 2504,
+    "low": 2455,
+    "close": 2482.6,
+    "volume": 1997331232,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2480,
+    "high": 2511.4,
+    "low": 2473.6,
+    "close": 2495,
+    "volume": 2320941053,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2495,
+    "high": 2544,
+    "low": 2494,
+    "close": 2515,
+    "volume": 2927593604,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2520,
+    "high": 2520.4,
+    "low": 2473.8,
+    "close": 2493.9,
+    "volume": 1455785754,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2473,
+    "high": 2520,
+    "low": 2467.5,
+    "close": 2509.8,
+    "volume": 1914595731,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2511.4,
+    "high": 2552,
+    "low": 2470,
+    "close": 2480.6,
+    "volume": 2237185228,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2490,
+    "high": 2607,
+    "low": 2489,
+    "close": 2509.9,
+    "volume": 10581430634,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2522,
+    "high": 2529.1,
+    "low": 2445,
+    "close": 2525,
+    "volume": 3731202305,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2535,
+    "high": 2547.8,
+    "low": 2450.5,
+    "close": 2475.6,
+    "volume": 2835757164,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2475,
+    "high": 2499,
+    "low": 2459.6,
+    "close": 2468.5,
+    "volume": 2202686429,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2478.9,
+    "high": 2489.9,
+    "low": 2418,
+    "close": 2447,
+    "volume": 2026126864,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2431,
+    "high": 2474,
+    "low": 2422.2,
+    "close": 2431,
+    "volume": 1843229424,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2436.9,
+    "high": 2453.4,
+    "low": 2315.6,
+    "close": 2336.6,
+    "volume": 2905164385,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2333,
+    "high": 2351.7,
+    "low": 2287.1,
+    "close": 2338,
+    "volume": 3006774927,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2346,
+    "high": 2379,
+    "low": 2330.1,
+    "close": 2379,
+    "volume": 1673279638,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2380,
+    "high": 2380.2,
+    "low": 2294.6,
+    "close": 2305,
+    "volume": 1837947440,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2316.8,
+    "high": 2350,
+    "low": 2283.3,
+    "close": 2349.9,
+    "volume": 2291178586,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2350,
+    "high": 2514,
+    "low": 2350,
+    "close": 2510.5,
+    "volume": 5408447425,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2531.4,
+    "high": 2536.9,
+    "low": 2465.4,
+    "close": 2515,
+    "volume": 3336956718,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2506,
+    "high": 2586,
+    "low": 2482,
+    "close": 2573.9,
+    "volume": 5622619250,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2598.8,
+    "high": 2657.9,
+    "low": 2315.7,
+    "close": 2379.8,
+    "volume": 11094665448,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2380,
+    "high": 2439.9,
+    "low": 2333.2,
+    "close": 2433,
+    "volume": 3609162390,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2490,
+    "high": 2543.7,
+    "low": 2435,
+    "close": 2455,
+    "volume": 2404209741,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2450,
+    "high": 2450.2,
+    "low": 2405.9,
+    "close": 2430.4,
+    "volume": 1564287606,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2430.4,
+    "high": 2430.4,
+    "low": 2350,
+    "close": 2397.1,
+    "volume": 2376998563,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2415,
+    "high": 2438.7,
+    "low": 2356,
+    "close": 2402,
+    "volume": 3595331126,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2429,
+    "high": 2498.9,
+    "low": 2419,
+    "close": 2475,
+    "volume": 3222423478,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2480,
+    "high": 2512,
+    "low": 2431.1,
+    "close": 2434,
+    "volume": 2293179329,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2450,
+    "high": 2450.3,
+    "low": 2394.3,
+    "close": 2425,
+    "volume": 1770281835,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2419.8,
+    "high": 2432.1,
+    "low": 2395,
+    "close": 2414,
+    "volume": 1507703747,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2400,
+    "high": 2405,
+    "low": 2340,
+    "close": 2344,
+    "volume": 2009298161,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2350,
+    "high": 2364.9,
+    "low": 2320.4,
+    "close": 2360,
+    "volume": 1274284817,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2357.5,
+    "high": 2380,
+    "low": 2351.5,
+    "close": 2364,
+    "volume": 1262087294,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2375,
+    "high": 2401.9,
+    "low": 2342.1,
+    "close": 2389,
+    "volume": 1607305873,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2397.9,
+    "high": 2417,
+    "low": 2327,
+    "close": 2334.8,
+    "volume": 1375258094,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2342,
+    "high": 2408.8,
+    "low": 2333,
+    "close": 2356,
+    "volume": 1914747612,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2370,
+    "high": 2370,
+    "low": 2271.1,
+    "close": 2284.1,
+    "volume": 2622427903,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2284.1,
+    "high": 2288.9,
+    "low": 2236,
+    "close": 2260,
+    "volume": 1643592839,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2270.9,
+    "high": 2273.1,
+    "low": 2231.1,
+    "close": 2240,
+    "volume": 1164883662,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 2240,
+    "high": 2273.2,
+    "low": 2230,
+    "close": 2255,
+    "volume": 1725066338,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 2248,
+    "high": 2248,
+    "low": 2214.3,
+    "close": 2225.1,
+    "volume": 1391874088,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2125.9,
+    "high": 2275,
+    "low": 2125.9,
+    "close": 2218,
+    "volume": 3226185167,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2209.8,
+    "high": 2214.4,
+    "low": 2158,
+    "close": 2162,
+    "volume": 2132973587,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2179.9,
+    "high": 2414.9,
+    "low": 2178.8,
+    "close": 2356,
+    "volume": 21960561698,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2383.3,
+    "high": 2560,
+    "low": 2370.1,
+    "close": 2478,
+    "volume": 31547523156,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 2488.4,
+    "high": 2489,
+    "low": 2347.4,
+    "close": 2390,
+    "volume": 8029401105,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2448,
+    "high": 2499,
+    "low": 2361,
+    "close": 2488.5,
+    "volume": 10089206229,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2510.1,
+    "high": 2539,
+    "low": 2428,
+    "close": 2430,
+    "volume": 6418540045,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2400,
+    "high": 2470.9,
+    "low": 2382,
+    "close": 2449,
+    "volume": 5208429847,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 2434,
+    "high": 2441.6,
+    "low": 2320,
+    "close": 2325.7,
+    "volume": 4013157140,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 2328.5,
+    "high": 2348.9,
+    "low": 2260.5,
+    "close": 2320,
+    "volume": 4549635643,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 2340,
+    "high": 2373.5,
+    "low": 2308.4,
+    "close": 2372,
+    "volume": 3125861194,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 2367.4,
+    "high": 2465,
+    "low": 2363,
+    "close": 2459.5,
+    "volume": 5022364679,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 2424,
+    "high": 2446.9,
+    "low": 2350.1,
+    "close": 2365.2,
+    "volume": 4115747241,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 2380.4,
+    "high": 2412.8,
+    "low": 2315.3,
+    "close": 2326,
+    "volume": 3319305347,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 2290,
+    "high": 2302.7,
+    "low": 2185.2,
+    "close": 2201,
+    "volume": 3777050455,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 2260,
+    "high": 2272.7,
+    "low": 2213.1,
+    "close": 2257,
+    "volume": 3276696181,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 2275.9,
+    "high": 2308,
+    "low": 2248.2,
+    "close": 2255,
+    "volume": 2731251352,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 2255.9,
+    "high": 2256,
+    "low": 2156,
+    "close": 2161,
+    "volume": 4296922905,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 2141.9,
+    "high": 2184.3,
+    "low": 2057.4,
+    "close": 2068.9,
+    "volume": 5090971013,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 2150,
+    "high": 2343.9,
+    "low": 2120,
+    "close": 2322,
+    "volume": 17870710042,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 2250,
+    "high": 2279,
+    "low": 2202.8,
+    "close": 2264,
+    "volume": 6926745192,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 2270,
+    "high": 2322.9,
+    "low": 2218,
+    "close": 2312,
+    "volume": 4863905363,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 2304.4,
+    "high": 2335.8,
+    "low": 2275,
+    "close": 2322,
+    "volume": 3323776026,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 2460.9,
+    "high": 2465,
+    "low": 2374,
+    "close": 2396.3,
+    "volume": 4619894702,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 2381.1,
+    "high": 2468.6,
+    "low": 2373,
+    "close": 2440.8,
+    "volume": 6652775760,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 2450.1,
+    "high": 2530.5,
+    "low": 2450.1,
+    "close": 2469,
+    "volume": 4982775554,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 2425,
+    "high": 2511.4,
+    "low": 2389,
+    "close": 2495,
+    "volume": 6251726603,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 2540,
+    "high": 2560,
+    "low": 2522,
+    "close": 2542,
+    "volume": 4283100580,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 2560,
+    "high": 2591.7,
+    "low": 2525.1,
+    "close": 2570,
+    "volume": 4788063289,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 2570,
+    "high": 2624,
+    "low": 2565,
+    "close": 2620.1,
+    "volume": 6526149987,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 2628.4,
+    "high": 2670,
+    "low": 2578,
+    "close": 2617.9,
+    "volume": 6699705971,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 2639,
+    "high": 2707.4,
+    "low": 2634.3,
+    "close": 2660.8,
+    "volume": 5760878829,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 2656.6,
+    "high": 2714.9,
+    "low": 2650.6,
+    "close": 2706,
+    "volume": 5090246623,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 2703.9,
+    "high": 2742,
+    "low": 2670.9,
+    "close": 2690,
+    "volume": 5961850037,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 2705,
+    "high": 2726,
+    "low": 2641.8,
+    "close": 2675.1,
+    "volume": 6145396555,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 2690,
+    "high": 2714,
+    "low": 2672,
+    "close": 2695,
+    "volume": 3352416703,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 2683.9,
+    "high": 2712,
+    "low": 2668.1,
+    "close": 2692.7,
+    "volume": 2688316792,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 2712,
+    "high": 2810,
+    "low": 2710.3,
+    "close": 2772,
+    "volume": 13668153483,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 2774,
+    "high": 2778,
+    "low": 2680,
+    "close": 2738,
+    "volume": 5219312546,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 2751.2,
+    "high": 2759,
+    "low": 2585.3,
+    "close": 2616.9,
+    "volume": 11815160743,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 2615,
+    "high": 2651.4,
+    "low": 2596,
+    "close": 2638,
+    "volume": 4622787925,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 2646.6,
+    "high": 2669.9,
+    "low": 2629,
+    "close": 2645,
+    "volume": 2737723045,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 2651,
+    "high": 2693.4,
+    "low": 2636,
+    "close": 2688,
+    "volume": 4015116355,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 2683.3,
+    "high": 2698.4,
+    "low": 2641.1,
+    "close": 2656.8,
+    "volume": 3680445550,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 2644,
+    "high": 2644,
+    "low": 2546,
+    "close": 2565.5,
+    "volume": 3894681821,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 2548,
+    "high": 2568.4,
+    "low": 2435.1,
+    "close": 2455,
+    "volume": 3901655861,
+    "symbol": "MAZDOCK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 2445,
+    "high": 2534.9,
+    "low": 2441.6,
+    "close": 2518,
+    "volume": 3135858589,
+    "symbol": "MAZDOCK"
+  }
+]

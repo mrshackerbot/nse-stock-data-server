@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 21.66,
+    "high": 21.7,
+    "low": 21.44,
+    "close": 21.48,
+    "volume": 699157771,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 21.5,
+    "high": 22.34,
+    "low": 21.48,
+    "close": 22.31,
+    "volume": 2534413537,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 22.35,
+    "high": 22.91,
+    "low": 22.18,
+    "close": 22.79,
+    "volume": 3453779692,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 22.8,
+    "high": 23.2,
+    "low": 22.67,
+    "close": 22.84,
+    "volume": 2781858850,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 22.89,
+    "high": 23.57,
+    "low": 22.72,
+    "close": 23.46,
+    "volume": 4387595936,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 23.49,
+    "high": 23.5,
+    "low": 22.62,
+    "close": 22.7,
+    "volume": 3145909396,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 22.62,
+    "high": 23.23,
+    "low": 22.55,
+    "close": 22.84,
+    "volume": 2514612833,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 22.8,
+    "high": 23.04,
+    "low": 22.46,
+    "close": 22.96,
+    "volume": 2594203770,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 23.06,
+    "high": 23.12,
+    "low": 22.6,
+    "close": 22.78,
+    "volume": 1500899966,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 22.8,
+    "high": 23.06,
+    "low": 22.67,
+    "close": 22.95,
+    "volume": 1598392643,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 23,
+    "high": 23.67,
+    "low": 23,
+    "close": 23.45,
+    "volume": 4016097637,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 23.99,
+    "high": 23.99,
+    "low": 22.66,
+    "close": 22.73,
+    "volume": 4497389238,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 22.65,
+    "high": 22.69,
+    "low": 21.61,
+    "close": 21.71,
+    "volume": 3642426587,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 21.68,
+    "high": 22.02,
+    "low": 21.51,
+    "close": 21.65,
+    "volume": 2915223166,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 21.89,
+    "high": 22.05,
+    "low": 21.55,
+    "close": 21.69,
+    "volume": 2042391141,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 21.73,
+    "high": 21.76,
+    "low": 20.8,
+    "close": 20.91,
+    "volume": 2558011902,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 21,
+    "high": 21.18,
+    "low": 20.68,
+    "close": 21.18,
+    "volume": 2338902957,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 21.2,
+    "high": 21.55,
+    "low": 21.18,
+    "close": 21.49,
+    "volume": 1878804766,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 21.48,
+    "high": 21.55,
+    "low": 21.02,
+    "close": 21.27,
+    "volume": 5594646439,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 21.15,
+    "high": 21.48,
+    "low": 21.02,
+    "close": 21.4,
+    "volume": 1747190523,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 21.45,
+    "high": 21.56,
+    "low": 20.9,
+    "close": 21.16,
+    "volume": 1220411559,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 21.18,
+    "high": 21.35,
+    "low": 20.81,
+    "close": 21.25,
+    "volume": 1619966649,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 21.99,
+    "high": 21.99,
+    "low": 21.25,
+    "close": 21.31,
+    "volume": 1980685494,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 21.31,
+    "high": 21.63,
+    "low": 21.26,
+    "close": 21.52,
+    "volume": 2179278456,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 21.59,
+    "high": 21.65,
+    "low": 21.2,
+    "close": 21.33,
+    "volume": 1709506895,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 21.36,
+    "high": 21.43,
+    "low": 21.07,
+    "close": 21.34,
+    "volume": 1348950288,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 21.39,
+    "high": 21.64,
+    "low": 21.3,
+    "close": 21.55,
+    "volume": 1438171170,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 21.6,
+    "high": 21.6,
+    "low": 21.34,
+    "close": 21.42,
+    "volume": 1160573523,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 21.49,
+    "high": 21.49,
+    "low": 21.22,
+    "close": 21.35,
+    "volume": 1097675867,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 21.3,
+    "high": 21.32,
+    "low": 21,
+    "close": 21.09,
+    "volume": 1690474403,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 21.03,
+    "high": 21.07,
+    "low": 20.71,
+    "close": 20.84,
+    "volume": 1233970167,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 20.76,
+    "high": 20.99,
+    "low": 20.7,
+    "close": 20.98,
+    "volume": 974555390,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 20.88,
+    "high": 21.17,
+    "low": 20.88,
+    "close": 21.1,
+    "volume": 1115465869,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 21.09,
+    "high": 21.26,
+    "low": 21.08,
+    "close": 21.24,
+    "volume": 828086370,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 21.24,
+    "high": 21.33,
+    "low": 20.83,
+    "close": 20.91,
+    "volume": 857315357,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 20.96,
+    "high": 21.12,
+    "low": 20.84,
+    "close": 21.03,
+    "volume": 966128713,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 21.06,
+    "high": 21.14,
+    "low": 20.75,
+    "close": 20.9,
+    "volume": 1074082116,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 20.89,
+    "high": 21.01,
+    "low": 20.61,
+    "close": 20.85,
+    "volume": 1698635575,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 20.8,
+    "high": 20.94,
+    "low": 20.57,
+    "close": 20.78,
+    "volume": 1386136567,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 20.75,
+    "high": 21.24,
+    "low": 20.75,
+    "close": 20.97,
+    "volume": 4508340060,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 21.01,
+    "high": 21.01,
+    "low": 20.65,
+    "close": 20.7,
+    "volume": 2053768871,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 19.93,
+    "high": 20.52,
+    "low": 19.91,
+    "close": 20.24,
+    "volume": 2847746255,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 19.87,
+    "high": 20.23,
+    "low": 19.84,
+    "close": 19.99,
+    "volume": 2182746049,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 20.04,
+    "high": 20.27,
+    "low": 19.91,
+    "close": 20.25,
+    "volume": 1423378130,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 20.2,
+    "high": 20.5,
+    "low": 20.07,
+    "close": 20.1,
+    "volume": 1251079319,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 19.89,
+    "high": 19.89,
+    "low": 19.3,
+    "close": 19.67,
+    "volume": 2085314315,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 19.86,
+    "high": 20.04,
+    "low": 19.73,
+    "close": 19.96,
+    "volume": 1555751878,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 19.91,
+    "high": 20.04,
+    "low": 19.48,
+    "close": 19.5,
+    "volume": 1376939570,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 19.45,
+    "high": 19.52,
+    "low": 19.02,
+    "close": 19.34,
+    "volume": 1678423584,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 19.22,
+    "high": 19.25,
+    "low": 18.75,
+    "close": 18.81,
+    "volume": 1780248569,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 18.61,
+    "high": 18.84,
+    "low": 18.19,
+    "close": 18.51,
+    "volume": 2312333838,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 18.55,
+    "high": 18.73,
+    "low": 18.45,
+    "close": 18.6,
+    "volume": 1635588937,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 18.73,
+    "high": 18.97,
+    "low": 18.66,
+    "close": 18.97,
+    "volume": 1240773765,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 18.56,
+    "high": 18.74,
+    "low": 18.28,
+    "close": 18.45,
+    "volume": 1356386251,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 18.53,
+    "high": 18.99,
+    "low": 18.51,
+    "close": 18.56,
+    "volume": 1925642171,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 18.49,
+    "high": 18.49,
+    "low": 17.56,
+    "close": 17.63,
+    "volume": 2423281614,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 18.14,
+    "high": 18.18,
+    "low": 17.86,
+    "close": 18.13,
+    "volume": 1735274351,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 18.22,
+    "high": 18.58,
+    "low": 18.2,
+    "close": 18.51,
+    "volume": 1645691444,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 18.47,
+    "high": 18.47,
+    "low": 17.96,
+    "close": 18.09,
+    "volume": 4249927149,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 17.95,
+    "high": 17.96,
+    "low": 17.2,
+    "close": 17.28,
+    "volume": 3036274437,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 17.66,
+    "high": 18.1,
+    "low": 17.63,
+    "close": 17.95,
+    "volume": 1752150909,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 17.7,
+    "high": 17.94,
+    "low": 17.3,
+    "close": 17.9,
+    "volume": 1720161313,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 17.93,
+    "high": 18.19,
+    "low": 17.68,
+    "close": 18.17,
+    "volume": 1996670954,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 18.12,
+    "high": 18.22,
+    "low": 17.92,
+    "close": 18.11,
+    "volume": 1073759911,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 18.88,
+    "high": 19.1,
+    "low": 18.68,
+    "close": 19.09,
+    "volume": 2224942331,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 19,
+    "high": 19.2,
+    "low": 18.84,
+    "close": 18.95,
+    "volume": 1575665964,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 19,
+    "high": 19.2,
+    "low": 19,
+    "close": 19.11,
+    "volume": 1571950519,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 18.7,
+    "high": 18.98,
+    "low": 18.45,
+    "close": 18.9,
+    "volume": 1297087844,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 19.2,
+    "high": 19.43,
+    "low": 19.15,
+    "close": 19.37,
+    "volume": 1300850604,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 19.54,
+    "high": 20.12,
+    "low": 19.37,
+    "close": 19.92,
+    "volume": 3200069181,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 20.07,
+    "high": 20.44,
+    "low": 19.82,
+    "close": 20.41,
+    "volume": 2609595878,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 20.64,
+    "high": 20.71,
+    "low": 19.79,
+    "close": 19.83,
+    "volume": 7663850173,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 19.98,
+    "high": 19.98,
+    "low": 19.72,
+    "close": 19.78,
+    "volume": 1918922779,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 19.77,
+    "high": 20.12,
+    "low": 19.67,
+    "close": 20,
+    "volume": 2002129868,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 19.94,
+    "high": 20.09,
+    "low": 19.86,
+    "close": 20.03,
+    "volume": 1735186869,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 20.03,
+    "high": 20.15,
+    "low": 19.77,
+    "close": 19.85,
+    "volume": 1335268678,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 19.85,
+    "high": 20.11,
+    "low": 19.85,
+    "close": 19.94,
+    "volume": 1108202504,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 19.9,
+    "high": 20.04,
+    "low": 19.88,
+    "close": 19.97,
+    "volume": 1403301434,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 20.04,
+    "high": 20.55,
+    "low": 19.98,
+    "close": 20.22,
+    "volume": 2590144344,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 20.25,
+    "high": 20.25,
+    "low": 19.86,
+    "close": 19.99,
+    "volume": 1364229963,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 19.99,
+    "high": 20.25,
+    "low": 19.87,
+    "close": 19.96,
+    "volume": 1302500335,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 19.98,
+    "high": 20.94,
+    "low": 19.76,
+    "close": 20.57,
+    "volume": 3342480520,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 20.89,
+    "high": 22.2,
+    "low": 20.81,
+    "close": 22.06,
+    "volume": 8416677709,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 22.04,
+    "high": 22.69,
+    "low": 22.01,
+    "close": 22.48,
+    "volume": 5234125683,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 22.47,
+    "high": 23.05,
+    "low": 22.04,
+    "close": 22.9,
+    "volume": 4591366759,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 22.61,
+    "high": 23.18,
+    "low": 22.47,
+    "close": 22.69,
+    "volume": 4367864270,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 22.67,
+    "high": 22.93,
+    "low": 21.98,
+    "close": 22.15,
+    "volume": 3609503672,
+    "symbol": "YESBANK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 22.05,
+    "high": 22.55,
+    "low": 21.92,
+    "close": 22.12,
+    "volume": 2503330622,
+    "symbol": "YESBANK"
+  }
+]

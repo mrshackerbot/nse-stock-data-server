@@ -1,0 +1,578 @@
+[
+  {
+    "date": "27-Sep-2023",
+    "open": 444,
+    "high": 474,
+    "low": 444,
+    "close": 456.55,
+    "volume": 6436481817,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "28-Sep-2023",
+    "open": 451,
+    "high": 461.9,
+    "low": 446.8,
+    "close": 461.1,
+    "volume": 535020603,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "29-Sep-2023",
+    "open": 463.9,
+    "high": 485.9,
+    "low": 460,
+    "close": 481.15,
+    "volume": 627902376,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "03-Oct-2023",
+    "open": 479.9,
+    "high": 485.95,
+    "low": 475,
+    "close": 476.5,
+    "volume": 272688749,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "04-Oct-2023",
+    "open": 476.5,
+    "high": 479,
+    "low": 454.1,
+    "close": 471,
+    "volume": 399192217,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "05-Oct-2023",
+    "open": 471.4,
+    "high": 479.9,
+    "low": 471,
+    "close": 473,
+    "volume": 148723295,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "06-Oct-2023",
+    "open": 474.75,
+    "high": 503.45,
+    "low": 471.05,
+    "close": 484,
+    "volume": 963020786,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "09-Oct-2023",
+    "open": 479,
+    "high": 492.7,
+    "low": 472.65,
+    "close": 482.1,
+    "volume": 241089453,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "10-Oct-2023",
+    "open": 485.8,
+    "high": 498.9,
+    "low": 485.1,
+    "close": 498.05,
+    "volume": 781771075,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "11-Oct-2023",
+    "open": 502.85,
+    "high": 512.9,
+    "low": 495,
+    "close": 502.5,
+    "volume": 314500226,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "12-Oct-2023",
+    "open": 493.25,
+    "high": 514,
+    "low": 493.25,
+    "close": 502,
+    "volume": 275787384,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "13-Oct-2023",
+    "open": 501.95,
+    "high": 522,
+    "low": 495.35,
+    "close": 504.3,
+    "volume": 250044281,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "16-Oct-2023",
+    "open": 511.75,
+    "high": 513.4,
+    "low": 507.1,
+    "close": 509.5,
+    "volume": 175294494,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "17-Oct-2023",
+    "open": 510.25,
+    "high": 519.9,
+    "low": 510.25,
+    "close": 515,
+    "volume": 67360695,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "18-Oct-2023",
+    "open": 517.2,
+    "high": 519.75,
+    "low": 511,
+    "close": 511,
+    "volume": 86156742,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "19-Oct-2023",
+    "open": 511.9,
+    "high": 535.8,
+    "low": 509.25,
+    "close": 521,
+    "volume": 430767153,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "20-Oct-2023",
+    "open": 516.1,
+    "high": 560,
+    "low": 516.1,
+    "close": 550,
+    "volume": 373218069,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "23-Oct-2023",
+    "open": 551.95,
+    "high": 554,
+    "low": 528,
+    "close": 528,
+    "volume": 186402302,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "25-Oct-2023",
+    "open": 533,
+    "high": 543,
+    "low": 528,
+    "close": 530,
+    "volume": 112563314,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "26-Oct-2023",
+    "open": 529.95,
+    "high": 530.3,
+    "low": 513,
+    "close": 528,
+    "volume": 594104456,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "27-Oct-2023",
+    "open": 524.95,
+    "high": 568.95,
+    "low": 524.95,
+    "close": 555,
+    "volume": 237505201,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "30-Oct-2023",
+    "open": 559.7,
+    "high": 568.45,
+    "low": 559,
+    "close": 565,
+    "volume": 236816869,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "31-Oct-2023",
+    "open": 569,
+    "high": 584.7,
+    "low": 565,
+    "close": 570.8,
+    "volume": 142217364,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "01-Nov-2023",
+    "open": 574,
+    "high": 583,
+    "low": 572.6,
+    "close": 579.8,
+    "volume": 131832646,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "02-Nov-2023",
+    "open": 584,
+    "high": 608.4,
+    "low": 581.4,
+    "close": 604.8,
+    "volume": 671764525,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "03-Nov-2023",
+    "open": 609,
+    "high": 609.9,
+    "low": 601,
+    "close": 601,
+    "volume": 86176471,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "06-Nov-2023",
+    "open": 607,
+    "high": 627,
+    "low": 605.7,
+    "close": 619,
+    "volume": 167932586,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "07-Nov-2023",
+    "open": 624.8,
+    "high": 662.25,
+    "low": 615.05,
+    "close": 662,
+    "volume": 153783554,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 663,
+    "high": 682.95,
+    "low": 657,
+    "close": 665,
+    "volume": 199239471,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 667,
+    "high": 684.2,
+    "low": 656.45,
+    "close": 679.1,
+    "volume": 137893872,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 671.2,
+    "high": 683.45,
+    "low": 658,
+    "close": 680,
+    "volume": 225134239,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 684,
+    "high": 693.8,
+    "low": 684,
+    "close": 693.8,
+    "volume": 58756407,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 699,
+    "high": 707,
+    "low": 692.2,
+    "close": 707,
+    "volume": 94308148,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 713,
+    "high": 740,
+    "low": 710.35,
+    "close": 721.45,
+    "volume": 170476981,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 727.45,
+    "high": 738,
+    "low": 716.05,
+    "close": 726.45,
+    "volume": 155566168,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 722.95,
+    "high": 732.9,
+    "low": 715.4,
+    "close": 723.25,
+    "volume": 185680784,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 723,
+    "high": 730,
+    "low": 703.55,
+    "close": 729,
+    "volume": 127500943,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 729.5,
+    "high": 746,
+    "low": 716.25,
+    "close": 746,
+    "volume": 1465316861,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 752,
+    "high": 770.9,
+    "low": 735.1,
+    "close": 744,
+    "volume": 343854361,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 745.9,
+    "high": 758.9,
+    "low": 737.6,
+    "close": 755.75,
+    "volume": 173233291,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 755,
+    "high": 757.9,
+    "low": 747.5,
+    "close": 751.4,
+    "volume": 153013036,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 754,
+    "high": 755.45,
+    "low": 743.65,
+    "close": 753,
+    "volume": 99276214,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 751,
+    "high": 763,
+    "low": 750,
+    "close": 758,
+    "volume": 158979776,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 756.55,
+    "high": 763.6,
+    "low": 755.15,
+    "close": 759.85,
+    "volume": 92179887,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 760.2,
+    "high": 788.95,
+    "low": 760.2,
+    "close": 780.4,
+    "volume": 154770537,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 788.65,
+    "high": 808.05,
+    "low": 788.65,
+    "close": 800,
+    "volume": 128737681,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 805,
+    "high": 808.9,
+    "low": 787.1,
+    "close": 803,
+    "volume": 463812335,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 806,
+    "high": 806,
+    "low": 796,
+    "close": 799,
+    "volume": 157676473,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 799.65,
+    "high": 803,
+    "low": 790,
+    "close": 790,
+    "volume": 193751277,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 794,
+    "high": 802.9,
+    "low": 788,
+    "close": 789,
+    "volume": 195533142,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 784,
+    "high": 800.9,
+    "low": 784,
+    "close": 798,
+    "volume": 75224788,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 801.65,
+    "high": 809.9,
+    "low": 791,
+    "close": 800,
+    "volume": 431902958,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 802.65,
+    "high": 804.6,
+    "low": 795.5,
+    "close": 801.9,
+    "volume": 56023153,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 805,
+    "high": 805,
+    "low": 800,
+    "close": 800.1,
+    "volume": 52832101,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 806,
+    "high": 816.6,
+    "low": 790.7,
+    "close": 795.2,
+    "volume": 561314946,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 796.1,
+    "high": 807.3,
+    "low": 795.5,
+    "close": 803.9,
+    "volume": 241576174,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 796.3,
+    "high": 819,
+    "low": 796.3,
+    "close": 813.55,
+    "volume": 253578451,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 813.85,
+    "high": 818.4,
+    "low": 783.1,
+    "close": 790,
+    "volume": 364907091,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 790.6,
+    "high": 811,
+    "low": 775,
+    "close": 809.7,
+    "volume": 132126731,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 814.9,
+    "high": 828.85,
+    "low": 806.5,
+    "close": 817,
+    "volume": 119832322,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 821.95,
+    "high": 822.95,
+    "low": 810.05,
+    "close": 822.6,
+    "volume": 407965022,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 829.2,
+    "high": 866.8,
+    "low": 811.75,
+    "close": 842.25,
+    "volume": 775075026,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 845,
+    "high": 859,
+    "low": 838.2,
+    "close": 852,
+    "volume": 257353511,
+    "symbol": "SIGNATURE"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 851.95,
+    "high": 880.75,
+    "low": 851.95,
+    "close": 879,
+    "volume": 305362300,
+    "symbol": "SIGNATURE"
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 764,
+    "high": 768.85,
+    "low": 761,
+    "close": 764,
+    "volume": 37046784,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 774,
+    "high": 774,
+    "low": 752.35,
+    "close": 756.35,
+    "volume": 72509629,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 750.3,
+    "high": 771.65,
+    "low": 743.55,
+    "close": 756.35,
+    "volume": 71978117,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 757.95,
+    "high": 768,
+    "low": 743.75,
+    "close": 760,
+    "volume": 39119401,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 755,
+    "high": 765,
+    "low": 750.25,
+    "close": 752.5,
+    "volume": 21048711,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 757.05,
+    "high": 759.25,
+    "low": 741,
+    "close": 745,
+    "volume": 31496826,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 748.6,
+    "high": 751.85,
+    "low": 735.15,
+    "close": 740.25,
+    "volume": 24621541,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 741,
+    "high": 744.8,
+    "low": 730,
+    "close": 740.35,
+    "volume": 20182921,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 744.1,
+    "high": 748.8,
+    "low": 736.1,
+    "close": 741.2,
+    "volume": 13740776,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 739.1,
+    "high": 749.9,
+    "low": 736.05,
+    "close": 742,
+    "volume": 17197678,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 744.45,
+    "high": 748.75,
+    "low": 738.65,
+    "close": 746.2,
+    "volume": 22091252,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 751.65,
+    "high": 755.35,
+    "low": 731,
+    "close": 742.85,
+    "volume": 27069169,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 738.75,
+    "high": 763.25,
+    "low": 731,
+    "close": 749.8,
+    "volume": 49911176,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 753,
+    "high": 768,
+    "low": 742.85,
+    "close": 753.3,
+    "volume": 34982487,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 752.7,
+    "high": 761.2,
+    "low": 731,
+    "close": 739,
+    "volume": 24812683,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 738.5,
+    "high": 744.9,
+    "low": 695.4,
+    "close": 710,
+    "volume": 34517020,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 695.25,
+    "high": 731.1,
+    "low": 694,
+    "close": 728.15,
+    "volume": 17600683,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 726.9,
+    "high": 728.85,
+    "low": 705,
+    "close": 706.05,
+    "volume": 21695324,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 710.1,
+    "high": 725,
+    "low": 694,
+    "close": 695,
+    "volume": 109322889,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 690,
+    "high": 712,
+    "low": 689,
+    "close": 700,
+    "volume": 40769138,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 709.25,
+    "high": 709.25,
+    "low": 686,
+    "close": 697,
+    "volume": 27021686,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 702,
+    "high": 707.9,
+    "low": 695.2,
+    "close": 700,
+    "volume": 22703375,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 702.8,
+    "high": 711.45,
+    "low": 687.55,
+    "close": 700.1,
+    "volume": 28693030,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 700.9,
+    "high": 718.7,
+    "low": 700.9,
+    "close": 717.45,
+    "volume": 18070872,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 725,
+    "high": 725,
+    "low": 701.15,
+    "close": 705,
+    "volume": 21134442,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 702.9,
+    "high": 707.8,
+    "low": 695,
+    "close": 697,
+    "volume": 15997512,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 699.75,
+    "high": 706.8,
+    "low": 695,
+    "close": 701.15,
+    "volume": 10022672,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 695.2,
+    "high": 703.85,
+    "low": 695.2,
+    "close": 696.15,
+    "volume": 8506966,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 697,
+    "high": 702.95,
+    "low": 686,
+    "close": 689,
+    "volume": 22175574,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 687.35,
+    "high": 705.3,
+    "low": 672.3,
+    "close": 699.9,
+    "volume": 31588294,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 692,
+    "high": 709.6,
+    "low": 692,
+    "close": 699.95,
+    "volume": 30758915,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 701.15,
+    "high": 706.55,
+    "low": 691.7,
+    "close": 705,
+    "volume": 18761749,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 708.7,
+    "high": 708.7,
+    "low": 692.1,
+    "close": 700,
+    "volume": 22364012,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 698.6,
+    "high": 707.85,
+    "low": 692.5,
+    "close": 707,
+    "volume": 71379456,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 702.55,
+    "high": 709.95,
+    "low": 676,
+    "close": 695,
+    "volume": 58127159,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 685,
+    "high": 689.95,
+    "low": 675,
+    "close": 687,
+    "volume": 29987829,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 688.25,
+    "high": 707.7,
+    "low": 659.75,
+    "close": 685,
+    "volume": 59058138,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 660,
+    "high": 670,
+    "low": 623.05,
+    "close": 634,
+    "volume": 32591239,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 639.45,
+    "high": 659.7,
+    "low": 639.45,
+    "close": 658,
+    "volume": 47395720,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 650.1,
+    "high": 688,
+    "low": 650.1,
+    "close": 668.7,
+    "volume": 109357183,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 684.8,
+    "high": 689.95,
+    "low": 666.1,
+    "close": 670.95,
+    "volume": 35136729,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 678.6,
+    "high": 711.3,
+    "low": 669.7,
+    "close": 705,
+    "volume": 50860665,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 696.35,
+    "high": 696.35,
+    "low": 670,
+    "close": 670.6,
+    "volume": 56978043,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 669.95,
+    "high": 674.9,
+    "low": 657.25,
+    "close": 660.55,
+    "volume": 28372875,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 667,
+    "high": 683.25,
+    "low": 660.7,
+    "close": 678,
+    "volume": 32459708,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 679,
+    "high": 688.85,
+    "low": 676,
+    "close": 681.5,
+    "volume": 18271587,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 699.45,
+    "high": 728,
+    "low": 690.15,
+    "close": 721,
+    "volume": 100084734,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 717,
+    "high": 729.45,
+    "low": 712.3,
+    "close": 719,
+    "volume": 34084138,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 721.2,
+    "high": 729.9,
+    "low": 711.2,
+    "close": 724.9,
+    "volume": 38561531,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 723.75,
+    "high": 748,
+    "low": 694.95,
+    "close": 699,
+    "volume": 52951098,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 715,
+    "high": 731,
+    "low": 707.35,
+    "close": 727.2,
+    "volume": 37738444,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 735,
+    "high": 745,
+    "low": 706.6,
+    "close": 710,
+    "volume": 55278166,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 717.9,
+    "high": 734.45,
+    "low": 714.75,
+    "close": 723.85,
+    "volume": 24558824,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 721.45,
+    "high": 725.9,
+    "low": 710,
+    "close": 712.5,
+    "volume": 37016360,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 721.95,
+    "high": 721.95,
+    "low": 713.25,
+    "close": 718,
+    "volume": 12554289,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 722,
+    "high": 722,
+    "low": 697.55,
+    "close": 701,
+    "volume": 31794605,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 709.9,
+    "high": 715.45,
+    "low": 705,
+    "close": 709.2,
+    "volume": 18589848,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 714.9,
+    "high": 718.75,
+    "low": 700.3,
+    "close": 711,
+    "volume": 43039255,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 713.3,
+    "high": 713.3,
+    "low": 687.6,
+    "close": 690,
+    "volume": 19285964,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 693.6,
+    "high": 698.65,
+    "low": 678,
+    "close": 682,
+    "volume": 12765595,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 686.85,
+    "high": 695,
+    "low": 684.5,
+    "close": 686,
+    "volume": 26784219,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 684.55,
+    "high": 714,
+    "low": 672.95,
+    "close": 705.3,
+    "volume": 70652303,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 707.55,
+    "high": 717.3,
+    "low": 698.85,
+    "close": 710.3,
+    "volume": 39978973,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 711.1,
+    "high": 745.2,
+    "low": 710.15,
+    "close": 728.15,
+    "volume": 106275598,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 726,
+    "high": 739.9,
+    "low": 723.55,
+    "close": 732,
+    "volume": 36637292,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 736.35,
+    "high": 736.35,
+    "low": 712.35,
+    "close": 716,
+    "volume": 17482024,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 724,
+    "high": 724,
+    "low": 710,
+    "close": 714.1,
+    "volume": 12305465,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 718.1,
+    "high": 725,
+    "low": 712.15,
+    "close": 715,
+    "volume": 16768531,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 719.65,
+    "high": 719.65,
+    "low": 704,
+    "close": 706.75,
+    "volume": 14123342,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 710,
+    "high": 713.4,
+    "low": 696.35,
+    "close": 700.2,
+    "volume": 20064948,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 706.95,
+    "high": 716.4,
+    "low": 698.5,
+    "close": 709,
+    "volume": 39550482,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 711,
+    "high": 717.1,
+    "low": 685.6,
+    "close": 688.05,
+    "volume": 52150238,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 695.65,
+    "high": 699,
+    "low": 672.6,
+    "close": 681.9,
+    "volume": 38645896,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 682.6,
+    "high": 688.7,
+    "low": 680.6,
+    "close": 685.1,
+    "volume": 13332023,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 681,
+    "high": 705.8,
+    "low": 673.15,
+    "close": 687.4,
+    "volume": 63780916,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 688,
+    "high": 694.7,
+    "low": 680.05,
+    "close": 689.25,
+    "volume": 20762700,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 697.8,
+    "high": 699.8,
+    "low": 681,
+    "close": 684.8,
+    "volume": 15908555,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 680,
+    "high": 684,
+    "low": 671.55,
+    "close": 672.25,
+    "volume": 28953217,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 678,
+    "high": 690,
+    "low": 672.25,
+    "close": 689.7,
+    "volume": 39524232,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 685.5,
+    "high": 701.1,
+    "low": 658.25,
+    "close": 688.05,
+    "volume": 377380867,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 680,
+    "high": 687.35,
+    "low": 666.95,
+    "close": 682.95,
+    "volume": 60137865,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 688,
+    "high": 699,
+    "low": 659.95,
+    "close": 662,
+    "volume": 83283395,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 669.95,
+    "high": 674,
+    "low": 656.15,
+    "close": 670,
+    "volume": 137428017,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 666.45,
+    "high": 672.95,
+    "low": 650.85,
+    "close": 668,
+    "volume": 44376754,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 664.95,
+    "high": 679.9,
+    "low": 654.05,
+    "close": 667.4,
+    "volume": 94251308,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 664,
+    "high": 677.75,
+    "low": 662,
+    "close": 667,
+    "volume": 34982137,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 669.5,
+    "high": 684.7,
+    "low": 659.95,
+    "close": 679,
+    "volume": 31688798,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 671,
+    "high": 675,
+    "low": 657.05,
+    "close": 669.3,
+    "volume": 58410207,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 671.1,
+    "high": 700.75,
+    "low": 662.35,
+    "close": 667,
+    "volume": 51777794,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 672.3,
+    "high": 695.85,
+    "low": 670.85,
+    "close": 690,
+    "volume": 35881289,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 699,
+    "high": 703,
+    "low": 685.5,
+    "close": 699.1,
+    "volume": 36081307,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 701.8,
+    "high": 709.5,
+    "low": 693.45,
+    "close": 704.6,
+    "volume": 37569430,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 691.35,
+    "high": 708,
+    "low": 672.65,
+    "close": 705.3,
+    "volume": 22679231,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 705,
+    "high": 724,
+    "low": 701.05,
+    "close": 707.5,
+    "volume": 87088556,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 718.95,
+    "high": 718.95,
+    "low": 702.2,
+    "close": 703,
+    "volume": 31021052,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 709.5,
+    "high": 721.4,
+    "low": 675,
+    "close": 680,
+    "volume": 60063004,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 675,
+    "high": 691.65,
+    "low": 675,
+    "close": 678.6,
+    "volume": 26421773,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 689.7,
+    "high": 712,
+    "low": 681.9,
+    "close": 692,
+    "volume": 39833789,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 695.75,
+    "high": 704.95,
+    "low": 686,
+    "close": 687.55,
+    "volume": 29607067,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 695.4,
+    "high": 704.95,
+    "low": 686.4,
+    "close": 690.5,
+    "volume": 14737274,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 692.85,
+    "high": 698.3,
+    "low": 660.9,
+    "close": 664,
+    "volume": 43501739,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 672.5,
+    "high": 677.95,
+    "low": 670.1,
+    "close": 672,
+    "volume": 17273010,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 674.45,
+    "high": 674.45,
+    "low": 665.3,
+    "close": 668.7,
+    "volume": 14058417,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 675,
+    "high": 679.35,
+    "low": 656.45,
+    "close": 661.1,
+    "volume": 16828696,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 662.5,
+    "high": 667.95,
+    "low": 654.8,
+    "close": 661,
+    "volume": 16825051,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 662,
+    "high": 662,
+    "low": 650,
+    "close": 650.05,
+    "volume": 15138120,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 654,
+    "high": 657.6,
+    "low": 640.25,
+    "close": 656,
+    "volume": 20726709,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 653.65,
+    "high": 654.05,
+    "low": 649.15,
+    "close": 650,
+    "volume": 30746661,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 648,
+    "high": 669,
+    "low": 647.85,
+    "close": 655.2,
+    "volume": 21425191,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 647.45,
+    "high": 655.35,
+    "low": 625.5,
+    "close": 651.9,
+    "volume": 14608237,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 651.6,
+    "high": 657.15,
+    "low": 645.6,
+    "close": 650,
+    "volume": 15016461,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 654,
+    "high": 668.8,
+    "low": 646.65,
+    "close": 651,
+    "volume": 11787561,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 657.7,
+    "high": 662.95,
+    "low": 638.3,
+    "close": 638.3,
+    "volume": 44927925,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 641.65,
+    "high": 641.65,
+    "low": 614.95,
+    "close": 619.05,
+    "volume": 19333159,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 621,
+    "high": 635,
+    "low": 600.3,
+    "close": 633.8,
+    "volume": 19888392,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 629.55,
+    "high": 647,
+    "low": 622.5,
+    "close": 641,
+    "volume": 19624881,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 639.4,
+    "high": 642.7,
+    "low": 626.2,
+    "close": 637,
+    "volume": 12259580,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 632,
+    "high": 659,
+    "low": 632,
+    "close": 644.95,
+    "volume": 12278086,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 640,
+    "high": 662.8,
+    "low": 640,
+    "close": 654.75,
+    "volume": 6984130,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 658,
+    "high": 663.45,
+    "low": 648,
+    "close": 652,
+    "volume": 8025576,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 652.85,
+    "high": 653.15,
+    "low": 640,
+    "close": 643.9,
+    "volume": 2982779,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 643.65,
+    "high": 655.5,
+    "low": 640.15,
+    "close": 651,
+    "volume": 3180849,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 648.7,
+    "high": 670,
+    "low": 648.7,
+    "close": 664.5,
+    "volume": 7830461,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 670.55,
+    "high": 670.55,
+    "low": 648.45,
+    "close": 651,
+    "volume": 5464129,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 653.45,
+    "high": 658.35,
+    "low": 634.55,
+    "close": 638,
+    "volume": 4925069,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 639,
+    "high": 647.5,
+    "low": 638,
+    "close": 644,
+    "volume": 4904929,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 644.65,
+    "high": 644.65,
+    "low": 636,
+    "close": 643.3,
+    "volume": 4867562,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 643,
+    "high": 666,
+    "low": 641.05,
+    "close": 657.4,
+    "volume": 17722559,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 656,
+    "high": 666.55,
+    "low": 648.5,
+    "close": 653.45,
+    "volume": 8673835,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 657.45,
+    "high": 660.2,
+    "low": 650,
+    "close": 650.1,
+    "volume": 4293211,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 652,
+    "high": 660.05,
+    "low": 650.8,
+    "close": 652.1,
+    "volume": 3743553,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 655.2,
+    "high": 659.2,
+    "low": 648,
+    "close": 653.9,
+    "volume": 2242877,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 660,
+    "high": 665,
+    "low": 652.5,
+    "close": 658,
+    "volume": 3577319,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 664.95,
+    "high": 682.6,
+    "low": 657,
+    "close": 669.05,
+    "volume": 39211292,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 676,
+    "high": 678.2,
+    "low": 665.05,
+    "close": 669.05,
+    "volume": 6878178,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 667,
+    "high": 679.25,
+    "low": 666.8,
+    "close": 670,
+    "volume": 11518896,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 674.8,
+    "high": 674.8,
+    "low": 660.25,
+    "close": 663.6,
+    "volume": 7535849,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 664.7,
+    "high": 681.75,
+    "low": 651.75,
+    "close": 673,
+    "volume": 144820773,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 670,
+    "high": 685.25,
+    "low": 670,
+    "close": 683.9,
+    "volume": 10180963,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 690,
+    "high": 692,
+    "low": 675.05,
+    "close": 681.9,
+    "volume": 7326431,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 683,
+    "high": 683,
+    "low": 661.3,
+    "close": 678.1,
+    "volume": 10103667,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 670,
+    "high": 679.85,
+    "low": 660,
+    "close": 672,
+    "volume": 14865537,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 675.75,
+    "high": 680.8,
+    "low": 666.45,
+    "close": 680,
+    "volume": 7686332,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 682.4,
+    "high": 688.4,
+    "low": 669.25,
+    "close": 672.35,
+    "volume": 8873076,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 681.85,
+    "high": 695,
+    "low": 672.75,
+    "close": 685,
+    "volume": 24554312,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 690,
+    "high": 709,
+    "low": 673.1,
+    "close": 705.7,
+    "volume": 23468314,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 703.3,
+    "high": 709,
+    "low": 680.3,
+    "close": 708.95,
+    "volume": 9818731,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 710.4,
+    "high": 714.55,
+    "low": 683.25,
+    "close": 708,
+    "volume": 65747107,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 693.45,
+    "high": 721.5,
+    "low": 666.65,
+    "close": 721.5,
+    "volume": 82040826,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 700,
+    "high": 710,
+    "low": 692.35,
+    "close": 693.1,
+    "volume": 16425979,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 700,
+    "high": 703.25,
+    "low": 694.55,
+    "close": 697.45,
+    "volume": 9849091,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 692,
+    "high": 698,
+    "low": 685,
+    "close": 688.8,
+    "volume": 6533865,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 685.9,
+    "high": 719.95,
+    "low": 681.3,
+    "close": 692.35,
+    "volume": 25516736,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 698.55,
+    "high": 710.95,
+    "low": 690.65,
+    "close": 691.1,
+    "volume": 12154170,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 697.35,
+    "high": 699.9,
+    "low": 693.65,
+    "close": 695,
+    "volume": 3316341,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 697,
+    "high": 697,
+    "low": 691,
+    "close": 691.2,
+    "volume": 4187890,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 691.65,
+    "high": 698,
+    "low": 671.4,
+    "close": 678.8,
+    "volume": 12101850,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 676.3,
+    "high": 680.4,
+    "low": 666,
+    "close": 674,
+    "volume": 7550926,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 672.7,
+    "high": 687.3,
+    "low": 663.05,
+    "close": 683,
+    "volume": 11085253,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 684,
+    "high": 685,
+    "low": 670.25,
+    "close": 675,
+    "volume": 5839641,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 682.9,
+    "high": 692,
+    "low": 675.3,
+    "close": 686.2,
+    "volume": 13889516,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 695,
+    "high": 701.7,
+    "low": 689.3,
+    "close": 690,
+    "volume": 14988081,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 684,
+    "high": 698,
+    "low": 665.55,
+    "close": 698,
+    "volume": 6893584,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 693.6,
+    "high": 694,
+    "low": 685.7,
+    "close": 692,
+    "volume": 43433596,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 694.5,
+    "high": 709.75,
+    "low": 685,
+    "close": 700,
+    "volume": 16368860,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 707,
+    "high": 707,
+    "low": 688,
+    "close": 688,
+    "volume": 10108892,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 694.9,
+    "high": 703.15,
+    "low": 684,
+    "close": 703,
+    "volume": 11403716,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 700,
+    "high": 702,
+    "low": 690.95,
+    "close": 691.3,
+    "volume": 4448314,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 693.4,
+    "high": 696.65,
+    "low": 689,
+    "close": 690.05,
+    "volume": 5425874,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 695,
+    "high": 709,
+    "low": 693,
+    "close": 708.25,
+    "volume": 18963103,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 710.3,
+    "high": 715,
+    "low": 694.75,
+    "close": 700,
+    "volume": 42306821,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 702,
+    "high": 709.2,
+    "low": 693.7,
+    "close": 700,
+    "volume": 12393788,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 692.5,
+    "high": 706.5,
+    "low": 692.5,
+    "close": 701.3,
+    "volume": 10819615,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 700,
+    "high": 700,
+    "low": 692.5,
+    "close": 694.8,
+    "volume": 5073854,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 708.4,
+    "high": 708.4,
+    "low": 691.2,
+    "close": 701.9,
+    "volume": 16381296,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 698,
+    "high": 722,
+    "low": 690,
+    "close": 711.95,
+    "volume": 76208986,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 717.9,
+    "high": 718.2,
+    "low": 685,
+    "close": 695,
+    "volume": 39578730,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 696.75,
+    "high": 705.05,
+    "low": 691.4,
+    "close": 699.8,
+    "volume": 9264856,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 701.7,
+    "high": 716.15,
+    "low": 694.05,
+    "close": 707,
+    "volume": 47341343,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 705.35,
+    "high": 712.9,
+    "low": 695,
+    "close": 697.15,
+    "volume": 10382212,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 702.3,
+    "high": 710.3,
+    "low": 690.95,
+    "close": 694.9,
+    "volume": 13237944,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 693.2,
+    "high": 700,
+    "low": 674,
+    "close": 687.1,
+    "volume": 20943980,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 690,
+    "high": 700,
+    "low": 682.35,
+    "close": 695.85,
+    "volume": 13765136,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 685,
+    "high": 703.95,
+    "low": 680,
+    "close": 686.15,
+    "volume": 64325823,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 709.65,
+    "high": 710.35,
+    "low": 692.35,
+    "close": 700,
+    "volume": 38341071,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 695.35,
+    "high": 714.2,
+    "low": 695.35,
+    "close": 711,
+    "volume": 15342050,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 702.05,
+    "high": 739.45,
+    "low": 702.05,
+    "close": 729,
+    "volume": 112118835,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 735.95,
+    "high": 749.8,
+    "low": 735,
+    "close": 738.2,
+    "volume": 111545818,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 747,
+    "high": 749,
+    "low": 726.2,
+    "close": 730,
+    "volume": 123618655,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 736.75,
+    "high": 736.75,
+    "low": 720.55,
+    "close": 723.05,
+    "volume": 21964088,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 720.2,
+    "high": 735,
+    "low": 699.65,
+    "close": 733.35,
+    "volume": 51916364,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 714.1,
+    "high": 721.25,
+    "low": 706.95,
+    "close": 710,
+    "volume": 16256148,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 712.15,
+    "high": 732.5,
+    "low": 702.7,
+    "close": 712.55,
+    "volume": 42638593,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 721.25,
+    "high": 735.95,
+    "low": 695.55,
+    "close": 707.9,
+    "volume": 548938435,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 711.5,
+    "high": 726.6,
+    "low": 706.55,
+    "close": 723,
+    "volume": 19646767,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 725.9,
+    "high": 748,
+    "low": 718.5,
+    "close": 741,
+    "volume": 44766083,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 743,
+    "high": 745.5,
+    "low": 728.6,
+    "close": 733,
+    "volume": 30555970,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 735,
+    "high": 735,
+    "low": 716.05,
+    "close": 733.2,
+    "volume": 14468097,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 727.9,
+    "high": 744,
+    "low": 702.3,
+    "close": 704.8,
+    "volume": 135556784,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 711.4,
+    "high": 736,
+    "low": 708.6,
+    "close": 726.4,
+    "volume": 34512799,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 739.95,
+    "high": 744.5,
+    "low": 727,
+    "close": 735,
+    "volume": 9528729,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 730.8,
+    "high": 739,
+    "low": 708,
+    "close": 715,
+    "volume": 23504145,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 717.1,
+    "high": 730.7,
+    "low": 712.8,
+    "close": 728.9,
+    "volume": 11261565,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 730.4,
+    "high": 738,
+    "low": 721.6,
+    "close": 725.5,
+    "volume": 26295566,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 728,
+    "high": 742.7,
+    "low": 725.75,
+    "close": 740,
+    "volume": 39328452,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 735.3,
+    "high": 740,
+    "low": 718.75,
+    "close": 728,
+    "volume": 54328747,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 732.55,
+    "high": 744.5,
+    "low": 708,
+    "close": 710.25,
+    "volume": 70153890,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 714.1,
+    "high": 735.95,
+    "low": 709.35,
+    "close": 728,
+    "volume": 53179769,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 731.5,
+    "high": 731.5,
+    "low": 720,
+    "close": 720.05,
+    "volume": 12286142,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 726.05,
+    "high": 727,
+    "low": 717,
+    "close": 717.2,
+    "volume": 11425578,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 729,
+    "high": 732.4,
+    "low": 702.05,
+    "close": 705.4,
+    "volume": 16854129,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 706.5,
+    "high": 710,
+    "low": 685,
+    "close": 709.4,
+    "volume": 32811831,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 711.1,
+    "high": 714.1,
+    "low": 700,
+    "close": 705,
+    "volume": 15689503,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 702,
+    "high": 713.9,
+    "low": 700.7,
+    "close": 710,
+    "volume": 17719420,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 709.5,
+    "high": 713.9,
+    "low": 705,
+    "close": 705.5,
+    "volume": 12618070,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 710,
+    "high": 711.9,
+    "low": 678.65,
+    "close": 683,
+    "volume": 41618058,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 683.7,
+    "high": 688.75,
+    "low": 674.55,
+    "close": 685,
+    "volume": 17115869,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 689.65,
+    "high": 689.65,
+    "low": 670.1,
+    "close": 680,
+    "volume": 17156365,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 681.5,
+    "high": 681.95,
+    "low": 674.05,
+    "close": 678.6,
+    "volume": 4813757,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 681,
+    "high": 681,
+    "low": 670.05,
+    "close": 673.6,
+    "volume": 6822752,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 675.45,
+    "high": 675.5,
+    "low": 666,
+    "close": 669.9,
+    "volume": 9952416,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 668,
+    "high": 674.3,
+    "low": 661,
+    "close": 662.3,
+    "volume": 12009637,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 669.8,
+    "high": 677,
+    "low": 661.55,
+    "close": 670,
+    "volume": 35659095,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 669.6,
+    "high": 688,
+    "low": 669.6,
+    "close": 688,
+    "volume": 9667971,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 686,
+    "high": 686,
+    "low": 666.05,
+    "close": 675,
+    "volume": 74944405,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 674,
+    "high": 680.25,
+    "low": 666.05,
+    "close": 671.5,
+    "volume": 10962576,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 672.6,
+    "high": 678.5,
+    "low": 668.5,
+    "close": 669,
+    "volume": 9050789,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 676.65,
+    "high": 676.85,
+    "low": 662.1,
+    "close": 665,
+    "volume": 14260459,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 660,
+    "high": 672,
+    "low": 658.3,
+    "close": 660,
+    "volume": 18658104,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 658.25,
+    "high": 665.6,
+    "low": 657.05,
+    "close": 660,
+    "volume": 93850612,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 663.45,
+    "high": 663.9,
+    "low": 657,
+    "close": 661.9,
+    "volume": 46123006,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 665,
+    "high": 667.7,
+    "low": 659,
+    "close": 659,
+    "volume": 16700642,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 663.5,
+    "high": 680,
+    "low": 656.45,
+    "close": 675,
+    "volume": 44401384,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 681.95,
+    "high": 681.95,
+    "low": 665,
+    "close": 665.5,
+    "volume": 17344622,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 665.5,
+    "high": 669.9,
+    "low": 658.2,
+    "close": 660,
+    "volume": 18791448,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 660.55,
+    "high": 674.7,
+    "low": 660.55,
+    "close": 663.1,
+    "volume": 26188987,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 662.9,
+    "high": 672,
+    "low": 659,
+    "close": 668.85,
+    "volume": 34794893,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 671.8,
+    "high": 687,
+    "low": 664.65,
+    "close": 665.5,
+    "volume": 34361943,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 671.45,
+    "high": 674.95,
+    "low": 660.1,
+    "close": 662.7,
+    "volume": 8561286,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 664,
+    "high": 672.8,
+    "low": 663.15,
+    "close": 663.15,
+    "volume": 11250110,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 667.9,
+    "high": 687.3,
+    "low": 660.15,
+    "close": 665,
+    "volume": 56376579,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 678,
+    "high": 678.95,
+    "low": 655,
+    "close": 655.2,
+    "volume": 51807051,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 655,
+    "high": 657.65,
+    "low": 642.55,
+    "close": 644.1,
+    "volume": 16063063,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 650.7,
+    "high": 668.4,
+    "low": 643.6,
+    "close": 664,
+    "volume": 19761499,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 662,
+    "high": 665.9,
+    "low": 651,
+    "close": 652.25,
+    "volume": 29911642,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 654.05,
+    "high": 658.7,
+    "low": 643.6,
+    "close": 645.2,
+    "volume": 17694817,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 649.8,
+    "high": 669,
+    "low": 636.85,
+    "close": 637.5,
+    "volume": 34966198,
+    "symbol": "ERIS"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 641.5,
+    "high": 656.05,
+    "low": 636.35,
+    "close": 648,
+    "volume": 245801617,
+    "symbol": "ERIS"
+  }
+]

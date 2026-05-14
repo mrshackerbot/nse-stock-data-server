@@ -1,0 +1,2216 @@
+[
+  {
+    "date": "02-Jan-2023",
+    "open": 3427.85,
+    "high": 3440.4,
+    "low": 3395,
+    "close": 3405.15,
+    "volume": 529332357,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Jan-2023",
+    "open": 3433.4,
+    "high": 3463.95,
+    "low": 3402.5,
+    "close": 3417.8,
+    "volume": 941241331,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "04-Jan-2023",
+    "open": 3429,
+    "high": 3444.15,
+    "low": 3315.6,
+    "close": 3335.05,
+    "volume": 1030309608,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-Jan-2023",
+    "open": 3344.95,
+    "high": 3368.25,
+    "low": 3312.65,
+    "close": 3321.5,
+    "volume": 647782318,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Jan-2023",
+    "open": 3328.25,
+    "high": 3350.6,
+    "low": 3273.3,
+    "close": 3280.5,
+    "volume": 492197941,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-Jan-2023",
+    "open": 3304.6,
+    "high": 3335.95,
+    "low": 3293.4,
+    "close": 3319,
+    "volume": 697523838,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Jan-2023",
+    "open": 3339.4,
+    "high": 3354.8,
+    "low": 3281,
+    "close": 3288,
+    "volume": 909210945,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-Jan-2023",
+    "open": 3300,
+    "high": 3309.95,
+    "low": 3242.1,
+    "close": 3271,
+    "volume": 462274681,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Jan-2023",
+    "open": 3275.6,
+    "high": 3302.4,
+    "low": 3269.35,
+    "close": 3300,
+    "volume": 376917033,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Jan-2023",
+    "open": 3302,
+    "high": 3309.35,
+    "low": 3245.5,
+    "close": 3262,
+    "volume": 548844140,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-Jan-2023",
+    "open": 3271.75,
+    "high": 3283.1,
+    "low": 3220,
+    "close": 3230,
+    "volume": 410344262,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Jan-2023",
+    "open": 3230,
+    "high": 3284.4,
+    "low": 3230,
+    "close": 3265,
+    "volume": 412847951,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-Jan-2023",
+    "open": 3286.25,
+    "high": 3286.25,
+    "low": 3232,
+    "close": 3250,
+    "volume": 318032393,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "19-Jan-2023",
+    "open": 3245,
+    "high": 3258.2,
+    "low": 3224.1,
+    "close": 3248.8,
+    "volume": 415826612,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Jan-2023",
+    "open": 3248,
+    "high": 3270.8,
+    "low": 3222.55,
+    "close": 3235.8,
+    "volume": 244665150,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-Jan-2023",
+    "open": 3239.95,
+    "high": 3244.9,
+    "low": 3119.05,
+    "close": 3124,
+    "volume": 1208020562,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-Jan-2023",
+    "open": 3128.85,
+    "high": 3151.85,
+    "low": 3029.8,
+    "close": 3040,
+    "volume": 986474379,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "25-Jan-2023",
+    "open": 3035,
+    "high": 3035.65,
+    "low": 2966.7,
+    "close": 2977,
+    "volume": 1090352790,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Jan-2023",
+    "open": 2965.05,
+    "high": 2991.05,
+    "low": 2935.05,
+    "close": 2957,
+    "volume": 760090046,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "30-Jan-2023",
+    "open": 2958,
+    "high": 2973.25,
+    "low": 2899,
+    "close": 2969.95,
+    "volume": 1234407499,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "31-Jan-2023",
+    "open": 2950,
+    "high": 3025,
+    "low": 2949.95,
+    "close": 3016,
+    "volume": 1309835024,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "01-Feb-2023",
+    "open": 3019,
+    "high": 3084.95,
+    "low": 2987.5,
+    "close": 3029.65,
+    "volume": 1310290201,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "02-Feb-2023",
+    "open": 2995,
+    "high": 3037,
+    "low": 2993.8,
+    "close": 2999.8,
+    "volume": 846673524,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Feb-2023",
+    "open": 3005.95,
+    "high": 3059.95,
+    "low": 2979.9,
+    "close": 3015.55,
+    "volume": 719487766,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Feb-2023",
+    "open": 3028.1,
+    "high": 3063.35,
+    "low": 2991,
+    "close": 3062,
+    "volume": 555331405,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "07-Feb-2023",
+    "open": 3025,
+    "high": 3068.65,
+    "low": 3024.35,
+    "close": 3051,
+    "volume": 452900748,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-Feb-2023",
+    "open": 3063.6,
+    "high": 3175,
+    "low": 3042,
+    "close": 3167.1,
+    "volume": 959624168,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-Feb-2023",
+    "open": 3154.05,
+    "high": 3207.95,
+    "low": 3154.05,
+    "close": 3199.75,
+    "volume": 460012985,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Feb-2023",
+    "open": 3207.2,
+    "high": 3221.95,
+    "low": 3114.2,
+    "close": 3139.85,
+    "volume": 257969418,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Feb-2023",
+    "open": 3150.15,
+    "high": 3178.35,
+    "low": 3076.55,
+    "close": 3102.4,
+    "volume": 631607955,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "14-Feb-2023",
+    "open": 3100,
+    "high": 3124.95,
+    "low": 3013.7,
+    "close": 3050,
+    "volume": 937231147,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "15-Feb-2023",
+    "open": 3112.05,
+    "high": 3255,
+    "low": 3066,
+    "close": 3124,
+    "volume": 7673659896,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-Feb-2023",
+    "open": 3154.5,
+    "high": 3412.15,
+    "low": 3149.85,
+    "close": 3375,
+    "volume": 10006976224,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Feb-2023",
+    "open": 3372.05,
+    "high": 3414.85,
+    "low": 3272.65,
+    "close": 3290,
+    "volume": 2386797625,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Feb-2023",
+    "open": 3295,
+    "high": 3345.6,
+    "low": 3245.25,
+    "close": 3335.5,
+    "volume": 1402882320,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Feb-2023",
+    "open": 3340,
+    "high": 3352.45,
+    "low": 3240,
+    "close": 3270.05,
+    "volume": 1280685846,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-Feb-2023",
+    "open": 3265,
+    "high": 3265,
+    "low": 3179.1,
+    "close": 3231,
+    "volume": 1051786987,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-Feb-2023",
+    "open": 3237,
+    "high": 3248.45,
+    "low": 3151,
+    "close": 3165,
+    "volume": 987015940,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-Feb-2023",
+    "open": 3176.55,
+    "high": 3184.45,
+    "low": 3099.4,
+    "close": 3115,
+    "volume": 1024642213,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Feb-2023",
+    "open": 3082.25,
+    "high": 3120.75,
+    "low": 3013,
+    "close": 3051,
+    "volume": 790463757,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Feb-2023",
+    "open": 3051.6,
+    "high": 3131.95,
+    "low": 3010,
+    "close": 3095,
+    "volume": 1580277549,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "01-Mar-2023",
+    "open": 3115.9,
+    "high": 3149.9,
+    "low": 3066.1,
+    "close": 3140,
+    "volume": 914066367,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "02-Mar-2023",
+    "open": 3147.8,
+    "high": 3160.9,
+    "low": 3080.9,
+    "close": 3091.4,
+    "volume": 1207929650,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Mar-2023",
+    "open": 3100,
+    "high": 3135,
+    "low": 3075.35,
+    "close": 3101.15,
+    "volume": 638104475,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Mar-2023",
+    "open": 3121.05,
+    "high": 3130,
+    "low": 3086,
+    "close": 3099,
+    "volume": 468872240,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-Mar-2023",
+    "open": 3098,
+    "high": 3127.6,
+    "low": 3075.15,
+    "close": 3120.35,
+    "volume": 484506011,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-Mar-2023",
+    "open": 3124,
+    "high": 3169.95,
+    "low": 3089.6,
+    "close": 3094.8,
+    "volume": 587203462,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Mar-2023",
+    "open": 3070,
+    "high": 3113.4,
+    "low": 3039,
+    "close": 3097.45,
+    "volume": 644935953,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Mar-2023",
+    "open": 3122,
+    "high": 3122.05,
+    "low": 2998.8,
+    "close": 3015,
+    "volume": 965913588,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "14-Mar-2023",
+    "open": 3019,
+    "high": 3069.85,
+    "low": 2972,
+    "close": 3048,
+    "volume": 791931797,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "15-Mar-2023",
+    "open": 3063.55,
+    "high": 3066.95,
+    "low": 2981,
+    "close": 3005,
+    "volume": 625993413,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-Mar-2023",
+    "open": 3003.25,
+    "high": 3006.15,
+    "low": 2946,
+    "close": 2977.8,
+    "volume": 607628478,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Mar-2023",
+    "open": 3000,
+    "high": 3039.85,
+    "low": 2957.3,
+    "close": 2990,
+    "volume": 1719105588,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Mar-2023",
+    "open": 3029.95,
+    "high": 3029.95,
+    "low": 2885.25,
+    "close": 2915.2,
+    "volume": 692124801,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Mar-2023",
+    "open": 2915.85,
+    "high": 2953.95,
+    "low": 2911,
+    "close": 2948.9,
+    "volume": 384491298,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-Mar-2023",
+    "open": 2956.25,
+    "high": 3029,
+    "low": 2956.25,
+    "close": 2995.35,
+    "volume": 916416234,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-Mar-2023",
+    "open": 2985,
+    "high": 3008.2,
+    "low": 2945.05,
+    "close": 2960,
+    "volume": 335366903,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-Mar-2023",
+    "open": 2971.6,
+    "high": 2975.35,
+    "low": 2914.8,
+    "close": 2929,
+    "volume": 435179561,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Mar-2023",
+    "open": 2945,
+    "high": 2960,
+    "low": 2910.05,
+    "close": 2932.75,
+    "volume": 285974275,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Mar-2023",
+    "open": 2932.75,
+    "high": 2939.7,
+    "low": 2868.9,
+    "close": 2900,
+    "volume": 804598604,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "29-Mar-2023",
+    "open": 2900,
+    "high": 2957,
+    "low": 2885.45,
+    "close": 2949.65,
+    "volume": 786572146,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "31-Mar-2023",
+    "open": 2957.15,
+    "high": 3035.65,
+    "low": 2949.65,
+    "close": 3031.7,
+    "volume": 1033470942,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Apr-2023",
+    "open": 3050.1,
+    "high": 3050.1,
+    "low": 2935.05,
+    "close": 2976,
+    "volume": 697882719,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-Apr-2023",
+    "open": 2983.4,
+    "high": 3035.4,
+    "low": 2968.85,
+    "close": 3032,
+    "volume": 509111322,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Apr-2023",
+    "open": 3032.1,
+    "high": 3043.1,
+    "low": 2996,
+    "close": 3034.85,
+    "volume": 593874275,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Apr-2023",
+    "open": 3034.8,
+    "high": 3074.5,
+    "low": 3018.65,
+    "close": 3030.25,
+    "volume": 407582974,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-Apr-2023",
+    "open": 3030.15,
+    "high": 3066.85,
+    "low": 3012.4,
+    "close": 3039,
+    "volume": 308704158,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Apr-2023",
+    "open": 3057.4,
+    "high": 3112.55,
+    "low": 3000,
+    "close": 3032,
+    "volume": 2147412608,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Apr-2023",
+    "open": 3037.5,
+    "high": 3042.55,
+    "low": 3015,
+    "close": 3034,
+    "volume": 2348364349,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Apr-2023",
+    "open": 3025,
+    "high": 3063.6,
+    "low": 2997.2,
+    "close": 3047,
+    "volume": 1801511064,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-Apr-2023",
+    "open": 3051,
+    "high": 3162,
+    "low": 3049.05,
+    "close": 3157.35,
+    "volume": 1737679114,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "19-Apr-2023",
+    "open": 3172.15,
+    "high": 3194.75,
+    "low": 3131,
+    "close": 3148,
+    "volume": 1568011317,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Apr-2023",
+    "open": 3153.5,
+    "high": 3177.8,
+    "low": 3140.95,
+    "close": 3160,
+    "volume": 499619968,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Apr-2023",
+    "open": 3174,
+    "high": 3210,
+    "low": 3145.6,
+    "close": 3191.2,
+    "volume": 603158318,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-Apr-2023",
+    "open": 3188,
+    "high": 3188,
+    "low": 3095.35,
+    "close": 3109,
+    "volume": 928141628,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "25-Apr-2023",
+    "open": 3112,
+    "high": 3113,
+    "low": 3070.55,
+    "close": 3095.45,
+    "volume": 2125542052,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "26-Apr-2023",
+    "open": 3085.05,
+    "high": 3118,
+    "low": 3015,
+    "close": 3065.8,
+    "volume": 899530893,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Apr-2023",
+    "open": 3071.95,
+    "high": 3076.5,
+    "low": 3051.1,
+    "close": 3060.05,
+    "volume": 540833288,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Apr-2023",
+    "open": 3240,
+    "high": 3462.25,
+    "low": 3240,
+    "close": 3377,
+    "volume": 9855578213,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "02-May-2023",
+    "open": 3370,
+    "high": 3434.4,
+    "low": 3351.5,
+    "close": 3405,
+    "volume": 1430920244,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-May-2023",
+    "open": 3401,
+    "high": 3435,
+    "low": 3376.5,
+    "close": 3419,
+    "volume": 945910397,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "04-May-2023",
+    "open": 3433,
+    "high": 3480.95,
+    "low": 3417.2,
+    "close": 3429.9,
+    "volume": 1056935827,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-May-2023",
+    "open": 3426.3,
+    "high": 3455,
+    "low": 3407.75,
+    "close": 3449.45,
+    "volume": 457228131,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-May-2023",
+    "open": 3456.95,
+    "high": 3471.85,
+    "low": 3425.05,
+    "close": 3450,
+    "volume": 869487003,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-May-2023",
+    "open": 3451.4,
+    "high": 3507.3,
+    "low": 3441.05,
+    "close": 3450,
+    "volume": 840785996,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-May-2023",
+    "open": 3460.1,
+    "high": 3489.6,
+    "low": 3431.75,
+    "close": 3450,
+    "volume": 534555202,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-May-2023",
+    "open": 3470.05,
+    "high": 3474.4,
+    "low": 3406.2,
+    "close": 3420,
+    "volume": 771048696,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-May-2023",
+    "open": 3432.35,
+    "high": 3457.2,
+    "low": 3393.3,
+    "close": 3400.95,
+    "volume": 711594707,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "15-May-2023",
+    "open": 3400,
+    "high": 3413.6,
+    "low": 3362,
+    "close": 3380.95,
+    "volume": 855070136,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-May-2023",
+    "open": 3380.95,
+    "high": 3388.35,
+    "low": 3348.5,
+    "close": 3356.85,
+    "volume": 812182633,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-May-2023",
+    "open": 3353.5,
+    "high": 3365,
+    "low": 3301.15,
+    "close": 3319,
+    "volume": 605546074,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-May-2023",
+    "open": 3339.6,
+    "high": 3340.6,
+    "low": 3241.4,
+    "close": 3262,
+    "volume": 692155242,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "19-May-2023",
+    "open": 3188,
+    "high": 3409.3,
+    "low": 3165.1,
+    "close": 3260,
+    "volume": 2792278949,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-May-2023",
+    "open": 3279.9,
+    "high": 3326.35,
+    "low": 3256.45,
+    "close": 3315,
+    "volume": 1294929347,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-May-2023",
+    "open": 3335,
+    "high": 3405,
+    "low": 3304.95,
+    "close": 3377.45,
+    "volume": 1030895304,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-May-2023",
+    "open": 3385.85,
+    "high": 3430,
+    "low": 3355,
+    "close": 3415,
+    "volume": 1304948882,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "25-May-2023",
+    "open": 3436.4,
+    "high": 3468,
+    "low": 3404,
+    "close": 3409,
+    "volume": 1028273276,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "26-May-2023",
+    "open": 3434.4,
+    "high": 3498,
+    "low": 3383.85,
+    "close": 3498,
+    "volume": 1246639592,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "29-May-2023",
+    "open": 3506.7,
+    "high": 3529.45,
+    "low": 3454,
+    "close": 3493.05,
+    "volume": 1711271122,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "30-May-2023",
+    "open": 3500,
+    "high": 3519.85,
+    "low": 3463.1,
+    "close": 3465.45,
+    "volume": 922738701,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "31-May-2023",
+    "open": 3491.45,
+    "high": 3646.9,
+    "low": 3465.45,
+    "close": 3629.95,
+    "volume": 7431417611,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "01-Jun-2023",
+    "open": 3645,
+    "high": 3645,
+    "low": 3506.1,
+    "close": 3513.8,
+    "volume": 918685771,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "02-Jun-2023",
+    "open": 3538.1,
+    "high": 3561.85,
+    "low": 3467.95,
+    "close": 3482,
+    "volume": 1022617065,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-Jun-2023",
+    "open": 3490,
+    "high": 3539,
+    "low": 3485,
+    "close": 3525,
+    "volume": 568484104,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Jun-2023",
+    "open": 3540,
+    "high": 3600,
+    "low": 3520.15,
+    "close": 3595.35,
+    "volume": 861814314,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "07-Jun-2023",
+    "open": 3599.7,
+    "high": 3698,
+    "low": 3580.1,
+    "close": 3682,
+    "volume": 1390671009,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-Jun-2023",
+    "open": 3724,
+    "high": 3824.85,
+    "low": 3620,
+    "close": 3637.9,
+    "volume": 2377219470,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-Jun-2023",
+    "open": 3556,
+    "high": 3667.5,
+    "low": 3552.55,
+    "close": 3610.05,
+    "volume": 1222415850,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Jun-2023",
+    "open": 3639,
+    "high": 3769.8,
+    "low": 3633.75,
+    "close": 3740,
+    "volume": 2543199850,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Jun-2023",
+    "open": 3761.9,
+    "high": 3774.15,
+    "low": 3735.05,
+    "close": 3760,
+    "volume": 817793332,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "14-Jun-2023",
+    "open": 3769.35,
+    "high": 3831.6,
+    "low": 3725,
+    "close": 3824,
+    "volume": 1246518926,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "15-Jun-2023",
+    "open": 3832,
+    "high": 3869.8,
+    "low": 3818.95,
+    "close": 3844.9,
+    "volume": 900425261,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-Jun-2023",
+    "open": 3870,
+    "high": 3933,
+    "low": 3840,
+    "close": 3905,
+    "volume": 1718321656,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "19-Jun-2023",
+    "open": 3928.95,
+    "high": 3939.75,
+    "low": 3828.85,
+    "close": 3860,
+    "volume": 813893409,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Jun-2023",
+    "open": 3849,
+    "high": 3888.95,
+    "low": 3831.9,
+    "close": 3880,
+    "volume": 929396766,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Jun-2023",
+    "open": 3900,
+    "high": 4011.15,
+    "low": 3859.75,
+    "close": 3997.15,
+    "volume": 880571462,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-Jun-2023",
+    "open": 3996,
+    "high": 3998.85,
+    "low": 3846.9,
+    "close": 3872,
+    "volume": 984381360,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-Jun-2023",
+    "open": 3862,
+    "high": 3867.85,
+    "low": 3792.75,
+    "close": 3807.9,
+    "volume": 1564007072,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "26-Jun-2023",
+    "open": 3807.95,
+    "high": 3864,
+    "low": 3800,
+    "close": 3830.5,
+    "volume": 510434861,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Jun-2023",
+    "open": 3860.2,
+    "high": 3871,
+    "low": 3805,
+    "close": 3834.8,
+    "volume": 610810580,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Jun-2023",
+    "open": 3845.9,
+    "high": 3908.9,
+    "low": 3831.1,
+    "close": 3880,
+    "volume": 811309032,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "30-Jun-2023",
+    "open": 3897.5,
+    "high": 3935.6,
+    "low": 3869.15,
+    "close": 3912.65,
+    "volume": 1050589826,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Jul-2023",
+    "open": 3939.6,
+    "high": 3939.6,
+    "low": 3851.7,
+    "close": 3879.35,
+    "volume": 724833384,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "04-Jul-2023",
+    "open": 3862,
+    "high": 3916.9,
+    "low": 3830,
+    "close": 3850,
+    "volume": 611377384,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-Jul-2023",
+    "open": 3863.8,
+    "high": 3868.65,
+    "low": 3833.05,
+    "close": 3860,
+    "volume": 417290274,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Jul-2023",
+    "open": 3879,
+    "high": 3879,
+    "low": 3822,
+    "close": 3860,
+    "volume": 859471202,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "07-Jul-2023",
+    "open": 3854,
+    "high": 3854,
+    "low": 3715,
+    "close": 3769,
+    "volume": 1969765224,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Jul-2023",
+    "open": 3766,
+    "high": 3795.25,
+    "low": 3674.85,
+    "close": 3675.1,
+    "volume": 587904499,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-Jul-2023",
+    "open": 3665,
+    "high": 3684.55,
+    "low": 3575,
+    "close": 3673,
+    "volume": 2219407486,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Jul-2023",
+    "open": 3668.6,
+    "high": 3675,
+    "low": 3592.8,
+    "close": 3662.95,
+    "volume": 2930000520,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Jul-2023",
+    "open": 3684.25,
+    "high": 3749.45,
+    "low": 3593,
+    "close": 3613,
+    "volume": 1466254728,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "14-Jul-2023",
+    "open": 3614.5,
+    "high": 3668.7,
+    "low": 3585,
+    "close": 3634.9,
+    "volume": 1231447415,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Jul-2023",
+    "open": 3649.9,
+    "high": 3699.9,
+    "low": 3622.2,
+    "close": 3685,
+    "volume": 1016862047,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-Jul-2023",
+    "open": 3710.7,
+    "high": 3710.85,
+    "low": 3620,
+    "close": 3645,
+    "volume": 713221254,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "19-Jul-2023",
+    "open": 3660.65,
+    "high": 3676.95,
+    "low": 3637.05,
+    "close": 3650,
+    "volume": 543655378,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Jul-2023",
+    "open": 3665,
+    "high": 3669.5,
+    "low": 3632.55,
+    "close": 3640,
+    "volume": 381790679,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Jul-2023",
+    "open": 3635,
+    "high": 3697.75,
+    "low": 3635,
+    "close": 3670.3,
+    "volume": 518715509,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-Jul-2023",
+    "open": 3680,
+    "high": 3694.15,
+    "low": 3607.1,
+    "close": 3632,
+    "volume": 535057059,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "25-Jul-2023",
+    "open": 3630,
+    "high": 3648.7,
+    "low": 3546.2,
+    "close": 3573,
+    "volume": 1031478416,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "26-Jul-2023",
+    "open": 3580,
+    "high": 3611.8,
+    "low": 3561.8,
+    "close": 3608.95,
+    "volume": 803554101,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Jul-2023",
+    "open": 3608.95,
+    "high": 3634.25,
+    "low": 3536.25,
+    "close": 3555,
+    "volume": 968807000,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Jul-2023",
+    "open": 3575,
+    "high": 3598.7,
+    "low": 3540.05,
+    "close": 3590,
+    "volume": 976678647,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "31-Jul-2023",
+    "open": 3455,
+    "high": 3635,
+    "low": 3455,
+    "close": 3616.6,
+    "volume": 840397798,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "01-Aug-2023",
+    "open": 3629.9,
+    "high": 3685,
+    "low": 3573.05,
+    "close": 3665.95,
+    "volume": 1284724168,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "02-Aug-2023",
+    "open": 3670.85,
+    "high": 3693.2,
+    "low": 3634.25,
+    "close": 3684.5,
+    "volume": 699641165,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Aug-2023",
+    "open": 3708.9,
+    "high": 3725,
+    "low": 3630.1,
+    "close": 3670,
+    "volume": 715421163,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "04-Aug-2023",
+    "open": 3682.75,
+    "high": 3734,
+    "low": 3682.75,
+    "close": 3691.3,
+    "volume": 656901424,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "07-Aug-2023",
+    "open": 3725.85,
+    "high": 3787,
+    "low": 3720,
+    "close": 3785.05,
+    "volume": 680577276,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-Aug-2023",
+    "open": 3794.95,
+    "high": 3860,
+    "low": 3771.75,
+    "close": 3840,
+    "volume": 1323277638,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-Aug-2023",
+    "open": 3859.95,
+    "high": 3892,
+    "low": 3803.9,
+    "close": 3878.5,
+    "volume": 1218865365,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Aug-2023",
+    "open": 3987,
+    "high": 3987,
+    "low": 3830.95,
+    "close": 3871.75,
+    "volume": 4777813464,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-Aug-2023",
+    "open": 3858.05,
+    "high": 3891.55,
+    "low": 3817.05,
+    "close": 3848,
+    "volume": 1753697280,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "14-Aug-2023",
+    "open": 3859.45,
+    "high": 3872.2,
+    "low": 3742,
+    "close": 3747.95,
+    "volume": 865838475,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-Aug-2023",
+    "open": 3777,
+    "high": 3830,
+    "low": 3733.2,
+    "close": 3823.05,
+    "volume": 1110025219,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Aug-2023",
+    "open": 3830.95,
+    "high": 3875.95,
+    "low": 3818,
+    "close": 3826,
+    "volume": 834032430,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-Aug-2023",
+    "open": 3855,
+    "high": 3855,
+    "low": 3736.1,
+    "close": 3759.65,
+    "volume": 921597467,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Aug-2023",
+    "open": 3760.2,
+    "high": 3765,
+    "low": 3725.25,
+    "close": 3726.3,
+    "volume": 570240834,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-Aug-2023",
+    "open": 3749.9,
+    "high": 3749.9,
+    "low": 3670,
+    "close": 3677.55,
+    "volume": 701042122,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-Aug-2023",
+    "open": 3701.9,
+    "high": 3718.8,
+    "low": 3673.05,
+    "close": 3687.95,
+    "volume": 907670695,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-Aug-2023",
+    "open": 3690.5,
+    "high": 3727.95,
+    "low": 3675,
+    "close": 3675,
+    "volume": 602794508,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "25-Aug-2023",
+    "open": 3684.95,
+    "high": 3700,
+    "low": 3622,
+    "close": 3625.25,
+    "volume": 648610230,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Aug-2023",
+    "open": 3642,
+    "high": 3673,
+    "low": 3625,
+    "close": 3635,
+    "volume": 772644381,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "29-Aug-2023",
+    "open": 3655.85,
+    "high": 3765,
+    "low": 3618.85,
+    "close": 3715.95,
+    "volume": 1379910098,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "30-Aug-2023",
+    "open": 3729.8,
+    "high": 3740,
+    "low": 3679.15,
+    "close": 3695.6,
+    "volume": 619634880,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "31-Aug-2023",
+    "open": 3725.65,
+    "high": 3742.5,
+    "low": 3596.65,
+    "close": 3621,
+    "volume": 2859371522,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "01-Sep-2023",
+    "open": 3650,
+    "high": 3650,
+    "low": 3603.1,
+    "close": 3637.7,
+    "volume": 870645709,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "04-Sep-2023",
+    "open": 3644.8,
+    "high": 3655,
+    "low": 3594,
+    "close": 3626.5,
+    "volume": 516912689,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-Sep-2023",
+    "open": 3635,
+    "high": 3668.95,
+    "low": 3600,
+    "close": 3614.65,
+    "volume": 1226675083,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Sep-2023",
+    "open": 3614.95,
+    "high": 3665,
+    "low": 3600,
+    "close": 3622.95,
+    "volume": 1041419636,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "07-Sep-2023",
+    "open": 3620,
+    "high": 3670,
+    "low": 3616.35,
+    "close": 3656.4,
+    "volume": 1517187740,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-Sep-2023",
+    "open": 3664.95,
+    "high": 3677.35,
+    "low": 3633.05,
+    "close": 3656.95,
+    "volume": 467094366,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-Sep-2023",
+    "open": 3675,
+    "high": 3688.1,
+    "low": 3642,
+    "close": 3681.6,
+    "volume": 739467325,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Sep-2023",
+    "open": 3670,
+    "high": 3713.55,
+    "low": 3588,
+    "close": 3610.95,
+    "volume": 803285496,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Sep-2023",
+    "open": 3597,
+    "high": 3645,
+    "low": 3565.4,
+    "close": 3641,
+    "volume": 460439772,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "14-Sep-2023",
+    "open": 3640.05,
+    "high": 3697,
+    "low": 3635.1,
+    "close": 3652.1,
+    "volume": 687368098,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "15-Sep-2023",
+    "open": 3674.45,
+    "high": 3681,
+    "low": 3622,
+    "close": 3627,
+    "volume": 1018298828,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-Sep-2023",
+    "open": 3550,
+    "high": 3620,
+    "low": 3532.2,
+    "close": 3583,
+    "volume": 1643021846,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Sep-2023",
+    "open": 3566,
+    "high": 3596.45,
+    "low": 3496,
+    "close": 3498,
+    "volume": 1194319229,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Sep-2023",
+    "open": 3500,
+    "high": 3500.95,
+    "low": 3440,
+    "close": 3450.1,
+    "volume": 1143911203,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-Sep-2023",
+    "open": 3445.85,
+    "high": 3479.6,
+    "low": 3410,
+    "close": 3412,
+    "volume": 1373630727,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "25-Sep-2023",
+    "open": 3415.6,
+    "high": 3438.05,
+    "low": 3381,
+    "close": 3393.9,
+    "volume": 1300927973,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "26-Sep-2023",
+    "open": 3403.95,
+    "high": 3430,
+    "low": 3396.1,
+    "close": 3413,
+    "volume": 828096239,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Sep-2023",
+    "open": 3413.95,
+    "high": 3467.05,
+    "low": 3378.05,
+    "close": 3462,
+    "volume": 867434703,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Sep-2023",
+    "open": 3462,
+    "high": 3467.8,
+    "low": 3376,
+    "close": 3408,
+    "volume": 1236999986,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "29-Sep-2023",
+    "open": 3420.05,
+    "high": 3479.6,
+    "low": 3406.8,
+    "close": 3456,
+    "volume": 493442883,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Oct-2023",
+    "open": 3453,
+    "high": 3453,
+    "low": 3400,
+    "close": 3413.35,
+    "volume": 672112309,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "04-Oct-2023",
+    "open": 3400.1,
+    "high": 3416.45,
+    "low": 3380.7,
+    "close": 3394,
+    "volume": 560719271,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-Oct-2023",
+    "open": 3408.7,
+    "high": 3416.9,
+    "low": 3376,
+    "close": 3387,
+    "volume": 540335379,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Oct-2023",
+    "open": 3408.95,
+    "high": 3440.9,
+    "low": 3393.05,
+    "close": 3411,
+    "volume": 416520566,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-Oct-2023",
+    "open": 3402.05,
+    "high": 3440.55,
+    "low": 3365.1,
+    "close": 3415,
+    "volume": 415243820,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Oct-2023",
+    "open": 3445.25,
+    "high": 3476.9,
+    "low": 3416.75,
+    "close": 3464.85,
+    "volume": 381082062,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-Oct-2023",
+    "open": 3480,
+    "high": 3522,
+    "low": 3477.1,
+    "close": 3489.85,
+    "volume": 867173510,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Oct-2023",
+    "open": 3507.85,
+    "high": 3513.9,
+    "low": 3472.65,
+    "close": 3495,
+    "volume": 390456232,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Oct-2023",
+    "open": 3481,
+    "high": 3494.9,
+    "low": 3454.3,
+    "close": 3480,
+    "volume": 460423451,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-Oct-2023",
+    "open": 3510,
+    "high": 3533.35,
+    "low": 3479.7,
+    "close": 3501.8,
+    "volume": 653662929,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Oct-2023",
+    "open": 3522.75,
+    "high": 3543,
+    "low": 3500,
+    "close": 3528.35,
+    "volume": 532844014,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-Oct-2023",
+    "open": 3538,
+    "high": 3538.7,
+    "low": 3490.7,
+    "close": 3506,
+    "volume": 274274762,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "19-Oct-2023",
+    "open": 3490.8,
+    "high": 3524.2,
+    "low": 3465,
+    "close": 3493.9,
+    "volume": 292827076,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Oct-2023",
+    "open": 3500.4,
+    "high": 3509.9,
+    "low": 3445.5,
+    "close": 3466,
+    "volume": 386504227,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-Oct-2023",
+    "open": 3467.25,
+    "high": 3479.85,
+    "low": 3391.6,
+    "close": 3408,
+    "volume": 539007992,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "25-Oct-2023",
+    "open": 3406,
+    "high": 3435.65,
+    "low": 3321,
+    "close": 3340,
+    "volume": 987407326,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "26-Oct-2023",
+    "open": 3333.1,
+    "high": 3333.1,
+    "low": 3271.05,
+    "close": 3295,
+    "volume": 1078699097,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Oct-2023",
+    "open": 3305,
+    "high": 3362.2,
+    "low": 3304.85,
+    "close": 3324,
+    "volume": 558134597,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "30-Oct-2023",
+    "open": 3328.95,
+    "high": 3365,
+    "low": 3296.05,
+    "close": 3359,
+    "volume": 390712899,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "31-Oct-2023",
+    "open": 3373.55,
+    "high": 3410.3,
+    "low": 3362.25,
+    "close": 3393,
+    "volume": 523188995,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "01-Nov-2023",
+    "open": 3393,
+    "high": 3409.95,
+    "low": 3355,
+    "close": 3378,
+    "volume": 899528982,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "02-Nov-2023",
+    "open": 3402,
+    "high": 3420.35,
+    "low": 3380.05,
+    "close": 3405.55,
+    "volume": 420773084,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "03-Nov-2023",
+    "open": 3429.9,
+    "high": 3503.75,
+    "low": 3419.85,
+    "close": 3473,
+    "volume": 583967853,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Nov-2023",
+    "open": 3415.1,
+    "high": 3526.95,
+    "low": 3381.2,
+    "close": 3474.85,
+    "volume": 1162971823,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "07-Nov-2023",
+    "open": 3490,
+    "high": 3523.35,
+    "low": 3471.7,
+    "close": 3510,
+    "volume": 555698788,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 3534,
+    "high": 3605,
+    "low": 3518.45,
+    "close": 3577,
+    "volume": 1129016809,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 3664.95,
+    "high": 3737.5,
+    "low": 3555,
+    "close": 3639.85,
+    "volume": 5702751706,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 3675,
+    "high": 3739,
+    "low": 3590.3,
+    "close": 3692,
+    "volume": 2489388287,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 3714.45,
+    "high": 3734.3,
+    "low": 3705,
+    "close": 3722,
+    "volume": 197696186,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 3731.65,
+    "high": 3731.65,
+    "low": 3640.85,
+    "close": 3669,
+    "volume": 871607900,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 3694.85,
+    "high": 3719.95,
+    "low": 3665,
+    "close": 3709.35,
+    "volume": 800682504,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 3715,
+    "high": 3725,
+    "low": 3670,
+    "close": 3685,
+    "volume": 919652108,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 3694,
+    "high": 3768,
+    "low": 3674,
+    "close": 3721.4,
+    "volume": 884270395,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 3726.5,
+    "high": 3731,
+    "low": 3675,
+    "close": 3682.5,
+    "volume": 505095811,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 3707.95,
+    "high": 3711.45,
+    "low": 3665.05,
+    "close": 3667,
+    "volume": 444674632,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 3680,
+    "high": 3712,
+    "low": 3640.85,
+    "close": 3648,
+    "volume": 493250536,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 3651.5,
+    "high": 3783,
+    "low": 3651.5,
+    "close": 3753.95,
+    "volume": 2594229086,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 3780,
+    "high": 3805,
+    "low": 3741,
+    "close": 3750,
+    "volume": 1693998920,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 3765.5,
+    "high": 3765.5,
+    "low": 3680,
+    "close": 3740,
+    "volume": 1122882704,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 3764.95,
+    "high": 3789.8,
+    "low": 3718.5,
+    "close": 3770,
+    "volume": 693819612,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 3780,
+    "high": 3794.95,
+    "low": 3756.25,
+    "close": 3775.9,
+    "volume": 1593411163,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 3788.95,
+    "high": 3822,
+    "low": 3760.2,
+    "close": 3821,
+    "volume": 945619282,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 3842.75,
+    "high": 3869.95,
+    "low": 3816.85,
+    "close": 3867.8,
+    "volume": 677508372,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 3866,
+    "high": 3902.95,
+    "low": 3793.8,
+    "close": 3827.25,
+    "volume": 1771259237,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 3816.4,
+    "high": 3920,
+    "low": 3800,
+    "close": 3861,
+    "volume": 1253481439,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 3887,
+    "high": 3887.25,
+    "low": 3822,
+    "close": 3839,
+    "volume": 443787390,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 3865,
+    "high": 3887.9,
+    "low": 3804.65,
+    "close": 3835.1,
+    "volume": 1821271498,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 3843.5,
+    "high": 3899,
+    "low": 3832.25,
+    "close": 3878.9,
+    "volume": 859850847,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 3890.45,
+    "high": 3893.65,
+    "low": 3451,
+    "close": 3484,
+    "volume": 5363723676,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 3545,
+    "high": 3575,
+    "low": 3347.1,
+    "close": 3425,
+    "volume": 11767477061,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 3466,
+    "high": 3473.95,
+    "low": 3316.55,
+    "close": 3362,
+    "volume": 8630170155,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 3395,
+    "high": 3444,
+    "low": 3365.3,
+    "close": 3400,
+    "volume": 5064950224,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 3401,
+    "high": 3424.95,
+    "low": 3380.5,
+    "close": 3414,
+    "volume": 1661915910,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 3415,
+    "high": 3424.85,
+    "low": 3370.85,
+    "close": 3395,
+    "volume": 1970324897,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 3412,
+    "high": 3463,
+    "low": 3353.6,
+    "close": 3366.25,
+    "volume": 3852806067,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 3351,
+    "high": 3428,
+    "low": 3329.55,
+    "close": 3420.2,
+    "volume": 1662273560,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 3447,
+    "high": 3447.8,
+    "low": 3403.3,
+    "close": 3430,
+    "volume": 1122330851,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 3446.95,
+    "high": 3466.05,
+    "low": 3430,
+    "close": 3462,
+    "volume": 762242002,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 3458,
+    "high": 3480,
+    "low": 3433,
+    "close": 3457,
+    "volume": 1014184413,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 3479.9,
+    "high": 3491,
+    "low": 3446.9,
+    "close": 3485,
+    "volume": 1010938363,
+    "symbol": "PIIND"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 3491.95,
+    "high": 3521.95,
+    "low": 3466.05,
+    "close": 3511,
+    "volume": 902271884,
+    "symbol": "PIIND"
+  }
+]

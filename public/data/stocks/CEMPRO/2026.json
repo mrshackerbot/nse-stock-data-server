@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 790.1,
+    "high": 792,
+    "low": 769.1,
+    "close": 771.7,
+    "volume": 138426650,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 772.5,
+    "high": 787.6,
+    "low": 760,
+    "close": 776,
+    "volume": 247396592,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 770.8,
+    "high": 775.05,
+    "low": 753.5,
+    "close": 756.5,
+    "volume": 216701043,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 759,
+    "high": 763.8,
+    "low": 748.65,
+    "close": 753.25,
+    "volume": 149243689,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 751.5,
+    "high": 759.7,
+    "low": 745.55,
+    "close": 753,
+    "volume": 133981817,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 754.25,
+    "high": 767,
+    "low": 722.3,
+    "close": 725,
+    "volume": 280908323,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 718.65,
+    "high": 725.3,
+    "low": 696.75,
+    "close": 709,
+    "volume": 366903845,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 697.65,
+    "high": 710,
+    "low": 685,
+    "close": 696.5,
+    "volume": 242479041,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 699.75,
+    "high": 707.95,
+    "low": 675.55,
+    "close": 684.7,
+    "volume": 173996131,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 680.05,
+    "high": 705.5,
+    "low": 679,
+    "close": 699,
+    "volume": 136656088,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 699,
+    "high": 699.3,
+    "low": 674,
+    "close": 676.95,
+    "volume": 133934795,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 677.1,
+    "high": 677.45,
+    "low": 661.55,
+    "close": 663,
+    "volume": 106689832,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 661.5,
+    "high": 664.2,
+    "low": 621.8,
+    "close": 628,
+    "volume": 218767834,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 625,
+    "high": 644,
+    "low": 610,
+    "close": 642,
+    "volume": 182491779,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 643,
+    "high": 652,
+    "low": 635,
+    "close": 645,
+    "volume": 128720405,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 647.6,
+    "high": 649.4,
+    "low": 621.65,
+    "close": 623.7,
+    "volume": 107182980,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 625.25,
+    "high": 627.9,
+    "low": 607.2,
+    "close": 626.1,
+    "volume": 137728055,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 622.55,
+    "high": 638.45,
+    "low": 622.55,
+    "close": 634.4,
+    "volume": 120035249,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 629.95,
+    "high": 641.25,
+    "low": 611.35,
+    "close": 630.1,
+    "volume": 147156279,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 628,
+    "high": 651.7,
+    "low": 617.6,
+    "close": 637,
+    "volume": 143253886,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 629.7,
+    "high": 660,
+    "low": 625,
+    "close": 630,
+    "volume": 97519397,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 633.7,
+    "high": 655.6,
+    "low": 618.8,
+    "close": 630.3,
+    "volume": 153353693,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 660.95,
+    "high": 683.6,
+    "low": 660.95,
+    "close": 675.05,
+    "volume": 358134521,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 678.4,
+    "high": 705,
+    "low": 665,
+    "close": 699,
+    "volume": 224164174,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 705,
+    "high": 709.25,
+    "low": 670.2,
+    "close": 682.5,
+    "volume": 266165118,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 667.9,
+    "high": 667.9,
+    "low": 618.1,
+    "close": 634,
+    "volume": 628341328,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 642.2,
+    "high": 647.15,
+    "low": 623,
+    "close": 640.35,
+    "volume": 317439688,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 640.35,
+    "high": 671.05,
+    "low": 640.35,
+    "close": 654.55,
+    "volume": 276486521,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 657.5,
+    "high": 658,
+    "low": 631.3,
+    "close": 637,
+    "volume": 204989541,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 635.5,
+    "high": 636.15,
+    "low": 611.8,
+    "close": 617.7,
+    "volume": 296088134,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 613,
+    "high": 620.25,
+    "low": 601,
+    "close": 601.75,
+    "volume": 167172186,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 601,
+    "high": 601,
+    "low": 585.5,
+    "close": 594.4,
+    "volume": 152226102,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 594,
+    "high": 607.95,
+    "low": 589.15,
+    "close": 603.7,
+    "volume": 125935579,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 605,
+    "high": 610.35,
+    "low": 598.45,
+    "close": 605.75,
+    "volume": 114484046,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 610,
+    "high": 610,
+    "low": 584,
+    "close": 590.5,
+    "volume": 90184712,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 589.1,
+    "high": 594,
+    "low": 580,
+    "close": 585.15,
+    "volume": 93413855,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 592.9,
+    "high": 614.9,
+    "low": 588.05,
+    "close": 605,
+    "volume": 137642296,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 600.25,
+    "high": 615,
+    "low": 588.6,
+    "close": 591,
+    "volume": 136884007,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 592.05,
+    "high": 608.85,
+    "low": 585.25,
+    "close": 591,
+    "volume": 190612512,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 589.5,
+    "high": 607.2,
+    "low": 586,
+    "close": 590.5,
+    "volume": 156524824,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 590.7,
+    "high": 591.95,
+    "low": 570.6,
+    "close": 577.2,
+    "volume": 206663482,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 550.95,
+    "high": 577.05,
+    "low": 536.1,
+    "close": 573,
+    "volume": 164626249,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 558.95,
+    "high": 564.35,
+    "low": 546.3,
+    "close": 551.25,
+    "volume": 199624899,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 552.5,
+    "high": 570,
+    "low": 552.1,
+    "close": 564,
+    "volume": 198422900,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 563.85,
+    "high": 573.3,
+    "low": 558.3,
+    "close": 566.45,
+    "volume": 162307078,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 560,
+    "high": 560,
+    "low": 541.25,
+    "close": 549,
+    "volume": 125087963,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 551,
+    "high": 561,
+    "low": 549.5,
+    "close": 560.35,
+    "volume": 101277751,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 558.8,
+    "high": 581.95,
+    "low": 551.2,
+    "close": 552,
+    "volume": 161411069,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 550,
+    "high": 559.4,
+    "low": 536.2,
+    "close": 548.6,
+    "volume": 178863052,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 542,
+    "high": 561.1,
+    "low": 535.05,
+    "close": 539.8,
+    "volume": 192616793,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 539.95,
+    "high": 539.95,
+    "low": 518.2,
+    "close": 529.6,
+    "volume": 176304256,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 532.55,
+    "high": 540.95,
+    "low": 521,
+    "close": 523.1,
+    "volume": 127115808,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 529.5,
+    "high": 556.95,
+    "low": 526.15,
+    "close": 550.45,
+    "volume": 147018605,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 540,
+    "high": 548,
+    "low": 538.1,
+    "close": 546.5,
+    "volume": 127146156,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 552.9,
+    "high": 560.05,
+    "low": 533.1,
+    "close": 536,
+    "volume": 125966890,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 534.95,
+    "high": 535.8,
+    "low": 503.3,
+    "close": 510,
+    "volume": 223040834,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 526.8,
+    "high": 540.55,
+    "low": 513.05,
+    "close": 537,
+    "volume": 226789349,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 538.1,
+    "high": 566.15,
+    "low": 534.15,
+    "close": 556.95,
+    "volume": 213200776,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 556.95,
+    "high": 560,
+    "low": 510.5,
+    "close": 517.5,
+    "volume": 572431961,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 520,
+    "high": 528.75,
+    "low": 505.45,
+    "close": 515,
+    "volume": 246825240,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 523,
+    "high": 542,
+    "low": 519.35,
+    "close": 538,
+    "volume": 347841713,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 531,
+    "high": 543.35,
+    "low": 510.3,
+    "close": 540.4,
+    "volume": 169384013,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 545.85,
+    "high": 556.4,
+    "low": 528.4,
+    "close": 551,
+    "volume": 191716796,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 547,
+    "high": 572.6,
+    "low": 544,
+    "close": 561.95,
+    "volume": 163004402,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 592.2,
+    "high": 608.4,
+    "low": 572.25,
+    "close": 604,
+    "volume": 621662520,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 580,
+    "high": 612,
+    "low": 580,
+    "close": 604,
+    "volume": 305793853,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 608.05,
+    "high": 634.4,
+    "low": 606.05,
+    "close": 628.5,
+    "volume": 256647422,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 612.1,
+    "high": 632.8,
+    "low": 604.15,
+    "close": 619.95,
+    "volume": 175312738,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 630,
+    "high": 641.8,
+    "low": 625.25,
+    "close": 640,
+    "volume": 136981903,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 645,
+    "high": 652.9,
+    "low": 634,
+    "close": 647,
+    "volume": 184017656,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 652.4,
+    "high": 658.35,
+    "low": 645,
+    "close": 650,
+    "volume": 127511216,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 649.9,
+    "high": 657.5,
+    "low": 635.45,
+    "close": 637.7,
+    "volume": 131935971,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 633.05,
+    "high": 656,
+    "low": 633.05,
+    "close": 646.5,
+    "volume": 115375427,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 643.25,
+    "high": 691.95,
+    "low": 643.25,
+    "close": 672.35,
+    "volume": 481579687,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 674.9,
+    "high": 679.8,
+    "low": 657.5,
+    "close": 663,
+    "volume": 168849588,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 667.6,
+    "high": 667.6,
+    "low": 640.2,
+    "close": 648.7,
+    "volume": 119505241,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 647.95,
+    "high": 675.75,
+    "low": 643,
+    "close": 661,
+    "volume": 175217891,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 662.95,
+    "high": 686,
+    "low": 660,
+    "close": 685,
+    "volume": 229185926,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 688.6,
+    "high": 702.95,
+    "low": 676.2,
+    "close": 679.45,
+    "volume": 365214978,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 738,
+    "high": 815.25,
+    "low": 722,
+    "close": 815.25,
+    "volume": 15522159116,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 846.25,
+    "high": 978.3,
+    "low": 816,
+    "close": 935.15,
+    "volume": 25741293835,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 930.65,
+    "high": 954.6,
+    "low": 900.05,
+    "close": 915,
+    "volume": 4772612044,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 918.9,
+    "high": 968.4,
+    "low": 911.3,
+    "close": 942.8,
+    "volume": 2704316272,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 942,
+    "high": 982.8,
+    "low": 940.55,
+    "close": 973,
+    "volume": 1234414692,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 960,
+    "high": 975,
+    "low": 951.6,
+    "close": 955.2,
+    "volume": 534739937,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 948,
+    "high": 953,
+    "low": 901,
+    "close": 908.3,
+    "volume": 627545665,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 907.25,
+    "high": 937.15,
+    "low": 884.75,
+    "close": 893,
+    "volume": 514616580,
+    "symbol": "CEMPRO"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 890.05,
+    "high": 918.4,
+    "low": 883,
+    "close": 890.7,
+    "volume": 351649264,
+    "symbol": "CEMPRO"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 482.55,
+    "high": 489.55,
+    "low": 479,
+    "close": 480.5,
+    "volume": 81980903,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 482,
+    "high": 516,
+    "low": 481.9,
+    "close": 501,
+    "volume": 961573022,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 502.5,
+    "high": 508.8,
+    "low": 483.5,
+    "close": 498,
+    "volume": 640800649,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 499.1,
+    "high": 501,
+    "low": 476.9,
+    "close": 479.9,
+    "volume": 217173337,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 480,
+    "high": 524.5,
+    "low": 480,
+    "close": 518.65,
+    "volume": 6254966613,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 520.95,
+    "high": 533.2,
+    "low": 497.2,
+    "close": 504,
+    "volume": 1241551622,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 449.35,
+    "high": 457.8,
+    "low": 415.05,
+    "close": 420.35,
+    "volume": 5334059441,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 421.6,
+    "high": 426,
+    "low": 395.35,
+    "close": 411,
+    "volume": 1753326270,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 416.85,
+    "high": 422.8,
+    "low": 397.5,
+    "close": 397.5,
+    "volume": 712838401,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 401.95,
+    "high": 405.35,
+    "low": 391.95,
+    "close": 396.45,
+    "volume": 438175848,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 396.05,
+    "high": 398.35,
+    "low": 387.25,
+    "close": 392.25,
+    "volume": 345190153,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 390,
+    "high": 390.25,
+    "low": 382.5,
+    "close": 386.75,
+    "volume": 178949256,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 386.05,
+    "high": 387.6,
+    "low": 372.5,
+    "close": 374,
+    "volume": 293969326,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 375.1,
+    "high": 383,
+    "low": 361.5,
+    "close": 379,
+    "volume": 408037223,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 381.65,
+    "high": 386.55,
+    "low": 369.2,
+    "close": 380.25,
+    "volume": 197538537,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 380.3,
+    "high": 381,
+    "low": 369.3,
+    "close": 375.05,
+    "volume": 138706370,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 374.95,
+    "high": 375.1,
+    "low": 363.3,
+    "close": 371.2,
+    "volume": 164917699,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 369,
+    "high": 391,
+    "low": 369,
+    "close": 390.7,
+    "volume": 159646967,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 393,
+    "high": 397.35,
+    "low": 385.2,
+    "close": 393,
+    "volume": 165605024,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 394.5,
+    "high": 415,
+    "low": 392.2,
+    "close": 407,
+    "volume": 227957059,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 416,
+    "high": 417.8,
+    "low": 384.1,
+    "close": 396.15,
+    "volume": 148952160,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 394,
+    "high": 404.9,
+    "low": 389.8,
+    "close": 403.45,
+    "volume": 104508491,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 421,
+    "high": 454,
+    "low": 410.45,
+    "close": 449,
+    "volume": 716855019,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 446.95,
+    "high": 458.9,
+    "low": 435.95,
+    "close": 455,
+    "volume": 243457183,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 456,
+    "high": 456.4,
+    "low": 433.3,
+    "close": 437.15,
+    "volume": 155039409,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 437,
+    "high": 446.85,
+    "low": 434,
+    "close": 441.5,
+    "volume": 109070129,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 444.85,
+    "high": 491,
+    "low": 444,
+    "close": 478.1,
+    "volume": 1154888919,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 480.05,
+    "high": 494,
+    "low": 466.1,
+    "close": 469,
+    "volume": 455318534,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 470.5,
+    "high": 475,
+    "low": 453,
+    "close": 455.9,
+    "volume": 176328254,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 457.5,
+    "high": 463,
+    "low": 442.7,
+    "close": 449,
+    "volume": 102624846,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 444.7,
+    "high": 444.7,
+    "low": 431.3,
+    "close": 432,
+    "volume": 83447583,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 434.2,
+    "high": 441.3,
+    "low": 426.95,
+    "close": 436.9,
+    "volume": 96101677,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 432.65,
+    "high": 448.5,
+    "low": 432.65,
+    "close": 441,
+    "volume": 88844887,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 443,
+    "high": 444.2,
+    "low": 436,
+    "close": 438.15,
+    "volume": 81447435,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 439.1,
+    "high": 445,
+    "low": 422.35,
+    "close": 423,
+    "volume": 85476185,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 424.95,
+    "high": 430.5,
+    "low": 412.1,
+    "close": 422,
+    "volume": 60711226,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 423.05,
+    "high": 431.8,
+    "low": 423,
+    "close": 426.35,
+    "volume": 71162343,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 426.4,
+    "high": 431.8,
+    "low": 416.5,
+    "close": 420.95,
+    "volume": 99446084,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 421,
+    "high": 427.95,
+    "low": 417.25,
+    "close": 422.9,
+    "volume": 71401736,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 422.9,
+    "high": 430.9,
+    "low": 419.3,
+    "close": 420.85,
+    "volume": 51087367,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 423.35,
+    "high": 426.7,
+    "low": 413.3,
+    "close": 417,
+    "volume": 74733723,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 397,
+    "high": 416.5,
+    "low": 393,
+    "close": 408.25,
+    "volume": 136710337,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 402.45,
+    "high": 403,
+    "low": 388.95,
+    "close": 391.75,
+    "volume": 108128063,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 394.15,
+    "high": 403.4,
+    "low": 389.25,
+    "close": 397,
+    "volume": 84588955,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 400,
+    "high": 436,
+    "low": 397.4,
+    "close": 407,
+    "volume": 772251484,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 400,
+    "high": 408.6,
+    "low": 390.5,
+    "close": 407,
+    "volume": 119658231,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 411,
+    "high": 424,
+    "low": 399.35,
+    "close": 401.7,
+    "volume": 141084760,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 402.6,
+    "high": 408.8,
+    "low": 398,
+    "close": 398.25,
+    "volume": 83097476,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 395,
+    "high": 398.75,
+    "low": 384.5,
+    "close": 392,
+    "volume": 188090802,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 390,
+    "high": 392.95,
+    "low": 374.85,
+    "close": 382,
+    "volume": 159920265,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 380,
+    "high": 380.7,
+    "low": 366.3,
+    "close": 376.35,
+    "volume": 129020231,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 376.5,
+    "high": 394.5,
+    "low": 372.15,
+    "close": 383.5,
+    "volume": 216596712,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 383.05,
+    "high": 416,
+    "low": 383.05,
+    "close": 397,
+    "volume": 241240477,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 391.75,
+    "high": 393.45,
+    "low": 380.75,
+    "close": 387,
+    "volume": 210421396,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 387.95,
+    "high": 404.75,
+    "low": 387.15,
+    "close": 391,
+    "volume": 327669129,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 388.85,
+    "high": 388.85,
+    "low": 372.5,
+    "close": 379.1,
+    "volume": 157817663,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 390.75,
+    "high": 393,
+    "low": 373.15,
+    "close": 384,
+    "volume": 194411492,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 390.4,
+    "high": 397.8,
+    "low": 386,
+    "close": 389,
+    "volume": 179551431,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 386,
+    "high": 386.75,
+    "low": 370.1,
+    "close": 370.55,
+    "volume": 196376711,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 370,
+    "high": 370,
+    "low": 352,
+    "close": 357,
+    "volume": 210857233,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 367.95,
+    "high": 387.65,
+    "low": 367.15,
+    "close": 383.4,
+    "volume": 223258444,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 377,
+    "high": 389.65,
+    "low": 367.5,
+    "close": 385.65,
+    "volume": 159717883,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 388.15,
+    "high": 395.55,
+    "low": 381,
+    "close": 390.6,
+    "volume": 146385215,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 390,
+    "high": 395.95,
+    "low": 385.05,
+    "close": 395,
+    "volume": 96648995,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 411.4,
+    "high": 424.6,
+    "low": 403.1,
+    "close": 419.9,
+    "volume": 309226876,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 423.5,
+    "high": 431.3,
+    "low": 420.25,
+    "close": 429,
+    "volume": 245522868,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 430,
+    "high": 435.5,
+    "low": 414.5,
+    "close": 421.5,
+    "volume": 433249563,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 413,
+    "high": 421.4,
+    "low": 406.5,
+    "close": 416.4,
+    "volume": 217301802,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 421.95,
+    "high": 432.4,
+    "low": 400.5,
+    "close": 416,
+    "volume": 1081224700,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 410,
+    "high": 421.75,
+    "low": 403,
+    "close": 406.5,
+    "volume": 394713847,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 409.5,
+    "high": 415.2,
+    "low": 405.4,
+    "close": 413.2,
+    "volume": 296259547,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 414.95,
+    "high": 441.9,
+    "low": 405.8,
+    "close": 432.4,
+    "volume": 682797192,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 437,
+    "high": 483,
+    "low": 435.55,
+    "close": 472.9,
+    "volume": 2951049762,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 467.8,
+    "high": 511,
+    "low": 464.15,
+    "close": 506.9,
+    "volume": 1216270278,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 505,
+    "high": 524.45,
+    "low": 498.8,
+    "close": 512.05,
+    "volume": 1173704455,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 512.05,
+    "high": 516.35,
+    "low": 496.55,
+    "close": 514.05,
+    "volume": 502537011,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 515.1,
+    "high": 520.8,
+    "low": 495,
+    "close": 496.25,
+    "volume": 236004865,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 497.4,
+    "high": 501.55,
+    "low": 475.9,
+    "close": 480,
+    "volume": 299082172,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 481.6,
+    "high": 494.9,
+    "low": 472.2,
+    "close": 487.5,
+    "volume": 585745714,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 487,
+    "high": 509.6,
+    "low": 481.3,
+    "close": 508,
+    "volume": 390190075,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 512,
+    "high": 528.7,
+    "low": 501.2,
+    "close": 524.5,
+    "volume": 350423079,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 523.7,
+    "high": 533,
+    "low": 518.9,
+    "close": 528,
+    "volume": 280840315,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 534,
+    "high": 579,
+    "low": 534,
+    "close": 559,
+    "volume": 2524934092,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 560.5,
+    "high": 574.9,
+    "low": 560,
+    "close": 565.5,
+    "volume": 493476227,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 564.1,
+    "high": 566.85,
+    "low": 554.05,
+    "close": 562.4,
+    "volume": 453460651,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 555,
+    "high": 555,
+    "low": 523.8,
+    "close": 532.5,
+    "volume": 331130687,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 528,
+    "high": 531.6,
+    "low": 500,
+    "close": 504,
+    "volume": 324382746,
+    "symbol": "ELECON"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 491.7,
+    "high": 512.85,
+    "low": 491.7,
+    "close": 505,
+    "volume": 194643594,
+    "symbol": "ELECON"
+  }
+]

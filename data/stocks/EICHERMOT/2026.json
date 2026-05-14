@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 7317,
+    "high": 7363,
+    "low": 7271.5,
+    "close": 7349,
+    "volume": 1138151816,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 7348,
+    "high": 7382.5,
+    "low": 7298,
+    "close": 7344,
+    "volume": 1670026398,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 7344,
+    "high": 7514.5,
+    "low": 7328,
+    "close": 7494,
+    "volume": 3186457168,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 7514,
+    "high": 7569,
+    "low": 7484.5,
+    "close": 7524,
+    "volume": 2984589813,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 7523,
+    "high": 7597,
+    "low": 7490,
+    "close": 7597,
+    "volume": 2877456276,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 7590,
+    "high": 7601,
+    "low": 7539,
+    "close": 7552.5,
+    "volume": 3478074745,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 7582,
+    "high": 7613.5,
+    "low": 7486,
+    "close": 7510,
+    "volume": 3588303743,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 7477,
+    "high": 7507,
+    "low": 7322,
+    "close": 7443,
+    "volume": 2336076915,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 7488,
+    "high": 7514.5,
+    "low": 7348,
+    "close": 7383,
+    "volume": 1948388651,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 7390,
+    "high": 7390,
+    "low": 7236,
+    "close": 7370,
+    "volume": 3116080702,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 7330,
+    "high": 7417,
+    "low": 7298.5,
+    "close": 7300,
+    "volume": 3238805708,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 7300,
+    "high": 7373,
+    "low": 7268.5,
+    "close": 7313.5,
+    "volume": 1549147893,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 7336,
+    "high": 7375,
+    "low": 7130,
+    "close": 7170,
+    "volume": 2193867226,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 7100.5,
+    "high": 7219,
+    "low": 7005,
+    "close": 7125,
+    "volume": 3413151627,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 7175,
+    "high": 7325,
+    "low": 7026,
+    "close": 7046,
+    "volume": 2613299093,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 7088.5,
+    "high": 7095,
+    "low": 6950,
+    "close": 6970,
+    "volume": 2565907770,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 7020,
+    "high": 7175,
+    "low": 6910.5,
+    "close": 7147.5,
+    "volume": 3524852182,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 7124,
+    "high": 7124,
+    "low": 6851,
+    "close": 7095,
+    "volume": 5965313299,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 7071.5,
+    "high": 7108.5,
+    "low": 6978,
+    "close": 7071.5,
+    "volume": 4460596464,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 6980,
+    "high": 7151,
+    "low": 6980,
+    "close": 7129.5,
+    "volume": 3222857417,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 7122.5,
+    "high": 7218.5,
+    "low": 6814,
+    "close": 6850,
+    "volume": 2075390557,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 6805,
+    "high": 6997,
+    "low": 6738,
+    "close": 6982,
+    "volume": 3386613896,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 7200,
+    "high": 7258.5,
+    "low": 7053,
+    "close": 7205,
+    "volume": 4955929996,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 7215,
+    "high": 7328,
+    "low": 7170.5,
+    "close": 7271,
+    "volume": 1895267860,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 7290,
+    "high": 7309.5,
+    "low": 7176.5,
+    "close": 7193,
+    "volume": 1834011893,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 7209.5,
+    "high": 7209.5,
+    "low": 7110.5,
+    "close": 7155,
+    "volume": 1802971852,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 7116,
+    "high": 7219.5,
+    "low": 7063.5,
+    "close": 7209,
+    "volume": 2253298994,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 7280,
+    "high": 7325,
+    "low": 7201,
+    "close": 7290.5,
+    "volume": 3403980609,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 7505,
+    "high": 7805,
+    "low": 7501,
+    "close": 7766.5,
+    "volume": 17708456158,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 7779.5,
+    "high": 7968,
+    "low": 7760,
+    "close": 7936.5,
+    "volume": 8744001226,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 7900,
+    "high": 8119,
+    "low": 7886.5,
+    "close": 8067,
+    "volume": 7780578975,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 8078.5,
+    "high": 8084.5,
+    "low": 7968.5,
+    "close": 8000.5,
+    "volume": 4733969885,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 7981,
+    "high": 8051.5,
+    "low": 7925,
+    "close": 8022,
+    "volume": 2131220424,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 8024,
+    "high": 8043.5,
+    "low": 7945,
+    "close": 8020,
+    "volume": 1784248984,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 8036,
+    "high": 8140,
+    "low": 7884,
+    "close": 7890,
+    "volume": 3402471582,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 7894.5,
+    "high": 7978,
+    "low": 7885.5,
+    "close": 7920,
+    "volume": 2097693360,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 7990,
+    "high": 8057.5,
+    "low": 7937.5,
+    "close": 8044,
+    "volume": 1983936904,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 7990,
+    "high": 8059.5,
+    "low": 7902,
+    "close": 7915,
+    "volume": 3425465315,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 7930,
+    "high": 8082,
+    "low": 7772,
+    "close": 8040,
+    "volume": 4939443322,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 8040,
+    "high": 8225,
+    "low": 8024.5,
+    "close": 8224,
+    "volume": 3466855159,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 8220,
+    "high": 8230,
+    "low": 7987,
+    "close": 8014,
+    "volume": 6252280101,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 7800,
+    "high": 7996.5,
+    "low": 7715.5,
+    "close": 7809,
+    "volume": 3873518685,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 7700,
+    "high": 7705,
+    "low": 7571.5,
+    "close": 7640,
+    "volume": 4530072967,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 7705,
+    "high": 7801.5,
+    "low": 7615,
+    "close": 7742,
+    "volume": 4375580649,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 7733,
+    "high": 7735,
+    "low": 7603,
+    "close": 7625.5,
+    "volume": 2796874956,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 7517,
+    "high": 7517,
+    "low": 7237,
+    "close": 7275,
+    "volume": 4056384674,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 7380,
+    "high": 7566.5,
+    "low": 7338.5,
+    "close": 7545,
+    "volume": 3694128081,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 7574,
+    "high": 7574,
+    "low": 7227,
+    "close": 7261,
+    "volume": 4579073976,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 7175,
+    "high": 7227.5,
+    "low": 6961,
+    "close": 6969.5,
+    "volume": 8852196194,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 6865,
+    "high": 6942.5,
+    "low": 6670,
+    "close": 6765,
+    "volume": 5549477803,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 6701,
+    "high": 6861.5,
+    "low": 6643.5,
+    "close": 6822.5,
+    "volume": 5856141400,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 6827.5,
+    "high": 6974.5,
+    "low": 6770,
+    "close": 6935,
+    "volume": 3836151811,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 6984,
+    "high": 7068,
+    "low": 6971,
+    "close": 7016,
+    "volume": 3912847401,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 6929,
+    "high": 6943.5,
+    "low": 6750,
+    "close": 6825,
+    "volume": 4296232004,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 6802.5,
+    "high": 6928,
+    "low": 6802.5,
+    "close": 6925,
+    "volume": 3964036519,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 6790,
+    "high": 6831.5,
+    "low": 6661,
+    "close": 6683.5,
+    "volume": 2557440379,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 6800,
+    "high": 6966.5,
+    "low": 6753,
+    "close": 6867.5,
+    "volume": 4976998690,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 6988,
+    "high": 7073,
+    "low": 6904,
+    "close": 6995,
+    "volume": 3442024442,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 6915,
+    "high": 6916.5,
+    "low": 6742,
+    "close": 6799,
+    "volume": 3638374399,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 6730.5,
+    "high": 6784,
+    "low": 6571.5,
+    "close": 6602,
+    "volume": 6728762142,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 6787.5,
+    "high": 6891.5,
+    "low": 6750,
+    "close": 6820,
+    "volume": 5033121826,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 6766,
+    "high": 6766,
+    "low": 6585,
+    "close": 6660,
+    "volume": 4386360356,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 6699,
+    "high": 6710.5,
+    "low": 6572.5,
+    "close": 6592,
+    "volume": 6420716037,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 6550,
+    "high": 6660.5,
+    "low": 6442,
+    "close": 6648,
+    "volume": 7523124043,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 6899.5,
+    "high": 7170,
+    "low": 6851.5,
+    "close": 7170,
+    "volume": 6465777646,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 7147,
+    "high": 7180.5,
+    "low": 7037,
+    "close": 7119.5,
+    "volume": 4617205199,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 7201,
+    "high": 7435.5,
+    "low": 7201,
+    "close": 7415.5,
+    "volume": 5190168846,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 7150,
+    "high": 7270.5,
+    "low": 7037,
+    "close": 7050,
+    "volume": 8857937067,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 7160,
+    "high": 7199.5,
+    "low": 7075,
+    "close": 7118,
+    "volume": 6498259620,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 7160,
+    "high": 7198.5,
+    "low": 7052,
+    "close": 7130.5,
+    "volume": 4069599035,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 7130.5,
+    "high": 7200,
+    "low": 7062,
+    "close": 7172,
+    "volume": 4174638053,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 7160.5,
+    "high": 7264,
+    "low": 7115,
+    "close": 7233.5,
+    "volume": 5019425595,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 7243,
+    "high": 7296,
+    "low": 7215,
+    "close": 7220,
+    "volume": 2565419351,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 7215,
+    "high": 7267,
+    "low": 7136.5,
+    "close": 7220,
+    "volume": 3586643407,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 7195.5,
+    "high": 7195.5,
+    "low": 7062,
+    "close": 7085,
+    "volume": 3425409436,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 7054.5,
+    "high": 7160,
+    "low": 7049,
+    "close": 7132,
+    "volume": 2942747176,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 7150,
+    "high": 7214,
+    "low": 7102,
+    "close": 7178,
+    "volume": 2404505121,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 7170,
+    "high": 7254,
+    "low": 7053,
+    "close": 7075,
+    "volume": 3993457963,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 7106,
+    "high": 7294,
+    "low": 7099,
+    "close": 7185,
+    "volume": 3778204757,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 7120,
+    "high": 7146,
+    "low": 6978,
+    "close": 7110,
+    "volume": 3804512052,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 7109,
+    "high": 7348.5,
+    "low": 7070,
+    "close": 7330,
+    "volume": 4962983903,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 7325,
+    "high": 7345,
+    "low": 7213.5,
+    "close": 7300,
+    "volume": 3512524683,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 7370,
+    "high": 7392,
+    "low": 7175.5,
+    "close": 7315,
+    "volume": 2939970846,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 7360.5,
+    "high": 7471.5,
+    "low": 7310.5,
+    "close": 7342,
+    "volume": 4485409080,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 7299.5,
+    "high": 7370,
+    "low": 7228,
+    "close": 7315,
+    "volume": 1898328303,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 7269,
+    "high": 7269,
+    "low": 7159,
+    "close": 7205,
+    "volume": 2313306064,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 7203.5,
+    "high": 7275.5,
+    "low": 7105,
+    "close": 7125,
+    "volume": 2623005446,
+    "symbol": "EICHERMOT"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 7125,
+    "high": 7157,
+    "low": 6863,
+    "close": 6972,
+    "volume": 4661069288,
+    "symbol": "EICHERMOT"
+  }
+]

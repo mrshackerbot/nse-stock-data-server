@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 243,
+    "high": 245,
+    "low": 241.22,
+    "close": 243,
+    "volume": 203368664,
+    "symbol": "RITES"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 243.29,
+    "high": 246.85,
+    "low": 241.05,
+    "close": 246.4,
+    "volume": 227949847,
+    "symbol": "RITES"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 246.4,
+    "high": 247.39,
+    "low": 242.3,
+    "close": 244.38,
+    "volume": 140635380,
+    "symbol": "RITES"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 244.38,
+    "high": 247,
+    "low": 241,
+    "close": 241.99,
+    "volume": 177746600,
+    "symbol": "RITES"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 241.5,
+    "high": 243.82,
+    "low": 240.7,
+    "close": 242.14,
+    "volume": 103561259,
+    "symbol": "RITES"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 242.14,
+    "high": 242.6,
+    "low": 235.6,
+    "close": 236.84,
+    "volume": 135645419,
+    "symbol": "RITES"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 236,
+    "high": 236.75,
+    "low": 231.33,
+    "close": 232.29,
+    "volume": 122447313,
+    "symbol": "RITES"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 231,
+    "high": 232.45,
+    "low": 226,
+    "close": 232.4,
+    "volume": 135286116,
+    "symbol": "RITES"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 232.5,
+    "high": 234.48,
+    "low": 223.56,
+    "close": 227.4,
+    "volume": 264620121,
+    "symbol": "RITES"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 227,
+    "high": 234.52,
+    "low": 227,
+    "close": 231.5,
+    "volume": 260668005,
+    "symbol": "RITES"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 235,
+    "high": 235.02,
+    "low": 227.25,
+    "close": 228.97,
+    "volume": 153789182,
+    "symbol": "RITES"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 228.5,
+    "high": 230.6,
+    "low": 226.53,
+    "close": 227.6,
+    "volume": 86108458,
+    "symbol": "RITES"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 227,
+    "high": 228.29,
+    "low": 220,
+    "close": 221.18,
+    "volume": 148694969,
+    "symbol": "RITES"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 220,
+    "high": 222.39,
+    "low": 216.05,
+    "close": 219,
+    "volume": 154811063,
+    "symbol": "RITES"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 220.45,
+    "high": 224.19,
+    "low": 219,
+    "close": 221.79,
+    "volume": 114940889,
+    "symbol": "RITES"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 222.94,
+    "high": 222.95,
+    "low": 217.4,
+    "close": 217.71,
+    "volume": 81421790,
+    "symbol": "RITES"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 217.75,
+    "high": 221.95,
+    "low": 213.79,
+    "close": 219.85,
+    "volume": 170496862,
+    "symbol": "RITES"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 220.5,
+    "high": 228.45,
+    "low": 220.06,
+    "close": 228,
+    "volume": 191445169,
+    "symbol": "RITES"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 228,
+    "high": 228.65,
+    "low": 222.64,
+    "close": 225.3,
+    "volume": 120722491,
+    "symbol": "RITES"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 223.2,
+    "high": 229.69,
+    "low": 221.61,
+    "close": 228.3,
+    "volume": 150629450,
+    "symbol": "RITES"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 230.83,
+    "high": 235.5,
+    "low": 217.1,
+    "close": 218.5,
+    "volume": 384579354,
+    "symbol": "RITES"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 219,
+    "high": 222.9,
+    "low": 214.5,
+    "close": 220.94,
+    "volume": 119634300,
+    "symbol": "RITES"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 225.39,
+    "high": 228.5,
+    "low": 221.95,
+    "close": 223.5,
+    "volume": 145632039,
+    "symbol": "RITES"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 223.8,
+    "high": 229.67,
+    "low": 221.98,
+    "close": 225.58,
+    "volume": 358543963,
+    "symbol": "RITES"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 226.5,
+    "high": 226.88,
+    "low": 222.05,
+    "close": 222.8,
+    "volume": 102954809,
+    "symbol": "RITES"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 223,
+    "high": 224.5,
+    "low": 219.84,
+    "close": 223.8,
+    "volume": 111418077,
+    "symbol": "RITES"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 226,
+    "high": 229.25,
+    "low": 224.69,
+    "close": 228.8,
+    "volume": 161057817,
+    "symbol": "RITES"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 227.5,
+    "high": 233,
+    "low": 227,
+    "close": 227.6,
+    "volume": 129618322,
+    "symbol": "RITES"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 230.5,
+    "high": 230.5,
+    "low": 222.41,
+    "close": 227,
+    "volume": 133700531,
+    "symbol": "RITES"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 225.55,
+    "high": 225.55,
+    "low": 221.59,
+    "close": 222.14,
+    "volume": 90668107,
+    "symbol": "RITES"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 221.01,
+    "high": 221.85,
+    "low": 217.94,
+    "close": 218.98,
+    "volume": 88427491,
+    "symbol": "RITES"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 218.98,
+    "high": 221.48,
+    "low": 216.5,
+    "close": 220.33,
+    "volume": 68159030,
+    "symbol": "RITES"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 220,
+    "high": 222.8,
+    "low": 219.3,
+    "close": 220.95,
+    "volume": 52102872,
+    "symbol": "RITES"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 221.49,
+    "high": 221.7,
+    "low": 218.5,
+    "close": 221.3,
+    "volume": 65907824,
+    "symbol": "RITES"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 222,
+    "high": 222.25,
+    "low": 218.2,
+    "close": 218.95,
+    "volume": 51635789,
+    "symbol": "RITES"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 218.87,
+    "high": 219.8,
+    "low": 216.55,
+    "close": 218.15,
+    "volume": 60893782,
+    "symbol": "RITES"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 218.99,
+    "high": 219.98,
+    "low": 217.13,
+    "close": 219.96,
+    "volume": 62944102,
+    "symbol": "RITES"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 218.5,
+    "high": 218.79,
+    "low": 215.1,
+    "close": 217.25,
+    "volume": 79963804,
+    "symbol": "RITES"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 217.5,
+    "high": 219.7,
+    "low": 215.82,
+    "close": 218.64,
+    "volume": 63156764,
+    "symbol": "RITES"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 218,
+    "high": 218.88,
+    "low": 215,
+    "close": 215.69,
+    "volume": 66891540,
+    "symbol": "RITES"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 215.88,
+    "high": 215.88,
+    "low": 213.25,
+    "close": 214.25,
+    "volume": 61682619,
+    "symbol": "RITES"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 206.01,
+    "high": 209,
+    "low": 202.41,
+    "close": 204.34,
+    "volume": 170553259,
+    "symbol": "RITES"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 200,
+    "high": 202.35,
+    "low": 195.94,
+    "close": 197,
+    "volume": 161211871,
+    "symbol": "RITES"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 200,
+    "high": 203.9,
+    "low": 199.41,
+    "close": 203,
+    "volume": 148289042,
+    "symbol": "RITES"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 201,
+    "high": 212.4,
+    "low": 200.87,
+    "close": 206.5,
+    "volume": 310169581,
+    "symbol": "RITES"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 205.75,
+    "high": 205.9,
+    "low": 197.34,
+    "close": 201.4,
+    "volume": 188826809,
+    "symbol": "RITES"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 203.79,
+    "high": 204.11,
+    "low": 200.5,
+    "close": 202.96,
+    "volume": 100243622,
+    "symbol": "RITES"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 203,
+    "high": 205,
+    "low": 199.01,
+    "close": 199.05,
+    "volume": 93653033,
+    "symbol": "RITES"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 198,
+    "high": 202.75,
+    "low": 194.65,
+    "close": 199.97,
+    "volume": 101766141,
+    "symbol": "RITES"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 198.2,
+    "high": 200.08,
+    "low": 196.31,
+    "close": 196.5,
+    "volume": 96486548,
+    "symbol": "RITES"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 195.78,
+    "high": 196.99,
+    "low": 188.35,
+    "close": 191.29,
+    "volume": 140888159,
+    "symbol": "RITES"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 193.9,
+    "high": 193.9,
+    "low": 190.05,
+    "close": 191.99,
+    "volume": 66380357,
+    "symbol": "RITES"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 192.07,
+    "high": 198.83,
+    "low": 191.81,
+    "close": 196.82,
+    "volume": 111298102,
+    "symbol": "RITES"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 193,
+    "high": 195,
+    "low": 190.21,
+    "close": 191.7,
+    "volume": 68715147,
+    "symbol": "RITES"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 192,
+    "high": 195.5,
+    "low": 191,
+    "close": 191,
+    "volume": 61970541,
+    "symbol": "RITES"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 191.01,
+    "high": 192,
+    "low": 182.25,
+    "close": 183.8,
+    "volume": 173710344,
+    "symbol": "RITES"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 188.8,
+    "high": 189.9,
+    "low": 183.5,
+    "close": 189,
+    "volume": 114987093,
+    "symbol": "RITES"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 189.7,
+    "high": 195.5,
+    "low": 189.5,
+    "close": 191,
+    "volume": 138085060,
+    "symbol": "RITES"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 190,
+    "high": 190.44,
+    "low": 183.5,
+    "close": 184.4,
+    "volume": 167553282,
+    "symbol": "RITES"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 183,
+    "high": 183.82,
+    "low": 175,
+    "close": 176.15,
+    "volume": 195795396,
+    "symbol": "RITES"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 183,
+    "high": 190.1,
+    "low": 180.05,
+    "close": 189.99,
+    "volume": 163882047,
+    "symbol": "RITES"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 185.9,
+    "high": 191.68,
+    "low": 182.4,
+    "close": 190.45,
+    "volume": 108587967,
+    "symbol": "RITES"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 189.81,
+    "high": 191.9,
+    "low": 185.25,
+    "close": 191.6,
+    "volume": 125934133,
+    "symbol": "RITES"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 189.99,
+    "high": 193.93,
+    "low": 189.14,
+    "close": 191.99,
+    "volume": 116151422,
+    "symbol": "RITES"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 198.1,
+    "high": 201.3,
+    "low": 196.11,
+    "close": 200.75,
+    "volume": 144970340,
+    "symbol": "RITES"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 204.19,
+    "high": 213.9,
+    "low": 202.33,
+    "close": 203.7,
+    "volume": 1215475710,
+    "symbol": "RITES"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 205.45,
+    "high": 208.45,
+    "low": 204.29,
+    "close": 206.75,
+    "volume": 176986533,
+    "symbol": "RITES"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 201.77,
+    "high": 207.27,
+    "low": 199,
+    "close": 205.48,
+    "volume": 119861185,
+    "symbol": "RITES"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 209,
+    "high": 214.18,
+    "low": 208.67,
+    "close": 212.5,
+    "volume": 263069838,
+    "symbol": "RITES"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 214.1,
+    "high": 217.99,
+    "low": 212.85,
+    "close": 216.5,
+    "volume": 201109756,
+    "symbol": "RITES"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 218,
+    "high": 226.35,
+    "low": 217.98,
+    "close": 222.2,
+    "volume": 404712213,
+    "symbol": "RITES"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 222.2,
+    "high": 222.5,
+    "low": 217,
+    "close": 218.48,
+    "volume": 114154729,
+    "symbol": "RITES"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 219.45,
+    "high": 224.5,
+    "low": 218.5,
+    "close": 220,
+    "volume": 167138435,
+    "symbol": "RITES"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 219,
+    "high": 224.32,
+    "low": 218.5,
+    "close": 223.8,
+    "volume": 131546166,
+    "symbol": "RITES"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 222.4,
+    "high": 225,
+    "low": 220.61,
+    "close": 221,
+    "volume": 91465325,
+    "symbol": "RITES"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 221.9,
+    "high": 222.49,
+    "low": 215.55,
+    "close": 216.4,
+    "volume": 95330230,
+    "symbol": "RITES"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 217.3,
+    "high": 223.34,
+    "low": 217.3,
+    "close": 222,
+    "volume": 101013702,
+    "symbol": "RITES"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 223.45,
+    "high": 224.95,
+    "low": 220.66,
+    "close": 222.76,
+    "volume": 92530753,
+    "symbol": "RITES"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 223.3,
+    "high": 223.59,
+    "low": 219,
+    "close": 219.7,
+    "volume": 65410128,
+    "symbol": "RITES"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 218.3,
+    "high": 219.98,
+    "low": 215.9,
+    "close": 218.3,
+    "volume": 51655273,
+    "symbol": "RITES"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 218.55,
+    "high": 221.79,
+    "low": 217.36,
+    "close": 221,
+    "volume": 80459797,
+    "symbol": "RITES"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 218.55,
+    "high": 229.5,
+    "low": 218.15,
+    "close": 226.5,
+    "volume": 469251104,
+    "symbol": "RITES"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 226.36,
+    "high": 228.8,
+    "low": 224.56,
+    "close": 226.5,
+    "volume": 180112642,
+    "symbol": "RITES"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 228,
+    "high": 230.83,
+    "low": 225.33,
+    "close": 229.6,
+    "volume": 228857317,
+    "symbol": "RITES"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 228.6,
+    "high": 230.85,
+    "low": 226.54,
+    "close": 226.8,
+    "volume": 110380483,
+    "symbol": "RITES"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 223.25,
+    "high": 224.49,
+    "low": 220.6,
+    "close": 223.4,
+    "volume": 106811546,
+    "symbol": "RITES"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 222.67,
+    "high": 222.85,
+    "low": 209.12,
+    "close": 211,
+    "volume": 130360282,
+    "symbol": "RITES"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 211,
+    "high": 215.79,
+    "low": 211,
+    "close": 213.75,
+    "volume": 77908754,
+    "symbol": "RITES"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2281.7,
+    "high": 2281.7,
+    "low": 2243.3,
+    "close": 2265,
+    "volume": 304547399,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2269.9,
+    "high": 2293.9,
+    "low": 2261.1,
+    "close": 2278,
+    "volume": 253166679,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2280,
+    "high": 2304.8,
+    "low": 2242.1,
+    "close": 2281.6,
+    "volume": 419902875,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2290.1,
+    "high": 2317.5,
+    "low": 2270.1,
+    "close": 2315,
+    "volume": 480412404,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2304.7,
+    "high": 2331,
+    "low": 2298.1,
+    "close": 2320,
+    "volume": 297350453,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2317.5,
+    "high": 2322.2,
+    "low": 2260,
+    "close": 2270,
+    "volume": 407480792,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2271.2,
+    "high": 2318.3,
+    "low": 2250,
+    "close": 2315.8,
+    "volume": 751991925,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2304.8,
+    "high": 2306.4,
+    "low": 2238.5,
+    "close": 2284,
+    "volume": 621929648,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2309,
+    "high": 2363,
+    "low": 2284.7,
+    "close": 2334.9,
+    "volume": 466469580,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2350,
+    "high": 2350,
+    "low": 2311,
+    "close": 2320,
+    "volume": 361905541,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2320.5,
+    "high": 2343.6,
+    "low": 2301.9,
+    "close": 2310,
+    "volume": 495467345,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2310,
+    "high": 2321.7,
+    "low": 2263.5,
+    "close": 2265,
+    "volume": 630837248,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2284.9,
+    "high": 2318,
+    "low": 2250.6,
+    "close": 2270,
+    "volume": 680430731,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2270,
+    "high": 2274.8,
+    "low": 2174.5,
+    "close": 2257.8,
+    "volume": 1157474470,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2270,
+    "high": 2295.2,
+    "low": 2254.5,
+    "close": 2284,
+    "volume": 881961201,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2284,
+    "high": 2290,
+    "low": 2232.5,
+    "close": 2243.8,
+    "volume": 796951320,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2259.9,
+    "high": 2282.5,
+    "low": 2227,
+    "close": 2260,
+    "volume": 393085646,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2260,
+    "high": 2269.3,
+    "low": 2220,
+    "close": 2261,
+    "volume": 360858200,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2256.7,
+    "high": 2298.5,
+    "low": 2221,
+    "close": 2265,
+    "volume": 799518724,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2228.1,
+    "high": 2328,
+    "low": 2186,
+    "close": 2245,
+    "volume": 983125359,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2282.6,
+    "high": 2285.8,
+    "low": 2202.2,
+    "close": 2232,
+    "volume": 93324775,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2218,
+    "high": 2239.5,
+    "low": 2178,
+    "close": 2235,
+    "volume": 352245105,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2245.1,
+    "high": 2300,
+    "low": 2207,
+    "close": 2280,
+    "volume": 448028837,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2280,
+    "high": 2295.4,
+    "low": 2222,
+    "close": 2268,
+    "volume": 492806467,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2287.8,
+    "high": 2295,
+    "low": 2241,
+    "close": 2252.8,
+    "volume": 272047206,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2254.6,
+    "high": 2279.8,
+    "low": 2238.5,
+    "close": 2252,
+    "volume": 465796722,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2281.6,
+    "high": 2307,
+    "low": 2250.5,
+    "close": 2287,
+    "volume": 659980038,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2281.4,
+    "high": 2288.9,
+    "low": 2251.4,
+    "close": 2275,
+    "volume": 521912118,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2279.7,
+    "high": 2289,
+    "low": 2249,
+    "close": 2271.9,
+    "volume": 475859636,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2271,
+    "high": 2276.6,
+    "low": 2231,
+    "close": 2268,
+    "volume": 802834335,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2255,
+    "high": 2300,
+    "low": 2241,
+    "close": 2288,
+    "volume": 736095434,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2298.2,
+    "high": 2299,
+    "low": 2251,
+    "close": 2296.8,
+    "volume": 506797901,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2287.4,
+    "high": 2382,
+    "low": 2280,
+    "close": 2358,
+    "volume": 674263658,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2369.9,
+    "high": 2399,
+    "low": 2313,
+    "close": 2341.4,
+    "volume": 524202997,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2352,
+    "high": 2352.5,
+    "low": 2302,
+    "close": 2319,
+    "volume": 330023753,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2311.1,
+    "high": 2342,
+    "low": 2264.1,
+    "close": 2274.9,
+    "volume": 322856521,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2293,
+    "high": 2298,
+    "low": 2246.4,
+    "close": 2290.7,
+    "volume": 333694943,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2280.1,
+    "high": 2295.8,
+    "low": 2260.2,
+    "close": 2275.5,
+    "volume": 237026580,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2288,
+    "high": 2324.9,
+    "low": 2266,
+    "close": 2310,
+    "volume": 474370923,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 2316,
+    "high": 2335,
+    "low": 2286.1,
+    "close": 2333,
+    "volume": 537426427,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 2329,
+    "high": 2329,
+    "low": 2210,
+    "close": 2219,
+    "volume": 1962221343,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2180,
+    "high": 2204,
+    "low": 2166,
+    "close": 2175.9,
+    "volume": 578412639,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2160.2,
+    "high": 2168.4,
+    "low": 2074.4,
+    "close": 2090.5,
+    "volume": 985763510,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2101.1,
+    "high": 2115.6,
+    "low": 2021.3,
+    "close": 2055,
+    "volume": 1195072447,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2099,
+    "high": 2099,
+    "low": 1995,
+    "close": 2043,
+    "volume": 947038580,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1989.5,
+    "high": 2006.8,
+    "low": 1948.5,
+    "close": 1999,
+    "volume": 440523526,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2005,
+    "high": 2115.9,
+    "low": 1981.4,
+    "close": 2083,
+    "volume": 2594432074,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2083,
+    "high": 2084.2,
+    "low": 2010,
+    "close": 2014.7,
+    "volume": 718428778,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 2009.9,
+    "high": 2026.7,
+    "low": 1959.1,
+    "close": 2015,
+    "volume": 549582792,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1990.2,
+    "high": 2037,
+    "low": 1970.5,
+    "close": 2000,
+    "volume": 637633356,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1999.9,
+    "high": 2019.9,
+    "low": 1947.7,
+    "close": 1966,
+    "volume": 479599104,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1958.8,
+    "high": 2090,
+    "low": 1955,
+    "close": 2035.5,
+    "volume": 676013680,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 2037,
+    "high": 2054.9,
+    "low": 2004.7,
+    "close": 2030,
+    "volume": 335026402,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 2019.1,
+    "high": 2019.1,
+    "low": 1965,
+    "close": 1967,
+    "volume": 399985148,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 2015,
+    "high": 2015,
+    "low": 1902.6,
+    "close": 1908.1,
+    "volume": 1411475218,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1901,
+    "high": 1904.5,
+    "low": 1818.1,
+    "close": 1843,
+    "volume": 640652362,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1888,
+    "high": 1948,
+    "low": 1846.1,
+    "close": 1940,
+    "volume": 478719413,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1940.1,
+    "high": 2027,
+    "low": 1937.2,
+    "close": 2010.9,
+    "volume": 465834180,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 2010.9,
+    "high": 2014,
+    "low": 1915.2,
+    "close": 1929.6,
+    "volume": 1355347095,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1902,
+    "high": 1929.9,
+    "low": 1869,
+    "close": 1917,
+    "volume": 973971368,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1935,
+    "high": 1968.8,
+    "low": 1898.3,
+    "close": 1912,
+    "volume": 1101457152,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1890,
+    "high": 1895,
+    "low": 1829.9,
+    "close": 1874.6,
+    "volume": 546615411,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1897,
+    "high": 1912.4,
+    "low": 1850,
+    "close": 1884,
+    "volume": 629313093,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1863,
+    "high": 2040,
+    "low": 1860,
+    "close": 2000.9,
+    "volume": 1704750661,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 2050.1,
+    "high": 2155,
+    "low": 2040.1,
+    "close": 2113,
+    "volume": 810523440,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 2115,
+    "high": 2162.4,
+    "low": 2092.3,
+    "close": 2145,
+    "volume": 836058385,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 2197,
+    "high": 2197.9,
+    "low": 2134.8,
+    "close": 2152,
+    "volume": 1266539961,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 2097.8,
+    "high": 2159.3,
+    "low": 2071.3,
+    "close": 2100,
+    "volume": 441432890,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 2111.9,
+    "high": 2131.4,
+    "low": 2085,
+    "close": 2088,
+    "volume": 1204031658,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 2107,
+    "high": 2115,
+    "low": 2063.6,
+    "close": 2072,
+    "volume": 664639017,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 2077.1,
+    "high": 2082.8,
+    "low": 2029.9,
+    "close": 2052,
+    "volume": 1025091813,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 2060,
+    "high": 2086,
+    "low": 2040,
+    "close": 2073,
+    "volume": 932382584,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 2088,
+    "high": 2089.9,
+    "low": 2044.9,
+    "close": 2050.7,
+    "volume": 1098270305,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 2055.6,
+    "high": 2064.5,
+    "low": 2015.1,
+    "close": 2042,
+    "volume": 802102720,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 2034.5,
+    "high": 2058,
+    "low": 2023,
+    "close": 2042.2,
+    "volume": 462015239,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 2039.8,
+    "high": 2054,
+    "low": 1983,
+    "close": 1995,
+    "volume": 673178740,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1986,
+    "high": 2043.9,
+    "low": 1982.4,
+    "close": 2030.1,
+    "volume": 559503853,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 2031.1,
+    "high": 2038.3,
+    "low": 1996.1,
+    "close": 2015,
+    "volume": 635163772,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 2027.5,
+    "high": 2027.5,
+    "low": 1990.1,
+    "close": 2003.9,
+    "volume": 552905804,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 2004,
+    "high": 2007.9,
+    "low": 1955.7,
+    "close": 1994.8,
+    "volume": 764192512,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1990.2,
+    "high": 2036.2,
+    "low": 1990.2,
+    "close": 1996.1,
+    "volume": 633315699,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 2002.3,
+    "high": 2018.4,
+    "low": 1961,
+    "close": 2012.9,
+    "volume": 731814702,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 2021.5,
+    "high": 2029,
+    "low": 1991.1,
+    "close": 2021,
+    "volume": 829170857,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 2035,
+    "high": 2035,
+    "low": 1931.5,
+    "close": 1968,
+    "volume": 1757091395,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1961.7,
+    "high": 1984.3,
+    "low": 1901.8,
+    "close": 1928.9,
+    "volume": 1075009271,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1924.9,
+    "high": 1925,
+    "low": 1858.4,
+    "close": 1868,
+    "volume": 868034905,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1880,
+    "high": 1909.5,
+    "low": 1839.3,
+    "close": 1871,
+    "volume": 929764547,
+    "symbol": "COROMANDEL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1872.7,
+    "high": 1880,
+    "low": 1814.9,
+    "close": 1865.6,
+    "volume": 874861338,
+    "symbol": "COROMANDEL"
+  }
+]

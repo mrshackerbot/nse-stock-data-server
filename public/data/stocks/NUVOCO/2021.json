@@ -1,0 +1,821 @@
+[
+  {
+    "date": "23-Aug-2021",
+    "open": 485,
+    "high": 550,
+    "low": 485,
+    "close": 529,
+    "volume": 11670972979,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 532,
+    "high": 564.95,
+    "low": 507.15,
+    "close": 522.1,
+    "volume": 3068742359,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 522.05,
+    "high": 535,
+    "low": 521.1,
+    "close": 533.5,
+    "volume": 684502711,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 532.9,
+    "high": 538.8,
+    "low": 522.4,
+    "close": 525,
+    "volume": 810671257,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 525,
+    "high": 538,
+    "low": 520.2,
+    "close": 532,
+    "volume": 517724743,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 542,
+    "high": 565,
+    "low": 529.2,
+    "close": 543.5,
+    "volume": 1035282537,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 550,
+    "high": 559.8,
+    "low": 539.6,
+    "close": 555,
+    "volume": 513958695,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 560,
+    "high": 571.9,
+    "low": 555.95,
+    "close": 561.4,
+    "volume": 883965269,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 563.5,
+    "high": 570,
+    "low": 555.95,
+    "close": 562.5,
+    "volume": 464757741,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 564.35,
+    "high": 567.25,
+    "low": 555,
+    "close": 560.7,
+    "volume": 269792455,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 562,
+    "high": 577.9,
+    "low": 560.2,
+    "close": 566.3,
+    "volume": 591506880,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 574,
+    "high": 577,
+    "low": 556.3,
+    "close": 559,
+    "volume": 578176365,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 563.5,
+    "high": 563.9,
+    "low": 552,
+    "close": 553,
+    "volume": 185236844,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 553,
+    "high": 553.1,
+    "low": 542.1,
+    "close": 548.65,
+    "volume": 270360431,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 545,
+    "high": 551.5,
+    "low": 542,
+    "close": 542.7,
+    "volume": 122506013,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 542.55,
+    "high": 555.5,
+    "low": 542.55,
+    "close": 555,
+    "volume": 265851425,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 555,
+    "high": 557.9,
+    "low": 550.05,
+    "close": 552,
+    "volume": 330054398,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 552,
+    "high": 569.4,
+    "low": 548.7,
+    "close": 555.5,
+    "volume": 878719612,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 558,
+    "high": 562.05,
+    "low": 537.5,
+    "close": 540,
+    "volume": 442987487,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 536,
+    "high": 543.95,
+    "low": 535.25,
+    "close": 539.7,
+    "volume": 237889454,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 540,
+    "high": 544.85,
+    "low": 532,
+    "close": 534.95,
+    "volume": 225589062,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 536.3,
+    "high": 552.5,
+    "low": 536.1,
+    "close": 545.8,
+    "volume": 454735764,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 554.75,
+    "high": 554.75,
+    "low": 549,
+    "close": 552,
+    "volume": 203345587,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 552.6,
+    "high": 562,
+    "low": 551.95,
+    "close": 552,
+    "volume": 223897668,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 560,
+    "high": 562.4,
+    "low": 550.9,
+    "close": 552,
+    "volume": 196860277,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 559.75,
+    "high": 559.75,
+    "low": 540.05,
+    "close": 550.05,
+    "volume": 247023005,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 545.05,
+    "high": 547.9,
+    "low": 542.3,
+    "close": 546.15,
+    "volume": 183189769,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 543.5,
+    "high": 546,
+    "low": 538.65,
+    "close": 545,
+    "volume": 104904877,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 543.5,
+    "high": 548,
+    "low": 540.5,
+    "close": 545.45,
+    "volume": 134550272,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 548.1,
+    "high": 552.5,
+    "low": 548,
+    "close": 550.1,
+    "volume": 84230285,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 550,
+    "high": 560,
+    "low": 547,
+    "close": 554.5,
+    "volume": 129553940,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 555,
+    "high": 559.8,
+    "low": 551,
+    "close": 555,
+    "volume": 268609759,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 560,
+    "high": 561,
+    "low": 542.35,
+    "close": 549,
+    "volume": 866267707,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 550,
+    "high": 554.4,
+    "low": 545.05,
+    "close": 549.9,
+    "volume": 67225387,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 544.1,
+    "high": 558,
+    "low": 541.5,
+    "close": 545,
+    "volume": 168245994,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 542.1,
+    "high": 548.35,
+    "low": 535.35,
+    "close": 536.55,
+    "volume": 95565558,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 539.7,
+    "high": 539.7,
+    "low": 526.95,
+    "close": 533,
+    "volume": 203061032,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 531.1,
+    "high": 549.6,
+    "low": 527.15,
+    "close": 527.95,
+    "volume": 234453408,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 534.7,
+    "high": 534.7,
+    "low": 525.3,
+    "close": 530.05,
+    "volume": 197061970,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 530,
+    "high": 531.7,
+    "low": 524.2,
+    "close": 525.8,
+    "volume": 135698770,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 525,
+    "high": 526.6,
+    "low": 504.2,
+    "close": 520,
+    "volume": 412417396,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 519.55,
+    "high": 525.2,
+    "low": 515.05,
+    "close": 519,
+    "volume": 83920915,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 522.45,
+    "high": 522.5,
+    "low": 506,
+    "close": 510,
+    "volume": 75397841,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 510,
+    "high": 514.85,
+    "low": 495.6,
+    "close": 497,
+    "volume": 80493274,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 496.05,
+    "high": 541.3,
+    "low": 496.05,
+    "close": 524.95,
+    "volume": 249431080,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 524.95,
+    "high": 526,
+    "low": 514.85,
+    "close": 517,
+    "volume": 96968247,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 511.25,
+    "high": 524.35,
+    "low": 511.25,
+    "close": 516.35,
+    "volume": 82043930,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 514.05,
+    "high": 534,
+    "low": 512,
+    "close": 520,
+    "volume": 136428873,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 517.4,
+    "high": 536.4,
+    "low": 517.4,
+    "close": 532.8,
+    "volume": 58136923,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 533.95,
+    "high": 555.4,
+    "low": 529.3,
+    "close": 547,
+    "volume": 285065848,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 548.9,
+    "high": 554,
+    "low": 540.6,
+    "close": 546.5,
+    "volume": 391539047,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 548,
+    "high": 550,
+    "low": 536.3,
+    "close": 537.5,
+    "volume": 32493443,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 540,
+    "high": 560,
+    "low": 538.8,
+    "close": 552,
+    "volume": 597006506,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 554.1,
+    "high": 556.35,
+    "low": 539,
+    "close": 542,
+    "volume": 182109151,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 541,
+    "high": 544.2,
+    "low": 530,
+    "close": 536,
+    "volume": 126815640,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 530.25,
+    "high": 531.05,
+    "low": 518.25,
+    "close": 520.8,
+    "volume": 146941704,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 525,
+    "high": 528.2,
+    "low": 511,
+    "close": 514,
+    "volume": 320786708,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 516,
+    "high": 519.1,
+    "low": 501.2,
+    "close": 512.5,
+    "volume": 613176670,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 511.25,
+    "high": 537.95,
+    "low": 511.25,
+    "close": 533.25,
+    "volume": 486878449,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 539.7,
+    "high": 539.8,
+    "low": 529.35,
+    "close": 532,
+    "volume": 211501052,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 535,
+    "high": 540.35,
+    "low": 508.2,
+    "close": 515,
+    "volume": 365851719,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 521,
+    "high": 529.9,
+    "low": 514,
+    "close": 515,
+    "volume": 225946775,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 522.75,
+    "high": 528,
+    "low": 511.35,
+    "close": 518.85,
+    "volume": 135043982,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 519.4,
+    "high": 532.5,
+    "low": 518.35,
+    "close": 527.5,
+    "volume": 327323716,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 534.4,
+    "high": 547,
+    "low": 531.3,
+    "close": 540,
+    "volume": 282072868,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 531,
+    "high": 535,
+    "low": 515.5,
+    "close": 517,
+    "volume": 79115519,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 517,
+    "high": 517.4,
+    "low": 500,
+    "close": 514,
+    "volume": 76683180,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 506.05,
+    "high": 556.05,
+    "low": 500.1,
+    "close": 550,
+    "volume": 1305711387,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 539.75,
+    "high": 549.8,
+    "low": 521.2,
+    "close": 523,
+    "volume": 88812204,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 521.1,
+    "high": 528.05,
+    "low": 521.1,
+    "close": 525.8,
+    "volume": 59852638,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 523,
+    "high": 528.45,
+    "low": 520.25,
+    "close": 521,
+    "volume": 106156535,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 520,
+    "high": 522.05,
+    "low": 516.65,
+    "close": 522,
+    "volume": 60708091,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 523,
+    "high": 531.45,
+    "low": 516,
+    "close": 519,
+    "volume": 64737359,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 525.55,
+    "high": 528.75,
+    "low": 518.75,
+    "close": 528.35,
+    "volume": 131486713,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 528,
+    "high": 541,
+    "low": 527,
+    "close": 538.1,
+    "volume": 189758426,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 535,
+    "high": 535,
+    "low": 529.05,
+    "close": 532,
+    "volume": 36372224,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 531.85,
+    "high": 533.95,
+    "low": 525,
+    "close": 527.7,
+    "volume": 36870794,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 523.1,
+    "high": 534,
+    "low": 523.1,
+    "close": 533,
+    "volume": 93743039,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 535,
+    "high": 537.9,
+    "low": 524,
+    "close": 528,
+    "volume": 98917497,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 529,
+    "high": 538.8,
+    "low": 521,
+    "close": 523,
+    "volume": 53909361,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 532,
+    "high": 532,
+    "low": 516,
+    "close": 519.95,
+    "volume": 48982938,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 515,
+    "high": 518.85,
+    "low": 500.35,
+    "close": 502,
+    "volume": 97411102,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 503,
+    "high": 511.7,
+    "low": 501.5,
+    "close": 507,
+    "volume": 29909211,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 506,
+    "high": 513.85,
+    "low": 502,
+    "close": 503,
+    "volume": 27730484,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 506,
+    "high": 509.7,
+    "low": 502.5,
+    "close": 503.25,
+    "volume": 25180408,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 505.8,
+    "high": 505.8,
+    "low": 496,
+    "close": 497,
+    "volume": 67186197,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 500,
+    "high": 503.65,
+    "low": 490.5,
+    "close": 491.85,
+    "volume": 63570625,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 497,
+    "high": 497,
+    "low": 485.25,
+    "close": 486.25,
+    "volume": 143203860,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 488.5,
+    "high": 502.1,
+    "low": 486,
+    "close": 495,
+    "volume": 103164071,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 496.05,
+    "high": 501.95,
+    "low": 495,
+    "close": 498.8,
+    "volume": 38057021,
+    "symbol": "NUVOCO"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 495,
+    "high": 511,
+    "low": 495,
+    "close": 499,
+    "volume": 72415352,
+    "symbol": "NUVOCO"
+  }
+]

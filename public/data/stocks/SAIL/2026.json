@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 147.1,
+    "high": 149.47,
+    "low": 145.46,
+    "close": 147.91,
+    "volume": 3376573711,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 148.6,
+    "high": 148.9,
+    "low": 146.9,
+    "close": 147.4,
+    "volume": 1875171761,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 147.4,
+    "high": 151.25,
+    "low": 146.36,
+    "close": 151.09,
+    "volume": 3785590801,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 152.1,
+    "high": 152.8,
+    "low": 146,
+    "close": 146.39,
+    "volume": 4130028221,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 146.39,
+    "high": 150.85,
+    "low": 146.31,
+    "close": 150.62,
+    "volume": 2490569384,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 151,
+    "high": 151.43,
+    "low": 143.25,
+    "close": 146.5,
+    "volume": 3199889318,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 146,
+    "high": 147.4,
+    "low": 143.71,
+    "close": 145,
+    "volume": 2143977881,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 145.67,
+    "high": 149.7,
+    "low": 143.64,
+    "close": 149.6,
+    "volume": 3137851961,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 149.25,
+    "high": 150.36,
+    "low": 146.51,
+    "close": 147.62,
+    "volume": 1691557415,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 147.76,
+    "high": 152.65,
+    "low": 147.21,
+    "close": 152.05,
+    "volume": 4022177905,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 152.45,
+    "high": 153.12,
+    "low": 148.55,
+    "close": 149.25,
+    "volume": 2548445255,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 149,
+    "high": 150.21,
+    "low": 147.68,
+    "close": 149,
+    "volume": 1399948283,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 150.19,
+    "high": 152.22,
+    "low": 144.72,
+    "close": 145.65,
+    "volume": 3342277391,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 145,
+    "high": 147.9,
+    "low": 143.9,
+    "close": 146.35,
+    "volume": 3052339862,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 148.05,
+    "high": 153.9,
+    "low": 148.05,
+    "close": 151.89,
+    "volume": 6934758874,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 152.45,
+    "high": 156.5,
+    "low": 148.5,
+    "close": 148.7,
+    "volume": 5488115905,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 150.5,
+    "high": 157,
+    "low": 149,
+    "close": 156.65,
+    "volume": 6119261059,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 157,
+    "high": 157.45,
+    "low": 152.9,
+    "close": 155.46,
+    "volume": 4896765397,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 156,
+    "high": 160,
+    "low": 155.8,
+    "close": 157.6,
+    "volume": 4983100969,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 154.5,
+    "high": 154.5,
+    "low": 147.75,
+    "close": 150.98,
+    "volume": 4975870297,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 148,
+    "high": 154.66,
+    "low": 141.86,
+    "close": 147.5,
+    "volume": 4740525549,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 148.1,
+    "high": 149.9,
+    "low": 141.3,
+    "close": 149.49,
+    "volume": 5602820336,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 154.5,
+    "high": 156.05,
+    "low": 149.04,
+    "close": 153.84,
+    "volume": 4908651099,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 154.95,
+    "high": 158.2,
+    "low": 154.11,
+    "close": 156.92,
+    "volume": 3224413330,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 155.9,
+    "high": 160,
+    "low": 152.29,
+    "close": 159.75,
+    "volume": 3535555073,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 158,
+    "high": 161.3,
+    "low": 156.49,
+    "close": 159.19,
+    "volume": 4710803152,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 161.05,
+    "high": 161.9,
+    "low": 157.17,
+    "close": 158.55,
+    "volume": 3514935695,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 158.49,
+    "high": 161.48,
+    "low": 156.22,
+    "close": 160.7,
+    "volume": 4588571973,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 161,
+    "high": 162.9,
+    "low": 160.37,
+    "close": 161.85,
+    "volume": 2547825588,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 162.12,
+    "high": 163,
+    "low": 159.33,
+    "close": 159.82,
+    "volume": 1777066082,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 157.8,
+    "high": 161.3,
+    "low": 155,
+    "close": 159,
+    "volume": 3155947971,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 158,
+    "high": 160.14,
+    "low": 157.25,
+    "close": 158.8,
+    "volume": 1336251063,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 158.8,
+    "high": 158.84,
+    "low": 153.84,
+    "close": 157.05,
+    "volume": 2446433616,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 157.51,
+    "high": 160.89,
+    "low": 157.31,
+    "close": 159.5,
+    "volume": 2241383634,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 160.5,
+    "high": 161.74,
+    "low": 154.87,
+    "close": 155.8,
+    "volume": 2179767115,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 155.9,
+    "high": 160.1,
+    "low": 155.32,
+    "close": 158.2,
+    "volume": 2275835878,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 159.4,
+    "high": 159.7,
+    "low": 155.25,
+    "close": 156.69,
+    "volume": 2452571448,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 156.7,
+    "high": 160.68,
+    "low": 152.05,
+    "close": 160.07,
+    "volume": 7436163617,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 161.55,
+    "high": 167.2,
+    "low": 160.85,
+    "close": 164.75,
+    "volume": 10698460855,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 165,
+    "high": 165.9,
+    "low": 162.86,
+    "close": 165.3,
+    "volume": 3373826306,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 164.75,
+    "high": 167.99,
+    "low": 164,
+    "close": 165.24,
+    "volume": 4658864053,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 158.99,
+    "high": 168.21,
+    "low": 158.8,
+    "close": 165.61,
+    "volume": 3616036514,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 161.42,
+    "high": 161.42,
+    "low": 152.4,
+    "close": 154.4,
+    "volume": 5662449047,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 156.1,
+    "high": 160.2,
+    "low": 154.31,
+    "close": 155.01,
+    "volume": 3241529465,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 155.4,
+    "high": 157.6,
+    "low": 153.51,
+    "close": 154,
+    "volume": 1904753369,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 150.99,
+    "high": 151.19,
+    "low": 144.8,
+    "close": 148.55,
+    "volume": 2520293387,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 152.05,
+    "high": 153.45,
+    "low": 148.37,
+    "close": 150.15,
+    "volume": 1764687241,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 150.82,
+    "high": 155.34,
+    "low": 150.82,
+    "close": 153.93,
+    "volume": 2023204319,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 153.01,
+    "high": 154.2,
+    "low": 149.6,
+    "close": 153.5,
+    "volume": 1494541845,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 152.26,
+    "high": 154.25,
+    "low": 144.25,
+    "close": 149.2,
+    "volume": 3590753541,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 148.97,
+    "high": 150.13,
+    "low": 143.27,
+    "close": 144,
+    "volume": 2342078335,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 145.19,
+    "high": 153.99,
+    "low": 144.5,
+    "close": 153,
+    "volume": 4076110116,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 152.8,
+    "high": 156.09,
+    "low": 151.65,
+    "close": 153.45,
+    "volume": 3111696974,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 152,
+    "high": 155.41,
+    "low": 151,
+    "close": 152.07,
+    "volume": 2276086078,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 153.11,
+    "high": 158.54,
+    "low": 153.11,
+    "close": 155.01,
+    "volume": 4036735210,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 153.04,
+    "high": 154,
+    "low": 142.26,
+    "close": 143.3,
+    "volume": 3140883150,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 146.46,
+    "high": 147.5,
+    "low": 143.3,
+    "close": 145.9,
+    "volume": 2543700967,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 147.99,
+    "high": 152.34,
+    "low": 145.95,
+    "close": 151.1,
+    "volume": 3446429064,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 150.1,
+    "high": 152.07,
+    "low": 145.9,
+    "close": 146.7,
+    "volume": 4013256913,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 146.2,
+    "high": 156.6,
+    "low": 145.01,
+    "close": 150.98,
+    "volume": 10818497904,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 155.6,
+    "high": 158,
+    "low": 153.1,
+    "close": 155.39,
+    "volume": 5968574774,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 154,
+    "high": 156.19,
+    "low": 150.28,
+    "close": 154.4,
+    "volume": 4354526437,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 153.9,
+    "high": 161.28,
+    "low": 151.32,
+    "close": 160.36,
+    "volume": 4382682643,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 159.42,
+    "high": 161.69,
+    "low": 158.22,
+    "close": 161.12,
+    "volume": 3353866949,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 164.95,
+    "high": 169,
+    "low": 162.41,
+    "close": 164.31,
+    "volume": 5768527172,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 164.41,
+    "high": 168.71,
+    "low": 162.21,
+    "close": 163.35,
+    "volume": 3617585947,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 165,
+    "high": 166.8,
+    "low": 162.66,
+    "close": 166.01,
+    "volume": 2484196394,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 162.78,
+    "high": 171.5,
+    "low": 160.75,
+    "close": 167.75,
+    "volume": 4881237432,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 170,
+    "high": 171.1,
+    "low": 165.88,
+    "close": 166.58,
+    "volume": 4328943155,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 167.67,
+    "high": 172.07,
+    "low": 166.61,
+    "close": 171.39,
+    "volume": 5248140417,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 172,
+    "high": 174.99,
+    "low": 170.41,
+    "close": 172.82,
+    "volume": 4247916638,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 173.4,
+    "high": 174.05,
+    "low": 170.3,
+    "close": 172.99,
+    "volume": 3070222036,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 174.4,
+    "high": 177.68,
+    "low": 174,
+    "close": 174.9,
+    "volume": 4765669651,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 175.3,
+    "high": 178.46,
+    "low": 174.76,
+    "close": 176.1,
+    "volume": 3610125504,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 174.71,
+    "high": 178.09,
+    "low": 173.8,
+    "close": 175.9,
+    "volume": 3302510102,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 176.5,
+    "high": 179.07,
+    "low": 176,
+    "close": 177.99,
+    "volume": 3248113551,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 179.96,
+    "high": 185.32,
+    "low": 179.5,
+    "close": 184.33,
+    "volume": 8477696960,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 184.2,
+    "high": 189.1,
+    "low": 183.91,
+    "close": 186,
+    "volume": 4928713872,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 187,
+    "high": 187.3,
+    "low": 181.54,
+    "close": 185.37,
+    "volume": 4728000750,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 184.98,
+    "high": 185.4,
+    "low": 179.7,
+    "close": 184.95,
+    "volume": 5580980272,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 185.25,
+    "high": 187.82,
+    "low": 184.28,
+    "close": 186.85,
+    "volume": 3637564453,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 185.8,
+    "high": 188.83,
+    "low": 185.02,
+    "close": 187.7,
+    "volume": 2916396499,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 189,
+    "high": 190.5,
+    "low": 184.71,
+    "close": 186.25,
+    "volume": 2438222207,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 186.25,
+    "high": 190.25,
+    "low": 185.9,
+    "close": 187.34,
+    "volume": 3065794296,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 187,
+    "high": 187.7,
+    "low": 184.15,
+    "close": 184.8,
+    "volume": 1710297775,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 182.89,
+    "high": 184.87,
+    "low": 179.91,
+    "close": 180,
+    "volume": 6031929481,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 179.9,
+    "high": 180.9,
+    "low": 175.16,
+    "close": 175.35,
+    "volume": 3044748363,
+    "symbol": "SAIL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 176.31,
+    "high": 202.35,
+    "low": 176.31,
+    "close": 201.35,
+    "volume": 33894243209,
+    "symbol": "SAIL"
+  }
+]

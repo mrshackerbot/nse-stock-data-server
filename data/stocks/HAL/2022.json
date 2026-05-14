@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 1214,
+    "high": 1245.65,
+    "low": 1212.05,
+    "close": 1232,
+    "volume": 681591825,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 1236.7,
+    "high": 1266.9,
+    "low": 1233.25,
+    "close": 1252.25,
+    "volume": 1317967889,
+    "symbol": "HAL"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 1254.9,
+    "high": 1278.85,
+    "low": 1240.1,
+    "close": 1275.05,
+    "volume": 955014418,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 1271,
+    "high": 1276,
+    "low": 1244.9,
+    "close": 1247.55,
+    "volume": 962997205,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 1248.55,
+    "high": 1273,
+    "low": 1248.55,
+    "close": 1254.9,
+    "volume": 594385795,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 1256.65,
+    "high": 1300,
+    "low": 1256.65,
+    "close": 1294.05,
+    "volume": 1832027386,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 1295.6,
+    "high": 1305.75,
+    "low": 1271,
+    "close": 1280,
+    "volume": 1873725021,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 1287,
+    "high": 1319.3,
+    "low": 1285.15,
+    "close": 1310.25,
+    "volume": 1108746531,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 1314.95,
+    "high": 1328,
+    "low": 1300.8,
+    "close": 1319.25,
+    "volume": 513308822,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 1319.85,
+    "high": 1372,
+    "low": 1311.95,
+    "close": 1368,
+    "volume": 1185064863,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 1373.95,
+    "high": 1417.45,
+    "low": 1358.7,
+    "close": 1396,
+    "volume": 1535186249,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 1399.95,
+    "high": 1430,
+    "low": 1381.6,
+    "close": 1392.75,
+    "volume": 1403064555,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 1390,
+    "high": 1442,
+    "low": 1371.25,
+    "close": 1431.15,
+    "volume": 1291638185,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 1438.4,
+    "high": 1446.5,
+    "low": 1413.05,
+    "close": 1430,
+    "volume": 872757405,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 1425.25,
+    "high": 1456.85,
+    "low": 1391,
+    "close": 1418,
+    "volume": 1220666883,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 1429.9,
+    "high": 1443.95,
+    "low": 1345,
+    "close": 1354.8,
+    "volume": 1541024797,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 1341.05,
+    "high": 1438,
+    "low": 1331.85,
+    "close": 1425,
+    "volume": 1329689571,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 1419.5,
+    "high": 1429.25,
+    "low": 1398.45,
+    "close": 1426.2,
+    "volume": 1099864912,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 1431.9,
+    "high": 1471,
+    "low": 1405.4,
+    "close": 1420.95,
+    "volume": 1390017263,
+    "symbol": "HAL"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 1448,
+    "high": 1470.5,
+    "low": 1427.65,
+    "close": 1445,
+    "volume": 1234784936,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 1457.65,
+    "high": 1474.8,
+    "low": 1417.5,
+    "close": 1435,
+    "volume": 1112182955,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 1449,
+    "high": 1457.75,
+    "low": 1411,
+    "close": 1424.7,
+    "volume": 891520729,
+    "symbol": "HAL"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 1425.9,
+    "high": 1454,
+    "low": 1407,
+    "close": 1413,
+    "volume": 1057226009,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 1416.6,
+    "high": 1433.55,
+    "low": 1394.6,
+    "close": 1399,
+    "volume": 413308089,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 1400.2,
+    "high": 1418.85,
+    "low": 1382,
+    "close": 1384,
+    "volume": 438654979,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 1390,
+    "high": 1404,
+    "low": 1365.2,
+    "close": 1374,
+    "volume": 692452950,
+    "symbol": "HAL"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 1385,
+    "high": 1423,
+    "low": 1383.1,
+    "close": 1421,
+    "volume": 823105548,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 1419,
+    "high": 1438,
+    "low": 1383,
+    "close": 1396.55,
+    "volume": 1406502794,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 1370,
+    "high": 1399,
+    "low": 1370,
+    "close": 1376,
+    "volume": 385955501,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 1355,
+    "high": 1364.9,
+    "low": 1326.1,
+    "close": 1334,
+    "volume": 467398189,
+    "symbol": "HAL"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 1350,
+    "high": 1372.95,
+    "low": 1316,
+    "close": 1368.75,
+    "volume": 436025524,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 1374.95,
+    "high": 1392,
+    "low": 1354.9,
+    "close": 1363.6,
+    "volume": 692997026,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 1342,
+    "high": 1375.7,
+    "low": 1340,
+    "close": 1360.35,
+    "volume": 761237874,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 1375,
+    "high": 1375,
+    "low": 1340.5,
+    "close": 1347,
+    "volume": 836682359,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 1330,
+    "high": 1338,
+    "low": 1294.55,
+    "close": 1295,
+    "volume": 792063425,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 1265,
+    "high": 1289.95,
+    "low": 1257,
+    "close": 1280.6,
+    "volume": 774856503,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 1281,
+    "high": 1324,
+    "low": 1281,
+    "close": 1308,
+    "volume": 765081181,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 1290,
+    "high": 1299.3,
+    "low": 1240,
+    "close": 1280,
+    "volume": 882771052,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 1285.8,
+    "high": 1332.2,
+    "low": 1285.8,
+    "close": 1313,
+    "volume": 716665316,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 1314,
+    "high": 1393.15,
+    "low": 1285.15,
+    "close": 1383,
+    "volume": 1004259636,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 1386.9,
+    "high": 1429.95,
+    "low": 1361.85,
+    "close": 1396,
+    "volume": 1295552129,
+    "symbol": "HAL"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 1399,
+    "high": 1424.5,
+    "low": 1370.95,
+    "close": 1382.95,
+    "volume": 833252790,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 1376,
+    "high": 1418.55,
+    "low": 1361.05,
+    "close": 1373.5,
+    "volume": 1004807125,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 1354.8,
+    "high": 1364.15,
+    "low": 1304.55,
+    "close": 1330,
+    "volume": 783122889,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 1341.8,
+    "high": 1350,
+    "low": 1307.05,
+    "close": 1324.1,
+    "volume": 771737698,
+    "symbol": "HAL"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 1339,
+    "high": 1357.95,
+    "low": 1330,
+    "close": 1336.6,
+    "volume": 640425682,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 1337.55,
+    "high": 1389,
+    "low": 1337.55,
+    "close": 1369.9,
+    "volume": 838555382,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 1370,
+    "high": 1406,
+    "low": 1367.05,
+    "close": 1381.95,
+    "volume": 819836204,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 1400,
+    "high": 1404.9,
+    "low": 1377.1,
+    "close": 1380.5,
+    "volume": 657428209,
+    "symbol": "HAL"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 1392.9,
+    "high": 1402,
+    "low": 1358.75,
+    "close": 1375,
+    "volume": 548403161,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 1395,
+    "high": 1481.05,
+    "low": 1381.1,
+    "close": 1463,
+    "volume": 3474531954,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 1486,
+    "high": 1494,
+    "low": 1435,
+    "close": 1450,
+    "volume": 1791192438,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 1458,
+    "high": 1470,
+    "low": 1438.85,
+    "close": 1445,
+    "volume": 853928325,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 1447,
+    "high": 1447,
+    "low": 1398.05,
+    "close": 1421,
+    "volume": 807460170,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 1439.9,
+    "high": 1454.05,
+    "low": 1403.3,
+    "close": 1406,
+    "volume": 754096474,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 1406,
+    "high": 1440.95,
+    "low": 1382,
+    "close": 1401,
+    "volume": 1661493224,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 1407.85,
+    "high": 1419.75,
+    "low": 1387,
+    "close": 1391.45,
+    "volume": 656262708,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 1398,
+    "high": 1408.8,
+    "low": 1381,
+    "close": 1403,
+    "volume": 669373135,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 1405,
+    "high": 1418.45,
+    "low": 1396,
+    "close": 1398,
+    "volume": 704496949,
+    "symbol": "HAL"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 1409.4,
+    "high": 1415.05,
+    "low": 1387.95,
+    "close": 1406,
+    "volume": 688476424,
+    "symbol": "HAL"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 1434.9,
+    "high": 1496.3,
+    "low": 1410,
+    "close": 1492,
+    "volume": 2775969307,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 1492,
+    "high": 1539.85,
+    "low": 1480.45,
+    "close": 1521.3,
+    "volume": 3298880352,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 1533,
+    "high": 1592.9,
+    "low": 1527.05,
+    "close": 1561.5,
+    "volume": 1994891898,
+    "symbol": "HAL"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 1568.75,
+    "high": 1587,
+    "low": 1545,
+    "close": 1545,
+    "volume": 1373063559,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 1545,
+    "high": 1574.5,
+    "low": 1527.8,
+    "close": 1552.75,
+    "volume": 1328608847,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 1554.8,
+    "high": 1624.8,
+    "low": 1554.8,
+    "close": 1581,
+    "volume": 3578105734,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 1590,
+    "high": 1632,
+    "low": 1585.55,
+    "close": 1620,
+    "volume": 3230486842,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 1638.65,
+    "high": 1693,
+    "low": 1630,
+    "close": 1680.75,
+    "volume": 4239024607,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 1683.95,
+    "high": 1683.95,
+    "low": 1639.1,
+    "close": 1665,
+    "volume": 2449106032,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 1678.4,
+    "high": 1721.4,
+    "low": 1668.9,
+    "close": 1681.9,
+    "volume": 1700705393,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 1669.9,
+    "high": 1754.15,
+    "low": 1660,
+    "close": 1739,
+    "volume": 3482710628,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 1748,
+    "high": 1758,
+    "low": 1668.8,
+    "close": 1675,
+    "volume": 1801651517,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 1699.95,
+    "high": 1720,
+    "low": 1657.25,
+    "close": 1676,
+    "volume": 959800734,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 1680,
+    "high": 1708.8,
+    "low": 1669.15,
+    "close": 1675.25,
+    "volume": 906648001,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 1668,
+    "high": 1735.85,
+    "low": 1662.15,
+    "close": 1681.95,
+    "volume": 1659054331,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 1665,
+    "high": 1674.9,
+    "low": 1597.6,
+    "close": 1633.5,
+    "volume": 1375591037,
+    "symbol": "HAL"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 1636.85,
+    "high": 1678.8,
+    "low": 1628.3,
+    "close": 1646,
+    "volume": 1087107756,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 1641.9,
+    "high": 1661.2,
+    "low": 1632.05,
+    "close": 1637,
+    "volume": 858880457,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 1649.25,
+    "high": 1658.85,
+    "low": 1619.15,
+    "close": 1628,
+    "volume": 1244951708,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 1640.8,
+    "high": 1649,
+    "low": 1586,
+    "close": 1594,
+    "volume": 1030118816,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 1578,
+    "high": 1607.1,
+    "low": 1568.65,
+    "close": 1575,
+    "volume": 920390728,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 1586,
+    "high": 1614,
+    "low": 1569.3,
+    "close": 1584,
+    "volume": 1338458363,
+    "symbol": "HAL"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 1595.1,
+    "high": 1623.85,
+    "low": 1582.75,
+    "close": 1594.85,
+    "volume": 804937519,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 1579,
+    "high": 1593.6,
+    "low": 1560.1,
+    "close": 1582,
+    "volume": 971610638,
+    "symbol": "HAL"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 1555,
+    "high": 1585,
+    "low": 1540,
+    "close": 1561.8,
+    "volume": 782790935,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 1571.5,
+    "high": 1589.95,
+    "low": 1543.05,
+    "close": 1547.9,
+    "volume": 712735428,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 1552,
+    "high": 1571.65,
+    "low": 1518.15,
+    "close": 1555.25,
+    "volume": 988432317,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 1549.95,
+    "high": 1584.55,
+    "low": 1500,
+    "close": 1519.65,
+    "volume": 1079280166,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 1523,
+    "high": 1569.9,
+    "low": 1468,
+    "close": 1499.95,
+    "volume": 2065432187,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 1531,
+    "high": 1610,
+    "low": 1521.85,
+    "close": 1608.85,
+    "volume": 1677469341,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 1616,
+    "high": 1678.85,
+    "low": 1612.05,
+    "close": 1676,
+    "volume": 1695458240,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 1687.85,
+    "high": 1699,
+    "low": 1666.1,
+    "close": 1683,
+    "volume": 1428526306,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 1643,
+    "high": 1697,
+    "low": 1625,
+    "close": 1692.05,
+    "volume": 1072746304,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 1725,
+    "high": 1787,
+    "low": 1719.5,
+    "close": 1750.1,
+    "volume": 3349205882,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 1773,
+    "high": 1850,
+    "low": 1760,
+    "close": 1808,
+    "volume": 4512132264,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 1819.75,
+    "high": 1833,
+    "low": 1764.85,
+    "close": 1777,
+    "volume": 1425786127,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 1784.65,
+    "high": 1824,
+    "low": 1739.05,
+    "close": 1751.55,
+    "volume": 1609140908,
+    "symbol": "HAL"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 1760,
+    "high": 1775,
+    "low": 1705.8,
+    "close": 1774.8,
+    "volume": 1336757181,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 1790,
+    "high": 1832.95,
+    "low": 1771,
+    "close": 1797.05,
+    "volume": 1662807970,
+    "symbol": "HAL"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 1818,
+    "high": 1846.25,
+    "low": 1802.2,
+    "close": 1816,
+    "volume": 1267913068,
+    "symbol": "HAL"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 1822,
+    "high": 1872,
+    "low": 1810.55,
+    "close": 1825.55,
+    "volume": 1734033018,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 1848,
+    "high": 1928.7,
+    "low": 1840,
+    "close": 1899,
+    "volume": 3893184877,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 1900,
+    "high": 1924.65,
+    "low": 1885,
+    "close": 1900,
+    "volume": 1871718833,
+    "symbol": "HAL"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 1908,
+    "high": 1919.9,
+    "low": 1869.1,
+    "close": 1899,
+    "volume": 1189647736,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 1900,
+    "high": 1914.75,
+    "low": 1873.95,
+    "close": 1888,
+    "volume": 1359332688,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 1911.8,
+    "high": 1941.55,
+    "low": 1890.5,
+    "close": 1895.5,
+    "volume": 3281819879,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 1905,
+    "high": 1910,
+    "low": 1822,
+    "close": 1843.9,
+    "volume": 1762094170,
+    "symbol": "HAL"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 1843,
+    "high": 1880,
+    "low": 1820.45,
+    "close": 1875.45,
+    "volume": 1309481984,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 1849,
+    "high": 1898.65,
+    "low": 1842.6,
+    "close": 1888,
+    "volume": 1179383138,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 1859.95,
+    "high": 1877.25,
+    "low": 1840.2,
+    "close": 1851.3,
+    "volume": 1350043950,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 1849.95,
+    "high": 1891.7,
+    "low": 1846,
+    "close": 1880.2,
+    "volume": 1288916911,
+    "symbol": "HAL"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 1899.5,
+    "high": 1899.5,
+    "low": 1853.05,
+    "close": 1858,
+    "volume": 775184502,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 1887.95,
+    "high": 1889.95,
+    "low": 1781,
+    "close": 1795.5,
+    "volume": 1434218197,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 1775,
+    "high": 1972.55,
+    "low": 1764.55,
+    "close": 1930,
+    "volume": 7749803897,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 1900,
+    "high": 1941,
+    "low": 1700,
+    "close": 1723.9,
+    "volume": 4652472056,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 1759,
+    "high": 1811.95,
+    "low": 1732,
+    "close": 1805,
+    "volume": 1853898094,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 1783.9,
+    "high": 1817.95,
+    "low": 1758.8,
+    "close": 1784,
+    "volume": 1327435894,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 1802.95,
+    "high": 1827.3,
+    "low": 1750.3,
+    "close": 1774.5,
+    "volume": 2770470323,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 1790,
+    "high": 1810,
+    "low": 1777,
+    "close": 1792.8,
+    "volume": 666382699,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 1820.95,
+    "high": 1824.75,
+    "low": 1797,
+    "close": 1809,
+    "volume": 659747894,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 1807.5,
+    "high": 1817.2,
+    "low": 1793.1,
+    "close": 1797.8,
+    "volume": 686081943,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 1779.1,
+    "high": 1801.8,
+    "low": 1776,
+    "close": 1781.5,
+    "volume": 983381527,
+    "symbol": "HAL"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 1788.9,
+    "high": 1799,
+    "low": 1756,
+    "close": 1768,
+    "volume": 589303768,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 1763,
+    "high": 1779.7,
+    "low": 1727.4,
+    "close": 1737.7,
+    "volume": 750266431,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 1744,
+    "high": 1805,
+    "low": 1740,
+    "close": 1784.95,
+    "volume": 1437216234,
+    "symbol": "HAL"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 1785,
+    "high": 1805,
+    "low": 1750,
+    "close": 1759.95,
+    "volume": 800117490,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 1765,
+    "high": 1779.1,
+    "low": 1733.9,
+    "close": 1746.9,
+    "volume": 1353564787,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 1755,
+    "high": 1794.9,
+    "low": 1724.55,
+    "close": 1729,
+    "volume": 1360493026,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 1754.5,
+    "high": 1772.1,
+    "low": 1729.05,
+    "close": 1740,
+    "volume": 1414841753,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 1744,
+    "high": 1768.55,
+    "low": 1739.6,
+    "close": 1745,
+    "volume": 1256109022,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 1745,
+    "high": 1763.05,
+    "low": 1730,
+    "close": 1740.95,
+    "volume": 956277794,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 1746.5,
+    "high": 1755.3,
+    "low": 1720.1,
+    "close": 1724.95,
+    "volume": 1335795923,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 1724.75,
+    "high": 1757,
+    "low": 1724.1,
+    "close": 1730,
+    "volume": 1085053648,
+    "symbol": "HAL"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 1738.7,
+    "high": 1747.4,
+    "low": 1721,
+    "close": 1725,
+    "volume": 964934179,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 1748.4,
+    "high": 1782,
+    "low": 1735.55,
+    "close": 1779,
+    "volume": 1707408786,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 1778,
+    "high": 1829.45,
+    "low": 1775,
+    "close": 1827.2,
+    "volume": 2672524255,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 1840.55,
+    "high": 1856.8,
+    "low": 1816.2,
+    "close": 1828,
+    "volume": 1803018379,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 1836.9,
+    "high": 1859.8,
+    "low": 1822,
+    "close": 1845,
+    "volume": 1384479904,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 1856,
+    "high": 1899.95,
+    "low": 1856,
+    "close": 1871,
+    "volume": 2794055736,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 1869.9,
+    "high": 1908.75,
+    "low": 1868.05,
+    "close": 1902,
+    "volume": 2236220123,
+    "symbol": "HAL"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 1903.45,
+    "high": 1922.5,
+    "low": 1872.9,
+    "close": 1881.9,
+    "volume": 1863828461,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 1885,
+    "high": 1941.8,
+    "low": 1885,
+    "close": 1939,
+    "volume": 1881584586,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 1957.9,
+    "high": 2035,
+    "low": 1942.5,
+    "close": 2029,
+    "volume": 3892642825,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 2040,
+    "high": 2066.6,
+    "low": 2012.1,
+    "close": 2030,
+    "volume": 2026974101,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 2030,
+    "high": 2059.4,
+    "low": 2017.45,
+    "close": 2030.6,
+    "volume": 1805954506,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 2029,
+    "high": 2074.95,
+    "low": 2025,
+    "close": 2045.4,
+    "volume": 1827399034,
+    "symbol": "HAL"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 2052.35,
+    "high": 2066.3,
+    "low": 2003,
+    "close": 2025.45,
+    "volume": 1180700539,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 2035.05,
+    "high": 2038.7,
+    "low": 1981.55,
+    "close": 2003,
+    "volume": 1693071250,
+    "symbol": "HAL"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 2010,
+    "high": 2014,
+    "low": 1975.75,
+    "close": 2007,
+    "volume": 1398966467,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 2007,
+    "high": 2174,
+    "low": 2002,
+    "close": 2154,
+    "volume": 7636697889,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 2160,
+    "high": 2204.25,
+    "low": 2135.5,
+    "close": 2174.3,
+    "volume": 3752604067,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 2181.1,
+    "high": 2298,
+    "low": 2174.3,
+    "close": 2264,
+    "volume": 6238808713,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 2264.8,
+    "high": 2293.65,
+    "low": 2218,
+    "close": 2281.75,
+    "volume": 3862876613,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 2286.7,
+    "high": 2309.8,
+    "low": 2231.7,
+    "close": 2294.2,
+    "volume": 2937092719,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 2308.05,
+    "high": 2329.6,
+    "low": 2281.5,
+    "close": 2289.65,
+    "volume": 2032812077,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 2295,
+    "high": 2349.95,
+    "low": 2286.1,
+    "close": 2317,
+    "volume": 3099889207,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 2319.65,
+    "high": 2326.6,
+    "low": 2226.05,
+    "close": 2241,
+    "volume": 2587153984,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 2239.9,
+    "high": 2268.7,
+    "low": 2202,
+    "close": 2225,
+    "volume": 2396867192,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 2218.5,
+    "high": 2254,
+    "low": 2206.45,
+    "close": 2252.6,
+    "volume": 1472807410,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 2240,
+    "high": 2255.9,
+    "low": 2201.85,
+    "close": 2220,
+    "volume": 1806623133,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 2228.8,
+    "high": 2249.95,
+    "low": 2215.6,
+    "close": 2217.55,
+    "volume": 1539847015,
+    "symbol": "HAL"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 2230,
+    "high": 2288.95,
+    "low": 2222.15,
+    "close": 2274,
+    "volume": 3909627919,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 2230,
+    "high": 2314.45,
+    "low": 2215,
+    "close": 2292.65,
+    "volume": 2787595012,
+    "symbol": "HAL"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 2309.35,
+    "high": 2314,
+    "low": 2276.05,
+    "close": 2292,
+    "volume": 1400756866,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 2271,
+    "high": 2328.4,
+    "low": 2271,
+    "close": 2306,
+    "volume": 2783343404,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 2325,
+    "high": 2425,
+    "low": 2320.1,
+    "close": 2367.5,
+    "volume": 6513583832,
+    "symbol": "HAL"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 2381.65,
+    "high": 2412.15,
+    "low": 2353.05,
+    "close": 2375.95,
+    "volume": 2549735717,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 2389.4,
+    "high": 2429.5,
+    "low": 2385,
+    "close": 2399,
+    "volume": 2567144519,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 2400,
+    "high": 2450,
+    "low": 2399,
+    "close": 2418,
+    "volume": 3294654806,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 2426,
+    "high": 2437.9,
+    "low": 2408,
+    "close": 2424,
+    "volume": 1495216162,
+    "symbol": "HAL"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 2434,
+    "high": 2468,
+    "low": 2425,
+    "close": 2432,
+    "volume": 2893882185,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 2450,
+    "high": 2638.35,
+    "low": 2447.4,
+    "close": 2617,
+    "volume": 9522588624,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 2633.3,
+    "high": 2638,
+    "low": 2583.5,
+    "close": 2594.15,
+    "volume": 3603147495,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 2570,
+    "high": 2626.95,
+    "low": 2537.3,
+    "close": 2569.75,
+    "volume": 3547706500,
+    "symbol": "HAL"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 2581.85,
+    "high": 2584.2,
+    "low": 2514.2,
+    "close": 2545,
+    "volume": 2524230983,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 2540,
+    "high": 2553.9,
+    "low": 2418.7,
+    "close": 2479.95,
+    "volume": 3645201065,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 2490,
+    "high": 2529.95,
+    "low": 2436.15,
+    "close": 2482,
+    "volume": 2820180719,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 2493.55,
+    "high": 2524.35,
+    "low": 2455,
+    "close": 2464,
+    "volume": 2068426032,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 2466.55,
+    "high": 2481,
+    "low": 2409,
+    "close": 2466,
+    "volume": 3087383572,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 2460,
+    "high": 2530,
+    "low": 2441.25,
+    "close": 2491.5,
+    "volume": 3393472242,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 2495,
+    "high": 2503.2,
+    "low": 2407.05,
+    "close": 2435,
+    "volume": 1852562245,
+    "symbol": "HAL"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 2392.45,
+    "high": 2407.95,
+    "low": 2271.5,
+    "close": 2330,
+    "volume": 3392648693,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 2350,
+    "high": 2364.4,
+    "low": 2273,
+    "close": 2282,
+    "volume": 2186833663,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 2260,
+    "high": 2317,
+    "low": 2241.05,
+    "close": 2284.5,
+    "volume": 1536885843,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 2310,
+    "high": 2328.65,
+    "low": 2261.4,
+    "close": 2322,
+    "volume": 4103862210,
+    "symbol": "HAL"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 2314,
+    "high": 2357.5,
+    "low": 2290,
+    "close": 2355,
+    "volume": 1789787440,
+    "symbol": "HAL"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 2354.85,
+    "high": 2378.6,
+    "low": 2276,
+    "close": 2296,
+    "volume": 2280406319,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 2322.1,
+    "high": 2374.2,
+    "low": 2320,
+    "close": 2363.05,
+    "volume": 1941954985,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 2375.05,
+    "high": 2493.7,
+    "low": 2370.5,
+    "close": 2476,
+    "volume": 3931483937,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 2468.9,
+    "high": 2499,
+    "low": 2441.7,
+    "close": 2459.6,
+    "volume": 2190543891,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 2440,
+    "high": 2452.3,
+    "low": 2410,
+    "close": 2420,
+    "volume": 1632315832,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 2429,
+    "high": 2451,
+    "low": 2360,
+    "close": 2364.7,
+    "volume": 1459044601,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 2380,
+    "high": 2393.15,
+    "low": 2345,
+    "close": 2360,
+    "volume": 1769571686,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 2363,
+    "high": 2399,
+    "low": 2348.75,
+    "close": 2360,
+    "volume": 1772210220,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 2390,
+    "high": 2405.75,
+    "low": 2331,
+    "close": 2340.5,
+    "volume": 1075701972,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 2337,
+    "high": 2386.95,
+    "low": 2333.05,
+    "close": 2365,
+    "volume": 2006942261,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 2376.2,
+    "high": 2487.95,
+    "low": 2360,
+    "close": 2483,
+    "volume": 3781062779,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 2490.35,
+    "high": 2557,
+    "low": 2449.1,
+    "close": 2476.05,
+    "volume": 4602826100,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 2464.9,
+    "high": 2506,
+    "low": 2422.55,
+    "close": 2453,
+    "volume": 2656801864,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 2465,
+    "high": 2490,
+    "low": 2380,
+    "close": 2403.95,
+    "volume": 1885974254,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 2424.55,
+    "high": 2424.8,
+    "low": 2401,
+    "close": 2417.75,
+    "volume": 488680965,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 2417.75,
+    "high": 2516,
+    "low": 2407,
+    "close": 2505,
+    "volume": 3204483958,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 2514.8,
+    "high": 2529.8,
+    "low": 2487.35,
+    "close": 2518,
+    "volume": 1793087690,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 2520,
+    "high": 2529,
+    "low": 2481.6,
+    "close": 2522,
+    "volume": 1399787393,
+    "symbol": "HAL"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 2526,
+    "high": 2551.95,
+    "low": 2512.4,
+    "close": 2531.85,
+    "volume": 1315061952,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 2538,
+    "high": 2549.5,
+    "low": 2506.85,
+    "close": 2531,
+    "volume": 1064883273,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 2530,
+    "high": 2549,
+    "low": 2475,
+    "close": 2490,
+    "volume": 1585827204,
+    "symbol": "HAL"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 2460,
+    "high": 2567,
+    "low": 2460,
+    "close": 2543,
+    "volume": 2446789011,
+    "symbol": "HAL"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 2558.7,
+    "high": 2574,
+    "low": 2525.6,
+    "close": 2559,
+    "volume": 2381180975,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 2573.8,
+    "high": 2607.95,
+    "low": 2553,
+    "close": 2591.5,
+    "volume": 2735431308,
+    "symbol": "HAL"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 2604,
+    "high": 2604,
+    "low": 2490,
+    "close": 2500,
+    "volume": 2445751310,
+    "symbol": "HAL"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 2496,
+    "high": 2500,
+    "low": 2411.2,
+    "close": 2435.1,
+    "volume": 2011588635,
+    "symbol": "HAL"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 2464,
+    "high": 2534,
+    "low": 2437.2,
+    "close": 2484,
+    "volume": 3789014006,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 2490.95,
+    "high": 2512.75,
+    "low": 2422.25,
+    "close": 2485.95,
+    "volume": 2015530815,
+    "symbol": "HAL"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 2492,
+    "high": 2533.1,
+    "low": 2460.5,
+    "close": 2523.1,
+    "volume": 2144039758,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 2527.5,
+    "high": 2709.4,
+    "low": 2523.35,
+    "close": 2679,
+    "volume": 13142489826,
+    "symbol": "HAL"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 2696.4,
+    "high": 2722.65,
+    "low": 2651.1,
+    "close": 2676.05,
+    "volume": 5633934300,
+    "symbol": "HAL"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 2667.45,
+    "high": 2674.95,
+    "low": 2601.35,
+    "close": 2617.95,
+    "volume": 3131142021,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 2618.8,
+    "high": 2668.65,
+    "low": 2585.1,
+    "close": 2650,
+    "volume": 3068086081,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 2660,
+    "high": 2737,
+    "low": 2655,
+    "close": 2722.6,
+    "volume": 7436008531,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 2739.95,
+    "high": 2745.45,
+    "low": 2706.1,
+    "close": 2713.7,
+    "volume": 2939749004,
+    "symbol": "HAL"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 2726,
+    "high": 2762.35,
+    "low": 2709,
+    "close": 2724,
+    "volume": 2760671247,
+    "symbol": "HAL"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 2732,
+    "high": 2774.95,
+    "low": 2723,
+    "close": 2729.8,
+    "volume": 2067628755,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 2740.7,
+    "high": 2772.2,
+    "low": 2733.2,
+    "close": 2763,
+    "volume": 2080806630,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 2766,
+    "high": 2773.4,
+    "low": 2739.05,
+    "close": 2752,
+    "volume": 1358492189,
+    "symbol": "HAL"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 2752.15,
+    "high": 2768.95,
+    "low": 2721.55,
+    "close": 2755,
+    "volume": 1322736986,
+    "symbol": "HAL"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 2760,
+    "high": 2767.45,
+    "low": 2732.3,
+    "close": 2752.4,
+    "volume": 1181089169,
+    "symbol": "HAL"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 2752.4,
+    "high": 2807,
+    "low": 2745,
+    "close": 2772,
+    "volume": 2600240055,
+    "symbol": "HAL"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 2792.25,
+    "high": 2799,
+    "low": 2766.15,
+    "close": 2775,
+    "volume": 1890707460,
+    "symbol": "HAL"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 2760.05,
+    "high": 2811.8,
+    "low": 2753.15,
+    "close": 2761.75,
+    "volume": 2016354969,
+    "symbol": "HAL"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 2761.75,
+    "high": 2774.45,
+    "low": 2718.4,
+    "close": 2725.95,
+    "volume": 1382739611,
+    "symbol": "HAL"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 2730,
+    "high": 2760.95,
+    "low": 2712,
+    "close": 2755.15,
+    "volume": 1398268589,
+    "symbol": "HAL"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 2766.7,
+    "high": 2774.15,
+    "low": 2679.45,
+    "close": 2727.35,
+    "volume": 1811770690,
+    "symbol": "HAL"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 2725,
+    "high": 2744.95,
+    "low": 2707,
+    "close": 2709.25,
+    "volume": 1296263745,
+    "symbol": "HAL"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 2721,
+    "high": 2732.65,
+    "low": 2700.6,
+    "close": 2704,
+    "volume": 1101421520,
+    "symbol": "HAL"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 2713,
+    "high": 2724,
+    "low": 2680,
+    "close": 2682.5,
+    "volume": 1164113759,
+    "symbol": "HAL"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 2680,
+    "high": 2689.7,
+    "low": 2592.05,
+    "close": 2600.5,
+    "volume": 2193258307,
+    "symbol": "HAL"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 2600,
+    "high": 2615,
+    "low": 2544.2,
+    "close": 2583,
+    "volume": 1999601610,
+    "symbol": "HAL"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 2580.1,
+    "high": 2650,
+    "low": 2555.35,
+    "close": 2645.5,
+    "volume": 1727909687,
+    "symbol": "HAL"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 2646,
+    "high": 2668,
+    "low": 2606,
+    "close": 2654,
+    "volume": 1679681910,
+    "symbol": "HAL"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 2663.95,
+    "high": 2675.4,
+    "low": 2560.05,
+    "close": 2571.4,
+    "volume": 2499314779,
+    "symbol": "HAL"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 2588,
+    "high": 2601,
+    "low": 2493,
+    "close": 2521.8,
+    "volume": 2199930428,
+    "symbol": "HAL"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 2505,
+    "high": 2524.5,
+    "low": 2425.75,
+    "close": 2445.95,
+    "volume": 2143040709,
+    "symbol": "HAL"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 2425,
+    "high": 2544,
+    "low": 2415,
+    "close": 2528,
+    "volume": 2051600170,
+    "symbol": "HAL"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 2548.7,
+    "high": 2551,
+    "low": 2491.1,
+    "close": 2521.65,
+    "volume": 2915416154,
+    "symbol": "HAL"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 2522,
+    "high": 2561.95,
+    "low": 2498.4,
+    "close": 2523.8,
+    "volume": 1737625247,
+    "symbol": "HAL"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 2510,
+    "high": 2526.75,
+    "low": 2500,
+    "close": 2514,
+    "volume": 1887323665,
+    "symbol": "HAL"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 2519,
+    "high": 2552.2,
+    "low": 2516.3,
+    "close": 2535,
+    "volume": 1152702639,
+    "symbol": "HAL"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 3794.8,
+    "high": 3808,
+    "low": 3703,
+    "close": 3714.2,
+    "volume": 1925190460,
+    "symbol": "DMART"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 3735,
+    "high": 3753.5,
+    "low": 3700,
+    "close": 3721,
+    "volume": 1100526259,
+    "symbol": "DMART"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 3719.1,
+    "high": 3719.1,
+    "low": 3635.3,
+    "close": 3641,
+    "volume": 2075711723,
+    "symbol": "DMART"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 3641,
+    "high": 3680,
+    "low": 3605.1,
+    "close": 3669.9,
+    "volume": 2136083856,
+    "symbol": "DMART"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 3665,
+    "high": 3849.9,
+    "low": 3662,
+    "close": 3842.6,
+    "volume": 5009305888,
+    "symbol": "DMART"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 3843,
+    "high": 3872.4,
+    "low": 3781,
+    "close": 3792,
+    "volume": 1526988729,
+    "symbol": "DMART"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 3794,
+    "high": 3833.2,
+    "low": 3745.1,
+    "close": 3807,
+    "volume": 2278704881,
+    "symbol": "DMART"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 3852,
+    "high": 3918.6,
+    "low": 3760.5,
+    "close": 3830,
+    "volume": 7905581160,
+    "symbol": "DMART"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 3851.5,
+    "high": 3889,
+    "low": 3782.7,
+    "close": 3832.2,
+    "volume": 2649341227,
+    "symbol": "DMART"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 3822,
+    "high": 3889.8,
+    "low": 3811.8,
+    "close": 3831.4,
+    "volume": 1909595885,
+    "symbol": "DMART"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 3820,
+    "high": 3832,
+    "low": 3741,
+    "close": 3775.3,
+    "volume": 3084420718,
+    "symbol": "DMART"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 3775.7,
+    "high": 3846,
+    "low": 3733.3,
+    "close": 3760,
+    "volume": 1526060143,
+    "symbol": "DMART"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 3768,
+    "high": 3786.5,
+    "low": 3645.5,
+    "close": 3665.4,
+    "volume": 1926207814,
+    "symbol": "DMART"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 3661.6,
+    "high": 3694.6,
+    "low": 3617.6,
+    "close": 3651.9,
+    "volume": 1730677802,
+    "symbol": "DMART"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 3690,
+    "high": 3735,
+    "low": 3658,
+    "close": 3730,
+    "volume": 1510338155,
+    "symbol": "DMART"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 3724.1,
+    "high": 3738.9,
+    "low": 3646.8,
+    "close": 3665.6,
+    "volume": 686888003,
+    "symbol": "DMART"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 3651,
+    "high": 3686.1,
+    "low": 3633.8,
+    "close": 3685,
+    "volume": 1373262456,
+    "symbol": "DMART"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 3663,
+    "high": 3744.3,
+    "low": 3663,
+    "close": 3735,
+    "volume": 901084740,
+    "symbol": "DMART"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 3710.4,
+    "high": 3727.2,
+    "low": 3641,
+    "close": 3668.9,
+    "volume": 1646964813,
+    "symbol": "DMART"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 3645,
+    "high": 3740,
+    "low": 3638,
+    "close": 3697.4,
+    "volume": 2279759701,
+    "symbol": "DMART"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 3690,
+    "high": 3710,
+    "low": 3529,
+    "close": 3602.5,
+    "volume": 1057686155,
+    "symbol": "DMART"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 3639,
+    "high": 3683.3,
+    "low": 3600,
+    "close": 3665.5,
+    "volume": 774201787,
+    "symbol": "DMART"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 3750,
+    "high": 3802.4,
+    "low": 3709,
+    "close": 3778.8,
+    "volume": 1552647055,
+    "symbol": "DMART"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 3794,
+    "high": 3849,
+    "low": 3749,
+    "close": 3824,
+    "volume": 1031976693,
+    "symbol": "DMART"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 3849,
+    "high": 3949.5,
+    "low": 3825.1,
+    "close": 3930,
+    "volume": 3383109305,
+    "symbol": "DMART"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 3934.8,
+    "high": 3949,
+    "low": 3850,
+    "close": 3893,
+    "volume": 1071655388,
+    "symbol": "DMART"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 3893.1,
+    "high": 3939.6,
+    "low": 3890.2,
+    "close": 3924.8,
+    "volume": 881674861,
+    "symbol": "DMART"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 3940,
+    "high": 4019,
+    "low": 3920,
+    "close": 4005.4,
+    "volume": 1548610414,
+    "symbol": "DMART"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 4014,
+    "high": 4032.2,
+    "low": 3970.1,
+    "close": 4000,
+    "volume": 1298995552,
+    "symbol": "DMART"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 4000,
+    "high": 4000,
+    "low": 3947.6,
+    "close": 3957.6,
+    "volume": 781718598,
+    "symbol": "DMART"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 3944.3,
+    "high": 3949.5,
+    "low": 3887,
+    "close": 3890,
+    "volume": 856907560,
+    "symbol": "DMART"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 3850,
+    "high": 3900.8,
+    "low": 3842.3,
+    "close": 3878,
+    "volume": 929681635,
+    "symbol": "DMART"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 3869.9,
+    "high": 3940,
+    "low": 3869.9,
+    "close": 3899,
+    "volume": 689982397,
+    "symbol": "DMART"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 3903,
+    "high": 3924.7,
+    "low": 3883.5,
+    "close": 3910,
+    "volume": 666504919,
+    "symbol": "DMART"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 3915,
+    "high": 3944,
+    "low": 3821.2,
+    "close": 3839,
+    "volume": 1106053515,
+    "symbol": "DMART"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 3848.4,
+    "high": 3889.3,
+    "low": 3825,
+    "close": 3850,
+    "volume": 751658110,
+    "symbol": "DMART"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 3889,
+    "high": 3900,
+    "low": 3810.3,
+    "close": 3838,
+    "volume": 1687681855,
+    "symbol": "DMART"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 3840,
+    "high": 3862.3,
+    "low": 3798.6,
+    "close": 3840,
+    "volume": 1514991619,
+    "symbol": "DMART"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 3880,
+    "high": 3945.8,
+    "low": 3857.8,
+    "close": 3871.6,
+    "volume": 1268132677,
+    "symbol": "DMART"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 3900,
+    "high": 3900.6,
+    "low": 3820,
+    "close": 3865,
+    "volume": 1602119462,
+    "symbol": "DMART"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 3880.2,
+    "high": 3883,
+    "low": 3804,
+    "close": 3855,
+    "volume": 1843289417,
+    "symbol": "DMART"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 3700,
+    "high": 3833.1,
+    "low": 3700,
+    "close": 3800,
+    "volume": 1433383527,
+    "symbol": "DMART"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 3772.2,
+    "high": 3795,
+    "low": 3736,
+    "close": 3754.6,
+    "volume": 2273594797,
+    "symbol": "DMART"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 3763,
+    "high": 3853,
+    "low": 3726.6,
+    "close": 3850,
+    "volume": 1962828870,
+    "symbol": "DMART"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 3825,
+    "high": 3903.9,
+    "low": 3825,
+    "close": 3881.5,
+    "volume": 869824580,
+    "symbol": "DMART"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 3866.9,
+    "high": 3982,
+    "low": 3814.5,
+    "close": 3967.1,
+    "volume": 3647568555,
+    "symbol": "DMART"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 3993,
+    "high": 4000,
+    "low": 3916.9,
+    "close": 3960,
+    "volume": 1266596909,
+    "symbol": "DMART"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 3946.8,
+    "high": 3992,
+    "low": 3908.1,
+    "close": 3935,
+    "volume": 1505737756,
+    "symbol": "DMART"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 3928.2,
+    "high": 3975,
+    "low": 3856.2,
+    "close": 3945,
+    "volume": 1387799789,
+    "symbol": "DMART"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 3945,
+    "high": 4056,
+    "low": 3825,
+    "close": 3829.8,
+    "volume": 3608058439,
+    "symbol": "DMART"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 3824.3,
+    "high": 3834.8,
+    "low": 3736.1,
+    "close": 3815,
+    "volume": 1518311683,
+    "symbol": "DMART"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 3827.8,
+    "high": 3853,
+    "low": 3775,
+    "close": 3787,
+    "volume": 872758120,
+    "symbol": "DMART"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 3800,
+    "high": 3905.3,
+    "low": 3790.3,
+    "close": 3849,
+    "volume": 1316044095,
+    "symbol": "DMART"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 3801,
+    "high": 3872.6,
+    "low": 3771,
+    "close": 3829.9,
+    "volume": 1630947797,
+    "symbol": "DMART"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 3822.1,
+    "high": 3848,
+    "low": 3748.7,
+    "close": 3769,
+    "volume": 1464058900,
+    "symbol": "DMART"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 3750,
+    "high": 3752,
+    "low": 3630,
+    "close": 3643,
+    "volume": 1089641799,
+    "symbol": "DMART"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 3730,
+    "high": 3820.5,
+    "low": 3685.1,
+    "close": 3759.8,
+    "volume": 1564566837,
+    "symbol": "DMART"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 3780,
+    "high": 3939,
+    "low": 3761,
+    "close": 3920.1,
+    "volume": 5215117042,
+    "symbol": "DMART"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 3900,
+    "high": 3940,
+    "low": 3865.5,
+    "close": 3915,
+    "volume": 6057388178,
+    "symbol": "DMART"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 3897.6,
+    "high": 4015,
+    "low": 3877,
+    "close": 4000,
+    "volume": 6840985996,
+    "symbol": "DMART"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 4075,
+    "high": 4294.8,
+    "low": 4066.1,
+    "close": 4263.3,
+    "volume": 11486639137,
+    "symbol": "DMART"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 4228.4,
+    "high": 4393.7,
+    "low": 4190.3,
+    "close": 4333,
+    "volume": 6813454423,
+    "symbol": "DMART"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 4450,
+    "high": 4562.6,
+    "low": 4353.1,
+    "close": 4535,
+    "volume": 8533069582,
+    "symbol": "DMART"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 4485.7,
+    "high": 4558.8,
+    "low": 4453.1,
+    "close": 4464.8,
+    "volume": 2705255106,
+    "symbol": "DMART"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 4521.3,
+    "high": 4538.5,
+    "low": 4355,
+    "close": 4374.9,
+    "volume": 4818522420,
+    "symbol": "DMART"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 4351,
+    "high": 4430,
+    "low": 4322.3,
+    "close": 4405,
+    "volume": 2417727717,
+    "symbol": "DMART"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 4415.6,
+    "high": 4437.1,
+    "low": 4348.3,
+    "close": 4395.2,
+    "volume": 1939524457,
+    "symbol": "DMART"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 4300,
+    "high": 4477.2,
+    "low": 4284.2,
+    "close": 4450,
+    "volume": 3864293050,
+    "symbol": "DMART"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 4500,
+    "high": 4509.6,
+    "low": 4368,
+    "close": 4465.4,
+    "volume": 3773464648,
+    "symbol": "DMART"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 4496.1,
+    "high": 4506.9,
+    "low": 4386,
+    "close": 4436.5,
+    "volume": 1518096058,
+    "symbol": "DMART"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 4446,
+    "high": 4644,
+    "low": 4435.1,
+    "close": 4630,
+    "volume": 6266543386,
+    "symbol": "DMART"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 4629.9,
+    "high": 4634.3,
+    "low": 4550.6,
+    "close": 4600,
+    "volume": 2398968808,
+    "symbol": "DMART"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 4605.2,
+    "high": 4627.3,
+    "low": 4550,
+    "close": 4590,
+    "volume": 1887590823,
+    "symbol": "DMART"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 4589.2,
+    "high": 4628.9,
+    "low": 4532.1,
+    "close": 4571,
+    "volume": 1493373813,
+    "symbol": "DMART"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 4590,
+    "high": 4595,
+    "low": 4512.2,
+    "close": 4525.3,
+    "volume": 1165289541,
+    "symbol": "DMART"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 4559.5,
+    "high": 4559.5,
+    "low": 4416,
+    "close": 4435,
+    "volume": 957764217,
+    "symbol": "DMART"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 4489.8,
+    "high": 4529,
+    "low": 4460.3,
+    "close": 4500,
+    "volume": 2158749836,
+    "symbol": "DMART"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 4506.4,
+    "high": 4600.5,
+    "low": 4480,
+    "close": 4530,
+    "volume": 2037759399,
+    "symbol": "DMART"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 4558,
+    "high": 4639.9,
+    "low": 4558,
+    "close": 4599.9,
+    "volume": 1378029572,
+    "symbol": "DMART"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 4584,
+    "high": 4615,
+    "low": 4511,
+    "close": 4614,
+    "volume": 2411607631,
+    "symbol": "DMART"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 4585,
+    "high": 4585,
+    "low": 4351,
+    "close": 4365,
+    "volume": 5987341498,
+    "symbol": "DMART"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 4380,
+    "high": 4385.9,
+    "low": 4303,
+    "close": 4340,
+    "volume": 1383195497,
+    "symbol": "DMART"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 4363.4,
+    "high": 4444.5,
+    "low": 4342.1,
+    "close": 4416,
+    "volume": 1748229674,
+    "symbol": "DMART"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 4430,
+    "high": 4437.2,
+    "low": 4371,
+    "close": 4387.9,
+    "volume": 1408893231,
+    "symbol": "DMART"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 4410.2,
+    "high": 4448,
+    "low": 4382.4,
+    "close": 4396.1,
+    "volume": 1177711988,
+    "symbol": "DMART"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 4401.4,
+    "high": 4431.8,
+    "low": 4368.6,
+    "close": 4394,
+    "volume": 726434429,
+    "symbol": "DMART"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 4389,
+    "high": 4419.2,
+    "low": 4325,
+    "close": 4330,
+    "volume": 1072567852,
+    "symbol": "DMART"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 4331.7,
+    "high": 4388.9,
+    "low": 4325,
+    "close": 4330,
+    "volume": 980828138,
+    "symbol": "DMART"
+  }
+]

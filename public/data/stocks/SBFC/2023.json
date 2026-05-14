@@ -1,0 +1,839 @@
+[
+  {
+    "date": "16-Aug-2023",
+    "open": 82,
+    "high": 95.45,
+    "low": 82,
+    "close": 92.65,
+    "volume": 18184601398,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "17-Aug-2023",
+    "open": 92.3,
+    "high": 93.5,
+    "low": 86.65,
+    "close": 90.1,
+    "volume": 2964816785,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "18-Aug-2023",
+    "open": 89.05,
+    "high": 90.15,
+    "low": 87.2,
+    "close": 88.8,
+    "volume": 796228063,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "21-Aug-2023",
+    "open": 88.3,
+    "high": 88.8,
+    "low": 83.75,
+    "close": 86,
+    "volume": 705617152,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "22-Aug-2023",
+    "open": 86.05,
+    "high": 92.75,
+    "low": 86,
+    "close": 90.55,
+    "volume": 1222671746,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "23-Aug-2023",
+    "open": 91.25,
+    "high": 91.45,
+    "low": 87.45,
+    "close": 88.1,
+    "volume": 332881197,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "24-Aug-2023",
+    "open": 88.2,
+    "high": 89.4,
+    "low": 87.1,
+    "close": 87.3,
+    "volume": 210425977,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "25-Aug-2023",
+    "open": 87.8,
+    "high": 89.7,
+    "low": 87.5,
+    "close": 88.2,
+    "volume": 185112192,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "28-Aug-2023",
+    "open": 88.75,
+    "high": 89.3,
+    "low": 86.7,
+    "close": 86.8,
+    "volume": 129410737,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "29-Aug-2023",
+    "open": 87,
+    "high": 87.6,
+    "low": 85.75,
+    "close": 86.25,
+    "volume": 94936848,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "30-Aug-2023",
+    "open": 90.35,
+    "high": 92.9,
+    "low": 88.2,
+    "close": 89.25,
+    "volume": 636355438,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "31-Aug-2023",
+    "open": 89,
+    "high": 89.8,
+    "low": 87.6,
+    "close": 88.1,
+    "volume": 185369399,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "01-Sep-2023",
+    "open": 88,
+    "high": 88.25,
+    "low": 86,
+    "close": 86.55,
+    "volume": 133204154,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "04-Sep-2023",
+    "open": 87.05,
+    "high": 88,
+    "low": 86,
+    "close": 86.55,
+    "volume": 136483160,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "05-Sep-2023",
+    "open": 86.5,
+    "high": 87.5,
+    "low": 85,
+    "close": 87,
+    "volume": 274258788,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "06-Sep-2023",
+    "open": 86,
+    "high": 87.75,
+    "low": 86,
+    "close": 86.8,
+    "volume": 138969159,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "07-Sep-2023",
+    "open": 86.6,
+    "high": 91.35,
+    "low": 86.5,
+    "close": 89.2,
+    "volume": 441649996,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "08-Sep-2023",
+    "open": 89,
+    "high": 90.4,
+    "low": 88.6,
+    "close": 88.85,
+    "volume": 120247594,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "11-Sep-2023",
+    "open": 89,
+    "high": 89.35,
+    "low": 86.65,
+    "close": 86.9,
+    "volume": 162626219,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "12-Sep-2023",
+    "open": 87,
+    "high": 88.4,
+    "low": 84.6,
+    "close": 85.1,
+    "volume": 189575379,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "13-Sep-2023",
+    "open": 85.3,
+    "high": 86.35,
+    "low": 84,
+    "close": 84.2,
+    "volume": 307598048,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "14-Sep-2023",
+    "open": 84.85,
+    "high": 88.35,
+    "low": 84.4,
+    "close": 86.7,
+    "volume": 244451832,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "15-Sep-2023",
+    "open": 86.8,
+    "high": 87.9,
+    "low": 85.25,
+    "close": 86.2,
+    "volume": 92161484,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "18-Sep-2023",
+    "open": 86,
+    "high": 86.9,
+    "low": 85.15,
+    "close": 85.9,
+    "volume": 85752050,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "20-Sep-2023",
+    "open": 85.7,
+    "high": 87.85,
+    "low": 85.4,
+    "close": 87,
+    "volume": 139516998,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "21-Sep-2023",
+    "open": 86.75,
+    "high": 86.75,
+    "low": 84.5,
+    "close": 84.85,
+    "volume": 90822024,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "22-Sep-2023",
+    "open": 85,
+    "high": 86.3,
+    "low": 84.55,
+    "close": 85.2,
+    "volume": 81345013,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "25-Sep-2023",
+    "open": 85.6,
+    "high": 86.55,
+    "low": 83.5,
+    "close": 83.8,
+    "volume": 69053159,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "26-Sep-2023",
+    "open": 84.1,
+    "high": 84.25,
+    "low": 82.1,
+    "close": 83.25,
+    "volume": 116199934,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "27-Sep-2023",
+    "open": 83.2,
+    "high": 83.9,
+    "low": 82.6,
+    "close": 83.2,
+    "volume": 73098923,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "28-Sep-2023",
+    "open": 83.15,
+    "high": 83.7,
+    "low": 82.6,
+    "close": 83,
+    "volume": 41592598,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "29-Sep-2023",
+    "open": 83.3,
+    "high": 83.65,
+    "low": 82.85,
+    "close": 83.25,
+    "volume": 39077760,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "03-Oct-2023",
+    "open": 83.45,
+    "high": 84.1,
+    "low": 82.55,
+    "close": 82.85,
+    "volume": 46797719,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "04-Oct-2023",
+    "open": 82.8,
+    "high": 83,
+    "low": 80.85,
+    "close": 81.7,
+    "volume": 61699602,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "05-Oct-2023",
+    "open": 81.8,
+    "high": 87.65,
+    "low": 81.5,
+    "close": 84.1,
+    "volume": 315959813,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "06-Oct-2023",
+    "open": 85.2,
+    "high": 88.35,
+    "low": 84.55,
+    "close": 86.8,
+    "volume": 200030919,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "09-Oct-2023",
+    "open": 85.7,
+    "high": 85.7,
+    "low": 82.1,
+    "close": 83.15,
+    "volume": 112268340,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "10-Oct-2023",
+    "open": 83.25,
+    "high": 85.45,
+    "low": 82.9,
+    "close": 84,
+    "volume": 63838959,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "11-Oct-2023",
+    "open": 86.25,
+    "high": 87,
+    "low": 84.25,
+    "close": 84.65,
+    "volume": 91079124,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "12-Oct-2023",
+    "open": 84.9,
+    "high": 85.4,
+    "low": 82.95,
+    "close": 83.6,
+    "volume": 55015928,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "13-Oct-2023",
+    "open": 83.3,
+    "high": 84.85,
+    "low": 83.05,
+    "close": 84.55,
+    "volume": 74725037,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "16-Oct-2023",
+    "open": 84.5,
+    "high": 84.95,
+    "low": 84,
+    "close": 84.3,
+    "volume": 37530100,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "17-Oct-2023",
+    "open": 84.5,
+    "high": 84.85,
+    "low": 83.15,
+    "close": 83.45,
+    "volume": 40505164,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "18-Oct-2023",
+    "open": 83.1,
+    "high": 83.55,
+    "low": 82.55,
+    "close": 82.9,
+    "volume": 66047906,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "19-Oct-2023",
+    "open": 82.5,
+    "high": 83.05,
+    "low": 82.5,
+    "close": 82.95,
+    "volume": 23479114,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "20-Oct-2023",
+    "open": 83.7,
+    "high": 85.25,
+    "low": 82.25,
+    "close": 84.45,
+    "volume": 105904056,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "23-Oct-2023",
+    "open": 84.5,
+    "high": 85.7,
+    "low": 80.6,
+    "close": 81.7,
+    "volume": 162430908,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "25-Oct-2023",
+    "open": 82.4,
+    "high": 84.45,
+    "low": 82.2,
+    "close": 83.05,
+    "volume": 109626235,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "26-Oct-2023",
+    "open": 83,
+    "high": 83,
+    "low": 80.2,
+    "close": 82.1,
+    "volume": 80266661,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "27-Oct-2023",
+    "open": 83,
+    "high": 87.7,
+    "low": 82.5,
+    "close": 85.55,
+    "volume": 406693517,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "30-Oct-2023",
+    "open": 85.3,
+    "high": 85.3,
+    "low": 83.2,
+    "close": 83.6,
+    "volume": 60249599,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "31-Oct-2023",
+    "open": 83.95,
+    "high": 85.4,
+    "low": 82.5,
+    "close": 82.6,
+    "volume": 99847504,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "01-Nov-2023",
+    "open": 82.8,
+    "high": 83.5,
+    "low": 82,
+    "close": 82.2,
+    "volume": 43428078,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "02-Nov-2023",
+    "open": 82.9,
+    "high": 83.15,
+    "low": 81.6,
+    "close": 81.85,
+    "volume": 41345831,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "03-Nov-2023",
+    "open": 84.45,
+    "high": 84.45,
+    "low": 81.8,
+    "close": 81.9,
+    "volume": 50208643,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "06-Nov-2023",
+    "open": 82.6,
+    "high": 84.8,
+    "low": 81.6,
+    "close": 82.85,
+    "volume": 128778928,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "07-Nov-2023",
+    "open": 83.15,
+    "high": 83.25,
+    "low": 82.25,
+    "close": 82.8,
+    "volume": 104233090,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 83.2,
+    "high": 83.65,
+    "low": 82.5,
+    "close": 83.2,
+    "volume": 100795295,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 83.55,
+    "high": 86.7,
+    "low": 83,
+    "close": 84.85,
+    "volume": 204066104,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 84.45,
+    "high": 85.1,
+    "low": 83.4,
+    "close": 83.85,
+    "volume": 74578892,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 84.7,
+    "high": 88.9,
+    "low": 84.6,
+    "close": 88.15,
+    "volume": 349383666,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 88.75,
+    "high": 96.9,
+    "low": 87.9,
+    "close": 92.15,
+    "volume": 2098533421,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 94,
+    "high": 94.7,
+    "low": 91,
+    "close": 91.2,
+    "volume": 517259322,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 91.5,
+    "high": 93.7,
+    "low": 89.8,
+    "close": 90,
+    "volume": 393486368,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 89,
+    "high": 92.25,
+    "low": 87.3,
+    "close": 91,
+    "volume": 594315956,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 92.5,
+    "high": 92.5,
+    "low": 88.7,
+    "close": 90.75,
+    "volume": 443890842,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 91.5,
+    "high": 94,
+    "low": 90.55,
+    "close": 90.9,
+    "volume": 437213058,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 91.3,
+    "high": 91.6,
+    "low": 89.25,
+    "close": 90.55,
+    "volume": 133819960,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 90.55,
+    "high": 90.9,
+    "low": 87.7,
+    "close": 88,
+    "volume": 196089472,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 88.6,
+    "high": 88.8,
+    "low": 87.4,
+    "close": 87.8,
+    "volume": 111487497,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 87.75,
+    "high": 88.45,
+    "low": 85.8,
+    "close": 86.25,
+    "volume": 142623373,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 87,
+    "high": 87.2,
+    "low": 85.5,
+    "close": 85.95,
+    "volume": 135972223,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 86.2,
+    "high": 90.65,
+    "low": 85.65,
+    "close": 90,
+    "volume": 464116864,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 91,
+    "high": 91.6,
+    "low": 89,
+    "close": 89.4,
+    "volume": 153776409,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 92.25,
+    "high": 92.45,
+    "low": 88,
+    "close": 89.95,
+    "volume": 208396266,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 90.5,
+    "high": 90.6,
+    "low": 88,
+    "close": 88.2,
+    "volume": 119529415,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 88.85,
+    "high": 88.95,
+    "low": 87.4,
+    "close": 87.75,
+    "volume": 85995678,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 88.05,
+    "high": 88.35,
+    "low": 87,
+    "close": 87.5,
+    "volume": 76410284,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 87.8,
+    "high": 88.3,
+    "low": 86.3,
+    "close": 86.4,
+    "volume": 138990880,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 88,
+    "high": 91.1,
+    "low": 87,
+    "close": 89.85,
+    "volume": 307901337,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 91.2,
+    "high": 95.5,
+    "low": 90.95,
+    "close": 94,
+    "volume": 1208856040,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 94.7,
+    "high": 94.7,
+    "low": 91.25,
+    "close": 93.1,
+    "volume": 289596653,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 94,
+    "high": 94.9,
+    "low": 92.35,
+    "close": 93.25,
+    "volume": 329202495,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 93.65,
+    "high": 97.8,
+    "low": 93,
+    "close": 93.5,
+    "volume": 818543194,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 94.6,
+    "high": 96.7,
+    "low": 93.35,
+    "close": 94.1,
+    "volume": 245372274,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 94.7,
+    "high": 94.95,
+    "low": 91.6,
+    "close": 92.45,
+    "volume": 189614508,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 93,
+    "high": 94.2,
+    "low": 86,
+    "close": 87.3,
+    "volume": 345048602,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 86.5,
+    "high": 90.6,
+    "low": 84.1,
+    "close": 90.1,
+    "volume": 185074037,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 90.45,
+    "high": 91.5,
+    "low": 88.6,
+    "close": 88.8,
+    "volume": 121377947,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 90.35,
+    "high": 90.65,
+    "low": 88.75,
+    "close": 89.45,
+    "volume": 124015612,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 89.85,
+    "high": 91.1,
+    "low": 89.05,
+    "close": 90,
+    "volume": 100349130,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 90.65,
+    "high": 91.3,
+    "low": 89.6,
+    "close": 90,
+    "volume": 97683562,
+    "symbol": "SBFC"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 90,
+    "high": 90.55,
+    "low": 88.6,
+    "close": 89.45,
+    "volume": 115713459,
+    "symbol": "SBFC"
+  }
+]

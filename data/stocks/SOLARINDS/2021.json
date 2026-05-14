@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 1094.4,
+    "high": 1097.5,
+    "low": 1084.7,
+    "close": 1095.8,
+    "volume": 26025699,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 1095,
+    "high": 1100,
+    "low": 1090,
+    "close": 1099.9,
+    "volume": 23334535,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 1098,
+    "high": 1133.4,
+    "low": 1089.5,
+    "close": 1120,
+    "volume": 33424387,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 1119,
+    "high": 1129.6,
+    "low": 1110.45,
+    "close": 1125.1,
+    "volume": 40845701,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 1130.5,
+    "high": 1132.65,
+    "low": 1111.25,
+    "close": 1115.5,
+    "volume": 142241129,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 1135,
+    "high": 1143.95,
+    "low": 1107,
+    "close": 1130,
+    "volume": 40027440,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 1134.35,
+    "high": 1137.95,
+    "low": 1120,
+    "close": 1131,
+    "volume": 30580564,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 1148,
+    "high": 1243.95,
+    "low": 1126.35,
+    "close": 1188.75,
+    "volume": 131772230,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 1188.7,
+    "high": 1229,
+    "low": 1155.05,
+    "close": 1183,
+    "volume": 77431645,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 1185.05,
+    "high": 1193,
+    "low": 1164.5,
+    "close": 1184,
+    "volume": 18235463,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 1187,
+    "high": 1187,
+    "low": 1165.5,
+    "close": 1171,
+    "volume": 133867244,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 1184.5,
+    "high": 1186.1,
+    "low": 1155.1,
+    "close": 1175,
+    "volume": 19957070,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 1175,
+    "high": 1199,
+    "low": 1170,
+    "close": 1180,
+    "volume": 13212079,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 1185.7,
+    "high": 1190,
+    "low": 1167.8,
+    "close": 1185,
+    "volume": 11455936,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 1193.2,
+    "high": 1193.2,
+    "low": 1175.6,
+    "close": 1185,
+    "volume": 12643703,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 1185.6,
+    "high": 1191,
+    "low": 1155.65,
+    "close": 1175,
+    "volume": 8610062,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 1168,
+    "high": 1183.85,
+    "low": 1148.5,
+    "close": 1172,
+    "volume": 17748863,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 1190,
+    "high": 1193.1,
+    "low": 1150.7,
+    "close": 1185,
+    "volume": 25359656,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 1184,
+    "high": 1188,
+    "low": 1165,
+    "close": 1188,
+    "volume": 7354308,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 1177.75,
+    "high": 1195,
+    "low": 1172.05,
+    "close": 1194,
+    "volume": 11871852,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 1196.95,
+    "high": 1201.2,
+    "low": 1122.95,
+    "close": 1193.55,
+    "volume": 44010261,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 1187.85,
+    "high": 1220,
+    "low": 1175.15,
+    "close": 1210,
+    "volume": 44783632,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 1210.9,
+    "high": 1225,
+    "low": 1200.2,
+    "close": 1221,
+    "volume": 17689364,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 1225,
+    "high": 1235,
+    "low": 1207.05,
+    "close": 1230,
+    "volume": 21547261,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 1230,
+    "high": 1258,
+    "low": 1209,
+    "close": 1229,
+    "volume": 36671678,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 1251.95,
+    "high": 1270,
+    "low": 1243.05,
+    "close": 1243.8,
+    "volume": 23906206,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 1252.25,
+    "high": 1256.95,
+    "low": 1220.1,
+    "close": 1245,
+    "volume": 20031839,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 1256.6,
+    "high": 1256.6,
+    "low": 1222.55,
+    "close": 1245,
+    "volume": 18960494,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 1230.15,
+    "high": 1250.9,
+    "low": 1230,
+    "close": 1240.4,
+    "volume": 38586142,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 1249.9,
+    "high": 1264.65,
+    "low": 1237,
+    "close": 1239.5,
+    "volume": 10448238,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 1240,
+    "high": 1254,
+    "low": 1233.4,
+    "close": 1249.55,
+    "volume": 15380572,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 1254.5,
+    "high": 1410.3,
+    "low": 1241.15,
+    "close": 1294,
+    "volume": 318799988,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 1284.5,
+    "high": 1288.95,
+    "low": 1245.65,
+    "close": 1274.95,
+    "volume": 33559464,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 1280,
+    "high": 1309.8,
+    "low": 1262,
+    "close": 1265,
+    "volume": 50345207,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 1273,
+    "high": 1306,
+    "low": 1263.65,
+    "close": 1276,
+    "volume": 22058121,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 1277,
+    "high": 1292.9,
+    "low": 1271.15,
+    "close": 1275,
+    "volume": 17826780,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 1275,
+    "high": 1349,
+    "low": 1275,
+    "close": 1287.1,
+    "volume": 139655066,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 1299.4,
+    "high": 1305.9,
+    "low": 1284.85,
+    "close": 1299,
+    "volume": 33137447,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 1323,
+    "high": 1325,
+    "low": 1298.05,
+    "close": 1321,
+    "volume": 20589716,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 1319.7,
+    "high": 1320,
+    "low": 1295,
+    "close": 1310.95,
+    "volume": 12294478,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 1325,
+    "high": 1349,
+    "low": 1306.55,
+    "close": 1328.2,
+    "volume": 21271532,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 1374,
+    "high": 1374,
+    "low": 1323,
+    "close": 1340,
+    "volume": 16440078,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 1339,
+    "high": 1354,
+    "low": 1323.35,
+    "close": 1354,
+    "volume": 15975320,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 1353.95,
+    "high": 1404,
+    "low": 1340.2,
+    "close": 1397,
+    "volume": 42785681,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 1400,
+    "high": 1419.1,
+    "low": 1365,
+    "close": 1389,
+    "volume": 18167726,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 1400,
+    "high": 1412,
+    "low": 1385,
+    "close": 1405,
+    "volume": 15179845,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 1408.95,
+    "high": 1421.45,
+    "low": 1350,
+    "close": 1375,
+    "volume": 40087374,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 1417,
+    "high": 1417,
+    "low": 1369,
+    "close": 1370,
+    "volume": 65223263,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 1400,
+    "high": 1400,
+    "low": 1335.4,
+    "close": 1350,
+    "volume": 29943139,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 1354.65,
+    "high": 1355.2,
+    "low": 1295.7,
+    "close": 1325,
+    "volume": 25800371,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 1320.75,
+    "high": 1330.9,
+    "low": 1315,
+    "close": 1315,
+    "volume": 18423426,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 1325,
+    "high": 1325,
+    "low": 1291.9,
+    "close": 1306,
+    "volume": 23982531,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 1296,
+    "high": 1306,
+    "low": 1253.75,
+    "close": 1279.4,
+    "volume": 28790540,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 1257,
+    "high": 1348,
+    "low": 1243.25,
+    "close": 1310,
+    "volume": 27806594,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 1320,
+    "high": 1321.05,
+    "low": 1279.65,
+    "close": 1293,
+    "volume": 6316710,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 1297,
+    "high": 1308,
+    "low": 1260,
+    "close": 1300,
+    "volume": 17483728,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 1290,
+    "high": 1304,
+    "low": 1260,
+    "close": 1304,
+    "volume": 8637746,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 1268.5,
+    "high": 1300,
+    "low": 1253.9,
+    "close": 1300,
+    "volume": 8022521,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 1290.05,
+    "high": 1319,
+    "low": 1280,
+    "close": 1291,
+    "volume": 10990463,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 1298,
+    "high": 1307.25,
+    "low": 1283.6,
+    "close": 1305,
+    "volume": 7948760,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 1317.6,
+    "high": 1359.9,
+    "low": 1263,
+    "close": 1276.1,
+    "volume": 10426808,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 1285,
+    "high": 1324,
+    "low": 1251.35,
+    "close": 1275.35,
+    "volume": 13525289,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 1284,
+    "high": 1292.5,
+    "low": 1239.95,
+    "close": 1246.95,
+    "volume": 14675119,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 1253.95,
+    "high": 1285.65,
+    "low": 1242.45,
+    "close": 1260,
+    "volume": 34041723,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 1255.8,
+    "high": 1280,
+    "low": 1255.75,
+    "close": 1276.9,
+    "volume": 9006388,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 1270,
+    "high": 1331,
+    "low": 1265.4,
+    "close": 1310.45,
+    "volume": 14222668,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 1349,
+    "high": 1358,
+    "low": 1275.7,
+    "close": 1310.5,
+    "volume": 22075176,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 1345,
+    "high": 1345,
+    "low": 1250,
+    "close": 1260,
+    "volume": 13964249,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 1261,
+    "high": 1384.95,
+    "low": 1255.1,
+    "close": 1280,
+    "volume": 134680754,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 1293,
+    "high": 1328,
+    "low": 1250.3,
+    "close": 1305.1,
+    "volume": 24931398,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 1311.85,
+    "high": 1311.85,
+    "low": 1295,
+    "close": 1310,
+    "volume": 4886895,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 1287,
+    "high": 1287,
+    "low": 1247.2,
+    "close": 1270.5,
+    "volume": 7000450,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 1279,
+    "high": 1284.4,
+    "low": 1243.05,
+    "close": 1249.05,
+    "volume": 14081442,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 1248,
+    "high": 1295,
+    "low": 1227.65,
+    "close": 1270,
+    "volume": 37648402,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 1277.7,
+    "high": 1284.85,
+    "low": 1251.3,
+    "close": 1254.75,
+    "volume": 5934400,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 1256,
+    "high": 1265,
+    "low": 1225.1,
+    "close": 1232,
+    "volume": 20434564,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 1237.35,
+    "high": 1247.4,
+    "low": 1212,
+    "close": 1220,
+    "volume": 17723462,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 1224.9,
+    "high": 1334.1,
+    "low": 1221.05,
+    "close": 1305,
+    "volume": 69458547,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 1324.8,
+    "high": 1324.9,
+    "low": 1244.95,
+    "close": 1249.95,
+    "volume": 21810177,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 1252,
+    "high": 1257,
+    "low": 1218,
+    "close": 1227.5,
+    "volume": 16780159,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 1224,
+    "high": 1243.3,
+    "low": 1200,
+    "close": 1218.65,
+    "volume": 20340631,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 1220,
+    "high": 1235,
+    "low": 1207,
+    "close": 1224.4,
+    "volume": 10348331,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 1224.5,
+    "high": 1257.15,
+    "low": 1217.7,
+    "close": 1232,
+    "volume": 19462092,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 1234.25,
+    "high": 1259.65,
+    "low": 1220,
+    "close": 1244,
+    "volume": 22870577,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 1232.05,
+    "high": 1267.55,
+    "low": 1230,
+    "close": 1239,
+    "volume": 10998020,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 1240.95,
+    "high": 1260,
+    "low": 1230.05,
+    "close": 1237.05,
+    "volume": 122779952,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 1231.15,
+    "high": 1253.05,
+    "low": 1219.4,
+    "close": 1220,
+    "volume": 14088004,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 1210.05,
+    "high": 1238.95,
+    "low": 1210.05,
+    "close": 1215,
+    "volume": 10218745,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 1237.7,
+    "high": 1247.95,
+    "low": 1203,
+    "close": 1213.95,
+    "volume": 21900150,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 1215.5,
+    "high": 1227.75,
+    "low": 1210.5,
+    "close": 1217.5,
+    "volume": 26427486,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 1211.6,
+    "high": 1253.95,
+    "low": 1211.6,
+    "close": 1239.85,
+    "volume": 36041526,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 1245,
+    "high": 1265,
+    "low": 1226.05,
+    "close": 1260,
+    "volume": 20126295,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 1258.6,
+    "high": 1279.65,
+    "low": 1241,
+    "close": 1241.05,
+    "volume": 22349773,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 1260.9,
+    "high": 1279.75,
+    "low": 1250,
+    "close": 1275,
+    "volume": 32565305,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 1290.5,
+    "high": 1334,
+    "low": 1271.3,
+    "close": 1310.55,
+    "volume": 70664204,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 1335,
+    "high": 1349,
+    "low": 1321.5,
+    "close": 1331,
+    "volume": 23265823,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 1330.15,
+    "high": 1349,
+    "low": 1319.9,
+    "close": 1328,
+    "volume": 10350759,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 1340,
+    "high": 1350,
+    "low": 1319,
+    "close": 1335.7,
+    "volume": 21888194,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 1420,
+    "high": 1445.55,
+    "low": 1365,
+    "close": 1411,
+    "volume": 475494342,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 1415,
+    "high": 1599,
+    "low": 1411.75,
+    "close": 1550.2,
+    "volume": 2007666613,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 1565,
+    "high": 1645,
+    "low": 1453.35,
+    "close": 1499,
+    "volume": 1061815162,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 1500,
+    "high": 1625,
+    "low": 1496,
+    "close": 1591,
+    "volume": 480624065,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 1612,
+    "high": 1640,
+    "low": 1555.05,
+    "close": 1593,
+    "volume": 253206949,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 1592.2,
+    "high": 1608.1,
+    "low": 1550,
+    "close": 1561,
+    "volume": 83458761,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 1575.6,
+    "high": 1625,
+    "low": 1575.6,
+    "close": 1605,
+    "volume": 202150340,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 1616,
+    "high": 1644.75,
+    "low": 1602,
+    "close": 1630,
+    "volume": 126302102,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 1637.15,
+    "high": 1644,
+    "low": 1600.5,
+    "close": 1642.85,
+    "volume": 112091340,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 1645.9,
+    "high": 1669.45,
+    "low": 1621.65,
+    "close": 1636,
+    "volume": 77858960,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 1630.05,
+    "high": 1679,
+    "low": 1620,
+    "close": 1636.95,
+    "volume": 174552809,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 1638.1,
+    "high": 1646.3,
+    "low": 1563.35,
+    "close": 1621,
+    "volume": 45799099,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 1629.95,
+    "high": 1642,
+    "low": 1590,
+    "close": 1618.95,
+    "volume": 28541451,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 1602.05,
+    "high": 1623.4,
+    "low": 1569.95,
+    "close": 1590,
+    "volume": 75832274,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 1583,
+    "high": 1630.2,
+    "low": 1575.3,
+    "close": 1618,
+    "volume": 72920254,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 1602,
+    "high": 1608.1,
+    "low": 1557,
+    "close": 1577.7,
+    "volume": 72296411,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 1593,
+    "high": 1601,
+    "low": 1560,
+    "close": 1572,
+    "volume": 27537682,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 1586,
+    "high": 1630,
+    "low": 1586,
+    "close": 1610.45,
+    "volume": 42064977,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 1629,
+    "high": 1629,
+    "low": 1600,
+    "close": 1606,
+    "volume": 16806583,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 1605,
+    "high": 1626,
+    "low": 1580.05,
+    "close": 1580.05,
+    "volume": 11404500,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 1600,
+    "high": 1608.45,
+    "low": 1575,
+    "close": 1581.75,
+    "volume": 8820731,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 1589.55,
+    "high": 1589.55,
+    "low": 1566.05,
+    "close": 1584.6,
+    "volume": 16294032,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 1580.4,
+    "high": 1597.9,
+    "low": 1576.1,
+    "close": 1587,
+    "volume": 24323995,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 1600,
+    "high": 1615,
+    "low": 1580,
+    "close": 1583,
+    "volume": 17242027,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 1600,
+    "high": 1601.95,
+    "low": 1580,
+    "close": 1593,
+    "volume": 14313170,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 1610,
+    "high": 1625,
+    "low": 1599.05,
+    "close": 1602.25,
+    "volume": 30872975,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 1628,
+    "high": 1642.15,
+    "low": 1619.35,
+    "close": 1630,
+    "volume": 44856127,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 1640,
+    "high": 1650.3,
+    "low": 1588.2,
+    "close": 1591.5,
+    "volume": 54915835,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 1603.7,
+    "high": 1615,
+    "low": 1592.7,
+    "close": 1607,
+    "volume": 34897290,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 1615,
+    "high": 1625.65,
+    "low": 1591,
+    "close": 1600.3,
+    "volume": 49729883,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 1604,
+    "high": 1619,
+    "low": 1595,
+    "close": 1609,
+    "volume": 20792403,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 1616.65,
+    "high": 1629.95,
+    "low": 1609.55,
+    "close": 1619,
+    "volume": 29985486,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 1621.05,
+    "high": 1628.95,
+    "low": 1610.6,
+    "close": 1617.9,
+    "volume": 12967603,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 1617.45,
+    "high": 1713.45,
+    "low": 1617.45,
+    "close": 1665,
+    "volume": 533789700,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 1714.5,
+    "high": 1714.5,
+    "low": 1656,
+    "close": 1669,
+    "volume": 121695619,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 1677.8,
+    "high": 1683.7,
+    "low": 1622,
+    "close": 1638.95,
+    "volume": 118007010,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 1600,
+    "high": 1620,
+    "low": 1570.3,
+    "close": 1597,
+    "volume": 89500076,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 1601.9,
+    "high": 1609,
+    "low": 1550,
+    "close": 1591.5,
+    "volume": 81032074,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 1602,
+    "high": 1630,
+    "low": 1598.55,
+    "close": 1619.95,
+    "volume": 30624172,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 1630,
+    "high": 1630,
+    "low": 1602,
+    "close": 1619.5,
+    "volume": 18830805,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 1623.15,
+    "high": 1625.25,
+    "low": 1579.5,
+    "close": 1597,
+    "volume": 38458645,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 1618,
+    "high": 1695,
+    "low": 1598,
+    "close": 1641,
+    "volume": 112658539,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 1637.2,
+    "high": 1650,
+    "low": 1607.25,
+    "close": 1634,
+    "volume": 22073856,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 1641.75,
+    "high": 1657,
+    "low": 1611.9,
+    "close": 1630.5,
+    "volume": 18754334,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 1663,
+    "high": 1730,
+    "low": 1637.05,
+    "close": 1710.05,
+    "volume": 567707597,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 1730,
+    "high": 1755,
+    "low": 1705,
+    "close": 1720,
+    "volume": 196415856,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 1720,
+    "high": 1749.5,
+    "low": 1713.65,
+    "close": 1722,
+    "volume": 67947317,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 1795,
+    "high": 1798.5,
+    "low": 1753.95,
+    "close": 1769,
+    "volume": 233881920,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 1790,
+    "high": 1796,
+    "low": 1745,
+    "close": 1786,
+    "volume": 81679693,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 1785.6,
+    "high": 1790,
+    "low": 1762,
+    "close": 1773.1,
+    "volume": 51025091,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 1786.15,
+    "high": 1786.15,
+    "low": 1750,
+    "close": 1775.8,
+    "volume": 58870494,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 1789.5,
+    "high": 1789.5,
+    "low": 1656,
+    "close": 1700,
+    "volume": 72802645,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 1693,
+    "high": 1715.75,
+    "low": 1624.05,
+    "close": 1681.95,
+    "volume": 110183239,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 1690,
+    "high": 1740,
+    "low": 1690,
+    "close": 1738,
+    "volume": 53136874,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 1772,
+    "high": 1772,
+    "low": 1745.75,
+    "close": 1761,
+    "volume": 44406131,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 1770,
+    "high": 1775,
+    "low": 1726.05,
+    "close": 1733,
+    "volume": 31103762,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 1730,
+    "high": 1731.85,
+    "low": 1691,
+    "close": 1700,
+    "volume": 32507018,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 1690,
+    "high": 1702,
+    "low": 1677.2,
+    "close": 1699.25,
+    "volume": 18138890,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 1670,
+    "high": 1695.1,
+    "low": 1663.6,
+    "close": 1670,
+    "volume": 24149208,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 1690,
+    "high": 1727.25,
+    "low": 1639.5,
+    "close": 1679,
+    "volume": 142699260,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 1690,
+    "high": 1722,
+    "low": 1678,
+    "close": 1700.5,
+    "volume": 121549933,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 1725.5,
+    "high": 1725.5,
+    "low": 1681.35,
+    "close": 1704.1,
+    "volume": 116418265,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 1723,
+    "high": 1723,
+    "low": 1675,
+    "close": 1699.9,
+    "volume": 112608016,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 1690,
+    "high": 1793.35,
+    "low": 1690,
+    "close": 1713.05,
+    "volume": 204298846,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 1749,
+    "high": 1764,
+    "low": 1727.25,
+    "close": 1748.5,
+    "volume": 85878519,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 1760,
+    "high": 1765.85,
+    "low": 1739.9,
+    "close": 1745,
+    "volume": 72670498,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 1774.9,
+    "high": 1774.9,
+    "low": 1743.05,
+    "close": 1749.9,
+    "volume": 78586762,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 1745.95,
+    "high": 1762.3,
+    "low": 1745,
+    "close": 1751,
+    "volume": 32907398,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 1750,
+    "high": 1798.25,
+    "low": 1750,
+    "close": 1769.95,
+    "volume": 103699012,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 1775,
+    "high": 1780,
+    "low": 1755,
+    "close": 1762,
+    "volume": 83711919,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 1770,
+    "high": 1825,
+    "low": 1707.65,
+    "close": 1708.05,
+    "volume": 324166400,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 1726.8,
+    "high": 1755,
+    "low": 1700.7,
+    "close": 1750,
+    "volume": 126414023,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 1749,
+    "high": 1800,
+    "low": 1745,
+    "close": 1784.05,
+    "volume": 185019445,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 1820,
+    "high": 1847.1,
+    "low": 1791,
+    "close": 1795,
+    "volume": 358923148,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 1832.85,
+    "high": 1999,
+    "low": 1821.9,
+    "close": 1998,
+    "volume": 957694658,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 2004,
+    "high": 2049,
+    "low": 1952,
+    "close": 1983,
+    "volume": 339742306,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 1987,
+    "high": 1988.85,
+    "low": 1929.8,
+    "close": 1978,
+    "volume": 154382068,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 1976,
+    "high": 2033,
+    "low": 1874.05,
+    "close": 1885,
+    "volume": 1219913335,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 1927.8,
+    "high": 1974.4,
+    "low": 1903.15,
+    "close": 1938,
+    "volume": 134540230,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 1943.5,
+    "high": 1968.95,
+    "low": 1903.55,
+    "close": 1950.05,
+    "volume": 69480725,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 1965,
+    "high": 1995.05,
+    "low": 1954.1,
+    "close": 1982,
+    "volume": 60493276,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 1992.5,
+    "high": 2020,
+    "low": 1980.15,
+    "close": 2000,
+    "volume": 87892339,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 2000,
+    "high": 2025,
+    "low": 1993.7,
+    "close": 2002.45,
+    "volume": 101039033,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 2018,
+    "high": 2026,
+    "low": 1997.2,
+    "close": 2013,
+    "volume": 66036505,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 2020.5,
+    "high": 2022,
+    "low": 1985,
+    "close": 2000,
+    "volume": 36199534,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 2008,
+    "high": 2037,
+    "low": 1990,
+    "close": 2024,
+    "volume": 91444948,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 2025.1,
+    "high": 2214.05,
+    "low": 2025.1,
+    "close": 2114.8,
+    "volume": 1133542141,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 2102.65,
+    "high": 2206.1,
+    "low": 2080.65,
+    "close": 2164,
+    "volume": 433194116,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 2174,
+    "high": 2444,
+    "low": 2173.95,
+    "close": 2408,
+    "volume": 1403738694,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 2418,
+    "high": 2499,
+    "low": 2383.05,
+    "close": 2404,
+    "volume": 592052588,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 2410.8,
+    "high": 2413.45,
+    "low": 2320,
+    "close": 2333,
+    "volume": 204095663,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 2348.05,
+    "high": 2377.2,
+    "low": 2310.4,
+    "close": 2325,
+    "volume": 165958534,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 2336.4,
+    "high": 2459.95,
+    "low": 2325.05,
+    "close": 2412,
+    "volume": 251136038,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 2584,
+    "high": 2847.9,
+    "low": 2475,
+    "close": 2499.85,
+    "volume": 1037035046,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 2532.25,
+    "high": 2565,
+    "low": 2485.75,
+    "close": 2532,
+    "volume": 214735247,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 2548.7,
+    "high": 2584.45,
+    "low": 2520,
+    "close": 2557,
+    "volume": 142631774,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 2538.15,
+    "high": 2568.2,
+    "low": 2508.35,
+    "close": 2527.75,
+    "volume": 94673051,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 2580.6,
+    "high": 2733.45,
+    "low": 2564.25,
+    "close": 2700,
+    "volume": 380752795,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 2724,
+    "high": 2798.95,
+    "low": 2680,
+    "close": 2720,
+    "volume": 291203332,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 2719.9,
+    "high": 2728.1,
+    "low": 2551.95,
+    "close": 2584,
+    "volume": 129977361,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 2613.55,
+    "high": 2613.55,
+    "low": 2479.05,
+    "close": 2510.05,
+    "volume": 104279838,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 2531.05,
+    "high": 2590,
+    "low": 2100,
+    "close": 2260,
+    "volume": 1024248871,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 2274.7,
+    "high": 2379.5,
+    "low": 2244,
+    "close": 2334.9,
+    "volume": 403070169,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 2334.9,
+    "high": 2499,
+    "low": 2300.1,
+    "close": 2449.9,
+    "volume": 240158624,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 2464,
+    "high": 2564.25,
+    "low": 2450.1,
+    "close": 2550,
+    "volume": 130528005,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 2589,
+    "high": 2605,
+    "low": 2490,
+    "close": 2519.5,
+    "volume": 177358801,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 2465.1,
+    "high": 2574,
+    "low": 2306.65,
+    "close": 2489.35,
+    "volume": 203711946,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 2491,
+    "high": 2579,
+    "low": 2371,
+    "close": 2400,
+    "volume": 449823466,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 2400,
+    "high": 2411.55,
+    "low": 2352.7,
+    "close": 2403,
+    "volume": 173425354,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 2410,
+    "high": 2410,
+    "low": 2260,
+    "close": 2273.55,
+    "volume": 158550640,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 2276,
+    "high": 2350.05,
+    "low": 2276,
+    "close": 2332,
+    "volume": 38452951,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 2349.7,
+    "high": 2511,
+    "low": 2296.45,
+    "close": 2500,
+    "volume": 310741191,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 2494,
+    "high": 2525.2,
+    "low": 2444,
+    "close": 2492,
+    "volume": 133569999,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 2494,
+    "high": 2560,
+    "low": 2479.75,
+    "close": 2510,
+    "volume": 126209089,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 2505,
+    "high": 2729,
+    "low": 2478.05,
+    "close": 2534,
+    "volume": 929449515,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 2547,
+    "high": 2585,
+    "low": 2512,
+    "close": 2585,
+    "volume": 378669807,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 2601,
+    "high": 2699,
+    "low": 2576,
+    "close": 2678.5,
+    "volume": 244121671,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 2688.6,
+    "high": 2742.7,
+    "low": 2652.55,
+    "close": 2688.95,
+    "volume": 204362713,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 2679.4,
+    "high": 2799,
+    "low": 2673.8,
+    "close": 2747.05,
+    "volume": 444748330,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 2746.7,
+    "high": 2850,
+    "low": 2735.05,
+    "close": 2790,
+    "volume": 650201589,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 2800,
+    "high": 2879,
+    "low": 2651,
+    "close": 2817,
+    "volume": 621130624,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 2806.55,
+    "high": 2889,
+    "low": 2666,
+    "close": 2859.7,
+    "volume": 303035912,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 2887.7,
+    "high": 2938,
+    "low": 2795.35,
+    "close": 2827.3,
+    "volume": 393391147,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 2842,
+    "high": 2898.95,
+    "low": 2811.5,
+    "close": 2850.35,
+    "volume": 325716284,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 2801,
+    "high": 2827.35,
+    "low": 2703,
+    "close": 2703,
+    "volume": 215014642,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 2615.15,
+    "high": 2655.05,
+    "low": 2523.55,
+    "close": 2589,
+    "volume": 256301358,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 2595,
+    "high": 2813.75,
+    "low": 2595,
+    "close": 2701,
+    "volume": 2121434269,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 2787,
+    "high": 2919,
+    "low": 2692.8,
+    "close": 2789.85,
+    "volume": 299585663,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 2798,
+    "high": 2825,
+    "low": 2742,
+    "close": 2814,
+    "volume": 182011024,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 2817,
+    "high": 2844.85,
+    "low": 2745.65,
+    "close": 2780,
+    "volume": 74983249,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 2751,
+    "high": 2800,
+    "low": 2701,
+    "close": 2719,
+    "volume": 62749939,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 2770,
+    "high": 2830,
+    "low": 2693.2,
+    "close": 2795.95,
+    "volume": 229699583,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 2849,
+    "high": 2849,
+    "low": 2680,
+    "close": 2690,
+    "volume": 208069928,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 2699,
+    "high": 2728.95,
+    "low": 2690.3,
+    "close": 2700,
+    "volume": 81178981,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 2713.7,
+    "high": 2730,
+    "low": 2690.8,
+    "close": 2715,
+    "volume": 57651865,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 2748.4,
+    "high": 2748.4,
+    "low": 2595.2,
+    "close": 2625,
+    "volume": 308019625,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 2624,
+    "high": 2670,
+    "low": 2552.55,
+    "close": 2595,
+    "volume": 83474964,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 2588.75,
+    "high": 2647.8,
+    "low": 2582,
+    "close": 2596.4,
+    "volume": 91096400,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 2648.7,
+    "high": 2648.7,
+    "low": 2530,
+    "close": 2565,
+    "volume": 98979069,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 2546.3,
+    "high": 2577.7,
+    "low": 2499,
+    "close": 2538.8,
+    "volume": 108824430,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 2510.05,
+    "high": 2510.1,
+    "low": 2357.6,
+    "close": 2371,
+    "volume": 123618140,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 2361,
+    "high": 2413,
+    "low": 2271.35,
+    "close": 2319,
+    "volume": 178262750,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 2301,
+    "high": 2479,
+    "low": 2301,
+    "close": 2408,
+    "volume": 306859415,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 2430,
+    "high": 2450,
+    "low": 2386.85,
+    "close": 2416.45,
+    "volume": 81000997,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 2410,
+    "high": 2410,
+    "low": 2330.75,
+    "close": 2368,
+    "volume": 89352328,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 2341,
+    "high": 2365.2,
+    "low": 2300.15,
+    "close": 2359,
+    "volume": 62505333,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 2361,
+    "high": 2389.35,
+    "low": 2352.45,
+    "close": 2365,
+    "volume": 44940516,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 2360,
+    "high": 2396.45,
+    "low": 2331.5,
+    "close": 2359.6,
+    "volume": 54065096,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 2367.5,
+    "high": 2386,
+    "low": 2351.95,
+    "close": 2370,
+    "volume": 61442993,
+    "symbol": "SOLARINDS"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 2350.15,
+    "high": 2430,
+    "low": 2350.15,
+    "close": 2402.15,
+    "volume": 72312386,
+    "symbol": "SOLARINDS"
+  }
+]

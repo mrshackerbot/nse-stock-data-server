@@ -1,0 +1,5177 @@
+[
+  {
+    "date": "16-Jan-2024",
+    "open": 370,
+    "high": 444,
+    "low": 368,
+    "close": 431.7,
+    "volume": 12919444849,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Jan-2024",
+    "open": 426.65,
+    "high": 448.9,
+    "low": 404.45,
+    "close": 427,
+    "volume": 2387792174,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Jan-2024",
+    "open": 428.35,
+    "high": 484,
+    "low": 412,
+    "close": 453,
+    "volume": 2105046207,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Jan-2024",
+    "open": 460,
+    "high": 473.9,
+    "low": 433,
+    "close": 435,
+    "volume": 1197942183,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Jan-2024",
+    "open": 440,
+    "high": 457.95,
+    "low": 429,
+    "close": 429.65,
+    "volume": 463872324,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Jan-2024",
+    "open": 431.75,
+    "high": 434.15,
+    "low": 408.4,
+    "close": 419.45,
+    "volume": 735772792,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Jan-2024",
+    "open": 422.95,
+    "high": 431.4,
+    "low": 410.3,
+    "close": 415.5,
+    "volume": 700810175,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Jan-2024",
+    "open": 418.65,
+    "high": 450.7,
+    "low": 415.5,
+    "close": 441.6,
+    "volume": 789125568,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Jan-2024",
+    "open": 448.2,
+    "high": 455.95,
+    "low": 433.55,
+    "close": 451,
+    "volume": 574674574,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Jan-2024",
+    "open": 453.15,
+    "high": 465,
+    "low": 442.4,
+    "close": 463,
+    "volume": 657043391,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Jan-2024",
+    "open": 462.9,
+    "high": 553.8,
+    "low": 462.5,
+    "close": 553.8,
+    "volume": 2122444300,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Feb-2024",
+    "open": 554,
+    "high": 638.8,
+    "low": 545.6,
+    "close": 601.25,
+    "volume": 3360816804,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Feb-2024",
+    "open": 615,
+    "high": 639.9,
+    "low": 578,
+    "close": 582.25,
+    "volume": 513993170,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Feb-2024",
+    "open": 599,
+    "high": 606,
+    "low": 560,
+    "close": 578,
+    "volume": 247716258,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Feb-2024",
+    "open": 581.7,
+    "high": 594.8,
+    "low": 562.25,
+    "close": 575,
+    "volume": 201546172,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Feb-2024",
+    "open": 582.9,
+    "high": 588.9,
+    "low": 565,
+    "close": 574.5,
+    "volume": 128546420,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Feb-2024",
+    "open": 571,
+    "high": 600,
+    "low": 571,
+    "close": 592.9,
+    "volume": 297423972,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Feb-2024",
+    "open": 606,
+    "high": 619,
+    "low": 586,
+    "close": 589,
+    "volume": 998589600,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Feb-2024",
+    "open": 615,
+    "high": 615,
+    "low": 537.8,
+    "close": 537.8,
+    "volume": 354811126,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Feb-2024",
+    "open": 520.1,
+    "high": 600.5,
+    "low": 512.6,
+    "close": 581.75,
+    "volume": 682980403,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Feb-2024",
+    "open": 582,
+    "high": 608.5,
+    "low": 549.55,
+    "close": 585.6,
+    "volume": 850000117,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Feb-2024",
+    "open": 610,
+    "high": 637.4,
+    "low": 581.55,
+    "close": 631.3,
+    "volume": 1251628457,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Feb-2024",
+    "open": 644,
+    "high": 660,
+    "low": 606,
+    "close": 630,
+    "volume": 647525709,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Feb-2024",
+    "open": 637.5,
+    "high": 670,
+    "low": 610.6,
+    "close": 652,
+    "volume": 649363294,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Feb-2024",
+    "open": 663,
+    "high": 663,
+    "low": 640,
+    "close": 642,
+    "volume": 371910482,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Feb-2024",
+    "open": 647,
+    "high": 661.95,
+    "low": 626.25,
+    "close": 650,
+    "volume": 418678688,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Feb-2024",
+    "open": 655.1,
+    "high": 658,
+    "low": 623.25,
+    "close": 626.4,
+    "volume": 244098141,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Feb-2024",
+    "open": 631.8,
+    "high": 634.95,
+    "low": 600,
+    "close": 604.5,
+    "volume": 219358775,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Feb-2024",
+    "open": 607.65,
+    "high": 610,
+    "low": 581,
+    "close": 591,
+    "volume": 207487784,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Feb-2024",
+    "open": 597.65,
+    "high": 618.95,
+    "low": 588.05,
+    "close": 611,
+    "volume": 286076255,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Feb-2024",
+    "open": 612.8,
+    "high": 615.6,
+    "low": 580.05,
+    "close": 605.1,
+    "volume": 229054129,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Feb-2024",
+    "open": 604.3,
+    "high": 605,
+    "low": 576.05,
+    "close": 589,
+    "volume": 107802094,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Mar-2024",
+    "open": 595.95,
+    "high": 628,
+    "low": 592.55,
+    "close": 610,
+    "volume": 218019085,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Mar-2024",
+    "open": 609.8,
+    "high": 628,
+    "low": 604.05,
+    "close": 609,
+    "volume": 26295353,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Mar-2024",
+    "open": 612.7,
+    "high": 632.05,
+    "low": 595.3,
+    "close": 622.05,
+    "volume": 253405140,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Mar-2024",
+    "open": 625.45,
+    "high": 649,
+    "low": 618,
+    "close": 644,
+    "volume": 400694754,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Mar-2024",
+    "open": 645,
+    "high": 655,
+    "low": 620.1,
+    "close": 649,
+    "volume": 374762024,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Mar-2024",
+    "open": 650.05,
+    "high": 659,
+    "low": 632,
+    "close": 640.95,
+    "volume": 123242960,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Mar-2024",
+    "open": 628,
+    "high": 642.65,
+    "low": 598.1,
+    "close": 621,
+    "volume": 228932583,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Mar-2024",
+    "open": 618.05,
+    "high": 635.05,
+    "low": 608.25,
+    "close": 617,
+    "volume": 287462641,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Mar-2024",
+    "open": 619.65,
+    "high": 622.05,
+    "low": 570,
+    "close": 585,
+    "volume": 342633078,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Mar-2024",
+    "open": 582,
+    "high": 611.05,
+    "low": 567.75,
+    "close": 601.6,
+    "volume": 154556781,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Mar-2024",
+    "open": 600,
+    "high": 610,
+    "low": 581,
+    "close": 601,
+    "volume": 144340644,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Mar-2024",
+    "open": 610,
+    "high": 628.4,
+    "low": 603,
+    "close": 620,
+    "volume": 130553095,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Mar-2024",
+    "open": 622.9,
+    "high": 625.45,
+    "low": 605.5,
+    "close": 614,
+    "volume": 69196870,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Mar-2024",
+    "open": 618.3,
+    "high": 623.95,
+    "low": 601.05,
+    "close": 616,
+    "volume": 90994627,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Mar-2024",
+    "open": 617.15,
+    "high": 646.8,
+    "low": 617.15,
+    "close": 631.1,
+    "volume": 139866910,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Mar-2024",
+    "open": 629.8,
+    "high": 696.35,
+    "low": 625,
+    "close": 696.35,
+    "volume": 374077015,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Mar-2024",
+    "open": 714.4,
+    "high": 749.45,
+    "low": 701.15,
+    "close": 726.2,
+    "volume": 847949169,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Mar-2024",
+    "open": 729.15,
+    "high": 802,
+    "low": 710.1,
+    "close": 794,
+    "volume": 808260685,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Mar-2024",
+    "open": 795,
+    "high": 837.7,
+    "low": 758.2,
+    "close": 820.3,
+    "volume": 670390693,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Apr-2024",
+    "open": 825,
+    "high": 846,
+    "low": 782.05,
+    "close": 793.85,
+    "volume": 642360999,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Apr-2024",
+    "open": 803.7,
+    "high": 808.7,
+    "low": 762,
+    "close": 764.25,
+    "volume": 223751054,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Apr-2024",
+    "open": 770,
+    "high": 791,
+    "low": 756,
+    "close": 771,
+    "volume": 217189420,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Apr-2024",
+    "open": 778,
+    "high": 784.8,
+    "low": 750,
+    "close": 755.5,
+    "volume": 147030964,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Apr-2024",
+    "open": 758.55,
+    "high": 792.8,
+    "low": 751.05,
+    "close": 771,
+    "volume": 353935266,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Apr-2024",
+    "open": 778.9,
+    "high": 800,
+    "low": 757,
+    "close": 763,
+    "volume": 129635307,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Apr-2024",
+    "open": 769.95,
+    "high": 780,
+    "low": 740,
+    "close": 744.45,
+    "volume": 237137217,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Apr-2024",
+    "open": 747.95,
+    "high": 781.85,
+    "low": 731.15,
+    "close": 769.4,
+    "volume": 374471056,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Apr-2024",
+    "open": 769.9,
+    "high": 794,
+    "low": 765.9,
+    "close": 778.7,
+    "volume": 562561096,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Apr-2024",
+    "open": 751.6,
+    "high": 769.95,
+    "low": 741.9,
+    "close": 741.9,
+    "volume": 311645205,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Apr-2024",
+    "open": 726,
+    "high": 749,
+    "low": 708,
+    "close": 710.9,
+    "volume": 260583761,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Apr-2024",
+    "open": 724.9,
+    "high": 745.9,
+    "low": 723.05,
+    "close": 743.5,
+    "volume": 437578979,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Apr-2024",
+    "open": 720,
+    "high": 744.9,
+    "low": 708.1,
+    "close": 737.2,
+    "volume": 445662090,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Apr-2024",
+    "open": 755,
+    "high": 775.7,
+    "low": 728,
+    "close": 775.7,
+    "volume": 418939457,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Apr-2024",
+    "open": 775.95,
+    "high": 814.45,
+    "low": 775.95,
+    "close": 814.45,
+    "volume": 691208990,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Apr-2024",
+    "open": 824,
+    "high": 850.2,
+    "low": 791.6,
+    "close": 809,
+    "volume": 611841671,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Apr-2024",
+    "open": 809.9,
+    "high": 820.95,
+    "low": 792,
+    "close": 795,
+    "volume": 213938161,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Apr-2024",
+    "open": 805,
+    "high": 829,
+    "low": 800.05,
+    "close": 807.9,
+    "volume": 137700986,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Apr-2024",
+    "open": 810.1,
+    "high": 821,
+    "low": 806.35,
+    "close": 810,
+    "volume": 74136565,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Apr-2024",
+    "open": 824,
+    "high": 849.8,
+    "low": 811.1,
+    "close": 849.8,
+    "volume": 646555896,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-May-2024",
+    "open": 859.9,
+    "high": 880,
+    "low": 826,
+    "close": 832,
+    "volume": 356773906,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-May-2024",
+    "open": 834,
+    "high": 840.6,
+    "low": 790.6,
+    "close": 800.05,
+    "volume": 253727912,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-May-2024",
+    "open": 809,
+    "high": 821,
+    "low": 775,
+    "close": 812.15,
+    "volume": 149193585,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-May-2024",
+    "open": 818.95,
+    "high": 820,
+    "low": 795.15,
+    "close": 799,
+    "volume": 120433483,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-May-2024",
+    "open": 795.15,
+    "high": 839.5,
+    "low": 786,
+    "close": 825.4,
+    "volume": 212403977,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-May-2024",
+    "open": 825,
+    "high": 827.4,
+    "low": 806.75,
+    "close": 812,
+    "volume": 106927229,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-May-2024",
+    "open": 810.75,
+    "high": 825.8,
+    "low": 777.55,
+    "close": 812,
+    "volume": 387480483,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-May-2024",
+    "open": 818,
+    "high": 849.4,
+    "low": 800,
+    "close": 832,
+    "volume": 211560734,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-May-2024",
+    "open": 858,
+    "high": 874.4,
+    "low": 849,
+    "close": 874.4,
+    "volume": 430569477,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-May-2024",
+    "open": 883,
+    "high": 916.85,
+    "low": 880,
+    "close": 902.5,
+    "volume": 756480198,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-May-2024",
+    "open": 912.3,
+    "high": 934,
+    "low": 883.05,
+    "close": 911.15,
+    "volume": 334349825,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-May-2024",
+    "open": 921.35,
+    "high": 928.45,
+    "low": 891.1,
+    "close": 896,
+    "volume": 337048609,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-May-2024",
+    "open": 912,
+    "high": 928,
+    "low": 904.85,
+    "close": 925.05,
+    "volume": 76989056,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-May-2024",
+    "open": 966,
+    "high": 966,
+    "low": 886.75,
+    "close": 890,
+    "volume": 439278124,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-May-2024",
+    "open": 902.8,
+    "high": 908.2,
+    "low": 862.65,
+    "close": 878,
+    "volume": 206945155,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-May-2024",
+    "open": 865,
+    "high": 896,
+    "low": 856.05,
+    "close": 860,
+    "volume": 171791884,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-May-2024",
+    "open": 855,
+    "high": 892.6,
+    "low": 855,
+    "close": 885.4,
+    "volume": 381161611,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-May-2024",
+    "open": 889.8,
+    "high": 909,
+    "low": 865.2,
+    "close": 908.9,
+    "volume": 452808140,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-May-2024",
+    "open": 906,
+    "high": 950.9,
+    "low": 903.05,
+    "close": 950.9,
+    "volume": 357822756,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-May-2024",
+    "open": 973.4,
+    "high": 998.4,
+    "low": 932.9,
+    "close": 998.4,
+    "volume": 509421162,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-May-2024",
+    "open": 1002.5,
+    "high": 1030,
+    "low": 980,
+    "close": 1000,
+    "volume": 560571900,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-May-2024",
+    "open": 1002.5,
+    "high": 1051.35,
+    "low": 1000,
+    "close": 1002.05,
+    "volume": 695183030,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Jun-2024",
+    "open": 1047.8,
+    "high": 1059,
+    "low": 1014,
+    "close": 1015,
+    "volume": 328480564,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Jun-2024",
+    "open": 1020,
+    "high": 1020,
+    "low": 968.95,
+    "close": 968.95,
+    "volume": 140818781,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Jun-2024",
+    "open": 920.5,
+    "high": 939.95,
+    "low": 920.5,
+    "close": 931,
+    "volume": 617298980,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Jun-2024",
+    "open": 968,
+    "high": 970.5,
+    "low": 935,
+    "close": 970.5,
+    "volume": 461024591,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Jun-2024",
+    "open": 990,
+    "high": 1063.15,
+    "low": 976.65,
+    "close": 1063.15,
+    "volume": 684877204,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Jun-2024",
+    "open": 1063.2,
+    "high": 1169.45,
+    "low": 1063.2,
+    "close": 1167,
+    "volume": 822596933,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Jun-2024",
+    "open": 1200,
+    "high": 1224,
+    "low": 1135.95,
+    "close": 1141.55,
+    "volume": 603692908,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Jun-2024",
+    "open": 1165,
+    "high": 1195.45,
+    "low": 1150,
+    "close": 1174.9,
+    "volume": 261718678,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Jun-2024",
+    "open": 1192,
+    "high": 1194.95,
+    "low": 1158,
+    "close": 1160,
+    "volume": 172916130,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Jun-2024",
+    "open": 1165,
+    "high": 1220,
+    "low": 1156.05,
+    "close": 1185,
+    "volume": 365612433,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Jun-2024",
+    "open": 1221.7,
+    "high": 1254.8,
+    "low": 1202.1,
+    "close": 1223.5,
+    "volume": 454197436,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Jun-2024",
+    "open": 1249.75,
+    "high": 1353.1,
+    "low": 1236.05,
+    "close": 1353.1,
+    "volume": 1132766507,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Jun-2024",
+    "open": 1424.4,
+    "high": 1449.95,
+    "low": 1314.6,
+    "close": 1336,
+    "volume": 1114729488,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Jun-2024",
+    "open": 1360,
+    "high": 1365,
+    "low": 1275,
+    "close": 1320.05,
+    "volume": 439284058,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Jun-2024",
+    "open": 1321,
+    "high": 1321,
+    "low": 1210,
+    "close": 1234.9,
+    "volume": 441980124,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Jun-2024",
+    "open": 1239.9,
+    "high": 1356.05,
+    "low": 1239.9,
+    "close": 1351,
+    "volume": 728853389,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Jun-2024",
+    "open": 1349.35,
+    "high": 1379.8,
+    "low": 1318,
+    "close": 1335.05,
+    "volume": 327394976,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Jun-2024",
+    "open": 1347.2,
+    "high": 1379.7,
+    "low": 1335,
+    "close": 1353,
+    "volume": 287540965,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Jun-2024",
+    "open": 1358.95,
+    "high": 1369.8,
+    "low": 1305.1,
+    "close": 1357,
+    "volume": 289762034,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Jul-2024",
+    "open": 1300,
+    "high": 1360.95,
+    "low": 1300,
+    "close": 1334,
+    "volume": 154024679,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Jul-2024",
+    "open": 1370,
+    "high": 1371.2,
+    "low": 1310.95,
+    "close": 1328,
+    "volume": 142872044,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Jul-2024",
+    "open": 1334.5,
+    "high": 1370,
+    "low": 1323.95,
+    "close": 1359.95,
+    "volume": 261009821,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Jul-2024",
+    "open": 1369.25,
+    "high": 1400,
+    "low": 1330,
+    "close": 1337.5,
+    "volume": 168708290,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Jul-2024",
+    "open": 1345,
+    "high": 1351.95,
+    "low": 1270,
+    "close": 1304,
+    "volume": 163126166,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Jul-2024",
+    "open": 1294.55,
+    "high": 1308,
+    "low": 1229.05,
+    "close": 1247.5,
+    "volume": 244779853,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Jul-2024",
+    "open": 1247.6,
+    "high": 1264.45,
+    "low": 1185.05,
+    "close": 1200,
+    "volume": 338477475,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Jul-2024",
+    "open": 1225.95,
+    "high": 1261.9,
+    "low": 1200,
+    "close": 1209.9,
+    "volume": 232623580,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Jul-2024",
+    "open": 1233.3,
+    "high": 1254,
+    "low": 1203.5,
+    "close": 1216,
+    "volume": 159171683,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Jul-2024",
+    "open": 1219.6,
+    "high": 1231.35,
+    "low": 1175,
+    "close": 1213.5,
+    "volume": 214444863,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Jul-2024",
+    "open": 1218.5,
+    "high": 1297,
+    "low": 1192.15,
+    "close": 1292,
+    "volume": 318621700,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Jul-2024",
+    "open": 1311,
+    "high": 1312,
+    "low": 1203.05,
+    "close": 1220,
+    "volume": 1222661538,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Jul-2024",
+    "open": 1239,
+    "high": 1279.9,
+    "low": 1182.75,
+    "close": 1235,
+    "volume": 1570952309,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Jul-2024",
+    "open": 1227.9,
+    "high": 1234.8,
+    "low": 1128,
+    "close": 1144,
+    "volume": 823186490,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Jul-2024",
+    "open": 1129,
+    "high": 1169.75,
+    "low": 1116.55,
+    "close": 1131,
+    "volume": 378561136,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Jul-2024",
+    "open": 1140.95,
+    "high": 1167,
+    "low": 1037.1,
+    "close": 1115,
+    "volume": 471962601,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Jul-2024",
+    "open": 1108.9,
+    "high": 1148.3,
+    "low": 1108,
+    "close": 1141,
+    "volume": 240177541,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Jul-2024",
+    "open": 1120,
+    "high": 1148,
+    "low": 1097.05,
+    "close": 1105,
+    "volume": 596719346,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Jul-2024",
+    "open": 1114.4,
+    "high": 1147,
+    "low": 1113.05,
+    "close": 1131.1,
+    "volume": 308890248,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Jul-2024",
+    "open": 1170,
+    "high": 1177,
+    "low": 1114.3,
+    "close": 1117.5,
+    "volume": 5117036268,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Jul-2024",
+    "open": 1140.05,
+    "high": 1142.5,
+    "low": 1124.4,
+    "close": 1133,
+    "volume": 453701340,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Jul-2024",
+    "open": 1133,
+    "high": 1150.9,
+    "low": 1124,
+    "close": 1139.9,
+    "volume": 657007984,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Aug-2024",
+    "open": 1150,
+    "high": 1198,
+    "low": 1139.95,
+    "close": 1177,
+    "volume": 570753979,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Aug-2024",
+    "open": 1160,
+    "high": 1175.9,
+    "low": 1132.05,
+    "close": 1155,
+    "volume": 199004074,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Aug-2024",
+    "open": 1100,
+    "high": 1115,
+    "low": 1044.55,
+    "close": 1079,
+    "volume": 315346549,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Aug-2024",
+    "open": 1090.25,
+    "high": 1128,
+    "low": 1060.05,
+    "close": 1074.6,
+    "volume": 272977950,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Aug-2024",
+    "open": 1075,
+    "high": 1120,
+    "low": 1070,
+    "close": 1115,
+    "volume": 160604107,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Aug-2024",
+    "open": 1107.55,
+    "high": 1124.25,
+    "low": 1055,
+    "close": 1064.75,
+    "volume": 215480706,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Aug-2024",
+    "open": 1089,
+    "high": 1166,
+    "low": 1075.15,
+    "close": 1132,
+    "volume": 358780335,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Aug-2024",
+    "open": 1135,
+    "high": 1139.9,
+    "low": 1077.05,
+    "close": 1104.5,
+    "volume": 1307866829,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Aug-2024",
+    "open": 1103.75,
+    "high": 1111.95,
+    "low": 1061.75,
+    "close": 1090.2,
+    "volume": 420233430,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Aug-2024",
+    "open": 1089.8,
+    "high": 1125,
+    "low": 1060,
+    "close": 1124,
+    "volume": 481972043,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Aug-2024",
+    "open": 1131,
+    "high": 1150,
+    "low": 1112.25,
+    "close": 1136,
+    "volume": 533731987,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Aug-2024",
+    "open": 1150,
+    "high": 1150,
+    "low": 1111.4,
+    "close": 1120.75,
+    "volume": 150539995,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Aug-2024",
+    "open": 1119,
+    "high": 1121.1,
+    "low": 1070,
+    "close": 1085.25,
+    "volume": 275743203,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Aug-2024",
+    "open": 1090,
+    "high": 1132.75,
+    "low": 1068,
+    "close": 1125.25,
+    "volume": 540483287,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Aug-2024",
+    "open": 1133.85,
+    "high": 1238.6,
+    "low": 1126,
+    "close": 1232.85,
+    "volume": 2240122703,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Aug-2024",
+    "open": 1232.2,
+    "high": 1273,
+    "low": 1189.35,
+    "close": 1255,
+    "volume": 964863443,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Aug-2024",
+    "open": 1265,
+    "high": 1305,
+    "low": 1237.85,
+    "close": 1286,
+    "volume": 765622155,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Aug-2024",
+    "open": 1290,
+    "high": 1290,
+    "low": 1260,
+    "close": 1275.15,
+    "volume": 274787067,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Aug-2024",
+    "open": 1283.95,
+    "high": 1303.7,
+    "low": 1250,
+    "close": 1251,
+    "volume": 269847663,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Aug-2024",
+    "open": 1258.4,
+    "high": 1284.35,
+    "low": 1235,
+    "close": 1251,
+    "volume": 289796296,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Aug-2024",
+    "open": 1252.7,
+    "high": 1264.85,
+    "low": 1236.4,
+    "close": 1238,
+    "volume": 181185011,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Sep-2024",
+    "open": 1242.2,
+    "high": 1244.8,
+    "low": 1170.45,
+    "close": 1207.25,
+    "volume": 330740639,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Sep-2024",
+    "open": 1209.6,
+    "high": 1227.4,
+    "low": 1184,
+    "close": 1191.1,
+    "volume": 301368263,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Sep-2024",
+    "open": 1175,
+    "high": 1200,
+    "low": 1142,
+    "close": 1149.65,
+    "volume": 362217220,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Sep-2024",
+    "open": 1154.75,
+    "high": 1176,
+    "low": 1150,
+    "close": 1164.95,
+    "volume": 125173267,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Sep-2024",
+    "open": 1165.95,
+    "high": 1179.75,
+    "low": 1145.45,
+    "close": 1161.5,
+    "volume": 142208349,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Sep-2024",
+    "open": 1159,
+    "high": 1170,
+    "low": 1098,
+    "close": 1126.15,
+    "volume": 200527252,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Sep-2024",
+    "open": 1125,
+    "high": 1164.2,
+    "low": 1111,
+    "close": 1140.25,
+    "volume": 131454603,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Sep-2024",
+    "open": 1141,
+    "high": 1151.7,
+    "low": 1128.85,
+    "close": 1129,
+    "volume": 76353413,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Sep-2024",
+    "open": 1135.95,
+    "high": 1195,
+    "low": 1120.55,
+    "close": 1166,
+    "volume": 215574251,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Sep-2024",
+    "open": 1170.75,
+    "high": 1199.9,
+    "low": 1151.1,
+    "close": 1183,
+    "volume": 182471190,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Sep-2024",
+    "open": 1190,
+    "high": 1212.9,
+    "low": 1165,
+    "close": 1174.9,
+    "volume": 242652131,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Sep-2024",
+    "open": 1185.7,
+    "high": 1208.9,
+    "low": 1157.2,
+    "close": 1202,
+    "volume": 233758525,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Sep-2024",
+    "open": 1202,
+    "high": 1223.55,
+    "low": 1173.95,
+    "close": 1178.5,
+    "volume": 257665483,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Sep-2024",
+    "open": 1197.9,
+    "high": 1197.9,
+    "low": 1134,
+    "close": 1159,
+    "volume": 226256522,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Sep-2024",
+    "open": 1154.95,
+    "high": 1186.95,
+    "low": 1140.05,
+    "close": 1180,
+    "volume": 360279524,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Sep-2024",
+    "open": 1179.9,
+    "high": 1188.9,
+    "low": 1156.15,
+    "close": 1177,
+    "volume": 252574898,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Sep-2024",
+    "open": 1187,
+    "high": 1221,
+    "low": 1168.3,
+    "close": 1201,
+    "volume": 140227699,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Sep-2024",
+    "open": 1202.05,
+    "high": 1204.7,
+    "low": 1161.1,
+    "close": 1163,
+    "volume": 170128108,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Sep-2024",
+    "open": 1175,
+    "high": 1175,
+    "low": 1150,
+    "close": 1153.35,
+    "volume": 159963843,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Sep-2024",
+    "open": 1151.85,
+    "high": 1195.8,
+    "low": 1151.85,
+    "close": 1190,
+    "volume": 274206301,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Sep-2024",
+    "open": 1198,
+    "high": 1198,
+    "low": 1140,
+    "close": 1148,
+    "volume": 184159427,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Oct-2024",
+    "open": 1155,
+    "high": 1164.75,
+    "low": 1136.6,
+    "close": 1160.1,
+    "volume": 181454598,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Oct-2024",
+    "open": 1152.95,
+    "high": 1152.95,
+    "low": 1116.65,
+    "close": 1130,
+    "volume": 143982863,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Oct-2024",
+    "open": 1144.75,
+    "high": 1144.75,
+    "low": 1101,
+    "close": 1140,
+    "volume": 134136787,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Oct-2024",
+    "open": 1157.95,
+    "high": 1157.95,
+    "low": 1073,
+    "close": 1084,
+    "volume": 258728082,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Oct-2024",
+    "open": 1079.9,
+    "high": 1136,
+    "low": 1001.1,
+    "close": 1130,
+    "volume": 157015064,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Oct-2024",
+    "open": 1117.05,
+    "high": 1132.8,
+    "low": 1106.15,
+    "close": 1122,
+    "volume": 124254857,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Oct-2024",
+    "open": 1134.95,
+    "high": 1137.95,
+    "low": 1106.5,
+    "close": 1132,
+    "volume": 539362154,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Oct-2024",
+    "open": 1120,
+    "high": 1138.9,
+    "low": 1110,
+    "close": 1135.85,
+    "volume": 167011718,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Oct-2024",
+    "open": 1136.6,
+    "high": 1136.6,
+    "low": 1100,
+    "close": 1106,
+    "volume": 217559649,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Oct-2024",
+    "open": 1107,
+    "high": 1134,
+    "low": 1098.05,
+    "close": 1127.4,
+    "volume": 172725876,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Oct-2024",
+    "open": 1138,
+    "high": 1148.95,
+    "low": 1112,
+    "close": 1112,
+    "volume": 73645860,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Oct-2024",
+    "open": 1117.35,
+    "high": 1149,
+    "low": 1101.05,
+    "close": 1142.95,
+    "volume": 136590795,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Oct-2024",
+    "open": 1125.35,
+    "high": 1133.3,
+    "low": 1105.05,
+    "close": 1113,
+    "volume": 54428554,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Oct-2024",
+    "open": 1121.95,
+    "high": 1122,
+    "low": 1070,
+    "close": 1081.4,
+    "volume": 65208683,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Oct-2024",
+    "open": 1085,
+    "high": 1090,
+    "low": 1035.1,
+    "close": 1043,
+    "volume": 284958125,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Oct-2024",
+    "open": 1040.1,
+    "high": 1045,
+    "low": 1008.85,
+    "close": 1032.15,
+    "volume": 60209458,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Oct-2024",
+    "open": 1020.5,
+    "high": 1028.9,
+    "low": 990.4,
+    "close": 1023.7,
+    "volume": 152298566,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Oct-2024",
+    "open": 1015,
+    "high": 1019.95,
+    "low": 970.3,
+    "close": 986,
+    "volume": 162619028,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Oct-2024",
+    "open": 1013.9,
+    "high": 1023.75,
+    "low": 977.45,
+    "close": 1005.65,
+    "volume": 88712349,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Oct-2024",
+    "open": 1034,
+    "high": 1034,
+    "low": 1000.6,
+    "close": 1021,
+    "volume": 58797950,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Oct-2024",
+    "open": 1008.05,
+    "high": 1050.3,
+    "low": 1004.55,
+    "close": 1050,
+    "volume": 75897181,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Oct-2024",
+    "open": 1050,
+    "high": 1058.95,
+    "low": 1023.45,
+    "close": 1051.55,
+    "volume": 147716365,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Nov-2024",
+    "open": 1060,
+    "high": 1088,
+    "low": 1052.35,
+    "close": 1068,
+    "volume": 18692311,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Nov-2024",
+    "open": 1065,
+    "high": 1078.4,
+    "low": 1038.05,
+    "close": 1056,
+    "volume": 58017482,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Nov-2024",
+    "open": 1053.4,
+    "high": 1075.75,
+    "low": 1033.1,
+    "close": 1071.7,
+    "volume": 80232660,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Nov-2024",
+    "open": 1055.15,
+    "high": 1127,
+    "low": 1055.15,
+    "close": 1118,
+    "volume": 294395691,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Nov-2024",
+    "open": 1123.9,
+    "high": 1175,
+    "low": 1099.35,
+    "close": 1148,
+    "volume": 281633342,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Nov-2024",
+    "open": 1169,
+    "high": 1169,
+    "low": 1119.15,
+    "close": 1133,
+    "volume": 106553103,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Nov-2024",
+    "open": 1160,
+    "high": 1160,
+    "low": 1105.75,
+    "close": 1111.35,
+    "volume": 125983822,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Nov-2024",
+    "open": 1122.5,
+    "high": 1122.5,
+    "low": 1075.15,
+    "close": 1089,
+    "volume": 110116460,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Nov-2024",
+    "open": 1080,
+    "high": 1097.9,
+    "low": 1040.75,
+    "close": 1057,
+    "volume": 117039841,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Nov-2024",
+    "open": 1045.5,
+    "high": 1155,
+    "low": 1045.5,
+    "close": 1100,
+    "volume": 696303177,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Nov-2024",
+    "open": 1106.9,
+    "high": 1118.35,
+    "low": 1084.05,
+    "close": 1098,
+    "volume": 242741997,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Nov-2024",
+    "open": 1098.5,
+    "high": 1205,
+    "low": 1075,
+    "close": 1168,
+    "volume": 896855525,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Nov-2024",
+    "open": 1171,
+    "high": 1230,
+    "low": 1154.15,
+    "close": 1215,
+    "volume": 850511605,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Nov-2024",
+    "open": 1232.3,
+    "high": 1270,
+    "low": 1182.05,
+    "close": 1230,
+    "volume": 663797507,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Nov-2024",
+    "open": 1255,
+    "high": 1275,
+    "low": 1205.05,
+    "close": 1212,
+    "volume": 279298059,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Nov-2024",
+    "open": 1218.75,
+    "high": 1251,
+    "low": 1195.4,
+    "close": 1235,
+    "volume": 366116822,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Nov-2024",
+    "open": 1239.3,
+    "high": 1279.6,
+    "low": 1219.85,
+    "close": 1248,
+    "volume": 357974176,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Nov-2024",
+    "open": 1253,
+    "high": 1254.6,
+    "low": 1216.05,
+    "close": 1235.1,
+    "volume": 384694756,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Nov-2024",
+    "open": 1249.95,
+    "high": 1268,
+    "low": 1231,
+    "close": 1243.95,
+    "volume": 239745240,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Dec-2024",
+    "open": 1230,
+    "high": 1288.95,
+    "low": 1221,
+    "close": 1270,
+    "volume": 493468874,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Dec-2024",
+    "open": 1274.85,
+    "high": 1330,
+    "low": 1251.8,
+    "close": 1329.9,
+    "volume": 1418479200,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Dec-2024",
+    "open": 1330,
+    "high": 1340,
+    "low": 1301,
+    "close": 1330,
+    "volume": 444830493,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Dec-2024",
+    "open": 1345,
+    "high": 1399,
+    "low": 1330.75,
+    "close": 1358.1,
+    "volume": 1193304595,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Dec-2024",
+    "open": 1370,
+    "high": 1383.3,
+    "low": 1336.25,
+    "close": 1340,
+    "volume": 386119128,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Dec-2024",
+    "open": 1340,
+    "high": 1352.65,
+    "low": 1315.55,
+    "close": 1333.9,
+    "volume": 529226297,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Dec-2024",
+    "open": 1332.6,
+    "high": 1344.4,
+    "low": 1300,
+    "close": 1301.2,
+    "volume": 233505172,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Dec-2024",
+    "open": 1304.2,
+    "high": 1342,
+    "low": 1304.15,
+    "close": 1317,
+    "volume": 454122024,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Dec-2024",
+    "open": 1322.65,
+    "high": 1325.25,
+    "low": 1260,
+    "close": 1266.6,
+    "volume": 386450986,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Dec-2024",
+    "open": 1267.8,
+    "high": 1279.45,
+    "low": 1243,
+    "close": 1254.8,
+    "volume": 331653730,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Dec-2024",
+    "open": 1258.15,
+    "high": 1332,
+    "low": 1257.95,
+    "close": 1305,
+    "volume": 703410607,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Dec-2024",
+    "open": 1305.9,
+    "high": 1462.8,
+    "low": 1299.05,
+    "close": 1455,
+    "volume": 4340434922,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Dec-2024",
+    "open": 1460,
+    "high": 1504.3,
+    "low": 1380.5,
+    "close": 1400,
+    "volume": 3300649229,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Dec-2024",
+    "open": 1373.6,
+    "high": 1405.05,
+    "low": 1361.05,
+    "close": 1370,
+    "volume": 532846470,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Dec-2024",
+    "open": 1384.75,
+    "high": 1411.85,
+    "low": 1319.05,
+    "close": 1341.15,
+    "volume": 798805548,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Dec-2024",
+    "open": 1348,
+    "high": 1373.5,
+    "low": 1332.6,
+    "close": 1350.15,
+    "volume": 445574778,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Dec-2024",
+    "open": 1367.3,
+    "high": 1383.85,
+    "low": 1344.05,
+    "close": 1350,
+    "volume": 355020535,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Dec-2024",
+    "open": 1350,
+    "high": 1378.2,
+    "low": 1327.9,
+    "close": 1343.95,
+    "volume": 367836678,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Dec-2024",
+    "open": 1357.05,
+    "high": 1386,
+    "low": 1335.8,
+    "close": 1379,
+    "volume": 374055323,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Dec-2024",
+    "open": 1378.65,
+    "high": 1416.45,
+    "low": 1359.15,
+    "close": 1375.6,
+    "volume": 1149415726,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Dec-2024",
+    "open": 1370,
+    "high": 1370,
+    "low": 1331.05,
+    "close": 1350,
+    "volume": 330553457,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Jan-2025",
+    "open": 1350,
+    "high": 1369,
+    "low": 1320.05,
+    "close": 1331,
+    "volume": 393371742,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Jan-2025",
+    "open": 1345.2,
+    "high": 1393,
+    "low": 1340,
+    "close": 1384,
+    "volume": 739801716,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Jan-2025",
+    "open": 1391,
+    "high": 1391,
+    "low": 1347.55,
+    "close": 1370,
+    "volume": 327298937,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Jan-2025",
+    "open": 1392.45,
+    "high": 1407.95,
+    "low": 1330,
+    "close": 1350,
+    "volume": 658103055,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Jan-2025",
+    "open": 1365,
+    "high": 1385,
+    "low": 1353.8,
+    "close": 1361,
+    "volume": 620562981,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Jan-2025",
+    "open": 1373.25,
+    "high": 1373.25,
+    "low": 1302,
+    "close": 1365,
+    "volume": 456711461,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Jan-2025",
+    "open": 1366,
+    "high": 1366,
+    "low": 1303,
+    "close": 1307,
+    "volume": 273420065,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Jan-2025",
+    "open": 1305,
+    "high": 1310.15,
+    "low": 1250,
+    "close": 1250.7,
+    "volume": 277598691,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Jan-2025",
+    "open": 1230,
+    "high": 1239.95,
+    "low": 1152.25,
+    "close": 1169.5,
+    "volume": 403693795,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Jan-2025",
+    "open": 1165.25,
+    "high": 1217.2,
+    "low": 1159.5,
+    "close": 1212,
+    "volume": 385415157,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Jan-2025",
+    "open": 1208,
+    "high": 1233.3,
+    "low": 1163.85,
+    "close": 1192,
+    "volume": 423718040,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Jan-2025",
+    "open": 1195.15,
+    "high": 1264.45,
+    "low": 1195,
+    "close": 1222.2,
+    "volume": 299829725,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Jan-2025",
+    "open": 1222.5,
+    "high": 1242.75,
+    "low": 1203.1,
+    "close": 1238.2,
+    "volume": 173571525,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Jan-2025",
+    "open": 1255.2,
+    "high": 1300,
+    "low": 1252.95,
+    "close": 1300,
+    "volume": 476937783,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Jan-2025",
+    "open": 1284.8,
+    "high": 1293,
+    "low": 1238.25,
+    "close": 1252.05,
+    "volume": 327218855,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Jan-2025",
+    "open": 1254.6,
+    "high": 1257.15,
+    "low": 1180.6,
+    "close": 1215,
+    "volume": 400814022,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Jan-2025",
+    "open": 1210,
+    "high": 1254.4,
+    "low": 1194.3,
+    "close": 1218.5,
+    "volume": 240043432,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Jan-2025",
+    "open": 1219.65,
+    "high": 1219.65,
+    "low": 1124.05,
+    "close": 1131,
+    "volume": 398526564,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Jan-2025",
+    "open": 1118.8,
+    "high": 1118.8,
+    "low": 1041.6,
+    "close": 1052,
+    "volume": 506056289,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Jan-2025",
+    "open": 1035.45,
+    "high": 1067.25,
+    "low": 904.15,
+    "close": 989.95,
+    "volume": 1278400353,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Jan-2025",
+    "open": 992.1,
+    "high": 1079.95,
+    "low": 992.1,
+    "close": 1071,
+    "volume": 409839556,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Jan-2025",
+    "open": 1071,
+    "high": 1104.9,
+    "low": 1039.05,
+    "close": 1059.9,
+    "volume": 235234330,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Jan-2025",
+    "open": 1059.9,
+    "high": 1097.45,
+    "low": 1054.25,
+    "close": 1081.65,
+    "volume": 288956270,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Feb-2025",
+    "open": 1075.85,
+    "high": 1104.9,
+    "low": 1021.55,
+    "close": 1045,
+    "volume": 177129176,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Feb-2025",
+    "open": 999.9,
+    "high": 1017.1,
+    "low": 966.2,
+    "close": 995,
+    "volume": 381120345,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Feb-2025",
+    "open": 1001.2,
+    "high": 1047.1,
+    "low": 994.35,
+    "close": 1042,
+    "volume": 236330515,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Feb-2025",
+    "open": 1048.55,
+    "high": 1136.9,
+    "low": 1045,
+    "close": 1113,
+    "volume": 683197997,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Feb-2025",
+    "open": 1100,
+    "high": 1153.3,
+    "low": 1100,
+    "close": 1128.05,
+    "volume": 562382631,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Feb-2025",
+    "open": 1135,
+    "high": 1154,
+    "low": 1120.1,
+    "close": 1145,
+    "volume": 249411324,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Feb-2025",
+    "open": 1129.15,
+    "high": 1134.15,
+    "low": 1021.05,
+    "close": 1090,
+    "volume": 2097424539,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Feb-2025",
+    "open": 1095,
+    "high": 1095,
+    "low": 1051.2,
+    "close": 1075.25,
+    "volume": 572115146,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Feb-2025",
+    "open": 1059.25,
+    "high": 1098,
+    "low": 1047.25,
+    "close": 1055.2,
+    "volume": 582193962,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Feb-2025",
+    "open": 1058,
+    "high": 1086.9,
+    "low": 1048.1,
+    "close": 1057,
+    "volume": 390586434,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Feb-2025",
+    "open": 1063,
+    "high": 1076.4,
+    "low": 947.4,
+    "close": 955,
+    "volume": 628518358,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Feb-2025",
+    "open": 958.1,
+    "high": 1017.7,
+    "low": 936.4,
+    "close": 958,
+    "volume": 965341867,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Feb-2025",
+    "open": 964,
+    "high": 976.95,
+    "low": 891.35,
+    "close": 898,
+    "volume": 458844958,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Feb-2025",
+    "open": 898.95,
+    "high": 933.85,
+    "low": 877.8,
+    "close": 893.05,
+    "volume": 476821212,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Feb-2025",
+    "open": 896.05,
+    "high": 918.8,
+    "low": 875,
+    "close": 886.95,
+    "volume": 314348452,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Feb-2025",
+    "open": 885.9,
+    "high": 947.35,
+    "low": 883.3,
+    "close": 892.95,
+    "volume": 688084636,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Feb-2025",
+    "open": 893,
+    "high": 893,
+    "low": 828.45,
+    "close": 847,
+    "volume": 664576817,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Feb-2025",
+    "open": 844.45,
+    "high": 872,
+    "low": 832.9,
+    "close": 845.1,
+    "volume": 455344197,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Feb-2025",
+    "open": 846.25,
+    "high": 848.5,
+    "low": 782.25,
+    "close": 795,
+    "volume": 520312808,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Feb-2025",
+    "open": 794.95,
+    "high": 818,
+    "low": 750.1,
+    "close": 806,
+    "volume": 2147863151,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Mar-2025",
+    "open": 808.85,
+    "high": 817.8,
+    "low": 764,
+    "close": 769.95,
+    "volume": 549094860,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Mar-2025",
+    "open": 760.1,
+    "high": 885,
+    "low": 760.1,
+    "close": 857.5,
+    "volume": 6252837871,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Mar-2025",
+    "open": 860.8,
+    "high": 881.55,
+    "low": 826.95,
+    "close": 828.6,
+    "volume": 882224368,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Mar-2025",
+    "open": 833.3,
+    "high": 927.7,
+    "low": 832.9,
+    "close": 916.35,
+    "volume": 3819686459,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Mar-2025",
+    "open": 919.9,
+    "high": 977.7,
+    "low": 902.65,
+    "close": 971,
+    "volume": 1582463526,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Mar-2025",
+    "open": 965,
+    "high": 1028.7,
+    "low": 945.75,
+    "close": 975.65,
+    "volume": 2549123438,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Mar-2025",
+    "open": 944,
+    "high": 965,
+    "low": 907.85,
+    "close": 956.05,
+    "volume": 1994845795,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Mar-2025",
+    "open": 962.3,
+    "high": 992,
+    "low": 951.15,
+    "close": 971,
+    "volume": 578213488,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Mar-2025",
+    "open": 980.9,
+    "high": 1009,
+    "low": 977,
+    "close": 997.8,
+    "volume": 886588779,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Mar-2025",
+    "open": 1001,
+    "high": 1049,
+    "low": 987.1,
+    "close": 1011.5,
+    "volume": 734193057,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Mar-2025",
+    "open": 1020.5,
+    "high": 1057,
+    "low": 1020.25,
+    "close": 1049,
+    "volume": 499549068,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Mar-2025",
+    "open": 1051,
+    "high": 1081.95,
+    "low": 1041,
+    "close": 1073.1,
+    "volume": 553161367,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Mar-2025",
+    "open": 1081.7,
+    "high": 1084.8,
+    "low": 1040.45,
+    "close": 1055,
+    "volume": 355403056,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Mar-2025",
+    "open": 1056.8,
+    "high": 1156,
+    "low": 1017,
+    "close": 1156,
+    "volume": 4473420851,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Mar-2025",
+    "open": 1150,
+    "high": 1170,
+    "low": 1092.35,
+    "close": 1103,
+    "volume": 743820833,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Mar-2025",
+    "open": 1120.1,
+    "high": 1133.95,
+    "low": 1081,
+    "close": 1095,
+    "volume": 430244405,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Mar-2025",
+    "open": 1091.1,
+    "high": 1107.8,
+    "low": 1030,
+    "close": 1045,
+    "volume": 477931722,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Mar-2025",
+    "open": 1041,
+    "high": 1072.75,
+    "low": 1031.1,
+    "close": 1065,
+    "volume": 467126460,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Mar-2025",
+    "open": 1065,
+    "high": 1093.85,
+    "low": 1050,
+    "close": 1058.15,
+    "volume": 354529175,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Apr-2025",
+    "open": 1050,
+    "high": 1080,
+    "low": 1028.7,
+    "close": 1080,
+    "volume": 229405881,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Apr-2025",
+    "open": 1073.1,
+    "high": 1089.8,
+    "low": 1046.15,
+    "close": 1089.8,
+    "volume": 150468128,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Apr-2025",
+    "open": 1078.5,
+    "high": 1097.7,
+    "low": 1050.15,
+    "close": 1059.9,
+    "volume": 250440226,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Apr-2025",
+    "open": 1051.45,
+    "high": 1064.65,
+    "low": 1009.1,
+    "close": 1025,
+    "volume": 276401370,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Apr-2025",
+    "open": 890,
+    "high": 986,
+    "low": 890,
+    "close": 978.45,
+    "volume": 379028658,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Apr-2025",
+    "open": 999.9,
+    "high": 1027.75,
+    "low": 976.1,
+    "close": 986.9,
+    "volume": 491373596,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Apr-2025",
+    "open": 978,
+    "high": 982.45,
+    "low": 950.2,
+    "close": 976,
+    "volume": 241416569,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Apr-2025",
+    "open": 1015.75,
+    "high": 1023.45,
+    "low": 993.5,
+    "close": 1015,
+    "volume": 632781140,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Apr-2025",
+    "open": 1020,
+    "high": 1081.3,
+    "low": 1019.5,
+    "close": 1065,
+    "volume": 304683442,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Apr-2025",
+    "open": 1072,
+    "high": 1084.9,
+    "low": 1061,
+    "close": 1080,
+    "volume": 294992774,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Apr-2025",
+    "open": 1080,
+    "high": 1091.7,
+    "low": 1063.5,
+    "close": 1073.3,
+    "volume": 274098085,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Apr-2025",
+    "open": 1077,
+    "high": 1078.2,
+    "low": 1053.2,
+    "close": 1060.7,
+    "volume": 182850294,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Apr-2025",
+    "open": 1068.8,
+    "high": 1105.3,
+    "low": 1055.7,
+    "close": 1090.6,
+    "volume": 334922078,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Apr-2025",
+    "open": 1098.7,
+    "high": 1119,
+    "low": 1077.5,
+    "close": 1113,
+    "volume": 296068476,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Apr-2025",
+    "open": 1106.2,
+    "high": 1125,
+    "low": 1102.4,
+    "close": 1118.1,
+    "volume": 193134808,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Apr-2025",
+    "open": 1118,
+    "high": 1124.9,
+    "low": 1055.9,
+    "close": 1083,
+    "volume": 348650618,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Apr-2025",
+    "open": 1082.7,
+    "high": 1105,
+    "low": 1075,
+    "close": 1090,
+    "volume": 177568826,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Apr-2025",
+    "open": 1091,
+    "high": 1121,
+    "low": 1087,
+    "close": 1088,
+    "volume": 196638024,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Apr-2025",
+    "open": 1088.5,
+    "high": 1089.8,
+    "low": 1061.6,
+    "close": 1080,
+    "volume": 163452650,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-May-2025",
+    "open": 1076.6,
+    "high": 1113.2,
+    "low": 1071.6,
+    "close": 1106.5,
+    "volume": 233271677,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-May-2025",
+    "open": 1115,
+    "high": 1173.9,
+    "low": 1114.3,
+    "close": 1165,
+    "volume": 694553112,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-May-2025",
+    "open": 1176.6,
+    "high": 1187,
+    "low": 1129,
+    "close": 1130,
+    "volume": 626248009,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-May-2025",
+    "open": 1095.1,
+    "high": 1179.8,
+    "low": 1095.1,
+    "close": 1172,
+    "volume": 492466716,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-May-2025",
+    "open": 1175.1,
+    "high": 1221,
+    "low": 1173.6,
+    "close": 1177,
+    "volume": 732872589,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-May-2025",
+    "open": 1154.5,
+    "high": 1169.1,
+    "low": 1121.4,
+    "close": 1137,
+    "volume": 300319374,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-May-2025",
+    "open": 1154.9,
+    "high": 1200,
+    "low": 1154.9,
+    "close": 1177,
+    "volume": 275871059,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-May-2025",
+    "open": 1179,
+    "high": 1248,
+    "low": 1160,
+    "close": 1231,
+    "volume": 664547181,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-May-2025",
+    "open": 1241.9,
+    "high": 1248,
+    "low": 1218.4,
+    "close": 1236.5,
+    "volume": 294891154,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-May-2025",
+    "open": 1239.8,
+    "high": 1258,
+    "low": 1221.7,
+    "close": 1252,
+    "volume": 365307928,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-May-2025",
+    "open": 1250,
+    "high": 1269.9,
+    "low": 1225.2,
+    "close": 1251,
+    "volume": 456663938,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-May-2025",
+    "open": 1258.8,
+    "high": 1268.9,
+    "low": 1246.3,
+    "close": 1259,
+    "volume": 117950491,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-May-2025",
+    "open": 1264,
+    "high": 1272.4,
+    "low": 1210.5,
+    "close": 1218,
+    "volume": 210592915,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-May-2025",
+    "open": 1217.2,
+    "high": 1230.7,
+    "low": 1183,
+    "close": 1191.5,
+    "volume": 282573643,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-May-2025",
+    "open": 1194,
+    "high": 1230.3,
+    "low": 1190.6,
+    "close": 1221,
+    "volume": 200374932,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-May-2025",
+    "open": 1225,
+    "high": 1244.4,
+    "low": 1195,
+    "close": 1237.5,
+    "volume": 244034544,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-May-2025",
+    "open": 1260,
+    "high": 1277.9,
+    "low": 1224.6,
+    "close": 1249,
+    "volume": 415181747,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-May-2025",
+    "open": 1246.1,
+    "high": 1277,
+    "low": 1228,
+    "close": 1237,
+    "volume": 776319309,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-May-2025",
+    "open": 1243.2,
+    "high": 1267.6,
+    "low": 1230,
+    "close": 1240,
+    "volume": 266859206,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-May-2025",
+    "open": 1245,
+    "high": 1249.1,
+    "low": 1224.1,
+    "close": 1239.5,
+    "volume": 152999405,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-May-2025",
+    "open": 1245,
+    "high": 1305,
+    "low": 1235.9,
+    "close": 1292.7,
+    "volume": 1326545182,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Jun-2025",
+    "open": 1305.9,
+    "high": 1330,
+    "low": 1275,
+    "close": 1308.9,
+    "volume": 508053902,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Jun-2025",
+    "open": 1314.9,
+    "high": 1320.3,
+    "low": 1290,
+    "close": 1298.7,
+    "volume": 372993107,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Jun-2025",
+    "open": 1299.8,
+    "high": 1318,
+    "low": 1294.4,
+    "close": 1307.5,
+    "volume": 171591368,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Jun-2025",
+    "open": 1314.9,
+    "high": 1326,
+    "low": 1283.8,
+    "close": 1294,
+    "volume": 217429800,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Jun-2025",
+    "open": 1294,
+    "high": 1298.4,
+    "low": 1200.6,
+    "close": 1215,
+    "volume": 773773869,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Jun-2025",
+    "open": 1222,
+    "high": 1254,
+    "low": 1209.6,
+    "close": 1240,
+    "volume": 357246598,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Jun-2025",
+    "open": 1246,
+    "high": 1262.8,
+    "low": 1221,
+    "close": 1227,
+    "volume": 223961561,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Jun-2025",
+    "open": 1230,
+    "high": 1232,
+    "low": 1167,
+    "close": 1174.9,
+    "volume": 503639055,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Jun-2025",
+    "open": 1174.7,
+    "high": 1193,
+    "low": 1147,
+    "close": 1148.3,
+    "volume": 255072370,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Jun-2025",
+    "open": 1120,
+    "high": 1159.9,
+    "low": 1111,
+    "close": 1140,
+    "volume": 118421509,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Jun-2025",
+    "open": 1140,
+    "high": 1158,
+    "low": 1118,
+    "close": 1135,
+    "volume": 160254869,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Jun-2025",
+    "open": 1136.3,
+    "high": 1143.1,
+    "low": 1110.6,
+    "close": 1118.1,
+    "volume": 181582657,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Jun-2025",
+    "open": 1115,
+    "high": 1149,
+    "low": 1106,
+    "close": 1120.3,
+    "volume": 163945883,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Jun-2025",
+    "open": 1124.9,
+    "high": 1132.4,
+    "low": 1097,
+    "close": 1099.4,
+    "volume": 153021573,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Jun-2025",
+    "open": 1103.2,
+    "high": 1122,
+    "low": 1080,
+    "close": 1091,
+    "volume": 844530747,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Jun-2025",
+    "open": 1092.3,
+    "high": 1140.2,
+    "low": 1089,
+    "close": 1133.8,
+    "volume": 241599426,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Jun-2025",
+    "open": 1142,
+    "high": 1147.9,
+    "low": 1108,
+    "close": 1116.8,
+    "volume": 302435903,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Jun-2025",
+    "open": 1118.1,
+    "high": 1142.2,
+    "low": 1109.2,
+    "close": 1131.1,
+    "volume": 223501751,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Jun-2025",
+    "open": 1130.3,
+    "high": 1134,
+    "low": 1116.9,
+    "close": 1130.1,
+    "volume": 155131575,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Jun-2025",
+    "open": 1140.2,
+    "high": 1143.9,
+    "low": 1120,
+    "close": 1125,
+    "volume": 132361007,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Jun-2025",
+    "open": 1120,
+    "high": 1120,
+    "low": 1052.2,
+    "close": 1061,
+    "volume": 19740220128,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Jul-2025",
+    "open": 1065,
+    "high": 1075.9,
+    "low": 1056.1,
+    "close": 1063.5,
+    "volume": 456035435,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Jul-2025",
+    "open": 1066.9,
+    "high": 1069.6,
+    "low": 1035,
+    "close": 1052,
+    "volume": 592300124,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Jul-2025",
+    "open": 1057,
+    "high": 1060,
+    "low": 1019,
+    "close": 1027,
+    "volume": 553405264,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Jul-2025",
+    "open": 1025,
+    "high": 1051.8,
+    "low": 1025,
+    "close": 1036,
+    "volume": 401968770,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Jul-2025",
+    "open": 1043,
+    "high": 1053.5,
+    "low": 1026.7,
+    "close": 1031.2,
+    "volume": 185625129,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Jul-2025",
+    "open": 1039.3,
+    "high": 1039.3,
+    "low": 1011.8,
+    "close": 1029.9,
+    "volume": 208484355,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Jul-2025",
+    "open": 1031,
+    "high": 1049.9,
+    "low": 1010.2,
+    "close": 1017,
+    "volume": 476421034,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Jul-2025",
+    "open": 1019,
+    "high": 1034.9,
+    "low": 1014,
+    "close": 1027,
+    "volume": 430492457,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Jul-2025",
+    "open": 1030,
+    "high": 1037.1,
+    "low": 1011,
+    "close": 1013.5,
+    "volume": 180243668,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Jul-2025",
+    "open": 1005,
+    "high": 1033,
+    "low": 998,
+    "close": 1020,
+    "volume": 425216195,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Jul-2025",
+    "open": 1025,
+    "high": 1036,
+    "low": 1016.2,
+    "close": 1025.1,
+    "volume": 333233396,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Jul-2025",
+    "open": 1025,
+    "high": 1047.5,
+    "low": 1020.3,
+    "close": 1035,
+    "volume": 294298991,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Jul-2025",
+    "open": 1042,
+    "high": 1058.5,
+    "low": 1029.3,
+    "close": 1031.8,
+    "volume": 302186675,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Jul-2025",
+    "open": 1045,
+    "high": 1045,
+    "low": 1018.1,
+    "close": 1022,
+    "volume": 196247311,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Jul-2025",
+    "open": 1028.9,
+    "high": 1084,
+    "low": 1020,
+    "close": 1074,
+    "volume": 1564076367,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Jul-2025",
+    "open": 1078.1,
+    "high": 1081.7,
+    "low": 1055.1,
+    "close": 1057,
+    "volume": 233809369,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Jul-2025",
+    "open": 1050,
+    "high": 1059.7,
+    "low": 1026.1,
+    "close": 1032.7,
+    "volume": 301257659,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Jul-2025",
+    "open": 1034.4,
+    "high": 1050,
+    "low": 1021.1,
+    "close": 1028.9,
+    "volume": 379848663,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Jul-2025",
+    "open": 1028.4,
+    "high": 1044.7,
+    "low": 1023.1,
+    "close": 1036.8,
+    "volume": 331479163,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Jul-2025",
+    "open": 1042.9,
+    "high": 1042.9,
+    "low": 1008.1,
+    "close": 1017.5,
+    "volume": 285697636,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Jul-2025",
+    "open": 1017.8,
+    "high": 1038.6,
+    "low": 1002.2,
+    "close": 1031.1,
+    "volume": 113097550,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Jul-2025",
+    "open": 1030,
+    "high": 1053,
+    "low": 1016.5,
+    "close": 1046.5,
+    "volume": 375586127,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Jul-2025",
+    "open": 1044.5,
+    "high": 1044.5,
+    "low": 1015.2,
+    "close": 1019,
+    "volume": 112736190,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Aug-2025",
+    "open": 1015.5,
+    "high": 1024.2,
+    "low": 1005,
+    "close": 1017.7,
+    "volume": 123128286,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Aug-2025",
+    "open": 1019.7,
+    "high": 1034,
+    "low": 1005.6,
+    "close": 1024,
+    "volume": 104600563,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Aug-2025",
+    "open": 1034.7,
+    "high": 1038.6,
+    "low": 1013.6,
+    "close": 1025.6,
+    "volume": 92106663,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Aug-2025",
+    "open": 1020,
+    "high": 1031.5,
+    "low": 977.5,
+    "close": 983.8,
+    "volume": 393610445,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Aug-2025",
+    "open": 983.8,
+    "high": 985,
+    "low": 943.3,
+    "close": 970.6,
+    "volume": 273169963,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Aug-2025",
+    "open": 984.7,
+    "high": 984.7,
+    "low": 939.4,
+    "close": 942,
+    "volume": 205997163,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Aug-2025",
+    "open": 953.1,
+    "high": 954.3,
+    "low": 908.7,
+    "close": 910.5,
+    "volume": 372444104,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Aug-2025",
+    "open": 911.2,
+    "high": 924,
+    "low": 884.9,
+    "close": 886,
+    "volume": 393027578,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Aug-2025",
+    "open": 888,
+    "high": 942.4,
+    "low": 881,
+    "close": 935,
+    "volume": 696055431,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Aug-2025",
+    "open": 936,
+    "high": 936,
+    "low": 913.2,
+    "close": 916.5,
+    "volume": 193331664,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Aug-2025",
+    "open": 929.4,
+    "high": 935.1,
+    "low": 910.2,
+    "close": 925,
+    "volume": 120255482,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Aug-2025",
+    "open": 926.1,
+    "high": 967,
+    "low": 926.1,
+    "close": 943,
+    "volume": 327392829,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Aug-2025",
+    "open": 935.9,
+    "high": 953.1,
+    "low": 935,
+    "close": 949.8,
+    "volume": 80891439,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Aug-2025",
+    "open": 949.3,
+    "high": 972.8,
+    "low": 943,
+    "close": 956,
+    "volume": 166474576,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Aug-2025",
+    "open": 960,
+    "high": 963.3,
+    "low": 947.1,
+    "close": 956,
+    "volume": 78139221,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Aug-2025",
+    "open": 954,
+    "high": 956.8,
+    "low": 937.3,
+    "close": 948.1,
+    "volume": 138737678,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Aug-2025",
+    "open": 950.3,
+    "high": 951,
+    "low": 920.1,
+    "close": 923.9,
+    "volume": 124255772,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Aug-2025",
+    "open": 919.1,
+    "high": 925.5,
+    "low": 895.3,
+    "close": 899,
+    "volume": 232994320,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Aug-2025",
+    "open": 904.9,
+    "high": 918.2,
+    "low": 899,
+    "close": 912,
+    "volume": 116804707,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Sep-2025",
+    "open": 916.2,
+    "high": 927.55,
+    "low": 895.1,
+    "close": 898,
+    "volume": 493513111,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Sep-2025",
+    "open": 899,
+    "high": 925.4,
+    "low": 892,
+    "close": 896.9,
+    "volume": 202048730,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Sep-2025",
+    "open": 901.95,
+    "high": 915.55,
+    "low": 894.5,
+    "close": 896.5,
+    "volume": 138491664,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Sep-2025",
+    "open": 915.2,
+    "high": 915.2,
+    "low": 881.8,
+    "close": 888,
+    "volume": 109322238,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Sep-2025",
+    "open": 888.45,
+    "high": 899,
+    "low": 881.15,
+    "close": 897,
+    "volume": 83595976,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Sep-2025",
+    "open": 900.9,
+    "high": 906.35,
+    "low": 891,
+    "close": 895,
+    "volume": 75393153,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Sep-2025",
+    "open": 899.9,
+    "high": 925,
+    "low": 887.15,
+    "close": 910,
+    "volume": 215941919,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Sep-2025",
+    "open": 911.8,
+    "high": 930.75,
+    "low": 910,
+    "close": 915,
+    "volume": 149461584,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Sep-2025",
+    "open": 918.05,
+    "high": 918.65,
+    "low": 904,
+    "close": 905,
+    "volume": 68066786,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Sep-2025",
+    "open": 910,
+    "high": 914,
+    "low": 896.5,
+    "close": 900,
+    "volume": 97458398,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Sep-2025",
+    "open": 900.15,
+    "high": 941.9,
+    "low": 900.15,
+    "close": 933,
+    "volume": 268006775,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Sep-2025",
+    "open": 939,
+    "high": 948.7,
+    "low": 925,
+    "close": 929.5,
+    "volume": 132347297,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Sep-2025",
+    "open": 938.95,
+    "high": 954,
+    "low": 932.8,
+    "close": 946,
+    "volume": 188089213,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Sep-2025",
+    "open": 956,
+    "high": 956,
+    "low": 931.6,
+    "close": 940.5,
+    "volume": 113407747,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Sep-2025",
+    "open": 941.9,
+    "high": 957.9,
+    "low": 932.5,
+    "close": 955,
+    "volume": 181236294,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Sep-2025",
+    "open": 954.9,
+    "high": 958.45,
+    "low": 933.3,
+    "close": 935,
+    "volume": 95768030,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Sep-2025",
+    "open": 938.1,
+    "high": 939.75,
+    "low": 902,
+    "close": 917.45,
+    "volume": 150601188,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Sep-2025",
+    "open": 915,
+    "high": 926.3,
+    "low": 898.05,
+    "close": 899.95,
+    "volume": 242653172,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Sep-2025",
+    "open": 900,
+    "high": 904.85,
+    "low": 885.15,
+    "close": 890,
+    "volume": 141903768,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Sep-2025",
+    "open": 894,
+    "high": 894,
+    "low": 860.7,
+    "close": 867.95,
+    "volume": 131209406,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Sep-2025",
+    "open": 878.55,
+    "high": 879.65,
+    "low": 855.15,
+    "close": 859.9,
+    "volume": 167997652,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Sep-2025",
+    "open": 868.2,
+    "high": 868.2,
+    "low": 833.35,
+    "close": 849.95,
+    "volume": 136250925,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Oct-2025",
+    "open": 849.95,
+    "high": 914.4,
+    "low": 845.95,
+    "close": 879,
+    "volume": 1313597699,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Oct-2025",
+    "open": 883.8,
+    "high": 924.4,
+    "low": 875.25,
+    "close": 924,
+    "volume": 552095605,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Oct-2025",
+    "open": 930.85,
+    "high": 946.75,
+    "low": 910.5,
+    "close": 930,
+    "volume": 671808285,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Oct-2025",
+    "open": 932.55,
+    "high": 937.65,
+    "low": 918.2,
+    "close": 935,
+    "volume": 173991636,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Oct-2025",
+    "open": 937.4,
+    "high": 938.9,
+    "low": 921.3,
+    "close": 922,
+    "volume": 205493014,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Oct-2025",
+    "open": 937.55,
+    "high": 937.55,
+    "low": 898.25,
+    "close": 915,
+    "volume": 276514977,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Oct-2025",
+    "open": 918,
+    "high": 1010,
+    "low": 913.85,
+    "close": 962.05,
+    "volume": 8822879528,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Oct-2025",
+    "open": 965,
+    "high": 965.05,
+    "low": 930.1,
+    "close": 943,
+    "volume": 743203011,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Oct-2025",
+    "open": 943.7,
+    "high": 943.95,
+    "low": 895,
+    "close": 904.05,
+    "volume": 645094096,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Oct-2025",
+    "open": 907,
+    "high": 912.35,
+    "low": 893.8,
+    "close": 909.45,
+    "volume": 442245546,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Oct-2025",
+    "open": 912.6,
+    "high": 929.9,
+    "low": 909.5,
+    "close": 920,
+    "volume": 221742084,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Oct-2025",
+    "open": 920,
+    "high": 931.5,
+    "low": 915.15,
+    "close": 919.8,
+    "volume": 187627235,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Oct-2025",
+    "open": 926.5,
+    "high": 933,
+    "low": 917.1,
+    "close": 931,
+    "volume": 116077033,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Oct-2025",
+    "open": 939,
+    "high": 939.65,
+    "low": 929.3,
+    "close": 932.75,
+    "volume": 23597903,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Oct-2025",
+    "open": 933.9,
+    "high": 942.2,
+    "low": 912.15,
+    "close": 922.6,
+    "volume": 156796997,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Oct-2025",
+    "open": 920,
+    "high": 924.9,
+    "low": 901,
+    "close": 907,
+    "volume": 179940875,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Oct-2025",
+    "open": 910.1,
+    "high": 911.05,
+    "low": 892,
+    "close": 898.6,
+    "volume": 200083300,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Oct-2025",
+    "open": 903.2,
+    "high": 903.95,
+    "low": 871.4,
+    "close": 876.55,
+    "volume": 312502885,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Oct-2025",
+    "open": 884,
+    "high": 884,
+    "low": 865.4,
+    "close": 870.2,
+    "volume": 193272358,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Oct-2025",
+    "open": 867.1,
+    "high": 876.85,
+    "low": 862.3,
+    "close": 872.95,
+    "volume": 209009123,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Oct-2025",
+    "open": 875,
+    "high": 889.6,
+    "low": 860,
+    "close": 864,
+    "volume": 306632839,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Nov-2025",
+    "open": 867,
+    "high": 896.6,
+    "low": 856.1,
+    "close": 877.35,
+    "volume": 424909101,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Nov-2025",
+    "open": 878.9,
+    "high": 948,
+    "low": 877.5,
+    "close": 937.95,
+    "volume": 3938799904,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Nov-2025",
+    "open": 940.9,
+    "high": 946.1,
+    "low": 891.45,
+    "close": 892.05,
+    "volume": 658438428,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Nov-2025",
+    "open": 896.55,
+    "high": 904.25,
+    "low": 880.3,
+    "close": 883.1,
+    "volume": 446189405,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Nov-2025",
+    "open": 889.5,
+    "high": 927.95,
+    "low": 872.2,
+    "close": 907.5,
+    "volume": 1046152413,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Nov-2025",
+    "open": 914.9,
+    "high": 979.2,
+    "low": 914,
+    "close": 951.1,
+    "volume": 4129714967,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Nov-2025",
+    "open": 956.25,
+    "high": 999.9,
+    "low": 952,
+    "close": 983,
+    "volume": 1568320152,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Nov-2025",
+    "open": 989,
+    "high": 989.25,
+    "low": 927,
+    "close": 944,
+    "volume": 915879709,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Nov-2025",
+    "open": 945.55,
+    "high": 975.65,
+    "low": 945.5,
+    "close": 955.95,
+    "volume": 425308653,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Nov-2025",
+    "open": 964.15,
+    "high": 1003.95,
+    "low": 963.9,
+    "close": 971.8,
+    "volume": 1667151662,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Nov-2025",
+    "open": 979.65,
+    "high": 987.35,
+    "low": 963.75,
+    "close": 981,
+    "volume": 516473597,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Nov-2025",
+    "open": 982,
+    "high": 995,
+    "low": 970,
+    "close": 975,
+    "volume": 264581993,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Nov-2025",
+    "open": 983.6,
+    "high": 1002.15,
+    "low": 983.6,
+    "close": 992.05,
+    "volume": 604750357,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Nov-2025",
+    "open": 995.85,
+    "high": 1003.75,
+    "low": 988.6,
+    "close": 992.1,
+    "volume": 534000624,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Nov-2025",
+    "open": 999,
+    "high": 1055.9,
+    "low": 994.95,
+    "close": 1045,
+    "volume": 3023174007,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Nov-2025",
+    "open": 1041,
+    "high": 1052.45,
+    "low": 1022.05,
+    "close": 1026.7,
+    "volume": 559555853,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Nov-2025",
+    "open": 1036.4,
+    "high": 1047,
+    "low": 1024,
+    "close": 1040.05,
+    "volume": 373560990,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Nov-2025",
+    "open": 1041.75,
+    "high": 1046.45,
+    "low": 1030,
+    "close": 1033.95,
+    "volume": 597537939,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Nov-2025",
+    "open": 1039,
+    "high": 1042.7,
+    "low": 1002,
+    "close": 1011.95,
+    "volume": 203558742,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Dec-2025",
+    "open": 1016,
+    "high": 1029,
+    "low": 981,
+    "close": 983.7,
+    "volume": 218258533,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Dec-2025",
+    "open": 983,
+    "high": 998,
+    "low": 978.6,
+    "close": 990,
+    "volume": 193916793,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Dec-2025",
+    "open": 989,
+    "high": 992.4,
+    "low": 951.2,
+    "close": 967,
+    "volume": 229407319,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Dec-2025",
+    "open": 966.4,
+    "high": 978.1,
+    "low": 955.5,
+    "close": 958.9,
+    "volume": 202492985,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Dec-2025",
+    "open": 960,
+    "high": 967.1,
+    "low": 940,
+    "close": 955.1,
+    "volume": 175003551,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Dec-2025",
+    "open": 953.6,
+    "high": 955.6,
+    "low": 900.1,
+    "close": 912,
+    "volume": 276978628,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Dec-2025",
+    "open": 911.6,
+    "high": 942.4,
+    "low": 907.8,
+    "close": 935.5,
+    "volume": 315167454,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Dec-2025",
+    "open": 935.3,
+    "high": 1006.4,
+    "low": 930.9,
+    "close": 940.3,
+    "volume": 5886756508,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Dec-2025",
+    "open": 945,
+    "high": 977.5,
+    "low": 931,
+    "close": 959.5,
+    "volume": 511461758,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Dec-2025",
+    "open": 968.9,
+    "high": 973.5,
+    "low": 953,
+    "close": 955.1,
+    "volume": 194649747,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Dec-2025",
+    "open": 953,
+    "high": 959,
+    "low": 940,
+    "close": 945,
+    "volume": 235072930,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Dec-2025",
+    "open": 945,
+    "high": 964.4,
+    "low": 940,
+    "close": 940,
+    "volume": 318265515,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Dec-2025",
+    "open": 944,
+    "high": 959.4,
+    "low": 927,
+    "close": 928.5,
+    "volume": 134448495,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Dec-2025",
+    "open": 928.1,
+    "high": 929.7,
+    "low": 908.3,
+    "close": 919,
+    "volume": 243286310,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Dec-2025",
+    "open": 923.1,
+    "high": 963,
+    "low": 922,
+    "close": 957,
+    "volume": 703571127,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Dec-2025",
+    "open": 957.1,
+    "high": 968.5,
+    "low": 949,
+    "close": 956,
+    "volume": 167034053,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Dec-2025",
+    "open": 958,
+    "high": 974,
+    "low": 956.6,
+    "close": 961,
+    "volume": 101134741,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Dec-2025",
+    "open": 964.8,
+    "high": 999.4,
+    "low": 964.2,
+    "close": 989.9,
+    "volume": 353178953,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Dec-2025",
+    "open": 991.6,
+    "high": 993.6,
+    "low": 980.8,
+    "close": 984.6,
+    "volume": 97188932,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Dec-2025",
+    "open": 983,
+    "high": 1025,
+    "low": 967.2,
+    "close": 974.9,
+    "volume": 623959500,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Dec-2025",
+    "open": 978.1,
+    "high": 1000.8,
+    "low": 965.9,
+    "close": 986.7,
+    "volume": 439333538,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "31-Dec-2025",
+    "open": 986.7,
+    "high": 1015.3,
+    "low": 985.3,
+    "close": 996,
+    "volume": 179827404,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Jan-2026",
+    "open": 996,
+    "high": 1003.6,
+    "low": 981,
+    "close": 991.5,
+    "volume": 71280258,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 995.5,
+    "high": 999.9,
+    "low": 982.45,
+    "close": 994,
+    "volume": 70516960,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 996.4,
+    "high": 1009,
+    "low": 976.6,
+    "close": 981.4,
+    "volume": 174915175,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 983.6,
+    "high": 989.7,
+    "low": 976,
+    "close": 981.9,
+    "volume": 138529417,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 981.9,
+    "high": 982,
+    "low": 958.8,
+    "close": 961,
+    "volume": 209313514,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 962,
+    "high": 964.5,
+    "low": 935.1,
+    "close": 936,
+    "volume": 233378298,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 932,
+    "high": 949.3,
+    "low": 920.6,
+    "close": 926.9,
+    "volume": 163497549,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 949.75,
+    "high": 949.75,
+    "low": 909,
+    "close": 943,
+    "volume": 258910753,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 944.2,
+    "high": 947.45,
+    "low": 928.65,
+    "close": 937,
+    "volume": 164901568,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 937,
+    "high": 947.1,
+    "low": 927.7,
+    "close": 928,
+    "volume": 99141642,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 930.5,
+    "high": 946.65,
+    "low": 917,
+    "close": 923.55,
+    "volume": 126514213,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 920,
+    "high": 921.4,
+    "low": 908.1,
+    "close": 921.4,
+    "volume": 73373307,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 919.7,
+    "high": 928.8,
+    "low": 823.5,
+    "close": 848.35,
+    "volume": 692532035,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 854.55,
+    "high": 854.55,
+    "low": 818.4,
+    "close": 834.2,
+    "volume": 315790862,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 839,
+    "high": 862.9,
+    "low": 824.1,
+    "close": 840.85,
+    "volume": 232287173,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 846.4,
+    "high": 847.8,
+    "low": 795,
+    "close": 800,
+    "volume": 243147108,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 801.2,
+    "high": 833.7,
+    "low": 783.95,
+    "close": 806.95,
+    "volume": 417756388,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 799.95,
+    "high": 845,
+    "low": 799.95,
+    "close": 840.4,
+    "volume": 165331818,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 845.05,
+    "high": 853.65,
+    "low": 796.9,
+    "close": 807.95,
+    "volume": 430384202,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 801,
+    "high": 817.8,
+    "low": 795,
+    "close": 806,
+    "volume": 284303871,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 814.8,
+    "high": 824,
+    "low": 791.55,
+    "close": 797,
+    "volume": 78257130,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 793,
+    "high": 797.1,
+    "low": 750,
+    "close": 773.15,
+    "volume": 407695965,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 815,
+    "high": 849.05,
+    "low": 798.95,
+    "close": 825.2,
+    "volume": 926220798,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 833,
+    "high": 844,
+    "low": 800.35,
+    "close": 829.25,
+    "volume": 380849224,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 829.25,
+    "high": 832.4,
+    "low": 808.1,
+    "close": 822.55,
+    "volume": 218345771,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 823,
+    "high": 831,
+    "low": 806.9,
+    "close": 819.9,
+    "volume": 119170578,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 834.45,
+    "high": 866.85,
+    "low": 832.95,
+    "close": 861,
+    "volume": 313606234,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 865,
+    "high": 879.95,
+    "low": 823.4,
+    "close": 828.9,
+    "volume": 962814808,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 835,
+    "high": 885.5,
+    "low": 831,
+    "close": 859.85,
+    "volume": 2169590547,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 863,
+    "high": 863,
+    "low": 830.3,
+    "close": 850.15,
+    "volume": 428351510,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 840,
+    "high": 846.8,
+    "low": 821.9,
+    "close": 828,
+    "volume": 251273698,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 826.25,
+    "high": 844.9,
+    "low": 820.05,
+    "close": 828.8,
+    "volume": 182759892,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 828,
+    "high": 850.45,
+    "low": 825.05,
+    "close": 841.9,
+    "volume": 165327650,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 844.05,
+    "high": 858.15,
+    "low": 841.5,
+    "close": 855.8,
+    "volume": 134178777,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 855.3,
+    "high": 868.75,
+    "low": 837.05,
+    "close": 845,
+    "volume": 295368617,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 840,
+    "high": 842.95,
+    "low": 827.9,
+    "close": 835,
+    "volume": 171279065,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 840,
+    "high": 877.8,
+    "low": 840,
+    "close": 860,
+    "volume": 409223809,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 860,
+    "high": 860,
+    "low": 841.65,
+    "close": 848.7,
+    "volume": 95026735,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 854,
+    "high": 859,
+    "low": 831,
+    "close": 837.5,
+    "volume": 221906737,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 842,
+    "high": 848.5,
+    "low": 834.05,
+    "close": 838.95,
+    "volume": 79974156,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 835.95,
+    "high": 835.95,
+    "low": 810.65,
+    "close": 819,
+    "volume": 297829699,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 786,
+    "high": 816,
+    "low": 785.5,
+    "close": 806,
+    "volume": 253989466,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 788,
+    "high": 805.5,
+    "low": 766.5,
+    "close": 801,
+    "volume": 240193794,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 803.8,
+    "high": 805,
+    "low": 774,
+    "close": 794.35,
+    "volume": 216468186,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 794,
+    "high": 813.85,
+    "low": 787.2,
+    "close": 804.15,
+    "volume": 213549004,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 786,
+    "high": 789.65,
+    "low": 761.5,
+    "close": 774.5,
+    "volume": 189469839,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 788.55,
+    "high": 789,
+    "low": 771,
+    "close": 786.4,
+    "volume": 238326450,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 782.45,
+    "high": 794.4,
+    "low": 767.05,
+    "close": 769.25,
+    "volume": 242580769,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 770,
+    "high": 770.9,
+    "low": 748.35,
+    "close": 759.2,
+    "volume": 374446065,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 763.2,
+    "high": 763.2,
+    "low": 711.55,
+    "close": 717,
+    "volume": 430369198,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 715.95,
+    "high": 721.8,
+    "low": 686.75,
+    "close": 705,
+    "volume": 296740412,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 711.95,
+    "high": 774.8,
+    "low": 709.9,
+    "close": 744.75,
+    "volume": 9149571336,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 741.95,
+    "high": 772.95,
+    "low": 731,
+    "close": 761.9,
+    "volume": 1008275272,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 745,
+    "high": 770.35,
+    "low": 741,
+    "close": 745.2,
+    "volume": 451597406,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 749.9,
+    "high": 758.45,
+    "low": 735.2,
+    "close": 744,
+    "volume": 251388118,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 739.95,
+    "high": 739.95,
+    "low": 704,
+    "close": 723,
+    "volume": 249930254,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 749,
+    "high": 755,
+    "low": 723.6,
+    "close": 745.05,
+    "volume": 326295437,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 754,
+    "high": 785,
+    "low": 746.75,
+    "close": 772.45,
+    "volume": 596315396,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 771,
+    "high": 772.55,
+    "low": 741,
+    "close": 751.95,
+    "volume": 347898752,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 742,
+    "high": 750.9,
+    "low": 717,
+    "close": 718.6,
+    "volume": 235683542,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 755,
+    "high": 777.55,
+    "low": 739.15,
+    "close": 764.9,
+    "volume": 337521850,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 756.8,
+    "high": 780,
+    "low": 740.35,
+    "close": 775.4,
+    "volume": 150063557,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 765,
+    "high": 777,
+    "low": 757.2,
+    "close": 768,
+    "volume": 261371623,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 766.85,
+    "high": 772.8,
+    "low": 756,
+    "close": 764,
+    "volume": 160836850,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 805,
+    "high": 814.8,
+    "low": 785.4,
+    "close": 810,
+    "volume": 338543854,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 802,
+    "high": 833.95,
+    "low": 798.7,
+    "close": 808,
+    "volume": 302831792,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 819.95,
+    "high": 845,
+    "low": 811.1,
+    "close": 817.5,
+    "volume": 436577018,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 761.4,
+    "high": 779.4,
+    "low": 691.9,
+    "close": 700.85,
+    "volume": 5697631094,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 708,
+    "high": 714.2,
+    "low": 694.35,
+    "close": 698,
+    "volume": 2044117990,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 703,
+    "high": 708.25,
+    "low": 695.7,
+    "close": 703.2,
+    "volume": 841496092,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 709,
+    "high": 717.95,
+    "low": 702.1,
+    "close": 708.2,
+    "volume": 1002910123,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 708.2,
+    "high": 767.9,
+    "low": 701.6,
+    "close": 742,
+    "volume": 6403912067,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 750.5,
+    "high": 777.7,
+    "low": 747.5,
+    "close": 758.4,
+    "volume": 1993786404,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 761,
+    "high": 773.65,
+    "low": 759.2,
+    "close": 765.05,
+    "volume": 526543326,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 766.55,
+    "high": 774.7,
+    "low": 747.6,
+    "close": 753,
+    "volume": 469800844,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 756.1,
+    "high": 765,
+    "low": 727.5,
+    "close": 735,
+    "volume": 450412135,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 747.2,
+    "high": 768.2,
+    "low": 740.55,
+    "close": 759.75,
+    "volume": 796635829,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 760,
+    "high": 787.25,
+    "low": 751.75,
+    "close": 762.75,
+    "volume": 1001567161,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 768.7,
+    "high": 785.3,
+    "low": 761.1,
+    "close": 765.85,
+    "volume": 824817894,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 764.35,
+    "high": 770,
+    "low": 745.9,
+    "close": 751.95,
+    "volume": 360196781,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 761.25,
+    "high": 765,
+    "low": 751.8,
+    "close": 760.05,
+    "volume": 265121043,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 762,
+    "high": 764.4,
+    "low": 746.3,
+    "close": 764,
+    "volume": 333553483,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 764.6,
+    "high": 779.7,
+    "low": 760.95,
+    "close": 772.75,
+    "volume": 505524248,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 773.1,
+    "high": 782.85,
+    "low": 768.55,
+    "close": 772.85,
+    "volume": 384865720,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 777,
+    "high": 778,
+    "low": 764.1,
+    "close": 766,
+    "volume": 339060070,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 765,
+    "high": 767,
+    "low": 738,
+    "close": 749,
+    "volume": 397125745,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 745,
+    "high": 752.65,
+    "low": 721.55,
+    "close": 728.85,
+    "volume": 311737709,
+    "symbol": "JYOTICNC"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 725.15,
+    "high": 739,
+    "low": 722.1,
+    "close": 730,
+    "volume": 393296124,
+    "symbol": "JYOTICNC"
+  }
+]

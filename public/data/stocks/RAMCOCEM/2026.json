@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1060,
+    "high": 1065,
+    "low": 1047.1,
+    "close": 1060,
+    "volume": 121131847,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1059.3,
+    "high": 1063.5,
+    "low": 1049.5,
+    "close": 1060,
+    "volume": 256119461,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1065.2,
+    "high": 1102.5,
+    "low": 1065.2,
+    "close": 1080,
+    "volume": 577229682,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1083.2,
+    "high": 1085,
+    "low": 1069.9,
+    "close": 1075,
+    "volume": 246735704,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1078,
+    "high": 1082.3,
+    "low": 1053.9,
+    "close": 1076,
+    "volume": 845065991,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1080.9,
+    "high": 1089,
+    "low": 1067,
+    "close": 1080.7,
+    "volume": 427617599,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1086.7,
+    "high": 1104.4,
+    "low": 1076,
+    "close": 1085.5,
+    "volume": 1086337197,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1093.8,
+    "high": 1104.9,
+    "low": 1073,
+    "close": 1085,
+    "volume": 280554294,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1080.2,
+    "high": 1095,
+    "low": 1069.2,
+    "close": 1084,
+    "volume": 146455905,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1086.9,
+    "high": 1088.3,
+    "low": 1061.5,
+    "close": 1065,
+    "volume": 234726329,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1068.5,
+    "high": 1076,
+    "low": 1060,
+    "close": 1075,
+    "volume": 149320854,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1062.2,
+    "high": 1069.9,
+    "low": 1053,
+    "close": 1066.9,
+    "volume": 75928494,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1065.4,
+    "high": 1075.5,
+    "low": 1046.5,
+    "close": 1068,
+    "volume": 517051577,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1063,
+    "high": 1087.9,
+    "low": 1054.1,
+    "close": 1080,
+    "volume": 378586122,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1087,
+    "high": 1087,
+    "low": 1069.2,
+    "close": 1083.5,
+    "volume": 179334878,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1087,
+    "high": 1087,
+    "low": 1042.2,
+    "close": 1046,
+    "volume": 344209283,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1050.1,
+    "high": 1077.2,
+    "low": 1029.3,
+    "close": 1055,
+    "volume": 179639277,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1055,
+    "high": 1073.2,
+    "low": 1055,
+    "close": 1065,
+    "volume": 107447641,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1060,
+    "high": 1112.5,
+    "low": 1060,
+    "close": 1105.4,
+    "volume": 688470658,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1108,
+    "high": 1127,
+    "low": 1093.6,
+    "close": 1112,
+    "volume": 821730393,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1121,
+    "high": 1123,
+    "low": 1069,
+    "close": 1080,
+    "volume": 115360096,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1087.7,
+    "high": 1129,
+    "low": 1080.1,
+    "close": 1110,
+    "volume": 481468419,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1129,
+    "high": 1151.9,
+    "low": 1120.1,
+    "close": 1140,
+    "volume": 279413153,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1115,
+    "high": 1157,
+    "low": 1115,
+    "close": 1156,
+    "volume": 150868880,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1160,
+    "high": 1171.6,
+    "low": 1142.5,
+    "close": 1164.9,
+    "volume": 101566537,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1165.5,
+    "high": 1171.9,
+    "low": 1154.2,
+    "close": 1160.7,
+    "volume": 56802830,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1175,
+    "high": 1214.5,
+    "low": 1129.5,
+    "close": 1205,
+    "volume": 459764485,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1173.9,
+    "high": 1188.9,
+    "low": 1134.1,
+    "close": 1175.1,
+    "volume": 1206594602,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1161.5,
+    "high": 1180,
+    "low": 1145,
+    "close": 1151,
+    "volume": 321105649,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1145,
+    "high": 1157,
+    "low": 1122.5,
+    "close": 1149.1,
+    "volume": 566088410,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1135.2,
+    "high": 1148.7,
+    "low": 1128.7,
+    "close": 1145,
+    "volume": 104043419,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1130,
+    "high": 1160,
+    "low": 1124.1,
+    "close": 1160,
+    "volume": 123625568,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1140,
+    "high": 1170.9,
+    "low": 1131.8,
+    "close": 1169,
+    "volume": 125701973,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1168,
+    "high": 1168,
+    "low": 1136.8,
+    "close": 1147,
+    "volume": 320445498,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1149.7,
+    "high": 1151,
+    "low": 1110,
+    "close": 1120,
+    "volume": 105609065,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1124,
+    "high": 1127.9,
+    "low": 1094.1,
+    "close": 1117,
+    "volume": 105545099,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1121,
+    "high": 1151,
+    "low": 1114.5,
+    "close": 1138,
+    "volume": 196874279,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1143.3,
+    "high": 1152,
+    "low": 1128.4,
+    "close": 1147,
+    "volume": 67602097,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1147,
+    "high": 1160.7,
+    "low": 1140.2,
+    "close": 1151.4,
+    "volume": 90345679,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1151.4,
+    "high": 1154.9,
+    "low": 1118.7,
+    "close": 1146,
+    "volume": 98792867,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1149,
+    "high": 1149,
+    "low": 1117.1,
+    "close": 1127,
+    "volume": 160613919,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1085,
+    "high": 1111,
+    "low": 1084.1,
+    "close": 1091,
+    "volume": 122851763,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1075.9,
+    "high": 1094,
+    "low": 1058,
+    "close": 1071.5,
+    "volume": 128081430,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1081,
+    "high": 1111.6,
+    "low": 1036.4,
+    "close": 1106.9,
+    "volume": 199944394,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1092.6,
+    "high": 1105,
+    "low": 1076.6,
+    "close": 1089.9,
+    "volume": 66345401,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1061,
+    "high": 1079,
+    "low": 1012,
+    "close": 1029,
+    "volume": 229395749,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1031,
+    "high": 1039.4,
+    "low": 998.5,
+    "close": 1005,
+    "volume": 182368632,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1012,
+    "high": 1012,
+    "low": 984,
+    "close": 989.2,
+    "volume": 213318176,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 980.2,
+    "high": 1011,
+    "low": 975.1,
+    "close": 990,
+    "volume": 306015287,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 994.1,
+    "high": 996,
+    "low": 963,
+    "close": 972,
+    "volume": 265252742,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 965,
+    "high": 995,
+    "low": 940,
+    "close": 970,
+    "volume": 254300364,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 970,
+    "high": 976.4,
+    "low": 955.6,
+    "close": 967.3,
+    "volume": 111767368,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 972.9,
+    "high": 989,
+    "low": 963.3,
+    "close": 980.8,
+    "volume": 131908633,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 974.5,
+    "high": 974.5,
+    "low": 940,
+    "close": 945,
+    "volume": 76462466,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 950.6,
+    "high": 977,
+    "low": 918.8,
+    "close": 939.9,
+    "volume": 359639399,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 920,
+    "high": 924.9,
+    "low": 860.1,
+    "close": 871,
+    "volume": 347311184,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 891,
+    "high": 904,
+    "low": 860.9,
+    "close": 893.6,
+    "volume": 181703979,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 909,
+    "high": 937.7,
+    "low": 901.1,
+    "close": 935,
+    "volume": 318767522,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 926.9,
+    "high": 950,
+    "low": 895,
+    "close": 905.5,
+    "volume": 559524617,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 906.3,
+    "high": 958.6,
+    "low": 888,
+    "close": 905,
+    "volume": 390291203,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 932.65,
+    "high": 953.25,
+    "low": 927,
+    "close": 940,
+    "volume": 173161132,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 928.7,
+    "high": 934.65,
+    "low": 904.15,
+    "close": 922,
+    "volume": 101917321,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 918,
+    "high": 945,
+    "low": 918,
+    "close": 938.9,
+    "volume": 78589884,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 930,
+    "high": 954.4,
+    "low": 925.5,
+    "close": 935.2,
+    "volume": 86305334,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 959,
+    "high": 997,
+    "low": 959,
+    "close": 995,
+    "volume": 424025146,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 999,
+    "high": 999,
+    "low": 967.85,
+    "close": 980,
+    "volume": 118546040,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 987,
+    "high": 1003.65,
+    "low": 982.05,
+    "close": 993,
+    "volume": 288910872,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 991.9,
+    "high": 1000,
+    "low": 968.3,
+    "close": 985.2,
+    "volume": 108585422,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 997,
+    "high": 1010.1,
+    "low": 990,
+    "close": 1007.9,
+    "volume": 163786181,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1015,
+    "high": 1019,
+    "low": 995.35,
+    "close": 998,
+    "volume": 118798656,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1000.2,
+    "high": 1023,
+    "low": 996.45,
+    "close": 1013,
+    "volume": 543220381,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1015.9,
+    "high": 1024.45,
+    "low": 1000.65,
+    "close": 1007,
+    "volume": 275120407,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1015.45,
+    "high": 1020,
+    "low": 998,
+    "close": 998,
+    "volume": 90529194,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1003,
+    "high": 1005.15,
+    "low": 987.45,
+    "close": 989.05,
+    "volume": 125543190,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 991.95,
+    "high": 991.95,
+    "low": 950,
+    "close": 963.9,
+    "volume": 271346449,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 951.05,
+    "high": 969,
+    "low": 951.05,
+    "close": 965,
+    "volume": 182756196,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 965.9,
+    "high": 975,
+    "low": 952.2,
+    "close": 965,
+    "volume": 121078982,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 966.4,
+    "high": 985.85,
+    "low": 945.05,
+    "close": 964,
+    "volume": 229451226,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 966,
+    "high": 977,
+    "low": 938.7,
+    "close": 948,
+    "volume": 227276841,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 947,
+    "high": 954.95,
+    "low": 923.35,
+    "close": 930,
+    "volume": 299677094,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 935.1,
+    "high": 945,
+    "low": 922.25,
+    "close": 928.1,
+    "volume": 135140869,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 926.85,
+    "high": 930,
+    "low": 906.65,
+    "close": 911.15,
+    "volume": 519320782,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 919,
+    "high": 945.3,
+    "low": 919,
+    "close": 943.3,
+    "volume": 700101828,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 945.6,
+    "high": 961.75,
+    "low": 935.15,
+    "close": 961,
+    "volume": 583406709,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 964.2,
+    "high": 970,
+    "low": 949.5,
+    "close": 953,
+    "volume": 464940687,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 958.05,
+    "high": 959.2,
+    "low": 934.55,
+    "close": 954.05,
+    "volume": 360010201,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 967.8,
+    "high": 967.8,
+    "low": 930.1,
+    "close": 946.2,
+    "volume": 169697671,
+    "symbol": "RAMCOCEM"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 943.25,
+    "high": 948.4,
+    "low": 927.05,
+    "close": 934.9,
+    "volume": 734146529,
+    "symbol": "RAMCOCEM"
+  }
+]

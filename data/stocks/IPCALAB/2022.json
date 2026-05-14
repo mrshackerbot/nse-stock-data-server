@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 2170,
+    "high": 2186.75,
+    "low": 2151.35,
+    "close": 2156.7,
+    "volume": 295399366,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 2160,
+    "high": 2208.15,
+    "low": 2160,
+    "close": 2168.85,
+    "volume": 393725031,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 2185,
+    "high": 2208,
+    "low": 2121.25,
+    "close": 2185,
+    "volume": 912401734,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 2150.45,
+    "high": 2192,
+    "low": 2140,
+    "close": 2147.95,
+    "volume": 434797236,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 2152,
+    "high": 2222,
+    "low": 2137.4,
+    "close": 2196,
+    "volume": 774982909,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 1123.95,
+    "high": 1128.5,
+    "low": 1028.4,
+    "close": 1062.5,
+    "volume": 1603373582,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 1061,
+    "high": 1076.95,
+    "low": 1045,
+    "close": 1056,
+    "volume": 331158727,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 1061.5,
+    "high": 1067.95,
+    "low": 1037,
+    "close": 1040.1,
+    "volume": 358071408,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 1040,
+    "high": 1067,
+    "low": 1031.25,
+    "close": 1060,
+    "volume": 430997501,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 1061.7,
+    "high": 1066.7,
+    "low": 1045.05,
+    "close": 1064,
+    "volume": 251273318,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 1065,
+    "high": 1078.8,
+    "low": 1055.9,
+    "close": 1062,
+    "volume": 267208766,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 1070,
+    "high": 1072.4,
+    "low": 1045,
+    "close": 1048.05,
+    "volume": 331560928,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 1041,
+    "high": 1082.6,
+    "low": 1030,
+    "close": 1071,
+    "volume": 925149012,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 1073,
+    "high": 1082,
+    "low": 1061.6,
+    "close": 1072,
+    "volume": 229801415,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 1054,
+    "high": 1077,
+    "low": 1042.45,
+    "close": 1056,
+    "volume": 384191731,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 1055,
+    "high": 1059.85,
+    "low": 1020,
+    "close": 1050.2,
+    "volume": 576612941,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 1040,
+    "high": 1049.45,
+    "low": 1018,
+    "close": 1046,
+    "volume": 545718390,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 1035,
+    "high": 1045.7,
+    "low": 998.05,
+    "close": 1002,
+    "volume": 412478473,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 1000,
+    "high": 1024.05,
+    "low": 990,
+    "close": 1013.85,
+    "volume": 226119952,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 1020.1,
+    "high": 1039,
+    "low": 1008.65,
+    "close": 1035,
+    "volume": 403678668,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 1045,
+    "high": 1045,
+    "low": 1026,
+    "close": 1040,
+    "volume": 89290837,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 1047.45,
+    "high": 1059,
+    "low": 1037.45,
+    "close": 1055.9,
+    "volume": 97210567,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 1061.75,
+    "high": 1067.65,
+    "low": 1040,
+    "close": 1043.8,
+    "volume": 131747570,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 1050,
+    "high": 1051.75,
+    "low": 1028.25,
+    "close": 1036.3,
+    "volume": 54185717,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 1039.7,
+    "high": 1054,
+    "low": 1010,
+    "close": 1012.65,
+    "volume": 178545232,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 1024,
+    "high": 1024,
+    "low": 996.55,
+    "close": 998,
+    "volume": 163576163,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 1007,
+    "high": 1024.9,
+    "low": 1002.55,
+    "close": 1019,
+    "volume": 120974149,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 1029,
+    "high": 1029,
+    "low": 985.15,
+    "close": 985.15,
+    "volume": 119795681,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 989,
+    "high": 1005.1,
+    "low": 975.95,
+    "close": 989.95,
+    "volume": 323214220,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 990,
+    "high": 994,
+    "low": 942.1,
+    "close": 963.9,
+    "volume": 825290288,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 940,
+    "high": 994.95,
+    "low": 940,
+    "close": 986,
+    "volume": 907442390,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 989.1,
+    "high": 1002.05,
+    "low": 971.2,
+    "close": 975.6,
+    "volume": 365772185,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 1001,
+    "high": 1001,
+    "low": 955.15,
+    "close": 965.5,
+    "volume": 1274680535,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 964.5,
+    "high": 986.2,
+    "low": 954.35,
+    "close": 975,
+    "volume": 706406757,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 972,
+    "high": 983,
+    "low": 953.35,
+    "close": 968,
+    "volume": 471068745,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 952,
+    "high": 973.5,
+    "low": 937.85,
+    "close": 969.45,
+    "volume": 370829251,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 960,
+    "high": 977.95,
+    "low": 950.5,
+    "close": 952.95,
+    "volume": 171469081,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 935,
+    "high": 956.05,
+    "low": 925.2,
+    "close": 948,
+    "volume": 454126566,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 936.75,
+    "high": 976.95,
+    "low": 936.2,
+    "close": 972.4,
+    "volume": 452427788,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 970,
+    "high": 987,
+    "low": 955,
+    "close": 980.6,
+    "volume": 400659303,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 966,
+    "high": 987.05,
+    "low": 959.1,
+    "close": 986.95,
+    "volume": 271175147,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 986,
+    "high": 998.3,
+    "low": 962.45,
+    "close": 965.85,
+    "volume": 241690521,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 970.75,
+    "high": 970.75,
+    "low": 939.4,
+    "close": 956,
+    "volume": 379000978,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 945,
+    "high": 984.45,
+    "low": 929.25,
+    "close": 980.5,
+    "volume": 335641850,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 971.7,
+    "high": 1021,
+    "low": 964,
+    "close": 1013.1,
+    "volume": 589898697,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 1020.2,
+    "high": 1023.1,
+    "low": 996.2,
+    "close": 1005,
+    "volume": 360353588,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 1008.25,
+    "high": 1022.95,
+    "low": 992.3,
+    "close": 1001.9,
+    "volume": 177213084,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 1006.7,
+    "high": 1024.9,
+    "low": 980,
+    "close": 1021,
+    "volume": 392375500,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 1025,
+    "high": 1042,
+    "low": 995.85,
+    "close": 1013.05,
+    "volume": 585684473,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 1017.5,
+    "high": 1034,
+    "low": 989.4,
+    "close": 995,
+    "volume": 252256605,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 998.4,
+    "high": 1005,
+    "low": 969.05,
+    "close": 1000.5,
+    "volume": 363310132,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 1002.5,
+    "high": 1037.8,
+    "low": 998.35,
+    "close": 1032.8,
+    "volume": 1105934447,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 1035,
+    "high": 1042.5,
+    "low": 1000,
+    "close": 1005,
+    "volume": 293526532,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 1003.1,
+    "high": 1013.5,
+    "low": 995.1,
+    "close": 998.95,
+    "volume": 211090666,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 999.75,
+    "high": 1011.2,
+    "low": 985.3,
+    "close": 990.7,
+    "volume": 268069324,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 991.25,
+    "high": 1018,
+    "low": 990.5,
+    "close": 1003.7,
+    "volume": 215691547,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 1010.1,
+    "high": 1035.5,
+    "low": 990,
+    "close": 1000,
+    "volume": 288696488,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 1002,
+    "high": 1025.95,
+    "low": 992,
+    "close": 1002,
+    "volume": 333703317,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 1004.7,
+    "high": 1062.9,
+    "low": 1000,
+    "close": 1055.1,
+    "volume": 1281512621,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 1064.85,
+    "high": 1082,
+    "low": 1045,
+    "close": 1080,
+    "volume": 720289851,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 1080,
+    "high": 1095,
+    "low": 1014.25,
+    "close": 1074,
+    "volume": 925093646,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 1065,
+    "high": 1065,
+    "low": 1021,
+    "close": 1028,
+    "volume": 368216853,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 1027.4,
+    "high": 1064,
+    "low": 1027,
+    "close": 1030.05,
+    "volume": 257886675,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 1035.85,
+    "high": 1044.2,
+    "low": 1026.5,
+    "close": 1033.35,
+    "volume": 329577228,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 1033.9,
+    "high": 1042,
+    "low": 1002,
+    "close": 1022,
+    "volume": 588769750,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 1024,
+    "high": 1028,
+    "low": 996,
+    "close": 1005.15,
+    "volume": 515106981,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 1014.4,
+    "high": 1034.4,
+    "low": 1003.05,
+    "close": 1031,
+    "volume": 454297629,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 1027.65,
+    "high": 1048.5,
+    "low": 1027.05,
+    "close": 1036.85,
+    "volume": 529387646,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 1039.6,
+    "high": 1050.8,
+    "low": 1022.4,
+    "close": 1044.95,
+    "volume": 422224078,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 1048,
+    "high": 1052.2,
+    "low": 1037,
+    "close": 1040.65,
+    "volume": 319245268,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 1042,
+    "high": 1047.45,
+    "low": 1010,
+    "close": 1025.2,
+    "volume": 261497526,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 1024,
+    "high": 1026.1,
+    "low": 1008.65,
+    "close": 1017,
+    "volume": 195047609,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 1028,
+    "high": 1053.5,
+    "low": 1008,
+    "close": 1031.45,
+    "volume": 392626723,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 1030,
+    "high": 1035,
+    "low": 1018.8,
+    "close": 1034,
+    "volume": 501874886,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 1029.95,
+    "high": 1034.45,
+    "low": 1010,
+    "close": 1028.2,
+    "volume": 420912558,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 1018.55,
+    "high": 1027.85,
+    "low": 997.2,
+    "close": 1000,
+    "volume": 270844328,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 1014,
+    "high": 1016.4,
+    "low": 992.1,
+    "close": 999,
+    "volume": 130291251,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 999,
+    "high": 1008.95,
+    "low": 981,
+    "close": 1005.35,
+    "volume": 277012702,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 1009,
+    "high": 1031.6,
+    "low": 1007,
+    "close": 1017.05,
+    "volume": 244544762,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 1025,
+    "high": 1034.5,
+    "low": 1006.65,
+    "close": 1011.05,
+    "volume": 292394323,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 1007,
+    "high": 1017.7,
+    "low": 999,
+    "close": 1008.45,
+    "volume": 98886913,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 1011.65,
+    "high": 1037.45,
+    "low": 992.7,
+    "close": 1000,
+    "volume": 311089481,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 1005.5,
+    "high": 1008.25,
+    "low": 993.5,
+    "close": 1003,
+    "volume": 181548837,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 995,
+    "high": 1004.4,
+    "low": 980,
+    "close": 995,
+    "volume": 248677898,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 991.85,
+    "high": 1008,
+    "low": 975,
+    "close": 986,
+    "volume": 185804283,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 987,
+    "high": 1004.5,
+    "low": 969.15,
+    "close": 970.25,
+    "volume": 174172235,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 974.95,
+    "high": 978.05,
+    "low": 955,
+    "close": 972,
+    "volume": 250203095,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 969,
+    "high": 971.9,
+    "low": 950,
+    "close": 964.65,
+    "volume": 168106824,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 966.7,
+    "high": 984.95,
+    "low": 965,
+    "close": 976.4,
+    "volume": 311690740,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 980.6,
+    "high": 991.45,
+    "low": 973.3,
+    "close": 990,
+    "volume": 120934559,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 985.2,
+    "high": 997.1,
+    "low": 974.8,
+    "close": 989,
+    "volume": 75747224,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 986,
+    "high": 997.05,
+    "low": 980,
+    "close": 991.45,
+    "volume": 283140488,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 980.1,
+    "high": 986.3,
+    "low": 962.15,
+    "close": 966.65,
+    "volume": 102263125,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 966,
+    "high": 991.85,
+    "low": 966,
+    "close": 980.95,
+    "volume": 155941967,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 989.9,
+    "high": 1006.6,
+    "low": 975,
+    "close": 976.1,
+    "volume": 239531861,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 967.1,
+    "high": 977.6,
+    "low": 918,
+    "close": 955,
+    "volume": 1513522160,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 945,
+    "high": 967.45,
+    "low": 926.75,
+    "close": 940,
+    "volume": 532811728,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 937.9,
+    "high": 939,
+    "low": 908.4,
+    "close": 919.65,
+    "volume": 1167657219,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 920,
+    "high": 923.55,
+    "low": 898.7,
+    "close": 900.3,
+    "volume": 666668050,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 903,
+    "high": 909,
+    "low": 884.3,
+    "close": 901,
+    "volume": 606900541,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 904.9,
+    "high": 924.1,
+    "low": 892.2,
+    "close": 902.5,
+    "volume": 428494405,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 902.7,
+    "high": 907.4,
+    "low": 875.5,
+    "close": 888.65,
+    "volume": 542881771,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 881,
+    "high": 887,
+    "low": 872,
+    "close": 879.05,
+    "volume": 255452479,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 888,
+    "high": 888,
+    "low": 856.8,
+    "close": 861,
+    "volume": 215069941,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 850,
+    "high": 874.2,
+    "low": 850,
+    "close": 863.5,
+    "volume": 199916002,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 859,
+    "high": 870,
+    "low": 850.7,
+    "close": 864,
+    "volume": 115627531,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 872,
+    "high": 875.5,
+    "low": 855.25,
+    "close": 866.15,
+    "volume": 115460163,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 865.8,
+    "high": 872.95,
+    "low": 862.25,
+    "close": 869.45,
+    "volume": 112811403,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 862,
+    "high": 868.45,
+    "low": 853.05,
+    "close": 859.9,
+    "volume": 138740095,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 849.15,
+    "high": 867.9,
+    "low": 831.05,
+    "close": 865.6,
+    "volume": 291453811,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 864.45,
+    "high": 870.25,
+    "low": 856.6,
+    "close": 865.85,
+    "volume": 204832362,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 870,
+    "high": 883,
+    "low": 867.05,
+    "close": 877,
+    "volume": 145170798,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 883.8,
+    "high": 884.35,
+    "low": 861.45,
+    "close": 863.5,
+    "volume": 170977658,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 860,
+    "high": 871.3,
+    "low": 845,
+    "close": 865.6,
+    "volume": 218327000,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 868,
+    "high": 880.8,
+    "low": 852.45,
+    "close": 877.95,
+    "volume": 185128172,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 880,
+    "high": 898.7,
+    "low": 865.2,
+    "close": 887,
+    "volume": 366394989,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 885.15,
+    "high": 893.2,
+    "low": 882.85,
+    "close": 892.5,
+    "volume": 164483186,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 897,
+    "high": 903.7,
+    "low": 883.7,
+    "close": 894.8,
+    "volume": 449752402,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 901.8,
+    "high": 905,
+    "low": 886.75,
+    "close": 887.4,
+    "volume": 131072178,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 894,
+    "high": 918,
+    "low": 892.8,
+    "close": 910.6,
+    "volume": 186852270,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 911.8,
+    "high": 918,
+    "low": 897.05,
+    "close": 903,
+    "volume": 285079097,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 900.8,
+    "high": 906.6,
+    "low": 881.1,
+    "close": 892.45,
+    "volume": 361069730,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 894,
+    "high": 907.8,
+    "low": 887.35,
+    "close": 890.15,
+    "volume": 390364072,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 890.25,
+    "high": 914.25,
+    "low": 890.25,
+    "close": 912,
+    "volume": 140413502,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 912.9,
+    "high": 925,
+    "low": 907,
+    "close": 920,
+    "volume": 123385350,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 924.8,
+    "high": 929.75,
+    "low": 919.15,
+    "close": 929,
+    "volume": 168888069,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 929,
+    "high": 948.95,
+    "low": 923.7,
+    "close": 945.65,
+    "volume": 356544063,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 949,
+    "high": 959.95,
+    "low": 945,
+    "close": 956.45,
+    "volume": 144701828,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 961.05,
+    "high": 991,
+    "low": 960,
+    "close": 981.9,
+    "volume": 230316282,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 979.9,
+    "high": 988.7,
+    "low": 971,
+    "close": 985,
+    "volume": 163349748,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 987,
+    "high": 989.95,
+    "low": 965,
+    "close": 976,
+    "volume": 213226494,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 970,
+    "high": 980.85,
+    "low": 970,
+    "close": 975,
+    "volume": 386759040,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 975,
+    "high": 1010,
+    "low": 974.85,
+    "close": 988,
+    "volume": 450546957,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 989,
+    "high": 997.2,
+    "low": 983.6,
+    "close": 989.85,
+    "volume": 138640491,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 994.45,
+    "high": 1002,
+    "low": 989,
+    "close": 995.1,
+    "volume": 272106656,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 998.05,
+    "high": 1018,
+    "low": 994.1,
+    "close": 1005.75,
+    "volume": 346589841,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 1016,
+    "high": 1024.5,
+    "low": 1010.15,
+    "close": 1015,
+    "volume": 330981363,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 1014.05,
+    "high": 1020,
+    "low": 1001.1,
+    "close": 1009,
+    "volume": 138682372,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 1009.5,
+    "high": 1009.5,
+    "low": 981.25,
+    "close": 985,
+    "volume": 248177560,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 981.25,
+    "high": 987.2,
+    "low": 962.05,
+    "close": 963.95,
+    "volume": 322725938,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 966,
+    "high": 988,
+    "low": 948.5,
+    "close": 988,
+    "volume": 375509518,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 988.65,
+    "high": 991.2,
+    "low": 973.05,
+    "close": 984,
+    "volume": 465458968,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 993.15,
+    "high": 998.7,
+    "low": 970.6,
+    "close": 995,
+    "volume": 235249713,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 994.5,
+    "high": 1009.85,
+    "low": 990.95,
+    "close": 1005,
+    "volume": 194787891,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 1004.9,
+    "high": 1016.5,
+    "low": 992.65,
+    "close": 996.5,
+    "volume": 163766202,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 992.5,
+    "high": 1001.35,
+    "low": 983.8,
+    "close": 990.45,
+    "volume": 175217573,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 990.05,
+    "high": 993.85,
+    "low": 968.25,
+    "close": 973.1,
+    "volume": 77458280,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 977.95,
+    "high": 1028,
+    "low": 972.05,
+    "close": 1025,
+    "volume": 453909679,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 1031,
+    "high": 1034.3,
+    "low": 998.25,
+    "close": 1012,
+    "volume": 601801933,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 1019,
+    "high": 1019,
+    "low": 1002.45,
+    "close": 1009.55,
+    "volume": 90461346,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 1005,
+    "high": 1012,
+    "low": 971,
+    "close": 990.05,
+    "volume": 425430021,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 992.9,
+    "high": 1022.6,
+    "low": 985.1,
+    "close": 1016,
+    "volume": 387023438,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 988.4,
+    "high": 990,
+    "low": 918.4,
+    "close": 927.5,
+    "volume": 3629398602,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 928.05,
+    "high": 934,
+    "low": 918.55,
+    "close": 928.5,
+    "volume": 421889185,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 927.85,
+    "high": 933,
+    "low": 914.6,
+    "close": 915,
+    "volume": 357313565,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 919.85,
+    "high": 926,
+    "low": 912.15,
+    "close": 924.75,
+    "volume": 373535989,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 926,
+    "high": 929.7,
+    "low": 905.05,
+    "close": 918.8,
+    "volume": 503078670,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 905,
+    "high": 918,
+    "low": 900.55,
+    "close": 903,
+    "volume": 208143484,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 903.05,
+    "high": 924.8,
+    "low": 900.1,
+    "close": 924.8,
+    "volume": 171437616,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 922.65,
+    "high": 926.9,
+    "low": 906.3,
+    "close": 920.3,
+    "volume": 368853353,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 928.55,
+    "high": 928.55,
+    "low": 911,
+    "close": 912.2,
+    "volume": 221244955,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 916.95,
+    "high": 919.6,
+    "low": 908,
+    "close": 909.55,
+    "volume": 98437103,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 903,
+    "high": 911.65,
+    "low": 894.4,
+    "close": 900,
+    "volume": 421624037,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 909,
+    "high": 911.15,
+    "low": 897.6,
+    "close": 905.05,
+    "volume": 287869802,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 900,
+    "high": 907.65,
+    "low": 892.6,
+    "close": 898,
+    "volume": 145053453,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 899.6,
+    "high": 903.6,
+    "low": 886.5,
+    "close": 890.05,
+    "volume": 155245281,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 889.85,
+    "high": 894.15,
+    "low": 881.1,
+    "close": 885,
+    "volume": 443352770,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 886.35,
+    "high": 891,
+    "low": 879.35,
+    "close": 883.8,
+    "volume": 106846841,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 883.8,
+    "high": 889.9,
+    "low": 877.65,
+    "close": 878.75,
+    "volume": 159079904,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 881,
+    "high": 885.6,
+    "low": 865.55,
+    "close": 869.8,
+    "volume": 241797652,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 876.5,
+    "high": 901.45,
+    "low": 870,
+    "close": 871,
+    "volume": 510799295,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 876.9,
+    "high": 885,
+    "low": 872.2,
+    "close": 874.95,
+    "volume": 259632443,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 876.9,
+    "high": 901.6,
+    "low": 876.9,
+    "close": 895.2,
+    "volume": 463405629,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 889.95,
+    "high": 891.45,
+    "low": 875.65,
+    "close": 877.5,
+    "volume": 205833631,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 883,
+    "high": 883.95,
+    "low": 872.65,
+    "close": 875,
+    "volume": 93947692,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 873,
+    "high": 879.25,
+    "low": 855,
+    "close": 861,
+    "volume": 346663194,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 861,
+    "high": 868,
+    "low": 852.75,
+    "close": 858,
+    "volume": 108306021,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 862,
+    "high": 875,
+    "low": 858.45,
+    "close": 871.85,
+    "volume": 98868790,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 877.15,
+    "high": 884.3,
+    "low": 862.05,
+    "close": 862.9,
+    "volume": 187427811,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 864.7,
+    "high": 880.4,
+    "low": 856,
+    "close": 878,
+    "volume": 291667866,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 882,
+    "high": 882.9,
+    "low": 870,
+    "close": 874,
+    "volume": 77016676,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 871.05,
+    "high": 899,
+    "low": 867.85,
+    "close": 890,
+    "volume": 664915137,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 896.25,
+    "high": 906.7,
+    "low": 883,
+    "close": 897.45,
+    "volume": 295623017,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 895,
+    "high": 917.7,
+    "low": 882.85,
+    "close": 895.1,
+    "volume": 357088397,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 909.6,
+    "high": 912.75,
+    "low": 896.15,
+    "close": 909,
+    "volume": 244818375,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 905.35,
+    "high": 917.45,
+    "low": 896,
+    "close": 913.9,
+    "volume": 175780162,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 915.75,
+    "high": 938.2,
+    "low": 905.9,
+    "close": 934,
+    "volume": 498871649,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 941,
+    "high": 945,
+    "low": 921.95,
+    "close": 932,
+    "volume": 307506001,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 939.15,
+    "high": 939.9,
+    "low": 914.55,
+    "close": 920.45,
+    "volume": 146055913,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 923.6,
+    "high": 923.6,
+    "low": 907.3,
+    "close": 920.05,
+    "volume": 98887516,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 915,
+    "high": 918.55,
+    "low": 902.75,
+    "close": 910.2,
+    "volume": 125440796,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 916.65,
+    "high": 916.65,
+    "low": 891,
+    "close": 891,
+    "volume": 142248242,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 892,
+    "high": 899.1,
+    "low": 886.55,
+    "close": 892,
+    "volume": 84266016,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 888.85,
+    "high": 902.65,
+    "low": 885.1,
+    "close": 887.5,
+    "volume": 170624181,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 892,
+    "high": 903.25,
+    "low": 887.05,
+    "close": 887.55,
+    "volume": 48807782,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 885.5,
+    "high": 899,
+    "low": 881,
+    "close": 893.2,
+    "volume": 80770213,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 897.5,
+    "high": 900.35,
+    "low": 891.65,
+    "close": 899.85,
+    "volume": 187826023,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 899.85,
+    "high": 900,
+    "low": 889.3,
+    "close": 895.05,
+    "volume": 52535224,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 893.15,
+    "high": 908.95,
+    "low": 891.2,
+    "close": 908,
+    "volume": 137824144,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 911.75,
+    "high": 913.7,
+    "low": 900.2,
+    "close": 904,
+    "volume": 207317234,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 906,
+    "high": 907.85,
+    "low": 898.2,
+    "close": 900.05,
+    "volume": 5451954,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 900.35,
+    "high": 940,
+    "low": 891.05,
+    "close": 933,
+    "volume": 285080574,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 936.1,
+    "high": 939.8,
+    "low": 919,
+    "close": 928.95,
+    "volume": 250210014,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 927.15,
+    "high": 930.7,
+    "low": 895,
+    "close": 899.5,
+    "volume": 114228215,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 904.75,
+    "high": 912.5,
+    "low": 893.55,
+    "close": 903,
+    "volume": 147272934,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 901,
+    "high": 935.75,
+    "low": 901,
+    "close": 922,
+    "volume": 451454091,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 924.65,
+    "high": 951.3,
+    "low": 922,
+    "close": 924.8,
+    "volume": 425729624,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 923,
+    "high": 928,
+    "low": 903.15,
+    "close": 904,
+    "volume": 457178188,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 908,
+    "high": 913.1,
+    "low": 901,
+    "close": 901.4,
+    "volume": 133283199,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 905.25,
+    "high": 907.1,
+    "low": 890.6,
+    "close": 905.7,
+    "volume": 334288703,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 909.8,
+    "high": 910.5,
+    "low": 886.75,
+    "close": 891.9,
+    "volume": 176398287,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 890,
+    "high": 898.25,
+    "low": 875.7,
+    "close": 892,
+    "volume": 267515074,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 892.8,
+    "high": 903.2,
+    "low": 835.3,
+    "close": 865,
+    "volume": 675155998,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 862,
+    "high": 875.95,
+    "low": 855,
+    "close": 862.55,
+    "volume": 232705066,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 867.95,
+    "high": 876.9,
+    "low": 862.65,
+    "close": 869.95,
+    "volume": 228576367,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 869,
+    "high": 877.45,
+    "low": 858.9,
+    "close": 872.65,
+    "volume": 238582371,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 873.6,
+    "high": 880.7,
+    "low": 866,
+    "close": 866,
+    "volume": 153433887,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 867,
+    "high": 870.15,
+    "low": 851.3,
+    "close": 866.7,
+    "volume": 176075652,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 865.2,
+    "high": 881.95,
+    "low": 856.25,
+    "close": 867.3,
+    "volume": 320652020,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 867,
+    "high": 869.45,
+    "low": 852.15,
+    "close": 860.05,
+    "volume": 255772845,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 864,
+    "high": 873.45,
+    "low": 855,
+    "close": 855.1,
+    "volume": 320689845,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 857.85,
+    "high": 862.45,
+    "low": 843.25,
+    "close": 852,
+    "volume": 255848802,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 853.2,
+    "high": 880,
+    "low": 849,
+    "close": 867.8,
+    "volume": 288723871,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 873.55,
+    "high": 880,
+    "low": 858,
+    "close": 876.6,
+    "volume": 217315724,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 874.7,
+    "high": 878.45,
+    "low": 866.65,
+    "close": 868.55,
+    "volume": 199896559,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 865,
+    "high": 876.3,
+    "low": 865,
+    "close": 867,
+    "volume": 269349082,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 869.95,
+    "high": 872.25,
+    "low": 863,
+    "close": 864.95,
+    "volume": 241225508,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 862.25,
+    "high": 875,
+    "low": 857.5,
+    "close": 867.05,
+    "volume": 266594653,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 871.6,
+    "high": 871.6,
+    "low": 862.05,
+    "close": 863.2,
+    "volume": 206087959,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 863.2,
+    "high": 868.2,
+    "low": 852.3,
+    "close": 856.7,
+    "volume": 190355197,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 857.65,
+    "high": 862,
+    "low": 852.9,
+    "close": 856,
+    "volume": 40423280,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 859.7,
+    "high": 860.6,
+    "low": 848.65,
+    "close": 850,
+    "volume": 83131934,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 856,
+    "high": 864.15,
+    "low": 854.35,
+    "close": 860,
+    "volume": 276064262,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 862.75,
+    "high": 870.7,
+    "low": 855,
+    "close": 861.5,
+    "volume": 162390463,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 867.65,
+    "high": 867.65,
+    "low": 856.5,
+    "close": 857.3,
+    "volume": 84143761,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 861.85,
+    "high": 865.65,
+    "low": 857,
+    "close": 864.3,
+    "volume": 127045592,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 868.1,
+    "high": 874.4,
+    "low": 855.05,
+    "close": 859.75,
+    "volume": 241037325,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 857.5,
+    "high": 858.2,
+    "low": 844.25,
+    "close": 854.8,
+    "volume": 165548980,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 854.35,
+    "high": 859.4,
+    "low": 846.9,
+    "close": 854.9,
+    "volume": 110651407,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 858.6,
+    "high": 874.7,
+    "low": 848.3,
+    "close": 872.5,
+    "volume": 264669571,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 865.05,
+    "high": 904.35,
+    "low": 865.05,
+    "close": 896.65,
+    "volume": 785457896,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 904,
+    "high": 904,
+    "low": 872,
+    "close": 876.5,
+    "volume": 466143134,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 870.15,
+    "high": 896.9,
+    "low": 860,
+    "close": 867.4,
+    "volume": 314542353,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 868.9,
+    "high": 869.45,
+    "low": 845,
+    "close": 848.9,
+    "volume": 165483220,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 848.2,
+    "high": 859.7,
+    "low": 845.25,
+    "close": 856.15,
+    "volume": 193213412,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 859,
+    "high": 859,
+    "low": 848.1,
+    "close": 848.75,
+    "volume": 198020538,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 851.35,
+    "high": 857,
+    "low": 840.05,
+    "close": 850.35,
+    "volume": 310448173,
+    "symbol": "IPCALAB"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 858,
+    "high": 858.05,
+    "low": 841.4,
+    "close": 842.5,
+    "volume": 142890581,
+    "symbol": "IPCALAB"
+  }
+]

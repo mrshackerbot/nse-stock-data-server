@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1430.6,
+    "high": 1432.9,
+    "low": 1413.8,
+    "close": 1419.5,
+    "volume": 455326322,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1424.5,
+    "high": 1445.6,
+    "low": 1417.7,
+    "close": 1440.9,
+    "volume": 368574402,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1440,
+    "high": 1462.2,
+    "low": 1431.1,
+    "close": 1453.5,
+    "volume": 659544528,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1458,
+    "high": 1506,
+    "low": 1444,
+    "close": 1503.9,
+    "volume": 1996062941,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1503.9,
+    "high": 1512.8,
+    "low": 1485,
+    "close": 1494,
+    "volume": 630822897,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1496.5,
+    "high": 1499,
+    "low": 1469.5,
+    "close": 1479.9,
+    "volume": 1128882426,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1479.2,
+    "high": 1514.7,
+    "low": 1461.2,
+    "close": 1465.5,
+    "volume": 1926576726,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1461,
+    "high": 1463.2,
+    "low": 1437.9,
+    "close": 1450,
+    "volume": 2658447206,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1453,
+    "high": 1457,
+    "low": 1420,
+    "close": 1428.2,
+    "volume": 979738777,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1420,
+    "high": 1448.3,
+    "low": 1418.1,
+    "close": 1437.5,
+    "volume": 1130137302,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1437,
+    "high": 1447.4,
+    "low": 1420,
+    "close": 1421,
+    "volume": 581033706,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1426.5,
+    "high": 1454,
+    "low": 1420.2,
+    "close": 1436,
+    "volume": 1918406231,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1426,
+    "high": 1454.5,
+    "low": 1337.2,
+    "close": 1344.9,
+    "volume": 5768034147,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1340,
+    "high": 1348.6,
+    "low": 1294.3,
+    "close": 1315.8,
+    "volume": 2933368593,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1325,
+    "high": 1355,
+    "low": 1306.6,
+    "close": 1315.9,
+    "volume": 1065422765,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1324,
+    "high": 1324,
+    "low": 1280,
+    "close": 1285,
+    "volume": 1017137475,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1289,
+    "high": 1294.8,
+    "low": 1263.4,
+    "close": 1294.8,
+    "volume": 1392247943,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1290,
+    "high": 1296.6,
+    "low": 1281,
+    "close": 1290.1,
+    "volume": 1033942631,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1285,
+    "high": 1286.8,
+    "low": 1257.9,
+    "close": 1272,
+    "volume": 1430063674,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1266.1,
+    "high": 1291.8,
+    "low": 1258.6,
+    "close": 1282,
+    "volume": 2562457701,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1293.8,
+    "high": 1298.2,
+    "low": 1263,
+    "close": 1277.8,
+    "volume": 407466673,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1275,
+    "high": 1282.8,
+    "low": 1250.1,
+    "close": 1278.9,
+    "volume": 1043345754,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1309,
+    "high": 1335.1,
+    "low": 1305.4,
+    "close": 1316,
+    "volume": 1426704264,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1324,
+    "high": 1358.9,
+    "low": 1307,
+    "close": 1344,
+    "volume": 550636974,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1349.8,
+    "high": 1352.9,
+    "low": 1332,
+    "close": 1351.1,
+    "volume": 528754583,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1350.9,
+    "high": 1357.5,
+    "low": 1326.1,
+    "close": 1349.6,
+    "volume": 561567783,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1358,
+    "high": 1380.8,
+    "low": 1346,
+    "close": 1369.5,
+    "volume": 659720504,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1379.1,
+    "high": 1390.6,
+    "low": 1367.2,
+    "close": 1371,
+    "volume": 575609916,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1374.1,
+    "high": 1388.8,
+    "low": 1365,
+    "close": 1377.2,
+    "volume": 652813385,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1379,
+    "high": 1405,
+    "low": 1371.8,
+    "close": 1397,
+    "volume": 790500694,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1391.1,
+    "high": 1419,
+    "low": 1378.4,
+    "close": 1402.3,
+    "volume": 1084056787,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1404,
+    "high": 1428.5,
+    "low": 1396.2,
+    "close": 1417.3,
+    "volume": 524118097,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1417.1,
+    "high": 1438.7,
+    "low": 1413.9,
+    "close": 1434,
+    "volume": 437224126,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1437.5,
+    "high": 1442.3,
+    "low": 1425,
+    "close": 1433.1,
+    "volume": 556575595,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1434,
+    "high": 1438.9,
+    "low": 1392.3,
+    "close": 1400,
+    "volume": 381221149,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1399,
+    "high": 1416.4,
+    "low": 1396.3,
+    "close": 1413.5,
+    "volume": 765841804,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1420,
+    "high": 1423.9,
+    "low": 1402,
+    "close": 1406.2,
+    "volume": 313322027,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1410,
+    "high": 1417.8,
+    "low": 1392.6,
+    "close": 1400.1,
+    "volume": 383219034,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1411.2,
+    "high": 1420.6,
+    "low": 1395.5,
+    "close": 1416,
+    "volume": 1421895752,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1417.6,
+    "high": 1426,
+    "low": 1403.1,
+    "close": 1410,
+    "volume": 441913273,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1414.9,
+    "high": 1417,
+    "low": 1390.1,
+    "close": 1392.7,
+    "volume": 2097231572,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1360,
+    "high": 1383.6,
+    "low": 1333.7,
+    "close": 1358,
+    "volume": 1166369048,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1332,
+    "high": 1340,
+    "low": 1314.1,
+    "close": 1322.6,
+    "volume": 1234423815,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1334,
+    "high": 1359.3,
+    "low": 1327.2,
+    "close": 1349.7,
+    "volume": 430878390,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1352.5,
+    "high": 1365,
+    "low": 1340.3,
+    "close": 1351,
+    "volume": 664245777,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1336.9,
+    "high": 1336.9,
+    "low": 1301.4,
+    "close": 1332.4,
+    "volume": 1154859196,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1348,
+    "high": 1382.4,
+    "low": 1338.4,
+    "close": 1354.7,
+    "volume": 2089176715,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1363,
+    "high": 1404.6,
+    "low": 1359.8,
+    "close": 1361.1,
+    "volume": 1043559542,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1355.2,
+    "high": 1364.6,
+    "low": 1334.5,
+    "close": 1354.7,
+    "volume": 1156020462,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1340.9,
+    "high": 1353.2,
+    "low": 1303.5,
+    "close": 1319.3,
+    "volume": 2102564810,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1310,
+    "high": 1316.9,
+    "low": 1273,
+    "close": 1294.1,
+    "volume": 1245329812,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1300,
+    "high": 1321.8,
+    "low": 1291.5,
+    "close": 1308,
+    "volume": 1111456033,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1317.8,
+    "high": 1349.2,
+    "low": 1311.3,
+    "close": 1338,
+    "volume": 1399172037,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1323.8,
+    "high": 1335.8,
+    "low": 1290,
+    "close": 1300.9,
+    "volume": 659482696,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1301.1,
+    "high": 1314.6,
+    "low": 1278,
+    "close": 1282.9,
+    "volume": 1049201853,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1270,
+    "high": 1271.9,
+    "low": 1217.2,
+    "close": 1230,
+    "volume": 1030117291,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1249.4,
+    "high": 1261,
+    "low": 1221,
+    "close": 1234,
+    "volume": 695356463,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1251.2,
+    "high": 1300,
+    "low": 1240.6,
+    "close": 1290,
+    "volume": 1599478941,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1268.4,
+    "high": 1274.9,
+    "low": 1226.3,
+    "close": 1231.1,
+    "volume": 6972393003,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1210.9,
+    "high": 1224.7,
+    "low": 1184.1,
+    "close": 1194,
+    "volume": 1951160566,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1218,
+    "high": 1227.4,
+    "low": 1175.6,
+    "close": 1186,
+    "volume": 1151294868,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1170.1,
+    "high": 1186.5,
+    "low": 1142.5,
+    "close": 1181,
+    "volume": 1126793112,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1188.4,
+    "high": 1209,
+    "low": 1164.1,
+    "close": 1205,
+    "volume": 823800882,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1200,
+    "high": 1236.7,
+    "low": 1186.3,
+    "close": 1230.1,
+    "volume": 1262343646,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1278,
+    "high": 1278,
+    "low": 1240,
+    "close": 1245,
+    "volume": 949856040,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1249.9,
+    "high": 1266.7,
+    "low": 1234.4,
+    "close": 1253,
+    "volume": 1287573851,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1267.7,
+    "high": 1284,
+    "low": 1258.3,
+    "close": 1281,
+    "volume": 891186575,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1258.4,
+    "high": 1281.7,
+    "low": 1229,
+    "close": 1275,
+    "volume": 1212647704,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1285,
+    "high": 1300.8,
+    "low": 1258.7,
+    "close": 1287.4,
+    "volume": 1390627156,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1297,
+    "high": 1308,
+    "low": 1272.1,
+    "close": 1292.2,
+    "volume": 1277691480,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1291.9,
+    "high": 1314.8,
+    "low": 1285.2,
+    "close": 1304,
+    "volume": 1004999798,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1312.8,
+    "high": 1318.3,
+    "low": 1291.1,
+    "close": 1300,
+    "volume": 836391146,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1309,
+    "high": 1337.4,
+    "low": 1308.6,
+    "close": 1332,
+    "volume": 1189641755,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1336,
+    "high": 1410.7,
+    "low": 1320.1,
+    "close": 1325,
+    "volume": 6554388078,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1294.6,
+    "high": 1299.9,
+    "low": 1255.2,
+    "close": 1256.9,
+    "volume": 7192669843,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1262,
+    "high": 1267.4,
+    "low": 1233,
+    "close": 1235.1,
+    "volume": 2177335451,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1248,
+    "high": 1281.5,
+    "low": 1243.1,
+    "close": 1273.1,
+    "volume": 3121602212,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1273.1,
+    "high": 1281.2,
+    "low": 1263,
+    "close": 1271.5,
+    "volume": 1827770146,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1278,
+    "high": 1290.3,
+    "low": 1249.2,
+    "close": 1252.7,
+    "volume": 1977326669,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1252,
+    "high": 1252,
+    "low": 1233,
+    "close": 1243,
+    "volume": 1936367669,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1241.1,
+    "high": 1264,
+    "low": 1238.1,
+    "close": 1255,
+    "volume": 966479008,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1254,
+    "high": 1254,
+    "low": 1231,
+    "close": 1241.9,
+    "volume": 1110472292,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1251,
+    "high": 1259.8,
+    "low": 1241.2,
+    "close": 1256.9,
+    "volume": 1073979010,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1260,
+    "high": 1276.7,
+    "low": 1254.1,
+    "close": 1272.3,
+    "volume": 1265176020,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1268.9,
+    "high": 1274.7,
+    "low": 1252,
+    "close": 1253,
+    "volume": 766173247,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1248.2,
+    "high": 1249,
+    "low": 1226.6,
+    "close": 1232,
+    "volume": 764823622,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1225.5,
+    "high": 1231.6,
+    "low": 1187.4,
+    "close": 1193.4,
+    "volume": 1167927896,
+    "symbol": "HAVELLS"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1190.5,
+    "high": 1204,
+    "low": 1183.2,
+    "close": 1200,
+    "volume": 764506540,
+    "symbol": "HAVELLS"
+  }
+]

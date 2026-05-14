@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 618.8,
+    "high": 637.6,
+    "low": 614.05,
+    "close": 620.3,
+    "volume": 280749987,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 623,
+    "high": 634.55,
+    "low": 616.2,
+    "close": 627.8,
+    "volume": 557706339,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 630,
+    "high": 636.85,
+    "low": 626,
+    "close": 630,
+    "volume": 577895507,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 625,
+    "high": 639.9,
+    "low": 624,
+    "close": 634.95,
+    "volume": 667910444,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 637.8,
+    "high": 641,
+    "low": 630,
+    "close": 636.6,
+    "volume": 503216047,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 635.05,
+    "high": 646,
+    "low": 635.05,
+    "close": 644.25,
+    "volume": 397538066,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 636,
+    "high": 651.2,
+    "low": 636,
+    "close": 647.95,
+    "volume": 759666487,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 655,
+    "high": 661.95,
+    "low": 645.35,
+    "close": 655.4,
+    "volume": 1352422786,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 652,
+    "high": 671,
+    "low": 651,
+    "close": 670.5,
+    "volume": 861334367,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 671.85,
+    "high": 695,
+    "low": 666.05,
+    "close": 690,
+    "volume": 1897016488,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 692,
+    "high": 696.45,
+    "low": 685.6,
+    "close": 689,
+    "volume": 703292347,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 688,
+    "high": 694.35,
+    "low": 677.6,
+    "close": 679.5,
+    "volume": 923645420,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 678,
+    "high": 688.2,
+    "low": 669.7,
+    "close": 672.6,
+    "volume": 506707708,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 668,
+    "high": 670.55,
+    "low": 652.1,
+    "close": 666,
+    "volume": 414812287,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 661.95,
+    "high": 665.85,
+    "low": 619,
+    "close": 624.55,
+    "volume": 2759214649,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 626.9,
+    "high": 634.4,
+    "low": 614,
+    "close": 623,
+    "volume": 992501114,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 615,
+    "high": 629.7,
+    "low": 606.2,
+    "close": 620,
+    "volume": 549616339,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 615.05,
+    "high": 624.25,
+    "low": 600.55,
+    "close": 616.1,
+    "volume": 862086854,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 620,
+    "high": 647.85,
+    "low": 620,
+    "close": 637,
+    "volume": 1000661505,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 644,
+    "high": 651,
+    "low": 638.15,
+    "close": 645,
+    "volume": 770744728,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 655,
+    "high": 662.9,
+    "low": 647.35,
+    "close": 655.75,
+    "volume": 758848341,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 655.8,
+    "high": 666,
+    "low": 652.85,
+    "close": 664.5,
+    "volume": 680929972,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 664.2,
+    "high": 664.2,
+    "low": 655.5,
+    "close": 659.1,
+    "volume": 539236982,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 660,
+    "high": 662.8,
+    "low": 641.5,
+    "close": 644.5,
+    "volume": 480309890,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 637,
+    "high": 647.25,
+    "low": 627.1,
+    "close": 630.75,
+    "volume": 277304017,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 630,
+    "high": 632.9,
+    "low": 613.05,
+    "close": 615.65,
+    "volume": 732728550,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 617.4,
+    "high": 619.95,
+    "low": 612.4,
+    "close": 617,
+    "volume": 358677774,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 618,
+    "high": 629.35,
+    "low": 615.1,
+    "close": 619.65,
+    "volume": 774860706,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 610,
+    "high": 618.55,
+    "low": 608.2,
+    "close": 611.8,
+    "volume": 400562152,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 602.95,
+    "high": 604.95,
+    "low": 575.7,
+    "close": 590,
+    "volume": 919847502,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 593.85,
+    "high": 600.15,
+    "low": 584.4,
+    "close": 596.5,
+    "volume": 658307012,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 598,
+    "high": 608.45,
+    "low": 593,
+    "close": 599.85,
+    "volume": 619351553,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 600.95,
+    "high": 606.5,
+    "low": 593.05,
+    "close": 597.95,
+    "volume": 641199112,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 599,
+    "high": 603.85,
+    "low": 585.85,
+    "close": 594.7,
+    "volume": 911311010,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 590.1,
+    "high": 597.75,
+    "low": 584,
+    "close": 586.85,
+    "volume": 448681840,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 575.5,
+    "high": 578.95,
+    "low": 564.05,
+    "close": 576.35,
+    "volume": 1243837648,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 578.25,
+    "high": 593.85,
+    "low": 576.5,
+    "close": 584.9,
+    "volume": 524339422,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 570,
+    "high": 575.7,
+    "low": 556,
+    "close": 562,
+    "volume": 1096407340,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 570,
+    "high": 591.05,
+    "low": 565.3,
+    "close": 576.3,
+    "volume": 449679855,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 577.8,
+    "high": 601.15,
+    "low": 570.1,
+    "close": 599.45,
+    "volume": 734420709,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 595.05,
+    "high": 608,
+    "low": 589.4,
+    "close": 601.45,
+    "volume": 345596263,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 604.5,
+    "high": 611.4,
+    "low": 592.85,
+    "close": 596.9,
+    "volume": 487213404,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 590,
+    "high": 594,
+    "low": 578,
+    "close": 578.85,
+    "volume": 434798656,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 567.9,
+    "high": 579.75,
+    "low": 562.1,
+    "close": 573.1,
+    "volume": 956431873,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 570,
+    "high": 579.15,
+    "low": 556,
+    "close": 568.2,
+    "volume": 626885427,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 571,
+    "high": 596.7,
+    "low": 570.1,
+    "close": 594.3,
+    "volume": 407997822,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 598.25,
+    "high": 603,
+    "low": 590.25,
+    "close": 592.4,
+    "volume": 515776858,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 588.65,
+    "high": 601.85,
+    "low": 580.95,
+    "close": 599.55,
+    "volume": 669589080,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 596.95,
+    "high": 604.85,
+    "low": 588.9,
+    "close": 598,
+    "volume": 552319062,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 599.6,
+    "high": 604,
+    "low": 586.85,
+    "close": 590.85,
+    "volume": 372044268,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 595.2,
+    "high": 618.75,
+    "low": 593,
+    "close": 616.2,
+    "volume": 882701690,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 618,
+    "high": 622,
+    "low": 612.7,
+    "close": 616.2,
+    "volume": 533948146,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 619.9,
+    "high": 628.3,
+    "low": 610,
+    "close": 613,
+    "volume": 645927955,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 610,
+    "high": 617.1,
+    "low": 607.6,
+    "close": 613.3,
+    "volume": 641270398,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 615.6,
+    "high": 627,
+    "low": 611.35,
+    "close": 614.05,
+    "volume": 443516898,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 614.25,
+    "high": 630.1,
+    "low": 609.25,
+    "close": 621,
+    "volume": 880920847,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 623,
+    "high": 705,
+    "low": 623,
+    "close": 686.7,
+    "volume": 9333240030,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 680.1,
+    "high": 686.2,
+    "low": 654.1,
+    "close": 659.95,
+    "volume": 2473022675,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 664,
+    "high": 691,
+    "low": 643.75,
+    "close": 648,
+    "volume": 2939173979,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 656,
+    "high": 661.7,
+    "low": 646.1,
+    "close": 649.9,
+    "volume": 1062783515,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 657.8,
+    "high": 674.75,
+    "low": 648.25,
+    "close": 671,
+    "volume": 1855926239,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 675,
+    "high": 684,
+    "low": 660.65,
+    "close": 681,
+    "volume": 1243359786,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 681.95,
+    "high": 688,
+    "low": 673,
+    "close": 680.15,
+    "volume": 896259874,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 684.8,
+    "high": 699,
+    "low": 678,
+    "close": 683.5,
+    "volume": 1065006970,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 678,
+    "high": 715.6,
+    "low": 677,
+    "close": 712.85,
+    "volume": 2533254460,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 718,
+    "high": 718,
+    "low": 680.05,
+    "close": 687,
+    "volume": 1407905154,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 691.2,
+    "high": 708.05,
+    "low": 689.35,
+    "close": 705.95,
+    "volume": 1450144932,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 703.25,
+    "high": 711.1,
+    "low": 694,
+    "close": 699.75,
+    "volume": 749289490,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 698.8,
+    "high": 701.6,
+    "low": 678.05,
+    "close": 685.8,
+    "volume": 486188199,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 688.4,
+    "high": 688.65,
+    "low": 673,
+    "close": 674.1,
+    "volume": 367713917,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 671,
+    "high": 676.6,
+    "low": 661.45,
+    "close": 671.85,
+    "volume": 431053099,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 676.2,
+    "high": 684.8,
+    "low": 645.4,
+    "close": 647.95,
+    "volume": 668290057,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 658.5,
+    "high": 663.55,
+    "low": 645.9,
+    "close": 648.85,
+    "volume": 507419960,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 653,
+    "high": 666.6,
+    "low": 649.45,
+    "close": 660,
+    "volume": 637935677,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 657.2,
+    "high": 676.65,
+    "low": 645,
+    "close": 658,
+    "volume": 1080768413,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 648,
+    "high": 654.35,
+    "low": 642,
+    "close": 647,
+    "volume": 655891032,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 650,
+    "high": 655,
+    "low": 636.7,
+    "close": 644,
+    "volume": 610433832,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 638,
+    "high": 651.35,
+    "low": 635,
+    "close": 649.9,
+    "volume": 461469121,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 654.5,
+    "high": 660.75,
+    "low": 648.3,
+    "close": 656.95,
+    "volume": 399504945,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 661.9,
+    "high": 662.85,
+    "low": 642,
+    "close": 650.35,
+    "volume": 416920761,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 640,
+    "high": 661,
+    "low": 635.65,
+    "close": 643.05,
+    "volume": 803656001,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 645.35,
+    "high": 652.35,
+    "low": 637.45,
+    "close": 641.55,
+    "volume": 558913848,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 646.35,
+    "high": 669.9,
+    "low": 644,
+    "close": 647,
+    "volume": 1188523027,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 637,
+    "high": 645.9,
+    "low": 626.85,
+    "close": 636.4,
+    "volume": 671810243,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 625.05,
+    "high": 637.05,
+    "low": 620.1,
+    "close": 622.7,
+    "volume": 1112978028,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 620,
+    "high": 646,
+    "low": 608.8,
+    "close": 612.95,
+    "volume": 1205384447,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 619.15,
+    "high": 624.75,
+    "low": 600.2,
+    "close": 606.3,
+    "volume": 501813991,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 604,
+    "high": 606,
+    "low": 584.8,
+    "close": 594,
+    "volume": 700443367,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 598.9,
+    "high": 624.2,
+    "low": 598,
+    "close": 603.1,
+    "volume": 927805824,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 605.8,
+    "high": 621.95,
+    "low": 603.15,
+    "close": 619.6,
+    "volume": 477928506,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 623.6,
+    "high": 631.9,
+    "low": 611.85,
+    "close": 628,
+    "volume": 615039975,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 633,
+    "high": 636.05,
+    "low": 618.05,
+    "close": 620.25,
+    "volume": 953043173,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 611.6,
+    "high": 616.75,
+    "low": 602,
+    "close": 607,
+    "volume": 638408529,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 610,
+    "high": 618.2,
+    "low": 554,
+    "close": 577,
+    "volume": 3974261498,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 580,
+    "high": 613.8,
+    "low": 580,
+    "close": 598.15,
+    "volume": 2856366154,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 600.1,
+    "high": 609.7,
+    "low": 583.3,
+    "close": 587,
+    "volume": 1331456851,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 590,
+    "high": 645.5,
+    "low": 580.45,
+    "close": 622.05,
+    "volume": 5735172826,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 623.95,
+    "high": 647,
+    "low": 623.35,
+    "close": 642.25,
+    "volume": 3172949028,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 639.9,
+    "high": 660,
+    "low": 635,
+    "close": 659,
+    "volume": 1838114706,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 660,
+    "high": 677.7,
+    "low": 658.15,
+    "close": 663.05,
+    "volume": 1537753674,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 660,
+    "high": 673.5,
+    "low": 641.35,
+    "close": 649,
+    "volume": 2667562175,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 656.8,
+    "high": 664.95,
+    "low": 649.45,
+    "close": 655.65,
+    "volume": 950600338,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 657.4,
+    "high": 664.95,
+    "low": 646.15,
+    "close": 653,
+    "volume": 585411771,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 660,
+    "high": 667.5,
+    "low": 641.05,
+    "close": 646,
+    "volume": 630392818,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 645.45,
+    "high": 652.95,
+    "low": 632.5,
+    "close": 635.2,
+    "volume": 478195634,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 635,
+    "high": 635,
+    "low": 624,
+    "close": 625.1,
+    "volume": 526030174,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 623,
+    "high": 629.25,
+    "low": 618.7,
+    "close": 622,
+    "volume": 534361530,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 620,
+    "high": 662.2,
+    "low": 615,
+    "close": 657,
+    "volume": 2368325405,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 655.9,
+    "high": 664.85,
+    "low": 645.55,
+    "close": 648.5,
+    "volume": 1360753182,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 641.95,
+    "high": 646.95,
+    "low": 634.05,
+    "close": 642.95,
+    "volume": 505565646,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 640,
+    "high": 651.25,
+    "low": 634.65,
+    "close": 644,
+    "volume": 791798984,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 645,
+    "high": 648.3,
+    "low": 630.3,
+    "close": 633.9,
+    "volume": 437946362,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 637.5,
+    "high": 639.75,
+    "low": 613.85,
+    "close": 615,
+    "volume": 641288881,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 610,
+    "high": 623.4,
+    "low": 599.8,
+    "close": 616,
+    "volume": 1122426414,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 602,
+    "high": 621.2,
+    "low": 602,
+    "close": 611.7,
+    "volume": 537415288,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 614.05,
+    "high": 629,
+    "low": 612.5,
+    "close": 625,
+    "volume": 473468130,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 624.5,
+    "high": 627,
+    "low": 609,
+    "close": 611,
+    "volume": 398735710,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 617.5,
+    "high": 626.8,
+    "low": 613.3,
+    "close": 623.45,
+    "volume": 292379814,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 615.2,
+    "high": 628.55,
+    "low": 615.2,
+    "close": 622.9,
+    "volume": 650240166,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 627,
+    "high": 635.4,
+    "low": 621.05,
+    "close": 622,
+    "volume": 658934396,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 624.65,
+    "high": 628.05,
+    "low": 616.2,
+    "close": 620,
+    "volume": 443646892,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 617.9,
+    "high": 620.75,
+    "low": 605.1,
+    "close": 617.2,
+    "volume": 570978538,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 617.9,
+    "high": 622.35,
+    "low": 590,
+    "close": 592.95,
+    "volume": 1411486364,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 596.4,
+    "high": 605,
+    "low": 585.05,
+    "close": 603.15,
+    "volume": 634171137,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 600,
+    "high": 618.4,
+    "low": 600,
+    "close": 616.9,
+    "volume": 617963864,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 617.45,
+    "high": 630,
+    "low": 617.45,
+    "close": 630,
+    "volume": 545959849,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 651,
+    "high": 661.8,
+    "low": 628.15,
+    "close": 649.5,
+    "volume": 5524341361,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 653.95,
+    "high": 663.75,
+    "low": 646,
+    "close": 652.1,
+    "volume": 878599473,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 655,
+    "high": 665.75,
+    "low": 651.25,
+    "close": 656.65,
+    "volume": 706067762,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 656.65,
+    "high": 668.35,
+    "low": 653.05,
+    "close": 661.8,
+    "volume": 537745383,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 659,
+    "high": 682,
+    "low": 652.4,
+    "close": 673.05,
+    "volume": 1827778662,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 679.7,
+    "high": 684.55,
+    "low": 667.05,
+    "close": 674,
+    "volume": 1608273415,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 672.4,
+    "high": 680.55,
+    "low": 666.8,
+    "close": 674,
+    "volume": 453952382,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 670.35,
+    "high": 686.4,
+    "low": 668.25,
+    "close": 684.05,
+    "volume": 1114458016,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 684,
+    "high": 684,
+    "low": 666.4,
+    "close": 670.7,
+    "volume": 1721472568,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 670.7,
+    "high": 681.2,
+    "low": 669.7,
+    "close": 672,
+    "volume": 1117605087,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 676,
+    "high": 680,
+    "low": 672,
+    "close": 673.6,
+    "volume": 440111778,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 674.65,
+    "high": 685.5,
+    "low": 672.55,
+    "close": 682.05,
+    "volume": 728107147,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 682.5,
+    "high": 687,
+    "low": 670,
+    "close": 675,
+    "volume": 522879120,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 677,
+    "high": 677,
+    "low": 662.65,
+    "close": 670.15,
+    "volume": 690059518,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 669.8,
+    "high": 669.8,
+    "low": 663.2,
+    "close": 666.05,
+    "volume": 392087189,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 669.3,
+    "high": 683.45,
+    "low": 663.05,
+    "close": 677.05,
+    "volume": 434216959,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 681.15,
+    "high": 694.8,
+    "low": 680,
+    "close": 683.05,
+    "volume": 836266347,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 690.6,
+    "high": 714.65,
+    "low": 688.05,
+    "close": 710.25,
+    "volume": 1765757792,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 712.75,
+    "high": 720,
+    "low": 706.25,
+    "close": 710.95,
+    "volume": 889708035,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 711.05,
+    "high": 734,
+    "low": 701.55,
+    "close": 719.55,
+    "volume": 1292870429,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 720,
+    "high": 727.9,
+    "low": 691.05,
+    "close": 698.4,
+    "volume": 878885697,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 700.5,
+    "high": 702,
+    "low": 673.65,
+    "close": 679.25,
+    "volume": 996402910,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 692,
+    "high": 701.2,
+    "low": 684,
+    "close": 686,
+    "volume": 1653086677,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 685,
+    "high": 699.95,
+    "low": 666.6,
+    "close": 694.55,
+    "volume": 1427150639,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 694,
+    "high": 699.9,
+    "low": 681.5,
+    "close": 689,
+    "volume": 570554598,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 699.65,
+    "high": 705.95,
+    "low": 693.85,
+    "close": 700.5,
+    "volume": 1242859421,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 703.8,
+    "high": 708.8,
+    "low": 698.8,
+    "close": 698.9,
+    "volume": 592676577,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 705,
+    "high": 724.35,
+    "low": 697.05,
+    "close": 720,
+    "volume": 1146136217,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 720,
+    "high": 726.35,
+    "low": 703.55,
+    "close": 707.9,
+    "volume": 1174028606,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 707.6,
+    "high": 712.3,
+    "low": 699.1,
+    "close": 705,
+    "volume": 418097724,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 706,
+    "high": 706.65,
+    "low": 680.5,
+    "close": 682.6,
+    "volume": 664789352,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 683.35,
+    "high": 685.8,
+    "low": 669.05,
+    "close": 670.05,
+    "volume": 526559627,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 662.1,
+    "high": 679.05,
+    "low": 657.55,
+    "close": 676,
+    "volume": 630682841,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 678,
+    "high": 692,
+    "low": 673.95,
+    "close": 689.8,
+    "volume": 542518799,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 694.4,
+    "high": 711.9,
+    "low": 690.5,
+    "close": 703,
+    "volume": 986662303,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 703,
+    "high": 719.8,
+    "low": 701.05,
+    "close": 711.05,
+    "volume": 944986549,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 690.05,
+    "high": 705.85,
+    "low": 686.9,
+    "close": 689.5,
+    "volume": 798896598,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 694,
+    "high": 699,
+    "low": 686.25,
+    "close": 694.95,
+    "volume": 718832550,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 693.9,
+    "high": 704,
+    "low": 690.05,
+    "close": 693.5,
+    "volume": 744907321,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 690,
+    "high": 696.2,
+    "low": 672.1,
+    "close": 674,
+    "volume": 1238262278,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 671,
+    "high": 677.9,
+    "low": 663,
+    "close": 669.8,
+    "volume": 1455130815,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 671,
+    "high": 675,
+    "low": 667.2,
+    "close": 669.6,
+    "volume": 464551672,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 668,
+    "high": 766.7,
+    "low": 660.55,
+    "close": 723.3,
+    "volume": 15619724449,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 734.95,
+    "high": 747,
+    "low": 716.6,
+    "close": 736.05,
+    "volume": 7623782369,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 732,
+    "high": 772,
+    "low": 726.05,
+    "close": 752.45,
+    "volume": 4820875645,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 753,
+    "high": 771,
+    "low": 753,
+    "close": 764,
+    "volume": 2836363147,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 764.85,
+    "high": 782,
+    "low": 762.85,
+    "close": 770,
+    "volume": 2213496443,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 753,
+    "high": 781,
+    "low": 753,
+    "close": 766.5,
+    "volume": 2616755393,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 770,
+    "high": 773.25,
+    "low": 756.35,
+    "close": 762,
+    "volume": 1154961195,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 758.1,
+    "high": 763.5,
+    "low": 730.3,
+    "close": 741.2,
+    "volume": 1282589029,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 742.4,
+    "high": 759.85,
+    "low": 736.4,
+    "close": 746.45,
+    "volume": 1260672978,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 749.9,
+    "high": 760,
+    "low": 742.75,
+    "close": 743.85,
+    "volume": 821782878,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 744.9,
+    "high": 751,
+    "low": 733.95,
+    "close": 741.35,
+    "volume": 654288115,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 738,
+    "high": 757,
+    "low": 732,
+    "close": 751.3,
+    "volume": 898499856,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 754.4,
+    "high": 755.05,
+    "low": 722.55,
+    "close": 725.65,
+    "volume": 762859358,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 722,
+    "high": 724.9,
+    "low": 693.5,
+    "close": 696.5,
+    "volume": 1377912259,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 701.9,
+    "high": 704.85,
+    "low": 674,
+    "close": 685,
+    "volume": 2035064563,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 682.95,
+    "high": 694.45,
+    "low": 681.6,
+    "close": 685.1,
+    "volume": 725398894,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 690.05,
+    "high": 698.25,
+    "low": 685,
+    "close": 696,
+    "volume": 733034405,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 699,
+    "high": 717.75,
+    "low": 690.65,
+    "close": 713.8,
+    "volume": 1133011791,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 707,
+    "high": 711.2,
+    "low": 690,
+    "close": 692.35,
+    "volume": 467262745,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 699.95,
+    "high": 716,
+    "low": 699.95,
+    "close": 707.85,
+    "volume": 686408211,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 712.9,
+    "high": 719.9,
+    "low": 705.55,
+    "close": 707.65,
+    "volume": 736051336,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 712.7,
+    "high": 712.7,
+    "low": 692.8,
+    "close": 699.3,
+    "volume": 577297521,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 685,
+    "high": 692.85,
+    "low": 684,
+    "close": 689.1,
+    "volume": 482666265,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 695.5,
+    "high": 711.8,
+    "low": 688.4,
+    "close": 690.65,
+    "volume": 1454548967,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 694.55,
+    "high": 712,
+    "low": 692.35,
+    "close": 707.3,
+    "volume": 1286860846,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 712,
+    "high": 720.8,
+    "low": 692.4,
+    "close": 695.05,
+    "volume": 932051686,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 714.6,
+    "high": 714.6,
+    "low": 693.1,
+    "close": 696.05,
+    "volume": 424671321,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 697.9,
+    "high": 714.65,
+    "low": 686.7,
+    "close": 712.5,
+    "volume": 787422427,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 719.95,
+    "high": 728.4,
+    "low": 707.55,
+    "close": 722,
+    "volume": 1050563399,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 722,
+    "high": 778,
+    "low": 721.4,
+    "close": 771,
+    "volume": 4758777927,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 769.5,
+    "high": 769.5,
+    "low": 732.95,
+    "close": 747.9,
+    "volume": 3382273143,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 747.85,
+    "high": 754.4,
+    "low": 737.55,
+    "close": 745.6,
+    "volume": 1053579742,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 754,
+    "high": 754.7,
+    "low": 740.15,
+    "close": 750,
+    "volume": 128334667,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 754.8,
+    "high": 764.9,
+    "low": 747,
+    "close": 758.5,
+    "volume": 1938804261,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 763.15,
+    "high": 796,
+    "low": 761,
+    "close": 792.9,
+    "volume": 3447465987,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 793.45,
+    "high": 799.5,
+    "low": 782.5,
+    "close": 783.9,
+    "volume": 1250478420,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 789.55,
+    "high": 810.95,
+    "low": 788,
+    "close": 796.3,
+    "volume": 2290199772,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 799,
+    "high": 807,
+    "low": 789.3,
+    "close": 794.7,
+    "volume": 1153652703,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 791.8,
+    "high": 808,
+    "low": 788.85,
+    "close": 793.65,
+    "volume": 837841256,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 790,
+    "high": 809.95,
+    "low": 786.55,
+    "close": 795.65,
+    "volume": 839701877,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 798,
+    "high": 802.9,
+    "low": 787.5,
+    "close": 795.5,
+    "volume": 612371244,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 796.4,
+    "high": 802.5,
+    "low": 782.6,
+    "close": 784.5,
+    "volume": 885241111,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 786.6,
+    "high": 828.75,
+    "low": 786.6,
+    "close": 808,
+    "volume": 3227715511,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 812.8,
+    "high": 819,
+    "low": 798,
+    "close": 803.9,
+    "volume": 1192412360,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 809.95,
+    "high": 813.95,
+    "low": 765,
+    "close": 770,
+    "volume": 2462495291,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 763,
+    "high": 771,
+    "low": 748.1,
+    "close": 761.2,
+    "volume": 2277970834,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 763.9,
+    "high": 769.05,
+    "low": 759.25,
+    "close": 761.5,
+    "volume": 851052423,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 761.5,
+    "high": 765.8,
+    "low": 746.5,
+    "close": 762,
+    "volume": 1567668861,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 756.45,
+    "high": 762.95,
+    "low": 750,
+    "close": 752.3,
+    "volume": 938748958,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 753.15,
+    "high": 757,
+    "low": 727,
+    "close": 738.6,
+    "volume": 1528120647,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 740,
+    "high": 743.35,
+    "low": 729.1,
+    "close": 734.3,
+    "volume": 897205554,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 733.3,
+    "high": 737.95,
+    "low": 725.55,
+    "close": 737.8,
+    "volume": 544314554,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 738.7,
+    "high": 758.2,
+    "low": 736.55,
+    "close": 748.5,
+    "volume": 1322901372,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 751.5,
+    "high": 759.8,
+    "low": 744.8,
+    "close": 751,
+    "volume": 785986888,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 751.1,
+    "high": 766.9,
+    "low": 750,
+    "close": 762.75,
+    "volume": 1078143920,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 760,
+    "high": 773.45,
+    "low": 756.1,
+    "close": 766,
+    "volume": 837763964,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 770,
+    "high": 770.75,
+    "low": 755.15,
+    "close": 759,
+    "volume": 713538444,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 759,
+    "high": 775,
+    "low": 754,
+    "close": 772.75,
+    "volume": 1033092284,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 774.35,
+    "high": 777.7,
+    "low": 764.05,
+    "close": 770,
+    "volume": 1061493234,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 773.45,
+    "high": 784,
+    "low": 768.2,
+    "close": 781.55,
+    "volume": 948212039,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 784,
+    "high": 786.5,
+    "low": 771.7,
+    "close": 775.1,
+    "volume": 541840406,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 776.05,
+    "high": 777.25,
+    "low": 760.05,
+    "close": 764.7,
+    "volume": 528513378,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 766,
+    "high": 781,
+    "low": 763.15,
+    "close": 771.1,
+    "volume": 1027335707,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 771.95,
+    "high": 788.85,
+    "low": 770.25,
+    "close": 785,
+    "volume": 1298359499,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 789.05,
+    "high": 791.95,
+    "low": 768.4,
+    "close": 774.95,
+    "volume": 858132984,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 774,
+    "high": 777,
+    "low": 765.05,
+    "close": 770.25,
+    "volume": 689627445,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 772.8,
+    "high": 779.85,
+    "low": 767.25,
+    "close": 776.55,
+    "volume": 560377722,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 776.5,
+    "high": 779.75,
+    "low": 770.1,
+    "close": 771.6,
+    "volume": 918618191,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 772.5,
+    "high": 779.35,
+    "low": 762,
+    "close": 762,
+    "volume": 511871226,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 762,
+    "high": 762.7,
+    "low": 735,
+    "close": 740.55,
+    "volume": 1561107577,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 741.3,
+    "high": 745.1,
+    "low": 730.35,
+    "close": 740.1,
+    "volume": 650833841,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 740,
+    "high": 750,
+    "low": 734.4,
+    "close": 748.5,
+    "volume": 518711650,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 751,
+    "high": 766.4,
+    "low": 741.35,
+    "close": 745.15,
+    "volume": 1172938210,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 744,
+    "high": 755.2,
+    "low": 737.3,
+    "close": 748.5,
+    "volume": 661641129,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 743.95,
+    "high": 749,
+    "low": 710,
+    "close": 711,
+    "volume": 735888824,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 711,
+    "high": 732.85,
+    "low": 703,
+    "close": 726.95,
+    "volume": 330862455,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 729.95,
+    "high": 739.25,
+    "low": 719.05,
+    "close": 729,
+    "volume": 665564519,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 729.65,
+    "high": 732.45,
+    "low": 717.95,
+    "close": 726.6,
+    "volume": 430614524,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 725.2,
+    "high": 730.9,
+    "low": 719.5,
+    "close": 728.2,
+    "volume": 324632558,
+    "symbol": "CONCOR"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 728.9,
+    "high": 746.4,
+    "low": 728.25,
+    "close": 741,
+    "volume": 440860812,
+    "symbol": "CONCOR"
+  }
+]

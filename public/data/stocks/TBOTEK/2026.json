@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1652,
+    "high": 1679.4,
+    "low": 1610,
+    "close": 1625,
+    "volume": 117860344,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1652,
+    "high": 1654.4,
+    "low": 1618.9,
+    "close": 1641.9,
+    "volume": 115036676,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1640,
+    "high": 1663.8,
+    "low": 1560.1,
+    "close": 1656,
+    "volume": 100426741,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1668,
+    "high": 1668,
+    "low": 1605,
+    "close": 1615,
+    "volume": 56429167,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1618.1,
+    "high": 1618.1,
+    "low": 1569.8,
+    "close": 1585,
+    "volume": 157628531,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1575.4,
+    "high": 1581.7,
+    "low": 1510.6,
+    "close": 1535,
+    "volume": 193413831,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1520.2,
+    "high": 1547.2,
+    "low": 1509.9,
+    "close": 1522,
+    "volume": 130407516,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1515,
+    "high": 1524,
+    "low": 1477,
+    "close": 1505,
+    "volume": 234474125,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1502.2,
+    "high": 1543,
+    "low": 1482.2,
+    "close": 1539,
+    "volume": 57832420,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1521,
+    "high": 1564.9,
+    "low": 1504.5,
+    "close": 1551.7,
+    "volume": 92629415,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1553.6,
+    "high": 1563.2,
+    "low": 1512.5,
+    "close": 1512.5,
+    "volume": 51968043,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1495.8,
+    "high": 1515.5,
+    "low": 1462.9,
+    "close": 1510,
+    "volume": 151881527,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1509.8,
+    "high": 1525,
+    "low": 1475.8,
+    "close": 1498,
+    "volume": 93093324,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1515.2,
+    "high": 1515.2,
+    "low": 1442.3,
+    "close": 1455,
+    "volume": 136836891,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1468,
+    "high": 1485.9,
+    "low": 1451.9,
+    "close": 1459,
+    "volume": 69022799,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1455,
+    "high": 1462.2,
+    "low": 1419.5,
+    "close": 1423.1,
+    "volume": 165416828,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1421.3,
+    "high": 1427.4,
+    "low": 1363,
+    "close": 1405,
+    "volume": 317934930,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1406.8,
+    "high": 1437,
+    "low": 1406.8,
+    "close": 1431.4,
+    "volume": 54893030,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1431.4,
+    "high": 1437.7,
+    "low": 1344,
+    "close": 1367.9,
+    "volume": 162584931,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1355,
+    "high": 1405,
+    "low": 1326.2,
+    "close": 1383,
+    "volume": 151556297,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1395.1,
+    "high": 1413.3,
+    "low": 1364.4,
+    "close": 1371,
+    "volume": 39139120,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1380,
+    "high": 1411.7,
+    "low": 1344.1,
+    "close": 1402.6,
+    "volume": 401232496,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1429.9,
+    "high": 1467,
+    "low": 1394.8,
+    "close": 1454,
+    "volume": 107334709,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1445,
+    "high": 1461.8,
+    "low": 1420.3,
+    "close": 1453.3,
+    "volume": 97951182,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1469.7,
+    "high": 1469.7,
+    "low": 1425.1,
+    "close": 1461,
+    "volume": 52669788,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1460,
+    "high": 1483.9,
+    "low": 1430,
+    "close": 1467.3,
+    "volume": 75365745,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1464,
+    "high": 1527,
+    "low": 1460,
+    "close": 1510.5,
+    "volume": 99449572,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1536.3,
+    "high": 1579.9,
+    "low": 1526.1,
+    "close": 1572.8,
+    "volume": 98795862,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1584.9,
+    "high": 1601.6,
+    "low": 1522.9,
+    "close": 1539,
+    "volume": 108247111,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1570,
+    "high": 1570,
+    "low": 1445.1,
+    "close": 1472,
+    "volume": 464907212,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1472,
+    "high": 1548,
+    "low": 1390.3,
+    "close": 1483,
+    "volume": 281961224,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1473.1,
+    "high": 1488.6,
+    "low": 1428,
+    "close": 1434,
+    "volume": 181327427,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1430,
+    "high": 1439.4,
+    "low": 1410.2,
+    "close": 1426.5,
+    "volume": 60938028,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1428.3,
+    "high": 1437.2,
+    "low": 1380,
+    "close": 1391.8,
+    "volume": 139260599,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1380,
+    "high": 1403.1,
+    "low": 1363.5,
+    "close": 1373.1,
+    "volume": 52148627,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1378.6,
+    "high": 1379.7,
+    "low": 1340.1,
+    "close": 1359.5,
+    "volume": 74924076,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1372,
+    "high": 1372,
+    "low": 1312.8,
+    "close": 1332.2,
+    "volume": 173180442,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1332.2,
+    "high": 1335,
+    "low": 1299,
+    "close": 1311.3,
+    "volume": 236565875,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1313,
+    "high": 1322.9,
+    "low": 1274.1,
+    "close": 1289,
+    "volume": 216820085,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1285.4,
+    "high": 1290.1,
+    "low": 1251.1,
+    "close": 1256.5,
+    "volume": 107094048,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1251,
+    "high": 1259,
+    "low": 1207,
+    "close": 1221,
+    "volume": 380884319,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1170,
+    "high": 1201.2,
+    "low": 1142.4,
+    "close": 1187,
+    "volume": 254086595,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1166,
+    "high": 1166,
+    "low": 1125,
+    "close": 1140.1,
+    "volume": 144615845,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1140.1,
+    "high": 1202,
+    "low": 1088.2,
+    "close": 1175,
+    "volume": 411111829,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1154.8,
+    "high": 1195,
+    "low": 1131.8,
+    "close": 1173.6,
+    "volume": 185460318,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1176.5,
+    "high": 1200.8,
+    "low": 1128.6,
+    "close": 1192.5,
+    "volume": 113776831,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1228,
+    "high": 1231.4,
+    "low": 1182,
+    "close": 1217,
+    "volume": 76236208,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1214.6,
+    "high": 1233.7,
+    "low": 1174.7,
+    "close": 1210,
+    "volume": 107031817,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1182,
+    "high": 1250.9,
+    "low": 1165.1,
+    "close": 1221,
+    "volume": 106128319,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1219,
+    "high": 1219.4,
+    "low": 1152.5,
+    "close": 1156.1,
+    "volume": 66178148,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1168.2,
+    "high": 1190.5,
+    "low": 1125,
+    "close": 1168,
+    "volume": 64462379,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1175,
+    "high": 1188,
+    "low": 1166.6,
+    "close": 1166.6,
+    "volume": 51342611,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1173.5,
+    "high": 1206.2,
+    "low": 1165.7,
+    "close": 1172,
+    "volume": 95582437,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1160,
+    "high": 1160.3,
+    "low": 1106,
+    "close": 1106.5,
+    "volume": 205574091,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1110,
+    "high": 1119.4,
+    "low": 1060.9,
+    "close": 1067,
+    "volume": 70228352,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1060,
+    "high": 1064,
+    "low": 1004.2,
+    "close": 1018,
+    "volume": 98577035,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1050,
+    "high": 1074.8,
+    "low": 1014,
+    "close": 1055,
+    "volume": 182347478,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1071,
+    "high": 1125,
+    "low": 1070.1,
+    "close": 1091,
+    "volume": 610575395,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1090.4,
+    "high": 1116,
+    "low": 1065.1,
+    "close": 1104.7,
+    "volume": 266380889,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1094,
+    "high": 1097.9,
+    "low": 1050.1,
+    "close": 1068,
+    "volume": 99387559,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1099.9,
+    "high": 1102.7,
+    "low": 1069,
+    "close": 1100,
+    "volume": 281602529,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1087.8,
+    "high": 1106.8,
+    "low": 1057.4,
+    "close": 1083.6,
+    "volume": 55245570,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1089.9,
+    "high": 1113.9,
+    "low": 1062.8,
+    "close": 1098,
+    "volume": 71747558,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1084,
+    "high": 1091,
+    "low": 1069,
+    "close": 1080,
+    "volume": 49761031,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1144.2,
+    "high": 1236.3,
+    "low": 1121.4,
+    "close": 1160.1,
+    "volume": 1406785212,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1150,
+    "high": 1168.3,
+    "low": 1138.8,
+    "close": 1165,
+    "volume": 107199388,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1174.9,
+    "high": 1188.9,
+    "low": 1156.8,
+    "close": 1178.1,
+    "volume": 76475882,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1135,
+    "high": 1182.8,
+    "low": 1129,
+    "close": 1177.7,
+    "volume": 81231142,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1185.9,
+    "high": 1236.3,
+    "low": 1170,
+    "close": 1225,
+    "volume": 226928438,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1236.3,
+    "high": 1273.9,
+    "low": 1226.3,
+    "close": 1272,
+    "volume": 267483903,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1269.4,
+    "high": 1315,
+    "low": 1261,
+    "close": 1288,
+    "volume": 221669768,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1300.5,
+    "high": 1309.3,
+    "low": 1266.7,
+    "close": 1274,
+    "volume": 161596688,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1270,
+    "high": 1298.3,
+    "low": 1268.3,
+    "close": 1273.5,
+    "volume": 69487309,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1268,
+    "high": 1300.5,
+    "low": 1268,
+    "close": 1277.4,
+    "volume": 175074486,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1277.2,
+    "high": 1285.9,
+    "low": 1234,
+    "close": 1245.8,
+    "volume": 193263576,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1256.9,
+    "high": 1265,
+    "low": 1223.4,
+    "close": 1244,
+    "volume": 105845437,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1250.4,
+    "high": 1274,
+    "low": 1241.1,
+    "close": 1271,
+    "volume": 98526250,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1268.6,
+    "high": 1278.3,
+    "low": 1245,
+    "close": 1254.1,
+    "volume": 56398927,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1278,
+    "high": 1289,
+    "low": 1254.3,
+    "close": 1277.4,
+    "volume": 78031437,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1282,
+    "high": 1282,
+    "low": 1245,
+    "close": 1245.1,
+    "volume": 53380892,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1261.3,
+    "high": 1299,
+    "low": 1256.5,
+    "close": 1282.8,
+    "volume": 57789994,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1280,
+    "high": 1296,
+    "low": 1275.3,
+    "close": 1276,
+    "volume": 56886037,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1293,
+    "high": 1310.3,
+    "low": 1271.1,
+    "close": 1281,
+    "volume": 47746317,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1279.6,
+    "high": 1306.9,
+    "low": 1257.5,
+    "close": 1265,
+    "volume": 100068503,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1265.2,
+    "high": 1280.8,
+    "low": 1216.7,
+    "close": 1227,
+    "volume": 71962729,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1213,
+    "high": 1219,
+    "low": 1168.2,
+    "close": 1195.1,
+    "volume": 244735394,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1171.2,
+    "high": 1201.2,
+    "low": 1152.1,
+    "close": 1175.5,
+    "volume": 159739730,
+    "symbol": "TBOTEK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1162,
+    "high": 1179,
+    "low": 1139.1,
+    "close": 1175.1,
+    "volume": 34020496,
+    "symbol": "TBOTEK"
+  }
+]

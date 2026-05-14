@@ -1,0 +1,2216 @@
+[
+  {
+    "date": "02-Jan-2023",
+    "open": 1545,
+    "high": 1550,
+    "low": 1511.05,
+    "close": 1538,
+    "volume": 58581258,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Jan-2023",
+    "open": 1538.3,
+    "high": 1559.95,
+    "low": 1502.25,
+    "close": 1505.7,
+    "volume": 40484521,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "04-Jan-2023",
+    "open": 1507.05,
+    "high": 1520,
+    "low": 1490.05,
+    "close": 1509.9,
+    "volume": 21971556,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-Jan-2023",
+    "open": 1509.45,
+    "high": 1535,
+    "low": 1492.15,
+    "close": 1531,
+    "volume": 38856393,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Jan-2023",
+    "open": 1530.8,
+    "high": 1530.8,
+    "low": 1495,
+    "close": 1505,
+    "volume": 27676509,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-Jan-2023",
+    "open": 1499.85,
+    "high": 1520,
+    "low": 1499.85,
+    "close": 1513.2,
+    "volume": 13387087,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Jan-2023",
+    "open": 1497,
+    "high": 1519.2,
+    "low": 1497,
+    "close": 1518,
+    "volume": 44154532,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-Jan-2023",
+    "open": 1507.8,
+    "high": 1517.8,
+    "low": 1496.45,
+    "close": 1500,
+    "volume": 11958411,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Jan-2023",
+    "open": 1515,
+    "high": 1543.05,
+    "low": 1505.05,
+    "close": 1508,
+    "volume": 36184020,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Jan-2023",
+    "open": 1509,
+    "high": 1516.8,
+    "low": 1496.45,
+    "close": 1501.3,
+    "volume": 17573556,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-Jan-2023",
+    "open": 1507.85,
+    "high": 1514.95,
+    "low": 1495.05,
+    "close": 1500.2,
+    "volume": 8782098,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Jan-2023",
+    "open": 1502.2,
+    "high": 1505,
+    "low": 1494,
+    "close": 1505,
+    "volume": 5613553,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-Jan-2023",
+    "open": 1500,
+    "high": 1506.3,
+    "low": 1480,
+    "close": 1481.2,
+    "volume": 23458752,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "19-Jan-2023",
+    "open": 1481,
+    "high": 1504.25,
+    "low": 1469.05,
+    "close": 1489.9,
+    "volume": 20511233,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Jan-2023",
+    "open": 1484,
+    "high": 1499.9,
+    "low": 1474.25,
+    "close": 1479,
+    "volume": 16145904,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-Jan-2023",
+    "open": 1486.1,
+    "high": 1486.65,
+    "low": 1421.1,
+    "close": 1433,
+    "volume": 110895416,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-Jan-2023",
+    "open": 1430,
+    "high": 1455,
+    "low": 1422.05,
+    "close": 1430,
+    "volume": 100289240,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "25-Jan-2023",
+    "open": 1433.2,
+    "high": 1461.4,
+    "low": 1429.15,
+    "close": 1461.4,
+    "volume": 17308205,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Jan-2023",
+    "open": 1460,
+    "high": 1468.75,
+    "low": 1424.8,
+    "close": 1441.6,
+    "volume": 24765794,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "30-Jan-2023",
+    "open": 1400,
+    "high": 1518.75,
+    "low": 1400,
+    "close": 1495,
+    "volume": 62210018,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "31-Jan-2023",
+    "open": 1487.4,
+    "high": 1514,
+    "low": 1472.05,
+    "close": 1492.25,
+    "volume": 101813434,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "01-Feb-2023",
+    "open": 1493,
+    "high": 1499.95,
+    "low": 1440,
+    "close": 1449,
+    "volume": 96154114,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "02-Feb-2023",
+    "open": 1439.85,
+    "high": 1469,
+    "low": 1437.95,
+    "close": 1445,
+    "volume": 28550629,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Feb-2023",
+    "open": 1431,
+    "high": 1451.25,
+    "low": 1431,
+    "close": 1444.8,
+    "volume": 28184707,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Feb-2023",
+    "open": 1441.2,
+    "high": 1474.45,
+    "low": 1434.9,
+    "close": 1471.4,
+    "volume": 22963707,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "07-Feb-2023",
+    "open": 1470,
+    "high": 1475,
+    "low": 1451,
+    "close": 1453.15,
+    "volume": 37310115,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-Feb-2023",
+    "open": 1455.95,
+    "high": 1468.35,
+    "low": 1450,
+    "close": 1464.4,
+    "volume": 8646934,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-Feb-2023",
+    "open": 1463.7,
+    "high": 1500,
+    "low": 1445.05,
+    "close": 1464.8,
+    "volume": 17246209,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Feb-2023",
+    "open": 1440,
+    "high": 1494.95,
+    "low": 1440,
+    "close": 1470,
+    "volume": 29600995,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Feb-2023",
+    "open": 1460,
+    "high": 1467.4,
+    "low": 1436.1,
+    "close": 1450.2,
+    "volume": 19662838,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "14-Feb-2023",
+    "open": 1450.65,
+    "high": 1453.9,
+    "low": 1430,
+    "close": 1430,
+    "volume": 36215999,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "15-Feb-2023",
+    "open": 1432.7,
+    "high": 1439.85,
+    "low": 1421,
+    "close": 1436,
+    "volume": 16661309,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-Feb-2023",
+    "open": 1434,
+    "high": 1441.6,
+    "low": 1405.05,
+    "close": 1406,
+    "volume": 69619134,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Feb-2023",
+    "open": 1422,
+    "high": 1422,
+    "low": 1394,
+    "close": 1405,
+    "volume": 413665032,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Feb-2023",
+    "open": 1395,
+    "high": 1403.5,
+    "low": 1346.4,
+    "close": 1380,
+    "volume": 66549240,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Feb-2023",
+    "open": 1366,
+    "high": 1415,
+    "low": 1362,
+    "close": 1414,
+    "volume": 57641778,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-Feb-2023",
+    "open": 1400,
+    "high": 1418.8,
+    "low": 1369,
+    "close": 1375.15,
+    "volume": 162149469,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-Feb-2023",
+    "open": 1388,
+    "high": 1389.25,
+    "low": 1363,
+    "close": 1380,
+    "volume": 102912171,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-Feb-2023",
+    "open": 1376,
+    "high": 1385.3,
+    "low": 1333,
+    "close": 1357,
+    "volume": 44664840,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Feb-2023",
+    "open": 1335,
+    "high": 1345.15,
+    "low": 1311.1,
+    "close": 1345,
+    "volume": 47741441,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Feb-2023",
+    "open": 1335.25,
+    "high": 1349.35,
+    "low": 1318.1,
+    "close": 1349,
+    "volume": 51546739,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "01-Mar-2023",
+    "open": 1345,
+    "high": 1357,
+    "low": 1328,
+    "close": 1353.75,
+    "volume": 43008367,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "02-Mar-2023",
+    "open": 1354.35,
+    "high": 1359.95,
+    "low": 1327.2,
+    "close": 1340,
+    "volume": 36871158,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Mar-2023",
+    "open": 1341.7,
+    "high": 1356,
+    "low": 1330,
+    "close": 1340.1,
+    "volume": 24261859,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Mar-2023",
+    "open": 1349.85,
+    "high": 1368,
+    "low": 1330,
+    "close": 1360,
+    "volume": 31666486,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-Mar-2023",
+    "open": 1365,
+    "high": 1393,
+    "low": 1360.25,
+    "close": 1374,
+    "volume": 41781112,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-Mar-2023",
+    "open": 1386.45,
+    "high": 1392,
+    "low": 1372.85,
+    "close": 1384.8,
+    "volume": 14226823,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Mar-2023",
+    "open": 1389.8,
+    "high": 1449.1,
+    "low": 1374.95,
+    "close": 1400,
+    "volume": 155850381,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Mar-2023",
+    "open": 1389.95,
+    "high": 1420,
+    "low": 1376.95,
+    "close": 1384.9,
+    "volume": 46873280,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "14-Mar-2023",
+    "open": 1399.95,
+    "high": 1420.85,
+    "low": 1357.35,
+    "close": 1375,
+    "volume": 16943379,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "15-Mar-2023",
+    "open": 1375,
+    "high": 1387.55,
+    "low": 1359.8,
+    "close": 1375,
+    "volume": 13884707,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-Mar-2023",
+    "open": 1348.9,
+    "high": 1360.9,
+    "low": 1330.05,
+    "close": 1340,
+    "volume": 220876160,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Mar-2023",
+    "open": 1344,
+    "high": 1355.7,
+    "low": 1344,
+    "close": 1348.95,
+    "volume": 17509882,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Mar-2023",
+    "open": 1320,
+    "high": 1370,
+    "low": 1320,
+    "close": 1350,
+    "volume": 375276375,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Mar-2023",
+    "open": 1350,
+    "high": 1353.3,
+    "low": 1326,
+    "close": 1334,
+    "volume": 13299981,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-Mar-2023",
+    "open": 1344.8,
+    "high": 1364.15,
+    "low": 1282,
+    "close": 1327,
+    "volume": 1622776325,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-Mar-2023",
+    "open": 1320.3,
+    "high": 1344,
+    "low": 1315,
+    "close": 1323.95,
+    "volume": 52733469,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-Mar-2023",
+    "open": 1328,
+    "high": 1350,
+    "low": 1310.3,
+    "close": 1330,
+    "volume": 54884572,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Mar-2023",
+    "open": 1340,
+    "high": 1365.05,
+    "low": 1332.8,
+    "close": 1345,
+    "volume": 63684706,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Mar-2023",
+    "open": 1334.2,
+    "high": 1364.75,
+    "low": 1334.2,
+    "close": 1350,
+    "volume": 53034927,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "29-Mar-2023",
+    "open": 1345,
+    "high": 1366.05,
+    "low": 1330.1,
+    "close": 1350,
+    "volume": 132524554,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "31-Mar-2023",
+    "open": 1346.2,
+    "high": 1419.9,
+    "low": 1346.2,
+    "close": 1370,
+    "volume": 288134142,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Apr-2023",
+    "open": 1399.9,
+    "high": 1406,
+    "low": 1379.1,
+    "close": 1387,
+    "volume": 16431278,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-Apr-2023",
+    "open": 1400,
+    "high": 1420,
+    "low": 1383,
+    "close": 1400,
+    "volume": 145715890,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Apr-2023",
+    "open": 1418,
+    "high": 1449.15,
+    "low": 1405.05,
+    "close": 1441,
+    "volume": 190639759,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Apr-2023",
+    "open": 1440.9,
+    "high": 1445,
+    "low": 1408.05,
+    "close": 1412,
+    "volume": 71661606,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-Apr-2023",
+    "open": 1426.85,
+    "high": 1478,
+    "low": 1426.85,
+    "close": 1450,
+    "volume": 123268380,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Apr-2023",
+    "open": 1458.95,
+    "high": 1490,
+    "low": 1451.2,
+    "close": 1487,
+    "volume": 51683856,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Apr-2023",
+    "open": 1490,
+    "high": 1498.45,
+    "low": 1467.55,
+    "close": 1485.75,
+    "volume": 23052717,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Apr-2023",
+    "open": 1492.75,
+    "high": 1518,
+    "low": 1474.4,
+    "close": 1510,
+    "volume": 78338650,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-Apr-2023",
+    "open": 1502.5,
+    "high": 1509.3,
+    "low": 1489,
+    "close": 1503,
+    "volume": 16071093,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "19-Apr-2023",
+    "open": 1500.45,
+    "high": 1508.25,
+    "low": 1485,
+    "close": 1485,
+    "volume": 6752395,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Apr-2023",
+    "open": 1489.9,
+    "high": 1518,
+    "low": 1487.6,
+    "close": 1512,
+    "volume": 38866162,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Apr-2023",
+    "open": 1518,
+    "high": 1518,
+    "low": 1477.4,
+    "close": 1499,
+    "volume": 17778755,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-Apr-2023",
+    "open": 1494.05,
+    "high": 1508,
+    "low": 1480.05,
+    "close": 1503,
+    "volume": 22373537,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "25-Apr-2023",
+    "open": 1503.2,
+    "high": 1539.5,
+    "low": 1492.8,
+    "close": 1518,
+    "volume": 126404559,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "26-Apr-2023",
+    "open": 1507.8,
+    "high": 1525.05,
+    "low": 1470,
+    "close": 1476,
+    "volume": 28609231,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Apr-2023",
+    "open": 1466.1,
+    "high": 1483.95,
+    "low": 1462,
+    "close": 1471.9,
+    "volume": 16113937,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Apr-2023",
+    "open": 1471.1,
+    "high": 1520,
+    "low": 1471.1,
+    "close": 1512.2,
+    "volume": 15767661,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "02-May-2023",
+    "open": 1511,
+    "high": 1523.95,
+    "low": 1493.05,
+    "close": 1502.9,
+    "volume": 30969227,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-May-2023",
+    "open": 1493.05,
+    "high": 1514.85,
+    "low": 1478,
+    "close": 1490,
+    "volume": 24322998,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "04-May-2023",
+    "open": 1495.2,
+    "high": 1500.65,
+    "low": 1482.75,
+    "close": 1490.7,
+    "volume": 8298229,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-May-2023",
+    "open": 1485,
+    "high": 1505,
+    "low": 1482.05,
+    "close": 1500,
+    "volume": 25358533,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-May-2023",
+    "open": 1499.9,
+    "high": 1520,
+    "low": 1494,
+    "close": 1496,
+    "volume": 24242369,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-May-2023",
+    "open": 1500,
+    "high": 1510,
+    "low": 1478.05,
+    "close": 1487,
+    "volume": 48563555,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-May-2023",
+    "open": 1482.25,
+    "high": 1520,
+    "low": 1474.05,
+    "close": 1495,
+    "volume": 70559443,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-May-2023",
+    "open": 1503.3,
+    "high": 1519,
+    "low": 1457.05,
+    "close": 1500,
+    "volume": 55303438,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-May-2023",
+    "open": 1502.45,
+    "high": 1515,
+    "low": 1479.1,
+    "close": 1495,
+    "volume": 70926071,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "15-May-2023",
+    "open": 1498.95,
+    "high": 1551.95,
+    "low": 1493.95,
+    "close": 1534.4,
+    "volume": 266899075,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-May-2023",
+    "open": 1537.8,
+    "high": 1549.95,
+    "low": 1510.5,
+    "close": 1515,
+    "volume": 59703404,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-May-2023",
+    "open": 1515.7,
+    "high": 1535,
+    "low": 1505.05,
+    "close": 1530.1,
+    "volume": 31034004,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-May-2023",
+    "open": 1530,
+    "high": 1560,
+    "low": 1530,
+    "close": 1535,
+    "volume": 48470544,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "19-May-2023",
+    "open": 1535.95,
+    "high": 1565,
+    "low": 1513.8,
+    "close": 1527.1,
+    "volume": 132974412,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-May-2023",
+    "open": 1523.2,
+    "high": 1629.95,
+    "low": 1517.15,
+    "close": 1579.85,
+    "volume": 174090274,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-May-2023",
+    "open": 1580.05,
+    "high": 1615.6,
+    "low": 1572.05,
+    "close": 1605.4,
+    "volume": 63662040,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-May-2023",
+    "open": 1615,
+    "high": 1650,
+    "low": 1601.7,
+    "close": 1608,
+    "volume": 101358693,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "25-May-2023",
+    "open": 1609,
+    "high": 1630.05,
+    "low": 1575,
+    "close": 1597.85,
+    "volume": 595106232,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "26-May-2023",
+    "open": 1597.55,
+    "high": 1615,
+    "low": 1585.3,
+    "close": 1603.05,
+    "volume": 40511858,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "29-May-2023",
+    "open": 1643,
+    "high": 1643.3,
+    "low": 1597.3,
+    "close": 1602.55,
+    "volume": 128043978,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "30-May-2023",
+    "open": 1600.5,
+    "high": 1619.35,
+    "low": 1590.2,
+    "close": 1609,
+    "volume": 3836917323,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "31-May-2023",
+    "open": 1606,
+    "high": 1635,
+    "low": 1590,
+    "close": 1626.1,
+    "volume": 596117869,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "01-Jun-2023",
+    "open": 1628,
+    "high": 1628,
+    "low": 1589.45,
+    "close": 1592,
+    "volume": 69766571,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "02-Jun-2023",
+    "open": 1602.85,
+    "high": 1618.4,
+    "low": 1542.95,
+    "close": 1561,
+    "volume": 83001019,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-Jun-2023",
+    "open": 1561,
+    "high": 1583.7,
+    "low": 1518.95,
+    "close": 1536,
+    "volume": 94887109,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Jun-2023",
+    "open": 1542,
+    "high": 1625,
+    "low": 1542,
+    "close": 1615,
+    "volume": 144301039,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "07-Jun-2023",
+    "open": 1610.35,
+    "high": 1622,
+    "low": 1590.3,
+    "close": 1595,
+    "volume": 39445521,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-Jun-2023",
+    "open": 1602,
+    "high": 1608.85,
+    "low": 1553,
+    "close": 1558.85,
+    "volume": 37413912,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-Jun-2023",
+    "open": 1574,
+    "high": 1597.95,
+    "low": 1550,
+    "close": 1589,
+    "volume": 49138381,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Jun-2023",
+    "open": 1596,
+    "high": 1614.95,
+    "low": 1581.05,
+    "close": 1610,
+    "volume": 61792377,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Jun-2023",
+    "open": 1611.9,
+    "high": 1625,
+    "low": 1595.75,
+    "close": 1610,
+    "volume": 45737226,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "14-Jun-2023",
+    "open": 1615.4,
+    "high": 1632.4,
+    "low": 1599.45,
+    "close": 1608,
+    "volume": 24618285,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "15-Jun-2023",
+    "open": 1609.7,
+    "high": 1628,
+    "low": 1600,
+    "close": 1601,
+    "volume": 31143880,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-Jun-2023",
+    "open": 1618.35,
+    "high": 1689.9,
+    "low": 1600.55,
+    "close": 1636,
+    "volume": 195602606,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "19-Jun-2023",
+    "open": 1642.15,
+    "high": 1727.3,
+    "low": 1640.05,
+    "close": 1702,
+    "volume": 928447979,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Jun-2023",
+    "open": 1739,
+    "high": 1784,
+    "low": 1710.5,
+    "close": 1730,
+    "volume": 359379889,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Jun-2023",
+    "open": 1758,
+    "high": 1806,
+    "low": 1715.5,
+    "close": 1730,
+    "volume": 415646964,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-Jun-2023",
+    "open": 1734,
+    "high": 1857.75,
+    "low": 1730.6,
+    "close": 1835,
+    "volume": 380779799,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-Jun-2023",
+    "open": 1820,
+    "high": 1829.85,
+    "low": 1761.05,
+    "close": 1767.95,
+    "volume": 103987499,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "26-Jun-2023",
+    "open": 1765,
+    "high": 1806.95,
+    "low": 1750.2,
+    "close": 1760,
+    "volume": 80429707,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Jun-2023",
+    "open": 1762,
+    "high": 1807.8,
+    "low": 1762,
+    "close": 1801,
+    "volume": 128797521,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Jun-2023",
+    "open": 1825,
+    "high": 1825,
+    "low": 1780,
+    "close": 1789,
+    "volume": 58305518,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "30-Jun-2023",
+    "open": 1794.3,
+    "high": 1806,
+    "low": 1780.3,
+    "close": 1786,
+    "volume": 124195204,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Jul-2023",
+    "open": 1787.5,
+    "high": 1805,
+    "low": 1745.2,
+    "close": 1755,
+    "volume": 354834123,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "04-Jul-2023",
+    "open": 1762.95,
+    "high": 1774.95,
+    "low": 1745.5,
+    "close": 1753.9,
+    "volume": 147964732,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-Jul-2023",
+    "open": 1756.05,
+    "high": 1764.95,
+    "low": 1720,
+    "close": 1737,
+    "volume": 223010245,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Jul-2023",
+    "open": 1748,
+    "high": 1810,
+    "low": 1745.15,
+    "close": 1769.8,
+    "volume": 830930755,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "07-Jul-2023",
+    "open": 1778,
+    "high": 1810,
+    "low": 1775.5,
+    "close": 1790,
+    "volume": 106587669,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Jul-2023",
+    "open": 1799,
+    "high": 1804,
+    "low": 1765.2,
+    "close": 1776,
+    "volume": 584073109,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-Jul-2023",
+    "open": 1780,
+    "high": 1899.95,
+    "low": 1775,
+    "close": 1830,
+    "volume": 1156853132,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Jul-2023",
+    "open": 1856.05,
+    "high": 1896.7,
+    "low": 1830,
+    "close": 1875,
+    "volume": 332960943,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Jul-2023",
+    "open": 1890,
+    "high": 1904.75,
+    "low": 1810,
+    "close": 1879,
+    "volume": 162762777,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "14-Jul-2023",
+    "open": 1850,
+    "high": 1940,
+    "low": 1836,
+    "close": 1933.75,
+    "volume": 1118676010,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Jul-2023",
+    "open": 1933.75,
+    "high": 1940,
+    "low": 1880.95,
+    "close": 1939.9,
+    "volume": 234229754,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-Jul-2023",
+    "open": 1939,
+    "high": 1939,
+    "low": 1893.05,
+    "close": 1920,
+    "volume": 102443410,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "19-Jul-2023",
+    "open": 1920,
+    "high": 1944.8,
+    "low": 1919.6,
+    "close": 1930,
+    "volume": 65061123,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Jul-2023",
+    "open": 1930,
+    "high": 1933.4,
+    "low": 1903.2,
+    "close": 1910,
+    "volume": 33115691,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Jul-2023",
+    "open": 1911.7,
+    "high": 1940,
+    "low": 1860.45,
+    "close": 1884,
+    "volume": 51467738,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-Jul-2023",
+    "open": 1875,
+    "high": 1934.95,
+    "low": 1845,
+    "close": 1923,
+    "volume": 84388470,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "25-Jul-2023",
+    "open": 1925.5,
+    "high": 2075,
+    "low": 1917.85,
+    "close": 1962.05,
+    "volume": 614759382,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "26-Jul-2023",
+    "open": 1973.65,
+    "high": 1986,
+    "low": 1940.05,
+    "close": 1945,
+    "volume": 177242607,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Jul-2023",
+    "open": 1952.9,
+    "high": 1954.55,
+    "low": 1904.95,
+    "close": 1908.5,
+    "volume": 53167865,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Jul-2023",
+    "open": 1922,
+    "high": 1935,
+    "low": 1900,
+    "close": 1935,
+    "volume": 52755779,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "31-Jul-2023",
+    "open": 1945,
+    "high": 1945,
+    "low": 1900.05,
+    "close": 1915,
+    "volume": 93305002,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "01-Aug-2023",
+    "open": 1918,
+    "high": 1938,
+    "low": 1890,
+    "close": 1894.5,
+    "volume": 93437747,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "02-Aug-2023",
+    "open": 1909.4,
+    "high": 1945,
+    "low": 1836.5,
+    "close": 1850,
+    "volume": 129437958,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Aug-2023",
+    "open": 1874.9,
+    "high": 1919.8,
+    "low": 1841.55,
+    "close": 1847,
+    "volume": 60457776,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "04-Aug-2023",
+    "open": 1860.3,
+    "high": 1894.9,
+    "low": 1833.9,
+    "close": 1864.8,
+    "volume": 52879292,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "07-Aug-2023",
+    "open": 1865,
+    "high": 1892.95,
+    "low": 1834.3,
+    "close": 1842,
+    "volume": 74790402,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-Aug-2023",
+    "open": 1856.3,
+    "high": 1861.85,
+    "low": 1806.3,
+    "close": 1831,
+    "volume": 922700654,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-Aug-2023",
+    "open": 1833.4,
+    "high": 1890,
+    "low": 1823,
+    "close": 1889.95,
+    "volume": 352132513,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Aug-2023",
+    "open": 1889.95,
+    "high": 1916,
+    "low": 1823.5,
+    "close": 1830,
+    "volume": 692715623,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-Aug-2023",
+    "open": 1834.65,
+    "high": 1881.05,
+    "low": 1834.65,
+    "close": 1865,
+    "volume": 104816512,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "14-Aug-2023",
+    "open": 1885,
+    "high": 1895,
+    "low": 1844.1,
+    "close": 1895,
+    "volume": 99506695,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-Aug-2023",
+    "open": 1885,
+    "high": 1928.3,
+    "low": 1882,
+    "close": 1900,
+    "volume": 177000717,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Aug-2023",
+    "open": 1909.7,
+    "high": 1929,
+    "low": 1890,
+    "close": 1908,
+    "volume": 30508342,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-Aug-2023",
+    "open": 1910,
+    "high": 1945,
+    "low": 1900.45,
+    "close": 1931.85,
+    "volume": 97813058,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Aug-2023",
+    "open": 1945,
+    "high": 1948,
+    "low": 1910.45,
+    "close": 1918.05,
+    "volume": 99454807,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-Aug-2023",
+    "open": 1932.2,
+    "high": 2020,
+    "low": 1918.05,
+    "close": 1978,
+    "volume": 338238616,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-Aug-2023",
+    "open": 1982,
+    "high": 1998.3,
+    "low": 1961.35,
+    "close": 1970,
+    "volume": 73736011,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-Aug-2023",
+    "open": 1971,
+    "high": 2020,
+    "low": 1950.1,
+    "close": 1998.8,
+    "volume": 219184554,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "25-Aug-2023",
+    "open": 1998.8,
+    "high": 2012.55,
+    "low": 1980.95,
+    "close": 2000,
+    "volume": 158515133,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Aug-2023",
+    "open": 2010,
+    "high": 2038,
+    "low": 1965,
+    "close": 1980,
+    "volume": 51227370,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "29-Aug-2023",
+    "open": 1975.9,
+    "high": 1992.8,
+    "low": 1950,
+    "close": 1961.75,
+    "volume": 31050350,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "30-Aug-2023",
+    "open": 1960,
+    "high": 1980,
+    "low": 1920.1,
+    "close": 1950,
+    "volume": 40917215,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "31-Aug-2023",
+    "open": 1950,
+    "high": 2017.45,
+    "low": 1950,
+    "close": 2000,
+    "volume": 340062208,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "01-Sep-2023",
+    "open": 2003.6,
+    "high": 2003.6,
+    "low": 1926.5,
+    "close": 1930,
+    "volume": 100190176,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "04-Sep-2023",
+    "open": 1978.8,
+    "high": 2099,
+    "low": 1968.95,
+    "close": 1994,
+    "volume": 680052300,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-Sep-2023",
+    "open": 2002,
+    "high": 2056.65,
+    "low": 1999.1,
+    "close": 2019.1,
+    "volume": 465509389,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Sep-2023",
+    "open": 2048.9,
+    "high": 2064.05,
+    "low": 2030.65,
+    "close": 2055,
+    "volume": 235142768,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "07-Sep-2023",
+    "open": 2065.45,
+    "high": 2144.95,
+    "low": 2064.5,
+    "close": 2083,
+    "volume": 337345027,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-Sep-2023",
+    "open": 2114.7,
+    "high": 2169,
+    "low": 2093.85,
+    "close": 2132.1,
+    "volume": 237118116,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-Sep-2023",
+    "open": 2162,
+    "high": 2229.9,
+    "low": 2121.35,
+    "close": 2125,
+    "volume": 276552182,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Sep-2023",
+    "open": 2196.8,
+    "high": 2210,
+    "low": 2055.1,
+    "close": 2070,
+    "volume": 325268024,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Sep-2023",
+    "open": 2089.9,
+    "high": 2130,
+    "low": 2060,
+    "close": 2125,
+    "volume": 215883448,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "14-Sep-2023",
+    "open": 2104.9,
+    "high": 2155,
+    "low": 2090.1,
+    "close": 2137,
+    "volume": 235115175,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "15-Sep-2023",
+    "open": 2140.1,
+    "high": 2153.75,
+    "low": 1969.5,
+    "close": 2021.7,
+    "volume": 1285451239,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-Sep-2023",
+    "open": 2055.05,
+    "high": 2058.5,
+    "low": 1985.85,
+    "close": 2010.75,
+    "volume": 198276892,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Sep-2023",
+    "open": 2004.3,
+    "high": 2012.8,
+    "low": 1950,
+    "close": 1951,
+    "volume": 109178973,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Sep-2023",
+    "open": 1966,
+    "high": 2032.9,
+    "low": 1959,
+    "close": 1975.05,
+    "volume": 186032893,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-Sep-2023",
+    "open": 1980,
+    "high": 2004.95,
+    "low": 1975.45,
+    "close": 1990,
+    "volume": 100401587,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "25-Sep-2023",
+    "open": 1999,
+    "high": 2020,
+    "low": 1965,
+    "close": 1972,
+    "volume": 90142291,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "26-Sep-2023",
+    "open": 1987.35,
+    "high": 2003,
+    "low": 1955.4,
+    "close": 1960,
+    "volume": 77873691,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Sep-2023",
+    "open": 1971,
+    "high": 1986.95,
+    "low": 1960,
+    "close": 1975,
+    "volume": 71357628,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Sep-2023",
+    "open": 1976,
+    "high": 2008.75,
+    "low": 1951.5,
+    "close": 1971.8,
+    "volume": 175088276,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "29-Sep-2023",
+    "open": 1975.8,
+    "high": 1995.9,
+    "low": 1967.95,
+    "close": 1982.8,
+    "volume": 97473755,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Oct-2023",
+    "open": 1987.2,
+    "high": 1995.2,
+    "low": 1918,
+    "close": 1932.55,
+    "volume": 155957263,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "04-Oct-2023",
+    "open": 1932.95,
+    "high": 1977.8,
+    "low": 1924.5,
+    "close": 1930,
+    "volume": 86423362,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-Oct-2023",
+    "open": 1960,
+    "high": 1960,
+    "low": 1923.5,
+    "close": 1930.4,
+    "volume": 59448383,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Oct-2023",
+    "open": 1934.95,
+    "high": 1957.55,
+    "low": 1910.35,
+    "close": 1920,
+    "volume": 54426910,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-Oct-2023",
+    "open": 1901,
+    "high": 1950.9,
+    "low": 1890.5,
+    "close": 1909.95,
+    "volume": 91203740,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Oct-2023",
+    "open": 1911,
+    "high": 1950,
+    "low": 1909.05,
+    "close": 1924.1,
+    "volume": 58819838,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-Oct-2023",
+    "open": 1944,
+    "high": 1944,
+    "low": 1895,
+    "close": 1898.7,
+    "volume": 157776159,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Oct-2023",
+    "open": 1909,
+    "high": 1935,
+    "low": 1891.2,
+    "close": 1900,
+    "volume": 192174195,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Oct-2023",
+    "open": 1914,
+    "high": 1950,
+    "low": 1891.85,
+    "close": 1923,
+    "volume": 218543649,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-Oct-2023",
+    "open": 1934.95,
+    "high": 1998.55,
+    "low": 1894.05,
+    "close": 1931.9,
+    "volume": 274913636,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Oct-2023",
+    "open": 1953,
+    "high": 1965,
+    "low": 1855,
+    "close": 1895,
+    "volume": 214270834,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-Oct-2023",
+    "open": 1909.8,
+    "high": 1964.15,
+    "low": 1901.55,
+    "close": 1935,
+    "volume": 535633803,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "19-Oct-2023",
+    "open": 1938.85,
+    "high": 1984,
+    "low": 1921.45,
+    "close": 1969.9,
+    "volume": 111467770,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Oct-2023",
+    "open": 1968,
+    "high": 1988,
+    "low": 1940,
+    "close": 1940,
+    "volume": 45670775,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-Oct-2023",
+    "open": 1948.75,
+    "high": 1948.8,
+    "low": 1854.05,
+    "close": 1889.95,
+    "volume": 151905669,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "25-Oct-2023",
+    "open": 1889.9,
+    "high": 1896.95,
+    "low": 1825.25,
+    "close": 1835,
+    "volume": 99879075,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "26-Oct-2023",
+    "open": 1824.95,
+    "high": 1840,
+    "low": 1772.05,
+    "close": 1810,
+    "volume": 153757159,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Oct-2023",
+    "open": 1852.4,
+    "high": 1900,
+    "low": 1822.85,
+    "close": 1900,
+    "volume": 212918830,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "30-Oct-2023",
+    "open": 1907.9,
+    "high": 1924.95,
+    "low": 1891.45,
+    "close": 1894.85,
+    "volume": 102475866,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "31-Oct-2023",
+    "open": 1922.25,
+    "high": 1959,
+    "low": 1875.05,
+    "close": 1895,
+    "volume": 75140468,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "01-Nov-2023",
+    "open": 1897.1,
+    "high": 1915.9,
+    "low": 1866.45,
+    "close": 1875,
+    "volume": 65806512,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "02-Nov-2023",
+    "open": 1885.5,
+    "high": 1914.95,
+    "low": 1843.55,
+    "close": 1869,
+    "volume": 80093993,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "03-Nov-2023",
+    "open": 1865.85,
+    "high": 1899.45,
+    "low": 1854,
+    "close": 1860,
+    "volume": 52576244,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Nov-2023",
+    "open": 1889.9,
+    "high": 1894.75,
+    "low": 1852,
+    "close": 1859.95,
+    "volume": 40767593,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "07-Nov-2023",
+    "open": 1880,
+    "high": 1904.8,
+    "low": 1863.05,
+    "close": 1880,
+    "volume": 341946280,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-Nov-2023",
+    "open": 1900,
+    "high": 1900.95,
+    "low": 1863.25,
+    "close": 1870,
+    "volume": 93337804,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "09-Nov-2023",
+    "open": 1870,
+    "high": 1896.75,
+    "low": 1855,
+    "close": 1882,
+    "volume": 214488534,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "10-Nov-2023",
+    "open": 1883.5,
+    "high": 1889.75,
+    "low": 1864.3,
+    "close": 1869.2,
+    "volume": 134719455,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Nov-2023",
+    "open": 1904.95,
+    "high": 1905,
+    "low": 1880,
+    "close": 1890,
+    "volume": 10032484,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Nov-2023",
+    "open": 1888.7,
+    "high": 1888.75,
+    "low": 1856.2,
+    "close": 1861,
+    "volume": 69505814,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "15-Nov-2023",
+    "open": 1878.15,
+    "high": 1900,
+    "low": 1852,
+    "close": 1894,
+    "volume": 366179573,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "16-Nov-2023",
+    "open": 1894,
+    "high": 1899,
+    "low": 1847.5,
+    "close": 1850,
+    "volume": 411610993,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "17-Nov-2023",
+    "open": 1861.7,
+    "high": 1870,
+    "low": 1846,
+    "close": 1858,
+    "volume": 206980986,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Nov-2023",
+    "open": 1866,
+    "high": 1942.8,
+    "low": 1860,
+    "close": 1927,
+    "volume": 469282397,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Nov-2023",
+    "open": 1949,
+    "high": 1971.25,
+    "low": 1926,
+    "close": 1932,
+    "volume": 152664183,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-Nov-2023",
+    "open": 1948.3,
+    "high": 1965.55,
+    "low": 1935,
+    "close": 1940.1,
+    "volume": 191480997,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "23-Nov-2023",
+    "open": 1950,
+    "high": 1960,
+    "low": 1925.05,
+    "close": 1944,
+    "volume": 238819444,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "24-Nov-2023",
+    "open": 1946.35,
+    "high": 1948.45,
+    "low": 1916.15,
+    "close": 1916.8,
+    "volume": 244447075,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Nov-2023",
+    "open": 1930.95,
+    "high": 1947.6,
+    "low": 1907.6,
+    "close": 1907.6,
+    "volume": 110486119,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "29-Nov-2023",
+    "open": 1934.6,
+    "high": 1967.95,
+    "low": 1904,
+    "close": 1947,
+    "volume": 159466035,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "30-Nov-2023",
+    "open": 1970,
+    "high": 1989,
+    "low": 1922.35,
+    "close": 1950,
+    "volume": 217110934,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "01-Dec-2023",
+    "open": 1973,
+    "high": 1986.95,
+    "low": 1938.9,
+    "close": 1941.5,
+    "volume": 68120474,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "04-Dec-2023",
+    "open": 1970,
+    "high": 1980,
+    "low": 1938.6,
+    "close": 1979.7,
+    "volume": 322026320,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "05-Dec-2023",
+    "open": 1984.95,
+    "high": 1999.9,
+    "low": 1968.75,
+    "close": 1986.9,
+    "volume": 365821653,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "06-Dec-2023",
+    "open": 1994.9,
+    "high": 2019,
+    "low": 1975.85,
+    "close": 1979.95,
+    "volume": 408876365,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "07-Dec-2023",
+    "open": 2000.6,
+    "high": 2000.6,
+    "low": 1950,
+    "close": 1952,
+    "volume": 69191675,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "08-Dec-2023",
+    "open": 1959.8,
+    "high": 1969,
+    "low": 1911.7,
+    "close": 1920.7,
+    "volume": 99495838,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "11-Dec-2023",
+    "open": 1925,
+    "high": 1930.2,
+    "low": 1897.1,
+    "close": 1900,
+    "volume": 671097870,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "12-Dec-2023",
+    "open": 1909.9,
+    "high": 1915.95,
+    "low": 1870,
+    "close": 1904.95,
+    "volume": 264468046,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "13-Dec-2023",
+    "open": 1907.6,
+    "high": 1915,
+    "low": 1897.65,
+    "close": 1909,
+    "volume": 42782940,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "14-Dec-2023",
+    "open": 1920,
+    "high": 1938,
+    "low": 1907,
+    "close": 1930,
+    "volume": 71576419,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "15-Dec-2023",
+    "open": 1942.3,
+    "high": 1990.4,
+    "low": 1929.15,
+    "close": 1964,
+    "volume": 419415593,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "18-Dec-2023",
+    "open": 1965,
+    "high": 2017.5,
+    "low": 1936.2,
+    "close": 1945,
+    "volume": 231685008,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "19-Dec-2023",
+    "open": 1966,
+    "high": 1995,
+    "low": 1954.05,
+    "close": 1979.9,
+    "volume": 156314045,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "20-Dec-2023",
+    "open": 1989,
+    "high": 2008.9,
+    "low": 1944.8,
+    "close": 1945,
+    "volume": 153017543,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "21-Dec-2023",
+    "open": 1951.05,
+    "high": 1984.95,
+    "low": 1929.3,
+    "close": 1975,
+    "volume": 277636070,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "22-Dec-2023",
+    "open": 1985,
+    "high": 1997.55,
+    "low": 1966.75,
+    "close": 1977,
+    "volume": 44000089,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "26-Dec-2023",
+    "open": 2018.25,
+    "high": 2052.95,
+    "low": 1995,
+    "close": 1995,
+    "volume": 142754830,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "27-Dec-2023",
+    "open": 2016.9,
+    "high": 2019.6,
+    "low": 1989.05,
+    "close": 2004,
+    "volume": 312633248,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "28-Dec-2023",
+    "open": 2015,
+    "high": 2034.95,
+    "low": 1990,
+    "close": 1990,
+    "volume": 457867380,
+    "symbol": "KIMS"
+  },
+  {
+    "date": "29-Dec-2023",
+    "open": 1998.75,
+    "high": 2000.9,
+    "low": 1969.8,
+    "close": 1982,
+    "volume": 89070016,
+    "symbol": "KIMS"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 52.71,
+    "high": 52.98,
+    "low": 52.05,
+    "close": 52.58,
+    "volume": 1402601043,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 52.59,
+    "high": 54.4,
+    "low": 52.44,
+    "close": 54.29,
+    "volume": 3198738297,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 54.4,
+    "high": 54.54,
+    "low": 53.3,
+    "close": 53.65,
+    "volume": 2189652271,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 53.7,
+    "high": 53.99,
+    "low": 52.87,
+    "close": 53.4,
+    "volume": 1660058584,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 53.3,
+    "high": 53.69,
+    "low": 52.67,
+    "close": 52.96,
+    "volume": 2584863640,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 52.9,
+    "high": 53.41,
+    "low": 50.65,
+    "close": 50.82,
+    "volume": 3063100087,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 50.82,
+    "high": 51.09,
+    "low": 48.87,
+    "close": 49.3,
+    "volume": 4482091109,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 49.3,
+    "high": 49.38,
+    "low": 47.9,
+    "close": 49.31,
+    "volume": 3240257861,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 49.55,
+    "high": 49.7,
+    "low": 47.8,
+    "close": 48.56,
+    "volume": 3661555260,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 48.49,
+    "high": 49.8,
+    "low": 48.16,
+    "close": 48.99,
+    "volume": 2748093539,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 49.02,
+    "high": 49.36,
+    "low": 48.15,
+    "close": 48.45,
+    "volume": 5105268618,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 48.69,
+    "high": 48.92,
+    "low": 47.45,
+    "close": 47.94,
+    "volume": 2538611492,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 47.98,
+    "high": 48.33,
+    "low": 46.2,
+    "close": 46.56,
+    "volume": 2862782676,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 46.3,
+    "high": 46.69,
+    "low": 45.37,
+    "close": 45.7,
+    "volume": 3590119480,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 46.4,
+    "high": 47.2,
+    "low": 45.75,
+    "close": 47.19,
+    "volume": 2610678541,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 47.4,
+    "high": 47.4,
+    "low": 45.55,
+    "close": 45.8,
+    "volume": 2281348162,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 45.85,
+    "high": 46.25,
+    "low": 44.88,
+    "close": 46.18,
+    "volume": 2868831553,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 46.01,
+    "high": 48,
+    "low": 46.01,
+    "close": 47.99,
+    "volume": 2832653741,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 48.03,
+    "high": 48.09,
+    "low": 46.63,
+    "close": 47.55,
+    "volume": 2618086487,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 47.43,
+    "high": 47.97,
+    "low": 46.79,
+    "close": 47.68,
+    "volume": 2883596917,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 48.21,
+    "high": 48.95,
+    "low": 45.95,
+    "close": 46.35,
+    "volume": 3230875297,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 46.5,
+    "high": 47.25,
+    "low": 45.41,
+    "close": 47.22,
+    "volume": 2103276709,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 49.31,
+    "high": 49.69,
+    "low": 48.42,
+    "close": 49.26,
+    "volume": 3854158987,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 49.26,
+    "high": 50,
+    "low": 48.8,
+    "close": 49.84,
+    "volume": 2750278358,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 50,
+    "high": 50.02,
+    "low": 47,
+    "close": 47.76,
+    "volume": 5857921055,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 47.85,
+    "high": 48.2,
+    "low": 47.25,
+    "close": 48.05,
+    "volume": 2767257942,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 48.26,
+    "high": 48.57,
+    "low": 47.61,
+    "close": 48.14,
+    "volume": 2491549237,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 48.2,
+    "high": 48.39,
+    "low": 47.55,
+    "close": 47.64,
+    "volume": 1933659827,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 47.71,
+    "high": 47.74,
+    "low": 46.7,
+    "close": 47.44,
+    "volume": 2691191838,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 47.3,
+    "high": 47.55,
+    "low": 46.72,
+    "close": 46.82,
+    "volume": 1829496293,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 46.6,
+    "high": 46.74,
+    "low": 45.55,
+    "close": 45.7,
+    "volume": 2421015877,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 45.67,
+    "high": 46.33,
+    "low": 45.34,
+    "close": 46.28,
+    "volume": 1806745508,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 46.19,
+    "high": 46.57,
+    "low": 45.71,
+    "close": 45.9,
+    "volume": 1838518048,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 45.95,
+    "high": 46.29,
+    "low": 45.81,
+    "close": 46.1,
+    "volume": 1015648617,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 46.05,
+    "high": 46.39,
+    "low": 45,
+    "close": 45.05,
+    "volume": 1674974465,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 45.2,
+    "high": 45.35,
+    "low": 44.26,
+    "close": 44.38,
+    "volume": 2757705460,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 44.56,
+    "high": 44.96,
+    "low": 43.83,
+    "close": 44.32,
+    "volume": 2189708363,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 44.25,
+    "high": 44.39,
+    "low": 43.36,
+    "close": 44.35,
+    "volume": 2482334514,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 44.34,
+    "high": 44.74,
+    "low": 42.6,
+    "close": 43.23,
+    "volume": 3289204668,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 43.18,
+    "high": 43.9,
+    "low": 42.87,
+    "close": 43.34,
+    "volume": 2157362624,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 43.27,
+    "high": 43.3,
+    "low": 42.45,
+    "close": 42.65,
+    "volume": 3664179212,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 39.13,
+    "high": 41.79,
+    "low": 39.13,
+    "close": 41,
+    "volume": 4744070234,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 40.2,
+    "high": 40.55,
+    "low": 39.7,
+    "close": 39.92,
+    "volume": 2850642893,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 40.25,
+    "high": 40.64,
+    "low": 39.22,
+    "close": 40.3,
+    "volume": 3554730187,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 40.25,
+    "high": 40.99,
+    "low": 39.85,
+    "close": 39.99,
+    "volume": 2546464165,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 39.49,
+    "high": 39.76,
+    "low": 38.19,
+    "close": 39.71,
+    "volume": 2798651235,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 40.38,
+    "high": 41.64,
+    "low": 40,
+    "close": 41.53,
+    "volume": 2896515796,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 41.72,
+    "high": 42.06,
+    "low": 41.4,
+    "close": 41.67,
+    "volume": 2676384584,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 41.51,
+    "high": 43.54,
+    "low": 40.93,
+    "close": 42.53,
+    "volume": 4614714717,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 42.42,
+    "high": 42.83,
+    "low": 40.98,
+    "close": 41.64,
+    "volume": 3307689125,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 41.49,
+    "high": 42.23,
+    "low": 40.72,
+    "close": 41,
+    "volume": 3355167804,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 41.5,
+    "high": 41.6,
+    "low": 40.51,
+    "close": 41.26,
+    "volume": 2894117970,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 41.34,
+    "high": 42.3,
+    "low": 41.21,
+    "close": 42.07,
+    "volume": 2444457299,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 41.2,
+    "high": 41.79,
+    "low": 40.82,
+    "close": 41.29,
+    "volume": 2296313741,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 41.4,
+    "high": 42.73,
+    "low": 41.34,
+    "close": 41.93,
+    "volume": 3035208428,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 41.76,
+    "high": 41.76,
+    "low": 39.7,
+    "close": 39.95,
+    "volume": 2746983506,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 41.3,
+    "high": 41.3,
+    "low": 39.95,
+    "close": 41.12,
+    "volume": 2666175518,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 41.5,
+    "high": 42.85,
+    "low": 41.43,
+    "close": 42.23,
+    "volume": 3228473765,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 41.85,
+    "high": 42.05,
+    "low": 40.6,
+    "close": 40.77,
+    "volume": 3035679319,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 40,
+    "high": 40.81,
+    "low": 39.1,
+    "close": 39.61,
+    "volume": 5047873682,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 41.39,
+    "high": 41.59,
+    "low": 40.8,
+    "close": 41.19,
+    "volume": 2411428307,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 40.5,
+    "high": 40.98,
+    "low": 39.77,
+    "close": 40.94,
+    "volume": 2609736935,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 40.9,
+    "high": 41.73,
+    "low": 39.84,
+    "close": 41.6,
+    "volume": 2728211549,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 41.29,
+    "high": 41.9,
+    "low": 40.93,
+    "close": 41.5,
+    "volume": 1624578277,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 43.4,
+    "high": 44.38,
+    "low": 42.63,
+    "close": 44.33,
+    "volume": 4316040609,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 44.23,
+    "high": 44.56,
+    "low": 43.36,
+    "close": 44.28,
+    "volume": 3541040739,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 44.48,
+    "high": 45.65,
+    "low": 44.38,
+    "close": 45.59,
+    "volume": 3032854060,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 44.5,
+    "high": 46.41,
+    "low": 43.89,
+    "close": 45.9,
+    "volume": 6028753582,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 47,
+    "high": 49.36,
+    "low": 46.73,
+    "close": 49,
+    "volume": 10459373275,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 50.03,
+    "high": 50.53,
+    "low": 49.01,
+    "close": 50.42,
+    "volume": 8007590327,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 50.79,
+    "high": 53.74,
+    "low": 50.57,
+    "close": 53.35,
+    "volume": 17679972803,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 53.34,
+    "high": 53.45,
+    "low": 51.87,
+    "close": 52.4,
+    "volume": 8074815260,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 52.81,
+    "high": 53.35,
+    "low": 52.26,
+    "close": 53.02,
+    "volume": 6072475385,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 53.15,
+    "high": 54.7,
+    "low": 52.9,
+    "close": 54.65,
+    "volume": 7964927640,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 54.51,
+    "high": 55.05,
+    "low": 53.52,
+    "close": 53.78,
+    "volume": 6227680632,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 53.9,
+    "high": 54.25,
+    "low": 52.93,
+    "close": 53.85,
+    "volume": 5525596654,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 54.26,
+    "high": 57.48,
+    "low": 54.26,
+    "close": 56.87,
+    "volume": 12140751733,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 57.15,
+    "high": 57.87,
+    "low": 56.9,
+    "close": 57.33,
+    "volume": 7934580060,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 57.75,
+    "high": 58.06,
+    "low": 56.4,
+    "close": 56.7,
+    "volume": 7291184814,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 56.5,
+    "high": 56.5,
+    "low": 55,
+    "close": 55.64,
+    "volume": 5695695283,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 56.2,
+    "high": 56.35,
+    "low": 54.07,
+    "close": 55.04,
+    "volume": 5665352592,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 54.95,
+    "high": 56,
+    "low": 54.56,
+    "close": 54.92,
+    "volume": 3962881869,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 55.29,
+    "high": 55.31,
+    "low": 53.31,
+    "close": 54.36,
+    "volume": 4897656373,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 54.59,
+    "high": 55.87,
+    "low": 53.75,
+    "close": 55.66,
+    "volume": 5392231339,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 55.9,
+    "high": 55.92,
+    "low": 54.57,
+    "close": 54.9,
+    "volume": 3144234602,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 54.35,
+    "high": 54.43,
+    "low": 53.02,
+    "close": 53.32,
+    "volume": 3759029743,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 53,
+    "high": 53.96,
+    "low": 51.31,
+    "close": 51.7,
+    "volume": 5222631654,
+    "symbol": "SUZLON"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 51.31,
+    "high": 53.74,
+    "low": 51.31,
+    "close": 53.25,
+    "volume": 4908702748,
+    "symbol": "SUZLON"
+  }
+]

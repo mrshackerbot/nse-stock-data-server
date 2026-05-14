@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 424.25,
+    "high": 429.5,
+    "low": 418.7,
+    "close": 427.55,
+    "volume": 755765304,
+    "symbol": "OIL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 427.55,
+    "high": 431.5,
+    "low": 426.3,
+    "close": 428.2,
+    "volume": 461948848,
+    "symbol": "OIL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 432.45,
+    "high": 432.45,
+    "low": 415.1,
+    "close": 420.2,
+    "volume": 1001611372,
+    "symbol": "OIL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 419.9,
+    "high": 426.4,
+    "low": 417,
+    "close": 425.2,
+    "volume": 560573418,
+    "symbol": "OIL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 423.7,
+    "high": 423.7,
+    "low": 413.35,
+    "close": 418.95,
+    "volume": 656092309,
+    "symbol": "OIL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 415.4,
+    "high": 417.95,
+    "low": 406.35,
+    "close": 408,
+    "volume": 1732907202,
+    "symbol": "OIL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 412,
+    "high": 425.3,
+    "low": 412,
+    "close": 419.5,
+    "volume": 1311231711,
+    "symbol": "OIL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 421,
+    "high": 426.85,
+    "low": 414.7,
+    "close": 425.5,
+    "volume": 592605960,
+    "symbol": "OIL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 429.75,
+    "high": 449.9,
+    "low": 425.6,
+    "close": 449.5,
+    "volume": 5543930783,
+    "symbol": "OIL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 449.8,
+    "high": 467.5,
+    "low": 449.5,
+    "close": 457.4,
+    "volume": 5707317867,
+    "symbol": "OIL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 452.95,
+    "high": 452.95,
+    "low": 441.7,
+    "close": 446,
+    "volume": 1624723365,
+    "symbol": "OIL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 444.95,
+    "high": 446.95,
+    "low": 433.8,
+    "close": 435,
+    "volume": 695993109,
+    "symbol": "OIL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 436.1,
+    "high": 440.5,
+    "low": 426.75,
+    "close": 427.15,
+    "volume": 843045783,
+    "symbol": "OIL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 426.5,
+    "high": 435.85,
+    "low": 425.85,
+    "close": 434.85,
+    "volume": 1012601793,
+    "symbol": "OIL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 437,
+    "high": 444.3,
+    "low": 435.6,
+    "close": 436,
+    "volume": 966831238,
+    "symbol": "OIL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 437,
+    "high": 440.5,
+    "low": 427.1,
+    "close": 436,
+    "volume": 823037111,
+    "symbol": "OIL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 435,
+    "high": 450.35,
+    "low": 433.35,
+    "close": 448.5,
+    "volume": 1356064714,
+    "symbol": "OIL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 455,
+    "high": 496.5,
+    "low": 454.5,
+    "close": 492.8,
+    "volume": 14273805548,
+    "symbol": "OIL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 492.95,
+    "high": 520,
+    "low": 492.95,
+    "close": 514.6,
+    "volume": 10553176507,
+    "symbol": "OIL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 511.55,
+    "high": 518,
+    "low": 500.35,
+    "close": 511,
+    "volume": 6113826162,
+    "symbol": "OIL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 509,
+    "high": 522.5,
+    "low": 491.6,
+    "close": 501.45,
+    "volume": 2226814969,
+    "symbol": "OIL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 490,
+    "high": 491.35,
+    "low": 475.25,
+    "close": 483.5,
+    "volume": 2492663096,
+    "symbol": "OIL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 495,
+    "high": 496.8,
+    "low": 476.6,
+    "close": 485.35,
+    "volume": 1582657860,
+    "symbol": "OIL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 490.25,
+    "high": 524,
+    "low": 490.25,
+    "close": 506,
+    "volume": 8103047144,
+    "symbol": "OIL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 509.8,
+    "high": 516.3,
+    "low": 497,
+    "close": 497.2,
+    "volume": 2058614987,
+    "symbol": "OIL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 495.6,
+    "high": 503.65,
+    "low": 491,
+    "close": 495,
+    "volume": 2331819081,
+    "symbol": "OIL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 500.05,
+    "high": 501,
+    "low": 487.25,
+    "close": 489,
+    "volume": 1866744398,
+    "symbol": "OIL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 493.95,
+    "high": 493.95,
+    "low": 482.05,
+    "close": 483.85,
+    "volume": 1003529676,
+    "symbol": "OIL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 483.9,
+    "high": 488.75,
+    "low": 473,
+    "close": 478.9,
+    "volume": 4283499878,
+    "symbol": "OIL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 480.8,
+    "high": 489.1,
+    "low": 471,
+    "close": 473.55,
+    "volume": 3678670869,
+    "symbol": "OIL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 471,
+    "high": 471,
+    "low": 452.3,
+    "close": 454.9,
+    "volume": 2443016803,
+    "symbol": "OIL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 453.6,
+    "high": 464.8,
+    "low": 452.15,
+    "close": 463.45,
+    "volume": 1452101165,
+    "symbol": "OIL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 463.8,
+    "high": 465.6,
+    "low": 458.3,
+    "close": 464.5,
+    "volume": 849314320,
+    "symbol": "OIL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 458,
+    "high": 458,
+    "low": 446,
+    "close": 453.55,
+    "volume": 1824496152,
+    "symbol": "OIL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 465.25,
+    "high": 485.8,
+    "low": 460.9,
+    "close": 477,
+    "volume": 9307353559,
+    "symbol": "OIL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 480.35,
+    "high": 486.15,
+    "low": 471.95,
+    "close": 473.95,
+    "volume": 3971294080,
+    "symbol": "OIL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 474.95,
+    "high": 475.25,
+    "low": 466.6,
+    "close": 473.5,
+    "volume": 1257750081,
+    "symbol": "OIL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 476,
+    "high": 478.8,
+    "low": 467.6,
+    "close": 473.85,
+    "volume": 1401948114,
+    "symbol": "OIL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 472.2,
+    "high": 475.25,
+    "low": 463.25,
+    "close": 470.6,
+    "volume": 952078188,
+    "symbol": "OIL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 470.25,
+    "high": 477.55,
+    "low": 469.75,
+    "close": 472.2,
+    "volume": 932173028,
+    "symbol": "OIL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 473.2,
+    "high": 490.75,
+    "low": 470.7,
+    "close": 485.55,
+    "volume": 3744175297,
+    "symbol": "OIL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 503,
+    "high": 505,
+    "low": 476.05,
+    "close": 484.7,
+    "volume": 9165031813,
+    "symbol": "OIL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 495.05,
+    "high": 506.25,
+    "low": 484.15,
+    "close": 491.6,
+    "volume": 10028467281,
+    "symbol": "OIL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 495,
+    "high": 502.4,
+    "low": 474.4,
+    "close": 481.95,
+    "volume": 4247491239,
+    "symbol": "OIL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 483.65,
+    "high": 489.05,
+    "low": 474.7,
+    "close": 484.6,
+    "volume": 3925561108,
+    "symbol": "OIL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 503,
+    "high": 503,
+    "low": 464,
+    "close": 471.4,
+    "volume": 6415119844,
+    "symbol": "OIL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 470.95,
+    "high": 475.45,
+    "low": 460.75,
+    "close": 471.5,
+    "volume": 2387290962,
+    "symbol": "OIL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 470.55,
+    "high": 484.4,
+    "low": 465.95,
+    "close": 480.5,
+    "volume": 3134432627,
+    "symbol": "OIL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 483.55,
+    "high": 489.75,
+    "low": 475.5,
+    "close": 480.75,
+    "volume": 2798572234,
+    "symbol": "OIL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 481,
+    "high": 483.35,
+    "low": 467.35,
+    "close": 471.15,
+    "volume": 2037798289,
+    "symbol": "OIL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 471,
+    "high": 473.7,
+    "low": 454.4,
+    "close": 460.35,
+    "volume": 1953789089,
+    "symbol": "OIL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 460.3,
+    "high": 475,
+    "low": 456.4,
+    "close": 472.6,
+    "volume": 1576011219,
+    "symbol": "OIL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 474.6,
+    "high": 476.55,
+    "low": 465.8,
+    "close": 468.8,
+    "volume": 1242826821,
+    "symbol": "OIL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 471.95,
+    "high": 483,
+    "low": 465.4,
+    "close": 475.2,
+    "volume": 3735124777,
+    "symbol": "OIL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 476,
+    "high": 485.9,
+    "low": 472,
+    "close": 475,
+    "volume": 1964453703,
+    "symbol": "OIL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 475.75,
+    "high": 480.6,
+    "low": 462.85,
+    "close": 464.1,
+    "volume": 1522177827,
+    "symbol": "OIL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 461.85,
+    "high": 485.6,
+    "low": 461.15,
+    "close": 477.65,
+    "volume": 1771739777,
+    "symbol": "OIL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 476.75,
+    "high": 477,
+    "low": 467.15,
+    "close": 472,
+    "volume": 2357027708,
+    "symbol": "OIL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 473.7,
+    "high": 490,
+    "low": 462.05,
+    "close": 477.35,
+    "volume": 4445797874,
+    "symbol": "OIL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 478,
+    "high": 492.5,
+    "low": 470,
+    "close": 471,
+    "volume": 3153933791,
+    "symbol": "OIL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 480,
+    "high": 482.3,
+    "low": 471.8,
+    "close": 475,
+    "volume": 1656241311,
+    "symbol": "OIL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 478,
+    "high": 483,
+    "low": 463.2,
+    "close": 476.1,
+    "volume": 2804718039,
+    "symbol": "OIL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 481.15,
+    "high": 484.85,
+    "low": 470.05,
+    "close": 470.05,
+    "volume": 1507313362,
+    "symbol": "OIL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 472.65,
+    "high": 489,
+    "low": 468,
+    "close": 483.8,
+    "volume": 2996524896,
+    "symbol": "OIL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 476.05,
+    "high": 476.85,
+    "low": 457.5,
+    "close": 459.75,
+    "volume": 7611863093,
+    "symbol": "OIL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 459,
+    "high": 472,
+    "low": 456.4,
+    "close": 470.9,
+    "volume": 5047044061,
+    "symbol": "OIL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 471.95,
+    "high": 475,
+    "low": 467.35,
+    "close": 470.9,
+    "volume": 1108756241,
+    "symbol": "OIL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 475,
+    "high": 481.95,
+    "low": 467.25,
+    "close": 478.9,
+    "volume": 3450165204,
+    "symbol": "OIL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 472.95,
+    "high": 473.7,
+    "low": 461.5,
+    "close": 463.85,
+    "volume": 3499500362,
+    "symbol": "OIL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 465.85,
+    "high": 466.9,
+    "low": 461.15,
+    "close": 462,
+    "volume": 1672940837,
+    "symbol": "OIL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 464.1,
+    "high": 471.25,
+    "low": 462.1,
+    "close": 469.55,
+    "volume": 1660119450,
+    "symbol": "OIL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 473.4,
+    "high": 475,
+    "low": 466.85,
+    "close": 470.2,
+    "volume": 1619138516,
+    "symbol": "OIL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 473.9,
+    "high": 473.9,
+    "low": 464,
+    "close": 464.95,
+    "volume": 1241711595,
+    "symbol": "OIL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 468,
+    "high": 470.65,
+    "low": 463.05,
+    "close": 470,
+    "volume": 2713009926,
+    "symbol": "OIL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 472.95,
+    "high": 481.85,
+    "low": 470.3,
+    "close": 473.05,
+    "volume": 2316883146,
+    "symbol": "OIL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 477,
+    "high": 485.9,
+    "low": 470,
+    "close": 473.5,
+    "volume": 2653279743,
+    "symbol": "OIL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 475,
+    "high": 478.45,
+    "low": 470.55,
+    "close": 476.2,
+    "volume": 1414883234,
+    "symbol": "OIL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 479.8,
+    "high": 501,
+    "low": 478.3,
+    "close": 497.6,
+    "volume": 5382784402,
+    "symbol": "OIL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 500,
+    "high": 504.3,
+    "low": 491.3,
+    "close": 494,
+    "volume": 2166758726,
+    "symbol": "OIL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 502.05,
+    "high": 504,
+    "low": 485.4,
+    "close": 490,
+    "volume": 2327486158,
+    "symbol": "OIL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 487,
+    "high": 490.8,
+    "low": 472.6,
+    "close": 477,
+    "volume": 3209923693,
+    "symbol": "OIL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 479.95,
+    "high": 482.4,
+    "low": 463.7,
+    "close": 478,
+    "volume": 2257772821,
+    "symbol": "OIL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 473.4,
+    "high": 476.45,
+    "low": 448.15,
+    "close": 451.1,
+    "volume": 4441650967,
+    "symbol": "OIL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 454,
+    "high": 457.15,
+    "low": 450.5,
+    "close": 453,
+    "volume": 2802652685,
+    "symbol": "OIL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 455.05,
+    "high": 456.8,
+    "low": 451.7,
+    "close": 454,
+    "volume": 1033837242,
+    "symbol": "OIL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 457,
+    "high": 460.75,
+    "low": 454,
+    "close": 455.1,
+    "volume": 1248365618,
+    "symbol": "OIL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 472,
+    "high": 499.4,
+    "low": 471.65,
+    "close": 490,
+    "volume": 15554146750,
+    "symbol": "OIL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 493.45,
+    "high": 511.45,
+    "low": 491,
+    "close": 505,
+    "volume": 5182596041,
+    "symbol": "OIL"
+  }
+]

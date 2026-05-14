@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 150.59,
+    "high": 150.66,
+    "low": 146.95,
+    "close": 147.3,
+    "volume": 206147339,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 148,
+    "high": 150,
+    "low": 146.11,
+    "close": 149.25,
+    "volume": 298589778,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 149,
+    "high": 149.7,
+    "low": 145.79,
+    "close": 147.9,
+    "volume": 291752374,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 148,
+    "high": 148.29,
+    "low": 143.05,
+    "close": 143.65,
+    "volume": 331026435,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 143.64,
+    "high": 147.23,
+    "low": 142.01,
+    "close": 146.6,
+    "volume": 370689042,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 146.2,
+    "high": 146.64,
+    "low": 141.51,
+    "close": 141.8,
+    "volume": 268710192,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 141.55,
+    "high": 143.21,
+    "low": 137.85,
+    "close": 138.72,
+    "volume": 308038168,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 138.44,
+    "high": 138.44,
+    "low": 134.36,
+    "close": 137.34,
+    "volume": 352067068,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 137.1,
+    "high": 138.8,
+    "low": 133.94,
+    "close": 136,
+    "volume": 321054318,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 136,
+    "high": 139.45,
+    "low": 135.55,
+    "close": 138.17,
+    "volume": 340565047,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 139.9,
+    "high": 142.3,
+    "low": 135.5,
+    "close": 137.41,
+    "volume": 328447371,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 136.9,
+    "high": 136.9,
+    "low": 133.34,
+    "close": 134.9,
+    "volume": 215159197,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 134.9,
+    "high": 134.91,
+    "low": 128.31,
+    "close": 129,
+    "volume": 356709605,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 128.5,
+    "high": 130.45,
+    "low": 126.11,
+    "close": 126.51,
+    "volume": 441786020,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 129.8,
+    "high": 132.14,
+    "low": 128.27,
+    "close": 131.54,
+    "volume": 239886425,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 131.8,
+    "high": 131.9,
+    "low": 127.16,
+    "close": 127.75,
+    "volume": 213200509,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 128.3,
+    "high": 128.64,
+    "low": 125.5,
+    "close": 128,
+    "volume": 251736925,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 127.99,
+    "high": 129.99,
+    "low": 126.65,
+    "close": 129.63,
+    "volume": 291448336,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 128.8,
+    "high": 132,
+    "low": 124.99,
+    "close": 128.39,
+    "volume": 529906238,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 126.22,
+    "high": 130,
+    "low": 125.51,
+    "close": 128.94,
+    "volume": 260074784,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 129.48,
+    "high": 129.48,
+    "low": 120.1,
+    "close": 121.5,
+    "volume": 192019140,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 121.63,
+    "high": 123.2,
+    "low": 116.39,
+    "close": 122.84,
+    "volume": 386141224,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 127.1,
+    "high": 129,
+    "low": 125,
+    "close": 127.5,
+    "volume": 413363880,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 127.5,
+    "high": 132,
+    "low": 126.26,
+    "close": 131.72,
+    "volume": 310529997,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 132,
+    "high": 132,
+    "low": 124.5,
+    "close": 124.94,
+    "volume": 399203362,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 124.76,
+    "high": 124.76,
+    "low": 117.5,
+    "close": 122.12,
+    "volume": 884592638,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 124.4,
+    "high": 132,
+    "low": 123.83,
+    "close": 132,
+    "volume": 614772022,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 133.7,
+    "high": 142,
+    "low": 132.53,
+    "close": 139.81,
+    "volume": 2600643029,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 140.43,
+    "high": 140.43,
+    "low": 135.24,
+    "close": 138.2,
+    "volume": 667194179,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 137.8,
+    "high": 141.79,
+    "low": 135.13,
+    "close": 140.9,
+    "volume": 588324157,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 139.5,
+    "high": 139.79,
+    "low": 135.7,
+    "close": 135.72,
+    "volume": 357581721,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 135.56,
+    "high": 137.39,
+    "low": 130.38,
+    "close": 135.95,
+    "volume": 605932521,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 135.99,
+    "high": 138.7,
+    "low": 134.56,
+    "close": 138.15,
+    "volume": 211432450,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 138.98,
+    "high": 144.9,
+    "low": 137.15,
+    "close": 141.9,
+    "volume": 1078043389,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 143,
+    "high": 143.93,
+    "low": 137.5,
+    "close": 138.3,
+    "volume": 257038088,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 138.1,
+    "high": 138.11,
+    "low": 133.89,
+    "close": 134.6,
+    "volume": 368597640,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 135.63,
+    "high": 137.41,
+    "low": 134.05,
+    "close": 134.9,
+    "volume": 205775583,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 134.26,
+    "high": 135,
+    "low": 131.26,
+    "close": 133.57,
+    "volume": 167397436,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 135,
+    "high": 135,
+    "low": 132.31,
+    "close": 133.7,
+    "volume": 232403874,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 134.5,
+    "high": 135.99,
+    "low": 132.08,
+    "close": 132.91,
+    "volume": 210436168,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 133.15,
+    "high": 133.8,
+    "low": 127,
+    "close": 128.5,
+    "volume": 419170506,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 125,
+    "high": 127.44,
+    "low": 123,
+    "close": 126.59,
+    "volume": 386891543,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 123.14,
+    "high": 124.12,
+    "low": 120.5,
+    "close": 121.05,
+    "volume": 398340567,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 122.7,
+    "high": 129,
+    "low": 120,
+    "close": 124.77,
+    "volume": 308933648,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 124.63,
+    "high": 125.88,
+    "low": 120.01,
+    "close": 121.7,
+    "volume": 181407099,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 117.5,
+    "high": 119.67,
+    "low": 114.5,
+    "close": 116.1,
+    "volume": 410412484,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 118.09,
+    "high": 124.01,
+    "low": 115.6,
+    "close": 121.5,
+    "volume": 448542784,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 121.5,
+    "high": 128.6,
+    "low": 119.61,
+    "close": 122.5,
+    "volume": 701922826,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 121.5,
+    "high": 126.2,
+    "low": 118.2,
+    "close": 122.85,
+    "volume": 491244635,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 122,
+    "high": 122.45,
+    "low": 117.5,
+    "close": 118.8,
+    "volume": 326898339,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 119.6,
+    "high": 121.8,
+    "low": 115,
+    "close": 119.07,
+    "volume": 477426671,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 119.8,
+    "high": 122.35,
+    "low": 117.17,
+    "close": 119.58,
+    "volume": 391405030,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 121,
+    "high": 128.99,
+    "low": 120.4,
+    "close": 127.02,
+    "volume": 808373223,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 123.22,
+    "high": 125.96,
+    "low": 122,
+    "close": 122.61,
+    "volume": 290337044,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 124.28,
+    "high": 125.39,
+    "low": 122.08,
+    "close": 122.73,
+    "volume": 222726594,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 120.56,
+    "high": 120.57,
+    "low": 115.84,
+    "close": 117.7,
+    "volume": 444808360,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 121.9,
+    "high": 121.9,
+    "low": 118.05,
+    "close": 120.35,
+    "volume": 268968022,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 121.97,
+    "high": 126.4,
+    "low": 121.25,
+    "close": 124.3,
+    "volume": 505590771,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 124.3,
+    "high": 124.3,
+    "low": 119.25,
+    "close": 120,
+    "volume": 408876576,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 117.8,
+    "high": 118.5,
+    "low": 112,
+    "close": 113.77,
+    "volume": 480625556,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 118.65,
+    "high": 121.46,
+    "low": 116.93,
+    "close": 120,
+    "volume": 289601534,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 115.83,
+    "high": 120.62,
+    "low": 115.4,
+    "close": 119.98,
+    "volume": 229309630,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 120.5,
+    "high": 123.23,
+    "low": 119.17,
+    "close": 122,
+    "volume": 352798952,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 121.5,
+    "high": 122.8,
+    "low": 120,
+    "close": 120.67,
+    "volume": 200759474,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 124.61,
+    "high": 133.15,
+    "low": 124.11,
+    "close": 129.01,
+    "volume": 663265838,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 128.99,
+    "high": 133.95,
+    "low": 127,
+    "close": 130.45,
+    "volume": 722076745,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 132,
+    "high": 134.85,
+    "low": 131.2,
+    "close": 134.04,
+    "volume": 429963247,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 131.8,
+    "high": 133.33,
+    "low": 128.7,
+    "close": 132,
+    "volume": 332338017,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 135,
+    "high": 136.52,
+    "low": 134.06,
+    "close": 134.75,
+    "volume": 345539372,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 135.5,
+    "high": 137.3,
+    "low": 133.03,
+    "close": 134.7,
+    "volume": 233329308,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 135.4,
+    "high": 138.61,
+    "low": 134.47,
+    "close": 137.3,
+    "volume": 391390639,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 137.39,
+    "high": 138.6,
+    "low": 132.7,
+    "close": 133,
+    "volume": 355777078,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 133.48,
+    "high": 135.41,
+    "low": 132.29,
+    "close": 133.52,
+    "volume": 200569509,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 132.8,
+    "high": 135.43,
+    "low": 132,
+    "close": 133.87,
+    "volume": 227073730,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 133.11,
+    "high": 139.9,
+    "low": 132.42,
+    "close": 139.1,
+    "volume": 688879440,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 141.89,
+    "high": 143.82,
+    "low": 137,
+    "close": 138.2,
+    "volume": 1099460245,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 139.36,
+    "high": 141.9,
+    "low": 137.75,
+    "close": 140.52,
+    "volume": 391344982,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 140.56,
+    "high": 141.86,
+    "low": 136.8,
+    "close": 137.86,
+    "volume": 248178634,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 139,
+    "high": 140.7,
+    "low": 136.36,
+    "close": 136.99,
+    "volume": 228488127,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 136.03,
+    "high": 139.88,
+    "low": 133.91,
+    "close": 138.1,
+    "volume": 451432891,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 140,
+    "high": 143.2,
+    "low": 139.27,
+    "close": 141.8,
+    "volume": 490860715,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 142.9,
+    "high": 144.9,
+    "low": 141.5,
+    "close": 142.34,
+    "volume": 349254517,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 143.4,
+    "high": 144.25,
+    "low": 141.05,
+    "close": 143.4,
+    "volume": 181676376,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 143.7,
+    "high": 146.16,
+    "low": 142.28,
+    "close": 142.87,
+    "volume": 399702052,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 142.85,
+    "high": 147.2,
+    "low": 142.09,
+    "close": 145.37,
+    "volume": 436781264,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 144.53,
+    "high": 144.53,
+    "low": 140.22,
+    "close": 141.4,
+    "volume": 237234542,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 140,
+    "high": 140.6,
+    "low": 135.05,
+    "close": 135.9,
+    "volume": 353926993,
+    "symbol": "JMFINANCIL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 135.7,
+    "high": 139.7,
+    "low": 135.05,
+    "close": 139.14,
+    "volume": 248363050,
+    "symbol": "JMFINANCIL"
+  }
+]

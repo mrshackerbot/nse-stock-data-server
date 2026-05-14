@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 454.05,
+    "high": 456.7,
+    "low": 441.75,
+    "close": 444.75,
+    "volume": 121901372,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 446,
+    "high": 453.7,
+    "low": 443.65,
+    "close": 451.95,
+    "volume": 123045982,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 453.8,
+    "high": 460.95,
+    "low": 451.15,
+    "close": 456,
+    "volume": 178160532,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 456.7,
+    "high": 470,
+    "low": 451.1,
+    "close": 455.9,
+    "volume": 322999478,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 453.95,
+    "high": 460.2,
+    "low": 446.4,
+    "close": 453.1,
+    "volume": 218882959,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 453.9,
+    "high": 455.5,
+    "low": 446.1,
+    "close": 450,
+    "volume": 181186352,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 449,
+    "high": 449,
+    "low": 436.8,
+    "close": 442.05,
+    "volume": 229516359,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 440,
+    "high": 442.65,
+    "low": 431.75,
+    "close": 436.5,
+    "volume": 119825079,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 437.05,
+    "high": 441.75,
+    "low": 428.3,
+    "close": 430.5,
+    "volume": 118302835,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 431.55,
+    "high": 439.4,
+    "low": 430.25,
+    "close": 434.2,
+    "volume": 91293496,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 432.25,
+    "high": 435.45,
+    "low": 423,
+    "close": 426,
+    "volume": 85312588,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 422,
+    "high": 430.55,
+    "low": 420,
+    "close": 428,
+    "volume": 70622812,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 428.1,
+    "high": 428.1,
+    "low": 415,
+    "close": 416.5,
+    "volume": 140863654,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 419.95,
+    "high": 420.05,
+    "low": 408.3,
+    "close": 415,
+    "volume": 208117996,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 415.2,
+    "high": 424.35,
+    "low": 415.2,
+    "close": 421.7,
+    "volume": 116575342,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 420,
+    "high": 421.3,
+    "low": 407.7,
+    "close": 408,
+    "volume": 116703234,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 405,
+    "high": 412,
+    "low": 401.8,
+    "close": 408.6,
+    "volume": 157009989,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 408,
+    "high": 419.55,
+    "low": 407.95,
+    "close": 415,
+    "volume": 103859340,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 415,
+    "high": 418.7,
+    "low": 404.4,
+    "close": 408.95,
+    "volume": 189761632,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 408.5,
+    "high": 416.55,
+    "low": 403.2,
+    "close": 409,
+    "volume": 359449999,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 409.25,
+    "high": 423.9,
+    "low": 402,
+    "close": 423,
+    "volume": 180913023,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 417.25,
+    "high": 424.8,
+    "low": 393.65,
+    "close": 394.65,
+    "volume": 342007475,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 410,
+    "high": 414.9,
+    "low": 398.9,
+    "close": 409.2,
+    "volume": 268100423,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 409,
+    "high": 424.7,
+    "low": 407.05,
+    "close": 420.1,
+    "volume": 202792054,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 421.4,
+    "high": 421.4,
+    "low": 412.9,
+    "close": 413.55,
+    "volume": 58079952,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 413.45,
+    "high": 418,
+    "low": 405.1,
+    "close": 415.1,
+    "volume": 80503079,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 424.3,
+    "high": 439.5,
+    "low": 417.4,
+    "close": 436.5,
+    "volume": 183627050,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 440,
+    "high": 443.25,
+    "low": 425.95,
+    "close": 427.7,
+    "volume": 214816503,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 430,
+    "high": 432.5,
+    "low": 419.2,
+    "close": 422,
+    "volume": 141816681,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 421.15,
+    "high": 429,
+    "low": 415.1,
+    "close": 426.5,
+    "volume": 491590747,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 422.15,
+    "high": 422.15,
+    "low": 407,
+    "close": 409.8,
+    "volume": 84362383,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 408.9,
+    "high": 424.45,
+    "low": 406.45,
+    "close": 414.9,
+    "volume": 173753727,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 414.6,
+    "high": 429,
+    "low": 414.4,
+    "close": 415.2,
+    "volume": 164524979,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 417.95,
+    "high": 425,
+    "low": 415.85,
+    "close": 418,
+    "volume": 118168478,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 419.6,
+    "high": 422.85,
+    "low": 401.95,
+    "close": 404.8,
+    "volume": 79504559,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 405,
+    "high": 409.8,
+    "low": 400,
+    "close": 404.45,
+    "volume": 77835460,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 407.55,
+    "high": 409.5,
+    "low": 402.5,
+    "close": 405,
+    "volume": 149115564,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 403.2,
+    "high": 409,
+    "low": 397.25,
+    "close": 408.15,
+    "volume": 119442988,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 406.15,
+    "high": 441,
+    "low": 404.35,
+    "close": 425.75,
+    "volume": 4031353943,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 428.5,
+    "high": 431.95,
+    "low": 422.7,
+    "close": 423.1,
+    "volume": 241755640,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 423.6,
+    "high": 423.6,
+    "low": 415.75,
+    "close": 417.5,
+    "volume": 129695048,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 393.2,
+    "high": 423.65,
+    "low": 390,
+    "close": 421.6,
+    "volume": 229001624,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 410.9,
+    "high": 416.9,
+    "low": 408.6,
+    "close": 413.5,
+    "volume": 143328055,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 414.35,
+    "high": 424.4,
+    "low": 414.35,
+    "close": 422.5,
+    "volume": 241781387,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 421.2,
+    "high": 425.45,
+    "low": 416.5,
+    "close": 417.45,
+    "volume": 86187548,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 412.6,
+    "high": 414.95,
+    "low": 398.25,
+    "close": 408,
+    "volume": 211835439,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 410,
+    "high": 421.65,
+    "low": 410,
+    "close": 421,
+    "volume": 115007294,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 421.5,
+    "high": 430.4,
+    "low": 414.7,
+    "close": 422.2,
+    "volume": 249560996,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 425.1,
+    "high": 428,
+    "low": 417.6,
+    "close": 420,
+    "volume": 95782189,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 415.05,
+    "high": 419.75,
+    "low": 406,
+    "close": 406.6,
+    "volume": 138579007,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 408.3,
+    "high": 412.7,
+    "low": 392,
+    "close": 395.95,
+    "volume": 149315154,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 399,
+    "high": 401.3,
+    "low": 392.15,
+    "close": 399,
+    "volume": 87590125,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 402.45,
+    "high": 414,
+    "low": 399.5,
+    "close": 411.9,
+    "volume": 106087493,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 406.3,
+    "high": 407.2,
+    "low": 394.15,
+    "close": 400,
+    "volume": 136249003,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 397.3,
+    "high": 408,
+    "low": 397.15,
+    "close": 404,
+    "volume": 251551933,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 397.8,
+    "high": 398.05,
+    "low": 380,
+    "close": 385,
+    "volume": 233048132,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 392.1,
+    "high": 400.95,
+    "low": 390,
+    "close": 393,
+    "volume": 195012193,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 399.9,
+    "high": 419.1,
+    "low": 395.55,
+    "close": 411.95,
+    "volume": 181342533,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 414.5,
+    "high": 415.85,
+    "low": 402.05,
+    "close": 403.75,
+    "volume": 215702835,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 400,
+    "high": 405.05,
+    "low": 389,
+    "close": 391.3,
+    "volume": 143141303,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 410.15,
+    "high": 410.2,
+    "low": 399.05,
+    "close": 408,
+    "volume": 82464990,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 404,
+    "high": 407.25,
+    "low": 390,
+    "close": 404.1,
+    "volume": 116012480,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 404.5,
+    "high": 413.5,
+    "low": 402.2,
+    "close": 410,
+    "volume": 112496755,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 404.05,
+    "high": 413.35,
+    "low": 403.3,
+    "close": 406.25,
+    "volume": 93797837,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 416,
+    "high": 426.8,
+    "low": 411.55,
+    "close": 422.6,
+    "volume": 147524781,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 423.9,
+    "high": 436.15,
+    "low": 421.8,
+    "close": 433,
+    "volume": 153481147,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 433.9,
+    "high": 443.1,
+    "low": 430.2,
+    "close": 439.1,
+    "volume": 125395422,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 426.95,
+    "high": 438.2,
+    "low": 422.1,
+    "close": 437.15,
+    "volume": 112377593,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 443.65,
+    "high": 444.65,
+    "low": 436.05,
+    "close": 443.2,
+    "volume": 105236207,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 445,
+    "high": 450.75,
+    "low": 438.9,
+    "close": 446.1,
+    "volume": 124271853,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 448.5,
+    "high": 452.55,
+    "low": 445.75,
+    "close": 449,
+    "volume": 127543886,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 451.35,
+    "high": 454.65,
+    "low": 443.1,
+    "close": 444,
+    "volume": 119490188,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 443,
+    "high": 452,
+    "low": 442,
+    "close": 442.1,
+    "volume": 83314411,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 443.1,
+    "high": 449.9,
+    "low": 441,
+    "close": 445.8,
+    "volume": 88262763,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 444.5,
+    "high": 446.5,
+    "low": 436.25,
+    "close": 441,
+    "volume": 66509924,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 439,
+    "high": 461,
+    "low": 439,
+    "close": 442.85,
+    "volume": 529795685,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 446.9,
+    "high": 470,
+    "low": 446.1,
+    "close": 460,
+    "volume": 1756624384,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 462.9,
+    "high": 469.85,
+    "low": 453.15,
+    "close": 456,
+    "volume": 202138534,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 459.8,
+    "high": 466,
+    "low": 455.6,
+    "close": 463.5,
+    "volume": 295318619,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 461.8,
+    "high": 472,
+    "low": 446.25,
+    "close": 448,
+    "volume": 1195719335,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 463.9,
+    "high": 484,
+    "low": 453.15,
+    "close": 464.5,
+    "volume": 1069681685,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 464.8,
+    "high": 464.8,
+    "low": 446.75,
+    "close": 455.1,
+    "volume": 219320351,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 459,
+    "high": 472.7,
+    "low": 456.45,
+    "close": 465,
+    "volume": 409235963,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 467.85,
+    "high": 480,
+    "low": 465,
+    "close": 478,
+    "volume": 342299738,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 479.9,
+    "high": 490,
+    "low": 470.2,
+    "close": 471.8,
+    "volume": 647161187,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 472.95,
+    "high": 481.4,
+    "low": 467.65,
+    "close": 479.9,
+    "volume": 306453654,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 474.5,
+    "high": 475.95,
+    "low": 455.1,
+    "close": 457.55,
+    "volume": 437024957,
+    "symbol": "USHAMART"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 460.1,
+    "high": 488,
+    "low": 460.1,
+    "close": 476.45,
+    "volume": 834689530,
+    "symbol": "USHAMART"
+  }
+]

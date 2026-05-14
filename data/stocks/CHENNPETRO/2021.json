@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 106.05,
+    "high": 108.85,
+    "low": 105.6,
+    "close": 107.4,
+    "volume": 52999471,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 108,
+    "high": 109.7,
+    "low": 107,
+    "close": 108.25,
+    "volume": 84236334,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 107.1,
+    "high": 111.6,
+    "low": 106.85,
+    "close": 109.9,
+    "volume": 172466232,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 110.9,
+    "high": 113.3,
+    "low": 107.45,
+    "close": 108.55,
+    "volume": 154165217,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 109.7,
+    "high": 111.55,
+    "low": 108.7,
+    "close": 110.35,
+    "volume": 72334786,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 110.3,
+    "high": 112.45,
+    "low": 110.3,
+    "close": 111,
+    "volume": 83130775,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 111.7,
+    "high": 119,
+    "low": 110.55,
+    "close": 117.15,
+    "volume": 438537391,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 117.1,
+    "high": 127.85,
+    "low": 116.6,
+    "close": 127,
+    "volume": 447060818,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 126.95,
+    "high": 132.65,
+    "low": 125,
+    "close": 129.2,
+    "volume": 308269679,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 129.15,
+    "high": 130,
+    "low": 125.75,
+    "close": 127.55,
+    "volume": 101267662,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 126.9,
+    "high": 128.3,
+    "low": 121.85,
+    "close": 124.25,
+    "volume": 111723703,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 124,
+    "high": 124.4,
+    "low": 116,
+    "close": 120.2,
+    "volume": 138108083,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 121.7,
+    "high": 128.75,
+    "low": 121.7,
+    "close": 126.7,
+    "volume": 143289113,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 126.75,
+    "high": 129.3,
+    "low": 124.5,
+    "close": 125.5,
+    "volume": 117541882,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 126.05,
+    "high": 127.6,
+    "low": 122.85,
+    "close": 123.55,
+    "volume": 86679535,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 124.35,
+    "high": 126,
+    "low": 120.1,
+    "close": 120.2,
+    "volume": 93254252,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 121.7,
+    "high": 122.75,
+    "low": 112.7,
+    "close": 119.05,
+    "volume": 111587342,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 103.2,
+    "high": 103.2,
+    "low": 95.7,
+    "close": 95.7,
+    "volume": 707608163,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 93.5,
+    "high": 95.3,
+    "low": 89.55,
+    "close": 91.1,
+    "volume": 286997411,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 92.55,
+    "high": 93.7,
+    "low": 89.75,
+    "close": 91.65,
+    "volume": 165191939,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 92.9,
+    "high": 93.75,
+    "low": 90,
+    "close": 93,
+    "volume": 101602692,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 93.5,
+    "high": 94.5,
+    "low": 91.8,
+    "close": 92.15,
+    "volume": 117433516,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 92.65,
+    "high": 94.75,
+    "low": 91.65,
+    "close": 94,
+    "volume": 140548603,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 93.4,
+    "high": 97,
+    "low": 93.25,
+    "close": 95.85,
+    "volume": 160831244,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 96.35,
+    "high": 96.7,
+    "low": 92.35,
+    "close": 93,
+    "volume": 101850706,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 93.1,
+    "high": 95.15,
+    "low": 91.3,
+    "close": 91.7,
+    "volume": 82326906,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 91.6,
+    "high": 93.5,
+    "low": 91.4,
+    "close": 91.8,
+    "volume": 54198778,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 91.8,
+    "high": 95.45,
+    "low": 91.3,
+    "close": 94.55,
+    "volume": 128479762,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 93.5,
+    "high": 98,
+    "low": 93.2,
+    "close": 96.5,
+    "volume": 126823886,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 96.6,
+    "high": 97.25,
+    "low": 95,
+    "close": 95.1,
+    "volume": 47145970,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 95.6,
+    "high": 96,
+    "low": 94.2,
+    "close": 95.25,
+    "volume": 30824635,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 95.25,
+    "high": 96.55,
+    "low": 94.05,
+    "close": 94.5,
+    "volume": 39440233,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 94.45,
+    "high": 98.5,
+    "low": 94.2,
+    "close": 97,
+    "volume": 119991154,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 98,
+    "high": 102.6,
+    "low": 96.55,
+    "close": 99.5,
+    "volume": 213334992,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 99.7,
+    "high": 100.7,
+    "low": 95.65,
+    "close": 96.85,
+    "volume": 98921972,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 96.45,
+    "high": 96.75,
+    "low": 94,
+    "close": 94.2,
+    "volume": 59246340,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 95.65,
+    "high": 98.8,
+    "low": 95.3,
+    "close": 96.2,
+    "volume": 77311392,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 96,
+    "high": 98,
+    "low": 92.25,
+    "close": 96.5,
+    "volume": 37116560,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 97.45,
+    "high": 102.9,
+    "low": 97.25,
+    "close": 99.5,
+    "volume": 219200271,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 98.8,
+    "high": 103.8,
+    "low": 97.5,
+    "close": 99.6,
+    "volume": 196688291,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 100.85,
+    "high": 108.15,
+    "low": 99.45,
+    "close": 105.8,
+    "volume": 282348026,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 107,
+    "high": 114.35,
+    "low": 106.7,
+    "close": 109.65,
+    "volume": 339193954,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 111,
+    "high": 114.4,
+    "low": 109.35,
+    "close": 112.5,
+    "volume": 185375544,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 111,
+    "high": 112.7,
+    "low": 109.2,
+    "close": 110.8,
+    "volume": 84281343,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 111.1,
+    "high": 113.3,
+    "low": 106.1,
+    "close": 108.8,
+    "volume": 100652679,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 108.85,
+    "high": 122.6,
+    "low": 108.8,
+    "close": 121.2,
+    "volume": 771881849,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 122.5,
+    "high": 123.2,
+    "low": 112.95,
+    "close": 116.5,
+    "volume": 219825716,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 115.3,
+    "high": 117.45,
+    "low": 113.4,
+    "close": 114.85,
+    "volume": 92798588,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 115,
+    "high": 115.75,
+    "low": 111,
+    "close": 111.95,
+    "volume": 88848410,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 112.8,
+    "high": 112.8,
+    "low": 106.65,
+    "close": 107.15,
+    "volume": 83514960,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 107.9,
+    "high": 110.9,
+    "low": 107.05,
+    "close": 110.5,
+    "volume": 72510171,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 110.6,
+    "high": 114.4,
+    "low": 108.4,
+    "close": 111,
+    "volume": 203056883,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 112.1,
+    "high": 112.45,
+    "low": 102.45,
+    "close": 105.9,
+    "volume": 107923164,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 102.1,
+    "high": 106.8,
+    "low": 98.6,
+    "close": 105.2,
+    "volume": 126076808,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 105.5,
+    "high": 106.5,
+    "low": 103.45,
+    "close": 103.8,
+    "volume": 53046467,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 104.85,
+    "high": 105.8,
+    "low": 103.1,
+    "close": 103.95,
+    "volume": 36621473,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 104.35,
+    "high": 105,
+    "low": 98.8,
+    "close": 99.4,
+    "volume": 49144977,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 101,
+    "high": 101.35,
+    "low": 94.6,
+    "close": 95.9,
+    "volume": 64370586,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 96.5,
+    "high": 98.95,
+    "low": 94.65,
+    "close": 95.5,
+    "volume": 55977523,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 96.9,
+    "high": 98.6,
+    "low": 96,
+    "close": 96.4,
+    "volume": 39689992,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 96.6,
+    "high": 103,
+    "low": 95.7,
+    "close": 100.05,
+    "volume": 88176811,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 100.9,
+    "high": 103.5,
+    "low": 99.4,
+    "close": 102.7,
+    "volume": 45359563,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 102.8,
+    "high": 102.8,
+    "low": 97.55,
+    "close": 98.7,
+    "volume": 44772170,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 98.95,
+    "high": 100,
+    "low": 97.6,
+    "close": 98.4,
+    "volume": 44881674,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 98.5,
+    "high": 102.5,
+    "low": 97.9,
+    "close": 100.3,
+    "volume": 51668748,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 100.55,
+    "high": 103.95,
+    "low": 100.2,
+    "close": 102.6,
+    "volume": 65086062,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 102.8,
+    "high": 102.8,
+    "low": 101.1,
+    "close": 101.5,
+    "volume": 22970843,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 100,
+    "high": 100.05,
+    "low": 93.05,
+    "close": 94.2,
+    "volume": 63667562,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 93,
+    "high": 96.75,
+    "low": 93,
+    "close": 95.7,
+    "volume": 30610481,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 95.7,
+    "high": 98.9,
+    "low": 95.7,
+    "close": 96.55,
+    "volume": 27268385,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 98,
+    "high": 99,
+    "low": 96.9,
+    "close": 98.25,
+    "volume": 32619948,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 96.5,
+    "high": 96.5,
+    "low": 93.15,
+    "close": 95.3,
+    "volume": 29162617,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 95.05,
+    "high": 97,
+    "low": 95.05,
+    "close": 96.05,
+    "volume": 42888596,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 97,
+    "high": 100.6,
+    "low": 95.6,
+    "close": 98.3,
+    "volume": 71774305,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 99,
+    "high": 106.45,
+    "low": 98.05,
+    "close": 102,
+    "volume": 219174403,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 103.65,
+    "high": 106.9,
+    "low": 103.35,
+    "close": 103.7,
+    "volume": 113628995,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 105.7,
+    "high": 109.9,
+    "low": 105.2,
+    "close": 108.4,
+    "volume": 221620154,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 109.45,
+    "high": 111.25,
+    "low": 108.15,
+    "close": 109.05,
+    "volume": 116039441,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 117,
+    "high": 121.85,
+    "low": 111.5,
+    "close": 112,
+    "volume": 648528349,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 112.45,
+    "high": 114.45,
+    "low": 109.7,
+    "close": 110,
+    "volume": 173032521,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 107.1,
+    "high": 109.9,
+    "low": 107,
+    "close": 108.2,
+    "volume": 86755601,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 108.95,
+    "high": 114.5,
+    "low": 108.9,
+    "close": 109.9,
+    "volume": 155725874,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 110.65,
+    "high": 114.5,
+    "low": 110.05,
+    "close": 111.65,
+    "volume": 155339010,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 112.2,
+    "high": 112.5,
+    "low": 107,
+    "close": 108.85,
+    "volume": 70399950,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 107.5,
+    "high": 115.5,
+    "low": 107.5,
+    "close": 114.15,
+    "volume": 248854252,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 115,
+    "high": 115.3,
+    "low": 112.25,
+    "close": 112.9,
+    "volume": 115170651,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 111.8,
+    "high": 124.8,
+    "low": 111,
+    "close": 118.6,
+    "volume": 589329153,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 119.35,
+    "high": 122,
+    "low": 115.5,
+    "close": 116.8,
+    "volume": 260436580,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 117.95,
+    "high": 118.85,
+    "low": 113.35,
+    "close": 115.95,
+    "volume": 77802896,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 116.55,
+    "high": 117.45,
+    "low": 114.75,
+    "close": 115.85,
+    "volume": 62415906,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 119,
+    "high": 120.8,
+    "low": 117.35,
+    "close": 117.7,
+    "volume": 123603205,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 117,
+    "high": 124.7,
+    "low": 117,
+    "close": 122.55,
+    "volume": 397645243,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 123.85,
+    "high": 124.6,
+    "low": 120.35,
+    "close": 120.9,
+    "volume": 170234270,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 122,
+    "high": 131.2,
+    "low": 121.8,
+    "close": 128.9,
+    "volume": 989775091,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 130.1,
+    "high": 135.5,
+    "low": 128.6,
+    "close": 133.7,
+    "volume": 484500035,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 134.7,
+    "high": 135.7,
+    "low": 130,
+    "close": 131,
+    "volume": 199725335,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 130.9,
+    "high": 135.75,
+    "low": 129.2,
+    "close": 131.85,
+    "volume": 284447254,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 134.4,
+    "high": 134.95,
+    "low": 131.8,
+    "close": 134.45,
+    "volume": 199344818,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 135,
+    "high": 138.8,
+    "low": 132.5,
+    "close": 134,
+    "volume": 210304490,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 134.3,
+    "high": 134.35,
+    "low": 130.6,
+    "close": 131.75,
+    "volume": 78872243,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 131.05,
+    "high": 133.5,
+    "low": 127.4,
+    "close": 129,
+    "volume": 113888676,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 128.5,
+    "high": 135.45,
+    "low": 128.5,
+    "close": 134.7,
+    "volume": 239034295,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 135.5,
+    "high": 136.75,
+    "low": 132.55,
+    "close": 133.4,
+    "volume": 140160601,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 133,
+    "high": 138.5,
+    "low": 132.8,
+    "close": 136,
+    "volume": 269344787,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 136.45,
+    "high": 137.55,
+    "low": 135.1,
+    "close": 136.25,
+    "volume": 91122074,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 135.9,
+    "high": 136.5,
+    "low": 133.55,
+    "close": 136,
+    "volume": 93945399,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 136.95,
+    "high": 138.8,
+    "low": 131.05,
+    "close": 132.35,
+    "volume": 169716469,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 132.4,
+    "high": 135.15,
+    "low": 132.4,
+    "close": 134.45,
+    "volume": 56443533,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 134.25,
+    "high": 136.8,
+    "low": 133.45,
+    "close": 134.2,
+    "volume": 60454053,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 134.2,
+    "high": 134.45,
+    "low": 127.1,
+    "close": 131,
+    "volume": 98734788,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 131.9,
+    "high": 139.25,
+    "low": 131.9,
+    "close": 135.2,
+    "volume": 243806870,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 135.9,
+    "high": 137.05,
+    "low": 133.5,
+    "close": 133.75,
+    "volume": 87834296,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 131.2,
+    "high": 135.7,
+    "low": 130.55,
+    "close": 132.2,
+    "volume": 86150478,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 132,
+    "high": 132.55,
+    "low": 124.3,
+    "close": 131,
+    "volume": 106294216,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 127,
+    "high": 136.75,
+    "low": 126.65,
+    "close": 135.5,
+    "volume": 122000873,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 135.4,
+    "high": 144.7,
+    "low": 134.4,
+    "close": 141.2,
+    "volume": 438705701,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 142.5,
+    "high": 149,
+    "low": 141.1,
+    "close": 147,
+    "volume": 364000289,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 147.9,
+    "high": 149.45,
+    "low": 143.5,
+    "close": 144.75,
+    "volume": 169680639,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 145.15,
+    "high": 145.15,
+    "low": 141,
+    "close": 141.85,
+    "volume": 83795791,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 142.5,
+    "high": 147.3,
+    "low": 140.5,
+    "close": 146.3,
+    "volume": 133770469,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 146.3,
+    "high": 147.7,
+    "low": 139.45,
+    "close": 145.1,
+    "volume": 120769612,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 145,
+    "high": 151.8,
+    "low": 143.4,
+    "close": 146.05,
+    "volume": 215745321,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 146.05,
+    "high": 146.55,
+    "low": 142.2,
+    "close": 143.65,
+    "volume": 56174013,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 144,
+    "high": 145,
+    "low": 141.5,
+    "close": 142.5,
+    "volume": 66015911,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 143.8,
+    "high": 144.45,
+    "low": 141.5,
+    "close": 142.6,
+    "volume": 66451416,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 142.85,
+    "high": 144.6,
+    "low": 141.15,
+    "close": 141.6,
+    "volume": 52420154,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 141.95,
+    "high": 144.3,
+    "low": 140.35,
+    "close": 142.8,
+    "volume": 63147364,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 142,
+    "high": 143.9,
+    "low": 134.85,
+    "close": 134.9,
+    "volume": 94726556,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 135,
+    "high": 137.6,
+    "low": 135,
+    "close": 137.25,
+    "volume": 50489991,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 137.2,
+    "high": 139.6,
+    "low": 135.1,
+    "close": 136.8,
+    "volume": 51675114,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 137,
+    "high": 137.75,
+    "low": 134.7,
+    "close": 135.7,
+    "volume": 35503953,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 136.4,
+    "high": 136.75,
+    "low": 134.2,
+    "close": 134.7,
+    "volume": 46379704,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 132.9,
+    "high": 135.45,
+    "low": 132.2,
+    "close": 135.1,
+    "volume": 66633091,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 135,
+    "high": 138.2,
+    "low": 134,
+    "close": 135.1,
+    "volume": 79626450,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 135.25,
+    "high": 137.4,
+    "low": 132.75,
+    "close": 136,
+    "volume": 52848830,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 137.45,
+    "high": 137.7,
+    "low": 130.4,
+    "close": 131.4,
+    "volume": 52690504,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 132.4,
+    "high": 134.4,
+    "low": 130.85,
+    "close": 133.5,
+    "volume": 38758380,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 127.8,
+    "high": 129.1,
+    "low": 122.5,
+    "close": 123.5,
+    "volume": 196211208,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 123,
+    "high": 125.05,
+    "low": 121.35,
+    "close": 121.9,
+    "volume": 53583525,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 122.5,
+    "high": 124.3,
+    "low": 118.1,
+    "close": 119.5,
+    "volume": 49208478,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 119.95,
+    "high": 120.55,
+    "low": 115.2,
+    "close": 116.2,
+    "volume": 53318535,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 117.8,
+    "high": 120.8,
+    "low": 114.3,
+    "close": 115.15,
+    "volume": 98961233,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 116,
+    "high": 117.45,
+    "low": 114,
+    "close": 114.25,
+    "volume": 83689907,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 114.95,
+    "high": 115.55,
+    "low": 114,
+    "close": 114.5,
+    "volume": 69303891,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 114.8,
+    "high": 115.5,
+    "low": 113.5,
+    "close": 113.7,
+    "volume": 53568977,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 114.75,
+    "high": 118,
+    "low": 114.05,
+    "close": 115,
+    "volume": 111204685,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 115.45,
+    "high": 115.45,
+    "low": 111,
+    "close": 112.55,
+    "volume": 51353390,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 112.55,
+    "high": 114.85,
+    "low": 111.5,
+    "close": 112,
+    "volume": 44793935,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 112.85,
+    "high": 114,
+    "low": 109.5,
+    "close": 110.55,
+    "volume": 41501825,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 111,
+    "high": 113.5,
+    "low": 106.8,
+    "close": 107.9,
+    "volume": 60144891,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 108.6,
+    "high": 109.45,
+    "low": 104.4,
+    "close": 108.4,
+    "volume": 49398948,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 109.3,
+    "high": 114.4,
+    "low": 109.1,
+    "close": 112.8,
+    "volume": 62321468,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 113.4,
+    "high": 113.8,
+    "low": 110.55,
+    "close": 111.5,
+    "volume": 28783194,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 112,
+    "high": 112.3,
+    "low": 108.1,
+    "close": 109.1,
+    "volume": 22554965,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 109.6,
+    "high": 110.45,
+    "low": 106,
+    "close": 106.8,
+    "volume": 32990126,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 107.05,
+    "high": 108.35,
+    "low": 104.1,
+    "close": 105,
+    "volume": 42883617,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 104,
+    "high": 104.75,
+    "low": 100.3,
+    "close": 100.9,
+    "volume": 46213748,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 102.4,
+    "high": 103.45,
+    "low": 97.3,
+    "close": 98.15,
+    "volume": 38662522,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 98.45,
+    "high": 101,
+    "low": 98.15,
+    "close": 100.2,
+    "volume": 40164938,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 102.8,
+    "high": 104.9,
+    "low": 102.45,
+    "close": 103.8,
+    "volume": 84167232,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 104,
+    "high": 105.05,
+    "low": 102.2,
+    "close": 102.75,
+    "volume": 20643079,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 102.75,
+    "high": 103.9,
+    "low": 101.4,
+    "close": 102.65,
+    "volume": 23248260,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 103.5,
+    "high": 107.1,
+    "low": 103.4,
+    "close": 106.75,
+    "volume": 43034005,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 106.45,
+    "high": 109.2,
+    "low": 104.75,
+    "close": 106.9,
+    "volume": 34797966,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 107.2,
+    "high": 108.4,
+    "low": 104.4,
+    "close": 106.2,
+    "volume": 31892639,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 106.9,
+    "high": 107.5,
+    "low": 105.7,
+    "close": 106.2,
+    "volume": 20030880,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 107,
+    "high": 113.5,
+    "low": 106.5,
+    "close": 112,
+    "volume": 188968726,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 112.65,
+    "high": 115.15,
+    "low": 112.15,
+    "close": 112.8,
+    "volume": 86093214,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 112.2,
+    "high": 113.6,
+    "low": 110.25,
+    "close": 110.5,
+    "volume": 25308255,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 110.75,
+    "high": 113.4,
+    "low": 109.6,
+    "close": 111.55,
+    "volume": 31320659,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 112.05,
+    "high": 114.15,
+    "low": 110.45,
+    "close": 111,
+    "volume": 66011904,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 112.15,
+    "high": 112.15,
+    "low": 110.2,
+    "close": 110.6,
+    "volume": 30784941,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 111.1,
+    "high": 112.9,
+    "low": 110.5,
+    "close": 110.8,
+    "volume": 34717494,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 112,
+    "high": 115,
+    "low": 111.3,
+    "close": 113.95,
+    "volume": 98711491,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 114.7,
+    "high": 116.95,
+    "low": 114,
+    "close": 116.4,
+    "volume": 101619271,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 116.7,
+    "high": 119.55,
+    "low": 113.5,
+    "close": 118.7,
+    "volume": 129950345,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 117.75,
+    "high": 117.75,
+    "low": 112.35,
+    "close": 113.65,
+    "volume": 58688693,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 113.6,
+    "high": 113.85,
+    "low": 109.45,
+    "close": 111.9,
+    "volume": 49252924,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 112.25,
+    "high": 114.85,
+    "low": 111.65,
+    "close": 114.5,
+    "volume": 24696275,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 115.3,
+    "high": 120.35,
+    "low": 115,
+    "close": 119.45,
+    "volume": 95756037,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 119.7,
+    "high": 119.7,
+    "low": 116.15,
+    "close": 119,
+    "volume": 75472892,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 119.7,
+    "high": 124,
+    "low": 117.15,
+    "close": 123.5,
+    "volume": 103649276,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 123,
+    "high": 123.75,
+    "low": 119.8,
+    "close": 120.25,
+    "volume": 100191209,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 119.85,
+    "high": 127.4,
+    "low": 117.9,
+    "close": 124,
+    "volume": 147917846,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 124.9,
+    "high": 125.5,
+    "low": 121.1,
+    "close": 122.25,
+    "volume": 53082663,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 126.2,
+    "high": 129,
+    "low": 123,
+    "close": 123.5,
+    "volume": 197870524,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 123.7,
+    "high": 125.6,
+    "low": 123.5,
+    "close": 124.05,
+    "volume": 42551822,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 123.95,
+    "high": 127.8,
+    "low": 123.7,
+    "close": 125.5,
+    "volume": 112869081,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 126.25,
+    "high": 129.9,
+    "low": 126.1,
+    "close": 127.15,
+    "volume": 175135895,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 128.55,
+    "high": 139.15,
+    "low": 128.55,
+    "close": 134,
+    "volume": 430139590,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 135.4,
+    "high": 138,
+    "low": 133.95,
+    "close": 135,
+    "volume": 141341397,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 135.6,
+    "high": 138,
+    "low": 134.85,
+    "close": 135,
+    "volume": 98512915,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 135.2,
+    "high": 138.35,
+    "low": 135.2,
+    "close": 136.95,
+    "volume": 71568764,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 136,
+    "high": 139.4,
+    "low": 135.8,
+    "close": 136.75,
+    "volume": 136968321,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 136.95,
+    "high": 138.5,
+    "low": 133.05,
+    "close": 133.85,
+    "volume": 98190729,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 135,
+    "high": 140.95,
+    "low": 134,
+    "close": 138.25,
+    "volume": 159565431,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 139.6,
+    "high": 144.8,
+    "low": 136.05,
+    "close": 137.5,
+    "volume": 263787986,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 138.35,
+    "high": 138.35,
+    "low": 132,
+    "close": 134.35,
+    "volume": 93278098,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 134.35,
+    "high": 138.3,
+    "low": 132.25,
+    "close": 132.65,
+    "volume": 84648102,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 134,
+    "high": 137.15,
+    "low": 126.8,
+    "close": 127.9,
+    "volume": 68412164,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 126,
+    "high": 134.45,
+    "low": 121.15,
+    "close": 129.5,
+    "volume": 255338066,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 130.5,
+    "high": 134.5,
+    "low": 128.6,
+    "close": 133.7,
+    "volume": 95301518,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 135,
+    "high": 135.05,
+    "low": 130.65,
+    "close": 132,
+    "volume": 84896534,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 130,
+    "high": 131.5,
+    "low": 125,
+    "close": 125,
+    "volume": 36432482,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 125.25,
+    "high": 126,
+    "low": 122.05,
+    "close": 122.5,
+    "volume": 42911762,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 126,
+    "high": 126.5,
+    "low": 122.05,
+    "close": 123.8,
+    "volume": 31929464,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 125.55,
+    "high": 125.55,
+    "low": 120.5,
+    "close": 121.3,
+    "volume": 38211578,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 121.15,
+    "high": 124.1,
+    "low": 120,
+    "close": 120.3,
+    "volume": 38602161,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 121.6,
+    "high": 123.7,
+    "low": 120.7,
+    "close": 122.3,
+    "volume": 9158671,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 122.9,
+    "high": 123.95,
+    "low": 121.15,
+    "close": 121.7,
+    "volume": 57967120,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 121.7,
+    "high": 123.7,
+    "low": 121.5,
+    "close": 121.95,
+    "volume": 32733223,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 121.95,
+    "high": 123.9,
+    "low": 119.1,
+    "close": 119.5,
+    "volume": 78505347,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 119.85,
+    "high": 120,
+    "low": 115.75,
+    "close": 116.4,
+    "volume": 52971318,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 114.7,
+    "high": 119.95,
+    "low": 114.7,
+    "close": 119.8,
+    "volume": 39880195,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 120.45,
+    "high": 120.8,
+    "low": 115,
+    "close": 115.55,
+    "volume": 40298252,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 115.75,
+    "high": 117.05,
+    "low": 113.9,
+    "close": 113.95,
+    "volume": 28852273,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 114.5,
+    "high": 114.7,
+    "low": 113,
+    "close": 113.6,
+    "volume": 25720436,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 114.1,
+    "high": 114.4,
+    "low": 112.3,
+    "close": 113.15,
+    "volume": 22506465,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 113,
+    "high": 113,
+    "low": 108,
+    "close": 109.4,
+    "volume": 30912586,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 108,
+    "high": 111.75,
+    "low": 107,
+    "close": 110.5,
+    "volume": 35279891,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 111.35,
+    "high": 114.9,
+    "low": 110.85,
+    "close": 114.4,
+    "volume": 35460495,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 114.8,
+    "high": 114.85,
+    "low": 112.5,
+    "close": 114.45,
+    "volume": 16981436,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 113,
+    "high": 113.55,
+    "low": 109.1,
+    "close": 109.5,
+    "volume": 23427789,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 110,
+    "high": 111.4,
+    "low": 105.55,
+    "close": 106.6,
+    "volume": 22023576,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 107,
+    "high": 108.6,
+    "low": 104,
+    "close": 104.25,
+    "volume": 29170583,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 106,
+    "high": 106.3,
+    "low": 101.2,
+    "close": 104.7,
+    "volume": 21064159,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 104,
+    "high": 107.3,
+    "low": 103.85,
+    "close": 107.2,
+    "volume": 18477390,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 107.8,
+    "high": 109.45,
+    "low": 107.5,
+    "close": 107.55,
+    "volume": 30283601,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 107.8,
+    "high": 108.25,
+    "low": 103.75,
+    "close": 104.15,
+    "volume": 32003497,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 105.5,
+    "high": 106.45,
+    "low": 100.85,
+    "close": 104,
+    "volume": 123927979,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 106.2,
+    "high": 107.8,
+    "low": 103.95,
+    "close": 105.85,
+    "volume": 68771880,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 105.95,
+    "high": 106.3,
+    "low": 104.45,
+    "close": 104.95,
+    "volume": 48333565,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 104.9,
+    "high": 106.95,
+    "low": 104.35,
+    "close": 105.5,
+    "volume": 50154969,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 106.2,
+    "high": 108,
+    "low": 106.15,
+    "close": 107,
+    "volume": 41225643,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 106.3,
+    "high": 107.25,
+    "low": 105.4,
+    "close": 105.9,
+    "volume": 23781749,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 106.6,
+    "high": 107.25,
+    "low": 104.5,
+    "close": 105,
+    "volume": 24376101,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 105.8,
+    "high": 106.35,
+    "low": 103.2,
+    "close": 104.25,
+    "volume": 21809290,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 104.75,
+    "high": 104.75,
+    "low": 101.2,
+    "close": 102.6,
+    "volume": 24935965,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 100,
+    "high": 100.8,
+    "low": 95.6,
+    "close": 97.4,
+    "volume": 36034694,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 98.25,
+    "high": 100.9,
+    "low": 98.25,
+    "close": 99.65,
+    "volume": 19959024,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 100.6,
+    "high": 101.8,
+    "low": 100.05,
+    "close": 101.45,
+    "volume": 13026200,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 102.4,
+    "high": 102.8,
+    "low": 100.65,
+    "close": 101.25,
+    "volume": 21250856,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 101.85,
+    "high": 102.25,
+    "low": 99.6,
+    "close": 100.7,
+    "volume": 16878217,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 100,
+    "high": 101.9,
+    "low": 98.55,
+    "close": 100.7,
+    "volume": 19039907,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 101.35,
+    "high": 102.75,
+    "low": 101.2,
+    "close": 102.35,
+    "volume": 23082086,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 102.8,
+    "high": 103.75,
+    "low": 101.55,
+    "close": 101.95,
+    "volume": 16247904,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 101.8,
+    "high": 102.8,
+    "low": 101.45,
+    "close": 101.95,
+    "volume": 11879278,
+    "symbol": "CHENNPETRO"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 102,
+    "high": 104,
+    "low": 101.75,
+    "close": 102.85,
+    "volume": 36596995,
+    "symbol": "CHENNPETRO"
+  }
+]

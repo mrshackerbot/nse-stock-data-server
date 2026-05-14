@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 221.2,
+    "high": 223.9,
+    "low": 216,
+    "close": 223.75,
+    "volume": 4231969505,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 224.3,
+    "high": 228.25,
+    "low": 221,
+    "close": 226.6,
+    "volume": 7302682997,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 226.4,
+    "high": 226.55,
+    "low": 223,
+    "close": 223.3,
+    "volume": 3870609185,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 221.45,
+    "high": 229.8,
+    "low": 219.5,
+    "close": 229.05,
+    "volume": 6205270035,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 230.3,
+    "high": 232.85,
+    "low": 227.1,
+    "close": 229.45,
+    "volume": 7959670980,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 230.95,
+    "high": 233.45,
+    "low": 230.4,
+    "close": 231.55,
+    "volume": 5116090380,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 233,
+    "high": 236.7,
+    "low": 231.8,
+    "close": 233.25,
+    "volume": 5965700866,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 234.9,
+    "high": 239.65,
+    "low": 234.5,
+    "close": 237.5,
+    "volume": 7747842654,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 239,
+    "high": 246.7,
+    "low": 236.5,
+    "close": 245.05,
+    "volume": 12164754063,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 243.7,
+    "high": 248.5,
+    "low": 242.5,
+    "close": 243.7,
+    "volume": 9088842329,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 245.9,
+    "high": 249.25,
+    "low": 245,
+    "close": 248,
+    "volume": 6272064079,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 250,
+    "high": 250.6,
+    "low": 237.8,
+    "close": 239.3,
+    "volume": 7453166617,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 239,
+    "high": 249.7,
+    "low": 236.05,
+    "close": 249.4,
+    "volume": 8916072524,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 250,
+    "high": 252.15,
+    "low": 245.15,
+    "close": 248.6,
+    "volume": 8948550010,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 245.8,
+    "high": 250.8,
+    "low": 238.55,
+    "close": 242.7,
+    "volume": 8725145939,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 242.5,
+    "high": 243.85,
+    "low": 226.6,
+    "close": 227.95,
+    "volume": 10086080875,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 226.25,
+    "high": 240.85,
+    "low": 223,
+    "close": 238.6,
+    "volume": 9242652277,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 235.5,
+    "high": 242.35,
+    "low": 232.5,
+    "close": 241.95,
+    "volume": 8508807032,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 244.7,
+    "high": 250,
+    "low": 242.85,
+    "close": 244.35,
+    "volume": 8511918464,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 247.95,
+    "high": 249.55,
+    "low": 245.3,
+    "close": 246.15,
+    "volume": 6166618443,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 249.5,
+    "high": 256.4,
+    "low": 244.8,
+    "close": 249.8,
+    "volume": 18618897296,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 251.9,
+    "high": 255,
+    "low": 249.25,
+    "close": 250.55,
+    "volume": 6332529412,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 250.55,
+    "high": 254.4,
+    "low": 249.3,
+    "close": 251.8,
+    "volume": 6978766526,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 253.8,
+    "high": 257.9,
+    "low": 253,
+    "close": 254.95,
+    "volume": 10044757681,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 255.5,
+    "high": 256.7,
+    "low": 250.55,
+    "close": 251.6,
+    "volume": 8320159726,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 252.5,
+    "high": 253.6,
+    "low": 232.6,
+    "close": 233.3,
+    "volume": 19543567706,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 236.7,
+    "high": 238.9,
+    "low": 232.6,
+    "close": 238.4,
+    "volume": 8420858112,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 238.5,
+    "high": 244.5,
+    "low": 234.1,
+    "close": 241.1,
+    "volume": 13281289212,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 240,
+    "high": 242.05,
+    "low": 230.2,
+    "close": 231.5,
+    "volume": 8540565868,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 226,
+    "high": 226.85,
+    "low": 216,
+    "close": 220.5,
+    "volume": 8557890032,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 222.75,
+    "high": 231.75,
+    "low": 218.8,
+    "close": 231.45,
+    "volume": 8163268287,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 233.4,
+    "high": 236.9,
+    "low": 230.1,
+    "close": 230.5,
+    "volume": 8230319741,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 233.35,
+    "high": 233.85,
+    "low": 227,
+    "close": 228.15,
+    "volume": 5389661246,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 227,
+    "high": 230,
+    "low": 224.65,
+    "close": 226.05,
+    "volume": 4259906681,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 224,
+    "high": 227.65,
+    "low": 222.25,
+    "close": 224.8,
+    "volume": 5550346535,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 218,
+    "high": 224.85,
+    "low": 217.3,
+    "close": 223.2,
+    "volume": 6506952723,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 226,
+    "high": 226.8,
+    "low": 220.35,
+    "close": 221.6,
+    "volume": 5274386039,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 213,
+    "high": 216.15,
+    "low": 203.25,
+    "close": 205.15,
+    "volume": 12552870132,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 210,
+    "high": 221.3,
+    "low": 209.55,
+    "close": 220.5,
+    "volume": 11373743532,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 217.5,
+    "high": 224.35,
+    "low": 214.1,
+    "close": 223,
+    "volume": 7806321451,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 220,
+    "high": 227.25,
+    "low": 218.4,
+    "close": 225.8,
+    "volume": 6367739184,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 229,
+    "high": 230.55,
+    "low": 225.9,
+    "close": 226.75,
+    "volume": 5109775880,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 225,
+    "high": 226.45,
+    "low": 220.8,
+    "close": 221.5,
+    "volume": 5010959376,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 217,
+    "high": 219.7,
+    "low": 212.25,
+    "close": 216.8,
+    "volume": 5062584517,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 215,
+    "high": 227.8,
+    "low": 214.6,
+    "close": 226.85,
+    "volume": 9238763817,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 229.1,
+    "high": 231.2,
+    "low": 226.3,
+    "close": 229.5,
+    "volume": 5814956383,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 235,
+    "high": 235.85,
+    "low": 229.9,
+    "close": 231.95,
+    "volume": 5940352326,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 231.9,
+    "high": 234.25,
+    "low": 230.3,
+    "close": 233.55,
+    "volume": 4231345390,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 233.1,
+    "high": 234.65,
+    "low": 230.55,
+    "close": 231.8,
+    "volume": 2801696628,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 231.95,
+    "high": 233.3,
+    "low": 225.3,
+    "close": 227,
+    "volume": 3708595406,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 230,
+    "high": 231.7,
+    "low": 229.05,
+    "close": 230.3,
+    "volume": 2861989308,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 233.6,
+    "high": 233.95,
+    "low": 231.3,
+    "close": 232,
+    "volume": 3821285895,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 232.95,
+    "high": 233.4,
+    "low": 227.35,
+    "close": 228.2,
+    "volume": 2852691603,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 229.1,
+    "high": 231.9,
+    "low": 226.3,
+    "close": 231.8,
+    "volume": 3412695062,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 232.35,
+    "high": 237.45,
+    "low": 231.65,
+    "close": 234.15,
+    "volume": 6940485735,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 234,
+    "high": 241,
+    "low": 232.95,
+    "close": 239.65,
+    "volume": 7524473355,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 240,
+    "high": 244.3,
+    "low": 239.2,
+    "close": 241.5,
+    "volume": 5868649881,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 242.55,
+    "high": 244,
+    "low": 237.45,
+    "close": 239.5,
+    "volume": 3562820880,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 243.6,
+    "high": 244.9,
+    "low": 238.5,
+    "close": 238.8,
+    "volume": 4843640946,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 240.95,
+    "high": 244.9,
+    "low": 237.75,
+    "close": 241.1,
+    "volume": 5521913064,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 242.9,
+    "high": 242.9,
+    "low": 237.65,
+    "close": 238.4,
+    "volume": 3343022788,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 237.65,
+    "high": 246.35,
+    "low": 237.1,
+    "close": 245.8,
+    "volume": 6253079767,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 247.15,
+    "high": 253.55,
+    "low": 246.1,
+    "close": 251.9,
+    "volume": 9864584841,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 253.85,
+    "high": 275.25,
+    "low": 252.1,
+    "close": 273.95,
+    "volume": 25159945585,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 275.95,
+    "high": 296.5,
+    "low": 273.1,
+    "close": 288.85,
+    "volume": 65441396611,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 292.35,
+    "high": 298.05,
+    "low": 276,
+    "close": 278.3,
+    "volume": 43399605191,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 280.9,
+    "high": 282.8,
+    "low": 273.05,
+    "close": 278.6,
+    "volume": 17915706161,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 281,
+    "high": 288.45,
+    "low": 280.35,
+    "close": 283.25,
+    "volume": 13660633197,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 283.35,
+    "high": 283.35,
+    "low": 271.6,
+    "close": 275.65,
+    "volume": 12370508255,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 278.6,
+    "high": 280.3,
+    "low": 272.3,
+    "close": 273.05,
+    "volume": 8670799426,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 267.9,
+    "high": 267.9,
+    "low": 252,
+    "close": 258,
+    "volume": 23299679925,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 260.5,
+    "high": 262,
+    "low": 242.5,
+    "close": 244.2,
+    "volume": 13499545024,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 250,
+    "high": 254.7,
+    "low": 246.55,
+    "close": 250.45,
+    "volume": 10430649850,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 253,
+    "high": 260.2,
+    "low": 250.7,
+    "close": 258.8,
+    "volume": 10404445973,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 258,
+    "high": 259,
+    "low": 252.3,
+    "close": 253.5,
+    "volume": 7817486817,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 248,
+    "high": 251.55,
+    "low": 244.7,
+    "close": 248.2,
+    "volume": 6099440403,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 251.15,
+    "high": 251.45,
+    "low": 248.05,
+    "close": 248.9,
+    "volume": 4484827956,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 247.8,
+    "high": 255.25,
+    "low": 245.5,
+    "close": 247.65,
+    "volume": 7997604563,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 250.9,
+    "high": 250.9,
+    "low": 244.4,
+    "close": 249.45,
+    "volume": 5165250249,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 250.9,
+    "high": 253.2,
+    "low": 240.85,
+    "close": 242.35,
+    "volume": 6487693620,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 240,
+    "high": 249.65,
+    "low": 238.4,
+    "close": 248.55,
+    "volume": 6485594962,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 249.85,
+    "high": 254.2,
+    "low": 242.85,
+    "close": 246,
+    "volume": 7675753086,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 248.95,
+    "high": 251.3,
+    "low": 244.95,
+    "close": 247.3,
+    "volume": 6036269744,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 243,
+    "high": 247,
+    "low": 240.65,
+    "close": 246.95,
+    "volume": 6830458434,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 235,
+    "high": 236.5,
+    "low": 223.05,
+    "close": 229.95,
+    "volume": 13971123200,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 229.95,
+    "high": 234.5,
+    "low": 220.65,
+    "close": 221.4,
+    "volume": 6891364247,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 222.8,
+    "high": 229.8,
+    "low": 219.5,
+    "close": 227.5,
+    "volume": 7908727961,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 225.8,
+    "high": 227.05,
+    "low": 217.05,
+    "close": 219.6,
+    "volume": 6497127730,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 225,
+    "high": 229.2,
+    "low": 221.3,
+    "close": 223.2,
+    "volume": 7462912312,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 224.9,
+    "high": 227.65,
+    "low": 220.5,
+    "close": 227.4,
+    "volume": 5002943075,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 228.95,
+    "high": 242.5,
+    "low": 227.85,
+    "close": 241.2,
+    "volume": 8177715124,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 243.35,
+    "high": 243.35,
+    "low": 236.5,
+    "close": 237.5,
+    "volume": 5983515475,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 229.5,
+    "high": 232.6,
+    "low": 226.35,
+    "close": 228.65,
+    "volume": 5435792026,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 232.5,
+    "high": 236,
+    "low": 230.25,
+    "close": 233.25,
+    "volume": 4266250703,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 234.95,
+    "high": 235.9,
+    "low": 228.75,
+    "close": 229.5,
+    "volume": 3876337601,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 230.2,
+    "high": 231.4,
+    "low": 224.75,
+    "close": 227.5,
+    "volume": 4022446528,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 229,
+    "high": 229.9,
+    "low": 220,
+    "close": 221.4,
+    "volume": 3615541007,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 222.95,
+    "high": 224.3,
+    "low": 210.2,
+    "close": 223,
+    "volume": 7597291751,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 225.7,
+    "high": 226.8,
+    "low": 222.7,
+    "close": 224.7,
+    "volume": 3627563976,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 227.9,
+    "high": 233.9,
+    "low": 227,
+    "close": 233.15,
+    "volume": 4552102991,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 232.9,
+    "high": 237.6,
+    "low": 231.3,
+    "close": 234.95,
+    "volume": 5071448566,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 233.6,
+    "high": 236.2,
+    "low": 230.55,
+    "close": 233.5,
+    "volume": 3455493934,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 232,
+    "high": 235.9,
+    "low": 231.3,
+    "close": 233.9,
+    "volume": 3102823118,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 236.3,
+    "high": 236.85,
+    "low": 230.2,
+    "close": 231.05,
+    "volume": 2666642164,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 231,
+    "high": 233.6,
+    "low": 227.55,
+    "close": 232.1,
+    "volume": 2700286599,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 230.9,
+    "high": 235.5,
+    "low": 229.75,
+    "close": 235.2,
+    "volume": 3501243031,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 235.95,
+    "high": 236.4,
+    "low": 231.1,
+    "close": 232.9,
+    "volume": 3095140667,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 232,
+    "high": 234.7,
+    "low": 231.4,
+    "close": 233.05,
+    "volume": 2388434456,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 231.4,
+    "high": 232.4,
+    "low": 229,
+    "close": 230.05,
+    "volume": 2215160666,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 223.45,
+    "high": 226.35,
+    "low": 218.9,
+    "close": 219.75,
+    "volume": 4247014000,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 214.7,
+    "high": 224.4,
+    "low": 214.65,
+    "close": 220.4,
+    "volume": 3582729509,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 221,
+    "high": 222.3,
+    "low": 218.3,
+    "close": 218.7,
+    "volume": 2599062437,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 222.4,
+    "high": 223.3,
+    "low": 209,
+    "close": 210.7,
+    "volume": 4836026343,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 209.8,
+    "high": 213.95,
+    "low": 207.05,
+    "close": 211.8,
+    "volume": 4304655953,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 211.8,
+    "high": 212.9,
+    "low": 190,
+    "close": 195.8,
+    "volume": 9084298137,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 197.8,
+    "high": 207.75,
+    "low": 192.5,
+    "close": 204.6,
+    "volume": 8095863575,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 203.7,
+    "high": 204.6,
+    "low": 199,
+    "close": 201.15,
+    "volume": 3852652927,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 201.3,
+    "high": 204.9,
+    "low": 198.65,
+    "close": 203.4,
+    "volume": 4078118134,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 204.9,
+    "high": 208.75,
+    "low": 203.7,
+    "close": 207.35,
+    "volume": 3462801029,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 209.9,
+    "high": 211.6,
+    "low": 207.65,
+    "close": 207.75,
+    "volume": 3871736090,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 206.1,
+    "high": 209.15,
+    "low": 204.9,
+    "close": 208.9,
+    "volume": 2761329117,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 206.1,
+    "high": 209.7,
+    "low": 205.75,
+    "close": 206.6,
+    "volume": 2531878857,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 207.3,
+    "high": 209.25,
+    "low": 201.4,
+    "close": 202,
+    "volume": 3308228277,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 202.7,
+    "high": 207.65,
+    "low": 200.6,
+    "close": 207.2,
+    "volume": 3224419286,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 207.7,
+    "high": 212.8,
+    "low": 207.2,
+    "close": 212.75,
+    "volume": 3088341949,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 214.5,
+    "high": 217.1,
+    "low": 212,
+    "close": 212.5,
+    "volume": 3911123400,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 212.5,
+    "high": 214.75,
+    "low": 210.1,
+    "close": 214.15,
+    "volume": 2767056502,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 215.95,
+    "high": 216.3,
+    "low": 212.3,
+    "close": 214.5,
+    "volume": 3182281403,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 217.7,
+    "high": 220.85,
+    "low": 214.75,
+    "close": 219.55,
+    "volume": 3900699456,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 219,
+    "high": 221.9,
+    "low": 218.3,
+    "close": 220.2,
+    "volume": 3310182843,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 219.85,
+    "high": 224.2,
+    "low": 219.1,
+    "close": 220.9,
+    "volume": 3179176966,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 222,
+    "high": 223.25,
+    "low": 219.85,
+    "close": 220.6,
+    "volume": 2455935217,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 222.9,
+    "high": 223.25,
+    "low": 219.15,
+    "close": 221.6,
+    "volume": 2440339485,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 221.9,
+    "high": 226.2,
+    "low": 221.65,
+    "close": 225.05,
+    "volume": 2945854891,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 226.95,
+    "high": 228.9,
+    "low": 225.5,
+    "close": 227.7,
+    "volume": 2507960710,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 226.65,
+    "high": 229.5,
+    "low": 226.5,
+    "close": 227.65,
+    "volume": 1759510296,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 230,
+    "high": 230.6,
+    "low": 226.8,
+    "close": 227,
+    "volume": 2323428173,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 226.7,
+    "high": 230.9,
+    "low": 226.5,
+    "close": 230.25,
+    "volume": 2575182079,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 230.2,
+    "high": 234,
+    "low": 230.2,
+    "close": 230.65,
+    "volume": 2886964629,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 231.4,
+    "high": 233.35,
+    "low": 229.5,
+    "close": 232.55,
+    "volume": 2357536015,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 233,
+    "high": 233.5,
+    "low": 225.1,
+    "close": 225.5,
+    "volume": 2643990552,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 220.9,
+    "high": 223.95,
+    "low": 215.5,
+    "close": 218.05,
+    "volume": 7356840408,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 220.4,
+    "high": 221.45,
+    "low": 216.9,
+    "close": 217.95,
+    "volume": 4974382259,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 220.2,
+    "high": 222.65,
+    "low": 218.85,
+    "close": 222.05,
+    "volume": 4196530089,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 222.3,
+    "high": 231.25,
+    "low": 221.6,
+    "close": 230.8,
+    "volume": 5010556779,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 230,
+    "high": 233.6,
+    "low": 227.2,
+    "close": 231.9,
+    "volume": 4658802273,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 232,
+    "high": 237.3,
+    "low": 231.05,
+    "close": 232.2,
+    "volume": 5985643095,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 233.8,
+    "high": 234.8,
+    "low": 225.3,
+    "close": 227.4,
+    "volume": 4813415144,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 228.65,
+    "high": 233.25,
+    "low": 227.7,
+    "close": 231.2,
+    "volume": 7685129002,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 232.05,
+    "high": 232.85,
+    "low": 227.7,
+    "close": 228.5,
+    "volume": 2726188701,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 229.5,
+    "high": 230.4,
+    "low": 227.15,
+    "close": 228.6,
+    "volume": 2605010397,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 229.9,
+    "high": 231.35,
+    "low": 228.35,
+    "close": 229.55,
+    "volume": 2112905069,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 230,
+    "high": 235.7,
+    "low": 228.6,
+    "close": 232.7,
+    "volume": 5434023775,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 233.65,
+    "high": 237.5,
+    "low": 231.4,
+    "close": 237.5,
+    "volume": 4398040683,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 238.45,
+    "high": 241.8,
+    "low": 236.6,
+    "close": 236.75,
+    "volume": 5682138416,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 236.95,
+    "high": 239.8,
+    "low": 235.9,
+    "close": 237.85,
+    "volume": 3622184378,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 238.85,
+    "high": 241.9,
+    "low": 232,
+    "close": 232.15,
+    "volume": 5455609647,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 232.65,
+    "high": 232.65,
+    "low": 222.85,
+    "close": 224.9,
+    "volume": 4759625360,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 222.75,
+    "high": 232.1,
+    "low": 221.65,
+    "close": 231.65,
+    "volume": 4363345207,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 230.95,
+    "high": 232.8,
+    "low": 227.5,
+    "close": 229.4,
+    "volume": 3345768903,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 230.6,
+    "high": 233.2,
+    "low": 228.65,
+    "close": 229.5,
+    "volume": 3193875941,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 231,
+    "high": 236.4,
+    "low": 230.85,
+    "close": 235.1,
+    "volume": 4534335473,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 227.15,
+    "high": 233.7,
+    "low": 227.1,
+    "close": 232.6,
+    "volume": 3258728015,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 234,
+    "high": 237.5,
+    "low": 234,
+    "close": 236.5,
+    "volume": 3166373830,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 235.05,
+    "high": 240.25,
+    "low": 234.4,
+    "close": 237.1,
+    "volume": 3490407198,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 238.45,
+    "high": 239.5,
+    "low": 234.45,
+    "close": 234.85,
+    "volume": 2932119491,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 235.45,
+    "high": 238.4,
+    "low": 235.2,
+    "close": 236.7,
+    "volume": 2487059607,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 237.65,
+    "high": 248,
+    "low": 237.2,
+    "close": 247.5,
+    "volume": 15041873844,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 246.95,
+    "high": 251.15,
+    "low": 245.2,
+    "close": 247.7,
+    "volume": 7560662721,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 249.55,
+    "high": 250.1,
+    "low": 243.6,
+    "close": 245,
+    "volume": 3680153369,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 246.5,
+    "high": 247,
+    "low": 241.2,
+    "close": 242.5,
+    "volume": 2997040175,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 243.7,
+    "high": 245.2,
+    "low": 241.7,
+    "close": 243,
+    "volume": 2508865057,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 243.9,
+    "high": 244.9,
+    "low": 240.05,
+    "close": 240.65,
+    "volume": 3362111167,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 237.45,
+    "high": 244.15,
+    "low": 236.65,
+    "close": 241.2,
+    "volume": 5836047445,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 242.35,
+    "high": 246.9,
+    "low": 239.9,
+    "close": 245.05,
+    "volume": 4674646478,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 246.9,
+    "high": 247.75,
+    "low": 232.65,
+    "close": 236.7,
+    "volume": 13853730549,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 237.5,
+    "high": 237.95,
+    "low": 231.9,
+    "close": 232.1,
+    "volume": 3282245183,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 235,
+    "high": 237.5,
+    "low": 234.15,
+    "close": 234.85,
+    "volume": 2450443646,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 235.5,
+    "high": 236.6,
+    "low": 230.35,
+    "close": 231.9,
+    "volume": 3302167176,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 229.1,
+    "high": 233.5,
+    "low": 227.45,
+    "close": 231.95,
+    "volume": 4531264435,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 231.25,
+    "high": 232.35,
+    "low": 223.55,
+    "close": 224.55,
+    "volume": 3665335819,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 222.8,
+    "high": 223.55,
+    "low": 212.5,
+    "close": 215.65,
+    "volume": 4908046557,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 217.3,
+    "high": 219.85,
+    "low": 214.45,
+    "close": 218.25,
+    "volume": 3061594696,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 215,
+    "high": 216.85,
+    "low": 212.75,
+    "close": 213.4,
+    "volume": 2607261887,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 216.15,
+    "high": 218,
+    "low": 210.5,
+    "close": 212.85,
+    "volume": 4000938443,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 212.2,
+    "high": 217.1,
+    "low": 210.25,
+    "close": 217,
+    "volume": 2788323271,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 216.5,
+    "high": 218,
+    "low": 211.8,
+    "close": 213.95,
+    "volume": 2335702371,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 216.8,
+    "high": 219.95,
+    "low": 216.2,
+    "close": 219.5,
+    "volume": 2438969161,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 221,
+    "high": 223.25,
+    "low": 220.25,
+    "close": 221.85,
+    "volume": 2346078322,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 221.65,
+    "high": 222.9,
+    "low": 218.75,
+    "close": 222.25,
+    "volume": 2453958033,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 220,
+    "high": 220.75,
+    "low": 217.1,
+    "close": 220.55,
+    "volume": 2085049462,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 220.4,
+    "high": 222.25,
+    "low": 216.5,
+    "close": 217,
+    "volume": 1976926095,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 218,
+    "high": 219.4,
+    "low": 215.05,
+    "close": 217.9,
+    "volume": 2065373231,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 217.95,
+    "high": 218.9,
+    "low": 213.5,
+    "close": 216.3,
+    "volume": 2062161589,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 220,
+    "high": 220.6,
+    "low": 215.5,
+    "close": 216.3,
+    "volume": 1904959296,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 215,
+    "high": 218.5,
+    "low": 213.85,
+    "close": 218.1,
+    "volume": 2039486139,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 219.05,
+    "high": 222,
+    "low": 218.65,
+    "close": 221,
+    "volume": 2260978997,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 221.4,
+    "high": 221.65,
+    "low": 217.55,
+    "close": 218.75,
+    "volume": 1692422738,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 217.85,
+    "high": 221.3,
+    "low": 216.1,
+    "close": 221.05,
+    "volume": 1728331596,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 221.25,
+    "high": 222.25,
+    "low": 217.55,
+    "close": 218.5,
+    "volume": 1792360901,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 221,
+    "high": 221.15,
+    "low": 218.3,
+    "close": 219.1,
+    "volume": 635665999,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 219.1,
+    "high": 222.9,
+    "low": 217.65,
+    "close": 220.8,
+    "volume": 1997123962,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 221.8,
+    "high": 226.9,
+    "low": 221.1,
+    "close": 226.9,
+    "volume": 2862437017,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 227,
+    "high": 227.7,
+    "low": 222.55,
+    "close": 225.3,
+    "volume": 2957032084,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 228.1,
+    "high": 229,
+    "low": 224.2,
+    "close": 226.1,
+    "volume": 5127387562,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 226.5,
+    "high": 231.35,
+    "low": 226.5,
+    "close": 230.7,
+    "volume": 3884006480,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 230,
+    "high": 231.8,
+    "low": 227.8,
+    "close": 229,
+    "volume": 2175107425,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 228.2,
+    "high": 229.5,
+    "low": 225.75,
+    "close": 227.5,
+    "volume": 2068147764,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 227.7,
+    "high": 229.4,
+    "low": 226.75,
+    "close": 228.4,
+    "volume": 1978562437,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 228.35,
+    "high": 230.4,
+    "low": 226.9,
+    "close": 229,
+    "volume": 2190017178,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 230.1,
+    "high": 234.5,
+    "low": 228.85,
+    "close": 231.15,
+    "volume": 3862769096,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 231.2,
+    "high": 233.4,
+    "low": 228.5,
+    "close": 229.45,
+    "volume": 2062223782,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 232,
+    "high": 232,
+    "low": 229.2,
+    "close": 229.5,
+    "volume": 1673145655,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 230.05,
+    "high": 230.4,
+    "low": 226.8,
+    "close": 227.85,
+    "volume": 1666933638,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 228.45,
+    "high": 230.25,
+    "low": 228,
+    "close": 229.6,
+    "volume": 1472386506,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 229.5,
+    "high": 230,
+    "low": 222.25,
+    "close": 224.9,
+    "volume": 2407464848,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 224.7,
+    "high": 224.9,
+    "low": 221,
+    "close": 221.35,
+    "volume": 2374072154,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 222.35,
+    "high": 222.85,
+    "low": 218.7,
+    "close": 220.55,
+    "volume": 1704504774,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 220.45,
+    "high": 222.4,
+    "low": 218.4,
+    "close": 221.5,
+    "volume": 1373439739,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 221.05,
+    "high": 222,
+    "low": 219.05,
+    "close": 220.8,
+    "volume": 1564603615,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 221.5,
+    "high": 222.25,
+    "low": 220.5,
+    "close": 220.75,
+    "volume": 1319716400,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 221,
+    "high": 221.7,
+    "low": 219.6,
+    "close": 220.85,
+    "volume": 1457702893,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 221.2,
+    "high": 224.85,
+    "low": 220.35,
+    "close": 224.3,
+    "volume": 1801347453,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 224.1,
+    "high": 226.45,
+    "low": 223.3,
+    "close": 224.45,
+    "volume": 1660403739,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 225,
+    "high": 225.45,
+    "low": 222.9,
+    "close": 223.55,
+    "volume": 1379743034,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 223.55,
+    "high": 225.4,
+    "low": 222.65,
+    "close": 224.7,
+    "volume": 1974736160,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 225.25,
+    "high": 227.15,
+    "low": 223.6,
+    "close": 224.65,
+    "volume": 1764526068,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 225.45,
+    "high": 226.35,
+    "low": 223.85,
+    "close": 225.1,
+    "volume": 1625544426,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 225.25,
+    "high": 225.85,
+    "low": 222.35,
+    "close": 225,
+    "volume": 2406742086,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 224.2,
+    "high": 230.3,
+    "low": 223.5,
+    "close": 228.6,
+    "volume": 4579288637,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 228.8,
+    "high": 229.6,
+    "low": 225.4,
+    "close": 226.1,
+    "volume": 1712995945,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 226,
+    "high": 227.3,
+    "low": 224.8,
+    "close": 225.1,
+    "volume": 1692649827,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 225.9,
+    "high": 226.5,
+    "low": 217.5,
+    "close": 219.7,
+    "volume": 2895297759,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 219.75,
+    "high": 219.75,
+    "low": 215.7,
+    "close": 217.75,
+    "volume": 1929372339,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 218.8,
+    "high": 220.3,
+    "low": 217.8,
+    "close": 218.85,
+    "volume": 1591151821,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 219.8,
+    "high": 223.2,
+    "low": 219.4,
+    "close": 222.7,
+    "volume": 2036305772,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 222.65,
+    "high": 224.8,
+    "low": 221.05,
+    "close": 221.5,
+    "volume": 1765613194,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 221,
+    "high": 222.5,
+    "low": 216.05,
+    "close": 216.5,
+    "volume": 2264081202,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 218,
+    "high": 218,
+    "low": 214.9,
+    "close": 217.2,
+    "volume": 2013307991,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 216.8,
+    "high": 218.5,
+    "low": 214.6,
+    "close": 218,
+    "volume": 1389164757,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 218.4,
+    "high": 219.4,
+    "low": 212.5,
+    "close": 213.9,
+    "volume": 2100349905,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 214.9,
+    "high": 215.3,
+    "low": 206.55,
+    "close": 208.8,
+    "volume": 2938357224,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 206.2,
+    "high": 207.9,
+    "low": 196,
+    "close": 197.65,
+    "volume": 4181614162,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 197.3,
+    "high": 204.65,
+    "low": 194.6,
+    "close": 203.9,
+    "volume": 3664640233,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 206.8,
+    "high": 208.3,
+    "low": 204.8,
+    "close": 208,
+    "volume": 2448901049,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 207.35,
+    "high": 210.3,
+    "low": 206.8,
+    "close": 208,
+    "volume": 1863570392,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 208.8,
+    "high": 208.8,
+    "low": 205,
+    "close": 206.1,
+    "volume": 3169536298,
+    "symbol": "TATAPOWER"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 207.4,
+    "high": 210,
+    "low": 207,
+    "close": 208,
+    "volume": 1536036306,
+    "symbol": "TATAPOWER"
+  }
+]

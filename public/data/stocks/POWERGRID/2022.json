@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 205.4,
+    "high": 206.95,
+    "low": 204.15,
+    "close": 205.15,
+    "volume": 1142090512,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 206.3,
+    "high": 213,
+    "low": 205.5,
+    "close": 210.4,
+    "volume": 2331423469,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 210,
+    "high": 211.35,
+    "low": 208.05,
+    "close": 208.4,
+    "volume": 1502132401,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 207.75,
+    "high": 208.7,
+    "low": 204.65,
+    "close": 206.5,
+    "volume": 868326883,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 206.95,
+    "high": 208.5,
+    "low": 204.5,
+    "close": 205.1,
+    "volume": 1836275428,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 207.25,
+    "high": 207.25,
+    "low": 203.45,
+    "close": 204.2,
+    "volume": 1704047632,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 204.55,
+    "high": 205.8,
+    "low": 203.5,
+    "close": 204.2,
+    "volume": 1104136565,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 206,
+    "high": 206.7,
+    "low": 204.35,
+    "close": 204.7,
+    "volume": 1697502784,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 207.6,
+    "high": 211.5,
+    "low": 206.55,
+    "close": 208,
+    "volume": 3221269942,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 207.95,
+    "high": 209.65,
+    "low": 206.55,
+    "close": 207.75,
+    "volume": 2212100046,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 209.15,
+    "high": 209.55,
+    "low": 205.8,
+    "close": 206,
+    "volume": 1175362582,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 206.25,
+    "high": 207.85,
+    "low": 204.6,
+    "close": 205,
+    "volume": 1308277876,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 206,
+    "high": 207.4,
+    "low": 201.05,
+    "close": 205.35,
+    "volume": 2105935164,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 207.1,
+    "high": 215.35,
+    "low": 205.4,
+    "close": 214.5,
+    "volume": 4791833125,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 213.9,
+    "high": 219.25,
+    "low": 213,
+    "close": 214.7,
+    "volume": 4785743734,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 216.4,
+    "high": 217.75,
+    "low": 211.5,
+    "close": 213.5,
+    "volume": 2062612996,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 213.5,
+    "high": 220.2,
+    "low": 211.95,
+    "close": 218.3,
+    "volume": 4456648866,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 218,
+    "high": 219.3,
+    "low": 212.35,
+    "close": 215,
+    "volume": 4594068062,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 217.5,
+    "high": 217.5,
+    "low": 209.25,
+    "close": 210.95,
+    "volume": 3019902712,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 212,
+    "high": 216.75,
+    "low": 211.2,
+    "close": 215.55,
+    "volume": 3208842072,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 217,
+    "high": 217.05,
+    "low": 211.3,
+    "close": 213,
+    "volume": 1386204383,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 214.85,
+    "high": 217.8,
+    "low": 213.25,
+    "close": 214,
+    "volume": 1598216412,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 214,
+    "high": 215,
+    "low": 211,
+    "close": 211.6,
+    "volume": 732522267,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 212,
+    "high": 213.35,
+    "low": 209.1,
+    "close": 209.45,
+    "volume": 1158326094,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 211.05,
+    "high": 214.3,
+    "low": 210,
+    "close": 213.6,
+    "volume": 1257930641,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 214,
+    "high": 215.4,
+    "low": 208.5,
+    "close": 209.9,
+    "volume": 1432382092,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 210.6,
+    "high": 211.65,
+    "low": 208.7,
+    "close": 209.95,
+    "volume": 1546647173,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 210.05,
+    "high": 215.7,
+    "low": 210.05,
+    "close": 212,
+    "volume": 3063598948,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 210.2,
+    "high": 212,
+    "low": 207.05,
+    "close": 207.65,
+    "volume": 3134330803,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 206.95,
+    "high": 206.95,
+    "low": 201.25,
+    "close": 201.95,
+    "volume": 1852666209,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 202,
+    "high": 203.85,
+    "low": 199,
+    "close": 203.7,
+    "volume": 2873161854,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 198.6,
+    "high": 201,
+    "low": 195.7,
+    "close": 196.3,
+    "volume": 3009954434,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 198.25,
+    "high": 198.85,
+    "low": 196,
+    "close": 197,
+    "volume": 2429109725,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 196.8,
+    "high": 200.15,
+    "low": 195.25,
+    "close": 195.9,
+    "volume": 2164599674,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 195.7,
+    "high": 199,
+    "low": 195.55,
+    "close": 197.85,
+    "volume": 1582559203,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 194.2,
+    "high": 198.45,
+    "low": 191.8,
+    "close": 197.9,
+    "volume": 1998369938,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 198.35,
+    "high": 199.5,
+    "low": 197.6,
+    "close": 198.2,
+    "volume": 966689629,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 194,
+    "high": 196,
+    "low": 189.9,
+    "close": 192,
+    "volume": 1905348869,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 192.55,
+    "high": 197.9,
+    "low": 192.15,
+    "close": 197.9,
+    "volume": 1605399280,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 197.45,
+    "high": 210.25,
+    "low": 196.05,
+    "close": 208.3,
+    "volume": 4921675521,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 207.75,
+    "high": 213.15,
+    "low": 206.2,
+    "close": 210.65,
+    "volume": 3228511796,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 210.7,
+    "high": 219.35,
+    "low": 210.7,
+    "close": 216.9,
+    "volume": 3213152054,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 215.95,
+    "high": 217.5,
+    "low": 210.95,
+    "close": 213.8,
+    "volume": 2056453688,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 210.5,
+    "high": 215.2,
+    "low": 208.85,
+    "close": 213.55,
+    "volume": 2808907978,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 214,
+    "high": 223.4,
+    "low": 209.8,
+    "close": 212.65,
+    "volume": 4596232687,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 215.15,
+    "high": 216,
+    "low": 206.6,
+    "close": 207.85,
+    "volume": 3572636431,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 211,
+    "high": 211.4,
+    "low": 207.05,
+    "close": 208.9,
+    "volume": 2588778684,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 209.3,
+    "high": 213,
+    "low": 207.75,
+    "close": 212.6,
+    "volume": 2052720296,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 212.45,
+    "high": 214,
+    "low": 209.6,
+    "close": 212.9,
+    "volume": 2002328502,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 213.2,
+    "high": 215.05,
+    "low": 208.3,
+    "close": 209.25,
+    "volume": 2291546444,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 211.25,
+    "high": 211.8,
+    "low": 208.95,
+    "close": 209.95,
+    "volume": 1877475443,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 212,
+    "high": 212.75,
+    "low": 207.75,
+    "close": 212.15,
+    "volume": 4487757552,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 216,
+    "high": 216,
+    "low": 204.5,
+    "close": 205.35,
+    "volume": 2770588947,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 205,
+    "high": 209.5,
+    "low": 204.05,
+    "close": 208.95,
+    "volume": 2068428982,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 209.5,
+    "high": 210.6,
+    "low": 208.3,
+    "close": 210.25,
+    "volume": 1478315584,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 210,
+    "high": 211.2,
+    "low": 208,
+    "close": 210.7,
+    "volume": 1763463652,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 210.75,
+    "high": 210.8,
+    "low": 206.7,
+    "close": 210,
+    "volume": 1540755531,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 209.65,
+    "high": 212.75,
+    "low": 207.5,
+    "close": 212.1,
+    "volume": 2019598673,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 213.85,
+    "high": 214.45,
+    "low": 209.7,
+    "close": 211.75,
+    "volume": 1664306058,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 213.1,
+    "high": 218.7,
+    "low": 211.8,
+    "close": 217,
+    "volume": 8791350510,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 215.55,
+    "high": 217.25,
+    "low": 214.75,
+    "close": 216.8,
+    "volume": 1672553786,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 216.1,
+    "high": 225.75,
+    "low": 216.1,
+    "close": 225.45,
+    "volume": 6636720261,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 226,
+    "high": 228.1,
+    "low": 224.05,
+    "close": 227.25,
+    "volume": 1677583371,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 229.95,
+    "high": 234.6,
+    "low": 226.9,
+    "close": 232.4,
+    "volume": 2963126784,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 231.35,
+    "high": 238.45,
+    "low": 231.15,
+    "close": 236.7,
+    "volume": 3030184426,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 235.95,
+    "high": 239.9,
+    "low": 230,
+    "close": 232.25,
+    "volume": 2092437037,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 233,
+    "high": 234.1,
+    "low": 230.6,
+    "close": 232.6,
+    "volume": 1173832223,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 232.5,
+    "high": 235.55,
+    "low": 228.4,
+    "close": 231.2,
+    "volume": 2147490715,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 229.25,
+    "high": 233.65,
+    "low": 228.6,
+    "close": 232.65,
+    "volume": 2558799216,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 234.95,
+    "high": 235.35,
+    "low": 227.55,
+    "close": 229.85,
+    "volume": 1908444789,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 229.5,
+    "high": 231.8,
+    "low": 227.55,
+    "close": 231.45,
+    "volume": 3288557603,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 232.7,
+    "high": 233.35,
+    "low": 226.5,
+    "close": 227.7,
+    "volume": 2602714753,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 228.25,
+    "high": 229,
+    "low": 223.45,
+    "close": 226.45,
+    "volume": 1665497988,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 226.1,
+    "high": 228.65,
+    "low": 225.25,
+    "close": 227.45,
+    "volume": 1892176341,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 225.05,
+    "high": 230.2,
+    "low": 224.7,
+    "close": 226,
+    "volume": 2042479025,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 223.95,
+    "high": 226.9,
+    "low": 221.5,
+    "close": 222.95,
+    "volume": 1850072016,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 227,
+    "high": 232.2,
+    "low": 224.35,
+    "close": 232.1,
+    "volume": 2645737787,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 231.35,
+    "high": 232.85,
+    "low": 227.45,
+    "close": 229.75,
+    "volume": 2185768027,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 233.4,
+    "high": 236.25,
+    "low": 230.05,
+    "close": 235.1,
+    "volume": 3214475441,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 235.1,
+    "high": 236.35,
+    "low": 227.05,
+    "close": 229.7,
+    "volume": 1562600488,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 225.9,
+    "high": 233.25,
+    "low": 225.9,
+    "close": 232.55,
+    "volume": 2175309386,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 233,
+    "high": 239.45,
+    "low": 232.9,
+    "close": 237.5,
+    "volume": 4110288330,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 238.4,
+    "high": 240.65,
+    "low": 232.85,
+    "close": 233.7,
+    "volume": 2931653993,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 231.45,
+    "high": 239.15,
+    "low": 231.45,
+    "close": 238.65,
+    "volume": 3124099134,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 239,
+    "high": 246.45,
+    "low": 235.65,
+    "close": 245.85,
+    "volume": 9820541218,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 245.8,
+    "high": 248.35,
+    "low": 242.5,
+    "close": 242.6,
+    "volume": 5711563163,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 244,
+    "high": 248,
+    "low": 238.7,
+    "close": 239.75,
+    "volume": 2803128889,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 239,
+    "high": 241.9,
+    "low": 232.15,
+    "close": 235.45,
+    "volume": 4684751317,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 239.85,
+    "high": 239.85,
+    "low": 233.1,
+    "close": 236.5,
+    "volume": 2670108964,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 235.5,
+    "high": 237.9,
+    "low": 233,
+    "close": 235.7,
+    "volume": 1402143987,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 234.9,
+    "high": 239.3,
+    "low": 232.75,
+    "close": 239.05,
+    "volume": 2739169774,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 237.5,
+    "high": 238.25,
+    "low": 227.1,
+    "close": 227.85,
+    "volume": 3321340816,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 223,
+    "high": 229.65,
+    "low": 221.65,
+    "close": 228.75,
+    "volume": 2539081107,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 230.75,
+    "high": 233.1,
+    "low": 226.75,
+    "close": 229.5,
+    "volume": 2608057494,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 232,
+    "high": 232,
+    "low": 224.2,
+    "close": 224.95,
+    "volume": 1964263613,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 225,
+    "high": 229.65,
+    "low": 224.6,
+    "close": 227.8,
+    "volume": 2790842804,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 228.4,
+    "high": 229.4,
+    "low": 222.55,
+    "close": 225,
+    "volume": 1866913673,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 227,
+    "high": 229.1,
+    "low": 223.9,
+    "close": 228.5,
+    "volume": 2400522996,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 228.6,
+    "high": 228.65,
+    "low": 223.4,
+    "close": 224.3,
+    "volume": 1423099340,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 224.5,
+    "high": 229.9,
+    "low": 224.3,
+    "close": 228.2,
+    "volume": 1592742403,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 228.25,
+    "high": 235.15,
+    "low": 228.2,
+    "close": 232.6,
+    "volume": 4601839164,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 232.15,
+    "high": 233,
+    "low": 228.15,
+    "close": 228.9,
+    "volume": 1773802421,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 229.4,
+    "high": 229.4,
+    "low": 224.55,
+    "close": 226.4,
+    "volume": 1705250251,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 226,
+    "high": 228.1,
+    "low": 225,
+    "close": 225.6,
+    "volume": 2735108708,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 226,
+    "high": 227.45,
+    "low": 223.55,
+    "close": 224.55,
+    "volume": 2141385563,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 223.95,
+    "high": 226.25,
+    "low": 223.7,
+    "close": 225,
+    "volume": 1535877553,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 223.05,
+    "high": 226.5,
+    "low": 223.05,
+    "close": 223.9,
+    "volume": 1895917769,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 224.7,
+    "high": 225.7,
+    "low": 221,
+    "close": 225.15,
+    "volume": 1589684781,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 222.05,
+    "high": 227.45,
+    "low": 222.05,
+    "close": 223.8,
+    "volume": 1522920751,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 221.85,
+    "high": 225.5,
+    "low": 221.5,
+    "close": 222.5,
+    "volume": 1707565556,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 222.35,
+    "high": 227.3,
+    "low": 222,
+    "close": 223.75,
+    "volume": 2877263915,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 224.25,
+    "high": 226.3,
+    "low": 221.9,
+    "close": 221.9,
+    "volume": 988173511,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 223.35,
+    "high": 224.3,
+    "low": 215.65,
+    "close": 216.7,
+    "volume": 1944055123,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 214.2,
+    "high": 216.9,
+    "low": 210.25,
+    "close": 210.5,
+    "volume": 3139762116,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 209.1,
+    "high": 210.9,
+    "low": 206.35,
+    "close": 209,
+    "volume": 1157016947,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 209.05,
+    "high": 213.15,
+    "low": 207.3,
+    "close": 210.75,
+    "volume": 1491001172,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 210.8,
+    "high": 211.25,
+    "low": 208.2,
+    "close": 210.6,
+    "volume": 1614855709,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 210.1,
+    "high": 211.7,
+    "low": 206.15,
+    "close": 208.15,
+    "volume": 2046497540,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 212,
+    "high": 212,
+    "low": 207.75,
+    "close": 209,
+    "volume": 1489669547,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 213.35,
+    "high": 213.35,
+    "low": 209.65,
+    "close": 211.6,
+    "volume": 2778073908,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 209.55,
+    "high": 211.55,
+    "low": 208.35,
+    "close": 210.75,
+    "volume": 1066124027,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 209.1,
+    "high": 215,
+    "low": 208.45,
+    "close": 210.4,
+    "volume": 6575400618,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 211.5,
+    "high": 214.75,
+    "low": 210.4,
+    "close": 211.35,
+    "volume": 3548556430,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 211.05,
+    "high": 212.9,
+    "low": 205.2,
+    "close": 206.55,
+    "volume": 1735787133,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 205.05,
+    "high": 212.15,
+    "low": 205.05,
+    "close": 211,
+    "volume": 3175140327,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 211,
+    "high": 215.95,
+    "low": 210.95,
+    "close": 213.7,
+    "volume": 3230264554,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 214,
+    "high": 214.15,
+    "low": 208.2,
+    "close": 211.5,
+    "volume": 3036683763,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 213.25,
+    "high": 215.3,
+    "low": 212.1,
+    "close": 212.75,
+    "volume": 2251272437,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 214,
+    "high": 219.4,
+    "low": 212.65,
+    "close": 219.3,
+    "volume": 2774871048,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 220,
+    "high": 221.25,
+    "low": 216.2,
+    "close": 216.8,
+    "volume": 1772702758,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 215.1,
+    "high": 216.95,
+    "low": 213.15,
+    "close": 214,
+    "volume": 1369960076,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 214.5,
+    "high": 216.7,
+    "low": 213.45,
+    "close": 215,
+    "volume": 1645888282,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 219.25,
+    "high": 219.25,
+    "low": 212.85,
+    "close": 215.15,
+    "volume": 1755704576,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 217,
+    "high": 217,
+    "low": 208.8,
+    "close": 209.2,
+    "volume": 3502958715,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 210.35,
+    "high": 212.4,
+    "low": 208.9,
+    "close": 210.45,
+    "volume": 2390427979,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 209.9,
+    "high": 211.5,
+    "low": 209.6,
+    "close": 210.15,
+    "volume": 2354479778,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 211.3,
+    "high": 212.3,
+    "low": 208.5,
+    "close": 209.2,
+    "volume": 2234983698,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 209.95,
+    "high": 213.2,
+    "low": 209.45,
+    "close": 212.75,
+    "volume": 1969184164,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 213.95,
+    "high": 213.95,
+    "low": 209.5,
+    "close": 210.1,
+    "volume": 1465177394,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 210,
+    "high": 211,
+    "low": 207.4,
+    "close": 207.85,
+    "volume": 1037539621,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 207.9,
+    "high": 211,
+    "low": 207.1,
+    "close": 209.2,
+    "volume": 1793574548,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 209.9,
+    "high": 211,
+    "low": 209.4,
+    "close": 210.9,
+    "volume": 1451740574,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 211,
+    "high": 214.8,
+    "low": 210.05,
+    "close": 214.6,
+    "volume": 2111546975,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 216.4,
+    "high": 217.8,
+    "low": 212.85,
+    "close": 214.15,
+    "volume": 2485687902,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 215.05,
+    "high": 220.15,
+    "low": 214.15,
+    "close": 219.3,
+    "volume": 1980359214,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 219.95,
+    "high": 223.4,
+    "low": 217.35,
+    "close": 222,
+    "volume": 2939874578,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 223.35,
+    "high": 224.75,
+    "low": 219.65,
+    "close": 223.45,
+    "volume": 2067065067,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 224,
+    "high": 224.2,
+    "low": 219.1,
+    "close": 220.85,
+    "volume": 1614159618,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 221.7,
+    "high": 224.75,
+    "low": 218.85,
+    "close": 222.5,
+    "volume": 2351096963,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 225,
+    "high": 226.3,
+    "low": 221.1,
+    "close": 221.55,
+    "volume": 1406627582,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 220.75,
+    "high": 224.9,
+    "low": 220.55,
+    "close": 222.65,
+    "volume": 1431797952,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 224.65,
+    "high": 226.9,
+    "low": 221.7,
+    "close": 222.2,
+    "volume": 843768093,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 223,
+    "high": 228.6,
+    "low": 222,
+    "close": 228,
+    "volume": 2259721626,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 229.2,
+    "high": 229.95,
+    "low": 227.05,
+    "close": 229.1,
+    "volume": 1936221781,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 228.85,
+    "high": 230.95,
+    "low": 227.7,
+    "close": 228,
+    "volume": 1931313246,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 227.95,
+    "high": 231.7,
+    "low": 227.75,
+    "close": 231.1,
+    "volume": 1959169354,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 228.45,
+    "high": 229.7,
+    "low": 225.7,
+    "close": 228.1,
+    "volume": 1676824253,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 228.1,
+    "high": 230.8,
+    "low": 225.65,
+    "close": 225.95,
+    "volume": 1568188034,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 224.95,
+    "high": 228.85,
+    "low": 224.2,
+    "close": 227.8,
+    "volume": 1519994907,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 227.35,
+    "high": 229.95,
+    "low": 226.5,
+    "close": 228.8,
+    "volume": 2229692099,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 230.5,
+    "high": 231,
+    "low": 225.1,
+    "close": 227.1,
+    "volume": 2078095896,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 226.6,
+    "high": 231.2,
+    "low": 226.6,
+    "close": 230.4,
+    "volume": 1370037432,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 228.25,
+    "high": 228.9,
+    "low": 225.6,
+    "close": 227.1,
+    "volume": 1279819799,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 228.2,
+    "high": 230.25,
+    "low": 228.1,
+    "close": 229.5,
+    "volume": 1242065477,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 225.05,
+    "high": 230.1,
+    "low": 225,
+    "close": 226.5,
+    "volume": 2238709810,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 227.5,
+    "high": 228.85,
+    "low": 223.8,
+    "close": 224.5,
+    "volume": 1167259945,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 225,
+    "high": 225.55,
+    "low": 221.7,
+    "close": 224,
+    "volume": 3024604536,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 224,
+    "high": 228,
+    "low": 224,
+    "close": 225.2,
+    "volume": 2383514779,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 223.05,
+    "high": 226.95,
+    "low": 223.05,
+    "close": 224.85,
+    "volume": 1325134673,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 226,
+    "high": 226.9,
+    "low": 223.45,
+    "close": 224.4,
+    "volume": 1210138025,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 226.05,
+    "high": 226.15,
+    "low": 222.5,
+    "close": 223.1,
+    "volume": 1536371281,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 223.55,
+    "high": 224.7,
+    "low": 222.2,
+    "close": 224.3,
+    "volume": 1471106652,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 224.3,
+    "high": 227.5,
+    "low": 223.8,
+    "close": 227.05,
+    "volume": 1914983989,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 225,
+    "high": 233.2,
+    "low": 224.7,
+    "close": 232.5,
+    "volume": 4331031836,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 233.45,
+    "high": 238.25,
+    "low": 232.35,
+    "close": 237.05,
+    "volume": 4160916904,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 238.4,
+    "high": 238.45,
+    "low": 233.4,
+    "close": 236,
+    "volume": 5185803739,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 235.95,
+    "high": 238.1,
+    "low": 231.65,
+    "close": 233.1,
+    "volume": 2451122806,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 234,
+    "high": 236.25,
+    "low": 232.1,
+    "close": 232.5,
+    "volume": 3545894169,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 233.85,
+    "high": 234.35,
+    "low": 224.3,
+    "close": 224.5,
+    "volume": 2489215919,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 224,
+    "high": 226.4,
+    "low": 219.15,
+    "close": 220.05,
+    "volume": 4358493171,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 218.3,
+    "high": 219.75,
+    "low": 198.1,
+    "close": 202.35,
+    "volume": 13425271236,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 200,
+    "high": 209.35,
+    "low": 186.35,
+    "close": 200.35,
+    "volume": 24688983918,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 205.8,
+    "high": 207.9,
+    "low": 201.25,
+    "close": 205.25,
+    "volume": 8300871276,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 205.2,
+    "high": 210.4,
+    "low": 202.55,
+    "close": 207.3,
+    "volume": 8203521463,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 208.95,
+    "high": 212.1,
+    "low": 206.05,
+    "close": 207.35,
+    "volume": 5751227935,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 207,
+    "high": 218.7,
+    "low": 207,
+    "close": 212.5,
+    "volume": 10087833141,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 213,
+    "high": 214.65,
+    "low": 209,
+    "close": 210.35,
+    "volume": 1863201920,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 212.1,
+    "high": 212.35,
+    "low": 208,
+    "close": 208.8,
+    "volume": 3014362564,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 208.85,
+    "high": 210.9,
+    "low": 205.6,
+    "close": 206.6,
+    "volume": 3222488231,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 204,
+    "high": 209.75,
+    "low": 204,
+    "close": 209.3,
+    "volume": 2212712909,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 207.95,
+    "high": 211.95,
+    "low": 207.55,
+    "close": 209,
+    "volume": 2650976151,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 210,
+    "high": 211.45,
+    "low": 206.55,
+    "close": 208.35,
+    "volume": 2796253418,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 210.45,
+    "high": 215.95,
+    "low": 209.35,
+    "close": 215.6,
+    "volume": 5661289519,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 214.95,
+    "high": 217.3,
+    "low": 213.25,
+    "close": 213.95,
+    "volume": 2647933720,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 218,
+    "high": 218,
+    "low": 211.55,
+    "close": 213,
+    "volume": 3750568215,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 211.95,
+    "high": 214.95,
+    "low": 211,
+    "close": 212,
+    "volume": 1517536319,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 212.95,
+    "high": 215,
+    "low": 211.55,
+    "close": 212.95,
+    "volume": 2116984859,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 213,
+    "high": 216.9,
+    "low": 212.95,
+    "close": 213.65,
+    "volume": 1867597598,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 212.55,
+    "high": 218,
+    "low": 212.35,
+    "close": 217.75,
+    "volume": 2640722548,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 215.35,
+    "high": 218.9,
+    "low": 214,
+    "close": 216.6,
+    "volume": 1890521445,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 219.8,
+    "high": 220.25,
+    "low": 218.6,
+    "close": 218.8,
+    "volume": 186436426,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 218.85,
+    "high": 219.4,
+    "low": 214.25,
+    "close": 218.6,
+    "volume": 3370324216,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 219.3,
+    "high": 224.85,
+    "low": 217.35,
+    "close": 223.8,
+    "volume": 4034082714,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 223.8,
+    "high": 229,
+    "low": 223.2,
+    "close": 227.35,
+    "volume": 1985230086,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 227.95,
+    "high": 230.25,
+    "low": 226.7,
+    "close": 227.55,
+    "volume": 2013664602,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 230.65,
+    "high": 235.9,
+    "low": 229.8,
+    "close": 234.8,
+    "volume": 2658362739,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 235.15,
+    "high": 236.55,
+    "low": 232.85,
+    "close": 233.7,
+    "volume": 2260148899,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 233,
+    "high": 233.6,
+    "low": 226.7,
+    "close": 228,
+    "volume": 1607998190,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 228,
+    "high": 229.45,
+    "low": 225,
+    "close": 226.8,
+    "volume": 1367573727,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 227.3,
+    "high": 231.9,
+    "low": 226.4,
+    "close": 228,
+    "volume": 2547688656,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 231,
+    "high": 231,
+    "low": 218.05,
+    "close": 218.8,
+    "volume": 3791731883,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 216,
+    "high": 220.15,
+    "low": 213.5,
+    "close": 215.35,
+    "volume": 2619736680,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 216,
+    "high": 217.85,
+    "low": 213.55,
+    "close": 214.9,
+    "volume": 1953455906,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 210.95,
+    "high": 213.7,
+    "low": 210.25,
+    "close": 211.95,
+    "volume": 2926962477,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 210,
+    "high": 216.5,
+    "low": 209.65,
+    "close": 216.45,
+    "volume": 2441362457,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 215.95,
+    "high": 217.45,
+    "low": 213.45,
+    "close": 217,
+    "volume": 1591067129,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 216.9,
+    "high": 220.45,
+    "low": 216.25,
+    "close": 218.6,
+    "volume": 1548306497,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 218.35,
+    "high": 218.8,
+    "low": 216.85,
+    "close": 218.3,
+    "volume": 952426329,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 217.5,
+    "high": 219.5,
+    "low": 216.5,
+    "close": 218.85,
+    "volume": 770862773,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 218.5,
+    "high": 219.2,
+    "low": 216.9,
+    "close": 218.25,
+    "volume": 712345102,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 218.25,
+    "high": 218.8,
+    "low": 214.25,
+    "close": 215.4,
+    "volume": 2185252863,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 215.4,
+    "high": 221,
+    "low": 215.1,
+    "close": 220.6,
+    "volume": 1253845997,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 220.75,
+    "high": 220.9,
+    "low": 216.6,
+    "close": 220.8,
+    "volume": 1807626659,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 219.15,
+    "high": 222.2,
+    "low": 219.15,
+    "close": 221.2,
+    "volume": 750309139,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 221.3,
+    "high": 222.25,
+    "low": 218.55,
+    "close": 219.5,
+    "volume": 1066808501,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 219.35,
+    "high": 224.95,
+    "low": 217.65,
+    "close": 223.5,
+    "volume": 2891778388,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 224,
+    "high": 224.85,
+    "low": 220.5,
+    "close": 221.5,
+    "volume": 2214705186,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 218.55,
+    "high": 221.5,
+    "low": 218.55,
+    "close": 219.35,
+    "volume": 2124586534,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 219.7,
+    "high": 222.25,
+    "low": 217.2,
+    "close": 221.75,
+    "volume": 2714398362,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 221.55,
+    "high": 224.15,
+    "low": 219.4,
+    "close": 223.6,
+    "volume": 1879291003,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 222.85,
+    "high": 224.1,
+    "low": 220.45,
+    "close": 221.4,
+    "volume": 968486988,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 221.8,
+    "high": 221.85,
+    "low": 216.9,
+    "close": 217.75,
+    "volume": 1829999837,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 218.4,
+    "high": 218.95,
+    "low": 215.7,
+    "close": 217.2,
+    "volume": 982210089,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 216,
+    "high": 218,
+    "low": 214.6,
+    "close": 215.5,
+    "volume": 1326092439,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 215.55,
+    "high": 216.8,
+    "low": 213.05,
+    "close": 216.1,
+    "volume": 1329695587,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 216.3,
+    "high": 220.55,
+    "low": 216.3,
+    "close": 218.5,
+    "volume": 1651610780,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 219.5,
+    "high": 220.4,
+    "low": 215.9,
+    "close": 216.15,
+    "volume": 878411064,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 215,
+    "high": 218.2,
+    "low": 212.6,
+    "close": 213.25,
+    "volume": 1796562581,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 214.05,
+    "high": 219.2,
+    "low": 213.5,
+    "close": 218.85,
+    "volume": 1265951152,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 218.9,
+    "high": 218.9,
+    "low": 213.9,
+    "close": 217.1,
+    "volume": 1060032544,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 217.05,
+    "high": 218.25,
+    "low": 213.85,
+    "close": 215.85,
+    "volume": 1136239581,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 216.1,
+    "high": 217,
+    "low": 212.85,
+    "close": 214.6,
+    "volume": 1120916519,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 213.4,
+    "high": 215.3,
+    "low": 210.45,
+    "close": 211.5,
+    "volume": 723920874,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 211.5,
+    "high": 214.25,
+    "low": 210.95,
+    "close": 212.1,
+    "volume": 1095025889,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 212.95,
+    "high": 215.2,
+    "low": 211.8,
+    "close": 212.5,
+    "volume": 2094618967,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 212.5,
+    "high": 218.4,
+    "low": 212.5,
+    "close": 215.9,
+    "volume": 2714114360,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 214.05,
+    "high": 216.5,
+    "low": 213.5,
+    "close": 215.2,
+    "volume": 3634861734,
+    "symbol": "POWERGRID"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 216.05,
+    "high": 216.75,
+    "low": 213.25,
+    "close": 213.95,
+    "volume": 747894538,
+    "symbol": "POWERGRID"
+  }
+]
