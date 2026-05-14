@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { DATA_DIR, METADATA_DIR, copyToPublic, isMarketClosed, formatDate, getYesterday, formatSymbolForFilename, log, readStockList, getNSE500Symbols, NSE_CSV_URL, NSE_CSV_HEADERS, cleanSymbol, getSymbolDir, ensureDir } from './utils.js';
+import { DATA_DIR, METADATA_DIR, copyToPublic, isMarketClosed, formatDate, getYesterday, formatSymbolForFilename, log, readStockList, getNSE500Symbols, NSE_CSV_URL, NSE_HEADERS, cleanSymbol, getSymbolDir, ensureDir } from './utils.js';
 import { existsSync } from 'fs';
 import fs from 'fs/promises';
 import path from 'path';
@@ -21,7 +21,7 @@ async function getTodayData(symbol) {
           series: 'EQ',
           csv: 'true',
         },
-        headers: NSE_CSV_HEADERS,
+        headers: NSE_HEADERS,
         timeout: 30000,
         maxRedirects: 5,
         validateStatus: (status) => status < 500,
