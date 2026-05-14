@@ -18,6 +18,8 @@ export const CACHE_EXPIRY_HOURS = 24;
 export const NSE_HISTORICAL_URL =
   "https://www.nseindia.com/api/NextApi/apiClient/GetQuoteApi";
 
+export const NSE_CSV_URL = 'https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData';
+
 export const NSE_HEADERS = {
   Referer: "https://www.nseindia.com/get-quotes/equity",
   "X-Requested-With": "XMLHttpRequest",
