@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 6405,
+    "high": 6465,
+    "low": 6373.5,
+    "close": 6460,
+    "volume": 552696143,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 6440,
+    "high": 6549.5,
+    "low": 6420,
+    "close": 6485,
+    "volume": 1046041021,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 6522,
+    "high": 6824,
+    "low": 6500,
+    "close": 6695,
+    "volume": 2273445110,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 6724,
+    "high": 6724,
+    "low": 6620,
+    "close": 6710,
+    "volume": 1164030351,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 6698,
+    "high": 6723,
+    "low": 6620,
+    "close": 6655,
+    "volume": 711220596,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 6655,
+    "high": 6720,
+    "low": 6500,
+    "close": 6518,
+    "volume": 928976127,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 6500,
+    "high": 6579,
+    "low": 6310.5,
+    "close": 6337,
+    "volume": 1257405440,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 6302,
+    "high": 6310,
+    "low": 6060.5,
+    "close": 6119,
+    "volume": 2265977182,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 6175,
+    "high": 6175,
+    "low": 6045,
+    "close": 6145,
+    "volume": 1482865944,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 6144,
+    "high": 6194,
+    "low": 6052.5,
+    "close": 6140,
+    "volume": 923290043,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 6149.5,
+    "high": 6255,
+    "low": 6121,
+    "close": 6141.5,
+    "volume": 1426617354,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 6150,
+    "high": 6220,
+    "low": 6050,
+    "close": 6075,
+    "volume": 866754741,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 6119.5,
+    "high": 6149,
+    "low": 6016,
+    "close": 6045,
+    "volume": 1601700137,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 6041,
+    "high": 6048,
+    "low": 5737,
+    "close": 5790,
+    "volume": 2153954671,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 5856,
+    "high": 5860,
+    "low": 5687.5,
+    "close": 5740,
+    "volume": 2034142388,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 5742,
+    "high": 5779.5,
+    "low": 5544,
+    "close": 5551,
+    "volume": 1671725158,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 5580,
+    "high": 5593,
+    "low": 5400.5,
+    "close": 5528,
+    "volume": 3898059382,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 5555,
+    "high": 5630,
+    "low": 5522.5,
+    "close": 5626,
+    "volume": 868018287,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 5626,
+    "high": 5638,
+    "low": 5473,
+    "close": 5550,
+    "volume": 1431648551,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 5544,
+    "high": 5860,
+    "low": 5503,
+    "close": 5731,
+    "volume": 3088901111,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 5775,
+    "high": 6088,
+    "low": 5716,
+    "close": 5998,
+    "volume": 3338502002,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 6028,
+    "high": 6050,
+    "low": 5813.5,
+    "close": 6000,
+    "volume": 2250529169,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 6300,
+    "high": 6560,
+    "low": 6151,
+    "close": 6165,
+    "volume": 4345767089,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 6170.5,
+    "high": 6422,
+    "low": 6154,
+    "close": 6403.5,
+    "volume": 1792247080,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 6408,
+    "high": 6476,
+    "low": 6267.5,
+    "close": 6391,
+    "volume": 1866146570,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 6380,
+    "high": 6665.5,
+    "low": 6312.5,
+    "close": 6629,
+    "volume": 2901411632,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 6706.5,
+    "high": 7064.5,
+    "low": 6664.5,
+    "close": 7022,
+    "volume": 3794286916,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 7299,
+    "high": 7530,
+    "low": 7172.5,
+    "close": 7486.5,
+    "volume": 12305254534,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 7441,
+    "high": 7731,
+    "low": 7420.5,
+    "close": 7676.5,
+    "volume": 4236932331,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 7650,
+    "high": 7862,
+    "low": 7636.5,
+    "close": 7788,
+    "volume": 4832633192,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 7750,
+    "high": 7820.5,
+    "low": 7660,
+    "close": 7715,
+    "volume": 2718613560,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 7760,
+    "high": 7812.5,
+    "low": 7687.5,
+    "close": 7757,
+    "volume": 1273061342,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 7754.5,
+    "high": 7909,
+    "low": 7686,
+    "close": 7819,
+    "volume": 1701450896,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 7865,
+    "high": 7920,
+    "low": 7764,
+    "close": 7883.5,
+    "volume": 1928428383,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 7877,
+    "high": 7916,
+    "low": 7673,
+    "close": 7698,
+    "volume": 1227587178,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 7705.5,
+    "high": 7768,
+    "low": 7614,
+    "close": 7670,
+    "volume": 1414725490,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 7675,
+    "high": 7859,
+    "low": 7675,
+    "close": 7750,
+    "volume": 2598540738,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 7770.5,
+    "high": 8011,
+    "low": 7699,
+    "close": 7980,
+    "volume": 1500749411,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 7957.5,
+    "high": 8073.5,
+    "low": 7957.5,
+    "close": 8016,
+    "volume": 2056643617,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 8044.5,
+    "high": 8044.5,
+    "low": 7919,
+    "close": 7927,
+    "volume": 1626323999,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 7950,
+    "high": 8142.5,
+    "low": 7924,
+    "close": 7970,
+    "volume": 2179023423,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 7614,
+    "high": 7964,
+    "low": 7603,
+    "close": 7915,
+    "volume": 1438863884,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 7750,
+    "high": 7774.5,
+    "low": 7514,
+    "close": 7647.5,
+    "volume": 2252308021,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 7745,
+    "high": 7877.5,
+    "low": 7525.5,
+    "close": 7855,
+    "volume": 1983779620,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 7839.5,
+    "high": 7945,
+    "low": 7777.5,
+    "close": 7875,
+    "volume": 1327817666,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 7700,
+    "high": 7769.5,
+    "low": 7199.5,
+    "close": 7375,
+    "volume": 4906002703,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 7500,
+    "high": 7565,
+    "low": 7193.5,
+    "close": 7530,
+    "volume": 2675072944,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 7510,
+    "high": 7544.5,
+    "low": 7275,
+    "close": 7290,
+    "volume": 1813387917,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 7305.5,
+    "high": 7305.5,
+    "low": 6883.5,
+    "close": 6930,
+    "volume": 5433487636,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 6860,
+    "high": 6950,
+    "low": 6426,
+    "close": 6430,
+    "volume": 3822671778,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 6446,
+    "high": 6610,
+    "low": 6361,
+    "close": 6490,
+    "volume": 2004553319,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 6701,
+    "high": 6810,
+    "low": 6589,
+    "close": 6790,
+    "volume": 3832853931,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 6790,
+    "high": 6935,
+    "low": 6750,
+    "close": 6834,
+    "volume": 2082173800,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 6719.5,
+    "high": 6742,
+    "low": 6622.5,
+    "close": 6710,
+    "volume": 1612384929,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 6750,
+    "high": 6844,
+    "low": 6627,
+    "close": 6674.5,
+    "volume": 1150228821,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 6574,
+    "high": 6580,
+    "low": 6206,
+    "close": 6233,
+    "volume": 1986525377,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 6467,
+    "high": 6520,
+    "low": 6136,
+    "close": 6450,
+    "volume": 2964823877,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 6551,
+    "high": 6805,
+    "low": 6498.5,
+    "close": 6770,
+    "volume": 2694919878,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 6720.5,
+    "high": 6720.5,
+    "low": 6541,
+    "close": 6578.5,
+    "volume": 2053729401,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 6475,
+    "high": 6641,
+    "low": 6370.5,
+    "close": 6535,
+    "volume": 1765326316,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 6656,
+    "high": 6820,
+    "low": 6521,
+    "close": 6525,
+    "volume": 1761041504,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 6520,
+    "high": 6520,
+    "low": 6206.5,
+    "close": 6272.5,
+    "volume": 2704094011,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 6300,
+    "high": 6443,
+    "low": 6120,
+    "close": 6430,
+    "volume": 2085052735,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 6340.5,
+    "high": 6460,
+    "low": 6265.5,
+    "close": 6426.5,
+    "volume": 1189481692,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 6695,
+    "high": 7075,
+    "low": 6659,
+    "close": 6940,
+    "volume": 2980414896,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 6900.5,
+    "high": 6960,
+    "low": 6740,
+    "close": 6949,
+    "volume": 2342352578,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 6998.5,
+    "high": 7290.5,
+    "low": 6972.5,
+    "close": 7250,
+    "volume": 3274826255,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 7020,
+    "high": 7315,
+    "low": 7007,
+    "close": 7186,
+    "volume": 3702385515,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 7320,
+    "high": 7525,
+    "low": 7262.5,
+    "close": 7488,
+    "volume": 2568080010,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 7589,
+    "high": 7743,
+    "low": 7535,
+    "close": 7715,
+    "volume": 3024732016,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 7749,
+    "high": 7992.5,
+    "low": 7714,
+    "close": 7951.5,
+    "volume": 3096439483,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 7958.5,
+    "high": 8039,
+    "low": 7775,
+    "close": 7964,
+    "volume": 2799075675,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 7964,
+    "high": 8076,
+    "low": 7835,
+    "close": 7843.5,
+    "volume": 2129612651,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 7843.5,
+    "high": 7961,
+    "low": 7782.5,
+    "close": 7803,
+    "volume": 1691414615,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 7760,
+    "high": 7854,
+    "low": 7701,
+    "close": 7787.5,
+    "volume": 1282168660,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 7800,
+    "high": 7959,
+    "low": 7740.5,
+    "close": 7752,
+    "volume": 1516514704,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 7800,
+    "high": 8191.5,
+    "low": 7800,
+    "close": 8113,
+    "volume": 3825388450,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 8115,
+    "high": 8241,
+    "low": 8093,
+    "close": 8230.5,
+    "volume": 3486255017,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 8240,
+    "high": 8277.5,
+    "low": 8056,
+    "close": 8081,
+    "volume": 1223375814,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 8090,
+    "high": 8090,
+    "low": 7838,
+    "close": 8020,
+    "volume": 1262284079,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 8024,
+    "high": 8083.5,
+    "low": 7935,
+    "close": 8030,
+    "volume": 1652708473,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 8030,
+    "high": 8271,
+    "low": 7961,
+    "close": 8200,
+    "volume": 2429403639,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 8292,
+    "high": 8730,
+    "low": 8150,
+    "close": 8720,
+    "volume": 5212336937,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 8739.5,
+    "high": 8974,
+    "low": 8692.5,
+    "close": 8820,
+    "volume": 3663421679,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 8800,
+    "high": 8919,
+    "low": 8714,
+    "close": 8853,
+    "volume": 2912373340,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 8781,
+    "high": 8781,
+    "low": 8513,
+    "close": 8552,
+    "volume": 2676660523,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 8539,
+    "high": 8610.5,
+    "low": 8103.5,
+    "close": 8190,
+    "volume": 2454003341,
+    "symbol": "AMBER"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 8200,
+    "high": 8435,
+    "low": 8200,
+    "close": 8296,
+    "volume": 2578498007,
+    "symbol": "AMBER"
+  }
+]

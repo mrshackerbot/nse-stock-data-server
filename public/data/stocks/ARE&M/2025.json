@@ -1,0 +1,2243 @@
+[
+  {
+    "date": "01-Jan-2025",
+    "open": 1202.8,
+    "high": 1220.05,
+    "low": 1195.6,
+    "close": 1213.5,
+    "volume": 436082334,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "02-Jan-2025",
+    "open": 1210,
+    "high": 1218.55,
+    "low": 1190.05,
+    "close": 1199.95,
+    "volume": 530661858,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Jan-2025",
+    "open": 1208.4,
+    "high": 1214.5,
+    "low": 1186.05,
+    "close": 1192.2,
+    "volume": 533091967,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-Jan-2025",
+    "open": 1189.9,
+    "high": 1196.95,
+    "low": 1141.25,
+    "close": 1149.3,
+    "volume": 567205599,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Jan-2025",
+    "open": 1147.6,
+    "high": 1162.25,
+    "low": 1137,
+    "close": 1140,
+    "volume": 377257110,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-Jan-2025",
+    "open": 1144.6,
+    "high": 1147.4,
+    "low": 1102.05,
+    "close": 1107.95,
+    "volume": 683107357,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-Jan-2025",
+    "open": 1107.95,
+    "high": 1129.5,
+    "low": 1100,
+    "close": 1105,
+    "volume": 434107081,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Jan-2025",
+    "open": 1107,
+    "high": 1107,
+    "low": 1061.5,
+    "close": 1079.95,
+    "volume": 951428775,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-Jan-2025",
+    "open": 1075,
+    "high": 1097.85,
+    "low": 1027.05,
+    "close": 1042.4,
+    "volume": 782258462,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "14-Jan-2025",
+    "open": 1036.3,
+    "high": 1071,
+    "low": 1032.4,
+    "close": 1058.95,
+    "volume": 775021776,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "15-Jan-2025",
+    "open": 1062.4,
+    "high": 1078,
+    "low": 1042.1,
+    "close": 1054.7,
+    "volume": 593387869,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-Jan-2025",
+    "open": 1068,
+    "high": 1084.85,
+    "low": 1060,
+    "close": 1073,
+    "volume": 489785166,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Jan-2025",
+    "open": 1071,
+    "high": 1081.45,
+    "low": 1054.65,
+    "close": 1078,
+    "volume": 335070605,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-Jan-2025",
+    "open": 1087.5,
+    "high": 1113,
+    "low": 1069,
+    "close": 1109,
+    "volume": 580044283,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Jan-2025",
+    "open": 1114,
+    "high": 1118.95,
+    "low": 1087,
+    "close": 1092.05,
+    "volume": 613232364,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "22-Jan-2025",
+    "open": 1097.55,
+    "high": 1097.55,
+    "low": 1055.25,
+    "close": 1067.95,
+    "volume": 484305560,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Jan-2025",
+    "open": 1066.05,
+    "high": 1097.45,
+    "low": 1055.75,
+    "close": 1075,
+    "volume": 415456766,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Jan-2025",
+    "open": 1083.8,
+    "high": 1089.8,
+    "low": 1053,
+    "close": 1055,
+    "volume": 438999223,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "27-Jan-2025",
+    "open": 1045.1,
+    "high": 1049.85,
+    "low": 1005.2,
+    "close": 1026.4,
+    "volume": 728063471,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Jan-2025",
+    "open": 1012.05,
+    "high": 1045.9,
+    "low": 990,
+    "close": 1033.8,
+    "volume": 669875526,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-Jan-2025",
+    "open": 1024.05,
+    "high": 1070,
+    "low": 1021,
+    "close": 1030,
+    "volume": 508857491,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-Jan-2025",
+    "open": 1035,
+    "high": 1057.95,
+    "low": 1024,
+    "close": 1028,
+    "volume": 470712891,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "31-Jan-2025",
+    "open": 1048,
+    "high": 1048.2,
+    "low": 1022.35,
+    "close": 1038,
+    "volume": 741570555,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "01-Feb-2025",
+    "open": 1035,
+    "high": 1093.95,
+    "low": 1035,
+    "close": 1077.55,
+    "volume": 1474889516,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Feb-2025",
+    "open": 1080,
+    "high": 1082.65,
+    "low": 1049.05,
+    "close": 1068,
+    "volume": 854737946,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Feb-2025",
+    "open": 1071.05,
+    "high": 1088.95,
+    "low": 1063.9,
+    "close": 1069,
+    "volume": 444378516,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "05-Feb-2025",
+    "open": 1063.15,
+    "high": 1108,
+    "low": 1063,
+    "close": 1094,
+    "volume": 700160749,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-Feb-2025",
+    "open": 1094,
+    "high": 1094,
+    "low": 1077.45,
+    "close": 1086.85,
+    "volume": 349783496,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Feb-2025",
+    "open": 1085,
+    "high": 1089,
+    "low": 1062.05,
+    "close": 1071.95,
+    "volume": 358851226,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Feb-2025",
+    "open": 1064.05,
+    "high": 1064.45,
+    "low": 1025,
+    "close": 1039.65,
+    "volume": 741507997,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Feb-2025",
+    "open": 1032,
+    "high": 1036.25,
+    "low": 994.8,
+    "close": 1006.4,
+    "volume": 609353132,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-Feb-2025",
+    "open": 1009.95,
+    "high": 1012.9,
+    "low": 970.8,
+    "close": 1000,
+    "volume": 662473653,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-Feb-2025",
+    "open": 1000,
+    "high": 1012.8,
+    "low": 980.5,
+    "close": 983,
+    "volume": 468562529,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "14-Feb-2025",
+    "open": 983.15,
+    "high": 991.85,
+    "low": 950,
+    "close": 953.8,
+    "volume": 480964810,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Feb-2025",
+    "open": 952.95,
+    "high": 970,
+    "low": 931.05,
+    "close": 969.75,
+    "volume": 499517835,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Feb-2025",
+    "open": 965,
+    "high": 971.55,
+    "low": 940.15,
+    "close": 950,
+    "volume": 489758092,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-Feb-2025",
+    "open": 948,
+    "high": 976.1,
+    "low": 941.7,
+    "close": 968.95,
+    "volume": 644089160,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-Feb-2025",
+    "open": 970,
+    "high": 1068.7,
+    "low": 970,
+    "close": 1035.8,
+    "volume": 6091723051,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Feb-2025",
+    "open": 1038.85,
+    "high": 1069,
+    "low": 1010,
+    "close": 1012.95,
+    "volume": 1269405700,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Feb-2025",
+    "open": 1016.4,
+    "high": 1018,
+    "low": 986.85,
+    "close": 1007,
+    "volume": 585889989,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Feb-2025",
+    "open": 1011.2,
+    "high": 1060,
+    "low": 1008.8,
+    "close": 1035.85,
+    "volume": 1899741273,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "27-Feb-2025",
+    "open": 1038,
+    "high": 1043.8,
+    "low": 992.65,
+    "close": 1000,
+    "volume": 702341089,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Feb-2025",
+    "open": 992.65,
+    "high": 1001.55,
+    "low": 972.8,
+    "close": 980,
+    "volume": 771118847,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Mar-2025",
+    "open": 983.1,
+    "high": 1000.85,
+    "low": 927,
+    "close": 947,
+    "volume": 898376161,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Mar-2025",
+    "open": 943.05,
+    "high": 974,
+    "low": 931.2,
+    "close": 962.2,
+    "volume": 646824613,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "05-Mar-2025",
+    "open": 970,
+    "high": 1005,
+    "low": 956.65,
+    "close": 1000.95,
+    "volume": 680254269,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-Mar-2025",
+    "open": 1025,
+    "high": 1031.1,
+    "low": 992.05,
+    "close": 1000,
+    "volume": 603622680,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Mar-2025",
+    "open": 1001.4,
+    "high": 1016.5,
+    "low": 992,
+    "close": 999.8,
+    "volume": 544387759,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Mar-2025",
+    "open": 1000.15,
+    "high": 1031,
+    "low": 961.7,
+    "close": 994,
+    "volume": 651964909,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Mar-2025",
+    "open": 987.15,
+    "high": 996,
+    "low": 976.05,
+    "close": 995.5,
+    "volume": 392628323,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-Mar-2025",
+    "open": 988.05,
+    "high": 997.15,
+    "low": 973.05,
+    "close": 977.7,
+    "volume": 329244440,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-Mar-2025",
+    "open": 977.5,
+    "high": 990.45,
+    "low": 957.6,
+    "close": 963,
+    "volume": 401990834,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Mar-2025",
+    "open": 969,
+    "high": 979,
+    "low": 961.1,
+    "close": 969.8,
+    "volume": 389801803,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Mar-2025",
+    "open": 980,
+    "high": 1008,
+    "low": 973.6,
+    "close": 1007.9,
+    "volume": 571379673,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-Mar-2025",
+    "open": 1011.15,
+    "high": 1067.85,
+    "low": 1011.15,
+    "close": 1057,
+    "volume": 930465725,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-Mar-2025",
+    "open": 1068.9,
+    "high": 1069,
+    "low": 1028.15,
+    "close": 1042.65,
+    "volume": 689714599,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Mar-2025",
+    "open": 1040.5,
+    "high": 1076.1,
+    "low": 1028,
+    "close": 1050,
+    "volume": 1152616177,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Mar-2025",
+    "open": 1065,
+    "high": 1089.9,
+    "low": 1065,
+    "close": 1070,
+    "volume": 781198920,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Mar-2025",
+    "open": 1080,
+    "high": 1086.75,
+    "low": 1050,
+    "close": 1051.2,
+    "volume": 670583236,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "26-Mar-2025",
+    "open": 1062,
+    "high": 1109,
+    "low": 1030,
+    "close": 1034.2,
+    "volume": 2977808272,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "27-Mar-2025",
+    "open": 1039.8,
+    "high": 1054.05,
+    "low": 1019.5,
+    "close": 1029.95,
+    "volume": 1120175425,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Mar-2025",
+    "open": 1029.9,
+    "high": 1047.9,
+    "low": 1000.05,
+    "close": 1006,
+    "volume": 643457239,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "01-Apr-2025",
+    "open": 1000,
+    "high": 1029.75,
+    "low": 993.75,
+    "close": 1019,
+    "volume": 542365926,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "02-Apr-2025",
+    "open": 1015.3,
+    "high": 1033.3,
+    "low": 998.55,
+    "close": 1025,
+    "volume": 451793478,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Apr-2025",
+    "open": 1015,
+    "high": 1031.9,
+    "low": 1010,
+    "close": 1013,
+    "volume": 562816189,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Apr-2025",
+    "open": 1012,
+    "high": 1018,
+    "low": 978.7,
+    "close": 990,
+    "volume": 652507364,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Apr-2025",
+    "open": 832.3,
+    "high": 964.4,
+    "low": 832.3,
+    "close": 963,
+    "volume": 851813735,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-Apr-2025",
+    "open": 997.65,
+    "high": 997.65,
+    "low": 957.5,
+    "close": 969.95,
+    "volume": 404829211,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-Apr-2025",
+    "open": 977.9,
+    "high": 977.9,
+    "low": 957,
+    "close": 968,
+    "volume": 333700888,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Apr-2025",
+    "open": 995.05,
+    "high": 1005,
+    "low": 972.25,
+    "close": 975,
+    "volume": 485073487,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "15-Apr-2025",
+    "open": 1005,
+    "high": 1007.9,
+    "low": 988,
+    "close": 995,
+    "volume": 618108293,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-Apr-2025",
+    "open": 999.9,
+    "high": 1002.8,
+    "low": 992.6,
+    "close": 999.9,
+    "volume": 428429029,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Apr-2025",
+    "open": 999.9,
+    "high": 1033,
+    "low": 994.1,
+    "close": 1020,
+    "volume": 902799142,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Apr-2025",
+    "open": 1030,
+    "high": 1038.8,
+    "low": 1022.4,
+    "close": 1035.5,
+    "volume": 386548172,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "22-Apr-2025",
+    "open": 1036,
+    "high": 1041,
+    "low": 1012,
+    "close": 1017,
+    "volume": 603981694,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Apr-2025",
+    "open": 1021.9,
+    "high": 1028.7,
+    "low": 1002.1,
+    "close": 1010.7,
+    "volume": 518924267,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Apr-2025",
+    "open": 1009.9,
+    "high": 1018.8,
+    "low": 998,
+    "close": 1001,
+    "volume": 784754839,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Apr-2025",
+    "open": 998,
+    "high": 1005,
+    "low": 969.2,
+    "close": 989.7,
+    "volume": 641547181,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Apr-2025",
+    "open": 978,
+    "high": 992.5,
+    "low": 970.9,
+    "close": 986.6,
+    "volume": 475647515,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-Apr-2025",
+    "open": 988.8,
+    "high": 1007.7,
+    "low": 986.1,
+    "close": 991,
+    "volume": 355534399,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-Apr-2025",
+    "open": 989.5,
+    "high": 991.7,
+    "low": 967.8,
+    "close": 970.3,
+    "volume": 492800783,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "02-May-2025",
+    "open": 970,
+    "high": 982,
+    "low": 961.5,
+    "close": 967,
+    "volume": 607504188,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "05-May-2025",
+    "open": 974.05,
+    "high": 980,
+    "low": 966.9,
+    "close": 979.5,
+    "volume": 411349938,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-May-2025",
+    "open": 973.6,
+    "high": 985,
+    "low": 908.9,
+    "close": 954.95,
+    "volume": 551735911,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-May-2025",
+    "open": 923,
+    "high": 948.5,
+    "low": 921.15,
+    "close": 944,
+    "volume": 429125851,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-May-2025",
+    "open": 944,
+    "high": 1004.5,
+    "low": 944,
+    "close": 952,
+    "volume": 2190714284,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-May-2025",
+    "open": 940,
+    "high": 957.7,
+    "low": 933.65,
+    "close": 956,
+    "volume": 612194538,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-May-2025",
+    "open": 984.95,
+    "high": 1004,
+    "low": 981,
+    "close": 999.95,
+    "volume": 670199059,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-May-2025",
+    "open": 999.25,
+    "high": 1019.6,
+    "low": 990.4,
+    "close": 1014,
+    "volume": 684142652,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "14-May-2025",
+    "open": 1013.85,
+    "high": 1026.5,
+    "low": 1006,
+    "close": 1014,
+    "volume": 579530083,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "15-May-2025",
+    "open": 1014.95,
+    "high": 1035.9,
+    "low": 1008.25,
+    "close": 1019,
+    "volume": 407011319,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-May-2025",
+    "open": 1025,
+    "high": 1055.8,
+    "low": 1019.05,
+    "close": 1037,
+    "volume": 1021391996,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-May-2025",
+    "open": 1050,
+    "high": 1061.9,
+    "low": 1030.5,
+    "close": 1034.15,
+    "volume": 659829164,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-May-2025",
+    "open": 1043.5,
+    "high": 1044.65,
+    "low": 1008.05,
+    "close": 1013,
+    "volume": 399910530,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-May-2025",
+    "open": 1010.5,
+    "high": 1021.35,
+    "low": 1003.4,
+    "close": 1013,
+    "volume": 305809077,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "22-May-2025",
+    "open": 1010.05,
+    "high": 1026.95,
+    "low": 1005.05,
+    "close": 1015,
+    "volume": 330049785,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-May-2025",
+    "open": 1014.1,
+    "high": 1032,
+    "low": 1009,
+    "close": 1024,
+    "volume": 336631310,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "26-May-2025",
+    "open": 1024,
+    "high": 1060,
+    "low": 1019.15,
+    "close": 1050,
+    "volume": 894651441,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "27-May-2025",
+    "open": 1050,
+    "high": 1053.5,
+    "low": 1035.5,
+    "close": 1048.1,
+    "volume": 458735201,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-May-2025",
+    "open": 1051,
+    "high": 1064.1,
+    "low": 1044.25,
+    "close": 1057,
+    "volume": 486153208,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-May-2025",
+    "open": 1064.8,
+    "high": 1094,
+    "low": 1048,
+    "close": 1093,
+    "volume": 1323530887,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-May-2025",
+    "open": 1040.15,
+    "high": 1056.45,
+    "low": 1025,
+    "close": 1032.5,
+    "volume": 1955960742,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "02-Jun-2025",
+    "open": 1035.9,
+    "high": 1037,
+    "low": 1015,
+    "close": 1018.5,
+    "volume": 708248573,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Jun-2025",
+    "open": 1018.8,
+    "high": 1023.9,
+    "low": 1001.5,
+    "close": 1003.1,
+    "volume": 644266187,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Jun-2025",
+    "open": 1005.3,
+    "high": 1014,
+    "low": 995.4,
+    "close": 999,
+    "volume": 501733976,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "05-Jun-2025",
+    "open": 1004.8,
+    "high": 1009.6,
+    "low": 998.2,
+    "close": 1000,
+    "volume": 503110805,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-Jun-2025",
+    "open": 1004,
+    "high": 1009.3,
+    "low": 994,
+    "close": 1000,
+    "volume": 425236738,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-Jun-2025",
+    "open": 1005,
+    "high": 1019,
+    "low": 1002.9,
+    "close": 1012,
+    "volume": 464688505,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Jun-2025",
+    "open": 1016.2,
+    "high": 1020,
+    "low": 1008,
+    "close": 1013.1,
+    "volume": 328790528,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Jun-2025",
+    "open": 1017.5,
+    "high": 1022.7,
+    "low": 1004,
+    "close": 1015,
+    "volume": 448916260,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-Jun-2025",
+    "open": 1020.5,
+    "high": 1032,
+    "low": 1001.1,
+    "close": 1006,
+    "volume": 681236698,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-Jun-2025",
+    "open": 997.9,
+    "high": 1006.9,
+    "low": 985.2,
+    "close": 1005,
+    "volume": 466822474,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-Jun-2025",
+    "open": 1000,
+    "high": 1006,
+    "low": 986.7,
+    "close": 1004.4,
+    "volume": 387710578,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Jun-2025",
+    "open": 1003,
+    "high": 1003.9,
+    "low": 993,
+    "close": 996.9,
+    "volume": 272124856,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Jun-2025",
+    "open": 994.7,
+    "high": 999.7,
+    "low": 986.3,
+    "close": 990.5,
+    "volume": 352609189,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-Jun-2025",
+    "open": 990.5,
+    "high": 999.9,
+    "low": 984.4,
+    "close": 985.5,
+    "volume": 288099169,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-Jun-2025",
+    "open": 982.1,
+    "high": 991.5,
+    "low": 961.9,
+    "close": 970,
+    "volume": 1400177528,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Jun-2025",
+    "open": 966.6,
+    "high": 986.5,
+    "low": 965.9,
+    "close": 973.5,
+    "volume": 368904326,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Jun-2025",
+    "open": 982,
+    "high": 982,
+    "low": 968.4,
+    "close": 971.7,
+    "volume": 463134399,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Jun-2025",
+    "open": 975,
+    "high": 979.8,
+    "low": 967,
+    "close": 970,
+    "volume": 427860962,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "26-Jun-2025",
+    "open": 974.4,
+    "high": 979,
+    "low": 966.5,
+    "close": 972,
+    "volume": 386293123,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "27-Jun-2025",
+    "open": 971.4,
+    "high": 983.8,
+    "low": 959.4,
+    "close": 965,
+    "volume": 691671295,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-Jun-2025",
+    "open": 968.9,
+    "high": 977,
+    "low": 963,
+    "close": 964.3,
+    "volume": 606610770,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "01-Jul-2025",
+    "open": 966.05,
+    "high": 969.75,
+    "low": 960.05,
+    "close": 961.45,
+    "volume": 403265010,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "02-Jul-2025",
+    "open": 966,
+    "high": 968.35,
+    "low": 951.55,
+    "close": 954.9,
+    "volume": 485225806,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Jul-2025",
+    "open": 957,
+    "high": 964,
+    "low": 955.8,
+    "close": 959.95,
+    "volume": 497208199,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Jul-2025",
+    "open": 961.9,
+    "high": 984,
+    "low": 959.2,
+    "close": 970,
+    "volume": 646569516,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Jul-2025",
+    "open": 970,
+    "high": 974.2,
+    "low": 960.6,
+    "close": 964,
+    "volume": 623579051,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-Jul-2025",
+    "open": 964.35,
+    "high": 966.95,
+    "low": 956,
+    "close": 966,
+    "volume": 427301895,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-Jul-2025",
+    "open": 965.55,
+    "high": 981,
+    "low": 961.8,
+    "close": 979.8,
+    "volume": 533156999,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Jul-2025",
+    "open": 984,
+    "high": 996,
+    "low": 976.4,
+    "close": 984.5,
+    "volume": 1022628717,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Jul-2025",
+    "open": 988.45,
+    "high": 991,
+    "low": 970,
+    "close": 980,
+    "volume": 622456279,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "14-Jul-2025",
+    "open": 980,
+    "high": 987.9,
+    "low": 970.55,
+    "close": 987,
+    "volume": 265500315,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "15-Jul-2025",
+    "open": 990.95,
+    "high": 996.85,
+    "low": 983.45,
+    "close": 986.9,
+    "volume": 268489033,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-Jul-2025",
+    "open": 986.05,
+    "high": 989.95,
+    "low": 977.4,
+    "close": 985.5,
+    "volume": 306559187,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Jul-2025",
+    "open": 990,
+    "high": 996.3,
+    "low": 981.35,
+    "close": 983.5,
+    "volume": 254839224,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Jul-2025",
+    "open": 984,
+    "high": 990.55,
+    "low": 972.8,
+    "close": 977.5,
+    "volume": 250001906,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Jul-2025",
+    "open": 978.5,
+    "high": 1022,
+    "low": 971.6,
+    "close": 1003.35,
+    "volume": 1771488726,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "22-Jul-2025",
+    "open": 1011,
+    "high": 1011,
+    "low": 991.85,
+    "close": 1000,
+    "volume": 492141047,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Jul-2025",
+    "open": 1000.35,
+    "high": 1019,
+    "low": 989,
+    "close": 1010.05,
+    "volume": 614252740,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Jul-2025",
+    "open": 1019,
+    "high": 1033.25,
+    "low": 1004.75,
+    "close": 1011.45,
+    "volume": 889998198,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Jul-2025",
+    "open": 1010,
+    "high": 1010.9,
+    "low": 988.5,
+    "close": 993.25,
+    "volume": 550562702,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Jul-2025",
+    "open": 994.7,
+    "high": 1002.45,
+    "low": 968,
+    "close": 972.05,
+    "volume": 546841928,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-Jul-2025",
+    "open": 965.6,
+    "high": 1001.8,
+    "low": 963.45,
+    "close": 993,
+    "volume": 626412007,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-Jul-2025",
+    "open": 1000.55,
+    "high": 1000.95,
+    "low": 974.1,
+    "close": 978.7,
+    "volume": 244201574,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "31-Jul-2025",
+    "open": 975,
+    "high": 975.1,
+    "low": 960.35,
+    "close": 965.1,
+    "volume": 411928239,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "01-Aug-2025",
+    "open": 965.1,
+    "high": 968.25,
+    "low": 951,
+    "close": 955,
+    "volume": 359030149,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Aug-2025",
+    "open": 961,
+    "high": 962.05,
+    "low": 950.15,
+    "close": 960,
+    "volume": 269275269,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "05-Aug-2025",
+    "open": 959,
+    "high": 969.8,
+    "low": 945.15,
+    "close": 950,
+    "volume": 398862439,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-Aug-2025",
+    "open": 953.95,
+    "high": 961.3,
+    "low": 926.8,
+    "close": 930.6,
+    "volume": 466139318,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Aug-2025",
+    "open": 929.95,
+    "high": 941,
+    "low": 918.4,
+    "close": 937,
+    "volume": 512299470,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-Aug-2025",
+    "open": 941.5,
+    "high": 941.8,
+    "low": 925.6,
+    "close": 935.15,
+    "volume": 339907266,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Aug-2025",
+    "open": 936,
+    "high": 957.4,
+    "low": 928,
+    "close": 955,
+    "volume": 440369280,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-Aug-2025",
+    "open": 960.95,
+    "high": 961,
+    "low": 947.75,
+    "close": 956.2,
+    "volume": 277502087,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-Aug-2025",
+    "open": 955.4,
+    "high": 960,
+    "low": 944.05,
+    "close": 959.05,
+    "volume": 289184713,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "14-Aug-2025",
+    "open": 959.8,
+    "high": 963.15,
+    "low": 943.9,
+    "close": 952.6,
+    "volume": 758554835,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Aug-2025",
+    "open": 960,
+    "high": 964.25,
+    "low": 946.65,
+    "close": 955,
+    "volume": 647126440,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-Aug-2025",
+    "open": 964.05,
+    "high": 1004.55,
+    "low": 954.1,
+    "close": 990.8,
+    "volume": 1725865459,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-Aug-2025",
+    "open": 989.1,
+    "high": 1010,
+    "low": 983.25,
+    "close": 986.15,
+    "volume": 803593829,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Aug-2025",
+    "open": 995.45,
+    "high": 1004,
+    "low": 984.1,
+    "close": 987.75,
+    "volume": 570532382,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "22-Aug-2025",
+    "open": 990.3,
+    "high": 996.7,
+    "low": 984.95,
+    "close": 986,
+    "volume": 309298911,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Aug-2025",
+    "open": 987,
+    "high": 996,
+    "low": 976,
+    "close": 987.65,
+    "volume": 424961478,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "26-Aug-2025",
+    "open": 986,
+    "high": 987.65,
+    "low": 968.45,
+    "close": 979.95,
+    "volume": 426529624,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Aug-2025",
+    "open": 969,
+    "high": 972.7,
+    "low": 961.05,
+    "close": 965.5,
+    "volume": 382702781,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-Aug-2025",
+    "open": 967.7,
+    "high": 993.2,
+    "low": 967,
+    "close": 990,
+    "volume": 495347442,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "01-Sep-2025",
+    "open": 991,
+    "high": 1023.3,
+    "low": 984,
+    "close": 1012,
+    "volume": 1253534877,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "02-Sep-2025",
+    "open": 1016.65,
+    "high": 1034.2,
+    "low": 1012.35,
+    "close": 1018,
+    "volume": 873961829,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Sep-2025",
+    "open": 1018,
+    "high": 1032.45,
+    "low": 1001,
+    "close": 1020,
+    "volume": 629303274,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Sep-2025",
+    "open": 1033.7,
+    "high": 1034.5,
+    "low": 999.5,
+    "close": 1009,
+    "volume": 424160173,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "05-Sep-2025",
+    "open": 1009.8,
+    "high": 1032.8,
+    "low": 1001.1,
+    "close": 1020,
+    "volume": 447288284,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-Sep-2025",
+    "open": 1018.35,
+    "high": 1043,
+    "low": 1013.5,
+    "close": 1033.25,
+    "volume": 832835549,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-Sep-2025",
+    "open": 1040,
+    "high": 1042,
+    "low": 1020,
+    "close": 1022.5,
+    "volume": 326594215,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Sep-2025",
+    "open": 1030,
+    "high": 1037.9,
+    "low": 1021.8,
+    "close": 1035,
+    "volume": 517360782,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Sep-2025",
+    "open": 1036.9,
+    "high": 1055,
+    "low": 1028.2,
+    "close": 1050.5,
+    "volume": 1140056755,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-Sep-2025",
+    "open": 1055,
+    "high": 1057.35,
+    "low": 1026,
+    "close": 1030.55,
+    "volume": 550438577,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "15-Sep-2025",
+    "open": 1031.9,
+    "high": 1053.7,
+    "low": 1029,
+    "close": 1035,
+    "volume": 337693115,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-Sep-2025",
+    "open": 1034.65,
+    "high": 1057.85,
+    "low": 1033.65,
+    "close": 1035.7,
+    "volume": 623020000,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Sep-2025",
+    "open": 1041.95,
+    "high": 1044,
+    "low": 1024.75,
+    "close": 1029,
+    "volume": 469093623,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Sep-2025",
+    "open": 1034.8,
+    "high": 1037.1,
+    "low": 1023.65,
+    "close": 1032.95,
+    "volume": 687693730,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-Sep-2025",
+    "open": 1034.9,
+    "high": 1039.75,
+    "low": 1013,
+    "close": 1018,
+    "volume": 894980586,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "22-Sep-2025",
+    "open": 1015.05,
+    "high": 1023.55,
+    "low": 1000.2,
+    "close": 1005.8,
+    "volume": 377668263,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Sep-2025",
+    "open": 1002.9,
+    "high": 1027.25,
+    "low": 997.95,
+    "close": 1008.3,
+    "volume": 685751722,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Sep-2025",
+    "open": 1008.65,
+    "high": 1018.55,
+    "low": 993,
+    "close": 1000,
+    "volume": 407572554,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Sep-2025",
+    "open": 997,
+    "high": 999.6,
+    "low": 976.05,
+    "close": 979.4,
+    "volume": 475606520,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "26-Sep-2025",
+    "open": 981.55,
+    "high": 983.35,
+    "low": 968,
+    "close": 979,
+    "volume": 429355166,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-Sep-2025",
+    "open": 986.6,
+    "high": 1001.05,
+    "low": 978.1,
+    "close": 989,
+    "volume": 416489252,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-Sep-2025",
+    "open": 992.2,
+    "high": 992.2,
+    "low": 981.6,
+    "close": 991.05,
+    "volume": 188458631,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "01-Oct-2025",
+    "open": 989.25,
+    "high": 997.15,
+    "low": 985,
+    "close": 995.85,
+    "volume": 222178303,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Oct-2025",
+    "open": 999,
+    "high": 1002.6,
+    "low": 990.15,
+    "close": 1000.75,
+    "volume": 251772076,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-Oct-2025",
+    "open": 1008.8,
+    "high": 1012.05,
+    "low": 990.35,
+    "close": 1006.65,
+    "volume": 375606076,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Oct-2025",
+    "open": 1007.75,
+    "high": 1012,
+    "low": 1000,
+    "close": 1006,
+    "volume": 272361105,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-Oct-2025",
+    "open": 1007,
+    "high": 1011,
+    "low": 995.35,
+    "close": 1005.2,
+    "volume": 281571250,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-Oct-2025",
+    "open": 1006,
+    "high": 1015.6,
+    "low": 992,
+    "close": 996.7,
+    "volume": 446483233,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Oct-2025",
+    "open": 997.7,
+    "high": 1007,
+    "low": 992.75,
+    "close": 1006.3,
+    "volume": 293911142,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-Oct-2025",
+    "open": 1003.55,
+    "high": 1003.55,
+    "low": 989,
+    "close": 998,
+    "volume": 305981593,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "14-Oct-2025",
+    "open": 999.95,
+    "high": 1003.45,
+    "low": 984,
+    "close": 999,
+    "volume": 396842811,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "15-Oct-2025",
+    "open": 999,
+    "high": 1005.9,
+    "low": 985.1,
+    "close": 991.9,
+    "volume": 340208175,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-Oct-2025",
+    "open": 992,
+    "high": 1003.1,
+    "low": 990.25,
+    "close": 1000,
+    "volume": 169454690,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Oct-2025",
+    "open": 995,
+    "high": 999,
+    "low": 990.5,
+    "close": 993.2,
+    "volume": 251199327,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-Oct-2025",
+    "open": 990.2,
+    "high": 998,
+    "low": 985.2,
+    "close": 987.7,
+    "volume": 321695719,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Oct-2025",
+    "open": 994.95,
+    "high": 999.95,
+    "low": 992.15,
+    "close": 996.3,
+    "volume": 92874597,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Oct-2025",
+    "open": 997.05,
+    "high": 1004.05,
+    "low": 991.05,
+    "close": 1000.5,
+    "volume": 298770612,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Oct-2025",
+    "open": 995,
+    "high": 998.75,
+    "low": 988,
+    "close": 997,
+    "volume": 228488795,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "27-Oct-2025",
+    "open": 996.8,
+    "high": 1004,
+    "low": 994.2,
+    "close": 1001,
+    "volume": 308584499,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Oct-2025",
+    "open": 1000,
+    "high": 1012.65,
+    "low": 999,
+    "close": 1002.05,
+    "volume": 236540411,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-Oct-2025",
+    "open": 1015,
+    "high": 1015,
+    "low": 1003.15,
+    "close": 1014.5,
+    "volume": 318602648,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-Oct-2025",
+    "open": 1014.5,
+    "high": 1019.55,
+    "low": 1008.7,
+    "close": 1017,
+    "volume": 231320330,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "31-Oct-2025",
+    "open": 1018.65,
+    "high": 1023,
+    "low": 999.8,
+    "close": 1005.05,
+    "volume": 353110667,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Nov-2025",
+    "open": 1001.1,
+    "high": 1013.4,
+    "low": 1001.1,
+    "close": 1012,
+    "volume": 257356505,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Nov-2025",
+    "open": 1015,
+    "high": 1015,
+    "low": 987.8,
+    "close": 990,
+    "volume": 413286032,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "06-Nov-2025",
+    "open": 990.1,
+    "high": 999.2,
+    "low": 975.6,
+    "close": 987,
+    "volume": 364233334,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "07-Nov-2025",
+    "open": 990.7,
+    "high": 994,
+    "low": 970.1,
+    "close": 978,
+    "volume": 449607310,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Nov-2025",
+    "open": 981,
+    "high": 988.7,
+    "low": 957,
+    "close": 966,
+    "volume": 758260293,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Nov-2025",
+    "open": 965.4,
+    "high": 972.9,
+    "low": 958.1,
+    "close": 960.5,
+    "volume": 408093640,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-Nov-2025",
+    "open": 965.5,
+    "high": 971.4,
+    "low": 959.3,
+    "close": 964.3,
+    "volume": 579645348,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "13-Nov-2025",
+    "open": 965,
+    "high": 974,
+    "low": 962.7,
+    "close": 967,
+    "volume": 293363233,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "14-Nov-2025",
+    "open": 966.9,
+    "high": 971.9,
+    "low": 961.2,
+    "close": 964,
+    "volume": 280707054,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Nov-2025",
+    "open": 967,
+    "high": 969.1,
+    "low": 961.3,
+    "close": 965.1,
+    "volume": 249856334,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Nov-2025",
+    "open": 965.6,
+    "high": 968,
+    "low": 951,
+    "close": 957.4,
+    "volume": 397558110,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-Nov-2025",
+    "open": 956.1,
+    "high": 962.4,
+    "low": 950,
+    "close": 960.2,
+    "volume": 170290863,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "20-Nov-2025",
+    "open": 969,
+    "high": 970.7,
+    "low": 956.8,
+    "close": 969,
+    "volume": 262157933,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "21-Nov-2025",
+    "open": 968.6,
+    "high": 968.6,
+    "low": 951.1,
+    "close": 954.4,
+    "volume": 295033502,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Nov-2025",
+    "open": 955,
+    "high": 958.5,
+    "low": 940.2,
+    "close": 956.7,
+    "volume": 294117648,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "25-Nov-2025",
+    "open": 954.4,
+    "high": 954.4,
+    "low": 941.2,
+    "close": 948.4,
+    "volume": 206576440,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "26-Nov-2025",
+    "open": 946,
+    "high": 951.5,
+    "low": 941,
+    "close": 950.3,
+    "volume": 138589110,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "27-Nov-2025",
+    "open": 951.9,
+    "high": 957,
+    "low": 941.9,
+    "close": 944.8,
+    "volume": 260645968,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "28-Nov-2025",
+    "open": 945.3,
+    "high": 953.9,
+    "low": 942,
+    "close": 951.1,
+    "volume": 131302435,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "01-Dec-2025",
+    "open": 951.9,
+    "high": 956.95,
+    "low": 949,
+    "close": 950,
+    "volume": 143961121,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "02-Dec-2025",
+    "open": 950.45,
+    "high": 954.9,
+    "low": 948.5,
+    "close": 951,
+    "volume": 121543659,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "03-Dec-2025",
+    "open": 950,
+    "high": 953.65,
+    "low": 945,
+    "close": 945.2,
+    "volume": 182343492,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "04-Dec-2025",
+    "open": 947.35,
+    "high": 949.9,
+    "low": 939.65,
+    "close": 941.4,
+    "volume": 130112211,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "05-Dec-2025",
+    "open": 941.95,
+    "high": 947,
+    "low": 935,
+    "close": 945,
+    "volume": 137692104,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "08-Dec-2025",
+    "open": 945,
+    "high": 948.7,
+    "low": 925.1,
+    "close": 929.45,
+    "volume": 263549516,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "09-Dec-2025",
+    "open": 927.8,
+    "high": 942,
+    "low": 911.15,
+    "close": 941,
+    "volume": 238805955,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "10-Dec-2025",
+    "open": 937.95,
+    "high": 952,
+    "low": 932.2,
+    "close": 945,
+    "volume": 237330395,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "11-Dec-2025",
+    "open": 947.9,
+    "high": 947.9,
+    "low": 927.2,
+    "close": 930.8,
+    "volume": 318907535,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "12-Dec-2025",
+    "open": 932.2,
+    "high": 936.4,
+    "low": 928,
+    "close": 930.9,
+    "volume": 127509623,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "15-Dec-2025",
+    "open": 930.55,
+    "high": 938,
+    "low": 922,
+    "close": 935.5,
+    "volume": 177045640,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "16-Dec-2025",
+    "open": 935.65,
+    "high": 936,
+    "low": 920.5,
+    "close": 922,
+    "volume": 175750570,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "17-Dec-2025",
+    "open": 922,
+    "high": 928.2,
+    "low": 920.8,
+    "close": 926.45,
+    "volume": 149027408,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "18-Dec-2025",
+    "open": 922,
+    "high": 925.55,
+    "low": 912.05,
+    "close": 925.5,
+    "volume": 269709042,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "19-Dec-2025",
+    "open": 925,
+    "high": 932,
+    "low": 919,
+    "close": 926.8,
+    "volume": 193054212,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "22-Dec-2025",
+    "open": 926.95,
+    "high": 933.85,
+    "low": 925,
+    "close": 925.6,
+    "volume": 111998194,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Dec-2025",
+    "open": 928.95,
+    "high": 938,
+    "low": 924.75,
+    "close": 933,
+    "volume": 171711590,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "24-Dec-2025",
+    "open": 936.6,
+    "high": 937.2,
+    "low": 923.8,
+    "close": 924.1,
+    "volume": 162332619,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "26-Dec-2025",
+    "open": 925.35,
+    "high": 927.5,
+    "low": 919.1,
+    "close": 921.75,
+    "volume": 139243747,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "29-Dec-2025",
+    "open": 918,
+    "high": 920,
+    "low": 903,
+    "close": 908.45,
+    "volume": 298319687,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "30-Dec-2025",
+    "open": 906,
+    "high": 910,
+    "low": 892.1,
+    "close": 895.95,
+    "volume": 339339656,
+    "symbol": "ARE&M"
+  },
+  {
+    "date": "31-Dec-2025",
+    "open": 896,
+    "high": 913.85,
+    "low": 893.55,
+    "close": 909.85,
+    "volume": 178416474,
+    "symbol": "ARE&M"
+  }
+]

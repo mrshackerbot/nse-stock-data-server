@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2249,
+    "high": 2287.4,
+    "low": 2241,
+    "close": 2254.4,
+    "volume": 2370492761,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2260,
+    "high": 2283.7,
+    "low": 2259,
+    "close": 2278,
+    "volume": 1625913975,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2287,
+    "high": 2303.9,
+    "low": 2274.3,
+    "close": 2279,
+    "volume": 1591661792,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2288.9,
+    "high": 2290.4,
+    "low": 2248.1,
+    "close": 2262,
+    "volume": 1582797672,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2265,
+    "high": 2284,
+    "low": 2243,
+    "close": 2271.9,
+    "volume": 1200559135,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2275,
+    "high": 2275.9,
+    "low": 2205,
+    "close": 2209.3,
+    "volume": 1768715615,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2214.1,
+    "high": 2216,
+    "low": 2145,
+    "close": 2156.6,
+    "volume": 3413102409,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2156.6,
+    "high": 2180,
+    "low": 2119,
+    "close": 2177,
+    "volume": 2703491657,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2187.8,
+    "high": 2187.8,
+    "low": 2141.1,
+    "close": 2156.5,
+    "volume": 1711788642,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2156,
+    "high": 2169,
+    "low": 2142,
+    "close": 2152,
+    "volume": 1332887920,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2162.8,
+    "high": 2193.9,
+    "low": 2152.1,
+    "close": 2159,
+    "volume": 1648508019,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2155,
+    "high": 2156.8,
+    "low": 2123,
+    "close": 2129,
+    "volume": 1602692300,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2134,
+    "high": 2139.9,
+    "low": 2040,
+    "close": 2050,
+    "volume": 2424665708,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2056.5,
+    "high": 2068.2,
+    "low": 2004.1,
+    "close": 2038,
+    "volume": 2764214775,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2055.9,
+    "high": 2102.9,
+    "low": 2051,
+    "close": 2088.2,
+    "volume": 1961548877,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2080.5,
+    "high": 2082.5,
+    "low": 1848,
+    "close": 1861.8,
+    "volume": 14386285453,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1909,
+    "high": 1973.9,
+    "low": 1893,
+    "close": 1963,
+    "volume": 10605929779,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1985,
+    "high": 2004,
+    "low": 1952,
+    "close": 1995,
+    "volume": 4111749269,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1999.8,
+    "high": 2029.1,
+    "low": 1972,
+    "close": 2016,
+    "volume": 2781103948,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2005,
+    "high": 2038.8,
+    "low": 1992.2,
+    "close": 2020,
+    "volume": 2489656721,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2021,
+    "high": 2039.8,
+    "low": 1931,
+    "close": 1937.8,
+    "volume": 3570397922,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1956.6,
+    "high": 2002.2,
+    "low": 1934,
+    "close": 1995,
+    "volume": 2418939814,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2150,
+    "high": 2233.4,
+    "low": 2131.1,
+    "close": 2206.5,
+    "volume": 15234526951,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2220,
+    "high": 2246,
+    "low": 2189.2,
+    "close": 2225,
+    "volume": 4552935775,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2232,
+    "high": 2243.7,
+    "low": 2210,
+    "close": 2232.6,
+    "volume": 2207995419,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2226.1,
+    "high": 2238,
+    "low": 2200.4,
+    "close": 2219,
+    "volume": 2073653676,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2250,
+    "high": 2288,
+    "low": 2240,
+    "close": 2250.4,
+    "volume": 3733514090,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2259,
+    "high": 2268.3,
+    "low": 2171,
+    "close": 2227.3,
+    "volume": 3717508473,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2232.9,
+    "high": 2237.7,
+    "low": 2215.1,
+    "close": 2230,
+    "volume": 1521278632,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2229,
+    "high": 2229.5,
+    "low": 2201,
+    "close": 2209,
+    "volume": 1436129210,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2210,
+    "high": 2210,
+    "low": 2124.2,
+    "close": 2127,
+    "volume": 3207019459,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2124.2,
+    "high": 2190.9,
+    "low": 2103.2,
+    "close": 2181.3,
+    "volume": 3940144107,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2170,
+    "high": 2252,
+    "low": 2170,
+    "close": 2244.4,
+    "volume": 4285361223,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2254,
+    "high": 2254,
+    "low": 2188.1,
+    "close": 2213,
+    "volume": 2540811554,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2218.9,
+    "high": 2218.9,
+    "low": 2151,
+    "close": 2159,
+    "volume": 2396328183,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2160,
+    "high": 2174.4,
+    "low": 2152.1,
+    "close": 2160.3,
+    "volume": 1596812213,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2180,
+    "high": 2203,
+    "low": 2155.3,
+    "close": 2186.7,
+    "volume": 2412482216,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2168.6,
+    "high": 2204.7,
+    "low": 2162.2,
+    "close": 2184,
+    "volume": 2514696048,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2193.2,
+    "high": 2237.3,
+    "low": 2180.1,
+    "close": 2225,
+    "volume": 3257967789,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 2230,
+    "high": 2232.4,
+    "low": 2200.1,
+    "close": 2215.4,
+    "volume": 2026674860,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 2210,
+    "high": 2216.4,
+    "low": 2153,
+    "close": 2157,
+    "volume": 3113771484,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 2093,
+    "high": 2147.9,
+    "low": 2073.7,
+    "close": 2124,
+    "volume": 4487653647,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 2104.6,
+    "high": 2104.6,
+    "low": 2037.5,
+    "close": 2070,
+    "volume": 3273637042,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 2094,
+    "high": 2100,
+    "low": 2040,
+    "close": 2085,
+    "volume": 2544305808,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 2079.1,
+    "high": 2090,
+    "low": 2030.2,
+    "close": 2042.6,
+    "volume": 3493027690,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1985,
+    "high": 2006,
+    "low": 1940.4,
+    "close": 2002,
+    "volume": 2575534617,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 2030,
+    "high": 2030,
+    "low": 1982.2,
+    "close": 2002,
+    "volume": 3355510314,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 2006.6,
+    "high": 2027.4,
+    "low": 1970,
+    "close": 1975,
+    "volume": 2170325606,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1960,
+    "high": 2026,
+    "low": 1947.1,
+    "close": 2000.3,
+    "volume": 2942527760,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1999.9,
+    "high": 2008.6,
+    "low": 1945,
+    "close": 1960,
+    "volume": 2357604806,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1961,
+    "high": 1994.8,
+    "low": 1946.6,
+    "close": 1970,
+    "volume": 2884466564,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1989.9,
+    "high": 1990,
+    "low": 1945,
+    "close": 1975,
+    "volume": 2496235261,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1988.9,
+    "high": 2027,
+    "low": 1982.2,
+    "close": 2008,
+    "volume": 2094608371,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1984,
+    "high": 1988.6,
+    "low": 1930,
+    "close": 1938.4,
+    "volume": 2942008651,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1951,
+    "high": 1974.4,
+    "low": 1919.9,
+    "close": 1928.9,
+    "volume": 2285589933,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1910,
+    "high": 1910.1,
+    "low": 1820.5,
+    "close": 1831,
+    "volume": 4373477678,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1892.7,
+    "high": 1893,
+    "low": 1813.7,
+    "close": 1825.2,
+    "volume": 20519161045,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1847.9,
+    "high": 1911,
+    "low": 1839.2,
+    "close": 1885,
+    "volume": 4789708231,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1880,
+    "high": 1883.2,
+    "low": 1816.5,
+    "close": 1824,
+    "volume": 4745252722,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1810,
+    "high": 1837.8,
+    "low": 1753,
+    "close": 1764,
+    "volume": 5047645824,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1825,
+    "high": 1870,
+    "low": 1803.8,
+    "close": 1841.9,
+    "volume": 4293810919,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1805,
+    "high": 1842.9,
+    "low": 1770.1,
+    "close": 1833,
+    "volume": 3294305979,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1836.9,
+    "high": 1909,
+    "low": 1802.1,
+    "close": 1899.5,
+    "volume": 5856748075,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1890,
+    "high": 1904.6,
+    "low": 1865,
+    "close": 1884,
+    "volume": 2944192030,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 2000,
+    "high": 2099,
+    "low": 1975.1,
+    "close": 2044.9,
+    "volume": 8527195411,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 2039.8,
+    "high": 2065,
+    "low": 2010.3,
+    "close": 2040,
+    "volume": 5059891348,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 2043.1,
+    "high": 2094.6,
+    "low": 2041.7,
+    "close": 2087.2,
+    "volume": 3530703587,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 2010.2,
+    "high": 2159,
+    "low": 2000.2,
+    "close": 2130.2,
+    "volume": 7890080335,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 2187,
+    "high": 2200,
+    "low": 2136,
+    "close": 2138,
+    "volume": 3859461434,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 2170,
+    "high": 2210.4,
+    "low": 2161.1,
+    "close": 2210,
+    "volume": 4779255813,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 2240,
+    "high": 2240,
+    "low": 2186.1,
+    "close": 2224,
+    "volume": 5314391352,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 2218.3,
+    "high": 2280.1,
+    "low": 2202.2,
+    "close": 2225.6,
+    "volume": 4024710308,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 2229.7,
+    "high": 2255,
+    "low": 2220,
+    "close": 2230,
+    "volume": 4063582208,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 2229,
+    "high": 2278.6,
+    "low": 2224.1,
+    "close": 2258,
+    "volume": 7908572669,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 2243.5,
+    "high": 2333.9,
+    "low": 2221.8,
+    "close": 2301,
+    "volume": 6734345978,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 2310.2,
+    "high": 2321.4,
+    "low": 2227,
+    "close": 2282,
+    "volume": 5158677471,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 2300.2,
+    "high": 2337,
+    "low": 2286,
+    "close": 2322.3,
+    "volume": 3478515986,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 2321.8,
+    "high": 2420,
+    "low": 2320.9,
+    "close": 2415,
+    "volume": 10454732211,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 2427.6,
+    "high": 2443.8,
+    "low": 2388,
+    "close": 2415,
+    "volume": 11290160791,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 2394.9,
+    "high": 2420,
+    "low": 2328.8,
+    "close": 2410.5,
+    "volume": 8436369744,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 2390.4,
+    "high": 2515,
+    "low": 2375,
+    "close": 2473,
+    "volume": 14891849628,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 2470,
+    "high": 2511.9,
+    "low": 2450,
+    "close": 2462,
+    "volume": 4023490838,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 2475.5,
+    "high": 2546.5,
+    "low": 2472.2,
+    "close": 2540.5,
+    "volume": 7965865058,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 2540.3,
+    "high": 2549.9,
+    "low": 2506.2,
+    "close": 2520,
+    "volume": 2774521729,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 2519,
+    "high": 2546.1,
+    "low": 2500,
+    "close": 2502,
+    "volume": 3780532778,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 2495,
+    "high": 2514,
+    "low": 2460,
+    "close": 2501,
+    "volume": 3183534314,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 2487.7,
+    "high": 2511.7,
+    "low": 2400.1,
+    "close": 2401.1,
+    "volume": 3558406971,
+    "symbol": "ADANIENT"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 2401.1,
+    "high": 2530,
+    "low": 2401.1,
+    "close": 2503,
+    "volume": 5047556801,
+    "symbol": "ADANIENT"
+  }
+]

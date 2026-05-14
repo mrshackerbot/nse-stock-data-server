@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1443.7,
+    "high": 1452,
+    "low": 1436,
+    "close": 1446.5,
+    "volume": 984445142,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1446.2,
+    "high": 1467.8,
+    "low": 1440.9,
+    "close": 1466.6,
+    "volume": 1550873032,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1465,
+    "high": 1479,
+    "low": 1452.1,
+    "close": 1467.8,
+    "volume": 2247834434,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1469,
+    "high": 1477.4,
+    "low": 1448.3,
+    "close": 1456.1,
+    "volume": 1340977609,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1452.1,
+    "high": 1479.9,
+    "low": 1446.3,
+    "close": 1474,
+    "volume": 1256863438,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1473.9,
+    "high": 1480.3,
+    "low": 1433.5,
+    "close": 1436,
+    "volume": 2618634173,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1432.7,
+    "high": 1450.9,
+    "low": 1403.1,
+    "close": 1411,
+    "volume": 2892229329,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1408,
+    "high": 1429.6,
+    "low": 1395.1,
+    "close": 1419.4,
+    "volume": 2494347522,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1420,
+    "high": 1437.4,
+    "low": 1402.1,
+    "close": 1419,
+    "volume": 1827500754,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1419,
+    "high": 1432.3,
+    "low": 1410,
+    "close": 1415,
+    "volume": 1780281019,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1417,
+    "high": 1451.7,
+    "low": 1417,
+    "close": 1435,
+    "volume": 2633728043,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1430,
+    "high": 1437.5,
+    "low": 1410.1,
+    "close": 1415,
+    "volume": 1352927185,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1415,
+    "high": 1415.2,
+    "low": 1334.4,
+    "close": 1342.6,
+    "volume": 5005051003,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1337.6,
+    "high": 1352.8,
+    "low": 1310.9,
+    "close": 1336.9,
+    "volume": 2886058528,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1345,
+    "high": 1382,
+    "low": 1345,
+    "close": 1358.7,
+    "volume": 1987426174,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1356.6,
+    "high": 1374,
+    "low": 1322.5,
+    "close": 1326.6,
+    "volume": 1626258593,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1326.6,
+    "high": 1344.8,
+    "low": 1297,
+    "close": 1332,
+    "volume": 2608335467,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1327,
+    "high": 1359.4,
+    "low": 1326,
+    "close": 1357.8,
+    "volume": 2278691409,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1357.9,
+    "high": 1359.6,
+    "low": 1313.3,
+    "close": 1324,
+    "volume": 3355749276,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1317.3,
+    "high": 1339.8,
+    "low": 1302.1,
+    "close": 1319.6,
+    "volume": 2423787377,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1315,
+    "high": 1315.9,
+    "low": 1196.3,
+    "close": 1231,
+    "volume": 7249752975,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1229,
+    "high": 1244.6,
+    "low": 1195,
+    "close": 1240.1,
+    "volume": 4031001428,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1331.6,
+    "high": 1357.3,
+    "low": 1318.4,
+    "close": 1342.1,
+    "volume": 7248258614,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1344.8,
+    "high": 1372,
+    "low": 1329.6,
+    "close": 1366.5,
+    "volume": 3763469366,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1363,
+    "high": 1368,
+    "low": 1340.6,
+    "close": 1362,
+    "volume": 1982305702,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1362,
+    "high": 1362,
+    "low": 1315.1,
+    "close": 1328.9,
+    "volume": 2389919012,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1349.3,
+    "high": 1377.4,
+    "low": 1342.2,
+    "close": 1374,
+    "volume": 2236242241,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1386.5,
+    "high": 1412,
+    "low": 1381.2,
+    "close": 1400,
+    "volume": 3559097648,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1407.9,
+    "high": 1409,
+    "low": 1385,
+    "close": 1395,
+    "volume": 1817420037,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1395,
+    "high": 1395.1,
+    "low": 1367,
+    "close": 1369.4,
+    "volume": 1559696587,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1350,
+    "high": 1359,
+    "low": 1321.1,
+    "close": 1335.6,
+    "volume": 2223247467,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1300,
+    "high": 1362.6,
+    "low": 1282.8,
+    "close": 1353.8,
+    "volume": 2289604713,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1352.6,
+    "high": 1353,
+    "low": 1333.2,
+    "close": 1339.8,
+    "volume": 1209998213,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1340.1,
+    "high": 1358.4,
+    "low": 1334,
+    "close": 1356,
+    "volume": 1840795384,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1355.7,
+    "high": 1365,
+    "low": 1313.5,
+    "close": 1319,
+    "volume": 1605333124,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1320.5,
+    "high": 1331.5,
+    "low": 1317,
+    "close": 1320.5,
+    "volume": 1420521623,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1330,
+    "high": 1338.8,
+    "low": 1320.1,
+    "close": 1335.4,
+    "volume": 1199518640,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1325.9,
+    "high": 1342,
+    "low": 1318.4,
+    "close": 1328.2,
+    "volume": 1743219224,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1329,
+    "high": 1338.8,
+    "low": 1319.5,
+    "close": 1326,
+    "volume": 1161104797,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1324,
+    "high": 1324,
+    "low": 1284,
+    "close": 1292,
+    "volume": 4307917114,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1290,
+    "high": 1299,
+    "low": 1268,
+    "close": 1272,
+    "volume": 2148738672,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1205.2,
+    "high": 1253,
+    "low": 1205.2,
+    "close": 1231,
+    "volume": 3880365474,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1210,
+    "high": 1218.5,
+    "low": 1188,
+    "close": 1209.5,
+    "volume": 3085137072,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1226,
+    "high": 1244,
+    "low": 1213,
+    "close": 1241.6,
+    "volume": 1880879283,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1226,
+    "high": 1248,
+    "low": 1221.9,
+    "close": 1226,
+    "volume": 1381761847,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1199,
+    "high": 1214.4,
+    "low": 1175,
+    "close": 1212.8,
+    "volume": 2488343317,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1234.7,
+    "high": 1254,
+    "low": 1223,
+    "close": 1253.6,
+    "volume": 2014596859,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1249,
+    "high": 1261.7,
+    "low": 1215.2,
+    "close": 1220,
+    "volume": 1893981666,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1206,
+    "high": 1218.5,
+    "low": 1193.1,
+    "close": 1210,
+    "volume": 1953010835,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1205,
+    "high": 1208,
+    "low": 1172.2,
+    "close": 1178,
+    "volume": 2602468864,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1178,
+    "high": 1196,
+    "low": 1159.2,
+    "close": 1182.4,
+    "volume": 2494191175,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1190,
+    "high": 1206,
+    "low": 1181.6,
+    "close": 1203.5,
+    "volume": 2216587445,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1209,
+    "high": 1244,
+    "low": 1205.3,
+    "close": 1233,
+    "volume": 2493342808,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1205,
+    "high": 1213.9,
+    "low": 1187.3,
+    "close": 1196,
+    "volume": 2289645231,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1198,
+    "high": 1213,
+    "low": 1186.2,
+    "close": 1191,
+    "volume": 1805443775,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1175.6,
+    "high": 1176.9,
+    "low": 1130,
+    "close": 1131,
+    "volume": 3050758199,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1170,
+    "high": 1189.8,
+    "low": 1151.1,
+    "close": 1187.5,
+    "volume": 2953563264,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1202,
+    "high": 1229.9,
+    "low": 1200.6,
+    "close": 1210,
+    "volume": 3000374353,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1205.2,
+    "high": 1206,
+    "low": 1167,
+    "close": 1169,
+    "volume": 2934112483,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1152,
+    "high": 1158.9,
+    "low": 1116.3,
+    "close": 1121,
+    "volume": 3358280433,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1158.5,
+    "high": 1195.9,
+    "low": 1154.6,
+    "close": 1184,
+    "volume": 2547915107,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1155,
+    "high": 1191,
+    "low": 1136.1,
+    "close": 1183.9,
+    "volume": 2342095125,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1186.3,
+    "high": 1209.9,
+    "low": 1160.5,
+    "close": 1204,
+    "volume": 2552697264,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1200,
+    "high": 1206,
+    "low": 1184.6,
+    "close": 1203,
+    "volume": 2145173234,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1268.3,
+    "high": 1292,
+    "low": 1249.6,
+    "close": 1291,
+    "volume": 5669520392,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1285.7,
+    "high": 1297.4,
+    "low": 1261.2,
+    "close": 1280,
+    "volume": 3483050922,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1290,
+    "high": 1309,
+    "low": 1286.8,
+    "close": 1305,
+    "volume": 3294000193,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1265.3,
+    "high": 1306,
+    "low": 1255.1,
+    "close": 1293,
+    "volume": 2855912570,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1323,
+    "high": 1352,
+    "low": 1318.1,
+    "close": 1340,
+    "volume": 3936394628,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1353.7,
+    "high": 1373.9,
+    "low": 1345,
+    "close": 1370,
+    "volume": 3223647893,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1370,
+    "high": 1399.9,
+    "low": 1367,
+    "close": 1395,
+    "volume": 3354244736,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1394,
+    "high": 1401.1,
+    "low": 1366.1,
+    "close": 1366.3,
+    "volume": 3347328379,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1370,
+    "high": 1375.5,
+    "low": 1355,
+    "close": 1362,
+    "volume": 2244005172,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1360,
+    "high": 1367.2,
+    "low": 1316.1,
+    "close": 1323.5,
+    "volume": 4409929804,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1317,
+    "high": 1335,
+    "low": 1312.6,
+    "close": 1323.8,
+    "volume": 1767286517,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1323.6,
+    "high": 1335.9,
+    "low": 1304.2,
+    "close": 1313,
+    "volume": 1836344103,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1315,
+    "high": 1331.1,
+    "low": 1314.5,
+    "close": 1325.7,
+    "volume": 1435800986,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1324.1,
+    "high": 1332.6,
+    "low": 1318,
+    "close": 1325,
+    "volume": 1640523512,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1331,
+    "high": 1345.5,
+    "low": 1300.2,
+    "close": 1304.8,
+    "volume": 2486303836,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1298,
+    "high": 1298.7,
+    "low": 1268.5,
+    "close": 1273.8,
+    "volume": 3106762977,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1256.2,
+    "high": 1259.9,
+    "low": 1226.1,
+    "close": 1242,
+    "volume": 5883935220,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1230,
+    "high": 1262.8,
+    "low": 1222.1,
+    "close": 1254.6,
+    "volume": 3136752010,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1269,
+    "high": 1288.8,
+    "low": 1256.1,
+    "close": 1287.1,
+    "volume": 4267500873,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1291,
+    "high": 1291,
+    "low": 1267.1,
+    "close": 1270,
+    "volume": 2496634010,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1270,
+    "high": 1274.4,
+    "low": 1250.2,
+    "close": 1261,
+    "volume": 3628340264,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1253.7,
+    "high": 1254,
+    "low": 1224.3,
+    "close": 1229,
+    "volume": 2803623442,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1216,
+    "high": 1225,
+    "low": 1180,
+    "close": 1184,
+    "volume": 3018991072,
+    "symbol": "CDSL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1180.5,
+    "high": 1211,
+    "low": 1178,
+    "close": 1186,
+    "volume": 3163095172,
+    "symbol": "CDSL"
+  }
+]

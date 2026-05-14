@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 3103,
+    "high": 3103.6,
+    "low": 3062,
+    "close": 3095,
+    "volume": 816222082,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 3074,
+    "high": 3107.5,
+    "low": 3055,
+    "close": 3079,
+    "volume": 459452612,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 3099,
+    "high": 3145,
+    "low": 3082.6,
+    "close": 3115.5,
+    "volume": 481860742,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 3105.6,
+    "high": 3170,
+    "low": 3101,
+    "close": 3150,
+    "volume": 577386726,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 3150,
+    "high": 3180.5,
+    "low": 3150,
+    "close": 3155,
+    "volume": 577125559,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 3188,
+    "high": 3188,
+    "low": 3130,
+    "close": 3140,
+    "volume": 578654399,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 3139.6,
+    "high": 3155,
+    "low": 3102.1,
+    "close": 3140,
+    "volume": 672774823,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 3149.9,
+    "high": 3163.5,
+    "low": 3078,
+    "close": 3130,
+    "volume": 1220960593,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 3129.8,
+    "high": 3205.5,
+    "low": 3024.4,
+    "close": 3136.5,
+    "volume": 1997574435,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 3135,
+    "high": 3149,
+    "low": 3061.2,
+    "close": 3065.4,
+    "volume": 730439778,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 3084.2,
+    "high": 3140,
+    "low": 3055,
+    "close": 3085.1,
+    "volume": 545596473,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 3070,
+    "high": 3129.4,
+    "low": 3045,
+    "close": 3078.8,
+    "volume": 583877677,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 3083.8,
+    "high": 3092.9,
+    "low": 3017.6,
+    "close": 3059,
+    "volume": 654815412,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 3040,
+    "high": 3060,
+    "low": 2986.1,
+    "close": 3035,
+    "volume": 667986181,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 3068.3,
+    "high": 3074.9,
+    "low": 2985,
+    "close": 3005,
+    "volume": 625733623,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 3039,
+    "high": 3039,
+    "low": 2936.9,
+    "close": 2963.9,
+    "volume": 1412067614,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2921.7,
+    "high": 2949.4,
+    "low": 2707.7,
+    "close": 2883.2,
+    "volume": 1936118800,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2900.7,
+    "high": 2925,
+    "low": 2770,
+    "close": 2865.3,
+    "volume": 1208840376,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2893.8,
+    "high": 2944,
+    "low": 2862.4,
+    "close": 2910,
+    "volume": 589196932,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2904.7,
+    "high": 2904.7,
+    "low": 2815.9,
+    "close": 2886,
+    "volume": 908715673,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2875,
+    "high": 2944.6,
+    "low": 2835,
+    "close": 2900,
+    "volume": 487010633,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2879.5,
+    "high": 2892,
+    "low": 2827,
+    "close": 2877,
+    "volume": 553992246,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2950,
+    "high": 2973.5,
+    "low": 2893,
+    "close": 2955,
+    "volume": 488221056,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2950,
+    "high": 2976.9,
+    "low": 2921,
+    "close": 2941,
+    "volume": 419544589,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2955.8,
+    "high": 2979.6,
+    "low": 2925.1,
+    "close": 2930.1,
+    "volume": 393497927,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2943.6,
+    "high": 2973.3,
+    "low": 2907.4,
+    "close": 2938,
+    "volume": 369451063,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2945,
+    "high": 2993.2,
+    "low": 2935,
+    "close": 2968,
+    "volume": 475610657,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2969.9,
+    "high": 2980,
+    "low": 2942,
+    "close": 2960,
+    "volume": 544501743,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2975,
+    "high": 3035.8,
+    "low": 2955.3,
+    "close": 3020.6,
+    "volume": 325144886,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 3019.8,
+    "high": 3019.8,
+    "low": 2960,
+    "close": 2991.6,
+    "volume": 374772152,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2986.7,
+    "high": 3007.8,
+    "low": 2928.1,
+    "close": 2980,
+    "volume": 338423800,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 3022.2,
+    "high": 3044.9,
+    "low": 2983.4,
+    "close": 2998.9,
+    "volume": 461538154,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 3020,
+    "high": 3020,
+    "low": 2987,
+    "close": 2995,
+    "volume": 314240960,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 3002,
+    "high": 3020,
+    "low": 2997,
+    "close": 3000,
+    "volume": 204579440,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 3022,
+    "high": 3049,
+    "low": 3008.5,
+    "close": 3028.8,
+    "volume": 399874728,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 3014.1,
+    "high": 3060.7,
+    "low": 3002.2,
+    "close": 3006,
+    "volume": 481076397,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 3037,
+    "high": 3078,
+    "low": 3013,
+    "close": 3064.1,
+    "volume": 458346541,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 3060,
+    "high": 3064,
+    "low": 3010.2,
+    "close": 3046,
+    "volume": 534286341,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 3064.9,
+    "high": 3079.9,
+    "low": 3040.3,
+    "close": 3051,
+    "volume": 504782910,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 3045,
+    "high": 3092,
+    "low": 3045,
+    "close": 3065.1,
+    "volume": 661768997,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 3061,
+    "high": 3097,
+    "low": 3032.8,
+    "close": 3060.5,
+    "volume": 805167696,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 3002.7,
+    "high": 3179.1,
+    "low": 3000,
+    "close": 3137.8,
+    "volume": 830473447,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 3115,
+    "high": 3168.8,
+    "low": 3095,
+    "close": 3141.1,
+    "volume": 565198639,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 3138.7,
+    "high": 3241,
+    "low": 3138.7,
+    "close": 3212,
+    "volume": 642714325,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 3200,
+    "high": 3234.9,
+    "low": 3180,
+    "close": 3206,
+    "volume": 468238800,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 3190,
+    "high": 3205.3,
+    "low": 3110,
+    "close": 3140,
+    "volume": 668848888,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 3171,
+    "high": 3171,
+    "low": 3105,
+    "close": 3145,
+    "volume": 450209088,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 3150,
+    "high": 3177.2,
+    "low": 3110,
+    "close": 3125,
+    "volume": 381292990,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 3125,
+    "high": 3144.9,
+    "low": 3052.6,
+    "close": 3054.9,
+    "volume": 675093800,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 3068,
+    "high": 3076.7,
+    "low": 2992.1,
+    "close": 3025,
+    "volume": 618617276,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 3050,
+    "high": 3083.4,
+    "low": 3011.9,
+    "close": 3070.2,
+    "volume": 752948781,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 3079.6,
+    "high": 3084.1,
+    "low": 3035,
+    "close": 3078.9,
+    "volume": 261480997,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 3082,
+    "high": 3109.9,
+    "low": 3041.6,
+    "close": 3065,
+    "volume": 334372071,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 3040,
+    "high": 3059,
+    "low": 2993.6,
+    "close": 2996,
+    "volume": 349790810,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 3030,
+    "high": 3030,
+    "low": 2903.3,
+    "close": 3021.9,
+    "volume": 1009197463,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 2990,
+    "high": 2990,
+    "low": 2903,
+    "close": 2903,
+    "volume": 425308760,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 2930,
+    "high": 2995,
+    "low": 2930,
+    "close": 2973,
+    "volume": 304740189,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 2985,
+    "high": 3015,
+    "low": 2970,
+    "close": 2992,
+    "volume": 314608898,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 2975,
+    "high": 3078.9,
+    "low": 2962.5,
+    "close": 3015,
+    "volume": 589479127,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 3012,
+    "high": 3071.8,
+    "low": 2955.6,
+    "close": 3010.5,
+    "volume": 364163459,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 3055,
+    "high": 3160,
+    "low": 3050,
+    "close": 3109.5,
+    "volume": 392550936,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 3089.1,
+    "high": 3224,
+    "low": 3052.6,
+    "close": 3200.1,
+    "volume": 874857096,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 3200.1,
+    "high": 3309,
+    "low": 3181,
+    "close": 3299,
+    "volume": 1062788016,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 3299,
+    "high": 3328.5,
+    "low": 3255.5,
+    "close": 3295,
+    "volume": 732329754,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 3355.1,
+    "high": 3410.2,
+    "low": 3320.6,
+    "close": 3408,
+    "volume": 1422062270,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 3429,
+    "high": 3576,
+    "low": 3345,
+    "close": 3559.8,
+    "volume": 5931629187,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 3598,
+    "high": 3603.7,
+    "low": 3450,
+    "close": 3589,
+    "volume": 2415873718,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 3539.9,
+    "high": 3627.8,
+    "low": 3480,
+    "close": 3587.2,
+    "volume": 2248546580,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 3629.9,
+    "high": 3695,
+    "low": 3614,
+    "close": 3650,
+    "volume": 1532673630,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 3654.9,
+    "high": 3677.7,
+    "low": 3569.6,
+    "close": 3640,
+    "volume": 651603481,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 3630,
+    "high": 3735,
+    "low": 3630,
+    "close": 3669,
+    "volume": 968702383,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 3681.4,
+    "high": 3710,
+    "low": 3644,
+    "close": 3659,
+    "volume": 451000235,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 3659,
+    "high": 3663.9,
+    "low": 3617,
+    "close": 3650,
+    "volume": 364852192,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 3630,
+    "high": 3670,
+    "low": 3600,
+    "close": 3622.9,
+    "volume": 401922800,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 3610,
+    "high": 3656.9,
+    "low": 3582.7,
+    "close": 3612,
+    "volume": 370629660,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 3620,
+    "high": 3640.2,
+    "low": 3550,
+    "close": 3569.9,
+    "volume": 858077327,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 3583.2,
+    "high": 3609.8,
+    "low": 3532.7,
+    "close": 3560,
+    "volume": 870927673,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 3558.5,
+    "high": 3640,
+    "low": 3549,
+    "close": 3585,
+    "volume": 614142355,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 3596.2,
+    "high": 3639.1,
+    "low": 3556.8,
+    "close": 3575,
+    "volume": 609563315,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 3600,
+    "high": 3635,
+    "low": 3565.1,
+    "close": 3582.4,
+    "volume": 751545604,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 3620,
+    "high": 3671.9,
+    "low": 3575.1,
+    "close": 3600.5,
+    "volume": 707024276,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 3586,
+    "high": 3647.7,
+    "low": 3586,
+    "close": 3610,
+    "volume": 1124930885,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 3625.6,
+    "high": 3645,
+    "low": 3537.2,
+    "close": 3627.9,
+    "volume": 1547384472,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 3640,
+    "high": 3699,
+    "low": 3608,
+    "close": 3615.8,
+    "volume": 562475064,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 3634,
+    "high": 3634,
+    "low": 3600,
+    "close": 3602.3,
+    "volume": 400433159,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 3581.1,
+    "high": 3605.7,
+    "low": 3560,
+    "close": 3585,
+    "volume": 722574233,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 3580.2,
+    "high": 3616.9,
+    "low": 3480,
+    "close": 3515,
+    "volume": 3108762364,
+    "symbol": "ANANDRATHI"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 3512.2,
+    "high": 3561.8,
+    "low": 3508,
+    "close": 3550.1,
+    "volume": 639927000,
+    "symbol": "ANANDRATHI"
+  }
+]

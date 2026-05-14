@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 846.5,
+    "high": 855,
+    "low": 828.3,
+    "close": 834.95,
+    "volume": 191909505,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 837,
+    "high": 867.65,
+    "low": 835.2,
+    "close": 844.15,
+    "volume": 159465005,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 844,
+    "high": 851.35,
+    "low": 837.2,
+    "close": 846,
+    "volume": 99210765,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 836.5,
+    "high": 848,
+    "low": 830,
+    "close": 832,
+    "volume": 113008114,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 839.5,
+    "high": 841.75,
+    "low": 814.95,
+    "close": 822,
+    "volume": 179321691,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 833,
+    "high": 842,
+    "low": 822,
+    "close": 828,
+    "volume": 120940884,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 828,
+    "high": 837.55,
+    "low": 821.35,
+    "close": 824,
+    "volume": 130980271,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 826.7,
+    "high": 832,
+    "low": 811.9,
+    "close": 819.9,
+    "volume": 150216807,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 823,
+    "high": 832.45,
+    "low": 815.1,
+    "close": 817.8,
+    "volume": 89216109,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 819.9,
+    "high": 853.25,
+    "low": 815,
+    "close": 842,
+    "volume": 207872690,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 844.75,
+    "high": 890.95,
+    "low": 830,
+    "close": 861,
+    "volume": 287203434,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 864.95,
+    "high": 864.95,
+    "low": 831,
+    "close": 837.65,
+    "volume": 130225500,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 837,
+    "high": 846.4,
+    "low": 826,
+    "close": 832.95,
+    "volume": 106041233,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 834.45,
+    "high": 844.75,
+    "low": 824.2,
+    "close": 825,
+    "volume": 68816832,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 825,
+    "high": 828.8,
+    "low": 808,
+    "close": 814.9,
+    "volume": 77562916,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 812.75,
+    "high": 820,
+    "low": 758,
+    "close": 768,
+    "volume": 178920218,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 767.9,
+    "high": 767.9,
+    "low": 703.25,
+    "close": 719.45,
+    "volume": 486928241,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 700,
+    "high": 708.7,
+    "low": 669.3,
+    "close": 677,
+    "volume": 236509244,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 679,
+    "high": 688,
+    "low": 650,
+    "close": 653.1,
+    "volume": 309733149,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 664.95,
+    "high": 733,
+    "low": 661.05,
+    "close": 731,
+    "volume": 638914044,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 733,
+    "high": 768.45,
+    "low": 730.1,
+    "close": 761.7,
+    "volume": 399026781,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 766,
+    "high": 766,
+    "low": 733,
+    "close": 737,
+    "volume": 164611690,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 740,
+    "high": 748,
+    "low": 726.95,
+    "close": 730,
+    "volume": 91528731,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 728,
+    "high": 752,
+    "low": 720.2,
+    "close": 725,
+    "volume": 178273456,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 728,
+    "high": 733,
+    "low": 701.8,
+    "close": 704.55,
+    "volume": 126055239,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 709,
+    "high": 713.1,
+    "low": 686.85,
+    "close": 690,
+    "volume": 97516388,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 695.05,
+    "high": 706.85,
+    "low": 677,
+    "close": 684,
+    "volume": 75215807,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 690,
+    "high": 694.95,
+    "low": 663.1,
+    "close": 667,
+    "volume": 134844907,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 660,
+    "high": 665.35,
+    "low": 642.5,
+    "close": 649.55,
+    "volume": 169462788,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 622,
+    "high": 638.4,
+    "low": 620,
+    "close": 623.2,
+    "volume": 90083345,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 630,
+    "high": 639.95,
+    "low": 610.6,
+    "close": 624,
+    "volume": 121333164,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 628.3,
+    "high": 654.95,
+    "low": 628.3,
+    "close": 633,
+    "volume": 168574358,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 637,
+    "high": 643,
+    "low": 611.6,
+    "close": 613,
+    "volume": 141661498,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 603,
+    "high": 608.95,
+    "low": 583,
+    "close": 586,
+    "volume": 201533623,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 580,
+    "high": 582.85,
+    "low": 560,
+    "close": 561,
+    "volume": 196761925,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 538,
+    "high": 586,
+    "low": 538,
+    "close": 565.45,
+    "volume": 296627010,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 570.1,
+    "high": 575.8,
+    "low": 541,
+    "close": 543,
+    "volume": 143695918,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 533,
+    "high": 533.95,
+    "low": 460,
+    "close": 464.9,
+    "volume": 435355195,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 484.7,
+    "high": 540.5,
+    "low": 482.4,
+    "close": 522.5,
+    "volume": 375212643,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 510,
+    "high": 547.5,
+    "low": 506.1,
+    "close": 537.65,
+    "volume": 411325583,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 530,
+    "high": 556.95,
+    "low": 528,
+    "close": 542.7,
+    "volume": 246517164,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 550,
+    "high": 583.9,
+    "low": 550,
+    "close": 553.9,
+    "volume": 270716714,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 550,
+    "high": 557.4,
+    "low": 539,
+    "close": 539.05,
+    "volume": 174965598,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 522,
+    "high": 527.3,
+    "low": 500,
+    "close": 505,
+    "volume": 118050845,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 503,
+    "high": 517,
+    "low": 493,
+    "close": 497.85,
+    "volume": 115378148,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 509.6,
+    "high": 534.2,
+    "low": 496.95,
+    "close": 525.5,
+    "volume": 232398782,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 537.7,
+    "high": 594,
+    "low": 535.7,
+    "close": 574.5,
+    "volume": 334078984,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 576.45,
+    "high": 581.95,
+    "low": 560.2,
+    "close": 564,
+    "volume": 163772625,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 559,
+    "high": 562.75,
+    "low": 545,
+    "close": 546.7,
+    "volume": 85874378,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 549,
+    "high": 564.75,
+    "low": 536,
+    "close": 553.2,
+    "volume": 162248471,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 564.5,
+    "high": 582.9,
+    "low": 562,
+    "close": 565.25,
+    "volume": 143275469,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 576,
+    "high": 597,
+    "low": 571,
+    "close": 571.75,
+    "volume": 144485302,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 580.35,
+    "high": 580.35,
+    "low": 556,
+    "close": 572,
+    "volume": 130507280,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 573.75,
+    "high": 587.9,
+    "low": 567.1,
+    "close": 574,
+    "volume": 107167486,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 580,
+    "high": 622.2,
+    "low": 577.55,
+    "close": 611,
+    "volume": 470816703,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 609,
+    "high": 636,
+    "low": 603,
+    "close": 615.85,
+    "volume": 206483561,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 624.5,
+    "high": 647.45,
+    "low": 615,
+    "close": 616,
+    "volume": 206254540,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 619.05,
+    "high": 623.45,
+    "low": 581.55,
+    "close": 599.8,
+    "volume": 210185644,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 604.5,
+    "high": 610.65,
+    "low": 585.55,
+    "close": 598.3,
+    "volume": 163304236,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 605.8,
+    "high": 608,
+    "low": 595,
+    "close": 600,
+    "volume": 111482064,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 601,
+    "high": 627.9,
+    "low": 572.6,
+    "close": 574.2,
+    "volume": 206730580,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 584.65,
+    "high": 625.95,
+    "low": 577.65,
+    "close": 622,
+    "volume": 179749118,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 622,
+    "high": 644.85,
+    "low": 622,
+    "close": 630,
+    "volume": 110328521,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 637.75,
+    "high": 660.4,
+    "low": 633.4,
+    "close": 638.6,
+    "volume": 167967751,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 628,
+    "high": 659.8,
+    "low": 625.45,
+    "close": 650,
+    "volume": 107340586,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 651,
+    "high": 661.85,
+    "low": 621.75,
+    "close": 624,
+    "volume": 96035710,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 628,
+    "high": 630.7,
+    "low": 615,
+    "close": 620.2,
+    "volume": 59443865,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 619.6,
+    "high": 634.9,
+    "low": 608.2,
+    "close": 617,
+    "volume": 115994690,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 615.4,
+    "high": 626.85,
+    "low": 603.5,
+    "close": 611.35,
+    "volume": 115535442,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 620,
+    "high": 637,
+    "low": 615.25,
+    "close": 618,
+    "volume": 107731486,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 618,
+    "high": 632.85,
+    "low": 601.55,
+    "close": 627,
+    "volume": 132521207,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 627.1,
+    "high": 643,
+    "low": 625,
+    "close": 629,
+    "volume": 111975657,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 635,
+    "high": 657,
+    "low": 629,
+    "close": 629,
+    "volume": 109978441,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 632,
+    "high": 644,
+    "low": 620.6,
+    "close": 626.7,
+    "volume": 38897037,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 624.95,
+    "high": 659.8,
+    "low": 621.4,
+    "close": 651.1,
+    "volume": 145082416,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 645.55,
+    "high": 645.55,
+    "low": 605.6,
+    "close": 614.9,
+    "volume": 90354114,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 622.95,
+    "high": 643.9,
+    "low": 603.05,
+    "close": 637.9,
+    "volume": 151137193,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 630,
+    "high": 643,
+    "low": 627.8,
+    "close": 632.05,
+    "volume": 101397586,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 642.05,
+    "high": 684.4,
+    "low": 642.05,
+    "close": 646,
+    "volume": 346303105,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 656.3,
+    "high": 657.95,
+    "low": 641.5,
+    "close": 650.4,
+    "volume": 104137212,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 635,
+    "high": 658.9,
+    "low": 631.7,
+    "close": 652,
+    "volume": 72133347,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 658,
+    "high": 671,
+    "low": 616.55,
+    "close": 650,
+    "volume": 100222867,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 640.1,
+    "high": 694.75,
+    "low": 573.55,
+    "close": 668,
+    "volume": 598887172,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 630,
+    "high": 660,
+    "low": 625,
+    "close": 645,
+    "volume": 188099060,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 632.35,
+    "high": 641.25,
+    "low": 604.95,
+    "close": 611.5,
+    "volume": 129712811,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 613,
+    "high": 619.95,
+    "low": 606.15,
+    "close": 608.1,
+    "volume": 49213100,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 600,
+    "high": 619.6,
+    "low": 596.2,
+    "close": 610,
+    "volume": 101266363,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 600.5,
+    "high": 609.7,
+    "low": 585,
+    "close": 588,
+    "volume": 84974202,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 599,
+    "high": 624.9,
+    "low": 585,
+    "close": 588,
+    "volume": 39097024,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 595,
+    "high": 603.9,
+    "low": 571,
+    "close": 573,
+    "volume": 46161832,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 576,
+    "high": 588.55,
+    "low": 576,
+    "close": 581.1,
+    "volume": 29481136,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 588.55,
+    "high": 591.85,
+    "low": 572.2,
+    "close": 574.95,
+    "volume": 23808328,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 564.7,
+    "high": 580,
+    "low": 552.2,
+    "close": 559.1,
+    "volume": 64160908,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 564.45,
+    "high": 584.85,
+    "low": 564.45,
+    "close": 575.7,
+    "volume": 79433562,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 575.7,
+    "high": 598.55,
+    "low": 572.2,
+    "close": 596.9,
+    "volume": 46028523,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 603,
+    "high": 629.7,
+    "low": 597,
+    "close": 607.5,
+    "volume": 181671693,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 611,
+    "high": 618,
+    "low": 570,
+    "close": 577.9,
+    "volume": 38770245,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 586.9,
+    "high": 599.8,
+    "low": 571.3,
+    "close": 597.05,
+    "volume": 37599302,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 596,
+    "high": 622,
+    "low": 596,
+    "close": 620,
+    "volume": 53405413,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 620,
+    "high": 632.1,
+    "low": 615.3,
+    "close": 622,
+    "volume": 49755859,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 619.1,
+    "high": 642.45,
+    "low": 615.85,
+    "close": 618.45,
+    "volume": 59359320,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 622.75,
+    "high": 644.95,
+    "low": 622.25,
+    "close": 636,
+    "volume": 49180452,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 632.6,
+    "high": 641,
+    "low": 622.25,
+    "close": 626,
+    "volume": 26451851,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 629.4,
+    "high": 634.2,
+    "low": 610,
+    "close": 611.25,
+    "volume": 17746924,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 611,
+    "high": 624,
+    "low": 605.7,
+    "close": 623,
+    "volume": 26953255,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 627.9,
+    "high": 628.85,
+    "low": 605,
+    "close": 612,
+    "volume": 34844054,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 614,
+    "high": 642.2,
+    "low": 611.4,
+    "close": 638,
+    "volume": 80136506,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 636,
+    "high": 718,
+    "low": 632.05,
+    "close": 706.9,
+    "volume": 725799877,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 700,
+    "high": 723.75,
+    "low": 685.6,
+    "close": 690,
+    "volume": 509248806,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 675,
+    "high": 692.95,
+    "low": 634.1,
+    "close": 638,
+    "volume": 118726681,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 626.2,
+    "high": 640.65,
+    "low": 609.5,
+    "close": 630.2,
+    "volume": 128314604,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 631.95,
+    "high": 645,
+    "low": 620.05,
+    "close": 630.4,
+    "volume": 76547339,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 638,
+    "high": 646.75,
+    "low": 608.05,
+    "close": 610,
+    "volume": 64162085,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 606,
+    "high": 612.55,
+    "low": 555,
+    "close": 574,
+    "volume": 93664548,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 569,
+    "high": 581,
+    "low": 545.15,
+    "close": 557.2,
+    "volume": 68098381,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 569,
+    "high": 597.25,
+    "low": 565.3,
+    "close": 595,
+    "volume": 48904412,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 588,
+    "high": 592,
+    "low": 570,
+    "close": 574.95,
+    "volume": 24315397,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 572.8,
+    "high": 583,
+    "low": 565.15,
+    "close": 568.9,
+    "volume": 29159862,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 573.95,
+    "high": 593.9,
+    "low": 570.1,
+    "close": 572.6,
+    "volume": 47735281,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 580,
+    "high": 588.15,
+    "low": 574,
+    "close": 581.7,
+    "volume": 81942522,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 572.55,
+    "high": 596,
+    "low": 570.95,
+    "close": 576.35,
+    "volume": 52888100,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 577.9,
+    "high": 578.5,
+    "low": 570.05,
+    "close": 573.5,
+    "volume": 57887276,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 572.3,
+    "high": 602.35,
+    "low": 572.3,
+    "close": 588,
+    "volume": 133967179,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 599.6,
+    "high": 599.6,
+    "low": 580.05,
+    "close": 592,
+    "volume": 37704768,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 590,
+    "high": 600.75,
+    "low": 573,
+    "close": 576.3,
+    "volume": 144760910,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 582.15,
+    "high": 594.05,
+    "low": 579.1,
+    "close": 586.55,
+    "volume": 28629736,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 591,
+    "high": 608.5,
+    "low": 588.35,
+    "close": 600.9,
+    "volume": 37811808,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 612.95,
+    "high": 656.35,
+    "low": 612.95,
+    "close": 650.9,
+    "volume": 229145811,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 655,
+    "high": 689.9,
+    "low": 643,
+    "close": 671,
+    "volume": 326976926,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 669,
+    "high": 684.9,
+    "low": 661,
+    "close": 672.95,
+    "volume": 81279831,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 672,
+    "high": 681,
+    "low": 667.8,
+    "close": 679.5,
+    "volume": 41734409,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 685,
+    "high": 689.1,
+    "low": 666.65,
+    "close": 670.05,
+    "volume": 35472906,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 670.05,
+    "high": 672.3,
+    "low": 640,
+    "close": 643,
+    "volume": 33772149,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 648.05,
+    "high": 652.45,
+    "low": 636,
+    "close": 636,
+    "volume": 32627050,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 643.1,
+    "high": 666,
+    "low": 643.1,
+    "close": 661.9,
+    "volume": 33608973,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 658,
+    "high": 677.5,
+    "low": 656.2,
+    "close": 674.5,
+    "volume": 62048147,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 680,
+    "high": 692,
+    "low": 671.1,
+    "close": 675.15,
+    "volume": 65366003,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 675,
+    "high": 693,
+    "low": 675,
+    "close": 682.25,
+    "volume": 28490011,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 681,
+    "high": 699,
+    "low": 677.65,
+    "close": 692,
+    "volume": 66541202,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 692,
+    "high": 712,
+    "low": 675.05,
+    "close": 677,
+    "volume": 109193780,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 684,
+    "high": 691,
+    "low": 670,
+    "close": 671,
+    "volume": 59062990,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 675,
+    "high": 688,
+    "low": 665.1,
+    "close": 673,
+    "volume": 59063683,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 673.5,
+    "high": 688,
+    "low": 673.5,
+    "close": 676.25,
+    "volume": 19074748,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 677.5,
+    "high": 735.95,
+    "low": 677.5,
+    "close": 690,
+    "volume": 400854224,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 695,
+    "high": 699.9,
+    "low": 671.2,
+    "close": 673.5,
+    "volume": 90298200,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 673,
+    "high": 692.5,
+    "low": 668,
+    "close": 671.05,
+    "volume": 71513509,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 674,
+    "high": 685.6,
+    "low": 668,
+    "close": 672,
+    "volume": 35850980,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 681,
+    "high": 681,
+    "low": 654.05,
+    "close": 658.9,
+    "volume": 151336197,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 662.9,
+    "high": 665.45,
+    "low": 647.05,
+    "close": 647.9,
+    "volume": 36570393,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 649.55,
+    "high": 649.6,
+    "low": 626.4,
+    "close": 631.5,
+    "volume": 44461960,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 632,
+    "high": 640,
+    "low": 624.95,
+    "close": 627.5,
+    "volume": 80870084,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 630,
+    "high": 643.8,
+    "low": 630,
+    "close": 634.1,
+    "volume": 32637615,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 638.9,
+    "high": 641.85,
+    "low": 635,
+    "close": 637,
+    "volume": 20304076,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 641,
+    "high": 645,
+    "low": 635,
+    "close": 635.2,
+    "volume": 21511482,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 640.95,
+    "high": 644.8,
+    "low": 626.75,
+    "close": 630,
+    "volume": 60547276,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 631,
+    "high": 645.5,
+    "low": 626.6,
+    "close": 627.45,
+    "volume": 144236831,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 628.1,
+    "high": 652.75,
+    "low": 613.1,
+    "close": 633,
+    "volume": 233557414,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 614,
+    "high": 649.8,
+    "low": 595,
+    "close": 643,
+    "volume": 235794718,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 643.2,
+    "high": 649.9,
+    "low": 630.55,
+    "close": 632.45,
+    "volume": 81639274,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 638.5,
+    "high": 640.45,
+    "low": 634,
+    "close": 637,
+    "volume": 43371694,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 640,
+    "high": 644.7,
+    "low": 633,
+    "close": 634,
+    "volume": 37085032,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 635,
+    "high": 646.9,
+    "low": 632,
+    "close": 643,
+    "volume": 60893854,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 632.7,
+    "high": 646.5,
+    "low": 632.7,
+    "close": 640,
+    "volume": 37383246,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 640.7,
+    "high": 667,
+    "low": 640,
+    "close": 642.35,
+    "volume": 97624347,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 649.3,
+    "high": 655,
+    "low": 640.85,
+    "close": 645,
+    "volume": 39749132,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 649.7,
+    "high": 652.8,
+    "low": 642.35,
+    "close": 642.35,
+    "volume": 37377068,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 650,
+    "high": 653,
+    "low": 637.05,
+    "close": 641.5,
+    "volume": 27830283,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 646.95,
+    "high": 649.45,
+    "low": 638.9,
+    "close": 645.5,
+    "volume": 27040239,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 645,
+    "high": 649.7,
+    "low": 640.1,
+    "close": 646.6,
+    "volume": 14975204,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 649,
+    "high": 652,
+    "low": 640,
+    "close": 640,
+    "volume": 69041161,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 645,
+    "high": 648,
+    "low": 637,
+    "close": 638.05,
+    "volume": 23631934,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 646.85,
+    "high": 668.8,
+    "low": 645,
+    "close": 664.85,
+    "volume": 100734241,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 668.8,
+    "high": 714,
+    "low": 665,
+    "close": 708.6,
+    "volume": 284754313,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 699,
+    "high": 733,
+    "low": 694.05,
+    "close": 717.5,
+    "volume": 177191763,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 723,
+    "high": 723,
+    "low": 688,
+    "close": 688.3,
+    "volume": 51525640,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 690.3,
+    "high": 707,
+    "low": 670,
+    "close": 699.55,
+    "volume": 62550823,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 686,
+    "high": 695.05,
+    "low": 665,
+    "close": 668.5,
+    "volume": 36651931,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 671.05,
+    "high": 677.85,
+    "low": 660,
+    "close": 663,
+    "volume": 29038408,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 661.55,
+    "high": 672,
+    "low": 650,
+    "close": 655.65,
+    "volume": 37635103,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 668,
+    "high": 668,
+    "low": 647.7,
+    "close": 653.5,
+    "volume": 30478074,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 654.9,
+    "high": 659.3,
+    "low": 638.5,
+    "close": 638.6,
+    "volume": 21789220,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 633,
+    "high": 639.35,
+    "low": 619.5,
+    "close": 620.5,
+    "volume": 34449608,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 625,
+    "high": 631.85,
+    "low": 615.05,
+    "close": 617.95,
+    "volume": 62991060,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 619.15,
+    "high": 626.65,
+    "low": 610,
+    "close": 612,
+    "volume": 17872950,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 622.85,
+    "high": 622.85,
+    "low": 605.15,
+    "close": 613,
+    "volume": 17416052,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 612.9,
+    "high": 620,
+    "low": 610,
+    "close": 613,
+    "volume": 30643424,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 610,
+    "high": 617.3,
+    "low": 601.2,
+    "close": 605,
+    "volume": 18409576,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 608,
+    "high": 615,
+    "low": 608,
+    "close": 612.5,
+    "volume": 13845809,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 614.9,
+    "high": 622.6,
+    "low": 607,
+    "close": 608,
+    "volume": 30527227,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 611,
+    "high": 614.95,
+    "low": 601,
+    "close": 605.65,
+    "volume": 22920268,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 601.15,
+    "high": 616,
+    "low": 601.15,
+    "close": 605.05,
+    "volume": 24958310,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 611.95,
+    "high": 611.95,
+    "low": 602,
+    "close": 602,
+    "volume": 13434661,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 605,
+    "high": 608.2,
+    "low": 592,
+    "close": 596,
+    "volume": 18049950,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 597,
+    "high": 602.05,
+    "low": 588.35,
+    "close": 588.35,
+    "volume": 19200850,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 595,
+    "high": 601,
+    "low": 589,
+    "close": 591.6,
+    "volume": 19271648,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 592,
+    "high": 596.45,
+    "low": 581.95,
+    "close": 583,
+    "volume": 13799277,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 588.8,
+    "high": 588.8,
+    "low": 573.1,
+    "close": 576.5,
+    "volume": 18312437,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 581,
+    "high": 581,
+    "low": 565,
+    "close": 569.95,
+    "volume": 17421808,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 569.95,
+    "high": 589,
+    "low": 559.15,
+    "close": 584.8,
+    "volume": 33113880,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 590,
+    "high": 630,
+    "low": 573.05,
+    "close": 609.5,
+    "volume": 87205610,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 617,
+    "high": 617,
+    "low": 600,
+    "close": 603,
+    "volume": 12447059,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 601,
+    "high": 604.5,
+    "low": 571,
+    "close": 572.85,
+    "volume": 63181190,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 580,
+    "high": 580,
+    "low": 567,
+    "close": 569.5,
+    "volume": 39574646,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 569,
+    "high": 574.6,
+    "low": 544,
+    "close": 549,
+    "volume": 50722283,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 551,
+    "high": 556.7,
+    "low": 542.6,
+    "close": 545.95,
+    "volume": 25673313,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 548,
+    "high": 553.55,
+    "low": 543.05,
+    "close": 546.65,
+    "volume": 30172381,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 548.75,
+    "high": 550.05,
+    "low": 535.05,
+    "close": 538,
+    "volume": 35577189,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 544,
+    "high": 544,
+    "low": 536.2,
+    "close": 538.5,
+    "volume": 22497138,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 542.4,
+    "high": 542.4,
+    "low": 526.15,
+    "close": 527.4,
+    "volume": 37147439,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 530,
+    "high": 530,
+    "low": 515.15,
+    "close": 516.5,
+    "volume": 47352454,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 516.5,
+    "high": 532.9,
+    "low": 499.2,
+    "close": 508.75,
+    "volume": 55159567,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 514,
+    "high": 514,
+    "low": 499,
+    "close": 501.95,
+    "volume": 27722022,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 509.55,
+    "high": 550,
+    "low": 496.6,
+    "close": 517,
+    "volume": 98392623,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 518.6,
+    "high": 518.6,
+    "low": 511,
+    "close": 516,
+    "volume": 28247856,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 518.95,
+    "high": 518.95,
+    "low": 501,
+    "close": 504,
+    "volume": 34464702,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 506,
+    "high": 512.35,
+    "low": 499,
+    "close": 499.6,
+    "volume": 42473334,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 507,
+    "high": 507,
+    "low": 488,
+    "close": 492,
+    "volume": 62794452,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 491.8,
+    "high": 495.35,
+    "low": 489.7,
+    "close": 491,
+    "volume": 29505276,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 490,
+    "high": 493,
+    "low": 485.95,
+    "close": 488,
+    "volume": 24086708,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 493,
+    "high": 493,
+    "low": 481.5,
+    "close": 481.5,
+    "volume": 29155957,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 482,
+    "high": 490,
+    "low": 481,
+    "close": 485,
+    "volume": 31171623,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 486,
+    "high": 504.5,
+    "low": 485.95,
+    "close": 493,
+    "volume": 47641387,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 498.95,
+    "high": 499.2,
+    "low": 490.1,
+    "close": 493.35,
+    "volume": 17219474,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 495.15,
+    "high": 505,
+    "low": 485.4,
+    "close": 489.95,
+    "volume": 78331196,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 493.05,
+    "high": 494.35,
+    "low": 485.55,
+    "close": 487,
+    "volume": 28489606,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 489,
+    "high": 492,
+    "low": 477.95,
+    "close": 480,
+    "volume": 53473263,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 485.3,
+    "high": 492,
+    "low": 479.4,
+    "close": 485.5,
+    "volume": 48321148,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 485.5,
+    "high": 494.4,
+    "low": 483.95,
+    "close": 488.25,
+    "volume": 46800547,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 494.7,
+    "high": 517.95,
+    "low": 490.15,
+    "close": 513.5,
+    "volume": 123305500,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 513,
+    "high": 514.8,
+    "low": 500.05,
+    "close": 503.15,
+    "volume": 34744306,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 508.75,
+    "high": 508.75,
+    "low": 495.05,
+    "close": 499,
+    "volume": 31644523,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 504.9,
+    "high": 504.9,
+    "low": 490,
+    "close": 494.15,
+    "volume": 21812614,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 502.5,
+    "high": 506.1,
+    "low": 488.55,
+    "close": 490,
+    "volume": 31522227,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 493,
+    "high": 499.15,
+    "low": 486.65,
+    "close": 491.45,
+    "volume": 20511249,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 491.45,
+    "high": 499.85,
+    "low": 490,
+    "close": 499,
+    "volume": 26202772,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 502,
+    "high": 511.65,
+    "low": 496.95,
+    "close": 511.65,
+    "volume": 61293793,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 511.5,
+    "high": 514.8,
+    "low": 507.75,
+    "close": 512.05,
+    "volume": 28875465,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 510.1,
+    "high": 510.1,
+    "low": 500.4,
+    "close": 506,
+    "volume": 20423938,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 503,
+    "high": 509.25,
+    "low": 498.05,
+    "close": 499,
+    "volume": 14964583,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 500,
+    "high": 500,
+    "low": 492.35,
+    "close": 494,
+    "volume": 15577600,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 495.65,
+    "high": 497.2,
+    "low": 480.1,
+    "close": 484,
+    "volume": 19327521,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 485.1,
+    "high": 487.95,
+    "low": 466.45,
+    "close": 469.3,
+    "volume": 26160416,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 465,
+    "high": 467.3,
+    "low": 445.05,
+    "close": 449.25,
+    "volume": 36660594,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 452.95,
+    "high": 468,
+    "low": 446.45,
+    "close": 463.3,
+    "volume": 18205654,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 467,
+    "high": 472.7,
+    "low": 458.25,
+    "close": 459.95,
+    "volume": 24691907,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 458.8,
+    "high": 472,
+    "low": 458.55,
+    "close": 465.55,
+    "volume": 22666277,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 472,
+    "high": 472,
+    "low": 460,
+    "close": 461.25,
+    "volume": 20696837,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 466.55,
+    "high": 477.8,
+    "low": 464.7,
+    "close": 466.85,
+    "volume": 19694820,
+    "symbol": "CARTRADE"
+  }
+]

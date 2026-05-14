@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 155,
+    "high": 156.28,
+    "low": 153.55,
+    "close": 154.39,
+    "volume": 2802242497,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 154.9,
+    "high": 155.67,
+    "low": 152.8,
+    "close": 155.54,
+    "volume": 4508796399,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 155.5,
+    "high": 157.6,
+    "low": 153.52,
+    "close": 154.15,
+    "volume": 3009468399,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 154.5,
+    "high": 156.12,
+    "low": 152.6,
+    "close": 154.17,
+    "volume": 2662034819,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 154.1,
+    "high": 156.39,
+    "low": 151.71,
+    "close": 152.9,
+    "volume": 3517288335,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 153.15,
+    "high": 153.8,
+    "low": 149.64,
+    "close": 150.41,
+    "volume": 2624356295,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 150.4,
+    "high": 152.9,
+    "low": 149.21,
+    "close": 150.55,
+    "volume": 2742387833,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 150.55,
+    "high": 151.36,
+    "low": 146.96,
+    "close": 150.2,
+    "volume": 3837870655,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 150.99,
+    "high": 151.59,
+    "low": 149.24,
+    "close": 151.07,
+    "volume": 1997138197,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 151.3,
+    "high": 154.55,
+    "low": 150.4,
+    "close": 154.1,
+    "volume": 3324104992,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 154,
+    "high": 157.72,
+    "low": 153.85,
+    "close": 157.03,
+    "volume": 5501690401,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 157.45,
+    "high": 159.1,
+    "low": 156.05,
+    "close": 156.75,
+    "volume": 3881331875,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 157.5,
+    "high": 159.09,
+    "low": 153.06,
+    "close": 153.62,
+    "volume": 5443556444,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 152.8,
+    "high": 155.49,
+    "low": 149.81,
+    "close": 150.9,
+    "volume": 3700233066,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 152,
+    "high": 155.59,
+    "low": 152,
+    "close": 155,
+    "volume": 2907621012,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 155.7,
+    "high": 156.78,
+    "low": 150.92,
+    "close": 151.8,
+    "volume": 4147949389,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 152.9,
+    "high": 155.45,
+    "low": 152.1,
+    "close": 155,
+    "volume": 3545464693,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 155.49,
+    "high": 158.25,
+    "low": 152.31,
+    "close": 157.8,
+    "volume": 4374140827,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 158,
+    "high": 160.79,
+    "low": 149,
+    "close": 150.69,
+    "volume": 13605984685,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 150.7,
+    "high": 150.7,
+    "low": 146.62,
+    "close": 147.25,
+    "volume": 6427701308,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 145.98,
+    "high": 148.92,
+    "low": 138.01,
+    "close": 139.68,
+    "volume": 3795938948,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 141.05,
+    "high": 146.97,
+    "low": 139,
+    "close": 146.5,
+    "volume": 4662722483,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 152.5,
+    "high": 157.5,
+    "low": 146.88,
+    "close": 147.4,
+    "volume": 6030272565,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 147.5,
+    "high": 148.5,
+    "low": 146,
+    "close": 147.65,
+    "volume": 3891814526,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 148,
+    "high": 149.58,
+    "low": 147.57,
+    "close": 148.12,
+    "volume": 2380743937,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 148,
+    "high": 149.2,
+    "low": 144.86,
+    "close": 147,
+    "volume": 3208427022,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 148.65,
+    "high": 150.37,
+    "low": 147.35,
+    "close": 147.85,
+    "volume": 4623152511,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 148,
+    "high": 148.53,
+    "low": 146.45,
+    "close": 146.85,
+    "volume": 2686877181,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 147.34,
+    "high": 147.34,
+    "low": 144,
+    "close": 145.5,
+    "volume": 4557605625,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 145.5,
+    "high": 145.8,
+    "low": 143.65,
+    "close": 144.7,
+    "volume": 2895357263,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 143.8,
+    "high": 143.8,
+    "low": 141.42,
+    "close": 141.65,
+    "volume": 2010666936,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 141,
+    "high": 146.27,
+    "low": 140.15,
+    "close": 146.1,
+    "volume": 2609006697,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 145.8,
+    "high": 149.9,
+    "low": 144.8,
+    "close": 149.25,
+    "volume": 3595242142,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 149.5,
+    "high": 152.48,
+    "low": 149.38,
+    "close": 151.71,
+    "volume": 4075747718,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 152.14,
+    "high": 152.59,
+    "low": 148.77,
+    "close": 149.05,
+    "volume": 2388345998,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 149.2,
+    "high": 154.5,
+    "low": 148.41,
+    "close": 153.91,
+    "volume": 5462102570,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 155,
+    "high": 157.1,
+    "low": 154.74,
+    "close": 156.34,
+    "volume": 3688186475,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 155.95,
+    "high": 158.1,
+    "low": 155,
+    "close": 157.11,
+    "volume": 4331947723,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 157.49,
+    "high": 159.6,
+    "low": 156.9,
+    "close": 158.99,
+    "volume": 5402251440,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 159.37,
+    "high": 162.89,
+    "low": 156.62,
+    "close": 158.65,
+    "volume": 5963051648,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 158.88,
+    "high": 158.89,
+    "low": 156.6,
+    "close": 157.55,
+    "volume": 3686753559,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 150.3,
+    "high": 156.25,
+    "low": 150.3,
+    "close": 153.89,
+    "volume": 4349330223,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 150,
+    "high": 151.51,
+    "low": 145.52,
+    "close": 146.89,
+    "volume": 5319976639,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 148,
+    "high": 149.7,
+    "low": 145.75,
+    "close": 148.5,
+    "volume": 3616866578,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 147.58,
+    "high": 149.34,
+    "low": 145.6,
+    "close": 146.02,
+    "volume": 3447298422,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 140.15,
+    "high": 141.01,
+    "low": 136.3,
+    "close": 140.25,
+    "volume": 4111784387,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 142.5,
+    "high": 143.85,
+    "low": 140.17,
+    "close": 142.69,
+    "volume": 3088030702,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 143,
+    "high": 143.7,
+    "low": 139.01,
+    "close": 139.3,
+    "volume": 1884575773,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 138.6,
+    "high": 142.86,
+    "low": 136.26,
+    "close": 140.5,
+    "volume": 3047855669,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 139,
+    "high": 139.67,
+    "low": 134.34,
+    "close": 134.75,
+    "volume": 2860551909,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 134.5,
+    "high": 135.38,
+    "low": 131.5,
+    "close": 134.29,
+    "volume": 3829639038,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 135,
+    "high": 136.85,
+    "low": 133.67,
+    "close": 136.59,
+    "volume": 2953609866,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 137.25,
+    "high": 138.38,
+    "low": 136.42,
+    "close": 137.5,
+    "volume": 2476600618,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 133.8,
+    "high": 136.1,
+    "low": 131.9,
+    "close": 133.9,
+    "volume": 2436709597,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 134.5,
+    "high": 139.84,
+    "low": 134.5,
+    "close": 136.4,
+    "volume": 4207822060,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 134,
+    "high": 134,
+    "low": 129.02,
+    "close": 129.48,
+    "volume": 2934685418,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 133,
+    "high": 134.59,
+    "low": 131.55,
+    "close": 133.5,
+    "volume": 2966454456,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 134.8,
+    "high": 137.59,
+    "low": 134.28,
+    "close": 136.6,
+    "volume": 2962034407,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 134.8,
+    "high": 134.85,
+    "low": 129.73,
+    "close": 130.19,
+    "volume": 5796621763,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 127.91,
+    "high": 128.42,
+    "low": 123,
+    "close": 123.65,
+    "volume": 4342669040,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 128.02,
+    "high": 129.5,
+    "low": 126.3,
+    "close": 127.7,
+    "volume": 3732640033,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 124.16,
+    "high": 127.71,
+    "low": 121.79,
+    "close": 127,
+    "volume": 3690476139,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 127.2,
+    "high": 130.99,
+    "low": 125.11,
+    "close": 130.99,
+    "volume": 3403750099,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 129.8,
+    "high": 130.74,
+    "low": 128.4,
+    "close": 129.4,
+    "volume": 2078009341,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 135.98,
+    "high": 139.74,
+    "low": 134.65,
+    "close": 139.38,
+    "volume": 4695117305,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 138.51,
+    "high": 140.55,
+    "low": 137.06,
+    "close": 137.9,
+    "volume": 3161981067,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 139.83,
+    "high": 140.62,
+    "low": 139.04,
+    "close": 140.16,
+    "volume": 2927351984,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 135,
+    "high": 139.34,
+    "low": 134.6,
+    "close": 139,
+    "volume": 2852509717,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 141.7,
+    "high": 143.67,
+    "low": 140.55,
+    "close": 141.43,
+    "volume": 3429438277,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 141.8,
+    "high": 143.22,
+    "low": 139.81,
+    "close": 141.08,
+    "volume": 3630631608,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 141.05,
+    "high": 142.8,
+    "low": 139.88,
+    "close": 142.4,
+    "volume": 1931331187,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 142.8,
+    "high": 144.49,
+    "low": 141.31,
+    "close": 142.75,
+    "volume": 3065137641,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 143.4,
+    "high": 144.95,
+    "low": 142.84,
+    "close": 144.2,
+    "volume": 2071601124,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 143.87,
+    "high": 146.89,
+    "low": 143.13,
+    "close": 145.1,
+    "volume": 2711976317,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 144.5,
+    "high": 144.58,
+    "low": 140.21,
+    "close": 141.1,
+    "volume": 3200237607,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 141.33,
+    "high": 141.86,
+    "low": 138.15,
+    "close": 141.2,
+    "volume": 2643437084,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 141.19,
+    "high": 142.42,
+    "low": 139.81,
+    "close": 140.55,
+    "volume": 1927781028,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 136.27,
+    "high": 138.36,
+    "low": 136.21,
+    "close": 137.4,
+    "volume": 3056206864,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 137.36,
+    "high": 139.5,
+    "low": 136.22,
+    "close": 136.93,
+    "volume": 2509829992,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 136.71,
+    "high": 136.71,
+    "low": 133.46,
+    "close": 134.7,
+    "volume": 2687825125,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 135.34,
+    "high": 137.78,
+    "low": 134.18,
+    "close": 135,
+    "volume": 1547908893,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 134.98,
+    "high": 135.33,
+    "low": 133.13,
+    "close": 134.36,
+    "volume": 1579838400,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 137.23,
+    "high": 138.36,
+    "low": 134.51,
+    "close": 138.05,
+    "volume": 3233438522,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 138.8,
+    "high": 138.9,
+    "low": 135.54,
+    "close": 135.93,
+    "volume": 3458169602,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 135,
+    "high": 135.7,
+    "low": 133.8,
+    "close": 134.13,
+    "volume": 2289254940,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 133.02,
+    "high": 139.4,
+    "low": 128.58,
+    "close": 130.14,
+    "volume": 9496082303,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 127.66,
+    "high": 132.35,
+    "low": 127.43,
+    "close": 130.25,
+    "volume": 3858890603,
+    "symbol": "CANBK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 130.46,
+    "high": 131.2,
+    "low": 127.9,
+    "close": 129.65,
+    "volume": 2818550122,
+    "symbol": "CANBK"
+  }
+]

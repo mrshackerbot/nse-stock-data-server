@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 1210,
+    "high": 1243,
+    "low": 1195,
+    "close": 1213,
+    "volume": 248473994,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 1216,
+    "high": 1219.95,
+    "low": 1176.45,
+    "close": 1187,
+    "volume": 110278323,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 1186.8,
+    "high": 1195.15,
+    "low": 1171.3,
+    "close": 1179.9,
+    "volume": 81533091,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 1166.7,
+    "high": 1175.5,
+    "low": 1155.55,
+    "close": 1159,
+    "volume": 87339058,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 1166.85,
+    "high": 1170.1,
+    "low": 1142.45,
+    "close": 1147.65,
+    "volume": 103074147,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 1155.65,
+    "high": 1167.95,
+    "low": 1144.3,
+    "close": 1149.4,
+    "volume": 98144251,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 1149,
+    "high": 1165,
+    "low": 1145,
+    "close": 1149.95,
+    "volume": 84033296,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 1157.85,
+    "high": 1182,
+    "low": 1101,
+    "close": 1130,
+    "volume": 300578436,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 1134.8,
+    "high": 1161,
+    "low": 1134,
+    "close": 1139,
+    "volume": 129106507,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 1139,
+    "high": 1146,
+    "low": 1133.95,
+    "close": 1139.1,
+    "volume": 98231810,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 1146.1,
+    "high": 1167,
+    "low": 1143,
+    "close": 1163,
+    "volume": 122410191,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 1169,
+    "high": 1176.75,
+    "low": 1144.9,
+    "close": 1151,
+    "volume": 130154814,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 1149.9,
+    "high": 1154.95,
+    "low": 1117.65,
+    "close": 1132.95,
+    "volume": 127814466,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 1050,
+    "high": 1159,
+    "low": 1048.95,
+    "close": 1148,
+    "volume": 872177621,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 1145,
+    "high": 1145,
+    "low": 1105,
+    "close": 1111,
+    "volume": 140647430,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 1110,
+    "high": 1110,
+    "low": 1065,
+    "close": 1079.8,
+    "volume": 168748588,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 1071.95,
+    "high": 1094.85,
+    "low": 1054,
+    "close": 1069.95,
+    "volume": 91183751,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 1060,
+    "high": 1091.95,
+    "low": 1059.5,
+    "close": 1085.75,
+    "volume": 97716919,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 1086.8,
+    "high": 1107.8,
+    "low": 1079.5,
+    "close": 1086,
+    "volume": 72127316,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 1095.3,
+    "high": 1109.3,
+    "low": 1088,
+    "close": 1094,
+    "volume": 53899508,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 1102.4,
+    "high": 1103.25,
+    "low": 1084.2,
+    "close": 1093,
+    "volume": 64634419,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 1082.05,
+    "high": 1097.3,
+    "low": 1082.05,
+    "close": 1096.9,
+    "volume": 52447737,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 1065.1,
+    "high": 1110,
+    "low": 1062.05,
+    "close": 1110,
+    "volume": 188228047,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 1100,
+    "high": 1110.85,
+    "low": 1074.2,
+    "close": 1078,
+    "volume": 91524595,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 1078,
+    "high": 1086.4,
+    "low": 1072.35,
+    "close": 1080,
+    "volume": 53129289,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 1082.5,
+    "high": 1090.25,
+    "low": 1068,
+    "close": 1073,
+    "volume": 42146022,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 1083.55,
+    "high": 1085.2,
+    "low": 1073.1,
+    "close": 1080,
+    "volume": 24248191,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 1085.7,
+    "high": 1087.35,
+    "low": 1060,
+    "close": 1065,
+    "volume": 46602618,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 1058,
+    "high": 1072.95,
+    "low": 1055,
+    "close": 1063,
+    "volume": 47087292,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 1050,
+    "high": 1075,
+    "low": 1015.15,
+    "close": 1055,
+    "volume": 103103179,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 1040,
+    "high": 1047.55,
+    "low": 1018.35,
+    "close": 1032,
+    "volume": 57987748,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 1041.8,
+    "high": 1069.95,
+    "low": 1040,
+    "close": 1041.25,
+    "volume": 81601733,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 1050.8,
+    "high": 1050.95,
+    "low": 1030.1,
+    "close": 1032.05,
+    "volume": 30987104,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 1032.05,
+    "high": 1039.85,
+    "low": 1025,
+    "close": 1027,
+    "volume": 26358387,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 1033.8,
+    "high": 1033.95,
+    "low": 1007.2,
+    "close": 1014,
+    "volume": 35432734,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 988,
+    "high": 1005.65,
+    "low": 975,
+    "close": 993,
+    "volume": 51579349,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 996,
+    "high": 1005,
+    "low": 988.25,
+    "close": 995,
+    "volume": 53502485,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 975.8,
+    "high": 982.8,
+    "low": 936.05,
+    "close": 947.45,
+    "volume": 112169056,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 956,
+    "high": 979.9,
+    "low": 938.05,
+    "close": 977.45,
+    "volume": 60757071,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 965,
+    "high": 984,
+    "low": 958.7,
+    "close": 975,
+    "volume": 57158969,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 968.2,
+    "high": 983.6,
+    "low": 968.2,
+    "close": 976.25,
+    "volume": 36431131,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 983.65,
+    "high": 993.45,
+    "low": 978.6,
+    "close": 979.9,
+    "volume": 62228047,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 976,
+    "high": 1084,
+    "low": 966.05,
+    "close": 1050,
+    "volume": 319150183,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 1032,
+    "high": 1047.95,
+    "low": 990,
+    "close": 1005,
+    "volume": 244709558,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 1011,
+    "high": 1044.9,
+    "low": 975.7,
+    "close": 987,
+    "volume": 136198398,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 994.85,
+    "high": 1008.1,
+    "low": 980,
+    "close": 982,
+    "volume": 119892593,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 1003.8,
+    "high": 1026.7,
+    "low": 995.8,
+    "close": 1006.1,
+    "volume": 93667586,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 1007,
+    "high": 1044,
+    "low": 1000,
+    "close": 1005,
+    "volume": 97034064,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 1013.1,
+    "high": 1017.45,
+    "low": 996,
+    "close": 1002.6,
+    "volume": 46733487,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 1007.4,
+    "high": 1019,
+    "low": 990.6,
+    "close": 1000,
+    "volume": 64978584,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 1012.05,
+    "high": 1017.95,
+    "low": 992,
+    "close": 995.05,
+    "volume": 100074256,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 1004,
+    "high": 1017.8,
+    "low": 996.9,
+    "close": 997,
+    "volume": 132111814,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 1006.45,
+    "high": 1009.75,
+    "low": 984.65,
+    "close": 987,
+    "volume": 118875904,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 987.7,
+    "high": 1000.65,
+    "low": 982,
+    "close": 989.7,
+    "volume": 70027515,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 991.8,
+    "high": 998.8,
+    "low": 973,
+    "close": 975,
+    "volume": 74065882,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 972,
+    "high": 983.9,
+    "low": 967.5,
+    "close": 970.95,
+    "volume": 57260516,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 978,
+    "high": 984.9,
+    "low": 949,
+    "close": 951,
+    "volume": 116197363,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 952.05,
+    "high": 958.8,
+    "low": 925,
+    "close": 934.55,
+    "volume": 90882006,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 936,
+    "high": 955,
+    "low": 925,
+    "close": 936,
+    "volume": 108345005,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 939.75,
+    "high": 952.8,
+    "low": 919.2,
+    "close": 936,
+    "volume": 245536068,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 939.8,
+    "high": 953.95,
+    "low": 930.5,
+    "close": 936,
+    "volume": 112562867,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 933,
+    "high": 961,
+    "low": 933,
+    "close": 950.1,
+    "volume": 97890613,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 954.8,
+    "high": 995.3,
+    "low": 952.95,
+    "close": 984.95,
+    "volume": 125728310,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 993,
+    "high": 1014.9,
+    "low": 986.5,
+    "close": 1000,
+    "volume": 247399141,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 997.25,
+    "high": 1032.4,
+    "low": 995.3,
+    "close": 1019,
+    "volume": 218932880,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 1027.7,
+    "high": 1027.7,
+    "low": 990,
+    "close": 998.5,
+    "volume": 90241270,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 1003.8,
+    "high": 1149,
+    "low": 997.85,
+    "close": 1123,
+    "volume": 1123197449,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 1123,
+    "high": 1150,
+    "low": 1082,
+    "close": 1104,
+    "volume": 687544183,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 1107,
+    "high": 1154.95,
+    "low": 1082,
+    "close": 1126.7,
+    "volume": 579796903,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 1135,
+    "high": 1148,
+    "low": 1101,
+    "close": 1107.8,
+    "volume": 356940335,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 1100.6,
+    "high": 1121.7,
+    "low": 1080.6,
+    "close": 1087.3,
+    "volume": 202129953,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 1096.15,
+    "high": 1121.5,
+    "low": 1080,
+    "close": 1080,
+    "volume": 153266376,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 1096.95,
+    "high": 1126.8,
+    "low": 1093.4,
+    "close": 1115,
+    "volume": 242322700,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 1115,
+    "high": 1168,
+    "low": 1112.6,
+    "close": 1149.4,
+    "volume": 329932664,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 1144.9,
+    "high": 1211,
+    "low": 1131,
+    "close": 1191,
+    "volume": 902757751,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 1176.9,
+    "high": 1199.5,
+    "low": 1142.9,
+    "close": 1195.6,
+    "volume": 192864222,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 1196.6,
+    "high": 1209.95,
+    "low": 1175.25,
+    "close": 1183,
+    "volume": 229406486,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 1184.9,
+    "high": 1207,
+    "low": 1157.05,
+    "close": 1178.45,
+    "volume": 119400893,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 1195.55,
+    "high": 1195.55,
+    "low": 1157,
+    "close": 1159.7,
+    "volume": 67640430,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 1165.1,
+    "high": 1173.8,
+    "low": 1115,
+    "close": 1130.55,
+    "volume": 72439079,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 1119.95,
+    "high": 1137.85,
+    "low": 1111,
+    "close": 1128,
+    "volume": 54758422,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 1128,
+    "high": 1139,
+    "low": 1068.4,
+    "close": 1083.5,
+    "volume": 66453378,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 1100,
+    "high": 1119,
+    "low": 1083,
+    "close": 1093,
+    "volume": 56846080,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 1031,
+    "high": 1137.85,
+    "low": 1030,
+    "close": 1106,
+    "volume": 230778940,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 1080,
+    "high": 1124.5,
+    "low": 1047.4,
+    "close": 1106.05,
+    "volume": 273158302,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 1102,
+    "high": 1118.85,
+    "low": 1080.4,
+    "close": 1101,
+    "volume": 82234520,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 1104,
+    "high": 1109.65,
+    "low": 1046,
+    "close": 1049.9,
+    "volume": 76523030,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 1050,
+    "high": 1050,
+    "low": 991.15,
+    "close": 1005,
+    "volume": 65340171,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 1025.05,
+    "high": 1044.5,
+    "low": 1006.55,
+    "close": 1006.55,
+    "volume": 152582722,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 1036.85,
+    "high": 1050.95,
+    "low": 1012.65,
+    "close": 1021,
+    "volume": 59456757,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 1030,
+    "high": 1068.15,
+    "low": 1025.8,
+    "close": 1054.25,
+    "volume": 61551849,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 1069.35,
+    "high": 1077,
+    "low": 1046.35,
+    "close": 1061,
+    "volume": 43235360,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 1031,
+    "high": 1046.95,
+    "low": 1018,
+    "close": 1024.8,
+    "volume": 42349489,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 1034.25,
+    "high": 1154.95,
+    "low": 1030,
+    "close": 1040.2,
+    "volume": 56376771,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 1055,
+    "high": 1074.5,
+    "low": 1039.15,
+    "close": 1066.5,
+    "volume": 54896183,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 1052.95,
+    "high": 1064.5,
+    "low": 1027,
+    "close": 1038.55,
+    "volume": 50037980,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 1045,
+    "high": 1051.05,
+    "low": 1011.15,
+    "close": 1013,
+    "volume": 33807800,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 1022.1,
+    "high": 1026.5,
+    "low": 997.95,
+    "close": 1005,
+    "volume": 126820571,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 1013.2,
+    "high": 1028.5,
+    "low": 1005.8,
+    "close": 1012.9,
+    "volume": 53100150,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 1018.45,
+    "high": 1038,
+    "low": 1013.55,
+    "close": 1030,
+    "volume": 54901599,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 1030,
+    "high": 1035.65,
+    "low": 1005.85,
+    "close": 1011.5,
+    "volume": 51250544,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 1019,
+    "high": 1025.6,
+    "low": 1007.55,
+    "close": 1016,
+    "volume": 45622082,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 1013.55,
+    "high": 1035,
+    "low": 1000,
+    "close": 1017.55,
+    "volume": 82743790,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 1025.95,
+    "high": 1041.25,
+    "low": 1011.85,
+    "close": 1011.85,
+    "volume": 81343062,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 1011.85,
+    "high": 1019.8,
+    "low": 988.25,
+    "close": 992,
+    "volume": 61296658,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 991.3,
+    "high": 997.75,
+    "low": 968,
+    "close": 982.6,
+    "volume": 61840718,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 983.9,
+    "high": 989.35,
+    "low": 970,
+    "close": 982,
+    "volume": 43148607,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 985,
+    "high": 994.05,
+    "low": 972.8,
+    "close": 979,
+    "volume": 51916349,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 970,
+    "high": 979.2,
+    "low": 966.05,
+    "close": 973,
+    "volume": 28958189,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 960.2,
+    "high": 967.85,
+    "low": 948.4,
+    "close": 950.05,
+    "volume": 30014572,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 950,
+    "high": 963.9,
+    "low": 931.05,
+    "close": 935.55,
+    "volume": 39726692,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 936.95,
+    "high": 943.95,
+    "low": 935.1,
+    "close": 939.7,
+    "volume": 24860080,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 945.3,
+    "high": 962,
+    "low": 910,
+    "close": 919,
+    "volume": 111758878,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 912,
+    "high": 920,
+    "low": 895.25,
+    "close": 899.5,
+    "volume": 54884777,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 903,
+    "high": 913.9,
+    "low": 890,
+    "close": 896,
+    "volume": 69561842,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 903,
+    "high": 908.85,
+    "low": 896.7,
+    "close": 900,
+    "volume": 33420981,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 896,
+    "high": 928,
+    "low": 891.1,
+    "close": 909.8,
+    "volume": 150098058,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 915,
+    "high": 946,
+    "low": 915,
+    "close": 921,
+    "volume": 214514933,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 934.8,
+    "high": 940.7,
+    "low": 921.2,
+    "close": 926.95,
+    "volume": 34532486,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 934.25,
+    "high": 942.8,
+    "low": 922.85,
+    "close": 927.45,
+    "volume": 179578071,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 926,
+    "high": 952,
+    "low": 919.95,
+    "close": 939.9,
+    "volume": 54028763,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 923,
+    "high": 936.55,
+    "low": 922.85,
+    "close": 928.5,
+    "volume": 33225866,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 929,
+    "high": 948.5,
+    "low": 923,
+    "close": 934,
+    "volume": 25810871,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 933,
+    "high": 949,
+    "low": 917.75,
+    "close": 935.55,
+    "volume": 27602062,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 943.85,
+    "high": 954.8,
+    "low": 934.3,
+    "close": 952,
+    "volume": 38752284,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 952.35,
+    "high": 961.6,
+    "low": 948,
+    "close": 948.1,
+    "volume": 30343365,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 954,
+    "high": 1040.9,
+    "low": 952.35,
+    "close": 1023,
+    "volume": 523176940,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 1025.15,
+    "high": 1148.4,
+    "low": 1022.2,
+    "close": 1125,
+    "volume": 599030481,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 1121,
+    "high": 1140,
+    "low": 1086,
+    "close": 1115,
+    "volume": 244771664,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 1113.3,
+    "high": 1189,
+    "low": 1105.75,
+    "close": 1170.9,
+    "volume": 304965832,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 1165,
+    "high": 1212.5,
+    "low": 1141.6,
+    "close": 1205,
+    "volume": 360114233,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 1205,
+    "high": 1225,
+    "low": 1155.75,
+    "close": 1165,
+    "volume": 190850449,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 1170,
+    "high": 1232.55,
+    "low": 1116.05,
+    "close": 1226,
+    "volume": 409151121,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 1225.85,
+    "high": 1241,
+    "low": 1189.95,
+    "close": 1226.5,
+    "volume": 201308365,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 1239.8,
+    "high": 1239.8,
+    "low": 1198.45,
+    "close": 1203,
+    "volume": 84260928,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 1208,
+    "high": 1214.7,
+    "low": 1199,
+    "close": 1200,
+    "volume": 77690967,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 1210,
+    "high": 1210,
+    "low": 1182,
+    "close": 1200,
+    "volume": 63369386,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 1161.3,
+    "high": 1258.7,
+    "low": 1161,
+    "close": 1250,
+    "volume": 316597985,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 1250.8,
+    "high": 1250.8,
+    "low": 1212.8,
+    "close": 1226,
+    "volume": 126188514,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 1230,
+    "high": 1230,
+    "low": 1200,
+    "close": 1200.05,
+    "volume": 79699004,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 1201,
+    "high": 1237,
+    "low": 1200,
+    "close": 1216,
+    "volume": 167398458,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 1217.4,
+    "high": 1229.6,
+    "low": 1205.25,
+    "close": 1210,
+    "volume": 95369957,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 1218.7,
+    "high": 1249.85,
+    "low": 1215.45,
+    "close": 1235.3,
+    "volume": 171238639,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 1245,
+    "high": 1273.8,
+    "low": 1227.6,
+    "close": 1260.5,
+    "volume": 179631548,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 1268,
+    "high": 1298.85,
+    "low": 1253,
+    "close": 1263,
+    "volume": 242490493,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 1250,
+    "high": 1346,
+    "low": 1250,
+    "close": 1323,
+    "volume": 575476965,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 1323.5,
+    "high": 1349.65,
+    "low": 1290,
+    "close": 1342,
+    "volume": 453904458,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 1343,
+    "high": 1349.25,
+    "low": 1311.25,
+    "close": 1330,
+    "volume": 203176436,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 1323.9,
+    "high": 1342.95,
+    "low": 1308,
+    "close": 1325,
+    "volume": 212393456,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 1324.95,
+    "high": 1341,
+    "low": 1319,
+    "close": 1330.5,
+    "volume": 76763814,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 1330.6,
+    "high": 1365,
+    "low": 1324.2,
+    "close": 1345,
+    "volume": 193613825,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 1360,
+    "high": 1361.8,
+    "low": 1338,
+    "close": 1350,
+    "volume": 219664465,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 1351,
+    "high": 1364.5,
+    "low": 1345,
+    "close": 1345,
+    "volume": 78981230,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 1355.1,
+    "high": 1382.9,
+    "low": 1347.95,
+    "close": 1362.95,
+    "volume": 168431595,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 1363.3,
+    "high": 1398,
+    "low": 1363.3,
+    "close": 1375,
+    "volume": 279364466,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 1378,
+    "high": 1391.4,
+    "low": 1366.25,
+    "close": 1370,
+    "volume": 134822892,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 1382,
+    "high": 1384.25,
+    "low": 1367.85,
+    "close": 1370.2,
+    "volume": 124960533,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 1370.55,
+    "high": 1393.9,
+    "low": 1351.65,
+    "close": 1370.05,
+    "volume": 223866656,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 1370,
+    "high": 1385.5,
+    "low": 1354.95,
+    "close": 1385,
+    "volume": 83003240,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 1381,
+    "high": 1406,
+    "low": 1351,
+    "close": 1357.55,
+    "volume": 208849744,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 1372,
+    "high": 1391.1,
+    "low": 1350.2,
+    "close": 1385,
+    "volume": 147348269,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 1394,
+    "high": 1394,
+    "low": 1367,
+    "close": 1380,
+    "volume": 102564106,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 1345.5,
+    "high": 1398,
+    "low": 1342.05,
+    "close": 1386.65,
+    "volume": 201876964,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 1395,
+    "high": 1409,
+    "low": 1381,
+    "close": 1390.45,
+    "volume": 150672684,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 1376,
+    "high": 1435,
+    "low": 1376,
+    "close": 1407.6,
+    "volume": 255365560,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 1415.55,
+    "high": 1432.15,
+    "low": 1390,
+    "close": 1406,
+    "volume": 439479632,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 1416.75,
+    "high": 1429.45,
+    "low": 1375.35,
+    "close": 1398,
+    "volume": 202462042,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 1401.1,
+    "high": 1459,
+    "low": 1392.05,
+    "close": 1426,
+    "volume": 421368030,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 1428.9,
+    "high": 1430.65,
+    "low": 1410.55,
+    "close": 1413,
+    "volume": 107273259,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 1429.65,
+    "high": 1429.65,
+    "low": 1400,
+    "close": 1407.9,
+    "volume": 58427437,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 1415,
+    "high": 1431.35,
+    "low": 1366,
+    "close": 1375,
+    "volume": 149879228,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 1380.55,
+    "high": 1405.05,
+    "low": 1377.9,
+    "close": 1384.75,
+    "volume": 72737831,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 1390.4,
+    "high": 1399,
+    "low": 1376.25,
+    "close": 1392,
+    "volume": 150135676,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 1380,
+    "high": 1394.35,
+    "low": 1371,
+    "close": 1377.75,
+    "volume": 82529193,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 1389,
+    "high": 1661.6,
+    "low": 1389,
+    "close": 1661.6,
+    "volume": 3172684719,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 1700,
+    "high": 1785,
+    "low": 1573.6,
+    "close": 1599.8,
+    "volume": 6038085196,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 1590,
+    "high": 1748,
+    "low": 1545,
+    "close": 1668,
+    "volume": 4939772362,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 1689,
+    "high": 1703.45,
+    "low": 1631.15,
+    "close": 1635.2,
+    "volume": 767677994,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 1641,
+    "high": 1663.05,
+    "low": 1565.05,
+    "close": 1582.35,
+    "volume": 554983474,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 1587,
+    "high": 1623.75,
+    "low": 1552.1,
+    "close": 1618.9,
+    "volume": 499741258,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 1608,
+    "high": 1613.7,
+    "low": 1530,
+    "close": 1540,
+    "volume": 218862993,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 1525,
+    "high": 1615.8,
+    "low": 1487.75,
+    "close": 1585,
+    "volume": 375170778,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 1599,
+    "high": 1614.4,
+    "low": 1535,
+    "close": 1541.55,
+    "volume": 321158199,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 1545,
+    "high": 1574.4,
+    "low": 1511,
+    "close": 1531.1,
+    "volume": 340848845,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 1550,
+    "high": 1564,
+    "low": 1515,
+    "close": 1520,
+    "volume": 123689851,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 1523,
+    "high": 1590,
+    "low": 1512.95,
+    "close": 1572,
+    "volume": 311378645,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 1565,
+    "high": 1602.45,
+    "low": 1548.7,
+    "close": 1570,
+    "volume": 147489010,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 1599,
+    "high": 1614.9,
+    "low": 1544.05,
+    "close": 1565,
+    "volume": 403281105,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 1580.2,
+    "high": 1630,
+    "low": 1577,
+    "close": 1590,
+    "volume": 157979260,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 1591.9,
+    "high": 1595.3,
+    "low": 1561,
+    "close": 1572,
+    "volume": 84510060,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 1562,
+    "high": 1567.95,
+    "low": 1547,
+    "close": 1566,
+    "volume": 70929435,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 1568,
+    "high": 1624.75,
+    "low": 1532.2,
+    "close": 1544.9,
+    "volume": 441544434,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 1560,
+    "high": 1564.6,
+    "low": 1515.5,
+    "close": 1523,
+    "volume": 125317775,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 1529.65,
+    "high": 1532.95,
+    "low": 1472.45,
+    "close": 1481.65,
+    "volume": 142746086,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 1503.5,
+    "high": 1531.05,
+    "low": 1485.05,
+    "close": 1500.45,
+    "volume": 122553022,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 1485,
+    "high": 1521,
+    "low": 1483.3,
+    "close": 1492.05,
+    "volume": 100071960,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 1502.95,
+    "high": 1512,
+    "low": 1483.15,
+    "close": 1492,
+    "volume": 135961147,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 1498.8,
+    "high": 1568.8,
+    "low": 1480.95,
+    "close": 1498.35,
+    "volume": 386819359,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 1495,
+    "high": 1530,
+    "low": 1495,
+    "close": 1520.2,
+    "volume": 149942373,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 1521.1,
+    "high": 1538.1,
+    "low": 1504,
+    "close": 1505.05,
+    "volume": 149053800,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 1521.65,
+    "high": 1530.05,
+    "low": 1510.15,
+    "close": 1514.95,
+    "volume": 15287646,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 1516,
+    "high": 1520,
+    "low": 1485,
+    "close": 1490,
+    "volume": 75566201,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 1500,
+    "high": 1516.4,
+    "low": 1485.05,
+    "close": 1501,
+    "volume": 75668718,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 1512.95,
+    "high": 1544.4,
+    "low": 1503.75,
+    "close": 1519,
+    "volume": 216409045,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 1530,
+    "high": 1559,
+    "low": 1522.25,
+    "close": 1541,
+    "volume": 199972325,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 1549.6,
+    "high": 1572.85,
+    "low": 1545,
+    "close": 1554.95,
+    "volume": 186399790,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 1560.45,
+    "high": 1569.4,
+    "low": 1522,
+    "close": 1528,
+    "volume": 110383165,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 1528,
+    "high": 1528,
+    "low": 1504.05,
+    "close": 1510,
+    "volume": 83898195,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 1509,
+    "high": 1591.4,
+    "low": 1509,
+    "close": 1582,
+    "volume": 289033153,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 1590,
+    "high": 1653.25,
+    "low": 1582.3,
+    "close": 1614,
+    "volume": 462448229,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 1605.5,
+    "high": 1736.85,
+    "low": 1495.05,
+    "close": 1705,
+    "volume": 2655803675,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 1680,
+    "high": 1747.95,
+    "low": 1666.05,
+    "close": 1710,
+    "volume": 1098151257,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 1746,
+    "high": 1746,
+    "low": 1685,
+    "close": 1726,
+    "volume": 236746270,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 1726.7,
+    "high": 1762.6,
+    "low": 1701.65,
+    "close": 1720,
+    "volume": 438235923,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 1720,
+    "high": 1789,
+    "low": 1720,
+    "close": 1750.05,
+    "volume": 782081465,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 1755,
+    "high": 1769.7,
+    "low": 1671.05,
+    "close": 1727,
+    "volume": 231886677,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 1710,
+    "high": 1737.6,
+    "low": 1710,
+    "close": 1719.9,
+    "volume": 120477318,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 1736,
+    "high": 1736,
+    "low": 1695.45,
+    "close": 1711,
+    "volume": 101615098,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 1709.65,
+    "high": 1729,
+    "low": 1676,
+    "close": 1695,
+    "volume": 157429239,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 1703.6,
+    "high": 1779.85,
+    "low": 1689.05,
+    "close": 1776,
+    "volume": 250005931,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 1767.7,
+    "high": 1770.9,
+    "low": 1700,
+    "close": 1703,
+    "volume": 161608331,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 1716,
+    "high": 1744.35,
+    "low": 1706.4,
+    "close": 1730.1,
+    "volume": 166104492,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 1739,
+    "high": 1844.1,
+    "low": 1731.35,
+    "close": 1776,
+    "volume": 1074210437,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 1789,
+    "high": 1943.65,
+    "low": 1776.05,
+    "close": 1929,
+    "volume": 1601518979,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 1934,
+    "high": 1954.6,
+    "low": 1910,
+    "close": 1922,
+    "volume": 1102925807,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 1923,
+    "high": 1932.9,
+    "low": 1863.1,
+    "close": 1870,
+    "volume": 410877866,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 1892.3,
+    "high": 1892.3,
+    "low": 1845.25,
+    "close": 1850,
+    "volume": 248418844,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 1859.95,
+    "high": 1981,
+    "low": 1838.05,
+    "close": 1929,
+    "volume": 1423572264,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 1940,
+    "high": 1947.25,
+    "low": 1882.55,
+    "close": 1897.55,
+    "volume": 274437503,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 1889.95,
+    "high": 1918,
+    "low": 1870,
+    "close": 1882.9,
+    "volume": 216360620,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 1877,
+    "high": 1917.95,
+    "low": 1842.3,
+    "close": 1859,
+    "volume": 230731583,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 1871.35,
+    "high": 1879.9,
+    "low": 1842.8,
+    "close": 1850.15,
+    "volume": 133930020,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 1860,
+    "high": 1905,
+    "low": 1805,
+    "close": 1818,
+    "volume": 289021730,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 1826,
+    "high": 1855,
+    "low": 1803,
+    "close": 1837.95,
+    "volume": 204943321,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 1852,
+    "high": 1878.7,
+    "low": 1831.05,
+    "close": 1861,
+    "volume": 186173940,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 1864,
+    "high": 1874.4,
+    "low": 1826.35,
+    "close": 1829.15,
+    "volume": 112241266,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 1833.95,
+    "high": 1920,
+    "low": 1806,
+    "close": 1870,
+    "volume": 541287951,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 1865.45,
+    "high": 1878.85,
+    "low": 1807.15,
+    "close": 1810,
+    "volume": 226403381,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 1819,
+    "high": 1819,
+    "low": 1753.15,
+    "close": 1786.1,
+    "volume": 229017433,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 1781.55,
+    "high": 1815.9,
+    "low": 1750.5,
+    "close": 1758,
+    "volume": 198581509,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 1771.5,
+    "high": 1820,
+    "low": 1697,
+    "close": 1734.9,
+    "volume": 480130225,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 1760,
+    "high": 1777.65,
+    "low": 1646.9,
+    "close": 1658,
+    "volume": 222465195,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 1657.9,
+    "high": 1657.95,
+    "low": 1511.3,
+    "close": 1550.55,
+    "volume": 233347915,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 1560,
+    "high": 1653.15,
+    "low": 1556.1,
+    "close": 1593,
+    "volume": 399653384,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 1608,
+    "high": 1671.1,
+    "low": 1595.5,
+    "close": 1658,
+    "volume": 342006926,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 1664.95,
+    "high": 1664.95,
+    "low": 1606.95,
+    "close": 1632,
+    "volume": 240872950,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 1638,
+    "high": 1648.5,
+    "low": 1618.05,
+    "close": 1636.7,
+    "volume": 118405693,
+    "symbol": "CEATLTD"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 1647.4,
+    "high": 1673.45,
+    "low": 1632.55,
+    "close": 1647.95,
+    "volume": 92764273,
+    "symbol": "CEATLTD"
+  }
+]

@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1800,
+    "high": 1823.9,
+    "low": 1781,
+    "close": 1806,
+    "volume": 220684354,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1822,
+    "high": 1822,
+    "low": 1768,
+    "close": 1800.2,
+    "volume": 283383079,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1785,
+    "high": 1832,
+    "low": 1785,
+    "close": 1801,
+    "volume": 308565802,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1821.2,
+    "high": 1821.2,
+    "low": 1767.9,
+    "close": 1787,
+    "volume": 350283889,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1775,
+    "high": 1795.9,
+    "low": 1755,
+    "close": 1770,
+    "volume": 179040459,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1771,
+    "high": 1777,
+    "low": 1745,
+    "close": 1754.9,
+    "volume": 212775660,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1736.2,
+    "high": 1775.9,
+    "low": 1736,
+    "close": 1750,
+    "volume": 400866522,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1751,
+    "high": 1751,
+    "low": 1691.2,
+    "close": 1705,
+    "volume": 192613290,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1700,
+    "high": 1703,
+    "low": 1666.8,
+    "close": 1678,
+    "volume": 527834496,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1666.6,
+    "high": 1672.8,
+    "low": 1625.2,
+    "close": 1639,
+    "volume": 509672078,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1599.9,
+    "high": 1625.9,
+    "low": 1586.2,
+    "close": 1615,
+    "volume": 654092697,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1595.4,
+    "high": 1621.3,
+    "low": 1587.3,
+    "close": 1588,
+    "volume": 146640334,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1614,
+    "high": 1627.6,
+    "low": 1589,
+    "close": 1599,
+    "volume": 309510279,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1600.2,
+    "high": 1651.7,
+    "low": 1582.3,
+    "close": 1643.4,
+    "volume": 296217374,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1631.5,
+    "high": 1639,
+    "low": 1594.4,
+    "close": 1627,
+    "volume": 236474889,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1619.8,
+    "high": 1624.5,
+    "low": 1591,
+    "close": 1615,
+    "volume": 131727438,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1592.5,
+    "high": 1614.4,
+    "low": 1564.4,
+    "close": 1580,
+    "volume": 323154112,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1599,
+    "high": 1599,
+    "low": 1523.2,
+    "close": 1535.4,
+    "volume": 541479843,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1545,
+    "high": 1569.7,
+    "low": 1525.1,
+    "close": 1557.8,
+    "volume": 579377235,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1536.1,
+    "high": 1618.1,
+    "low": 1535,
+    "close": 1557,
+    "volume": 522656012,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1560,
+    "high": 1659,
+    "low": 1535,
+    "close": 1563.9,
+    "volume": 182247229,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1582.6,
+    "high": 1590,
+    "low": 1551.1,
+    "close": 1585,
+    "volume": 187844853,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1644.7,
+    "high": 1657.8,
+    "low": 1585,
+    "close": 1635,
+    "volume": 331294807,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1637,
+    "high": 1637,
+    "low": 1594.1,
+    "close": 1610,
+    "volume": 433952005,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1620,
+    "high": 1660,
+    "low": 1581.6,
+    "close": 1620.1,
+    "volume": 426229744,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1627.4,
+    "high": 1729,
+    "low": 1627,
+    "close": 1695.4,
+    "volume": 1183591422,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1711,
+    "high": 1743.3,
+    "low": 1678,
+    "close": 1725,
+    "volume": 256477332,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1734.1,
+    "high": 1735,
+    "low": 1674,
+    "close": 1680,
+    "volume": 389779869,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1683.9,
+    "high": 1697.6,
+    "low": 1665.8,
+    "close": 1682,
+    "volume": 97409910,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1685.3,
+    "high": 1692,
+    "low": 1664,
+    "close": 1687,
+    "volume": 110376841,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1680.2,
+    "high": 1683,
+    "low": 1661.1,
+    "close": 1661.1,
+    "volume": 77726741,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1663.6,
+    "high": 1688.9,
+    "low": 1633,
+    "close": 1682,
+    "volume": 296387409,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1662,
+    "high": 1706,
+    "low": 1655,
+    "close": 1686,
+    "volume": 154912015,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1692,
+    "high": 1713.2,
+    "low": 1690.7,
+    "close": 1703.3,
+    "volume": 268186109,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1700,
+    "high": 1712.3,
+    "low": 1672.1,
+    "close": 1680,
+    "volume": 60950359,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1668,
+    "high": 1692.9,
+    "low": 1652.6,
+    "close": 1692.4,
+    "volume": 96055404,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1695.4,
+    "high": 1705,
+    "low": 1690.5,
+    "close": 1694,
+    "volume": 101221991,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1704.8,
+    "high": 1704.8,
+    "low": 1650,
+    "close": 1656,
+    "volume": 88672399,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1664.7,
+    "high": 1664.7,
+    "low": 1645.1,
+    "close": 1656,
+    "volume": 143923624,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1650,
+    "high": 1668.9,
+    "low": 1650,
+    "close": 1653.1,
+    "volume": 125596215,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1666.7,
+    "high": 1666.7,
+    "low": 1586.3,
+    "close": 1602,
+    "volume": 459386114,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1527.8,
+    "high": 1622.5,
+    "low": 1526.9,
+    "close": 1588.1,
+    "volume": 120638519,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1561.9,
+    "high": 1594.4,
+    "low": 1547.5,
+    "close": 1560,
+    "volume": 186046561,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1582.3,
+    "high": 1616,
+    "low": 1571.2,
+    "close": 1605,
+    "volume": 103564892,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1585.6,
+    "high": 1623.9,
+    "low": 1585.4,
+    "close": 1602.1,
+    "volume": 36755954,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1604.9,
+    "high": 1604.9,
+    "low": 1560.2,
+    "close": 1582.9,
+    "volume": 56986645,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1590,
+    "high": 1607.6,
+    "low": 1570,
+    "close": 1578.9,
+    "volume": 88339751,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1574.8,
+    "high": 1585,
+    "low": 1526.9,
+    "close": 1528,
+    "volume": 83864061,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1513.2,
+    "high": 1536.9,
+    "low": 1501.6,
+    "close": 1515.1,
+    "volume": 70105302,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1505,
+    "high": 1517.8,
+    "low": 1464.5,
+    "close": 1489,
+    "volume": 326744599,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1472.5,
+    "high": 1498.6,
+    "low": 1450,
+    "close": 1488,
+    "volume": 206779223,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1486.4,
+    "high": 1540,
+    "low": 1480,
+    "close": 1538.9,
+    "volume": 199780251,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1540.1,
+    "high": 1599,
+    "low": 1520.6,
+    "close": 1595.6,
+    "volume": 204238048,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1584.3,
+    "high": 1618.6,
+    "low": 1555.4,
+    "close": 1579.4,
+    "volume": 748886592,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1599.8,
+    "high": 1611.1,
+    "low": 1566,
+    "close": 1575,
+    "volume": 601726253,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1553,
+    "high": 1593,
+    "low": 1530.9,
+    "close": 1550.6,
+    "volume": 177477406,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1575.7,
+    "high": 1599.8,
+    "low": 1524.1,
+    "close": 1580.1,
+    "volume": 383205344,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1586,
+    "high": 1605.5,
+    "low": 1576,
+    "close": 1589.9,
+    "volume": 241339129,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1575.2,
+    "high": 1582.5,
+    "low": 1485.7,
+    "close": 1510,
+    "volume": 982892158,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1500,
+    "high": 1534.6,
+    "low": 1482.2,
+    "close": 1485,
+    "volume": 308814353,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1514.7,
+    "high": 1564.7,
+    "low": 1455.1,
+    "close": 1469,
+    "volume": 390778625,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1465,
+    "high": 1518,
+    "low": 1439.3,
+    "close": 1508,
+    "volume": 335199944,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1506.9,
+    "high": 1527,
+    "low": 1506.3,
+    "close": 1517,
+    "volume": 125367786,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1496,
+    "high": 1545.4,
+    "low": 1496,
+    "close": 1520,
+    "volume": 461206510,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1564.7,
+    "high": 1585.9,
+    "low": 1529.1,
+    "close": 1537.6,
+    "volume": 514288003,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1554.7,
+    "high": 1554.8,
+    "low": 1518.8,
+    "close": 1530,
+    "volume": 173975514,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1530.6,
+    "high": 1553.5,
+    "low": 1517.1,
+    "close": 1525.5,
+    "volume": 106682187,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1503.5,
+    "high": 1527,
+    "low": 1482.1,
+    "close": 1514.1,
+    "volume": 202313922,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1529.9,
+    "high": 1566,
+    "low": 1525.1,
+    "close": 1540,
+    "volume": 120028617,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1555,
+    "high": 1560,
+    "low": 1514.5,
+    "close": 1524.1,
+    "volume": 255668556,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1526,
+    "high": 1549,
+    "low": 1526,
+    "close": 1539.9,
+    "volume": 303717483,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1536.1,
+    "high": 1573.8,
+    "low": 1526,
+    "close": 1534,
+    "volume": 401630569,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1534,
+    "high": 1578.5,
+    "low": 1530,
+    "close": 1560.2,
+    "volume": 129735805,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1557.2,
+    "high": 1573.8,
+    "low": 1544.1,
+    "close": 1549.4,
+    "volume": 179642100,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1549,
+    "high": 1575,
+    "low": 1545.6,
+    "close": 1555,
+    "volume": 184294142,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1559.3,
+    "high": 1568.9,
+    "low": 1517.9,
+    "close": 1519.9,
+    "volume": 137488565,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1550,
+    "high": 1559.8,
+    "low": 1491.1,
+    "close": 1499.1,
+    "volume": 598262198,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1490,
+    "high": 1518,
+    "low": 1484.1,
+    "close": 1508.3,
+    "volume": 498396214,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1524,
+    "high": 1550,
+    "low": 1511,
+    "close": 1522,
+    "volume": 994660340,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1525.1,
+    "high": 1525.4,
+    "low": 1489.8,
+    "close": 1517,
+    "volume": 423931451,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1518,
+    "high": 1528.9,
+    "low": 1491,
+    "close": 1496,
+    "volume": 87633203,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1493.5,
+    "high": 1510,
+    "low": 1476,
+    "close": 1484.7,
+    "volume": 162420098,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1498.9,
+    "high": 1530.2,
+    "low": 1485.1,
+    "close": 1515,
+    "volume": 171968587,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1523.5,
+    "high": 1543,
+    "low": 1503,
+    "close": 1516,
+    "volume": 237331169,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1521.6,
+    "high": 1521.6,
+    "low": 1490,
+    "close": 1499.9,
+    "volume": 153721957,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1499.9,
+    "high": 1500,
+    "low": 1453,
+    "close": 1467,
+    "volume": 198782571,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1469,
+    "high": 1480,
+    "low": 1451.5,
+    "close": 1468,
+    "volume": 260586391,
+    "symbol": "BHARTIHEXA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1477.5,
+    "high": 1494.4,
+    "low": 1465.9,
+    "close": 1491,
+    "volume": 99840116,
+    "symbol": "BHARTIHEXA"
+  }
+]

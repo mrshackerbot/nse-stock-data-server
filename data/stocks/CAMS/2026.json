@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 743.15,
+    "high": 744.1,
+    "low": 734,
+    "close": 736.2,
+    "volume": 247420700,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 737,
+    "high": 758,
+    "low": 735.7,
+    "close": 757,
+    "volume": 581544239,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 756.95,
+    "high": 757.1,
+    "low": 745.9,
+    "close": 749.5,
+    "volume": 412991025,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 755,
+    "high": 755,
+    "low": 742.9,
+    "close": 749.75,
+    "volume": 478178829,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 749.75,
+    "high": 765.9,
+    "low": 746.8,
+    "close": 756.5,
+    "volume": 581774240,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 756.8,
+    "high": 761.9,
+    "low": 742.5,
+    "close": 745.4,
+    "volume": 633547058,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 744.7,
+    "high": 747.55,
+    "low": 721.05,
+    "close": 727.4,
+    "volume": 897912390,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 727.3,
+    "high": 728,
+    "low": 703.75,
+    "close": 711.8,
+    "volume": 1184220190,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 715,
+    "high": 715.9,
+    "low": 699,
+    "close": 712.8,
+    "volume": 1060407730,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 712,
+    "high": 734,
+    "low": 711,
+    "close": 721.95,
+    "volume": 807444927,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 721.15,
+    "high": 735.5,
+    "low": 715.1,
+    "close": 727,
+    "volume": 956727539,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 722.25,
+    "high": 728.7,
+    "low": 715.1,
+    "close": 726,
+    "volume": 916429490,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 724,
+    "high": 728.8,
+    "low": 706.3,
+    "close": 712,
+    "volume": 805858982,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 706.5,
+    "high": 714,
+    "low": 686.55,
+    "close": 702.45,
+    "volume": 895436058,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 710.95,
+    "high": 743,
+    "low": 703,
+    "close": 708.8,
+    "volume": 2758883260,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 709.2,
+    "high": 717.95,
+    "low": 675.1,
+    "close": 679.4,
+    "volume": 1389363534,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 685,
+    "high": 711.4,
+    "low": 683.15,
+    "close": 703,
+    "volume": 1173017126,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 698.05,
+    "high": 712.95,
+    "low": 698.05,
+    "close": 712.5,
+    "volume": 602777001,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 711.9,
+    "high": 714,
+    "low": 698.1,
+    "close": 707.6,
+    "volume": 598506651,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 706.75,
+    "high": 706.8,
+    "low": 693,
+    "close": 695,
+    "volume": 540575114,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 695.1,
+    "high": 703,
+    "low": 652.05,
+    "close": 673.05,
+    "volume": 610624242,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 669,
+    "high": 696.95,
+    "low": 662,
+    "close": 693,
+    "volume": 664558632,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 727,
+    "high": 740,
+    "low": 718.7,
+    "close": 726.6,
+    "volume": 1310306252,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 728.45,
+    "high": 738.6,
+    "low": 721.15,
+    "close": 732.05,
+    "volume": 691811211,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 732.05,
+    "high": 733,
+    "low": 721,
+    "close": 730.7,
+    "volume": 376728956,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 727.25,
+    "high": 728.5,
+    "low": 710,
+    "close": 722,
+    "volume": 715897167,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 732.55,
+    "high": 741.65,
+    "low": 725.05,
+    "close": 734,
+    "volume": 922177070,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 739.85,
+    "high": 746.9,
+    "low": 736.45,
+    "close": 741.3,
+    "volume": 590508113,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 744.75,
+    "high": 748.5,
+    "low": 738.8,
+    "close": 746.1,
+    "volume": 417744366,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 743.3,
+    "high": 744.75,
+    "low": 727,
+    "close": 730,
+    "volume": 602267544,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 726,
+    "high": 728.8,
+    "low": 715,
+    "close": 720.1,
+    "volume": 351225971,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 713.95,
+    "high": 738.8,
+    "low": 710.5,
+    "close": 738,
+    "volume": 647184458,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 738,
+    "high": 744.55,
+    "low": 725.8,
+    "close": 733.75,
+    "volume": 401940711,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 735.05,
+    "high": 741.05,
+    "low": 730.1,
+    "close": 734.95,
+    "volume": 400757089,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 736,
+    "high": 737.15,
+    "low": 718,
+    "close": 720.45,
+    "volume": 344289964,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 719.45,
+    "high": 725.4,
+    "low": 715.9,
+    "close": 719,
+    "volume": 293873493,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 724.8,
+    "high": 729.8,
+    "low": 711.2,
+    "close": 718.5,
+    "volume": 447715404,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 714,
+    "high": 717.15,
+    "low": 703,
+    "close": 713,
+    "volume": 442577554,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 709.35,
+    "high": 718.85,
+    "low": 707,
+    "close": 714.55,
+    "volume": 477195805,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 717,
+    "high": 717,
+    "low": 702.1,
+    "close": 707,
+    "volume": 382241140,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 710,
+    "high": 710,
+    "low": 673.6,
+    "close": 674,
+    "volume": 1372033647,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 653.6,
+    "high": 673.65,
+    "low": 641.1,
+    "close": 652.5,
+    "volume": 1776244989,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 640.3,
+    "high": 642,
+    "low": 624.15,
+    "close": 629,
+    "volume": 1963970037,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 639.4,
+    "high": 655.35,
+    "low": 635.45,
+    "close": 655.1,
+    "volume": 3052923155,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 646.15,
+    "high": 661.8,
+    "low": 642.5,
+    "close": 650.7,
+    "volume": 1057180790,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 633.5,
+    "high": 654.95,
+    "low": 625.75,
+    "close": 654.7,
+    "volume": 1749293945,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 663.3,
+    "high": 673.95,
+    "low": 656.95,
+    "close": 671.9,
+    "volume": 1658272188,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 674,
+    "high": 682,
+    "low": 671.9,
+    "close": 677.5,
+    "volume": 1300672259,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 670,
+    "high": 670.8,
+    "low": 655.25,
+    "close": 664.4,
+    "volume": 1050212288,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 657.2,
+    "high": 662.15,
+    "low": 641.7,
+    "close": 644.95,
+    "volume": 571552059,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 644.5,
+    "high": 647.95,
+    "low": 623.25,
+    "close": 637.7,
+    "volume": 1036075248,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 645.5,
+    "high": 645.5,
+    "low": 630.1,
+    "close": 632.75,
+    "volume": 903821318,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 633.9,
+    "high": 660.8,
+    "low": 632.5,
+    "close": 658,
+    "volume": 980208434,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 648.2,
+    "high": 649,
+    "low": 635.1,
+    "close": 642.45,
+    "volume": 631212657,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 645,
+    "high": 652.3,
+    "low": 635.1,
+    "close": 641,
+    "volume": 534733831,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 636,
+    "high": 638.05,
+    "low": 611.4,
+    "close": 624,
+    "volume": 1119025456,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 641.6,
+    "high": 645,
+    "low": 622.5,
+    "close": 636,
+    "volume": 626219617,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 648.1,
+    "high": 656.9,
+    "low": 640.2,
+    "close": 643.95,
+    "volume": 790859463,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 640.9,
+    "high": 651,
+    "low": 635.35,
+    "close": 635.9,
+    "volume": 1295381515,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 625.55,
+    "high": 633.35,
+    "low": 620,
+    "close": 626.15,
+    "volume": 1608795187,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 642,
+    "high": 669.3,
+    "low": 640,
+    "close": 656.5,
+    "volume": 1123571358,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 650,
+    "high": 664.1,
+    "low": 630.45,
+    "close": 658.8,
+    "volume": 1089534567,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 663,
+    "high": 672.8,
+    "low": 646.6,
+    "close": 665.05,
+    "volume": 581622855,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 666,
+    "high": 674.25,
+    "low": 654.7,
+    "close": 674,
+    "volume": 431280963,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 700,
+    "high": 708.6,
+    "low": 690,
+    "close": 707,
+    "volume": 977749753,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 710,
+    "high": 720,
+    "low": 695,
+    "close": 699.7,
+    "volume": 1041226181,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 708,
+    "high": 719.75,
+    "low": 704.6,
+    "close": 717.2,
+    "volume": 555726221,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 700.05,
+    "high": 711.95,
+    "low": 691.65,
+    "close": 706,
+    "volume": 627122296,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 717.15,
+    "high": 729.5,
+    "low": 712.3,
+    "close": 728.8,
+    "volume": 1392558055,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 735,
+    "high": 741.7,
+    "low": 726.6,
+    "close": 738,
+    "volume": 1026474787,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 741,
+    "high": 758,
+    "low": 731.05,
+    "close": 751,
+    "volume": 1702478824,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 751,
+    "high": 752,
+    "low": 735.25,
+    "close": 746.5,
+    "volume": 763583902,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 749.25,
+    "high": 759.9,
+    "low": 745.85,
+    "close": 750,
+    "volume": 875759092,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 744.95,
+    "high": 758.2,
+    "low": 742.95,
+    "close": 755.5,
+    "volume": 627846156,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 750,
+    "high": 778.05,
+    "low": 745.8,
+    "close": 770.1,
+    "volume": 2311213551,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 773,
+    "high": 775.85,
+    "low": 755,
+    "close": 760,
+    "volume": 1112450460,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 762.95,
+    "high": 774.7,
+    "low": 757.4,
+    "close": 760.9,
+    "volume": 886997364,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 760,
+    "high": 769,
+    "low": 750.75,
+    "close": 766,
+    "volume": 1142763359,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 765,
+    "high": 771.95,
+    "low": 758,
+    "close": 760,
+    "volume": 596804354,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 756,
+    "high": 761.75,
+    "low": 725,
+    "close": 740,
+    "volume": 2007551948,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 750,
+    "high": 750.6,
+    "low": 715.5,
+    "close": 733,
+    "volume": 843717494,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 738,
+    "high": 801,
+    "low": 738,
+    "close": 800,
+    "volume": 12256463663,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 808.15,
+    "high": 821.5,
+    "low": 792.45,
+    "close": 816.3,
+    "volume": 3031833312,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 817.95,
+    "high": 838,
+    "low": 813.05,
+    "close": 835,
+    "volume": 1780185350,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 835.9,
+    "high": 844.9,
+    "low": 830.45,
+    "close": 836.5,
+    "volume": 1509811917,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 820.5,
+    "high": 833.4,
+    "low": 812.95,
+    "close": 818.15,
+    "volume": 1319638368,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 809,
+    "high": 818.45,
+    "low": 781.9,
+    "close": 786.95,
+    "volume": 1365769419,
+    "symbol": "CAMS"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 780,
+    "high": 797,
+    "low": 776.8,
+    "close": 789,
+    "volume": 917144287,
+    "symbol": "CAMS"
+  }
+]

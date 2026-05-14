@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1840.1,
+    "high": 1871,
+    "low": 1788,
+    "close": 1808,
+    "volume": 237547720,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1811,
+    "high": 1866,
+    "low": 1802.4,
+    "close": 1848,
+    "volume": 177530125,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1837,
+    "high": 1870,
+    "low": 1830,
+    "close": 1846,
+    "volume": 103227011,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1839,
+    "high": 1852.7,
+    "low": 1827,
+    "close": 1830.2,
+    "volume": 85540378,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1831.2,
+    "high": 1865.9,
+    "low": 1827.1,
+    "close": 1854.8,
+    "volume": 100816508,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1856.6,
+    "high": 1860.1,
+    "low": 1810,
+    "close": 1818.9,
+    "volume": 58493184,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1804,
+    "high": 1831.6,
+    "low": 1792.1,
+    "close": 1810.5,
+    "volume": 130101519,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1810.5,
+    "high": 1813.5,
+    "low": 1764.2,
+    "close": 1798.6,
+    "volume": 101940762,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1812.4,
+    "high": 1836.9,
+    "low": 1805,
+    "close": 1806.2,
+    "volume": 87243015,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1810,
+    "high": 1861.5,
+    "low": 1803.4,
+    "close": 1845,
+    "volume": 79489159,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1833,
+    "high": 1863.5,
+    "low": 1820,
+    "close": 1821,
+    "volume": 73687511,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1820.2,
+    "high": 1829,
+    "low": 1804.1,
+    "close": 1815,
+    "volume": 54670479,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1800.1,
+    "high": 1820.8,
+    "low": 1765,
+    "close": 1777,
+    "volume": 83674721,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1766,
+    "high": 1787.4,
+    "low": 1705,
+    "close": 1721,
+    "volume": 201825085,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1731,
+    "high": 1766.9,
+    "low": 1722,
+    "close": 1734,
+    "volume": 55037218,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1730,
+    "high": 1748.6,
+    "low": 1709.6,
+    "close": 1748.6,
+    "volume": 113504842,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1710,
+    "high": 1740.3,
+    "low": 1672,
+    "close": 1730.1,
+    "volume": 186201391,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1750,
+    "high": 1800,
+    "low": 1732.8,
+    "close": 1753.8,
+    "volume": 84584722,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1744.1,
+    "high": 1770,
+    "low": 1710,
+    "close": 1720,
+    "volume": 90866881,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1710,
+    "high": 1789.9,
+    "low": 1702,
+    "close": 1730.8,
+    "volume": 91893177,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1753,
+    "high": 1819,
+    "low": 1743.7,
+    "close": 1809.9,
+    "volume": 60163966,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1790.1,
+    "high": 1807.9,
+    "low": 1744,
+    "close": 1807.3,
+    "volume": 58743862,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1900,
+    "high": 1918.4,
+    "low": 1814.4,
+    "close": 1889.2,
+    "volume": 129187092,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1891.3,
+    "high": 1920,
+    "low": 1852.5,
+    "close": 1920,
+    "volume": 128912207,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1917,
+    "high": 1939,
+    "low": 1853.2,
+    "close": 1900,
+    "volume": 234319720,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1939,
+    "high": 1939,
+    "low": 1805.3,
+    "close": 1834,
+    "volume": 252751309,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1825.7,
+    "high": 1825.8,
+    "low": 1747.6,
+    "close": 1761.7,
+    "volume": 345960531,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1770,
+    "high": 1770,
+    "low": 1704.4,
+    "close": 1734,
+    "volume": 335402334,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1732.9,
+    "high": 1756.3,
+    "low": 1718.1,
+    "close": 1747,
+    "volume": 94220102,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1750.9,
+    "high": 1755.4,
+    "low": 1726,
+    "close": 1731,
+    "volume": 73085116,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1729.8,
+    "high": 1737.7,
+    "low": 1708.2,
+    "close": 1725,
+    "volume": 66722035,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1730.1,
+    "high": 1741.9,
+    "low": 1710.8,
+    "close": 1717.9,
+    "volume": 55382725,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1716.3,
+    "high": 1738.7,
+    "low": 1710.3,
+    "close": 1722,
+    "volume": 58393344,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1730,
+    "high": 1735.8,
+    "low": 1681.3,
+    "close": 1707.2,
+    "volume": 195562597,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1711.5,
+    "high": 1717.9,
+    "low": 1696,
+    "close": 1699.8,
+    "volume": 47470319,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1700.2,
+    "high": 1705.9,
+    "low": 1681.1,
+    "close": 1693,
+    "volume": 73142906,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1700,
+    "high": 1740,
+    "low": 1685.7,
+    "close": 1739,
+    "volume": 79067975,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1729,
+    "high": 1729.5,
+    "low": 1695,
+    "close": 1713.8,
+    "volume": 101780056,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1730,
+    "high": 1734,
+    "low": 1717.6,
+    "close": 1729,
+    "volume": 36938875,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1727,
+    "high": 1743.1,
+    "low": 1715.2,
+    "close": 1726,
+    "volume": 42772701,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1728.6,
+    "high": 1728.6,
+    "low": 1687.6,
+    "close": 1687.6,
+    "volume": 47483488,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1680,
+    "high": 1685,
+    "low": 1638.3,
+    "close": 1680.1,
+    "volume": 149806597,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1665.4,
+    "high": 1665.9,
+    "low": 1646,
+    "close": 1655,
+    "volume": 93868220,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1650.6,
+    "high": 1669.4,
+    "low": 1617.4,
+    "close": 1662.6,
+    "volume": 182432903,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1657.1,
+    "high": 1682.2,
+    "low": 1635.4,
+    "close": 1665,
+    "volume": 139646504,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1654,
+    "high": 1679.7,
+    "low": 1618.9,
+    "close": 1669.2,
+    "volume": 143671694,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1689.9,
+    "high": 1690,
+    "low": 1665.6,
+    "close": 1690,
+    "volume": 72678142,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1689,
+    "high": 1710,
+    "low": 1683,
+    "close": 1685,
+    "volume": 91654408,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1686.5,
+    "high": 1697.5,
+    "low": 1660,
+    "close": 1684.8,
+    "volume": 84291656,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1690,
+    "high": 1690,
+    "low": 1656,
+    "close": 1659.7,
+    "volume": 107959054,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1650,
+    "high": 1662,
+    "low": 1624.5,
+    "close": 1632,
+    "volume": 133150692,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1649.9,
+    "high": 1650,
+    "low": 1624.9,
+    "close": 1634.8,
+    "volume": 83430233,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1635,
+    "high": 1679,
+    "low": 1635,
+    "close": 1641,
+    "volume": 137463578,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1634.2,
+    "high": 1639,
+    "low": 1614.2,
+    "close": 1622,
+    "volume": 82263686,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1631,
+    "high": 1648,
+    "low": 1600,
+    "close": 1609.9,
+    "volume": 105456481,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1600,
+    "high": 1604.1,
+    "low": 1555.2,
+    "close": 1563.5,
+    "volume": 159438824,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1604,
+    "high": 1604,
+    "low": 1558.6,
+    "close": 1594,
+    "volume": 112504924,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1591.8,
+    "high": 1630,
+    "low": 1582.2,
+    "close": 1595,
+    "volume": 172441228,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1595.6,
+    "high": 1605.2,
+    "low": 1549,
+    "close": 1558.7,
+    "volume": 156817103,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1548,
+    "high": 1561.8,
+    "low": 1500.3,
+    "close": 1501,
+    "volume": 226991111,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1565,
+    "high": 1593.1,
+    "low": 1544.1,
+    "close": 1572.2,
+    "volume": 114422229,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1570.1,
+    "high": 1572,
+    "low": 1508,
+    "close": 1572,
+    "volume": 100771902,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1582.5,
+    "high": 1589.9,
+    "low": 1545.6,
+    "close": 1571,
+    "volume": 98002410,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1571,
+    "high": 1627,
+    "low": 1545.5,
+    "close": 1606.6,
+    "volume": 211235393,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1674.8,
+    "high": 1674.8,
+    "low": 1623.5,
+    "close": 1663,
+    "volume": 281756372,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1662,
+    "high": 1689.9,
+    "low": 1644.5,
+    "close": 1657,
+    "volume": 113267191,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1662,
+    "high": 1710,
+    "low": 1650.3,
+    "close": 1708,
+    "volume": 162276838,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1700,
+    "high": 1710.9,
+    "low": 1649,
+    "close": 1685,
+    "volume": 126552665,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1698.5,
+    "high": 1753,
+    "low": 1688.9,
+    "close": 1720,
+    "volume": 400976589,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1749,
+    "high": 1770,
+    "low": 1736.1,
+    "close": 1769,
+    "volume": 189025657,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1764.9,
+    "high": 1799.8,
+    "low": 1755,
+    "close": 1763,
+    "volume": 264307572,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1771,
+    "high": 1775,
+    "low": 1740,
+    "close": 1745.9,
+    "volume": 97247943,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1759.9,
+    "high": 1768,
+    "low": 1740,
+    "close": 1750,
+    "volume": 86476121,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1748.8,
+    "high": 1760.5,
+    "low": 1735,
+    "close": 1753.1,
+    "volume": 78190067,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1752.5,
+    "high": 1785,
+    "low": 1747.9,
+    "close": 1771,
+    "volume": 113560228,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1777.5,
+    "high": 1783,
+    "low": 1715,
+    "close": 1715.8,
+    "volume": 123704856,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1719.5,
+    "high": 1764.9,
+    "low": 1706.6,
+    "close": 1759,
+    "volume": 147009152,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1761.1,
+    "high": 1761.1,
+    "low": 1727,
+    "close": 1729,
+    "volume": 125384198,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1732.2,
+    "high": 1741.2,
+    "low": 1713.5,
+    "close": 1720.1,
+    "volume": 84016138,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1720.1,
+    "high": 1725,
+    "low": 1678.4,
+    "close": 1705,
+    "volume": 95584966,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1710.5,
+    "high": 1765.3,
+    "low": 1710.5,
+    "close": 1741.6,
+    "volume": 132399833,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1733,
+    "high": 1775,
+    "low": 1728,
+    "close": 1728,
+    "volume": 217016594,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1753,
+    "high": 1849.9,
+    "low": 1753,
+    "close": 1845.4,
+    "volume": 459074559,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1845,
+    "high": 1885,
+    "low": 1840.1,
+    "close": 1861,
+    "volume": 233000075,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1870,
+    "high": 1870.6,
+    "low": 1845.5,
+    "close": 1856,
+    "volume": 101243410,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1850,
+    "high": 1876.7,
+    "low": 1820.6,
+    "close": 1848,
+    "volume": 99380220,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1835,
+    "high": 1854.8,
+    "low": 1801.6,
+    "close": 1825,
+    "volume": 127862507,
+    "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1840,
+    "high": 1867,
+    "low": 1815.2,
+    "close": 1831,
+    "volume": 120319470,
+    "symbol": "CAPLIPOINT"
+  }
+]

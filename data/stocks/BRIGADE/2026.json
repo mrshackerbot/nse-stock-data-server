@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 885.95,
+    "high": 900,
+    "low": 875.8,
+    "close": 895,
+    "volume": 71678799,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 897.95,
+    "high": 900,
+    "low": 881.2,
+    "close": 890.45,
+    "volume": 162643190,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 891,
+    "high": 905,
+    "low": 883.35,
+    "close": 900.4,
+    "volume": 238059702,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 902.05,
+    "high": 903.5,
+    "low": 886.6,
+    "close": 890.3,
+    "volume": 319046000,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 891.25,
+    "high": 904.4,
+    "low": 881.1,
+    "close": 883.7,
+    "volume": 360228650,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 882,
+    "high": 895.75,
+    "low": 865.05,
+    "close": 872,
+    "volume": 211300246,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 865,
+    "high": 868.95,
+    "low": 845.65,
+    "close": 855,
+    "volume": 262458911,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 855.05,
+    "high": 879.75,
+    "low": 838.5,
+    "close": 875,
+    "volume": 294285507,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 870,
+    "high": 873.15,
+    "low": 848,
+    "close": 856,
+    "volume": 342986462,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 851,
+    "high": 860,
+    "low": 839.1,
+    "close": 842.5,
+    "volume": 377809699,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 844.1,
+    "high": 846.4,
+    "low": 828.6,
+    "close": 840,
+    "volume": 317305583,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 829.75,
+    "high": 831.8,
+    "low": 799.4,
+    "close": 807,
+    "volume": 915343314,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 807,
+    "high": 811.95,
+    "low": 782.5,
+    "close": 786,
+    "volume": 351877839,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 780,
+    "high": 793.5,
+    "low": 767,
+    "close": 773.1,
+    "volume": 689973335,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 773.3,
+    "high": 783,
+    "low": 769.5,
+    "close": 783,
+    "volume": 548550928,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 780.5,
+    "high": 787.6,
+    "low": 751.1,
+    "close": 764.8,
+    "volume": 1068496196,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 764.2,
+    "high": 765.65,
+    "low": 733.35,
+    "close": 738.1,
+    "volume": 752057108,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 733,
+    "high": 747.35,
+    "low": 728.1,
+    "close": 736,
+    "volume": 190589538,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 743.8,
+    "high": 743.8,
+    "low": 717.75,
+    "close": 732.5,
+    "volume": 304220183,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 732.2,
+    "high": 757.15,
+    "low": 721.6,
+    "close": 754.6,
+    "volume": 374777718,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 755,
+    "high": 758.7,
+    "low": 735.05,
+    "close": 741,
+    "volume": 67208534,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 735.05,
+    "high": 749.4,
+    "low": 717.95,
+    "close": 738.4,
+    "volume": 352625655,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 755.9,
+    "high": 786.5,
+    "low": 753.9,
+    "close": 778,
+    "volume": 552756775,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 782,
+    "high": 799.9,
+    "low": 767.5,
+    "close": 788.2,
+    "volume": 161026544,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 787.5,
+    "high": 787.95,
+    "low": 763,
+    "close": 768,
+    "volume": 332019332,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 766.1,
+    "high": 779.55,
+    "low": 754.95,
+    "close": 764.95,
+    "volume": 244442210,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 767.9,
+    "high": 811.5,
+    "low": 767.9,
+    "close": 805,
+    "volume": 278949741,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 811.3,
+    "high": 811.7,
+    "low": 791.3,
+    "close": 800,
+    "volume": 187272950,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 800,
+    "high": 806.55,
+    "low": 794.05,
+    "close": 802,
+    "volume": 58944223,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 801,
+    "high": 801.1,
+    "low": 780.9,
+    "close": 793,
+    "volume": 127586594,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 787.1,
+    "high": 792.55,
+    "low": 757,
+    "close": 762.75,
+    "volume": 179921596,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 756,
+    "high": 760,
+    "low": 743.7,
+    "close": 745,
+    "volume": 363718764,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 745.2,
+    "high": 752.5,
+    "low": 740,
+    "close": 743,
+    "volume": 153089789,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 743,
+    "high": 744.4,
+    "low": 732.1,
+    "close": 737.75,
+    "volume": 375912781,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 741.3,
+    "high": 744,
+    "low": 736.1,
+    "close": 740,
+    "volume": 367470676,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 740.1,
+    "high": 742.45,
+    "low": 731.6,
+    "close": 740.8,
+    "volume": 132829556,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 740.85,
+    "high": 755,
+    "low": 739.45,
+    "close": 754.05,
+    "volume": 143582165,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 744.6,
+    "high": 753.25,
+    "low": 727.25,
+    "close": 730,
+    "volume": 146341298,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 733,
+    "high": 735.45,
+    "low": 705,
+    "close": 717.85,
+    "volume": 250342765,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 718.1,
+    "high": 731.9,
+    "low": 714.15,
+    "close": 717,
+    "volume": 83129655,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 722.5,
+    "high": 728.4,
+    "low": 685,
+    "close": 700,
+    "volume": 848572188,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 680,
+    "high": 696.45,
+    "low": 668.15,
+    "close": 683,
+    "volume": 369523825,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 668.15,
+    "high": 671.2,
+    "low": 649.05,
+    "close": 656,
+    "volume": 241484887,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 659,
+    "high": 676.05,
+    "low": 658.6,
+    "close": 675,
+    "volume": 193970754,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 666,
+    "high": 678.6,
+    "low": 661.75,
+    "close": 669.55,
+    "volume": 275531120,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 650,
+    "high": 671,
+    "low": 641.95,
+    "close": 670,
+    "volume": 142353569,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 667.8,
+    "high": 674.25,
+    "low": 653.15,
+    "close": 674,
+    "volume": 101760121,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 680,
+    "high": 689.85,
+    "low": 669.05,
+    "close": 670.9,
+    "volume": 174283127,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 664.65,
+    "high": 680,
+    "low": 650.25,
+    "close": 664,
+    "volume": 161006400,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 653.3,
+    "high": 661.45,
+    "low": 646.65,
+    "close": 655,
+    "volume": 124180952,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 650,
+    "high": 659.55,
+    "low": 633.15,
+    "close": 645.1,
+    "volume": 148267793,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 648,
+    "high": 653.95,
+    "low": 637.75,
+    "close": 650.25,
+    "volume": 250925983,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 649.25,
+    "high": 694.95,
+    "low": 649.25,
+    "close": 688,
+    "volume": 250656673,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 676.05,
+    "high": 676.05,
+    "low": 640.6,
+    "close": 659,
+    "volume": 113448502,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 658.95,
+    "high": 666,
+    "low": 640.05,
+    "close": 652,
+    "volume": 136986519,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 643.9,
+    "high": 643.9,
+    "low": 601,
+    "close": 632.8,
+    "volume": 129487536,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 647.4,
+    "high": 650,
+    "low": 630.3,
+    "close": 646,
+    "volume": 143554065,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 653.95,
+    "high": 675.3,
+    "low": 650.2,
+    "close": 668,
+    "volume": 224863045,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 675,
+    "high": 752.95,
+    "low": 672,
+    "close": 683,
+    "volume": 16701460845,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 677.35,
+    "high": 677.35,
+    "low": 645,
+    "close": 651.7,
+    "volume": 1187874342,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 673,
+    "high": 675.95,
+    "low": 653,
+    "close": 672.1,
+    "volume": 307322977,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 657.2,
+    "high": 694.4,
+    "low": 645.75,
+    "close": 680,
+    "volume": 262451005,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 688,
+    "high": 694.8,
+    "low": 673.45,
+    "close": 692.35,
+    "volume": 139819264,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 693,
+    "high": 702.95,
+    "low": 682,
+    "close": 687.95,
+    "volume": 146542692,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 720,
+    "high": 735,
+    "low": 703.2,
+    "close": 722,
+    "volume": 717306657,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 721.45,
+    "high": 721.45,
+    "low": 698,
+    "close": 700,
+    "volume": 442140719,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 704.6,
+    "high": 728.85,
+    "low": 704.6,
+    "close": 724,
+    "volume": 436713576,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 703.45,
+    "high": 752.2,
+    "low": 693,
+    "close": 746,
+    "volume": 363729418,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 759.95,
+    "high": 761.3,
+    "low": 736.2,
+    "close": 741,
+    "volume": 1150883272,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 783.55,
+    "high": 787.45,
+    "low": 732.4,
+    "close": 735.7,
+    "volume": 1604816448,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 742.75,
+    "high": 769.45,
+    "low": 738.25,
+    "close": 758.5,
+    "volume": 621616111,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 761.25,
+    "high": 780,
+    "low": 746,
+    "close": 775.1,
+    "volume": 308414327,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 779.2,
+    "high": 798.8,
+    "low": 776.95,
+    "close": 790.35,
+    "volume": 246689130,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 797.4,
+    "high": 803.55,
+    "low": 787.2,
+    "close": 795,
+    "volume": 188957482,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 797.2,
+    "high": 798,
+    "low": 777.1,
+    "close": 785,
+    "volume": 127898721,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 785,
+    "high": 786.5,
+    "low": 764.1,
+    "close": 775,
+    "volume": 100497309,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 777.2,
+    "high": 797,
+    "low": 777.2,
+    "close": 788,
+    "volume": 75011178,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 791.4,
+    "high": 814,
+    "low": 788.35,
+    "close": 798.2,
+    "volume": 307298728,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 804.65,
+    "high": 808.45,
+    "low": 794.35,
+    "close": 796,
+    "volume": 128992014,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 802.2,
+    "high": 807.5,
+    "low": 782,
+    "close": 786.3,
+    "volume": 176194106,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 798,
+    "high": 807.8,
+    "low": 789.1,
+    "close": 789.1,
+    "volume": 213930486,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 794,
+    "high": 809.8,
+    "low": 775.15,
+    "close": 790.15,
+    "volume": 213395055,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 804.25,
+    "high": 816,
+    "low": 795,
+    "close": 806,
+    "volume": 303086248,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 792.5,
+    "high": 798,
+    "low": 767.35,
+    "close": 769.85,
+    "volume": 586415001,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 773.15,
+    "high": 777,
+    "low": 756.25,
+    "close": 760.25,
+    "volume": 223670169,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 762.6,
+    "high": 762.6,
+    "low": 740.2,
+    "close": 748.8,
+    "volume": 351268884,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 749.5,
+    "high": 749.5,
+    "low": 715.6,
+    "close": 715.6,
+    "volume": 293506325,
+    "symbol": "BRIGADE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 718,
+    "high": 729.7,
+    "low": 688,
+    "close": 696,
+    "volume": 242767662,
+    "symbol": "BRIGADE"
+  }
+]

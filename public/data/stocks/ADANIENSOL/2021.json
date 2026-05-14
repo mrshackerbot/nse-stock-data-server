@@ -1,0 +1,983 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 438.9,
+    "high": 440.95,
+    "low": 431,
+    "close": 434.7,
+    "volume": 106674975,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 437.25,
+    "high": 445.45,
+    "low": 435.1,
+    "close": 441,
+    "volume": 200513086,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 441,
+    "high": 443.9,
+    "low": 436,
+    "close": 438.55,
+    "volume": 175396059,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 441,
+    "high": 459.8,
+    "low": 437.7,
+    "close": 452,
+    "volume": 719935241,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 457,
+    "high": 462.3,
+    "low": 451.6,
+    "close": 454,
+    "volume": 624026459,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 456.7,
+    "high": 460,
+    "low": 452.5,
+    "close": 454.9,
+    "volume": 161457446,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 458.6,
+    "high": 464.4,
+    "low": 441,
+    "close": 449,
+    "volume": 239394509,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 449.7,
+    "high": 457.9,
+    "low": 447.15,
+    "close": 448.45,
+    "volume": 146219387,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 450,
+    "high": 454.15,
+    "low": 441.5,
+    "close": 448,
+    "volume": 130247790,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 449.1,
+    "high": 455,
+    "low": 432.95,
+    "close": 442.85,
+    "volume": 189965440,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 445.95,
+    "high": 447.9,
+    "low": 428,
+    "close": 432.6,
+    "volume": 115958923,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 433.4,
+    "high": 433.4,
+    "low": 397.15,
+    "close": 405.8,
+    "volume": 217688385,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 410,
+    "high": 423.4,
+    "low": 406,
+    "close": 420,
+    "volume": 181425673,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 421.7,
+    "high": 458,
+    "low": 418.1,
+    "close": 456.75,
+    "volume": 1115274621,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 458.35,
+    "high": 478,
+    "low": 448,
+    "close": 472,
+    "volume": 891445755,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 475.1,
+    "high": 486,
+    "low": 462.65,
+    "close": 479.35,
+    "volume": 683391903,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 486,
+    "high": 489.4,
+    "low": 465,
+    "close": 470,
+    "volume": 348364575,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 468.35,
+    "high": 487.45,
+    "low": 461,
+    "close": 465.35,
+    "volume": 282986711,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 458,
+    "high": 475.85,
+    "low": 448.35,
+    "close": 459.3,
+    "volume": 242659170,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 463.9,
+    "high": 473.1,
+    "low": 453,
+    "close": 461.95,
+    "volume": 156664640,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 465.55,
+    "high": 492,
+    "low": 456.9,
+    "close": 480,
+    "volume": 302375553,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 488.3,
+    "high": 498.7,
+    "low": 472.5,
+    "close": 491,
+    "volume": 387718618,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 494.5,
+    "high": 511.7,
+    "low": 482.25,
+    "close": 505,
+    "volume": 362160339,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 505.9,
+    "high": 525,
+    "low": 503.15,
+    "close": 516,
+    "volume": 442409435,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 531,
+    "high": 544.95,
+    "low": 517.55,
+    "close": 532,
+    "volume": 706660072,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 530.25,
+    "high": 590,
+    "low": 530.25,
+    "close": 564,
+    "volume": 686398648,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 570,
+    "high": 583.75,
+    "low": 561,
+    "close": 565.65,
+    "volume": 404965762,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 565.65,
+    "high": 572.8,
+    "low": 556.1,
+    "close": 564.2,
+    "volume": 214695965,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 564,
+    "high": 592.9,
+    "low": 559.3,
+    "close": 589,
+    "volume": 397949493,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 593.5,
+    "high": 632.9,
+    "low": 589.15,
+    "close": 627,
+    "volume": 1487203648,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 629.1,
+    "high": 706,
+    "low": 629.1,
+    "close": 688.2,
+    "volume": 3582558764,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 690,
+    "high": 787.7,
+    "low": 689,
+    "close": 766,
+    "volume": 3418910796,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 767,
+    "high": 820,
+    "low": 712,
+    "close": 756,
+    "volume": 4555662613,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 768,
+    "high": 798.9,
+    "low": 720,
+    "close": 787,
+    "volume": 2061193657,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 790,
+    "high": 792,
+    "low": 720,
+    "close": 768,
+    "volume": 1349214699,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 770,
+    "high": 776.45,
+    "low": 745,
+    "close": 762,
+    "volume": 727217590,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 762,
+    "high": 766.95,
+    "low": 721,
+    "close": 735,
+    "volume": 602563464,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 740,
+    "high": 758.9,
+    "low": 687,
+    "close": 745,
+    "volume": 532024936,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 749.9,
+    "high": 758,
+    "low": 735.5,
+    "close": 740.7,
+    "volume": 377166156,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 734,
+    "high": 769.85,
+    "low": 721,
+    "close": 749.95,
+    "volume": 618485810,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 757.7,
+    "high": 768,
+    "low": 736.9,
+    "close": 759.6,
+    "volume": 296897232,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 763,
+    "high": 797.4,
+    "low": 753.55,
+    "close": 785.95,
+    "volume": 590602653,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 788.85,
+    "high": 852.55,
+    "low": 782.25,
+    "close": 829,
+    "volume": 1208043637,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 823.9,
+    "high": 854.95,
+    "low": 805.4,
+    "close": 837,
+    "volume": 746462482,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 837,
+    "high": 853,
+    "low": 755,
+    "close": 813,
+    "volume": 704966545,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 816,
+    "high": 827.4,
+    "low": 776.1,
+    "close": 793.1,
+    "volume": 618256189,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 801.1,
+    "high": 801.1,
+    "low": 740.3,
+    "close": 760,
+    "volume": 985511017,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 740,
+    "high": 765,
+    "low": 730.55,
+    "close": 733,
+    "volume": 489152298,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 737,
+    "high": 785.5,
+    "low": 734.5,
+    "close": 774,
+    "volume": 1187888749,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 780.9,
+    "high": 791.6,
+    "low": 761.15,
+    "close": 774.75,
+    "volume": 560205389,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 782.3,
+    "high": 792.8,
+    "low": 762,
+    "close": 783,
+    "volume": 366088491,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 780.3,
+    "high": 789.95,
+    "low": 736.1,
+    "close": 743,
+    "volume": 382436140,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 750.25,
+    "high": 785,
+    "low": 745,
+    "close": 774.45,
+    "volume": 692770889,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 771,
+    "high": 772,
+    "low": 714,
+    "close": 771.95,
+    "volume": 613955616,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 767.8,
+    "high": 807,
+    "low": 758.15,
+    "close": 787.85,
+    "volume": 1429559525,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 799.3,
+    "high": 860,
+    "low": 790,
+    "close": 850,
+    "volume": 2553931966,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 859.4,
+    "high": 889.75,
+    "low": 853,
+    "close": 871.1,
+    "volume": 2440207706,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 875,
+    "high": 883.7,
+    "low": 821.05,
+    "close": 835,
+    "volume": 1024947953,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 850.5,
+    "high": 884,
+    "low": 844,
+    "close": 871.4,
+    "volume": 1277186583,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 896,
+    "high": 918,
+    "low": 845.35,
+    "close": 887,
+    "volume": 1352129085,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 887,
+    "high": 920,
+    "low": 870.1,
+    "close": 909.65,
+    "volume": 1104319648,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 923,
+    "high": 999.2,
+    "low": 917.05,
+    "close": 999.2,
+    "volume": 2145404752,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 1008,
+    "high": 1099.1,
+    "low": 1000,
+    "close": 1094,
+    "volume": 3471275106,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 1110,
+    "high": 1144.7,
+    "low": 1100,
+    "close": 1110,
+    "volume": 2144579215,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 1114.5,
+    "high": 1120.7,
+    "low": 1055.15,
+    "close": 1055.15,
+    "volume": 2100721667,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 1063,
+    "high": 1075,
+    "low": 1002.4,
+    "close": 1002.4,
+    "volume": 741799029,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 965.6,
+    "high": 1024,
+    "low": 952.55,
+    "close": 971.25,
+    "volume": 2846280453,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 949.2,
+    "high": 949.2,
+    "low": 924.9,
+    "close": 924.9,
+    "volume": 418716856,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 897.1,
+    "high": 913.7,
+    "low": 878.7,
+    "close": 899,
+    "volume": 1897086849,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 889.9,
+    "high": 944.2,
+    "low": 860.1,
+    "close": 944.2,
+    "volume": 1390022716,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 960,
+    "high": 991.35,
+    "low": 954.5,
+    "close": 991.35,
+    "volume": 1052029556,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 954.9,
+    "high": 1038,
+    "low": 942.2,
+    "close": 1007,
+    "volume": 1725504393,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 1035,
+    "high": 1052.7,
+    "low": 1015.1,
+    "close": 1024,
+    "volume": 750154176,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 1024.65,
+    "high": 1061.5,
+    "low": 981.2,
+    "close": 1044,
+    "volume": 832177355,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 1060,
+    "high": 1082,
+    "low": 1052.15,
+    "close": 1064,
+    "volume": 966071302,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 1070,
+    "high": 1078.95,
+    "low": 1042.2,
+    "close": 1056,
+    "volume": 553020653,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 1054,
+    "high": 1064.8,
+    "low": 1035,
+    "close": 1040,
+    "volume": 413289620,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 1049,
+    "high": 1065,
+    "low": 1046.25,
+    "close": 1055.8,
+    "volume": 998591962,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 1065.4,
+    "high": 1065.45,
+    "low": 1033.3,
+    "close": 1050,
+    "volume": 352317217,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 1048,
+    "high": 1060,
+    "low": 1035.2,
+    "close": 1046.75,
+    "volume": 462098190,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 1020,
+    "high": 1095,
+    "low": 1017,
+    "close": 1073,
+    "volume": 1354629826,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 1090,
+    "high": 1095,
+    "low": 1053.05,
+    "close": 1078.5,
+    "volume": 816569767,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 1082.2,
+    "high": 1104.95,
+    "low": 1065.8,
+    "close": 1084,
+    "volume": 521751155,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 1097,
+    "high": 1139,
+    "low": 1096.8,
+    "close": 1132,
+    "volume": 1308912559,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 1163,
+    "high": 1182.8,
+    "low": 1133,
+    "close": 1179.8,
+    "volume": 1718883506,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 1199,
+    "high": 1199,
+    "low": 1140.75,
+    "close": 1163.3,
+    "volume": 801989006,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 1166.75,
+    "high": 1216,
+    "low": 1145,
+    "close": 1200,
+    "volume": 1215049356,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 1210,
+    "high": 1222,
+    "low": 1167.2,
+    "close": 1199,
+    "volume": 1144215149,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 1225,
+    "high": 1230,
+    "low": 1143.4,
+    "close": 1143.4,
+    "volume": 632477466,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 1096,
+    "high": 1200.55,
+    "low": 1096,
+    "close": 1200.55,
+    "volume": 2506691386,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 1210,
+    "high": 1260.35,
+    "low": 1210,
+    "close": 1260.35,
+    "volume": 2179294398,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 1269.95,
+    "high": 1323.35,
+    "low": 1260,
+    "close": 1323.35,
+    "volume": 3163502463,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 1338,
+    "high": 1389.5,
+    "low": 1326.05,
+    "close": 1389.5,
+    "volume": 2653606123,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 1444,
+    "high": 1455,
+    "low": 1415.05,
+    "close": 1453,
+    "volume": 6042697386,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 1464,
+    "high": 1526.5,
+    "low": 1453.95,
+    "close": 1526.5,
+    "volume": 5232583034,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 1569.9,
+    "high": 1590,
+    "low": 1450.2,
+    "close": 1450.2,
+    "volume": 3002459133,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 1415,
+    "high": 1421.2,
+    "low": 1377.7,
+    "close": 1397,
+    "volume": 2839188946,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 1430,
+    "high": 1462.15,
+    "low": 1360,
+    "close": 1435,
+    "volume": 43841203579,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 1421.9,
+    "high": 1469.95,
+    "low": 1413.25,
+    "close": 1454,
+    "volume": 1190836603,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 1454,
+    "high": 1493,
+    "low": 1440.4,
+    "close": 1475,
+    "volume": 679457423,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 1489.9,
+    "high": 1515,
+    "low": 1475,
+    "close": 1499.5,
+    "volume": 2306975398,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 1501,
+    "high": 1574,
+    "low": 1500.95,
+    "close": 1559,
+    "volume": 2484262112,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 1581.3,
+    "high": 1630,
+    "low": 1540,
+    "close": 1585,
+    "volume": 2414309446,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 1624,
+    "high": 1625,
+    "low": 1586.05,
+    "close": 1613.7,
+    "volume": 1478732060,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 1616.9,
+    "high": 1644.95,
+    "low": 1552.6,
+    "close": 1590,
+    "volume": 1014603703,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 1595,
+    "high": 1609,
+    "low": 1574,
+    "close": 1590,
+    "volume": 1259457148,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 1781,
+    "high": 1875,
+    "low": 1773.95,
+    "close": 1868.8,
+    "volume": 3639978306,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 1950,
+    "high": 1954.15,
+    "low": 1891.45,
+    "close": 1938,
+    "volume": 3775564740,
+    "symbol": "ADANIENSOL"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 1990,
+    "high": 1990,
+    "low": 1922.9,
+    "close": 1925,
+    "volume": 2627772849,
+    "symbol": "ADANIENSOL"
+  }
+]

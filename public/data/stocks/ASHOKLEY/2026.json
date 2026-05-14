@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 179.19,
+    "high": 185.56,
+    "low": 178.81,
+    "close": 185,
+    "volume": 4832562009,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 185,
+    "high": 190,
+    "low": 183.77,
+    "close": 187.9,
+    "volume": 4775930579,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 189,
+    "high": 191.8,
+    "low": 186.05,
+    "close": 187.75,
+    "volume": 3227620965,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 187.85,
+    "high": 189.17,
+    "low": 184.92,
+    "close": 186.19,
+    "volume": 1694351440,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 186.2,
+    "high": 186.83,
+    "low": 184.56,
+    "close": 186.14,
+    "volume": 1759245872,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 186,
+    "high": 186.3,
+    "low": 184.01,
+    "close": 184.01,
+    "volume": 1680442275,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 184.1,
+    "high": 190.76,
+    "low": 183.9,
+    "close": 188.1,
+    "volume": 4795307993,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 189.63,
+    "high": 189.65,
+    "low": 183.34,
+    "close": 187.1,
+    "volume": 2432364548,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 187.05,
+    "high": 187.9,
+    "low": 184.05,
+    "close": 185.69,
+    "volume": 1275393673,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 185.21,
+    "high": 187.69,
+    "low": 184.15,
+    "close": 187,
+    "volume": 1386136312,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 185.93,
+    "high": 186.66,
+    "low": 183.75,
+    "close": 184.02,
+    "volume": 4933834565,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 183.1,
+    "high": 188.5,
+    "low": 182.34,
+    "close": 188.4,
+    "volume": 1979280350,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 188.93,
+    "high": 189.75,
+    "low": 179.5,
+    "close": 180.12,
+    "volume": 2900493092,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 179.92,
+    "high": 183.2,
+    "low": 176.83,
+    "close": 181.02,
+    "volume": 3738753468,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 185.3,
+    "high": 191.44,
+    "low": 184.53,
+    "close": 191.34,
+    "volume": 3822200764,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 192,
+    "high": 199.21,
+    "low": 190,
+    "close": 193.07,
+    "volume": 6351075912,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 192.26,
+    "high": 194.15,
+    "low": 188,
+    "close": 193.25,
+    "volume": 4398173887,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 193.9,
+    "high": 196.69,
+    "low": 189.46,
+    "close": 195.95,
+    "volume": 3864452501,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 196.4,
+    "high": 196.4,
+    "low": 191.92,
+    "close": 193.95,
+    "volume": 2044065298,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 192.9,
+    "high": 198,
+    "low": 191.92,
+    "close": 197.5,
+    "volume": 2787959504,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 196.68,
+    "high": 198.4,
+    "low": 187.5,
+    "close": 189.1,
+    "volume": 1277052178,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 189.77,
+    "high": 195,
+    "low": 185.52,
+    "close": 194.95,
+    "volume": 2838797450,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 203,
+    "high": 203,
+    "low": 196.02,
+    "close": 200,
+    "volume": 3291743919,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 201.74,
+    "high": 205.19,
+    "low": 199.05,
+    "close": 201.15,
+    "volume": 4477791324,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 201.25,
+    "high": 202.86,
+    "low": 200,
+    "close": 201.93,
+    "volume": 2982656367,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 201.5,
+    "high": 203,
+    "low": 199.26,
+    "close": 201.33,
+    "volume": 1923761562,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 202.8,
+    "high": 206.38,
+    "low": 200.79,
+    "close": 205.5,
+    "volume": 1976359055,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 206.7,
+    "high": 211,
+    "low": 204.92,
+    "close": 210.54,
+    "volume": 2513280483,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 210.5,
+    "high": 215.42,
+    "low": 202.56,
+    "close": 205.84,
+    "volume": 11227528629,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 206.4,
+    "high": 212.35,
+    "low": 204.63,
+    "close": 210.99,
+    "volume": 7675693621,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 210.12,
+    "high": 212.87,
+    "low": 203.8,
+    "close": 204.7,
+    "volume": 5547264174,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 204.95,
+    "high": 206.89,
+    "low": 203,
+    "close": 205.5,
+    "volume": 2268978557,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 205.86,
+    "high": 208.25,
+    "low": 203.86,
+    "close": 207.1,
+    "volume": 1533364669,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 208.5,
+    "high": 209.65,
+    "low": 207.1,
+    "close": 208.4,
+    "volume": 1529639099,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 208.3,
+    "high": 208.61,
+    "low": 202.28,
+    "close": 202.84,
+    "volume": 1983700179,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 202.56,
+    "high": 209.36,
+    "low": 201.81,
+    "close": 208.3,
+    "volume": 3036291876,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 209.76,
+    "high": 211.75,
+    "low": 208.96,
+    "close": 210.3,
+    "volume": 1796988760,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 209,
+    "high": 211.02,
+    "low": 208.62,
+    "close": 210.6,
+    "volume": 2707003215,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 210.46,
+    "high": 213.7,
+    "low": 209.63,
+    "close": 211.45,
+    "volume": 2832461589,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 211.65,
+    "high": 212.89,
+    "low": 210.32,
+    "close": 211.86,
+    "volume": 1639035786,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 211.92,
+    "high": 214.1,
+    "low": 210.42,
+    "close": 211.8,
+    "volume": 2956245200,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 200.05,
+    "high": 212.9,
+    "low": 200.05,
+    "close": 209.2,
+    "volume": 3713713395,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 206.8,
+    "high": 207.18,
+    "low": 197.14,
+    "close": 199,
+    "volume": 5773715480,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 201.04,
+    "high": 203.99,
+    "low": 196.94,
+    "close": 203.04,
+    "volume": 3587727496,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 202.49,
+    "high": 202.49,
+    "low": 194.12,
+    "close": 194.84,
+    "volume": 4655092751,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 190.45,
+    "high": 190.45,
+    "low": 182.66,
+    "close": 186.74,
+    "volume": 4195014418,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 191.5,
+    "high": 195.17,
+    "low": 191,
+    "close": 194,
+    "volume": 3425195230,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 194.39,
+    "high": 195.38,
+    "low": 183.88,
+    "close": 185,
+    "volume": 5313292308,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 184.66,
+    "high": 184.97,
+    "low": 177.01,
+    "close": 178,
+    "volume": 7915757337,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 176.6,
+    "high": 176.6,
+    "low": 169.41,
+    "close": 170.99,
+    "volume": 4656675637,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 169.3,
+    "high": 174.9,
+    "low": 168.7,
+    "close": 171.97,
+    "volume": 3670978498,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 174,
+    "high": 176.6,
+    "low": 171.7,
+    "close": 176.2,
+    "volume": 3658549690,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 176.65,
+    "high": 180.01,
+    "low": 175.51,
+    "close": 178.45,
+    "volume": 2200299315,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 175.95,
+    "high": 175.95,
+    "low": 167.89,
+    "close": 169.78,
+    "volume": 3398547942,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 171.08,
+    "high": 172.67,
+    "low": 166.33,
+    "close": 169.4,
+    "volume": 6546865586,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 167.06,
+    "high": 167.06,
+    "low": 160.91,
+    "close": 161.95,
+    "volume": 3831903084,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 166.3,
+    "high": 168.01,
+    "low": 162.3,
+    "close": 167.5,
+    "volume": 2709557766,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 169.87,
+    "high": 172.92,
+    "low": 169.79,
+    "close": 171.2,
+    "volume": 2242750846,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 170,
+    "high": 170,
+    "low": 162.85,
+    "close": 163.16,
+    "volume": 3548406346,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 159.3,
+    "high": 160.83,
+    "low": 153.56,
+    "close": 154.46,
+    "volume": 8045573706,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 154.15,
+    "high": 162.86,
+    "low": 148,
+    "close": 148.6,
+    "volume": 13852557669,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 147.4,
+    "high": 149.14,
+    "low": 143.13,
+    "close": 148.4,
+    "volume": 4952353982,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 149,
+    "high": 151.52,
+    "low": 145.15,
+    "close": 150.7,
+    "volume": 3432204778,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 150,
+    "high": 153.45,
+    "low": 146.14,
+    "close": 152.46,
+    "volume": 3137115135,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 165.1,
+    "high": 173.16,
+    "low": 162.94,
+    "close": 172.3,
+    "volume": 17387794061,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 172.8,
+    "high": 174.75,
+    "low": 169.01,
+    "close": 170.5,
+    "volume": 5885957450,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 172.9,
+    "high": 178.38,
+    "low": 172.13,
+    "close": 177.99,
+    "volume": 6932820233,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 172,
+    "high": 174,
+    "low": 170.4,
+    "close": 172.2,
+    "volume": 3729336656,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 176.96,
+    "high": 179.09,
+    "low": 175,
+    "close": 175.59,
+    "volume": 3820180404,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 177.8,
+    "high": 177.89,
+    "low": 174.75,
+    "close": 176.72,
+    "volume": 2691367546,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 177.47,
+    "high": 177.47,
+    "low": 173.17,
+    "close": 174.7,
+    "volume": 3802749728,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 175.32,
+    "high": 177.44,
+    "low": 172.79,
+    "close": 175.38,
+    "volume": 2101413849,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 176,
+    "high": 178.88,
+    "low": 175.98,
+    "close": 176.6,
+    "volume": 2099322567,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 176.5,
+    "high": 181.39,
+    "low": 175.6,
+    "close": 178.76,
+    "volume": 3573419584,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 177,
+    "high": 177.79,
+    "low": 169.25,
+    "close": 170.62,
+    "volume": 5774959495,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 170.69,
+    "high": 172.2,
+    "low": 168.37,
+    "close": 170.15,
+    "volume": 2219580006,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 170.68,
+    "high": 171.49,
+    "low": 167.75,
+    "close": 169.61,
+    "volume": 2544944645,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 169.26,
+    "high": 172.01,
+    "low": 167.01,
+    "close": 167.74,
+    "volume": 3003927760,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 168.35,
+    "high": 169.26,
+    "low": 165.11,
+    "close": 165.8,
+    "volume": 2790385516,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 164.72,
+    "high": 164.72,
+    "low": 160.26,
+    "close": 162.55,
+    "volume": 3566580341,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 162.29,
+    "high": 164.05,
+    "low": 159.1,
+    "close": 160.74,
+    "volume": 3143045695,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 160,
+    "high": 161.66,
+    "low": 158.59,
+    "close": 161,
+    "volume": 2015798738,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 163.5,
+    "high": 169.11,
+    "low": 160.5,
+    "close": 168.45,
+    "volume": 3662758022,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 168.99,
+    "high": 172.8,
+    "low": 166.41,
+    "close": 170.1,
+    "volume": 4807624095,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 170,
+    "high": 170,
+    "low": 167.27,
+    "close": 168.77,
+    "volume": 2529075547,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 166.38,
+    "high": 166.38,
+    "low": 161,
+    "close": 161.81,
+    "volume": 2546032723,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 160.8,
+    "high": 161.47,
+    "low": 155.1,
+    "close": 156.85,
+    "volume": 2423435918,
+    "symbol": "ASHOKLEY"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 155.95,
+    "high": 157.36,
+    "low": 152.76,
+    "close": 153.3,
+    "volume": 4006646855,
+    "symbol": "ASHOKLEY"
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 81.6,
+    "high": 84.1,
+    "low": 81.6,
+    "close": 83.95,
+    "volume": 1757513921,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 84.1,
+    "high": 84.65,
+    "low": 83.1,
+    "close": 83.95,
+    "volume": 2055244849,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 83.8,
+    "high": 85.85,
+    "low": 83.45,
+    "close": 84.75,
+    "volume": 2877382299,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 83.45,
+    "high": 87.3,
+    "low": 83.25,
+    "close": 86.7,
+    "volume": 2924370882,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 87.1,
+    "high": 88.55,
+    "low": 86.5,
+    "close": 87.45,
+    "volume": 3493555831,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 88.1,
+    "high": 92.45,
+    "low": 87.7,
+    "close": 91.9,
+    "volume": 3864962661,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 92.2,
+    "high": 92.95,
+    "low": 91.3,
+    "close": 92.1,
+    "volume": 2528628796,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 92.6,
+    "high": 93.5,
+    "low": 92.1,
+    "close": 92.55,
+    "volume": 2222607799,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 92.6,
+    "high": 94.65,
+    "low": 92.2,
+    "close": 93.9,
+    "volume": 2367358275,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 93.1,
+    "high": 94.6,
+    "low": 92.95,
+    "close": 93.35,
+    "volume": 1616265599,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 93.15,
+    "high": 94.7,
+    "low": 93.15,
+    "close": 93.85,
+    "volume": 1363363702,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 93.85,
+    "high": 95.9,
+    "low": 91.7,
+    "close": 92.3,
+    "volume": 3455650152,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 92.25,
+    "high": 96.35,
+    "low": 91.5,
+    "close": 95.8,
+    "volume": 3330708606,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 95.95,
+    "high": 97.5,
+    "low": 95.55,
+    "close": 96.5,
+    "volume": 3582239410,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 95.6,
+    "high": 95.7,
+    "low": 91.55,
+    "close": 93.05,
+    "volume": 3674434232,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 92.3,
+    "high": 93.6,
+    "low": 90.7,
+    "close": 92.05,
+    "volume": 5168423747,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 92,
+    "high": 99.7,
+    "low": 91.55,
+    "close": 98.15,
+    "volume": 6356895398,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 97,
+    "high": 104,
+    "low": 96.1,
+    "close": 103.55,
+    "volume": 9548715208,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 104.45,
+    "high": 106.5,
+    "low": 102.75,
+    "close": 103.15,
+    "volume": 5960020135,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 103.95,
+    "high": 108.4,
+    "low": 103.05,
+    "close": 107.45,
+    "volume": 6461778677,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 108.6,
+    "high": 109.3,
+    "low": 102.4,
+    "close": 106,
+    "volume": 9227129730,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 106.85,
+    "high": 110.2,
+    "low": 106.2,
+    "close": 109.1,
+    "volume": 5167099762,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 109.1,
+    "high": 111.9,
+    "low": 108.5,
+    "close": 109.3,
+    "volume": 6009448467,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 109.8,
+    "high": 111.35,
+    "low": 106.15,
+    "close": 106.4,
+    "volume": 4948038771,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 108.8,
+    "high": 117.2,
+    "low": 108.25,
+    "close": 113.15,
+    "volume": 20147155636,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 114,
+    "high": 118.3,
+    "low": 111.5,
+    "close": 117.65,
+    "volume": 13316645506,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 118.5,
+    "high": 118.8,
+    "low": 114.5,
+    "close": 114.85,
+    "volume": 7146539456,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 115.4,
+    "high": 116.4,
+    "low": 113.6,
+    "close": 114.75,
+    "volume": 4623629396,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 113.7,
+    "high": 115.45,
+    "low": 112.5,
+    "close": 112.7,
+    "volume": 3855093560,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 109,
+    "high": 110.4,
+    "low": 105.25,
+    "close": 105.3,
+    "volume": 5483031165,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 106.6,
+    "high": 110.5,
+    "low": 104.05,
+    "close": 109.95,
+    "volume": 6647774046,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 111.05,
+    "high": 111.25,
+    "low": 106.65,
+    "close": 106.85,
+    "volume": 4955539929,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 108.1,
+    "high": 108.3,
+    "low": 105.4,
+    "close": 105.75,
+    "volume": 3187329351,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 105.3,
+    "high": 107.7,
+    "low": 105,
+    "close": 105.4,
+    "volume": 3340084375,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 105.35,
+    "high": 106.1,
+    "low": 102.8,
+    "close": 103.95,
+    "volume": 4192620219,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 101.2,
+    "high": 105.8,
+    "low": 99.05,
+    "close": 104.5,
+    "volume": 5333937595,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 105,
+    "high": 108.95,
+    "low": 104.85,
+    "close": 107.6,
+    "volume": 6692310012,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 102.8,
+    "high": 105.6,
+    "low": 100.1,
+    "close": 100.3,
+    "volume": 7245951103,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 104,
+    "high": 108.65,
+    "low": 103.05,
+    "close": 106.95,
+    "volume": 6562758051,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 104.5,
+    "high": 108,
+    "low": 104.1,
+    "close": 106.65,
+    "volume": 4396900297,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 105.95,
+    "high": 106.4,
+    "low": 101.75,
+    "close": 103.5,
+    "volume": 4911961644,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 104.5,
+    "high": 105.3,
+    "low": 102.15,
+    "close": 102.6,
+    "volume": 4294025878,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 100.55,
+    "high": 103.15,
+    "low": 100.05,
+    "close": 100.6,
+    "volume": 4824244146,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 98.1,
+    "high": 100.5,
+    "low": 91,
+    "close": 92.8,
+    "volume": 7931103905,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 93.7,
+    "high": 98.55,
+    "low": 92.2,
+    "close": 97.6,
+    "volume": 6828609356,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 98,
+    "high": 99.2,
+    "low": 96.7,
+    "close": 98.9,
+    "volume": 5025009878,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 102.2,
+    "high": 105.45,
+    "low": 101.2,
+    "close": 101.35,
+    "volume": 7362973483,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 101.8,
+    "high": 104.7,
+    "low": 100.95,
+    "close": 104.2,
+    "volume": 4217938858,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 104.95,
+    "high": 107.5,
+    "low": 103.55,
+    "close": 106.85,
+    "volume": 4827031512,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 107.4,
+    "high": 108.9,
+    "low": 105.25,
+    "close": 105.4,
+    "volume": 5015738493,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 107.5,
+    "high": 108.7,
+    "low": 106.95,
+    "close": 107.35,
+    "volume": 3017032437,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 109.75,
+    "high": 109.8,
+    "low": 107.45,
+    "close": 107.6,
+    "volume": 3524987540,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 107.9,
+    "high": 108.35,
+    "low": 105.75,
+    "close": 106.05,
+    "volume": 2660343076,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 106.2,
+    "high": 107.45,
+    "low": 103.5,
+    "close": 107.2,
+    "volume": 3427870433,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 107.25,
+    "high": 109.15,
+    "low": 105.9,
+    "close": 106.3,
+    "volume": 2908970366,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 105.45,
+    "high": 108,
+    "low": 105.05,
+    "close": 106.1,
+    "volume": 2828917418,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 106.75,
+    "high": 109,
+    "low": 106.3,
+    "close": 108.85,
+    "volume": 4384875219,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 108.95,
+    "high": 112.35,
+    "low": 107.3,
+    "close": 111.75,
+    "volume": 5106091532,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 112.5,
+    "high": 113.1,
+    "low": 110.7,
+    "close": 111.4,
+    "volume": 3617659918,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 112.75,
+    "high": 114.95,
+    "low": 112.05,
+    "close": 112.95,
+    "volume": 11476107646,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 112.9,
+    "high": 113.4,
+    "low": 111.05,
+    "close": 111.65,
+    "volume": 3149405260,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 111.6,
+    "high": 116.4,
+    "low": 111.35,
+    "close": 116,
+    "volume": 3552961151,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 116.2,
+    "high": 117,
+    "low": 115.2,
+    "close": 116,
+    "volume": 3411625074,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 116.4,
+    "high": 117.85,
+    "low": 114.5,
+    "close": 115.8,
+    "volume": 3269103868,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 115.65,
+    "high": 120.95,
+    "low": 115.15,
+    "close": 119.8,
+    "volume": 4369533681,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 119.85,
+    "high": 122.6,
+    "low": 117.95,
+    "close": 119.4,
+    "volume": 5334622773,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 119.8,
+    "high": 120.85,
+    "low": 117.95,
+    "close": 120.5,
+    "volume": 3288227733,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 120.75,
+    "high": 122.7,
+    "low": 119.6,
+    "close": 120.7,
+    "volume": 2155093721,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 119.9,
+    "high": 120.9,
+    "low": 117.1,
+    "close": 120.5,
+    "volume": 2843373276,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 120.85,
+    "high": 121.45,
+    "low": 119.1,
+    "close": 119.2,
+    "volume": 2202615792,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 118.7,
+    "high": 118.7,
+    "low": 113.25,
+    "close": 114.15,
+    "volume": 4759136772,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 115,
+    "high": 116.7,
+    "low": 111.6,
+    "close": 112.1,
+    "volume": 3440305985,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 113.75,
+    "high": 114.5,
+    "low": 111.4,
+    "close": 112.75,
+    "volume": 2465664556,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 113.55,
+    "high": 114.5,
+    "low": 113,
+    "close": 114.3,
+    "volume": 2265482519,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 112.95,
+    "high": 113.95,
+    "low": 111.2,
+    "close": 111.55,
+    "volume": 1952859111,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 110.35,
+    "high": 112.5,
+    "low": 109.05,
+    "close": 111.4,
+    "volume": 2727708529,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 112.9,
+    "high": 115.9,
+    "low": 112.55,
+    "close": 115.4,
+    "volume": 3203540567,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 114,
+    "high": 116.55,
+    "low": 112.8,
+    "close": 116.45,
+    "volume": 2492377658,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 116.75,
+    "high": 116.8,
+    "low": 114.75,
+    "close": 115.95,
+    "volume": 2322347452,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 116.6,
+    "high": 117.35,
+    "low": 112.3,
+    "close": 112.75,
+    "volume": 2085019799,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 111.4,
+    "high": 113.25,
+    "low": 110.85,
+    "close": 112.95,
+    "volume": 1630325890,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 113.8,
+    "high": 115.25,
+    "low": 107.55,
+    "close": 108.3,
+    "volume": 3531755666,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 109.7,
+    "high": 110.5,
+    "low": 105.4,
+    "close": 105.6,
+    "volume": 2871236202,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 104.2,
+    "high": 105.8,
+    "low": 102,
+    "close": 105.35,
+    "volume": 2614052687,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 103.95,
+    "high": 104.85,
+    "low": 101.6,
+    "close": 103.25,
+    "volume": 1960097318,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 103,
+    "high": 105.1,
+    "low": 100.2,
+    "close": 100.4,
+    "volume": 1650438762,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 102,
+    "high": 102.3,
+    "low": 97.2,
+    "close": 101.75,
+    "volume": 2676053880,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 100,
+    "high": 100.3,
+    "low": 95.4,
+    "close": 95.9,
+    "volume": 2422341551,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 98,
+    "high": 99.3,
+    "low": 94,
+    "close": 94.3,
+    "volume": 3104456873,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 96,
+    "high": 100.45,
+    "low": 94.5,
+    "close": 100.25,
+    "volume": 3790090039,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 100.75,
+    "high": 102.85,
+    "low": 99.5,
+    "close": 102,
+    "volume": 2798276820,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 102.15,
+    "high": 102.7,
+    "low": 99.1,
+    "close": 99.6,
+    "volume": 2026950095,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 97.5,
+    "high": 97.9,
+    "low": 95.25,
+    "close": 96.7,
+    "volume": 1786886278,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 98.2,
+    "high": 99.95,
+    "low": 98,
+    "close": 99.35,
+    "volume": 1774330670,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 99.95,
+    "high": 101,
+    "low": 96.85,
+    "close": 97.05,
+    "volume": 1840210882,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 97.25,
+    "high": 98.35,
+    "low": 95.25,
+    "close": 95.9,
+    "volume": 1933178902,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 96.25,
+    "high": 97.6,
+    "low": 93,
+    "close": 93.7,
+    "volume": 2882112822,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 94.9,
+    "high": 99,
+    "low": 92.55,
+    "close": 98.65,
+    "volume": 3482380888,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 99.3,
+    "high": 99.85,
+    "low": 98.15,
+    "close": 98.55,
+    "volume": 2214636336,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 99.8,
+    "high": 102,
+    "low": 99.65,
+    "close": 101.5,
+    "volume": 2552937339,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 101.35,
+    "high": 102.45,
+    "low": 99.7,
+    "close": 100.15,
+    "volume": 1746587166,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 101,
+    "high": 102.5,
+    "low": 100,
+    "close": 102.05,
+    "volume": 2123706806,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 102,
+    "high": 105.85,
+    "low": 102,
+    "close": 103.75,
+    "volume": 4610439081,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 104.7,
+    "high": 105.1,
+    "low": 102,
+    "close": 102.2,
+    "volume": 1723103528,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 102,
+    "high": 102.45,
+    "low": 99.2,
+    "close": 102,
+    "volume": 1873973280,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 101.4,
+    "high": 103.25,
+    "low": 100.9,
+    "close": 101.7,
+    "volume": 1783937624,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 102.4,
+    "high": 105.35,
+    "low": 101.4,
+    "close": 103.3,
+    "volume": 3263891326,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 103.2,
+    "high": 105.35,
+    "low": 102.45,
+    "close": 105.15,
+    "volume": 2661513422,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 103,
+    "high": 105.45,
+    "low": 102.9,
+    "close": 104.85,
+    "volume": 1644987525,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 102.2,
+    "high": 102.95,
+    "low": 98.5,
+    "close": 99.95,
+    "volume": 2218233409,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 99.1,
+    "high": 102.15,
+    "low": 99.1,
+    "close": 100.65,
+    "volume": 1874956050,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 101,
+    "high": 102.1,
+    "low": 99.4,
+    "close": 100.2,
+    "volume": 1598660322,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 101.6,
+    "high": 102.15,
+    "low": 97.05,
+    "close": 97.85,
+    "volume": 2422148455,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 95.9,
+    "high": 96.9,
+    "low": 94.1,
+    "close": 95.6,
+    "volume": 2093750249,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 95.6,
+    "high": 96,
+    "low": 89.85,
+    "close": 91.45,
+    "volume": 2005720156,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 92.1,
+    "high": 97.35,
+    "low": 91.75,
+    "close": 96.4,
+    "volume": 2727658890,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 95.6,
+    "high": 96.6,
+    "low": 94.2,
+    "close": 95.25,
+    "volume": 1867609719,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 95.2,
+    "high": 97.85,
+    "low": 94.4,
+    "close": 96.25,
+    "volume": 2654537512,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 97.3,
+    "high": 100.35,
+    "low": 96.85,
+    "close": 99.7,
+    "volume": 3802367960,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 101.1,
+    "high": 101.75,
+    "low": 99.6,
+    "close": 100.05,
+    "volume": 1455128174,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 99.45,
+    "high": 101.8,
+    "low": 99.45,
+    "close": 101.35,
+    "volume": 1655702232,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 100.3,
+    "high": 101.8,
+    "low": 99.7,
+    "close": 101,
+    "volume": 1651987446,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 100.95,
+    "high": 102.3,
+    "low": 97.05,
+    "close": 97.8,
+    "volume": 2429300667,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 97.6,
+    "high": 97.8,
+    "low": 95.6,
+    "close": 97.35,
+    "volume": 3114753900,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 97,
+    "high": 99.95,
+    "low": 96.95,
+    "close": 98.45,
+    "volume": 2329606752,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 98.6,
+    "high": 100.75,
+    "low": 98.45,
+    "close": 98.7,
+    "volume": 1930400371,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 99.05,
+    "high": 100.7,
+    "low": 98.7,
+    "close": 99.7,
+    "volume": 2470521654,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 100.7,
+    "high": 105.8,
+    "low": 100.5,
+    "close": 105.15,
+    "volume": 6815054997,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 105.85,
+    "high": 106.3,
+    "low": 103.95,
+    "close": 105.35,
+    "volume": 2036885024,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 104.9,
+    "high": 109.95,
+    "low": 104.4,
+    "close": 109.25,
+    "volume": 3694347086,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 108.8,
+    "high": 110.5,
+    "low": 108.1,
+    "close": 108.6,
+    "volume": 3253198530,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 109.5,
+    "high": 110.5,
+    "low": 108.15,
+    "close": 108.25,
+    "volume": 1695711734,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 108,
+    "high": 108,
+    "low": 103.7,
+    "close": 105.5,
+    "volume": 3551067679,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 106,
+    "high": 106.4,
+    "low": 103.3,
+    "close": 103.75,
+    "volume": 1565854914,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 105.1,
+    "high": 108.3,
+    "low": 104.25,
+    "close": 108.1,
+    "volume": 2410721632,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 107.6,
+    "high": 113,
+    "low": 107.05,
+    "close": 112.5,
+    "volume": 4614077637,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 113.7,
+    "high": 114.4,
+    "low": 111.25,
+    "close": 111.75,
+    "volume": 2933529628,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 111.45,
+    "high": 114.3,
+    "low": 111.15,
+    "close": 113.9,
+    "volume": 2442606268,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 114.8,
+    "high": 116.45,
+    "low": 113.65,
+    "close": 115.95,
+    "volume": 3748915120,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 115.7,
+    "high": 116.7,
+    "low": 114.25,
+    "close": 115,
+    "volume": 2323069231,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 116,
+    "high": 116.9,
+    "low": 114.6,
+    "close": 116,
+    "volume": 3340902596,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 116.75,
+    "high": 118.75,
+    "low": 116,
+    "close": 117.85,
+    "volume": 2178129934,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 118.9,
+    "high": 119.85,
+    "low": 116.5,
+    "close": 117.55,
+    "volume": 3078125838,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 118.45,
+    "high": 119.75,
+    "low": 115.6,
+    "close": 116.35,
+    "volume": 2981560987,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 117.5,
+    "high": 118.5,
+    "low": 113.35,
+    "close": 116.4,
+    "volume": 4852807823,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 116.3,
+    "high": 123.55,
+    "low": 115.95,
+    "close": 121.4,
+    "volume": 8508840851,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 121.5,
+    "high": 122.4,
+    "low": 119.15,
+    "close": 121,
+    "volume": 2878786693,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 121.45,
+    "high": 122.3,
+    "low": 116.1,
+    "close": 118.4,
+    "volume": 3872219170,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 119.1,
+    "high": 120.5,
+    "low": 117.55,
+    "close": 118,
+    "volume": 4036155850,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 117.9,
+    "high": 119.7,
+    "low": 116.5,
+    "close": 118.25,
+    "volume": 1762911438,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 118.25,
+    "high": 119.7,
+    "low": 117.75,
+    "close": 118.55,
+    "volume": 1687149080,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 119.75,
+    "high": 124.35,
+    "low": 119.6,
+    "close": 122.9,
+    "volume": 4404445608,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 123,
+    "high": 124.1,
+    "low": 122.3,
+    "close": 123,
+    "volume": 2402450795,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 124,
+    "high": 125.25,
+    "low": 121.05,
+    "close": 121.6,
+    "volume": 2917219803,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 122.25,
+    "high": 127,
+    "low": 121.35,
+    "close": 126.5,
+    "volume": 4472003049,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 125.65,
+    "high": 127,
+    "low": 123.05,
+    "close": 123.95,
+    "volume": 3287951617,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 124.2,
+    "high": 124.5,
+    "low": 119.55,
+    "close": 120,
+    "volume": 3419739741,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 120,
+    "high": 120,
+    "low": 117.65,
+    "close": 118.25,
+    "volume": 2464880155,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 117,
+    "high": 123.95,
+    "low": 117,
+    "close": 123.55,
+    "volume": 3449956791,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 123,
+    "high": 124.6,
+    "low": 121.05,
+    "close": 123.7,
+    "volume": 3674437733,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 124.1,
+    "high": 128,
+    "low": 124.05,
+    "close": 125.7,
+    "volume": 4992033818,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 126.5,
+    "high": 129.55,
+    "low": 126.3,
+    "close": 128.3,
+    "volume": 3636840701,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 124.05,
+    "high": 126.9,
+    "low": 122.15,
+    "close": 126.75,
+    "volume": 3229244130,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 127.35,
+    "high": 131.3,
+    "low": 127.35,
+    "close": 131,
+    "volume": 3570821765,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 129.55,
+    "high": 133.85,
+    "low": 129.55,
+    "close": 133.2,
+    "volume": 4050334779,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 134.65,
+    "high": 134.7,
+    "low": 130.75,
+    "close": 131.5,
+    "volume": 2399282451,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 131.25,
+    "high": 134.8,
+    "low": 131.25,
+    "close": 133.8,
+    "volume": 2332540610,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 134.55,
+    "high": 135.5,
+    "low": 132.1,
+    "close": 133.5,
+    "volume": 2897617490,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 133.4,
+    "high": 134.6,
+    "low": 132.65,
+    "close": 134.6,
+    "volume": 1783794677,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 135.35,
+    "high": 139.85,
+    "low": 135,
+    "close": 138.6,
+    "volume": 5028305762,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 139.5,
+    "high": 141.7,
+    "low": 137.65,
+    "close": 138,
+    "volume": 3880354352,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 139,
+    "high": 139.9,
+    "low": 138.4,
+    "close": 138.9,
+    "volume": 1732786222,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 139.5,
+    "high": 139.75,
+    "low": 138.35,
+    "close": 138.6,
+    "volume": 1363336437,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 136,
+    "high": 141.85,
+    "low": 135.5,
+    "close": 140.45,
+    "volume": 2861788524,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 141.8,
+    "high": 141.8,
+    "low": 138.95,
+    "close": 140,
+    "volume": 2212953502,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 139.5,
+    "high": 141.05,
+    "low": 134.7,
+    "close": 137.3,
+    "volume": 3301853046,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 136.8,
+    "high": 143.45,
+    "low": 136.35,
+    "close": 141.1,
+    "volume": 4280367875,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 142.9,
+    "high": 143.3,
+    "low": 141.3,
+    "close": 141.7,
+    "volume": 1992773679,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 141.6,
+    "high": 143.25,
+    "low": 140,
+    "close": 141.2,
+    "volume": 2844498670,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 140.8,
+    "high": 141.7,
+    "low": 135.75,
+    "close": 138.5,
+    "volume": 4831293804,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 138.4,
+    "high": 139,
+    "low": 131.7,
+    "close": 131.9,
+    "volume": 5583885105,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 130,
+    "high": 130.45,
+    "low": 124.5,
+    "close": 128.5,
+    "volume": 4756732165,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 129.45,
+    "high": 131.45,
+    "low": 126.5,
+    "close": 128.5,
+    "volume": 3469423071,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 126.45,
+    "high": 128.25,
+    "low": 124,
+    "close": 125.95,
+    "volume": 3075901799,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 128.8,
+    "high": 130.2,
+    "low": 125,
+    "close": 128.5,
+    "volume": 3334198274,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 127.6,
+    "high": 133.65,
+    "low": 126.35,
+    "close": 132.75,
+    "volume": 4211739431,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 131.9,
+    "high": 133.75,
+    "low": 126.9,
+    "close": 127.9,
+    "volume": 2683258724,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 131.25,
+    "high": 134.2,
+    "low": 130.5,
+    "close": 133.45,
+    "volume": 2737943105,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 135,
+    "high": 135.9,
+    "low": 134.1,
+    "close": 134.25,
+    "volume": 2252643665,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 134.25,
+    "high": 135.8,
+    "low": 130.5,
+    "close": 135.25,
+    "volume": 3175520227,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 132.45,
+    "high": 134.45,
+    "low": 131.6,
+    "close": 132.25,
+    "volume": 2806176575,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 132.65,
+    "high": 133.15,
+    "low": 129.1,
+    "close": 129.7,
+    "volume": 1863050915,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 130.2,
+    "high": 133.3,
+    "low": 129.5,
+    "close": 132.85,
+    "volume": 2291871089,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 132,
+    "high": 132.8,
+    "low": 129.2,
+    "close": 129.9,
+    "volume": 1908860128,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 133,
+    "high": 134.2,
+    "low": 130,
+    "close": 130.55,
+    "volume": 2034399336,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 130.55,
+    "high": 136.75,
+    "low": 129.6,
+    "close": 136.65,
+    "volume": 3959730737,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 137.5,
+    "high": 141.75,
+    "low": 136.75,
+    "close": 140.5,
+    "volume": 4765741468,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 140.7,
+    "high": 141,
+    "low": 137.2,
+    "close": 138,
+    "volume": 2860290822,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 137,
+    "high": 141.85,
+    "low": 135.7,
+    "close": 140.65,
+    "volume": 4130359769,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 141,
+    "high": 144.9,
+    "low": 140.6,
+    "close": 143.3,
+    "volume": 4779303500,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 144.7,
+    "high": 145.4,
+    "low": 144.05,
+    "close": 144.55,
+    "volume": 532416240,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 144.3,
+    "high": 151.6,
+    "low": 142.5,
+    "close": 147.7,
+    "volume": 6330746556,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 148.35,
+    "high": 150.35,
+    "low": 147.25,
+    "close": 149.5,
+    "volume": 3786213905,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 150,
+    "high": 151.2,
+    "low": 146.15,
+    "close": 146.9,
+    "volume": 3376441572,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 148,
+    "high": 148.6,
+    "low": 145,
+    "close": 147.8,
+    "volume": 3145193463,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 148.4,
+    "high": 151.8,
+    "low": 146.6,
+    "close": 147.5,
+    "volume": 3703846438,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 147.15,
+    "high": 148.6,
+    "low": 146.05,
+    "close": 146.75,
+    "volume": 2259693253,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 145.8,
+    "high": 149.9,
+    "low": 145.5,
+    "close": 148.5,
+    "volume": 2682154937,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 148.9,
+    "high": 149.65,
+    "low": 143.6,
+    "close": 144.9,
+    "volume": 3447721045,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 159,
+    "high": 161.6,
+    "low": 152,
+    "close": 158.25,
+    "volume": 22814668550,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 159.6,
+    "high": 167,
+    "low": 157.25,
+    "close": 166.2,
+    "volume": 11427530809,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 166,
+    "high": 168.15,
+    "low": 163.35,
+    "close": 165.55,
+    "volume": 7630328348,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 167.95,
+    "high": 168.8,
+    "low": 161.4,
+    "close": 162,
+    "volume": 5147012306,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 162.25,
+    "high": 165,
+    "low": 159.9,
+    "close": 163.85,
+    "volume": 3878539570,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 164,
+    "high": 165.5,
+    "low": 161.8,
+    "close": 163.05,
+    "volume": 3756892255,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 164.25,
+    "high": 165.1,
+    "low": 162.15,
+    "close": 163.5,
+    "volume": 4006182909,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 162.9,
+    "high": 164.9,
+    "low": 162.65,
+    "close": 163.6,
+    "volume": 2571002112,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 164.1,
+    "high": 165.7,
+    "low": 161.7,
+    "close": 162.5,
+    "volume": 3746153295,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 162.7,
+    "high": 164.3,
+    "low": 161.2,
+    "close": 161.7,
+    "volume": 3286967050,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 162.7,
+    "high": 167.35,
+    "low": 161.95,
+    "close": 167.3,
+    "volume": 4341806567,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 167.85,
+    "high": 170.35,
+    "low": 166.3,
+    "close": 168.35,
+    "volume": 5928097463,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 169.15,
+    "high": 171.9,
+    "low": 169,
+    "close": 170.5,
+    "volume": 4310220884,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 170.95,
+    "high": 172.7,
+    "low": 166.8,
+    "close": 167.8,
+    "volume": 4473814300,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 168.45,
+    "high": 168.85,
+    "low": 166.25,
+    "close": 167.8,
+    "volume": 3024228570,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 168.15,
+    "high": 169.5,
+    "low": 167.1,
+    "close": 168.1,
+    "volume": 3079933917,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 168.45,
+    "high": 168.7,
+    "low": 164.45,
+    "close": 166.6,
+    "volume": 2876876631,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 167.5,
+    "high": 172.6,
+    "low": 166.5,
+    "close": 171.6,
+    "volume": 5450583959,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 171.8,
+    "high": 174.25,
+    "low": 170.6,
+    "close": 171.5,
+    "volume": 4219141505,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 172.3,
+    "high": 172.4,
+    "low": 170.3,
+    "close": 172.25,
+    "volume": 3033560040,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 172.85,
+    "high": 176.15,
+    "low": 172.35,
+    "close": 174.1,
+    "volume": 6978647011,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 174.85,
+    "high": 176.9,
+    "low": 173.35,
+    "close": 176.5,
+    "volume": 4447690532,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 177,
+    "high": 189.4,
+    "low": 176.6,
+    "close": 187.4,
+    "volume": 17209833689,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 189,
+    "high": 197.2,
+    "low": 184.85,
+    "close": 188.45,
+    "volume": 18968953358,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 188.5,
+    "high": 190.7,
+    "low": 185.65,
+    "close": 190.15,
+    "volume": 6655867086,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 191.1,
+    "high": 194.7,
+    "low": 190,
+    "close": 193.4,
+    "volume": 6310471467,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 194.4,
+    "high": 194.85,
+    "low": 191,
+    "close": 191.2,
+    "volume": 5008845452,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 191.55,
+    "high": 193.2,
+    "low": 183.8,
+    "close": 184.35,
+    "volume": 7847933326,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 184.3,
+    "high": 184.95,
+    "low": 181,
+    "close": 182.35,
+    "volume": 4737005916,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 182.65,
+    "high": 184.15,
+    "low": 180.85,
+    "close": 182.75,
+    "volume": 3933233044,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 181.95,
+    "high": 184.75,
+    "low": 179.15,
+    "close": 184.4,
+    "volume": 3180093898,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 184.65,
+    "high": 186.7,
+    "low": 175.5,
+    "close": 177.3,
+    "volume": 5099888730,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 178.45,
+    "high": 180.15,
+    "low": 173.65,
+    "close": 176.15,
+    "volume": 4255476508,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 174,
+    "high": 175.65,
+    "low": 168.1,
+    "close": 169.25,
+    "volume": 4993313946,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 169.05,
+    "high": 178.2,
+    "low": 167.1,
+    "close": 177.65,
+    "volume": 5459620738,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 178.4,
+    "high": 178.5,
+    "low": 174.9,
+    "close": 177.95,
+    "volume": 3683554077,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 177.95,
+    "high": 184.9,
+    "low": 176.5,
+    "close": 181.4,
+    "volume": 5605447879,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 181.55,
+    "high": 188,
+    "low": 179.2,
+    "close": 186.75,
+    "volume": 5225125621,
+    "symbol": "BANKBARODA"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 186.9,
+    "high": 188.4,
+    "low": 184.1,
+    "close": 185.65,
+    "volume": 5026537913,
+    "symbol": "BANKBARODA"
+  }
+]

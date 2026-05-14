@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 143.25,
+    "high": 153.16,
+    "low": 142.8,
+    "close": 148.7,
+    "volume": 9583739872,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 149,
+    "high": 149.9,
+    "low": 147.3,
+    "close": 148.15,
+    "volume": 2139815958,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 148,
+    "high": 148.4,
+    "low": 144.46,
+    "close": 146,
+    "volume": 2315751005,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 147.5,
+    "high": 149.17,
+    "low": 146.8,
+    "close": 147.1,
+    "volume": 2146308726,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 147.55,
+    "high": 148.4,
+    "low": 145.8,
+    "close": 146.18,
+    "volume": 1068162606,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 146.37,
+    "high": 147.55,
+    "low": 142.1,
+    "close": 142.78,
+    "volume": 1428450873,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 143.2,
+    "high": 143.99,
+    "low": 140.54,
+    "close": 141.72,
+    "volume": 1609310686,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 141.65,
+    "high": 143.36,
+    "low": 139.53,
+    "close": 142.85,
+    "volume": 1463608225,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 143,
+    "high": 144.06,
+    "low": 142.01,
+    "close": 143.4,
+    "volume": 1038997294,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 143,
+    "high": 143.37,
+    "low": 141.61,
+    "close": 142.6,
+    "volume": 1039616440,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 142.6,
+    "high": 144.5,
+    "low": 141.5,
+    "close": 142.2,
+    "volume": 1238169538,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 141.8,
+    "high": 142.4,
+    "low": 139.95,
+    "close": 140.3,
+    "volume": 1179298101,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 141.5,
+    "high": 142.4,
+    "low": 136.5,
+    "close": 138,
+    "volume": 2186390352,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 137.5,
+    "high": 139.64,
+    "low": 134.8,
+    "close": 137.79,
+    "volume": 2667796984,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 139.89,
+    "high": 141.55,
+    "low": 139,
+    "close": 141,
+    "volume": 1509285568,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 141,
+    "high": 142.9,
+    "low": 128.1,
+    "close": 133.8,
+    "volume": 7037442767,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 135,
+    "high": 137.5,
+    "low": 132.96,
+    "close": 134.71,
+    "volume": 3258786681,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 135.14,
+    "high": 135.9,
+    "low": 133.6,
+    "close": 135.9,
+    "volume": 1993237356,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 135.5,
+    "high": 136.49,
+    "low": 132.64,
+    "close": 133.89,
+    "volume": 3612745580,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 133,
+    "high": 136.5,
+    "low": 131.91,
+    "close": 135.87,
+    "volume": 2036667836,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 136.5,
+    "high": 139.86,
+    "low": 131.95,
+    "close": 133.48,
+    "volume": 1368026115,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 133.48,
+    "high": 135,
+    "low": 130.63,
+    "close": 134.7,
+    "volume": 1409073757,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 145,
+    "high": 149.04,
+    "low": 140.6,
+    "close": 144.5,
+    "volume": 7947920572,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 145,
+    "high": 156.09,
+    "low": 143,
+    "close": 154.3,
+    "volume": 11956730142,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 155.29,
+    "high": 156.9,
+    "low": 151.1,
+    "close": 152.75,
+    "volume": 4129482812,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 152,
+    "high": 154.11,
+    "low": 150,
+    "close": 152.25,
+    "volume": 2645998642,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 154,
+    "high": 154.85,
+    "low": 150.6,
+    "close": 151.1,
+    "volume": 2093816887,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 152,
+    "high": 152,
+    "low": 147.81,
+    "close": 149,
+    "volume": 2538428378,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 149.59,
+    "high": 151.33,
+    "low": 147.8,
+    "close": 150.65,
+    "volume": 1602295987,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 150.47,
+    "high": 150.75,
+    "low": 148.75,
+    "close": 149.65,
+    "volume": 1279774858,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 149.2,
+    "high": 149.3,
+    "low": 139.1,
+    "close": 140.4,
+    "volume": 5480640727,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 140.5,
+    "high": 143.65,
+    "low": 139.01,
+    "close": 142.45,
+    "volume": 2460456158,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 142.54,
+    "high": 145,
+    "low": 141.58,
+    "close": 144.21,
+    "volume": 1585474611,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 144.5,
+    "high": 145.25,
+    "low": 142.2,
+    "close": 144.5,
+    "volume": 1453985422,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 145.7,
+    "high": 146.43,
+    "low": 140,
+    "close": 140.64,
+    "volume": 2001163549,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 140.45,
+    "high": 144.33,
+    "low": 139.7,
+    "close": 143,
+    "volume": 1698028268,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 145.15,
+    "high": 145.69,
+    "low": 142.7,
+    "close": 143.75,
+    "volume": 1310084227,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 143.5,
+    "high": 144.72,
+    "low": 142.24,
+    "close": 144.35,
+    "volume": 1183334772,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 144.7,
+    "high": 145.6,
+    "low": 139.81,
+    "close": 140.5,
+    "volume": 2540592979,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 141,
+    "high": 142,
+    "low": 140.5,
+    "close": 141.3,
+    "volume": 921262937,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 141,
+    "high": 141.66,
+    "low": 139.8,
+    "close": 140,
+    "volume": 1132034062,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 133,
+    "high": 138.68,
+    "low": 130.7,
+    "close": 138.1,
+    "volume": 3644291362,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 135,
+    "high": 139.3,
+    "low": 134.41,
+    "close": 137.8,
+    "volume": 2282157093,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 139,
+    "high": 140.55,
+    "low": 138.11,
+    "close": 140.39,
+    "volume": 1151752821,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 139.6,
+    "high": 142.59,
+    "low": 138.5,
+    "close": 139.3,
+    "volume": 1649901460,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 136.5,
+    "high": 139.83,
+    "low": 134.86,
+    "close": 139.3,
+    "volume": 1660542270,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 141.5,
+    "high": 141.5,
+    "low": 138.61,
+    "close": 139,
+    "volume": 2105294868,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 139.2,
+    "high": 142.09,
+    "low": 138.68,
+    "close": 139.18,
+    "volume": 2146242158,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 138.84,
+    "high": 151.98,
+    "low": 137.51,
+    "close": 149.8,
+    "volume": 11911209935,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 151,
+    "high": 153.9,
+    "low": 145.3,
+    "close": 147.52,
+    "volume": 8147734867,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 149.9,
+    "high": 155,
+    "low": 146.4,
+    "close": 154.21,
+    "volume": 13686486711,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 156,
+    "high": 157.44,
+    "low": 153.61,
+    "close": 155.35,
+    "volume": 6482981837,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 156,
+    "high": 156.5,
+    "low": 151.3,
+    "close": 154.1,
+    "volume": 4429164054,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 151,
+    "high": 155.49,
+    "low": 150.15,
+    "close": 151.5,
+    "volume": 2687026742,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 152,
+    "high": 157.2,
+    "low": 150.52,
+    "close": 151.75,
+    "volume": 6834298168,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 151.54,
+    "high": 152.87,
+    "low": 144.65,
+    "close": 147,
+    "volume": 3834495426,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 151,
+    "high": 153.9,
+    "low": 147.35,
+    "close": 150.2,
+    "volume": 3279160728,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 152.9,
+    "high": 158.2,
+    "low": 152.2,
+    "close": 153.9,
+    "volume": 5237154630,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 153.5,
+    "high": 155.28,
+    "low": 151.56,
+    "close": 153.68,
+    "volume": 3685125392,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 152.1,
+    "high": 156.45,
+    "low": 149.2,
+    "close": 150.3,
+    "volume": 3218023206,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 155,
+    "high": 158.15,
+    "low": 153.44,
+    "close": 156.5,
+    "volume": 7512553056,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 154.5,
+    "high": 160.35,
+    "low": 150.62,
+    "close": 159.75,
+    "volume": 9377218363,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 162,
+    "high": 165.1,
+    "low": 161.05,
+    "close": 163.25,
+    "volume": 20782409052,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 163,
+    "high": 165.66,
+    "low": 161.6,
+    "close": 162.6,
+    "volume": 5699782174,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 168,
+    "high": 174.35,
+    "low": 166.21,
+    "close": 169.34,
+    "volume": 11249583200,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 168.95,
+    "high": 173.5,
+    "low": 167.55,
+    "close": 173.42,
+    "volume": 7209507464,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 173.6,
+    "high": 178.1,
+    "low": 172.11,
+    "close": 175.2,
+    "volume": 9124564775,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 172,
+    "high": 184.4,
+    "low": 170.36,
+    "close": 181.37,
+    "volume": 16504922489,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 185.27,
+    "high": 187.07,
+    "low": 181.55,
+    "close": 182,
+    "volume": 9497145796,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 184,
+    "high": 194.37,
+    "low": 183.27,
+    "close": 194.15,
+    "volume": 13183967386,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 196.45,
+    "high": 200,
+    "low": 190.66,
+    "close": 197.95,
+    "volume": 18614161406,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 198.5,
+    "high": 207.5,
+    "low": 197.41,
+    "close": 199.5,
+    "volume": 16656528776,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 203.3,
+    "high": 207.3,
+    "low": 201.87,
+    "close": 203.8,
+    "volume": 11832935143,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 203.99,
+    "high": 216.5,
+    "low": 203.3,
+    "close": 215.3,
+    "volume": 24843356020,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 216,
+    "high": 217.25,
+    "low": 212.53,
+    "close": 214.9,
+    "volume": 12691436260,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 215.44,
+    "high": 216.87,
+    "low": 207,
+    "close": 214.14,
+    "volume": 13094406653,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 214.6,
+    "high": 222.16,
+    "low": 214.6,
+    "close": 218.89,
+    "volume": 12596926516,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 219.5,
+    "high": 224.66,
+    "low": 219.29,
+    "close": 224,
+    "volume": 10374635172,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 225,
+    "high": 226.24,
+    "low": 215.35,
+    "close": 217.8,
+    "volume": 11538892205,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 216.9,
+    "high": 223.5,
+    "low": 214.24,
+    "close": 222.08,
+    "volume": 14811941462,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 223,
+    "high": 234,
+    "low": 221.9,
+    "close": 228,
+    "volume": 15319906711,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 227.97,
+    "high": 234.4,
+    "low": 227.3,
+    "close": 229.95,
+    "volume": 9933755335,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 232.39,
+    "high": 232.39,
+    "low": 224.24,
+    "close": 229.1,
+    "volume": 10295618760,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 230,
+    "high": 233.47,
+    "low": 229.5,
+    "close": 230.3,
+    "volume": 8576753202,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 231,
+    "high": 231.43,
+    "low": 224.03,
+    "close": 225.25,
+    "volume": 6184555508,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 224.5,
+    "high": 224.68,
+    "low": 217.8,
+    "close": 222.77,
+    "volume": 6766095263,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 222.77,
+    "high": 224.63,
+    "low": 208.03,
+    "close": 211,
+    "volume": 9834298325,
+    "symbol": "ADANIPOWER"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 209,
+    "high": 217.95,
+    "low": 208.9,
+    "close": 214.2,
+    "volume": 10611717520,
+    "symbol": "ADANIPOWER"
+  }
+]

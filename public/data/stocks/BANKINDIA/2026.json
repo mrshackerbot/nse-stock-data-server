@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 144.1,
+    "high": 147.79,
+    "low": 143.51,
+    "close": 147.6,
+    "volume": 1087225595,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 147.5,
+    "high": 150.3,
+    "low": 146.82,
+    "close": 149.25,
+    "volume": 1399649909,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 150.9,
+    "high": 152.33,
+    "low": 148,
+    "close": 149.99,
+    "volume": 1447775943,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 149.99,
+    "high": 153.24,
+    "low": 149.63,
+    "close": 150.53,
+    "volume": 1801422668,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 150.66,
+    "high": 151.97,
+    "low": 149.71,
+    "close": 151.35,
+    "volume": 759839325,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 151,
+    "high": 151.39,
+    "low": 146.3,
+    "close": 146.75,
+    "volume": 1013578637,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 146.5,
+    "high": 150.05,
+    "low": 145.2,
+    "close": 146.39,
+    "volume": 1007724275,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 145.99,
+    "high": 149.99,
+    "low": 142.9,
+    "close": 146.49,
+    "volume": 1203658169,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 146.9,
+    "high": 147.98,
+    "low": 145.8,
+    "close": 147.46,
+    "volume": 825298678,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 147.76,
+    "high": 153.73,
+    "low": 146.12,
+    "close": 152.78,
+    "volume": 2542332831,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 153.5,
+    "high": 157.58,
+    "low": 153.45,
+    "close": 157.2,
+    "volume": 2757880790,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 157.6,
+    "high": 164.34,
+    "low": 157,
+    "close": 162.8,
+    "volume": 5684234178,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 163.05,
+    "high": 165.33,
+    "low": 159.1,
+    "close": 159.7,
+    "volume": 3187637966,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 160,
+    "high": 162.54,
+    "low": 156.24,
+    "close": 157.45,
+    "volume": 2790756477,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 161,
+    "high": 168.4,
+    "low": 161,
+    "close": 166.3,
+    "volume": 7072262329,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 166.16,
+    "high": 166.3,
+    "low": 159.06,
+    "close": 159.64,
+    "volume": 2499728768,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 160.2,
+    "high": 164.25,
+    "low": 158.7,
+    "close": 163.45,
+    "volume": 2824914024,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 163.95,
+    "high": 167.68,
+    "low": 162.37,
+    "close": 167.4,
+    "volume": 2507769409,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 167.7,
+    "high": 169.9,
+    "low": 163.12,
+    "close": 164.6,
+    "volume": 3120056066,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 164,
+    "high": 167.43,
+    "low": 162,
+    "close": 164,
+    "volume": 1935365161,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 164.11,
+    "high": 164.12,
+    "low": 149.01,
+    "close": 150,
+    "volume": 2798015328,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 150.44,
+    "high": 152.4,
+    "low": 146.4,
+    "close": 151.8,
+    "volume": 2695917071,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 158,
+    "high": 160.87,
+    "low": 155.61,
+    "close": 157.9,
+    "volume": 3083985411,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 158,
+    "high": 161.55,
+    "low": 156.2,
+    "close": 160.94,
+    "volume": 1311226943,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 160.95,
+    "high": 164.87,
+    "low": 160.83,
+    "close": 163.1,
+    "volume": 2008101995,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 163.38,
+    "high": 164.85,
+    "low": 161,
+    "close": 163.02,
+    "volume": 1997729597,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 166,
+    "high": 170.5,
+    "low": 165.69,
+    "close": 168.09,
+    "volume": 2438003462,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 168.5,
+    "high": 168.94,
+    "low": 165.35,
+    "close": 167.22,
+    "volume": 1052335633,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 167.5,
+    "high": 167.6,
+    "low": 163.11,
+    "close": 167,
+    "volume": 1371649196,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 166.2,
+    "high": 166.9,
+    "low": 163.54,
+    "close": 165.13,
+    "volume": 865344827,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 164.1,
+    "high": 164.45,
+    "low": 161.26,
+    "close": 161.69,
+    "volume": 1318396085,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 161,
+    "high": 166.21,
+    "low": 159.56,
+    "close": 165.71,
+    "volume": 1523506729,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 165.6,
+    "high": 171,
+    "low": 165,
+    "close": 170.74,
+    "volume": 2589043715,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 171.26,
+    "high": 173.29,
+    "low": 170.45,
+    "close": 172.33,
+    "volume": 2026777944,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 172.33,
+    "high": 173.45,
+    "low": 168.35,
+    "close": 168.89,
+    "volume": 1174797776,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 169,
+    "high": 172.62,
+    "low": 168.16,
+    "close": 171,
+    "volume": 1211280301,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 172.41,
+    "high": 174.67,
+    "low": 171.83,
+    "close": 174,
+    "volume": 1611161407,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 174,
+    "high": 178.22,
+    "low": 173.02,
+    "close": 175.58,
+    "volume": 3917906794,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 175.8,
+    "high": 176.35,
+    "low": 173.7,
+    "close": 175.2,
+    "volume": 1709675298,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 175.58,
+    "high": 177.9,
+    "low": 174.75,
+    "close": 177.02,
+    "volume": 1495232197,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 177,
+    "high": 178.36,
+    "low": 175.18,
+    "close": 176.3,
+    "volume": 1125526500,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 170.5,
+    "high": 174.4,
+    "low": 170.07,
+    "close": 172.5,
+    "volume": 1925251707,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 168.8,
+    "high": 169.03,
+    "low": 160.63,
+    "close": 163.09,
+    "volume": 2225568975,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 164.5,
+    "high": 167.29,
+    "low": 162.03,
+    "close": 164.3,
+    "volume": 1838777535,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 163.5,
+    "high": 164.21,
+    "low": 159.13,
+    "close": 159.39,
+    "volume": 1208752062,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 154,
+    "high": 155.08,
+    "low": 147.85,
+    "close": 151.94,
+    "volume": 1973254677,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 154,
+    "high": 156.95,
+    "low": 151.54,
+    "close": 156.85,
+    "volume": 1060830175,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 156.95,
+    "high": 157.7,
+    "low": 153.78,
+    "close": 154.3,
+    "volume": 944406302,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 151,
+    "high": 156.6,
+    "low": 149.81,
+    "close": 154.67,
+    "volume": 977155427,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 154.06,
+    "high": 154.65,
+    "low": 149.7,
+    "close": 150.3,
+    "volume": 1448768438,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 149,
+    "high": 151.84,
+    "low": 146.88,
+    "close": 149.88,
+    "volume": 1560596335,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 151.1,
+    "high": 151.75,
+    "low": 148.54,
+    "close": 151.5,
+    "volume": 1288269598,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 151.77,
+    "high": 154.19,
+    "low": 151.73,
+    "close": 152.53,
+    "volume": 934970038,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 148.61,
+    "high": 149.91,
+    "low": 144.72,
+    "close": 146.4,
+    "volume": 1052996112,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 146.95,
+    "high": 152.69,
+    "low": 146.95,
+    "close": 150.44,
+    "volume": 1947693714,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 148.8,
+    "high": 148.8,
+    "low": 143.01,
+    "close": 143.28,
+    "volume": 1306071395,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 147,
+    "high": 148.59,
+    "low": 144.9,
+    "close": 146.44,
+    "volume": 854761433,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 148,
+    "high": 150.8,
+    "low": 147.81,
+    "close": 149.95,
+    "volume": 1316246141,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 148.52,
+    "high": 148.52,
+    "low": 143.05,
+    "close": 144.99,
+    "volume": 2125831006,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 141.11,
+    "high": 142.92,
+    "low": 136.2,
+    "close": 136.67,
+    "volume": 1625426714,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 142.81,
+    "high": 144.78,
+    "low": 139.64,
+    "close": 141.6,
+    "volume": 1877438888,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 139.5,
+    "high": 139.8,
+    "low": 134.52,
+    "close": 139.35,
+    "volume": 1263486778,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 140.38,
+    "high": 145.49,
+    "low": 137.88,
+    "close": 143.19,
+    "volume": 2037042128,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 142.05,
+    "high": 142.05,
+    "low": 136.13,
+    "close": 137.5,
+    "volume": 3741127472,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 144,
+    "high": 147.5,
+    "low": 143.08,
+    "close": 146.55,
+    "volume": 2559460636,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 146.48,
+    "high": 148.55,
+    "low": 143.45,
+    "close": 144.48,
+    "volume": 1837887216,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 146.5,
+    "high": 148.49,
+    "low": 145.75,
+    "close": 147.95,
+    "volume": 1433301507,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 142.95,
+    "high": 145.35,
+    "low": 141.05,
+    "close": 145.35,
+    "volume": 1685997232,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 147.71,
+    "high": 149.93,
+    "low": 147.15,
+    "close": 147.51,
+    "volume": 1340277323,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 148.65,
+    "high": 151,
+    "low": 147.84,
+    "close": 148.81,
+    "volume": 1428452112,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 148.86,
+    "high": 149.47,
+    "low": 146.65,
+    "close": 148.12,
+    "volume": 1302647471,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 148,
+    "high": 151,
+    "low": 146.01,
+    "close": 148.02,
+    "volume": 1407405497,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 149.5,
+    "high": 151.25,
+    "low": 149.05,
+    "close": 150,
+    "volume": 1076232149,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 149.83,
+    "high": 154.34,
+    "low": 149.18,
+    "close": 152.85,
+    "volume": 2297266478,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 152.01,
+    "high": 153.48,
+    "low": 149.33,
+    "close": 151.4,
+    "volume": 2142195190,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 150.75,
+    "high": 151.46,
+    "low": 145.78,
+    "close": 147.44,
+    "volume": 2034244771,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 148.6,
+    "high": 149.8,
+    "low": 147.25,
+    "close": 147.72,
+    "volume": 717168079,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 144,
+    "high": 145.6,
+    "low": 141.67,
+    "close": 144.29,
+    "volume": 2230766754,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 145,
+    "high": 147.25,
+    "low": 142.72,
+    "close": 143.22,
+    "volume": 1412472536,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 142.21,
+    "high": 142.3,
+    "low": 138.83,
+    "close": 139.94,
+    "volume": 1472191890,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 140.01,
+    "high": 142.6,
+    "low": 138.23,
+    "close": 138.9,
+    "volume": 1570068254,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 138.7,
+    "high": 139.69,
+    "low": 136.74,
+    "close": 138.51,
+    "volume": 1182845472,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 140.5,
+    "high": 143.25,
+    "low": 138.4,
+    "close": 142.35,
+    "volume": 3015872571,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 143.25,
+    "high": 143.59,
+    "low": 139.7,
+    "close": 140.36,
+    "volume": 1523982268,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 140.25,
+    "high": 140.25,
+    "low": 138.16,
+    "close": 139.9,
+    "volume": 1458961622,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 143,
+    "high": 146.4,
+    "low": 141.6,
+    "close": 144.1,
+    "volume": 4607225977,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 143.01,
+    "high": 143.98,
+    "low": 139.83,
+    "close": 140.55,
+    "volume": 1394158358,
+    "symbol": "BANKINDIA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 140.2,
+    "high": 142.4,
+    "low": 138.65,
+    "close": 140.75,
+    "volume": 1124016262,
+    "symbol": "BANKINDIA"
+  }
+]

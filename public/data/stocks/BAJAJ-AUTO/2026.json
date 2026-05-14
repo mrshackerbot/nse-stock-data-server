@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 9365,
+    "high": 9585,
+    "low": 9318.5,
+    "close": 9585,
+    "volume": 2910739290,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 9550,
+    "high": 9633,
+    "low": 9310.5,
+    "close": 9499,
+    "volume": 6974932975,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 9520,
+    "high": 9684,
+    "low": 9465,
+    "close": 9499,
+    "volume": 2907466580,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 9575,
+    "high": 9783.5,
+    "low": 9543,
+    "close": 9668,
+    "volume": 4876595817,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 9668,
+    "high": 9807,
+    "low": 9608,
+    "close": 9807,
+    "volume": 3258628965,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 9799.5,
+    "high": 9888,
+    "low": 9725,
+    "close": 9738,
+    "volume": 5238777996,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 9760.5,
+    "high": 9830,
+    "low": 9538,
+    "close": 9578.5,
+    "volume": 2425402426,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 9562.5,
+    "high": 9588.5,
+    "low": 9360,
+    "close": 9478.5,
+    "volume": 3149122112,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 9506,
+    "high": 9576.5,
+    "low": 9458.5,
+    "close": 9550,
+    "volume": 2180822245,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 9576,
+    "high": 9610,
+    "low": 9494,
+    "close": 9570,
+    "volume": 3201764725,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 9540,
+    "high": 9616.5,
+    "low": 9389.5,
+    "close": 9487,
+    "volume": 5013712418,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 9489,
+    "high": 9489,
+    "low": 9393.5,
+    "close": 9415,
+    "volume": 3806490346,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 9468,
+    "high": 9468,
+    "low": 9155,
+    "close": 9176.5,
+    "volume": 3578277002,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 9150,
+    "high": 9255,
+    "low": 9072,
+    "close": 9185,
+    "volume": 2958302003,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 9225,
+    "high": 9391.5,
+    "low": 9185.5,
+    "close": 9387,
+    "volume": 1799491266,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 9390,
+    "high": 9548,
+    "low": 9335,
+    "close": 9422,
+    "volume": 1928331402,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 9422,
+    "high": 9506,
+    "low": 9330,
+    "close": 9500,
+    "volume": 2846743685,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 9500,
+    "high": 9533.5,
+    "low": 9250,
+    "close": 9469,
+    "volume": 3200778201,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 9475,
+    "high": 9533,
+    "low": 9381.5,
+    "close": 9512.5,
+    "volume": 3691056011,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 9497,
+    "high": 9626,
+    "low": 9382.5,
+    "close": 9584,
+    "volume": 2710270978,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 9788.5,
+    "high": 9855,
+    "low": 9175.5,
+    "close": 9500,
+    "volume": 4807485071,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 9454.5,
+    "high": 9523,
+    "low": 9250.5,
+    "close": 9474,
+    "volume": 3070398519,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 9933,
+    "high": 9941,
+    "low": 9515,
+    "close": 9610,
+    "volume": 5536932937,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 9594,
+    "high": 9725,
+    "low": 9529.5,
+    "close": 9625,
+    "volume": 1938393563,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 9640,
+    "high": 9679,
+    "low": 9600,
+    "close": 9659.5,
+    "volume": 1501603811,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 9620,
+    "high": 9668,
+    "low": 9471.5,
+    "close": 9517.5,
+    "volume": 1892706066,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 9598,
+    "high": 9626.5,
+    "low": 9505,
+    "close": 9580,
+    "volume": 1637351346,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 9605,
+    "high": 9833.5,
+    "low": 9582.5,
+    "close": 9762,
+    "volume": 3391692967,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 9818,
+    "high": 9905.5,
+    "low": 9796,
+    "close": 9870,
+    "volume": 3194800206,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 9876.5,
+    "high": 9930,
+    "low": 9809.5,
+    "close": 9840,
+    "volume": 3670591786,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 9800.5,
+    "high": 9900.5,
+    "low": 9720,
+    "close": 9748,
+    "volume": 1183266535,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 9710,
+    "high": 9774.5,
+    "low": 9643,
+    "close": 9690,
+    "volume": 856340177,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 9651,
+    "high": 9869,
+    "low": 9632.5,
+    "close": 9821,
+    "volume": 1558696458,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 9826.5,
+    "high": 10009,
+    "low": 9804.5,
+    "close": 10004,
+    "volume": 3315494050,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 9991,
+    "high": 10059.5,
+    "low": 9701,
+    "close": 9721.5,
+    "volume": 3067019868,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 9725,
+    "high": 9823,
+    "low": 9670.5,
+    "close": 9812,
+    "volume": 2842511730,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 9851,
+    "high": 9930,
+    "low": 9814,
+    "close": 9884.5,
+    "volume": 1438041337,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 9875,
+    "high": 9875,
+    "low": 9660,
+    "close": 9850,
+    "volume": 2543190055,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 9859.5,
+    "high": 10160,
+    "low": 9839.5,
+    "close": 10098.5,
+    "volume": 3362110441,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 10146.5,
+    "high": 10187,
+    "low": 10029.5,
+    "close": 10119.5,
+    "volume": 1794917213,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 10072.5,
+    "high": 10091.5,
+    "low": 9940,
+    "close": 9955.5,
+    "volume": 2319806497,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 9725.5,
+    "high": 9941.5,
+    "low": 9565,
+    "close": 9769.5,
+    "volume": 3219631197,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 9516.5,
+    "high": 9704.5,
+    "low": 9516.5,
+    "close": 9650,
+    "volume": 3075755556,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 9674.5,
+    "high": 9853,
+    "low": 9641,
+    "close": 9814,
+    "volume": 2928847601,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 9780,
+    "high": 9884.5,
+    "low": 9690,
+    "close": 9800,
+    "volume": 3788845521,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 9600,
+    "high": 9645.5,
+    "low": 9351,
+    "close": 9395,
+    "volume": 3151665204,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 9449.5,
+    "high": 9637.5,
+    "low": 9349,
+    "close": 9631.5,
+    "volume": 4411996890,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 9575,
+    "high": 9666,
+    "low": 9270,
+    "close": 9320,
+    "volume": 4605177888,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 9280,
+    "high": 9280,
+    "low": 9080,
+    "close": 9152.5,
+    "volume": 3579270600,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 9075,
+    "high": 9119.5,
+    "low": 8832.5,
+    "close": 8875,
+    "volume": 3877767409,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 8866,
+    "high": 9103.5,
+    "low": 8742.5,
+    "close": 9063,
+    "volume": 5207265605,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 9100,
+    "high": 9250,
+    "low": 9006.5,
+    "close": 9111,
+    "volume": 2239365168,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 9150,
+    "high": 9288,
+    "low": 9136.5,
+    "close": 9229,
+    "volume": 2286065658,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 9113.5,
+    "high": 9150,
+    "low": 8811,
+    "close": 8890,
+    "volume": 2584255047,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 8957.5,
+    "high": 9110,
+    "low": 8931.5,
+    "close": 9074.5,
+    "volume": 3222948249,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 8989.5,
+    "high": 8989.5,
+    "low": 8752,
+    "close": 8780,
+    "volume": 3304197629,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 8900,
+    "high": 9022.5,
+    "low": 8792,
+    "close": 8902,
+    "volume": 3908901701,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 9020,
+    "high": 9149.5,
+    "low": 8981,
+    "close": 9047.5,
+    "volume": 3982365177,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 8971.5,
+    "high": 9004,
+    "low": 8840,
+    "close": 8897.5,
+    "volume": 2914181299,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 8810,
+    "high": 8889,
+    "low": 8745,
+    "close": 8761.5,
+    "volume": 2863500017,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 8993.5,
+    "high": 9170,
+    "low": 8870,
+    "close": 8885.5,
+    "volume": 3735302348,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 8835.5,
+    "high": 8835.5,
+    "low": 8624,
+    "close": 8740,
+    "volume": 2226832696,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 8778.5,
+    "high": 8984.5,
+    "low": 8755,
+    "close": 8952,
+    "volume": 2794619058,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 8900,
+    "high": 9088,
+    "low": 8800.5,
+    "close": 9040,
+    "volume": 3386627626,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 9365,
+    "high": 9501,
+    "low": 9262,
+    "close": 9376,
+    "volume": 4455379175,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 9455,
+    "high": 9625,
+    "low": 9366,
+    "close": 9518,
+    "volume": 5133209558,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 9400,
+    "high": 9844,
+    "low": 9399.5,
+    "close": 9830.5,
+    "volume": 7190136585,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 9701.5,
+    "high": 9851,
+    "low": 9700,
+    "close": 9792,
+    "volume": 3561421297,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 9901.5,
+    "high": 9976,
+    "low": 9830,
+    "close": 9865,
+    "volume": 5455946635,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 9871,
+    "high": 9918.5,
+    "low": 9746,
+    "close": 9824,
+    "volume": 4700027134,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 9810,
+    "high": 9830,
+    "low": 9722,
+    "close": 9750,
+    "volume": 2585317066,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 9773.5,
+    "high": 9862.5,
+    "low": 9690,
+    "close": 9740,
+    "volume": 3435173876,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 9803,
+    "high": 9874,
+    "low": 9741,
+    "close": 9800,
+    "volume": 2856165195,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 9770.5,
+    "high": 9790.5,
+    "low": 9585,
+    "close": 9600,
+    "volume": 2928288320,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 9575,
+    "high": 9591,
+    "low": 9477,
+    "close": 9557.5,
+    "volume": 4238764066,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 9600,
+    "high": 9663,
+    "low": 9528,
+    "close": 9581,
+    "volume": 1827807584,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 9642.5,
+    "high": 9715,
+    "low": 9617,
+    "close": 9675,
+    "volume": 1428209499,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 9622,
+    "high": 9662.5,
+    "low": 9475,
+    "close": 9483,
+    "volume": 2456277632,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 9510,
+    "high": 9709.5,
+    "low": 9496,
+    "close": 9520.5,
+    "volume": 2514343232,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 9515,
+    "high": 10045,
+    "low": 9355,
+    "close": 10039,
+    "volume": 11865990722,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 10244,
+    "high": 10477.5,
+    "low": 10067,
+    "close": 10151,
+    "volume": 7408787965,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 10131,
+    "high": 10175,
+    "low": 10016,
+    "close": 10068,
+    "volume": 2352128077,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 10180,
+    "high": 10390,
+    "low": 10141,
+    "close": 10390,
+    "volume": 4029971438,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 10582,
+    "high": 10740,
+    "low": 10324.5,
+    "close": 10590,
+    "volume": 15857174369,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 10625,
+    "high": 10785,
+    "low": 10540,
+    "close": 10696.5,
+    "volume": 4018766386,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 10599,
+    "high": 10650,
+    "low": 10511,
+    "close": 10596,
+    "volume": 2717236454,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 10550,
+    "high": 10684.5,
+    "low": 10366,
+    "close": 10405,
+    "volume": 4309528927,
+    "symbol": "BAJAJ-AUTO"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 10370.5,
+    "high": 10455,
+    "low": 10220,
+    "close": 10285,
+    "volume": 3786038897,
+    "symbol": "BAJAJ-AUTO"
+  }
+]

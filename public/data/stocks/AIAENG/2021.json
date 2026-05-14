@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 1975,
+    "high": 2024.95,
+    "low": 1956.35,
+    "close": 1969,
+    "volume": 191988283,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 1993.7,
+    "high": 2050.15,
+    "low": 1976.9,
+    "close": 2015,
+    "volume": 104193177,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 2050,
+    "high": 2050.9,
+    "low": 1985,
+    "close": 2020,
+    "volume": 67607191,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 2021,
+    "high": 2021.55,
+    "low": 1968.05,
+    "close": 1999,
+    "volume": 69438251,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 1987.7,
+    "high": 2010.1,
+    "low": 1958,
+    "close": 1965,
+    "volume": 164516297,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 1976.95,
+    "high": 2014,
+    "low": 1975.05,
+    "close": 1996.1,
+    "volume": 109862077,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 2025,
+    "high": 2031.35,
+    "low": 2000.05,
+    "close": 2028,
+    "volume": 32692424,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 2021,
+    "high": 2031,
+    "low": 1992.5,
+    "close": 2010,
+    "volume": 784641637,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 2022,
+    "high": 2105.6,
+    "low": 2013.75,
+    "close": 2070,
+    "volume": 263399711,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 2069,
+    "high": 2146.05,
+    "low": 2055.5,
+    "close": 2095,
+    "volume": 189039114,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 2070.7,
+    "high": 2122.25,
+    "low": 2056.05,
+    "close": 2117.15,
+    "volume": 66267917,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 2110,
+    "high": 2131,
+    "low": 2050,
+    "close": 2052,
+    "volume": 42283611,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 2047.05,
+    "high": 2091.9,
+    "low": 2047.05,
+    "close": 2054.5,
+    "volume": 107280206,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 2076.85,
+    "high": 2224,
+    "low": 2056.7,
+    "close": 2201,
+    "volume": 434908736,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 2200,
+    "high": 2234,
+    "low": 2165,
+    "close": 2165,
+    "volume": 376477301,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 2193.5,
+    "high": 2218,
+    "low": 2050.05,
+    "close": 2062.1,
+    "volume": 90770043,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 2085,
+    "high": 2085,
+    "low": 1979,
+    "close": 1979,
+    "volume": 75393267,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 1982,
+    "high": 1996.9,
+    "low": 1959.15,
+    "close": 1982,
+    "volume": 104744700,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 1973,
+    "high": 1998.45,
+    "low": 1913,
+    "close": 1915.15,
+    "volume": 363333490,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 1935,
+    "high": 1959.9,
+    "low": 1917,
+    "close": 1955,
+    "volume": 69102857,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 1955,
+    "high": 1958.35,
+    "low": 1920,
+    "close": 1930,
+    "volume": 37658310,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 1955,
+    "high": 1960.55,
+    "low": 1935.05,
+    "close": 1938,
+    "volume": 66849285,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 1947,
+    "high": 2015,
+    "low": 1912,
+    "close": 2000,
+    "volume": 112157245,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 1984,
+    "high": 2079.85,
+    "low": 1984,
+    "close": 2030,
+    "volume": 148613596,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 2068,
+    "high": 2069.95,
+    "low": 1992.5,
+    "close": 1999,
+    "volume": 22643000,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 2020,
+    "high": 2021.9,
+    "low": 1970,
+    "close": 1979.3,
+    "volume": 49486168,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 1979.95,
+    "high": 2025,
+    "low": 1954,
+    "close": 1986.15,
+    "volume": 114278426,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 1993.25,
+    "high": 1993.3,
+    "low": 1950.3,
+    "close": 1959.95,
+    "volume": 102960336,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 1962.6,
+    "high": 1981.45,
+    "low": 1942.9,
+    "close": 1948.95,
+    "volume": 44476335,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 1933,
+    "high": 1978,
+    "low": 1931.95,
+    "close": 1955.5,
+    "volume": 65764813,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 1977.5,
+    "high": 2000,
+    "low": 1950.5,
+    "close": 1960,
+    "volume": 79736680,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 1980.7,
+    "high": 1991.3,
+    "low": 1942.05,
+    "close": 1943.75,
+    "volume": 77392979,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 1949.9,
+    "high": 1955,
+    "low": 1919.9,
+    "close": 1924.1,
+    "volume": 25150994,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 1915,
+    "high": 1971.7,
+    "low": 1905.25,
+    "close": 1914,
+    "volume": 83628894,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 1925,
+    "high": 1931.85,
+    "low": 1860,
+    "close": 1868.75,
+    "volume": 66271867,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 1869.75,
+    "high": 1880.05,
+    "low": 1830,
+    "close": 1845,
+    "volume": 121591415,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 1857.05,
+    "high": 1871.75,
+    "low": 1793,
+    "close": 1837.55,
+    "volume": 78466864,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 1842,
+    "high": 1866.95,
+    "low": 1781,
+    "close": 1802,
+    "volume": 66297346,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 1817,
+    "high": 1835.1,
+    "low": 1786.45,
+    "close": 1819.95,
+    "volume": 212595774,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 1803,
+    "high": 1823.1,
+    "low": 1785.75,
+    "close": 1819.95,
+    "volume": 99526330,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 1823.1,
+    "high": 1835,
+    "low": 1798,
+    "close": 1802.2,
+    "volume": 89806710,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 1808,
+    "high": 1823.9,
+    "low": 1791.55,
+    "close": 1820,
+    "volume": 68948132,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 1844,
+    "high": 1877.65,
+    "low": 1815.75,
+    "close": 1829.8,
+    "volume": 1842880624,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 1850,
+    "high": 1970,
+    "low": 1846.35,
+    "close": 1890,
+    "volume": 602487426,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 1903,
+    "high": 1926.7,
+    "low": 1875.9,
+    "close": 1902,
+    "volume": 173795241,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 1915.3,
+    "high": 1938,
+    "low": 1890.05,
+    "close": 1919.3,
+    "volume": 192975281,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 1925,
+    "high": 1946.95,
+    "low": 1904.7,
+    "close": 1933.1,
+    "volume": 374650832,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 1944,
+    "high": 1950,
+    "low": 1906,
+    "close": 1915,
+    "volume": 145355321,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 1910,
+    "high": 1949,
+    "low": 1880.9,
+    "close": 1922.2,
+    "volume": 344546412,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 1945,
+    "high": 1949.7,
+    "low": 1890,
+    "close": 1900,
+    "volume": 158073932,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 1920,
+    "high": 1920,
+    "low": 1881,
+    "close": 1887.85,
+    "volume": 51049169,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 1908,
+    "high": 1908,
+    "low": 1875,
+    "close": 1886,
+    "volume": 60186782,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 1889.9,
+    "high": 1909.95,
+    "low": 1815,
+    "close": 1845.05,
+    "volume": 208894725,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 1838.9,
+    "high": 1875,
+    "low": 1793.25,
+    "close": 1854.5,
+    "volume": 67714926,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 1873.1,
+    "high": 1925,
+    "low": 1873.1,
+    "close": 1909,
+    "volume": 99346489,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 1921,
+    "high": 1921,
+    "low": 1882.1,
+    "close": 1887.4,
+    "volume": 88219294,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 1865,
+    "high": 1898,
+    "low": 1847,
+    "close": 1863.15,
+    "volume": 137419434,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 1869.6,
+    "high": 1906,
+    "low": 1851,
+    "close": 1882.4,
+    "volume": 240458477,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 1898.8,
+    "high": 1930,
+    "low": 1890,
+    "close": 1914.45,
+    "volume": 104917177,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 1928.25,
+    "high": 2000,
+    "low": 1920.05,
+    "close": 1981,
+    "volume": 117632352,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 1974.6,
+    "high": 2095,
+    "low": 1971.05,
+    "close": 2040,
+    "volume": 188112241,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 2084.55,
+    "high": 2084.55,
+    "low": 1989.8,
+    "close": 2060,
+    "volume": 239198262,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 2054,
+    "high": 2060,
+    "low": 1975,
+    "close": 1975.7,
+    "volume": 49982698,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 1999,
+    "high": 1999,
+    "low": 1941.3,
+    "close": 1976.85,
+    "volume": 53933306,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 1975,
+    "high": 1985.2,
+    "low": 1952,
+    "close": 1952.1,
+    "volume": 41811619,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 1956,
+    "high": 1999.55,
+    "low": 1950,
+    "close": 1956.9,
+    "volume": 30554563,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 1959.95,
+    "high": 1986.05,
+    "low": 1950,
+    "close": 1979,
+    "volume": 22708346,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 1955,
+    "high": 1966.85,
+    "low": 1884.65,
+    "close": 1890,
+    "volume": 48398320,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 1941,
+    "high": 1941,
+    "low": 1846.7,
+    "close": 1874.9,
+    "volume": 75944850,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 1885.8,
+    "high": 1885.8,
+    "low": 1850,
+    "close": 1859,
+    "volume": 28933479,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 1850,
+    "high": 1922.95,
+    "low": 1846.8,
+    "close": 1916,
+    "volume": 56667747,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 1879,
+    "high": 1900,
+    "low": 1840,
+    "close": 1865,
+    "volume": 30615793,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 1865,
+    "high": 1892.95,
+    "low": 1830,
+    "close": 1854.15,
+    "volume": 46118999,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 1847.05,
+    "high": 1879.95,
+    "low": 1846,
+    "close": 1876.4,
+    "volume": 117748040,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 1871,
+    "high": 1898,
+    "low": 1843,
+    "close": 1875,
+    "volume": 99760558,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 1877.95,
+    "high": 1929.9,
+    "low": 1863.85,
+    "close": 1924.7,
+    "volume": 29320388,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 1909.95,
+    "high": 1945,
+    "low": 1881.4,
+    "close": 1895.5,
+    "volume": 34402027,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 1905,
+    "high": 1930.7,
+    "low": 1905,
+    "close": 1910.05,
+    "volume": 13739599,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 1920,
+    "high": 1931.65,
+    "low": 1870,
+    "close": 1890,
+    "volume": 22337081,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 1878.8,
+    "high": 1890.9,
+    "low": 1856.15,
+    "close": 1870,
+    "volume": 18904562,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 1862,
+    "high": 1866,
+    "low": 1820.05,
+    "close": 1826,
+    "volume": 89017834,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 1820,
+    "high": 1888,
+    "low": 1820,
+    "close": 1870.95,
+    "volume": 83435997,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 1884,
+    "high": 1891.55,
+    "low": 1856.2,
+    "close": 1880,
+    "volume": 55025020,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 1879.05,
+    "high": 1879.35,
+    "low": 1834,
+    "close": 1850,
+    "volume": 71193314,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 1834.05,
+    "high": 1858.3,
+    "low": 1825,
+    "close": 1828,
+    "volume": 47665964,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 1844.45,
+    "high": 1873.55,
+    "low": 1814,
+    "close": 1820,
+    "volume": 78577764,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 1814.15,
+    "high": 1866,
+    "low": 1814.15,
+    "close": 1845,
+    "volume": 80568618,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 1825.5,
+    "high": 1949.7,
+    "low": 1825.5,
+    "close": 1908.9,
+    "volume": 272579632,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 1941,
+    "high": 1950.45,
+    "low": 1867,
+    "close": 1868,
+    "volume": 57405581,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 1895,
+    "high": 1939,
+    "low": 1872.8,
+    "close": 1925,
+    "volume": 42497217,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 1914,
+    "high": 1975,
+    "low": 1906.9,
+    "close": 1941,
+    "volume": 83930576,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 1943,
+    "high": 1965,
+    "low": 1931.55,
+    "close": 1951,
+    "volume": 72163578,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 1963,
+    "high": 1975,
+    "low": 1940,
+    "close": 1968.1,
+    "volume": 40767621,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 1975,
+    "high": 1995,
+    "low": 1961,
+    "close": 1980.1,
+    "volume": 43953920,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 2002,
+    "high": 2002,
+    "low": 1941.05,
+    "close": 1958,
+    "volume": 38490134,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 1982.05,
+    "high": 1992,
+    "low": 1911.55,
+    "close": 1940,
+    "volume": 59954361,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 1925,
+    "high": 1925,
+    "low": 1882,
+    "close": 1900,
+    "volume": 176237693,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 1926,
+    "high": 1966.5,
+    "low": 1902.2,
+    "close": 1940,
+    "volume": 160061241,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 1965,
+    "high": 1965,
+    "low": 1940.15,
+    "close": 1950,
+    "volume": 30453594,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 1965,
+    "high": 1965,
+    "low": 1918,
+    "close": 1920.1,
+    "volume": 42792768,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 1927.65,
+    "high": 1945,
+    "low": 1896.55,
+    "close": 1908,
+    "volume": 80140785,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 1932,
+    "high": 1940,
+    "low": 1908.45,
+    "close": 1930,
+    "volume": 39845244,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 1944,
+    "high": 1959.95,
+    "low": 1931.15,
+    "close": 1940,
+    "volume": 44631880,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 1941.8,
+    "high": 1975,
+    "low": 1920,
+    "close": 1935,
+    "volume": 25935739,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 1938.2,
+    "high": 1966,
+    "low": 1922.65,
+    "close": 1929,
+    "volume": 43123022,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 1929,
+    "high": 2044.75,
+    "low": 1929,
+    "close": 1972,
+    "volume": 208666740,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 1974,
+    "high": 1995.15,
+    "low": 1940,
+    "close": 1951,
+    "volume": 113626024,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 1971,
+    "high": 1988,
+    "low": 1946,
+    "close": 1956,
+    "volume": 49110940,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 1980,
+    "high": 1982.2,
+    "low": 1940.25,
+    "close": 1961.05,
+    "volume": 32700780,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 1989,
+    "high": 1989,
+    "low": 1951.3,
+    "close": 1959.8,
+    "volume": 72852295,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 1979.75,
+    "high": 1979.75,
+    "low": 1960,
+    "close": 1970,
+    "volume": 69213367,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 1975,
+    "high": 2000,
+    "low": 1955,
+    "close": 1999.9,
+    "volume": 168475828,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 1996,
+    "high": 2030,
+    "low": 1970,
+    "close": 1984,
+    "volume": 101016213,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 1999.9,
+    "high": 2007.95,
+    "low": 1953,
+    "close": 1992.95,
+    "volume": 49859763,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 1958.25,
+    "high": 2041,
+    "low": 1958.25,
+    "close": 2039.85,
+    "volume": 37409791,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 2040,
+    "high": 2042,
+    "low": 1991.15,
+    "close": 2042,
+    "volume": 65596013,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 2040,
+    "high": 2053.4,
+    "low": 1991,
+    "close": 2039.95,
+    "volume": 60887836,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 2044,
+    "high": 2096,
+    "low": 2016.15,
+    "close": 2080,
+    "volume": 92160130,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 2090,
+    "high": 2135,
+    "low": 2055.25,
+    "close": 2121,
+    "volume": 98802393,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 2135,
+    "high": 2169,
+    "low": 2110,
+    "close": 2125.6,
+    "volume": 118947741,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 2126,
+    "high": 2174,
+    "low": 2101.65,
+    "close": 2159.95,
+    "volume": 76679390,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 2150,
+    "high": 2169,
+    "low": 2083.15,
+    "close": 2148.25,
+    "volume": 90543762,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 2179.5,
+    "high": 2179.5,
+    "low": 2095,
+    "close": 2101.9,
+    "volume": 41175205,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 2109.5,
+    "high": 2163.8,
+    "low": 2104.1,
+    "close": 2156,
+    "volume": 30387192,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 2151.05,
+    "high": 2169.6,
+    "low": 2126.15,
+    "close": 2152,
+    "volume": 76580948,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 2155,
+    "high": 2188.95,
+    "low": 2143.2,
+    "close": 2170,
+    "volume": 46194384,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 2170,
+    "high": 2222,
+    "low": 2139.95,
+    "close": 2150,
+    "volume": 294949331,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 2168,
+    "high": 2168,
+    "low": 2120,
+    "close": 2135,
+    "volume": 153217226,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 2139.95,
+    "high": 2148.75,
+    "low": 2062.35,
+    "close": 2072,
+    "volume": 159828306,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 2090,
+    "high": 2099.9,
+    "low": 2041.8,
+    "close": 2072,
+    "volume": 66894116,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 2070,
+    "high": 2133.1,
+    "low": 2059.85,
+    "close": 2130,
+    "volume": 93083570,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 2120,
+    "high": 2129.95,
+    "low": 2055,
+    "close": 2068,
+    "volume": 57379746,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 2069.85,
+    "high": 2084.9,
+    "low": 2020,
+    "close": 2026.4,
+    "volume": 42591764,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 2029.9,
+    "high": 2083.45,
+    "low": 2016.3,
+    "close": 2041.95,
+    "volume": 50706487,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 2049.95,
+    "high": 2077,
+    "low": 2026,
+    "close": 2060.1,
+    "volume": 21779304,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 2058.5,
+    "high": 2062.6,
+    "low": 2025.6,
+    "close": 2035.1,
+    "volume": 29911553,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 2041.5,
+    "high": 2052.7,
+    "low": 2026.15,
+    "close": 2040,
+    "volume": 30605089,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 2047.45,
+    "high": 2047.45,
+    "low": 2015,
+    "close": 2026,
+    "volume": 12533135,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 2010,
+    "high": 2039,
+    "low": 1986.05,
+    "close": 1995.1,
+    "volume": 27575740,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 2015,
+    "high": 2046.05,
+    "low": 1991,
+    "close": 2020,
+    "volume": 30359448,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 2020,
+    "high": 2022.45,
+    "low": 1963.05,
+    "close": 1989,
+    "volume": 15590856,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 2020,
+    "high": 2022.9,
+    "low": 1975,
+    "close": 1990.95,
+    "volume": 59888957,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 2020,
+    "high": 2022.95,
+    "low": 1990.25,
+    "close": 2001,
+    "volume": 16526138,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 2018.95,
+    "high": 2019,
+    "low": 1959,
+    "close": 1965,
+    "volume": 74400198,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 1970.9,
+    "high": 2020,
+    "low": 1962.05,
+    "close": 1988,
+    "volume": 23344234,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 2001.5,
+    "high": 2029,
+    "low": 1965.05,
+    "close": 1980.05,
+    "volume": 29689924,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 2011.45,
+    "high": 2011.45,
+    "low": 1945,
+    "close": 1948,
+    "volume": 25127843,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 1951,
+    "high": 1985,
+    "low": 1937.05,
+    "close": 1953.8,
+    "volume": 16322739,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 1954,
+    "high": 1987.7,
+    "low": 1954,
+    "close": 1963,
+    "volume": 29769738,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 1961,
+    "high": 1995,
+    "low": 1943.75,
+    "close": 1950.9,
+    "volume": 57311642,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 1961,
+    "high": 1986,
+    "low": 1941,
+    "close": 1950,
+    "volume": 37960128,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 1951,
+    "high": 2000,
+    "low": 1945,
+    "close": 1950,
+    "volume": 107289169,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 1954,
+    "high": 1990.85,
+    "low": 1905,
+    "close": 1930,
+    "volume": 365416657,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 1965,
+    "high": 2040,
+    "low": 1928.1,
+    "close": 2010,
+    "volume": 420204481,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 2024.95,
+    "high": 2024.95,
+    "low": 1973.95,
+    "close": 1987,
+    "volume": 174384458,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 1985.25,
+    "high": 2003.2,
+    "low": 1962.2,
+    "close": 1990,
+    "volume": 31951715,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 1995,
+    "high": 1995,
+    "low": 1919.95,
+    "close": 1954,
+    "volume": 178136470,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 1974,
+    "high": 1988.95,
+    "low": 1920.05,
+    "close": 1928.95,
+    "volume": 221405657,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 1928.55,
+    "high": 1937.9,
+    "low": 1897.05,
+    "close": 1931.95,
+    "volume": 77046553,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 1941,
+    "high": 1948.65,
+    "low": 1924.25,
+    "close": 1936.75,
+    "volume": 158338186,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 1944,
+    "high": 1945.85,
+    "low": 1926.3,
+    "close": 1938.95,
+    "volume": 60864780,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 1927,
+    "high": 1945.55,
+    "low": 1920,
+    "close": 1939.95,
+    "volume": 10825793,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 1963.45,
+    "high": 1996.95,
+    "low": 1940,
+    "close": 1968.8,
+    "volume": 31680384,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 1968,
+    "high": 2056.9,
+    "low": 1968,
+    "close": 2030,
+    "volume": 238879890,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 2049,
+    "high": 2049,
+    "low": 1970,
+    "close": 1985,
+    "volume": 37880992,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 1990,
+    "high": 2024.4,
+    "low": 1954.55,
+    "close": 2000,
+    "volume": 67615380,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 2001,
+    "high": 2108.9,
+    "low": 2001,
+    "close": 2095,
+    "volume": 469118029,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 2113,
+    "high": 2145,
+    "low": 2061,
+    "close": 2070.15,
+    "volume": 78490641,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 2061.05,
+    "high": 2100,
+    "low": 2037,
+    "close": 2037,
+    "volume": 202657485,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 2095,
+    "high": 2095,
+    "low": 2022.25,
+    "close": 2035.9,
+    "volume": 26816741,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 2058,
+    "high": 2100,
+    "low": 2035.05,
+    "close": 2089,
+    "volume": 46202347,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 2093,
+    "high": 2121,
+    "low": 2054.95,
+    "close": 2089.4,
+    "volume": 85445776,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 2097,
+    "high": 2119.5,
+    "low": 2060,
+    "close": 2105.05,
+    "volume": 64729684,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 2090,
+    "high": 2198.35,
+    "low": 2090,
+    "close": 2142,
+    "volume": 269742671,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 2128,
+    "high": 2151.9,
+    "low": 2076.1,
+    "close": 2100,
+    "volume": 64314610,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 2100,
+    "high": 2114.25,
+    "low": 2077.25,
+    "close": 2100,
+    "volume": 74983606,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 2095.3,
+    "high": 2110.15,
+    "low": 2042.85,
+    "close": 2075,
+    "volume": 64553987,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 2079,
+    "high": 2088.95,
+    "low": 2039,
+    "close": 2049.75,
+    "volume": 31540283,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 2054.3,
+    "high": 2079.85,
+    "low": 2010,
+    "close": 2018,
+    "volume": 77990162,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 2025.5,
+    "high": 2040.9,
+    "low": 1989.3,
+    "close": 2020,
+    "volume": 181624671,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 2019.85,
+    "high": 2034.05,
+    "low": 1936,
+    "close": 1944,
+    "volume": 158363143,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 1949,
+    "high": 2006.45,
+    "low": 1949,
+    "close": 1983.95,
+    "volume": 109686896,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 1984,
+    "high": 1997.8,
+    "low": 1916.05,
+    "close": 1918,
+    "volume": 68849373,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 1937.35,
+    "high": 1959.95,
+    "low": 1916,
+    "close": 1919.95,
+    "volume": 35538964,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 1944.95,
+    "high": 1968.5,
+    "low": 1910.9,
+    "close": 1951.5,
+    "volume": 61950094,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 1939.5,
+    "high": 1948.6,
+    "low": 1921,
+    "close": 1933.45,
+    "volume": 21915554,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 1941.75,
+    "high": 1954.95,
+    "low": 1922.25,
+    "close": 1931.45,
+    "volume": 46362437,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 1956.95,
+    "high": 1956.95,
+    "low": 1915.15,
+    "close": 1931,
+    "volume": 761695401,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 1980,
+    "high": 1987.9,
+    "low": 1874.95,
+    "close": 1885,
+    "volume": 211298663,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 1929,
+    "high": 1929.2,
+    "low": 1876.15,
+    "close": 1897,
+    "volume": 64504256,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 1887,
+    "high": 1923.65,
+    "low": 1865.35,
+    "close": 1869,
+    "volume": 232520548,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 1890.2,
+    "high": 1894,
+    "low": 1870,
+    "close": 1890,
+    "volume": 168025866,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 1884,
+    "high": 1900.05,
+    "low": 1850,
+    "close": 1851,
+    "volume": 248383604,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 1880,
+    "high": 1880,
+    "low": 1840,
+    "close": 1864.95,
+    "volume": 755227608,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 1861.3,
+    "high": 1907.85,
+    "low": 1855.95,
+    "close": 1891.8,
+    "volume": 121485188,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 1893.95,
+    "high": 1921,
+    "low": 1890.1,
+    "close": 1916,
+    "volume": 152418038,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 1926,
+    "high": 1926,
+    "low": 1895.05,
+    "close": 1915,
+    "volume": 688479743,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 1915,
+    "high": 1925.15,
+    "low": 1900.05,
+    "close": 1910,
+    "volume": 54879806,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 1915.85,
+    "high": 1930,
+    "low": 1852.8,
+    "close": 1902,
+    "volume": 201152370,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 1890,
+    "high": 1947,
+    "low": 1890,
+    "close": 1940.7,
+    "volume": 134190504,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 1948,
+    "high": 1965,
+    "low": 1902,
+    "close": 1918,
+    "volume": 69477165,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 1930.25,
+    "high": 1930.25,
+    "low": 1902.3,
+    "close": 1905,
+    "volume": 37397625,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 1906.85,
+    "high": 1939.9,
+    "low": 1902.1,
+    "close": 1925.6,
+    "volume": 76060103,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 1931.2,
+    "high": 1963,
+    "low": 1912.9,
+    "close": 1941.1,
+    "volume": 73477518,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 1937,
+    "high": 1955,
+    "low": 1891.1,
+    "close": 1923.05,
+    "volume": 109176007,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 1917.65,
+    "high": 1948.7,
+    "low": 1894,
+    "close": 1923.05,
+    "volume": 31058184,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 1949,
+    "high": 1954,
+    "low": 1922.4,
+    "close": 1950,
+    "volume": 560201792,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 1974.9,
+    "high": 1974.9,
+    "low": 1873.05,
+    "close": 1880.4,
+    "volume": 77892634,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 1899,
+    "high": 1919,
+    "low": 1892.4,
+    "close": 1907,
+    "volume": 3265996,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 1919.85,
+    "high": 1920,
+    "low": 1882.6,
+    "close": 1894.5,
+    "volume": 29755412,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 1890,
+    "high": 1915,
+    "low": 1880,
+    "close": 1902,
+    "volume": 337949627,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 1896,
+    "high": 1904,
+    "low": 1878.95,
+    "close": 1885,
+    "volume": 23271769,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 1875,
+    "high": 1900.45,
+    "low": 1875,
+    "close": 1897,
+    "volume": 43435949,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 1897.7,
+    "high": 1903.85,
+    "low": 1880,
+    "close": 1889,
+    "volume": 21114679,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 1905,
+    "high": 1906,
+    "low": 1873,
+    "close": 1878,
+    "volume": 18087260,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 1880.05,
+    "high": 1892.5,
+    "low": 1868.95,
+    "close": 1875,
+    "volume": 13758533,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 1873.75,
+    "high": 1899,
+    "low": 1865,
+    "close": 1894.95,
+    "volume": 42867177,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 1886.75,
+    "high": 1905,
+    "low": 1861,
+    "close": 1897,
+    "volume": 21210274,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 1890,
+    "high": 1893.7,
+    "low": 1829.7,
+    "close": 1885,
+    "volume": 71310680,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 1850,
+    "high": 1879.05,
+    "low": 1845,
+    "close": 1856,
+    "volume": 38628754,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 1878.95,
+    "high": 1890.05,
+    "low": 1860.1,
+    "close": 1864,
+    "volume": 12329703,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 1875,
+    "high": 1875.7,
+    "low": 1851.3,
+    "close": 1854,
+    "volume": 64135697,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 1858.9,
+    "high": 1880.9,
+    "low": 1852.55,
+    "close": 1860,
+    "volume": 34537412,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 1850,
+    "high": 1870.1,
+    "low": 1819.1,
+    "close": 1836.05,
+    "volume": 80813590,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 1847.95,
+    "high": 1912,
+    "low": 1842.45,
+    "close": 1899,
+    "volume": 204723348,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 1908,
+    "high": 1925,
+    "low": 1866.9,
+    "close": 1872.1,
+    "volume": 221981091,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 1904.85,
+    "high": 1904.85,
+    "low": 1855.65,
+    "close": 1857.25,
+    "volume": 26799842,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 1864.95,
+    "high": 1888,
+    "low": 1825,
+    "close": 1832.1,
+    "volume": 55235022,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 1830,
+    "high": 1849.25,
+    "low": 1810,
+    "close": 1815,
+    "volume": 17613357,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 1810,
+    "high": 1865.1,
+    "low": 1808.8,
+    "close": 1835,
+    "volume": 73737478,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 1860,
+    "high": 1875,
+    "low": 1847.85,
+    "close": 1860,
+    "volume": 52752241,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 1851,
+    "high": 1890,
+    "low": 1851,
+    "close": 1888,
+    "volume": 27575381,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 1867.7,
+    "high": 1908.35,
+    "low": 1859.9,
+    "close": 1860.05,
+    "volume": 34703404,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 1873.7,
+    "high": 1894,
+    "low": 1854.8,
+    "close": 1857,
+    "volume": 47174958,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 1857.05,
+    "high": 1861.2,
+    "low": 1823.7,
+    "close": 1827,
+    "volume": 76876368,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 1840.6,
+    "high": 1854,
+    "low": 1815,
+    "close": 1822.8,
+    "volume": 16083842,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 1830.5,
+    "high": 1832,
+    "low": 1810,
+    "close": 1823,
+    "volume": 31649810,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 1825.7,
+    "high": 1828.9,
+    "low": 1793,
+    "close": 1816.25,
+    "volume": 16697184,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 1830,
+    "high": 1830,
+    "low": 1783.4,
+    "close": 1800,
+    "volume": 39259119,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 1810.3,
+    "high": 1819.35,
+    "low": 1766,
+    "close": 1778,
+    "volume": 177385004,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 1793.7,
+    "high": 1819.75,
+    "low": 1783.7,
+    "close": 1818,
+    "volume": 27900905,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 1818,
+    "high": 1842.8,
+    "low": 1818,
+    "close": 1830.8,
+    "volume": 23572764,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 1825,
+    "high": 1840,
+    "low": 1793,
+    "close": 1795,
+    "volume": 19069124,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 1823,
+    "high": 1823,
+    "low": 1767,
+    "close": 1780.15,
+    "volume": 33495409,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 1794.7,
+    "high": 1815.8,
+    "low": 1785.3,
+    "close": 1810,
+    "volume": 18550728,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 1815.8,
+    "high": 1828.7,
+    "low": 1796,
+    "close": 1796,
+    "volume": 19789385,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 1800,
+    "high": 1834,
+    "low": 1800,
+    "close": 1817.95,
+    "volume": 17301993,
+    "symbol": "AIAENG"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 1806.5,
+    "high": 1883.95,
+    "low": 1806.5,
+    "close": 1878.9,
+    "volume": 57881376,
+    "symbol": "AIAENG"
+  }
+]

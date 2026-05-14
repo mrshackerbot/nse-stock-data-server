@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 5432,
+    "high": 5439.6,
+    "low": 5242.65,
+    "close": 5350,
+    "volume": 210971671,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 5374,
+    "high": 5420,
+    "low": 5198.45,
+    "close": 5289,
+    "volume": 180904380,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 5289.9,
+    "high": 5405,
+    "low": 5280.05,
+    "close": 5363,
+    "volume": 191001354,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 5355,
+    "high": 5355,
+    "low": 5220,
+    "close": 5235,
+    "volume": 154367861,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 5250,
+    "high": 5295,
+    "low": 5139.85,
+    "close": 5165,
+    "volume": 212677266,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 5224.4,
+    "high": 5249,
+    "low": 5175,
+    "close": 5210.6,
+    "volume": 140348644,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 5200.05,
+    "high": 5256.35,
+    "low": 5180.6,
+    "close": 5220,
+    "volume": 122915505,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 5258,
+    "high": 5340,
+    "low": 5250,
+    "close": 5309,
+    "volume": 107304707,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 5360,
+    "high": 5370,
+    "low": 5296.25,
+    "close": 5350,
+    "volume": 62462963,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 5355,
+    "high": 5449,
+    "low": 5310.05,
+    "close": 5425,
+    "volume": 107486775,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 5479.45,
+    "high": 5518,
+    "low": 5435,
+    "close": 5500,
+    "volume": 134979353,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 5518,
+    "high": 5587,
+    "low": 5441.3,
+    "close": 5500,
+    "volume": 191126693,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 5499.5,
+    "high": 5550,
+    "low": 5388,
+    "close": 5470,
+    "volume": 112401350,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 5465.7,
+    "high": 5518.9,
+    "low": 5450,
+    "close": 5499,
+    "volume": 97473253,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 5250,
+    "high": 5450,
+    "low": 5250,
+    "close": 5350,
+    "volume": 301251083,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 5381.25,
+    "high": 5418.4,
+    "low": 5000,
+    "close": 5120,
+    "volume": 228168970,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 5100,
+    "high": 5235,
+    "low": 5100,
+    "close": 5139,
+    "volume": 337992609,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 5148.45,
+    "high": 5203.25,
+    "low": 5100,
+    "close": 5118.65,
+    "volume": 1410773543,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 5121,
+    "high": 5170.8,
+    "low": 5079.75,
+    "close": 5101.9,
+    "volume": 170441276,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 5170,
+    "high": 5170.5,
+    "low": 5130,
+    "close": 5160,
+    "volume": 84033387,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 5200,
+    "high": 5275.55,
+    "low": 5165.1,
+    "close": 5250,
+    "volume": 130898928,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 5250,
+    "high": 5269.9,
+    "low": 5235.6,
+    "close": 5260,
+    "volume": 47687057,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 5279.95,
+    "high": 5290,
+    "low": 5175.15,
+    "close": 5230.1,
+    "volume": 83323780,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 5289.95,
+    "high": 5289.95,
+    "low": 5128.5,
+    "close": 5160,
+    "volume": 53968061,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 5244.95,
+    "high": 5268.4,
+    "low": 5088.8,
+    "close": 5101,
+    "volume": 112129427,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 5129.1,
+    "high": 5198.55,
+    "low": 5084.05,
+    "close": 5180,
+    "volume": 80441945,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 5189.95,
+    "high": 5247.55,
+    "low": 5135.05,
+    "close": 5207.9,
+    "volume": 54260341,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 5220,
+    "high": 5258.45,
+    "low": 5158,
+    "close": 5235,
+    "volume": 97013813,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 5167.9,
+    "high": 5242,
+    "low": 5136.65,
+    "close": 5170,
+    "volume": 79673244,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 5051,
+    "high": 5197.45,
+    "low": 5051,
+    "close": 5128,
+    "volume": 111301464,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 5190,
+    "high": 5193.9,
+    "low": 5100,
+    "close": 5172.2,
+    "volume": 69071280,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 5178.35,
+    "high": 5345,
+    "low": 5178.35,
+    "close": 5324,
+    "volume": 383599987,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 5354.95,
+    "high": 5366,
+    "low": 5285.2,
+    "close": 5364,
+    "volume": 86589508,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 5306.1,
+    "high": 5380,
+    "low": 5190,
+    "close": 5370,
+    "volume": 97424259,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 5265,
+    "high": 5377,
+    "low": 5211.2,
+    "close": 5317.35,
+    "volume": 112890530,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 5200,
+    "high": 5265.7,
+    "low": 5151.2,
+    "close": 5202.5,
+    "volume": 108782486,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 5249,
+    "high": 5279.95,
+    "low": 5182,
+    "close": 5215,
+    "volume": 132917602,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 5150,
+    "high": 5150,
+    "low": 5045.55,
+    "close": 5100,
+    "volume": 135948576,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 5122,
+    "high": 5239.95,
+    "low": 5120.05,
+    "close": 5177,
+    "volume": 86645811,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 5158,
+    "high": 5224.9,
+    "low": 5140,
+    "close": 5190.95,
+    "volume": 76447916,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 5155.1,
+    "high": 5239.65,
+    "low": 5081.65,
+    "close": 5103,
+    "volume": 413332104,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 5160,
+    "high": 5160,
+    "low": 5050.2,
+    "close": 5096.8,
+    "volume": 294386372,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 5100,
+    "high": 5147.9,
+    "low": 4905,
+    "close": 4933,
+    "volume": 97863972,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 4870,
+    "high": 5009.45,
+    "low": 4752.05,
+    "close": 4830,
+    "volume": 213835811,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 4801,
+    "high": 4989,
+    "low": 4780,
+    "close": 4960,
+    "volume": 539356936,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 4958,
+    "high": 5100,
+    "low": 4892.55,
+    "close": 5100,
+    "volume": 510246494,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 5250,
+    "high": 5250,
+    "low": 4981.85,
+    "close": 5000,
+    "volume": 139260217,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 4922,
+    "high": 5050.8,
+    "low": 4879.1,
+    "close": 4918,
+    "volume": 438965257,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 4920,
+    "high": 5015.85,
+    "low": 4920,
+    "close": 4970,
+    "volume": 319273259,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 4993.95,
+    "high": 5006,
+    "low": 4875,
+    "close": 4985,
+    "volume": 96050713,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 5050,
+    "high": 5090.95,
+    "low": 5000.5,
+    "close": 5040.85,
+    "volume": 98262741,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 5062,
+    "high": 5100,
+    "low": 4987.1,
+    "close": 5014.7,
+    "volume": 284496174,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 5034,
+    "high": 5041.55,
+    "low": 4993.95,
+    "close": 5006,
+    "volume": 79934413,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 5033.7,
+    "high": 5036.65,
+    "low": 4986.05,
+    "close": 5004,
+    "volume": 186769955,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 5037,
+    "high": 5100,
+    "low": 4980.85,
+    "close": 5034.15,
+    "volume": 99172000,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 5041,
+    "high": 5084.15,
+    "low": 5013.25,
+    "close": 5075,
+    "volume": 1619821904,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 5086,
+    "high": 5136.8,
+    "low": 4976.15,
+    "close": 5000,
+    "volume": 595088687,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 5038,
+    "high": 5059.65,
+    "low": 4980,
+    "close": 5055,
+    "volume": 77129920,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 5035,
+    "high": 5120,
+    "low": 5010,
+    "close": 5040,
+    "volume": 199384900,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 5100,
+    "high": 5162.15,
+    "low": 4887.9,
+    "close": 4975,
+    "volume": 416876491,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 5035,
+    "high": 5244.95,
+    "low": 4982.1,
+    "close": 5110,
+    "volume": 1105604379,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 5030,
+    "high": 5480,
+    "low": 5030,
+    "close": 5375,
+    "volume": 1763036316,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 5425,
+    "high": 6178.55,
+    "low": 5350,
+    "close": 6080,
+    "volume": 1868525044,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 6010.45,
+    "high": 6598,
+    "low": 5951,
+    "close": 6150,
+    "volume": 4904224634,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 6199.7,
+    "high": 6299,
+    "low": 6020.05,
+    "close": 6200,
+    "volume": 2129184276,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 6200,
+    "high": 6342.8,
+    "low": 6142,
+    "close": 6168.65,
+    "volume": 1031724453,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 6180,
+    "high": 6310,
+    "low": 6165,
+    "close": 6180.2,
+    "volume": 446303657,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 6200,
+    "high": 6275,
+    "low": 6101,
+    "close": 6148,
+    "volume": 362873411,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 6155,
+    "high": 6155.05,
+    "low": 5621.3,
+    "close": 5780.5,
+    "volume": 1648641474,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 5780.5,
+    "high": 5894,
+    "low": 5466,
+    "close": 5510,
+    "volume": 994659401,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 5490.4,
+    "high": 5497.9,
+    "low": 5175,
+    "close": 5224,
+    "volume": 783009014,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 5279,
+    "high": 5377,
+    "low": 5108.5,
+    "close": 5125,
+    "volume": 1095863548,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 5225,
+    "high": 5295.15,
+    "low": 5123.15,
+    "close": 5235.5,
+    "volume": 566787403,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 5265,
+    "high": 5414.35,
+    "low": 5216.85,
+    "close": 5331,
+    "volume": 552350925,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 5324,
+    "high": 5380,
+    "low": 5229.5,
+    "close": 5296.4,
+    "volume": 206643421,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 5240,
+    "high": 5434.1,
+    "low": 5166.8,
+    "close": 5330,
+    "volume": 592268592,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 5384.95,
+    "high": 5499,
+    "low": 5357.45,
+    "close": 5441,
+    "volume": 250703818,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 5381,
+    "high": 5439.95,
+    "low": 5312.05,
+    "close": 5349,
+    "volume": 176406492,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 5435,
+    "high": 5570,
+    "low": 5385.7,
+    "close": 5520,
+    "volume": 390048132,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 5542,
+    "high": 5614.85,
+    "low": 5118,
+    "close": 5204,
+    "volume": 570904949,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 5170,
+    "high": 5370,
+    "low": 5165,
+    "close": 5331,
+    "volume": 719572063,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 5350,
+    "high": 5450,
+    "low": 5196.45,
+    "close": 5225.1,
+    "volume": 312942291,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 5290.75,
+    "high": 5360,
+    "low": 5043.45,
+    "close": 5099,
+    "volume": 829744794,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 5029,
+    "high": 5053.05,
+    "low": 4901,
+    "close": 5013,
+    "volume": 235370725,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 4995,
+    "high": 5099.9,
+    "low": 4955.15,
+    "close": 5000,
+    "volume": 201198507,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 5019,
+    "high": 5093.85,
+    "low": 4995,
+    "close": 4995,
+    "volume": 108834971,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 5003.35,
+    "high": 5259,
+    "low": 4760,
+    "close": 5121.85,
+    "volume": 368242845,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 5003,
+    "high": 5050.9,
+    "low": 4797.05,
+    "close": 4840.05,
+    "volume": 382963842,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 4928,
+    "high": 4980.45,
+    "low": 4869.9,
+    "close": 4935,
+    "volume": 158991888,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 4950,
+    "high": 5033.15,
+    "low": 4880,
+    "close": 4920,
+    "volume": 117479174,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 4950,
+    "high": 4998,
+    "low": 4901,
+    "close": 4930,
+    "volume": 112486956,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 4950.9,
+    "high": 5050,
+    "low": 4865.3,
+    "close": 4902.05,
+    "volume": 270086239,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 4850,
+    "high": 4872.05,
+    "low": 4782,
+    "close": 4795.1,
+    "volume": 150532894,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 4894,
+    "high": 4948,
+    "low": 4848,
+    "close": 4920,
+    "volume": 132046709,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 4929.85,
+    "high": 4980,
+    "low": 4850,
+    "close": 4892,
+    "volume": 121740586,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 4925.25,
+    "high": 4998.7,
+    "low": 4875,
+    "close": 4920,
+    "volume": 97529174,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 4935.1,
+    "high": 4974.85,
+    "low": 4875,
+    "close": 4877,
+    "volume": 75846554,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 4930.8,
+    "high": 4950,
+    "low": 4865,
+    "close": 4895,
+    "volume": 152495188,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 4945.4,
+    "high": 5060,
+    "low": 4919.05,
+    "close": 4998.55,
+    "volume": 112942872,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 5055,
+    "high": 5076.9,
+    "low": 4990,
+    "close": 5060,
+    "volume": 80559790,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 5088,
+    "high": 5200,
+    "low": 5063.9,
+    "close": 5129.15,
+    "volume": 266691558,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 5151,
+    "high": 5175,
+    "low": 5018,
+    "close": 5045.6,
+    "volume": 70860407,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 5050,
+    "high": 5054.65,
+    "low": 5000.1,
+    "close": 5040,
+    "volume": 32703254,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 5091.1,
+    "high": 5100,
+    "low": 4971.15,
+    "close": 4999,
+    "volume": 40239449,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 4995.1,
+    "high": 5099,
+    "low": 4960,
+    "close": 5001,
+    "volume": 95635221,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 5000,
+    "high": 5010,
+    "low": 4932.1,
+    "close": 4985,
+    "volume": 421262595,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 4979.9,
+    "high": 4995.25,
+    "low": 4903,
+    "close": 4942,
+    "volume": 123826916,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 4938.55,
+    "high": 4965,
+    "low": 4905.7,
+    "close": 4942,
+    "volume": 32931218,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 4988,
+    "high": 5034,
+    "low": 4941.75,
+    "close": 4987,
+    "volume": 173941071,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 4978.95,
+    "high": 4978.95,
+    "low": 4800,
+    "close": 4944.95,
+    "volume": 65570199,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 4951,
+    "high": 5009.8,
+    "low": 4891.25,
+    "close": 4892.1,
+    "volume": 1037318220,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 4939.95,
+    "high": 5069.15,
+    "low": 4912.5,
+    "close": 4933,
+    "volume": 127861698,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 4940,
+    "high": 5011.15,
+    "low": 4751.1,
+    "close": 4760,
+    "volume": 154723034,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 4775.65,
+    "high": 4784.45,
+    "low": 4445,
+    "close": 4480,
+    "volume": 409552439,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 4471.7,
+    "high": 4545,
+    "low": 4294.05,
+    "close": 4533.3,
+    "volume": 186026480,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 4496,
+    "high": 4718.9,
+    "low": 4495.9,
+    "close": 4590,
+    "volume": 227727756,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 4596,
+    "high": 4622.35,
+    "low": 4465.6,
+    "close": 4480,
+    "volume": 135771721,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 4515,
+    "high": 4574,
+    "low": 4442,
+    "close": 4505,
+    "volume": 138436998,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 4525,
+    "high": 4671,
+    "low": 4525,
+    "close": 4656.4,
+    "volume": 149116647,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 4691,
+    "high": 4787.95,
+    "low": 4690.5,
+    "close": 4742,
+    "volume": 84097581,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 4760,
+    "high": 4767.25,
+    "low": 4609.05,
+    "close": 4640,
+    "volume": 59860016,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 4637,
+    "high": 4949,
+    "low": 4455,
+    "close": 4700,
+    "volume": 272887171,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 4620,
+    "high": 4862,
+    "low": 4502.2,
+    "close": 4528,
+    "volume": 1147132472,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 4534.9,
+    "high": 4655,
+    "low": 4511,
+    "close": 4570,
+    "volume": 275247143,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 4595.95,
+    "high": 4660,
+    "low": 4555.55,
+    "close": 4585,
+    "volume": 106558567,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 4599.8,
+    "high": 4750,
+    "low": 4585.05,
+    "close": 4730,
+    "volume": 178184883,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 4725,
+    "high": 4800,
+    "low": 4701.5,
+    "close": 4776,
+    "volume": 113746159,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 4838,
+    "high": 4860,
+    "low": 4788,
+    "close": 4854,
+    "volume": 73338642,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 4862,
+    "high": 4885.55,
+    "low": 4809,
+    "close": 4837.65,
+    "volume": 46962017,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 4835.5,
+    "high": 4931,
+    "low": 4812.95,
+    "close": 4902,
+    "volume": 99917536,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 4898,
+    "high": 4998,
+    "low": 4781.3,
+    "close": 4865,
+    "volume": 124134571,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 4928,
+    "high": 4965.55,
+    "low": 4780,
+    "close": 4797,
+    "volume": 91008853,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 4830.25,
+    "high": 4830.25,
+    "low": 4722.55,
+    "close": 4750,
+    "volume": 255233895,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 4755.4,
+    "high": 4804.85,
+    "low": 4726,
+    "close": 4750.1,
+    "volume": 45853584,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 4770,
+    "high": 4789.75,
+    "low": 4721.35,
+    "close": 4763.05,
+    "volume": 140106230,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 4789,
+    "high": 4814,
+    "low": 4741,
+    "close": 4770,
+    "volume": 163461288,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 4802.05,
+    "high": 4856.4,
+    "low": 4776.1,
+    "close": 4809.9,
+    "volume": 549692354,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 4831,
+    "high": 4865,
+    "low": 4775,
+    "close": 4818,
+    "volume": 462860780,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 4844,
+    "high": 4873.9,
+    "low": 4802,
+    "close": 4806.6,
+    "volume": 63856278,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 4841.95,
+    "high": 4888,
+    "low": 4825,
+    "close": 4850,
+    "volume": 81498358,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 4870,
+    "high": 5055,
+    "low": 4853,
+    "close": 4860.3,
+    "volume": 771666805,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 4878,
+    "high": 4922,
+    "low": 4825.15,
+    "close": 4880,
+    "volume": 73443935,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 4910,
+    "high": 5245,
+    "low": 4910,
+    "close": 5220,
+    "volume": 1263209473,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 5299.75,
+    "high": 5469.7,
+    "low": 5132.2,
+    "close": 5171,
+    "volume": 963900355,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 5205,
+    "high": 5271,
+    "low": 5100,
+    "close": 5257.45,
+    "volume": 354755958,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 5298,
+    "high": 5336.45,
+    "low": 5185,
+    "close": 5295,
+    "volume": 320280243,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 5305,
+    "high": 5318,
+    "low": 5242.45,
+    "close": 5278.9,
+    "volume": 138058082,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 5285,
+    "high": 5370,
+    "low": 5285,
+    "close": 5304.75,
+    "volume": 253499626,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 5341,
+    "high": 5390.9,
+    "low": 5131.05,
+    "close": 5375,
+    "volume": 484930499,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 5295,
+    "high": 5403.7,
+    "low": 5295,
+    "close": 5320,
+    "volume": 217138827,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 5370.65,
+    "high": 5370.65,
+    "low": 5290.55,
+    "close": 5360,
+    "volume": 157476984,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 5363,
+    "high": 5400,
+    "low": 5308.55,
+    "close": 5330,
+    "volume": 123531762,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 5349,
+    "high": 5349,
+    "low": 5301.4,
+    "close": 5320,
+    "volume": 65562023,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 5349,
+    "high": 5360.95,
+    "low": 5313.05,
+    "close": 5320,
+    "volume": 72472116,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 5340,
+    "high": 5449,
+    "low": 5326.25,
+    "close": 5440,
+    "volume": 287849807,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 5457.8,
+    "high": 5700,
+    "low": 5454.85,
+    "close": 5494,
+    "volume": 1712895814,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 5531,
+    "high": 5594.45,
+    "low": 5383.35,
+    "close": 5450,
+    "volume": 417409107,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 5450.25,
+    "high": 5468.4,
+    "low": 5355,
+    "close": 5400,
+    "volume": 212378694,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 5365,
+    "high": 5440,
+    "low": 5276.95,
+    "close": 5382.6,
+    "volume": 272691123,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 5360,
+    "high": 5445,
+    "low": 5360,
+    "close": 5409,
+    "volume": 154836702,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 5450,
+    "high": 5474.85,
+    "low": 5390,
+    "close": 5400,
+    "volume": 158837855,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 5469.95,
+    "high": 5473,
+    "low": 5401,
+    "close": 5413.35,
+    "volume": 81809604,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 5370,
+    "high": 5437.85,
+    "low": 5301,
+    "close": 5419,
+    "volume": 174890485,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 5460,
+    "high": 5538.6,
+    "low": 5411.65,
+    "close": 5460,
+    "volume": 148501610,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 5450,
+    "high": 5799,
+    "low": 5415,
+    "close": 5779.9,
+    "volume": 619818530,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 5788,
+    "high": 5840,
+    "low": 5615.65,
+    "close": 5655,
+    "volume": 339264143,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 5621,
+    "high": 5736.75,
+    "low": 5581,
+    "close": 5700,
+    "volume": 270992404,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 5715,
+    "high": 5840,
+    "low": 5672.75,
+    "close": 5810,
+    "volume": 439077262,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 5760,
+    "high": 5840.15,
+    "low": 5753.95,
+    "close": 5765,
+    "volume": 214463060,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 5830,
+    "high": 6690,
+    "low": 5767,
+    "close": 6550,
+    "volume": 2173081093,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 6550,
+    "high": 6829,
+    "low": 6526.15,
+    "close": 6630,
+    "volume": 3696978053,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 6660.65,
+    "high": 6793.35,
+    "low": 6555,
+    "close": 6600,
+    "volume": 1230010626,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 6632,
+    "high": 6700.3,
+    "low": 6561,
+    "close": 6600,
+    "volume": 932445403,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 6620,
+    "high": 7300,
+    "low": 6583.55,
+    "close": 7158,
+    "volume": 3649562597,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 7240,
+    "high": 7378.45,
+    "low": 6821.05,
+    "close": 7094,
+    "volume": 3082137910,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 7090,
+    "high": 7090,
+    "low": 6675,
+    "close": 6770,
+    "volume": 1846054321,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 6831,
+    "high": 6960,
+    "low": 6768.25,
+    "close": 6895,
+    "volume": 930139599,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 6960,
+    "high": 7039.9,
+    "low": 6834.85,
+    "close": 6969.1,
+    "volume": 747554055,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 6980,
+    "high": 6980,
+    "low": 6870,
+    "close": 6925,
+    "volume": 510026782,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 6840,
+    "high": 6990,
+    "low": 6819.25,
+    "close": 6930,
+    "volume": 787659075,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 6937,
+    "high": 6970,
+    "low": 6810.05,
+    "close": 6885,
+    "volume": 541230417,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 6799.95,
+    "high": 6839,
+    "low": 6655,
+    "close": 6765,
+    "volume": 559865279,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 6699.4,
+    "high": 6749.5,
+    "low": 6510,
+    "close": 6660,
+    "volume": 705472445,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 6641,
+    "high": 6737.25,
+    "low": 6550,
+    "close": 6652,
+    "volume": 598175725,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 6676.8,
+    "high": 6736.15,
+    "low": 6140,
+    "close": 6378,
+    "volume": 952994736,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 6341.6,
+    "high": 6596,
+    "low": 6181.15,
+    "close": 6501,
+    "volume": 945200350,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 6433.5,
+    "high": 6623.95,
+    "low": 6410.85,
+    "close": 6482.95,
+    "volume": 731050283,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 6585,
+    "high": 6611,
+    "low": 6482.1,
+    "close": 6540,
+    "volume": 439739363,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 6569.75,
+    "high": 6652.85,
+    "low": 6465.6,
+    "close": 6551,
+    "volume": 723886767,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 6640,
+    "high": 6820,
+    "low": 6582.05,
+    "close": 6776,
+    "volume": 1508576953,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 6701,
+    "high": 6768,
+    "low": 6675,
+    "close": 6721,
+    "volume": 522824484,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 6717.35,
+    "high": 6743.05,
+    "low": 6622.45,
+    "close": 6659.95,
+    "volume": 505519938,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 6659.6,
+    "high": 6759.55,
+    "low": 6610.9,
+    "close": 6663,
+    "volume": 598251551,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 6684,
+    "high": 6690,
+    "low": 6607,
+    "close": 6640,
+    "volume": 580825206,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 6690,
+    "high": 6752.6,
+    "low": 6560,
+    "close": 6578.95,
+    "volume": 538532446,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 6595.9,
+    "high": 6685,
+    "low": 6571.55,
+    "close": 6592,
+    "volume": 554075652,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 6625,
+    "high": 6750,
+    "low": 6625,
+    "close": 6680,
+    "volume": 586512100,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 6734,
+    "high": 6850,
+    "low": 6700,
+    "close": 6708,
+    "volume": 762628869,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 6734,
+    "high": 6734,
+    "low": 6448.05,
+    "close": 6473.7,
+    "volume": 819330966,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 6500,
+    "high": 6548.95,
+    "low": 6301,
+    "close": 6380,
+    "volume": 743351945,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 6433.2,
+    "high": 6499.25,
+    "low": 6433.15,
+    "close": 6484,
+    "volume": 19520600,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 6502,
+    "high": 6575,
+    "low": 6420.15,
+    "close": 6500,
+    "volume": 837619212,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 6578,
+    "high": 6605,
+    "low": 6500,
+    "close": 6565,
+    "volume": 706005179,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 6600,
+    "high": 6665,
+    "low": 6506.7,
+    "close": 6605,
+    "volume": 735007343,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 6664.2,
+    "high": 6700,
+    "low": 6598.85,
+    "close": 6650,
+    "volume": 513832641,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 6665,
+    "high": 6765,
+    "low": 6648.05,
+    "close": 6693,
+    "volume": 466035519,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 6713.5,
+    "high": 6736,
+    "low": 6650,
+    "close": 6700,
+    "volume": 374892677,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 6708.1,
+    "high": 6802.5,
+    "low": 6685.85,
+    "close": 6711,
+    "volume": 1306584112,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 6740,
+    "high": 6777.9,
+    "low": 6670,
+    "close": 6695,
+    "volume": 345348069,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 6755.75,
+    "high": 6799,
+    "low": 6714.3,
+    "close": 6779,
+    "volume": 616152763,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 6840,
+    "high": 6890.9,
+    "low": 6783,
+    "close": 6890,
+    "volume": 1341002246,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 6896.1,
+    "high": 6931,
+    "low": 6608.1,
+    "close": 6816,
+    "volume": 912848018,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 6900,
+    "high": 7078.25,
+    "low": 6666.25,
+    "close": 6697.9,
+    "volume": 1148802298,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 6732.45,
+    "high": 6767.25,
+    "low": 6568.05,
+    "close": 6627.1,
+    "volume": 607541397,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 6687.5,
+    "high": 6750,
+    "low": 6606.55,
+    "close": 6658.95,
+    "volume": 641759530,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 6690,
+    "high": 6809.75,
+    "low": 6560,
+    "close": 6650.1,
+    "volume": 1103733601,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 6689,
+    "high": 6743.95,
+    "low": 6605,
+    "close": 6652,
+    "volume": 590248119,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 6684,
+    "high": 6694,
+    "low": 6560.7,
+    "close": 6578,
+    "volume": 588572937,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 6594.4,
+    "high": 6640,
+    "low": 6492.3,
+    "close": 6530,
+    "volume": 594742213,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 6526,
+    "high": 6600,
+    "low": 6512.3,
+    "close": 6590,
+    "volume": 494829985,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 6615,
+    "high": 6674.95,
+    "low": 6440.2,
+    "close": 6498.95,
+    "volume": 553122699,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 6520.2,
+    "high": 6549,
+    "low": 6388.3,
+    "close": 6518,
+    "volume": 747524373,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 6547,
+    "high": 6580,
+    "low": 6351.6,
+    "close": 6373.9,
+    "volume": 708865828,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 6381.25,
+    "high": 6517.55,
+    "low": 6319.55,
+    "close": 6376.1,
+    "volume": 2110199894,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 6420.8,
+    "high": 6440.8,
+    "low": 5990.65,
+    "close": 6025,
+    "volume": 1565555358,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 6065,
+    "high": 6624,
+    "low": 6006,
+    "close": 6593,
+    "volume": 25402307203,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 6271,
+    "high": 6349,
+    "low": 6185.25,
+    "close": 6309,
+    "volume": 1584890005,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 6324.75,
+    "high": 6395,
+    "low": 6288.05,
+    "close": 6346.8,
+    "volume": 593914916,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 6381,
+    "high": 6381,
+    "low": 6202,
+    "close": 6248.8,
+    "volume": 715940292,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 6250,
+    "high": 6251.6,
+    "low": 6141,
+    "close": 6199.75,
+    "volume": 613873092,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 6220,
+    "high": 6260.4,
+    "low": 6184.05,
+    "close": 6209,
+    "volume": 392988448,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 6210,
+    "high": 6268.4,
+    "low": 6142,
+    "close": 6177,
+    "volume": 450737997,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 6227.15,
+    "high": 6290.55,
+    "low": 6112,
+    "close": 6165,
+    "volume": 456964304,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 6201,
+    "high": 6245,
+    "low": 6180,
+    "close": 6196,
+    "volume": 371875244,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 6201.05,
+    "high": 6310,
+    "low": 6201.05,
+    "close": 6247,
+    "volume": 216477735,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 6265.95,
+    "high": 6287.05,
+    "low": 6175,
+    "close": 6247.9,
+    "volume": 197227037,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 6220.05,
+    "high": 6269.1,
+    "low": 6120.2,
+    "close": 6147,
+    "volume": 266190373,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 6160,
+    "high": 6166,
+    "low": 6050,
+    "close": 6097,
+    "volume": 250961799,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 6098.5,
+    "high": 6166,
+    "low": 6090.45,
+    "close": 6118,
+    "volume": 340598777,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 6118,
+    "high": 6198,
+    "low": 6090.1,
+    "close": 6180,
+    "volume": 567600881,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 6173,
+    "high": 6225,
+    "low": 6090,
+    "close": 6163.55,
+    "volume": 110834566,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 6147,
+    "high": 6199.95,
+    "low": 6070.2,
+    "close": 6101,
+    "volume": 201966852,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 6099,
+    "high": 6129.85,
+    "low": 5706.35,
+    "close": 5757,
+    "volume": 258296108,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 5799.75,
+    "high": 5878.1,
+    "low": 5700,
+    "close": 5767.5,
+    "volume": 189992733,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 5844.25,
+    "high": 5900,
+    "low": 5784.1,
+    "close": 5890,
+    "volume": 435879271,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 5850,
+    "high": 5875,
+    "low": 5833,
+    "close": 5861.8,
+    "volume": 464088185,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 5850,
+    "high": 5874.95,
+    "low": 5796.85,
+    "close": 5860,
+    "volume": 244956502,
+    "symbol": "BAJAJHLDNG"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 5900,
+    "high": 5921,
+    "low": 5655.6,
+    "close": 5716.55,
+    "volume": 650555758,
+    "symbol": "BAJAJHLDNG"
+  }
+]

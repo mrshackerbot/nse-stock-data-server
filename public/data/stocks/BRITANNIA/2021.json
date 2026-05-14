@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 3575,
+    "high": 3605,
+    "low": 3563.05,
+    "close": 3573,
+    "volume": 1621139598,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 3589,
+    "high": 3593.9,
+    "low": 3537,
+    "close": 3567,
+    "volume": 2483460499,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 3549,
+    "high": 3563.95,
+    "low": 3540,
+    "close": 3558.45,
+    "volume": 2574382246,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 3568,
+    "high": 3602,
+    "low": 3510,
+    "close": 3541.65,
+    "volume": 3911734762,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 3560,
+    "high": 3567.95,
+    "low": 3516.45,
+    "close": 3558.2,
+    "volume": 2204029076,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 3574,
+    "high": 3589.95,
+    "low": 3532.85,
+    "close": 3575,
+    "volume": 3421103544,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 3603.8,
+    "high": 3625,
+    "low": 3547.65,
+    "close": 3613,
+    "volume": 3761836022,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 3624,
+    "high": 3648.8,
+    "low": 3586.3,
+    "close": 3631,
+    "volume": 3239827735,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 3640,
+    "high": 3648,
+    "low": 3600,
+    "close": 3622,
+    "volume": 2892876680,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 3623,
+    "high": 3704.9,
+    "low": 3619.6,
+    "close": 3662.55,
+    "volume": 4382784366,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 3680,
+    "high": 3685,
+    "low": 3571,
+    "close": 3606,
+    "volume": 2162962006,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 3609.05,
+    "high": 3665,
+    "low": 3575,
+    "close": 3597.3,
+    "volume": 2996972532,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 3628.75,
+    "high": 3649.85,
+    "low": 3587,
+    "close": 3605,
+    "volume": 2142069769,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 3605,
+    "high": 3641,
+    "low": 3585,
+    "close": 3587.1,
+    "volume": 2191768419,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 3604.7,
+    "high": 3666.55,
+    "low": 3602.6,
+    "close": 3637.3,
+    "volume": 3036797345,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 3649,
+    "high": 3690,
+    "low": 3591,
+    "close": 3613.45,
+    "volume": 2887274823,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 3633.85,
+    "high": 3639.85,
+    "low": 3576.25,
+    "close": 3608,
+    "volume": 1685772174,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 3613.55,
+    "high": 3649.9,
+    "low": 3593.8,
+    "close": 3619,
+    "volume": 2343917878,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 3588.7,
+    "high": 3650,
+    "low": 3559.25,
+    "close": 3607.05,
+    "volume": 2325157610,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 3605.2,
+    "high": 3620.8,
+    "low": 3480.2,
+    "close": 3508,
+    "volume": 2605388212,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 3539,
+    "high": 3557.9,
+    "low": 3483,
+    "close": 3532,
+    "volume": 1914655841,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 3547.9,
+    "high": 3554,
+    "low": 3483.75,
+    "close": 3514,
+    "volume": 3054752873,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 3526.05,
+    "high": 3544,
+    "low": 3501,
+    "close": 3522.05,
+    "volume": 2766828345,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 3521.95,
+    "high": 3608.05,
+    "low": 3511.05,
+    "close": 3572,
+    "volume": 3409733706,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 3616,
+    "high": 3616,
+    "low": 3530.45,
+    "close": 3541.5,
+    "volume": 4127715971,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 3601,
+    "high": 3616.9,
+    "low": 3464.1,
+    "close": 3476.1,
+    "volume": 8347351050,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 3505,
+    "high": 3505,
+    "low": 3455,
+    "close": 3468,
+    "volume": 3310336361,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 3467.9,
+    "high": 3485.1,
+    "low": 3417.05,
+    "close": 3427,
+    "volume": 3070017834,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 3430.75,
+    "high": 3470,
+    "low": 3420,
+    "close": 3469.9,
+    "volume": 3013132724,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 3480,
+    "high": 3489,
+    "low": 3409.05,
+    "close": 3423,
+    "volume": 2129339987,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 3429,
+    "high": 3445,
+    "low": 3403,
+    "close": 3419.5,
+    "volume": 1757082435,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 3432,
+    "high": 3432.35,
+    "low": 3385.05,
+    "close": 3392.35,
+    "volume": 2358084848,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 3370,
+    "high": 3404.85,
+    "low": 3360,
+    "close": 3364.65,
+    "volume": 2925030579,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 3368,
+    "high": 3390.95,
+    "low": 3340.1,
+    "close": 3367.6,
+    "volume": 2073415472,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 3359,
+    "high": 3383,
+    "low": 3320,
+    "close": 3331.95,
+    "volume": 2558376007,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 3350,
+    "high": 3373.75,
+    "low": 3317.3,
+    "close": 3338,
+    "volume": 2231462523,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 3349.8,
+    "high": 3368,
+    "low": 3325.3,
+    "close": 3340,
+    "volume": 1620158230,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 3360,
+    "high": 3415,
+    "low": 3341,
+    "close": 3399.95,
+    "volume": 1734421380,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 3420,
+    "high": 3425.7,
+    "low": 3374.6,
+    "close": 3407.5,
+    "volume": 1992818895,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 3389,
+    "high": 3408.95,
+    "low": 3343,
+    "close": 3360.4,
+    "volume": 2523777069,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 3371.5,
+    "high": 3420,
+    "low": 3367.05,
+    "close": 3412,
+    "volume": 1282472164,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 3411.8,
+    "high": 3450,
+    "low": 3395,
+    "close": 3447.3,
+    "volume": 1318196564,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 3460,
+    "high": 3487.15,
+    "low": 3435,
+    "close": 3477.15,
+    "volume": 1420411878,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 3450,
+    "high": 3514.8,
+    "low": 3450,
+    "close": 3500.05,
+    "volume": 1877787747,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 3486,
+    "high": 3506.65,
+    "low": 3460.75,
+    "close": 3492.9,
+    "volume": 2136562883,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 3493.6,
+    "high": 3508.95,
+    "low": 3451,
+    "close": 3459,
+    "volume": 1615381187,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 3473.5,
+    "high": 3489.15,
+    "low": 3397.35,
+    "close": 3438.5,
+    "volume": 2024419132,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 3451.9,
+    "high": 3489,
+    "low": 3438.5,
+    "close": 3475,
+    "volume": 939158562,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 3491.9,
+    "high": 3493.85,
+    "low": 3425,
+    "close": 3435,
+    "volume": 1188784725,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 3443.6,
+    "high": 3456.55,
+    "low": 3399,
+    "close": 3451.95,
+    "volume": 1069981023,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 3462.6,
+    "high": 3500,
+    "low": 3456.05,
+    "close": 3488,
+    "volume": 1335132899,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 3488,
+    "high": 3499,
+    "low": 3446.3,
+    "close": 3470.6,
+    "volume": 1312595848,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 3480,
+    "high": 3487.9,
+    "low": 3427.4,
+    "close": 3439.95,
+    "volume": 1485273997,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 3424.6,
+    "high": 3494.85,
+    "low": 3379,
+    "close": 3471.55,
+    "volume": 4538864514,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 3440.1,
+    "high": 3570,
+    "low": 3440.1,
+    "close": 3555.1,
+    "volume": 2896058393,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 3570,
+    "high": 3578,
+    "low": 3525,
+    "close": 3555.65,
+    "volume": 1641187962,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 3536,
+    "high": 3568.2,
+    "low": 3522,
+    "close": 3536,
+    "volume": 1701509043,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 3535,
+    "high": 3564.8,
+    "low": 3429,
+    "close": 3442,
+    "volume": 1697887924,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 3455.35,
+    "high": 3515,
+    "low": 3455.35,
+    "close": 3505,
+    "volume": 954562111,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 3514,
+    "high": 3625,
+    "low": 3510.05,
+    "close": 3600,
+    "volume": 2040413996,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 3616,
+    "high": 3655,
+    "low": 3592.5,
+    "close": 3610,
+    "volume": 1602878828,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 3635,
+    "high": 3670,
+    "low": 3610.25,
+    "close": 3619.1,
+    "volume": 1675399995,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 3635,
+    "high": 3720,
+    "low": 3630,
+    "close": 3700,
+    "volume": 2977380546,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 3708,
+    "high": 3736.4,
+    "low": 3680,
+    "close": 3731.75,
+    "volume": 1716714379,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 3732,
+    "high": 3820,
+    "low": 3711.55,
+    "close": 3795,
+    "volume": 2398336795,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 3780,
+    "high": 3834,
+    "low": 3761.05,
+    "close": 3817,
+    "volume": 2332941818,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 3816.75,
+    "high": 3843.7,
+    "low": 3790,
+    "close": 3797,
+    "volume": 2011486641,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 3777.95,
+    "high": 3850,
+    "low": 3750,
+    "close": 3814,
+    "volume": 4220046695,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 3814.1,
+    "high": 3847,
+    "low": 3729.05,
+    "close": 3748,
+    "volume": 1562715920,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 3751,
+    "high": 3799.9,
+    "low": 3673,
+    "close": 3696.25,
+    "volume": 1831930892,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 3695.5,
+    "high": 3733.95,
+    "low": 3676.55,
+    "close": 3704.9,
+    "volume": 932474619,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 3685,
+    "high": 3755,
+    "low": 3653.05,
+    "close": 3730,
+    "volume": 2084277958,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 3731.9,
+    "high": 3752.75,
+    "low": 3690.1,
+    "close": 3725,
+    "volume": 1234992549,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 3725.1,
+    "high": 3766,
+    "low": 3692.15,
+    "close": 3743.2,
+    "volume": 1587899488,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 3755,
+    "high": 3760.9,
+    "low": 3640.5,
+    "close": 3651.8,
+    "volume": 1811883488,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 3661.1,
+    "high": 3662,
+    "low": 3531,
+    "close": 3546,
+    "volume": 3670381721,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 3572.7,
+    "high": 3574.6,
+    "low": 3517,
+    "close": 3546,
+    "volume": 2879697386,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 3488,
+    "high": 3527,
+    "low": 3469,
+    "close": 3470,
+    "volume": 5236339000,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 3496.75,
+    "high": 3505.9,
+    "low": 3447,
+    "close": 3464,
+    "volume": 2121194900,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 3460,
+    "high": 3468.35,
+    "low": 3437,
+    "close": 3444.8,
+    "volume": 1505071263,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 3439.1,
+    "high": 3478.7,
+    "low": 3431.6,
+    "close": 3440.75,
+    "volume": 1971032750,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 3432,
+    "high": 3462,
+    "low": 3420,
+    "close": 3437.7,
+    "volume": 1162692338,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 3441.1,
+    "high": 3458.9,
+    "low": 3436.25,
+    "close": 3449,
+    "volume": 807853369,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 3452,
+    "high": 3491.5,
+    "low": 3439.7,
+    "close": 3452,
+    "volume": 1329807097,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 3484.7,
+    "high": 3484.7,
+    "low": 3452.25,
+    "close": 3462.9,
+    "volume": 655392544,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 3478,
+    "high": 3478,
+    "low": 3403.5,
+    "close": 3417,
+    "volume": 2373929735,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 3413.8,
+    "high": 3434.7,
+    "low": 3396.05,
+    "close": 3421,
+    "volume": 1555906544,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 3404,
+    "high": 3445,
+    "low": 3401.15,
+    "close": 3438.2,
+    "volume": 865472987,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 3450,
+    "high": 3524.5,
+    "low": 3438.2,
+    "close": 3503.45,
+    "volume": 2369318158,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 3518.95,
+    "high": 3533.9,
+    "low": 3496.05,
+    "close": 3506,
+    "volume": 1187558394,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 3525.2,
+    "high": 3533.9,
+    "low": 3480,
+    "close": 3528.75,
+    "volume": 1665703978,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 3535,
+    "high": 3555,
+    "low": 3516.05,
+    "close": 3537,
+    "volume": 2437001089,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 3500,
+    "high": 3517.7,
+    "low": 3415,
+    "close": 3428.9,
+    "volume": 3605952908,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 3449,
+    "high": 3449,
+    "low": 3418,
+    "close": 3441.05,
+    "volume": 1788605184,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 3459,
+    "high": 3459,
+    "low": 3371.4,
+    "close": 3384.55,
+    "volume": 5570284901,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 3385,
+    "high": 3447,
+    "low": 3385,
+    "close": 3441,
+    "volume": 4519020041,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 3441.05,
+    "high": 3453.85,
+    "low": 3413.05,
+    "close": 3417.5,
+    "volume": 1278892702,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 3430,
+    "high": 3437.5,
+    "low": 3400.05,
+    "close": 3424.45,
+    "volume": 1518736460,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 3417,
+    "high": 3449,
+    "low": 3410,
+    "close": 3428.7,
+    "volume": 854718605,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 3428.75,
+    "high": 3458.4,
+    "low": 3427.25,
+    "close": 3445,
+    "volume": 1215783540,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 3458,
+    "high": 3469.1,
+    "low": 3442,
+    "close": 3443.5,
+    "volume": 817494986,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 3446.75,
+    "high": 3486,
+    "low": 3446.05,
+    "close": 3477,
+    "volume": 1459245592,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 3480,
+    "high": 3499.5,
+    "low": 3467.4,
+    "close": 3492.5,
+    "volume": 1329219383,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 3500,
+    "high": 3512,
+    "low": 3480,
+    "close": 3492,
+    "volume": 1093312084,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 3506.5,
+    "high": 3555,
+    "low": 3478.5,
+    "close": 3544,
+    "volume": 1258953823,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 3544.5,
+    "high": 3622,
+    "low": 3542.6,
+    "close": 3597.35,
+    "volume": 2834717993,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 3598,
+    "high": 3608.35,
+    "low": 3557.1,
+    "close": 3570,
+    "volume": 1957914028,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 3571,
+    "high": 3611.6,
+    "low": 3555,
+    "close": 3573.5,
+    "volume": 1273990307,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 3575,
+    "high": 3595,
+    "low": 3551,
+    "close": 3553.3,
+    "volume": 1074425711,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 3557.9,
+    "high": 3598,
+    "low": 3510.45,
+    "close": 3595,
+    "volume": 1113143355,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 3593.35,
+    "high": 3640.5,
+    "low": 3593,
+    "close": 3631,
+    "volume": 1632539843,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 3631.05,
+    "high": 3644.8,
+    "low": 3605.05,
+    "close": 3629.5,
+    "volume": 843947632,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 3625.9,
+    "high": 3663,
+    "low": 3609.5,
+    "close": 3656.45,
+    "volume": 1094624679,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 3661.4,
+    "high": 3679,
+    "low": 3595,
+    "close": 3624.95,
+    "volume": 2657241099,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 3600,
+    "high": 3653.95,
+    "low": 3581.1,
+    "close": 3650,
+    "volume": 840631702,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 3650,
+    "high": 3665,
+    "low": 3616,
+    "close": 3650,
+    "volume": 858026240,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 3652,
+    "high": 3684.3,
+    "low": 3631,
+    "close": 3661.95,
+    "volume": 1389613501,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 3659.3,
+    "high": 3704.85,
+    "low": 3651,
+    "close": 3682.25,
+    "volume": 1421115794,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 3709.9,
+    "high": 3709.9,
+    "low": 3644.9,
+    "close": 3665,
+    "volume": 648521932,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 3670.05,
+    "high": 3685,
+    "low": 3643,
+    "close": 3674,
+    "volume": 665909927,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 3655,
+    "high": 3667.1,
+    "low": 3610.05,
+    "close": 3654.2,
+    "volume": 1301313556,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 3675,
+    "high": 3690,
+    "low": 3632.95,
+    "close": 3652.9,
+    "volume": 1564395690,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 3640,
+    "high": 3661,
+    "low": 3580.65,
+    "close": 3596.95,
+    "volume": 2217323888,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 3609,
+    "high": 3609,
+    "low": 3535,
+    "close": 3552,
+    "volume": 1040811177,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 3564,
+    "high": 3584.5,
+    "low": 3512.4,
+    "close": 3527,
+    "volume": 1835299801,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 3526,
+    "high": 3533.85,
+    "low": 3508.65,
+    "close": 3520.9,
+    "volume": 993002654,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 3521,
+    "high": 3542,
+    "low": 3506,
+    "close": 3536.95,
+    "volume": 1848175909,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 3499,
+    "high": 3525.9,
+    "low": 3473.25,
+    "close": 3490,
+    "volume": 2189094780,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 3491,
+    "high": 3518,
+    "low": 3468,
+    "close": 3479,
+    "volume": 2074271251,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 3482.2,
+    "high": 3500,
+    "low": 3464.1,
+    "close": 3476,
+    "volume": 508246636,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 3488.75,
+    "high": 3489.45,
+    "low": 3465.1,
+    "close": 3484,
+    "volume": 635866664,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 3474,
+    "high": 3488.15,
+    "low": 3454.15,
+    "close": 3487.25,
+    "volume": 1593716048,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 3503,
+    "high": 3503,
+    "low": 3455.5,
+    "close": 3459.95,
+    "volume": 917251421,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 3460,
+    "high": 3472.7,
+    "low": 3437.1,
+    "close": 3444,
+    "volume": 1375853910,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 3440.4,
+    "high": 3457.5,
+    "low": 3426.1,
+    "close": 3450.05,
+    "volume": 780928133,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 3455,
+    "high": 3466.95,
+    "low": 3426.5,
+    "close": 3434.9,
+    "volume": 526570192,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 3449.5,
+    "high": 3449.5,
+    "low": 3415,
+    "close": 3424.95,
+    "volume": 1335799846,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 3427,
+    "high": 3452.5,
+    "low": 3425.3,
+    "close": 3441.8,
+    "volume": 852281817,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 3439.95,
+    "high": 3498,
+    "low": 3431,
+    "close": 3481,
+    "volume": 1510031887,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 3496,
+    "high": 3504.85,
+    "low": 3435.15,
+    "close": 3451.75,
+    "volume": 729756502,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 3469,
+    "high": 3469,
+    "low": 3410,
+    "close": 3418,
+    "volume": 1204118093,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 3424.2,
+    "high": 3428.95,
+    "low": 3402,
+    "close": 3406.9,
+    "volume": 1095602564,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 3424,
+    "high": 3440,
+    "low": 3378,
+    "close": 3425.05,
+    "volume": 3375926106,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 3446.7,
+    "high": 3542,
+    "low": 3440.05,
+    "close": 3505.05,
+    "volume": 6610506171,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 3550,
+    "high": 3579,
+    "low": 3531,
+    "close": 3563.2,
+    "volume": 4725781613,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 3579,
+    "high": 3599,
+    "low": 3540,
+    "close": 3576.3,
+    "volume": 1706837543,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 3578.3,
+    "high": 3617.7,
+    "low": 3547.6,
+    "close": 3610,
+    "volume": 1788674757,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 3611.15,
+    "high": 3620,
+    "low": 3590.1,
+    "close": 3606,
+    "volume": 930554753,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 3619.9,
+    "high": 3649,
+    "low": 3606.25,
+    "close": 3633,
+    "volume": 1615470234,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 3636.1,
+    "high": 3644,
+    "low": 3611.5,
+    "close": 3633.25,
+    "volume": 906259445,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 3637.2,
+    "high": 3648.95,
+    "low": 3571.1,
+    "close": 3626.3,
+    "volume": 843203701,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 3634.4,
+    "high": 3642.95,
+    "low": 3607.5,
+    "close": 3626,
+    "volume": 844673205,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 3620.8,
+    "high": 3644.1,
+    "low": 3575.1,
+    "close": 3581,
+    "volume": 1165127418,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 3570,
+    "high": 3673.95,
+    "low": 3553.05,
+    "close": 3668,
+    "volume": 1265312585,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 3670,
+    "high": 3707.6,
+    "low": 3668,
+    "close": 3681,
+    "volume": 2139275794,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 3708.8,
+    "high": 3730,
+    "low": 3686.95,
+    "close": 3719,
+    "volume": 1583287618,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 3640,
+    "high": 3967.5,
+    "low": 3635.3,
+    "close": 3874.95,
+    "volume": 6039150779,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 3910,
+    "high": 3964.65,
+    "low": 3850.6,
+    "close": 3860,
+    "volume": 2515502258,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 3874.85,
+    "high": 3892,
+    "low": 3795.5,
+    "close": 3812,
+    "volume": 1676529054,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 3812.2,
+    "high": 3898,
+    "low": 3797,
+    "close": 3851,
+    "volume": 1388657299,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 3825.2,
+    "high": 3946.95,
+    "low": 3825.2,
+    "close": 3945.4,
+    "volume": 4339520008,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 3944.7,
+    "high": 3972.95,
+    "low": 3911.75,
+    "close": 3935,
+    "volume": 1870881574,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 3960,
+    "high": 3993.55,
+    "low": 3932.2,
+    "close": 3984,
+    "volume": 1851803164,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 3995,
+    "high": 4027.3,
+    "low": 3960,
+    "close": 3984.6,
+    "volume": 2749402503,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 3984.6,
+    "high": 4025.9,
+    "low": 3963.85,
+    "close": 4001,
+    "volume": 1410540670,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 4015,
+    "high": 4104,
+    "low": 4002.05,
+    "close": 4098.85,
+    "volume": 2135890102,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 4105,
+    "high": 4134.7,
+    "low": 4073.15,
+    "close": 4112,
+    "volume": 1752862715,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 4144.4,
+    "high": 4149.3,
+    "low": 4061,
+    "close": 4080.05,
+    "volume": 1281014689,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 4096.9,
+    "high": 4129.6,
+    "low": 4080,
+    "close": 4092,
+    "volume": 1063872960,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 4079.8,
+    "high": 4087.9,
+    "low": 4015.7,
+    "close": 4070,
+    "volume": 956709601,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 4058.8,
+    "high": 4118.8,
+    "low": 4050.1,
+    "close": 4069,
+    "volume": 1205983539,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 4070.8,
+    "high": 4103,
+    "low": 4058.8,
+    "close": 4094.7,
+    "volume": 699204245,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 4097,
+    "high": 4153,
+    "low": 4082.4,
+    "close": 4109,
+    "volume": 1732070345,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 4105.2,
+    "high": 4135,
+    "low": 4071.05,
+    "close": 4090,
+    "volume": 894074336,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 4086.35,
+    "high": 4120,
+    "low": 4039.8,
+    "close": 4075.95,
+    "volume": 991537857,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 4077.4,
+    "high": 4115,
+    "low": 4041,
+    "close": 4073,
+    "volume": 2523345735,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 4035,
+    "high": 4115,
+    "low": 4000,
+    "close": 4068.05,
+    "volume": 1189838664,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 4062.2,
+    "high": 4111.55,
+    "low": 4053,
+    "close": 4072.9,
+    "volume": 1729490946,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 4082,
+    "high": 4105,
+    "low": 4049.1,
+    "close": 4050,
+    "volume": 1058640847,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 4060,
+    "high": 4075.45,
+    "low": 4017.5,
+    "close": 4048.95,
+    "volume": 1303081108,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 4040,
+    "high": 4098.95,
+    "low": 4030,
+    "close": 4049.3,
+    "volume": 1517954308,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 4049.9,
+    "high": 4064.6,
+    "low": 4000,
+    "close": 4009.9,
+    "volume": 999786639,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 4005.2,
+    "high": 4068.95,
+    "low": 3990.05,
+    "close": 3999.95,
+    "volume": 1425440492,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 3982,
+    "high": 4019.9,
+    "low": 3959.15,
+    "close": 3975,
+    "volume": 1322794224,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 3972,
+    "high": 3993,
+    "low": 3940.3,
+    "close": 3950,
+    "volume": 860873432,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 3958.8,
+    "high": 3958.8,
+    "low": 3885,
+    "close": 3910,
+    "volume": 712787442,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 3910,
+    "high": 3967.25,
+    "low": 3881,
+    "close": 3894,
+    "volume": 1458719800,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 3894,
+    "high": 3905.25,
+    "low": 3865.5,
+    "close": 3893,
+    "volume": 511787577,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 3893,
+    "high": 3993.15,
+    "low": 3882.25,
+    "close": 3933.1,
+    "volume": 1619662469,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 3959.8,
+    "high": 3963.65,
+    "low": 3877.45,
+    "close": 3908,
+    "volume": 734950446,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 3915,
+    "high": 3929,
+    "low": 3846.85,
+    "close": 3884,
+    "volume": 1230195225,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 3880,
+    "high": 3900.75,
+    "low": 3831.2,
+    "close": 3836,
+    "volume": 976383348,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 3821,
+    "high": 3874.75,
+    "low": 3815,
+    "close": 3862,
+    "volume": 975795004,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 3871.4,
+    "high": 3894.1,
+    "low": 3854.5,
+    "close": 3890,
+    "volume": 675616472,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 3912,
+    "high": 3925,
+    "low": 3881,
+    "close": 3897,
+    "volume": 1166852489,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 3960,
+    "high": 3960,
+    "low": 3825,
+    "close": 3842,
+    "volume": 995756837,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 3860.35,
+    "high": 3868.35,
+    "low": 3780,
+    "close": 3800.75,
+    "volume": 1081551196,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 3800,
+    "high": 3917.35,
+    "low": 3740,
+    "close": 3767.4,
+    "volume": 1998654952,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 3798.5,
+    "high": 3798.5,
+    "low": 3680,
+    "close": 3722,
+    "volume": 1251398201,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 3734,
+    "high": 3760,
+    "low": 3650,
+    "close": 3687,
+    "volume": 710853240,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 3690,
+    "high": 3696.55,
+    "low": 3617.7,
+    "close": 3625,
+    "volume": 1052696633,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 3649,
+    "high": 3705.05,
+    "low": 3605.85,
+    "close": 3699.9,
+    "volume": 1197585188,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 3700.9,
+    "high": 3731.2,
+    "low": 3681.45,
+    "close": 3710,
+    "volume": 1632607295,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 3725,
+    "high": 3728.7,
+    "low": 3654,
+    "close": 3679,
+    "volume": 714683142,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 3681,
+    "high": 3708.95,
+    "low": 3641.05,
+    "close": 3670,
+    "volume": 1040276879,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 3694,
+    "high": 3700,
+    "low": 3651.1,
+    "close": 3680,
+    "volume": 513406413,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 3680.2,
+    "high": 3707.6,
+    "low": 3667.05,
+    "close": 3682,
+    "volume": 558603478,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 3695,
+    "high": 3699.8,
+    "low": 3618.05,
+    "close": 3628.25,
+    "volume": 675040196,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 3658,
+    "high": 3666.5,
+    "low": 3639.35,
+    "close": 3665,
+    "volume": 86295849,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 3666,
+    "high": 3728.85,
+    "low": 3620,
+    "close": 3715.05,
+    "volume": 1240343484,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 3590,
+    "high": 3639,
+    "low": 3535.15,
+    "close": 3621,
+    "volume": 5043470567,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 3629.45,
+    "high": 3720,
+    "low": 3600,
+    "close": 3695,
+    "volume": 2604195712,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 3699.1,
+    "high": 3718,
+    "low": 3633.3,
+    "close": 3644.8,
+    "volume": 1092979605,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 3668.6,
+    "high": 3701.95,
+    "low": 3641.25,
+    "close": 3685,
+    "volume": 1014103419,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 3700,
+    "high": 3747.6,
+    "low": 3674,
+    "close": 3744,
+    "volume": 1192511541,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 3751,
+    "high": 3760,
+    "low": 3681,
+    "close": 3691,
+    "volume": 741419900,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 3690.75,
+    "high": 3699.95,
+    "low": 3607.8,
+    "close": 3615.3,
+    "volume": 913869716,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 3644.8,
+    "high": 3644.8,
+    "low": 3555,
+    "close": 3570,
+    "volume": 892324006,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 3589,
+    "high": 3628.5,
+    "low": 3570,
+    "close": 3582,
+    "volume": 1311860706,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 3577.8,
+    "high": 3670,
+    "low": 3574,
+    "close": 3660,
+    "volume": 1329561537,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 3660,
+    "high": 3674,
+    "low": 3610,
+    "close": 3611,
+    "volume": 543192333,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 3610.5,
+    "high": 3633.8,
+    "low": 3566,
+    "close": 3580,
+    "volume": 834390697,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 3560,
+    "high": 3635.1,
+    "low": 3533.95,
+    "close": 3566.6,
+    "volume": 1332344370,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 3550,
+    "high": 3550,
+    "low": 3469.1,
+    "close": 3510,
+    "volume": 989278751,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 3514,
+    "high": 3565,
+    "low": 3501.1,
+    "close": 3550,
+    "volume": 2245116422,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 3550.5,
+    "high": 3606.7,
+    "low": 3528,
+    "close": 3540,
+    "volume": 1116366813,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 3540,
+    "high": 3607.3,
+    "low": 3530,
+    "close": 3578.25,
+    "volume": 1349194801,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 3557,
+    "high": 3593.45,
+    "low": 3550,
+    "close": 3552,
+    "volume": 1119558426,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 3556,
+    "high": 3581.1,
+    "low": 3490,
+    "close": 3498.3,
+    "volume": 586534029,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 3502.05,
+    "high": 3529,
+    "low": 3467,
+    "close": 3476,
+    "volume": 887990547,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 3489.95,
+    "high": 3582.45,
+    "low": 3483,
+    "close": 3570,
+    "volume": 1153849472,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 3565,
+    "high": 3634.45,
+    "low": 3564,
+    "close": 3630.25,
+    "volume": 1022665891,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 3623.9,
+    "high": 3642,
+    "low": 3604.4,
+    "close": 3623.75,
+    "volume": 691074222,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 3641,
+    "high": 3658.35,
+    "low": 3576.95,
+    "close": 3583,
+    "volume": 1127951747,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 3580,
+    "high": 3597.45,
+    "low": 3543.05,
+    "close": 3592,
+    "volume": 1060633402,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 3571,
+    "high": 3579.6,
+    "low": 3521.5,
+    "close": 3537.05,
+    "volume": 538472034,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 3550,
+    "high": 3571.65,
+    "low": 3536.65,
+    "close": 3560,
+    "volume": 433104546,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 3546,
+    "high": 3556,
+    "low": 3500,
+    "close": 3533.9,
+    "volume": 1083823267,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 3522,
+    "high": 3530,
+    "low": 3430.1,
+    "close": 3473.9,
+    "volume": 1321593643,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 3473.9,
+    "high": 3541.35,
+    "low": 3461.05,
+    "close": 3519,
+    "volume": 781842723,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 3522,
+    "high": 3538.6,
+    "low": 3484.6,
+    "close": 3505.35,
+    "volume": 902934883,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 3503.1,
+    "high": 3560,
+    "low": 3502,
+    "close": 3552.85,
+    "volume": 577372431,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 3560,
+    "high": 3565,
+    "low": 3519,
+    "close": 3540.05,
+    "volume": 484280542,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 3540,
+    "high": 3544.55,
+    "low": 3506.7,
+    "close": 3509,
+    "volume": 331704194,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 3531,
+    "high": 3562,
+    "low": 3511.1,
+    "close": 3549.9,
+    "volume": 352566419,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 3550.65,
+    "high": 3569.8,
+    "low": 3525.2,
+    "close": 3565,
+    "volume": 580952948,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 3570,
+    "high": 3586,
+    "low": 3526.05,
+    "close": 3586,
+    "volume": 594538532,
+    "symbol": "BRITANNIA"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 3586,
+    "high": 3623.2,
+    "low": 3569.05,
+    "close": 3614,
+    "volume": 879461666,
+    "symbol": "BRITANNIA"
+  }
+]

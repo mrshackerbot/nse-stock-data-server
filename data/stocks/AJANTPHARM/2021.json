@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 1643.1,
+    "high": 1659.4,
+    "low": 1635,
+    "close": 1645,
+    "volume": 169870816,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 1651.9,
+    "high": 1674.9,
+    "low": 1642,
+    "close": 1642.35,
+    "volume": 151007369,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 1645,
+    "high": 1682,
+    "low": 1642.05,
+    "close": 1672.1,
+    "volume": 142709439,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 1676.5,
+    "high": 1710,
+    "low": 1665,
+    "close": 1695,
+    "volume": 346895706,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 1710.95,
+    "high": 1789.95,
+    "low": 1710.95,
+    "close": 1774,
+    "volume": 550249189,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 1790,
+    "high": 1834,
+    "low": 1711.15,
+    "close": 1744,
+    "volume": 577865968,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 1778,
+    "high": 1816,
+    "low": 1742.6,
+    "close": 1815,
+    "volume": 299319266,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 1810,
+    "high": 1844.9,
+    "low": 1786,
+    "close": 1813,
+    "volume": 224576752,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 1829,
+    "high": 1829,
+    "low": 1751,
+    "close": 1775,
+    "volume": 189362545,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 1784.9,
+    "high": 1784.9,
+    "low": 1750.3,
+    "close": 1768,
+    "volume": 119024782,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 1768,
+    "high": 1787.65,
+    "low": 1736.05,
+    "close": 1736.05,
+    "volume": 118240588,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 1748,
+    "high": 1774,
+    "low": 1700,
+    "close": 1741,
+    "volume": 237162545,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 1748,
+    "high": 1816.8,
+    "low": 1748,
+    "close": 1790.1,
+    "volume": 158078474,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 1790,
+    "high": 1796.2,
+    "low": 1765,
+    "close": 1786.85,
+    "volume": 72869686,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 1795.55,
+    "high": 1795.55,
+    "low": 1735.6,
+    "close": 1741.4,
+    "volume": 128941455,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 1725,
+    "high": 1740,
+    "low": 1700,
+    "close": 1719,
+    "volume": 75551362,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 1730.1,
+    "high": 1794.4,
+    "low": 1700,
+    "close": 1755,
+    "volume": 241296307,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 1760,
+    "high": 1777.95,
+    "low": 1721.15,
+    "close": 1755,
+    "volume": 154585045,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 1738.4,
+    "high": 1771,
+    "low": 1700,
+    "close": 1750,
+    "volume": 145939350,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 1769.5,
+    "high": 1798.9,
+    "low": 1745.4,
+    "close": 1756.5,
+    "volume": 192098054,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 1771.4,
+    "high": 1787,
+    "low": 1729.05,
+    "close": 1746,
+    "volume": 123957170,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 1762.05,
+    "high": 1790,
+    "low": 1721.45,
+    "close": 1745,
+    "volume": 436093111,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 1798.95,
+    "high": 1878,
+    "low": 1756.65,
+    "close": 1810.05,
+    "volume": 1734499378,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 1819.9,
+    "high": 1848,
+    "low": 1800,
+    "close": 1815,
+    "volume": 264478903,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 1826.9,
+    "high": 1826.9,
+    "low": 1792.75,
+    "close": 1810,
+    "volume": 232748551,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 1820,
+    "high": 1833.35,
+    "low": 1797.65,
+    "close": 1815.25,
+    "volume": 318635986,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 1819.95,
+    "high": 1829,
+    "low": 1802.6,
+    "close": 1809.75,
+    "volume": 147226496,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 1816.95,
+    "high": 1823.05,
+    "low": 1770,
+    "close": 1783,
+    "volume": 158513119,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 1790.75,
+    "high": 1823.7,
+    "low": 1780,
+    "close": 1818,
+    "volume": 152718437,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 1829,
+    "high": 1829,
+    "low": 1792.15,
+    "close": 1800.1,
+    "volume": 66991153,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 1810.4,
+    "high": 1819,
+    "low": 1790,
+    "close": 1809.8,
+    "volume": 107358630,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 1815,
+    "high": 1817.9,
+    "low": 1792.25,
+    "close": 1795,
+    "volume": 102517987,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 1802.2,
+    "high": 1802.2,
+    "low": 1760.45,
+    "close": 1785,
+    "volume": 185215632,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 1794,
+    "high": 1796.95,
+    "low": 1764,
+    "close": 1790.95,
+    "volume": 253204146,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 1780,
+    "high": 1787.05,
+    "low": 1726.1,
+    "close": 1740,
+    "volume": 95207797,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 1749.5,
+    "high": 1795,
+    "low": 1730,
+    "close": 1770,
+    "volume": 168236676,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 1787.95,
+    "high": 1788,
+    "low": 1732.25,
+    "close": 1742,
+    "volume": 128001646,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 1755,
+    "high": 1858,
+    "low": 1660,
+    "close": 1755.35,
+    "volume": 69919599,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 1759.45,
+    "high": 1760,
+    "low": 1734.25,
+    "close": 1750,
+    "volume": 342578187,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 1729,
+    "high": 1761.3,
+    "low": 1722,
+    "close": 1746.6,
+    "volume": 100534355,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 1757.55,
+    "high": 1772,
+    "low": 1682.3,
+    "close": 1753.9,
+    "volume": 255221358,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 1761.95,
+    "high": 1761.95,
+    "low": 1721,
+    "close": 1756.7,
+    "volume": 116954360,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 1755.9,
+    "high": 1831.65,
+    "low": 1693,
+    "close": 1735.1,
+    "volume": 358235875,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 1724,
+    "high": 1760,
+    "low": 1718.6,
+    "close": 1741,
+    "volume": 137783017,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 1749,
+    "high": 1761,
+    "low": 1711.9,
+    "close": 1751.75,
+    "volume": 154016026,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 1765.25,
+    "high": 1769.95,
+    "low": 1735,
+    "close": 1747,
+    "volume": 158669493,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 1756.75,
+    "high": 1795,
+    "low": 1745,
+    "close": 1779.5,
+    "volume": 163348751,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 1793.4,
+    "high": 1812.9,
+    "low": 1772,
+    "close": 1800.05,
+    "volume": 139918083,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 1811.5,
+    "high": 1848,
+    "low": 1809,
+    "close": 1829,
+    "volume": 310224512,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 1839.9,
+    "high": 1860,
+    "low": 1760,
+    "close": 1820.15,
+    "volume": 232037633,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 1832,
+    "high": 1832,
+    "low": 1785,
+    "close": 1787.05,
+    "volume": 94099062,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 1799.9,
+    "high": 1804.8,
+    "low": 1771.25,
+    "close": 1799,
+    "volume": 74982428,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 1808.35,
+    "high": 1808.35,
+    "low": 1765.05,
+    "close": 1780.15,
+    "volume": 99394836,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 1783.6,
+    "high": 1832,
+    "low": 1731.5,
+    "close": 1826.85,
+    "volume": 171053171,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 1825.4,
+    "high": 1825.4,
+    "low": 1774,
+    "close": 1780,
+    "volume": 133352369,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 1794.1,
+    "high": 1814.95,
+    "low": 1758,
+    "close": 1788.15,
+    "volume": 199937859,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 1803.7,
+    "high": 1825,
+    "low": 1790.7,
+    "close": 1805.15,
+    "volume": 237290561,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 1814.7,
+    "high": 1814.75,
+    "low": 1781.2,
+    "close": 1798.05,
+    "volume": 206946823,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 1807.45,
+    "high": 1807.45,
+    "low": 1761.15,
+    "close": 1777,
+    "volume": 319271990,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 1792,
+    "high": 1884.55,
+    "low": 1754.95,
+    "close": 1870,
+    "volume": 206338858,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 1862.65,
+    "high": 1862.65,
+    "low": 1781.6,
+    "close": 1786,
+    "volume": 316305272,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 1808.2,
+    "high": 1808.25,
+    "low": 1725,
+    "close": 1765,
+    "volume": 381178779,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 1751.35,
+    "high": 1769.9,
+    "low": 1701.4,
+    "close": 1747.9,
+    "volume": 164681152,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 1758,
+    "high": 1775,
+    "low": 1705.45,
+    "close": 1721.5,
+    "volume": 307049619,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 1729.95,
+    "high": 1732,
+    "low": 1711.2,
+    "close": 1719,
+    "volume": 203649403,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 1725.1,
+    "high": 1739.9,
+    "low": 1706.5,
+    "close": 1717,
+    "volume": 334862653,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 1724,
+    "high": 1735.6,
+    "low": 1707,
+    "close": 1729.95,
+    "volume": 221420312,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 1737.95,
+    "high": 1782,
+    "low": 1690,
+    "close": 1699,
+    "volume": 431698590,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 1712,
+    "high": 1754.95,
+    "low": 1704.9,
+    "close": 1721,
+    "volume": 177333001,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 1730,
+    "high": 1745,
+    "low": 1692.55,
+    "close": 1696,
+    "volume": 196832664,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 1710,
+    "high": 1741.6,
+    "low": 1701.05,
+    "close": 1726.6,
+    "volume": 174029901,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 1724,
+    "high": 1765,
+    "low": 1700,
+    "close": 1724.95,
+    "volume": 385303692,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 1731.1,
+    "high": 1810,
+    "low": 1731.1,
+    "close": 1796.55,
+    "volume": 686937925,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 1818,
+    "high": 1867.75,
+    "low": 1810,
+    "close": 1830,
+    "volume": 588310773,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 1841,
+    "high": 1872.5,
+    "low": 1772.5,
+    "close": 1785,
+    "volume": 382724787,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 1811.7,
+    "high": 1824.85,
+    "low": 1767.9,
+    "close": 1805,
+    "volume": 293379574,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 1799.1,
+    "high": 1836,
+    "low": 1793.5,
+    "close": 1828.95,
+    "volume": 174397468,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 1837.9,
+    "high": 1859.9,
+    "low": 1809.05,
+    "close": 1823.95,
+    "volume": 259103158,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 1838.05,
+    "high": 1914.35,
+    "low": 1812,
+    "close": 1880,
+    "volume": 600809383,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 1899.85,
+    "high": 1930,
+    "low": 1825.3,
+    "close": 1833,
+    "volume": 539311050,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 1845,
+    "high": 1899.9,
+    "low": 1820,
+    "close": 1831,
+    "volume": 542116172,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 1862,
+    "high": 1874,
+    "low": 1817.15,
+    "close": 1861.5,
+    "volume": 382463309,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 1874.85,
+    "high": 1974.5,
+    "low": 1848.05,
+    "close": 1960,
+    "volume": 793759077,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 1970,
+    "high": 2030,
+    "low": 1951.55,
+    "close": 2002,
+    "volume": 821503957,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 2009,
+    "high": 2049,
+    "low": 2000,
+    "close": 2020,
+    "volume": 493249830,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 2020.05,
+    "high": 2033.5,
+    "low": 2000.2,
+    "close": 2010.05,
+    "volume": 650109143,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 2005,
+    "high": 2024.75,
+    "low": 1926,
+    "close": 1958.7,
+    "volume": 449830626,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 1962,
+    "high": 2009.9,
+    "low": 1890,
+    "close": 2005,
+    "volume": 375275359,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 2009.8,
+    "high": 2043.45,
+    "low": 1945.1,
+    "close": 1971.1,
+    "volume": 362885570,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 1982.85,
+    "high": 1984.95,
+    "low": 1948,
+    "close": 1955,
+    "volume": 113302545,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 1965.25,
+    "high": 1984.9,
+    "low": 1881.3,
+    "close": 1908,
+    "volume": 200248011,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 1909,
+    "high": 1975,
+    "low": 1909,
+    "close": 1973.95,
+    "volume": 253881493,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 1968,
+    "high": 1975.6,
+    "low": 1932,
+    "close": 1940.05,
+    "volume": 178624828,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 1940.9,
+    "high": 1950.7,
+    "low": 1929.65,
+    "close": 1934.9,
+    "volume": 157280564,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 1933.8,
+    "high": 1985.8,
+    "low": 1932.55,
+    "close": 1955,
+    "volume": 221759771,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 1969.7,
+    "high": 1983.05,
+    "low": 1953.1,
+    "close": 1972,
+    "volume": 138456258,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 1979.8,
+    "high": 1992,
+    "low": 1925,
+    "close": 1930,
+    "volume": 201586610,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 1947.95,
+    "high": 2015,
+    "low": 1935.6,
+    "close": 2009,
+    "volume": 225184284,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 1999,
+    "high": 2005.3,
+    "low": 1956.1,
+    "close": 1969.9,
+    "volume": 59814241,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 1983.55,
+    "high": 1989.95,
+    "low": 1908.55,
+    "close": 1926,
+    "volume": 245780061,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 1938.5,
+    "high": 1953.95,
+    "low": 1915,
+    "close": 1927.6,
+    "volume": 121959028,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 1937,
+    "high": 1964.5,
+    "low": 1932.95,
+    "close": 1964,
+    "volume": 79449190,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 1972,
+    "high": 1972,
+    "low": 1926,
+    "close": 1933.9,
+    "volume": 118214213,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 1939.8,
+    "high": 1975,
+    "low": 1925,
+    "close": 1957.05,
+    "volume": 117075734,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 1963,
+    "high": 1966,
+    "low": 1900.3,
+    "close": 1945,
+    "volume": 98447748,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 1961.5,
+    "high": 1976,
+    "low": 1935,
+    "close": 1965,
+    "volume": 89232355,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 1976.35,
+    "high": 2025,
+    "low": 1908.6,
+    "close": 1924,
+    "volume": 471719469,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 1944.55,
+    "high": 1958.95,
+    "low": 1934.85,
+    "close": 1953,
+    "volume": 83972369,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 1954.95,
+    "high": 1979,
+    "low": 1940,
+    "close": 1970,
+    "volume": 118534130,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 1969.65,
+    "high": 1972,
+    "low": 1911.9,
+    "close": 1940.9,
+    "volume": 237741426,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 1954,
+    "high": 2010,
+    "low": 1942.8,
+    "close": 1996,
+    "volume": 252849276,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 2007,
+    "high": 2025,
+    "low": 1984.95,
+    "close": 1985,
+    "volume": 184071800,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 1991.15,
+    "high": 2015,
+    "low": 1944.55,
+    "close": 1951.7,
+    "volume": 165148250,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 1970,
+    "high": 1970.75,
+    "low": 1915,
+    "close": 1949,
+    "volume": 130777533,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 1941,
+    "high": 2010,
+    "low": 1922.8,
+    "close": 2004.35,
+    "volume": 97094363,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 2005,
+    "high": 2010,
+    "low": 1950,
+    "close": 1958,
+    "volume": 87134135,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 1960,
+    "high": 1973.6,
+    "low": 1936,
+    "close": 1941,
+    "volume": 54944440,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 1945,
+    "high": 1980,
+    "low": 1936.85,
+    "close": 1966,
+    "volume": 61014513,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 1980.85,
+    "high": 1980.85,
+    "low": 1943.05,
+    "close": 1951.95,
+    "volume": 70295418,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 1963.9,
+    "high": 2020,
+    "low": 1941.55,
+    "close": 2013,
+    "volume": 202595306,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 2019,
+    "high": 2114.8,
+    "low": 1990,
+    "close": 2087,
+    "volume": 999249679,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 2115,
+    "high": 2175,
+    "low": 2100,
+    "close": 2141.3,
+    "volume": 682492341,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 2148.7,
+    "high": 2150,
+    "low": 2073,
+    "close": 2102.95,
+    "volume": 312618209,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 2118,
+    "high": 2135.2,
+    "low": 2082,
+    "close": 2133.8,
+    "volume": 211428221,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 2125,
+    "high": 2175,
+    "low": 2124.05,
+    "close": 2160,
+    "volume": 243237439,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 2174.1,
+    "high": 2183.85,
+    "low": 2144,
+    "close": 2154.05,
+    "volume": 122113178,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 2145.2,
+    "high": 2197.9,
+    "low": 2135,
+    "close": 2175,
+    "volume": 156914005,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 2186,
+    "high": 2189.75,
+    "low": 2156.95,
+    "close": 2175,
+    "volume": 177001620,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 2177.8,
+    "high": 2177.8,
+    "low": 2149.55,
+    "close": 2175,
+    "volume": 119850128,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 2178,
+    "high": 2185.25,
+    "low": 2133.5,
+    "close": 2163.1,
+    "volume": 124639755,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 2178,
+    "high": 2178,
+    "low": 2145.65,
+    "close": 2160.95,
+    "volume": 62971752,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 2156.85,
+    "high": 2164.5,
+    "low": 2119.3,
+    "close": 2140,
+    "volume": 81243440,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 2155,
+    "high": 2176.1,
+    "low": 2140.85,
+    "close": 2174,
+    "volume": 118892065,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 2175,
+    "high": 2195,
+    "low": 2142.95,
+    "close": 2158,
+    "volume": 113549897,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 2156,
+    "high": 2160,
+    "low": 2097,
+    "close": 2130.6,
+    "volume": 110259910,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 2136.9,
+    "high": 2169,
+    "low": 2111.5,
+    "close": 2131,
+    "volume": 102154728,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 2141.95,
+    "high": 2146.55,
+    "low": 2096,
+    "close": 2113.5,
+    "volume": 119202823,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 2129.45,
+    "high": 2179.95,
+    "low": 2117.05,
+    "close": 2159.5,
+    "volume": 117708432,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 2166.3,
+    "high": 2242.95,
+    "low": 2147.65,
+    "close": 2216,
+    "volume": 275844512,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 2242,
+    "high": 2262,
+    "low": 2215.85,
+    "close": 2248,
+    "volume": 206130765,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 2263,
+    "high": 2365,
+    "low": 2218.55,
+    "close": 2330,
+    "volume": 628938209,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 2331.9,
+    "high": 2435,
+    "low": 2312,
+    "close": 2390,
+    "volume": 510681636,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 2385,
+    "high": 2389.9,
+    "low": 2251.1,
+    "close": 2302,
+    "volume": 426456511,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 2320.55,
+    "high": 2339.95,
+    "low": 2230,
+    "close": 2252,
+    "volume": 222281670,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 2265,
+    "high": 2299.15,
+    "low": 2235,
+    "close": 2270.15,
+    "volume": 400471475,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 2265,
+    "high": 2310,
+    "low": 2265,
+    "close": 2290,
+    "volume": 259018868,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 2289.9,
+    "high": 2307.25,
+    "low": 2238.4,
+    "close": 2275,
+    "volume": 220485319,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 2271.2,
+    "high": 2305,
+    "low": 2266.5,
+    "close": 2290,
+    "volume": 453213718,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 2296,
+    "high": 2328.75,
+    "low": 2256.75,
+    "close": 2286,
+    "volume": 115666612,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 2292.15,
+    "high": 2325,
+    "low": 2273,
+    "close": 2299.1,
+    "volume": 82159401,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 2310.5,
+    "high": 2310.5,
+    "low": 2210.35,
+    "close": 2254,
+    "volume": 87769893,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 2262.8,
+    "high": 2281.7,
+    "low": 2216.25,
+    "close": 2239.4,
+    "volume": 314807415,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 2257,
+    "high": 2292.05,
+    "low": 2232,
+    "close": 2241.1,
+    "volume": 92662768,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 2257.9,
+    "high": 2307.25,
+    "low": 2205,
+    "close": 2300.1,
+    "volume": 141269557,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 2289,
+    "high": 2348.5,
+    "low": 2251.5,
+    "close": 2314.6,
+    "volume": 222322429,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 2325,
+    "high": 2325,
+    "low": 2292,
+    "close": 2297.85,
+    "volume": 57249843,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 2272.1,
+    "high": 2289.85,
+    "low": 2221,
+    "close": 2221,
+    "volume": 91374789,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 2240.15,
+    "high": 2270,
+    "low": 2205,
+    "close": 2227.55,
+    "volume": 134197320,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 2235,
+    "high": 2245.5,
+    "low": 2191.45,
+    "close": 2200,
+    "volume": 86865915,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 2205.15,
+    "high": 2260,
+    "low": 2192,
+    "close": 2250,
+    "volume": 177973268,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 2256.85,
+    "high": 2268.6,
+    "low": 2215.85,
+    "close": 2222,
+    "volume": 67226673,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 2234,
+    "high": 2234,
+    "low": 2208.5,
+    "close": 2218,
+    "volume": 72303699,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 2213.1,
+    "high": 2239,
+    "low": 2213.1,
+    "close": 2223.45,
+    "volume": 55194783,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 2233.4,
+    "high": 2254.45,
+    "low": 2217.2,
+    "close": 2229.75,
+    "volume": 238202660,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 2239.5,
+    "high": 2253.55,
+    "low": 2226.2,
+    "close": 2230,
+    "volume": 63962986,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 2239.9,
+    "high": 2250,
+    "low": 2207,
+    "close": 2211,
+    "volume": 93489089,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 2214,
+    "high": 2227.85,
+    "low": 2201.9,
+    "close": 2208,
+    "volume": 61686444,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 2220,
+    "high": 2224.65,
+    "low": 2199,
+    "close": 2204.3,
+    "volume": 78777468,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 2218,
+    "high": 2234.55,
+    "low": 2175.2,
+    "close": 2184,
+    "volume": 161560467,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 2190,
+    "high": 2194.95,
+    "low": 2137.1,
+    "close": 2155.75,
+    "volume": 193410877,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 2110,
+    "high": 2162.4,
+    "low": 2110,
+    "close": 2158,
+    "volume": 170569646,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 2144,
+    "high": 2163.85,
+    "low": 2125,
+    "close": 2130,
+    "volume": 110293092,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 2146.05,
+    "high": 2225,
+    "low": 2139.2,
+    "close": 2220,
+    "volume": 351655905,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 2220.05,
+    "high": 2240.7,
+    "low": 2200,
+    "close": 2208.6,
+    "volume": 223054034,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 2225.2,
+    "high": 2230,
+    "low": 2180.1,
+    "close": 2188.55,
+    "volume": 104425626,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 2202.5,
+    "high": 2220,
+    "low": 2157.9,
+    "close": 2176,
+    "volume": 110358613,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 2193.2,
+    "high": 2242.75,
+    "low": 2163.5,
+    "close": 2224,
+    "volume": 117871449,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 2228,
+    "high": 2258,
+    "low": 2161.1,
+    "close": 2184,
+    "volume": 211583853,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 2187.9,
+    "high": 2188,
+    "low": 2168.8,
+    "close": 2176.85,
+    "volume": 67105920,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 2156,
+    "high": 2193.25,
+    "low": 2156,
+    "close": 2185,
+    "volume": 70536537,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 2175.4,
+    "high": 2183.85,
+    "low": 2167.85,
+    "close": 2174,
+    "volume": 96288970,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 2175,
+    "high": 2190,
+    "low": 2164.1,
+    "close": 2185,
+    "volume": 82710396,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 2190,
+    "high": 2227,
+    "low": 2181.95,
+    "close": 2182.5,
+    "volume": 104677733,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 2182,
+    "high": 2320,
+    "low": 2170.3,
+    "close": 2320,
+    "volume": 255083663,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 2330,
+    "high": 2330,
+    "low": 2241,
+    "close": 2295.55,
+    "volume": 258719717,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 2291,
+    "high": 2299,
+    "low": 2240,
+    "close": 2245,
+    "volume": 143210793,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 2260,
+    "high": 2310,
+    "low": 2250,
+    "close": 2292.15,
+    "volume": 74062847,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 2297,
+    "high": 2297,
+    "low": 2259.1,
+    "close": 2259.1,
+    "volume": 123124637,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 2276.1,
+    "high": 2284,
+    "low": 2233,
+    "close": 2255,
+    "volume": 74458355,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 2266,
+    "high": 2330,
+    "low": 2249,
+    "close": 2294.95,
+    "volume": 122625847,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 2316,
+    "high": 2316,
+    "low": 2268.65,
+    "close": 2299.9,
+    "volume": 40035858,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 2296.9,
+    "high": 2365.8,
+    "low": 2272,
+    "close": 2292.05,
+    "volume": 252453418,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 2317,
+    "high": 2317,
+    "low": 2250,
+    "close": 2262.6,
+    "volume": 105762492,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 2280.35,
+    "high": 2300,
+    "low": 2245,
+    "close": 2248.7,
+    "volume": 147004640,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 2259.4,
+    "high": 2262.35,
+    "low": 2200.35,
+    "close": 2209.05,
+    "volume": 236821230,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 2222.95,
+    "high": 2236.45,
+    "low": 2168.15,
+    "close": 2200.75,
+    "volume": 150996040,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 2200.05,
+    "high": 2212.3,
+    "low": 2125,
+    "close": 2166.5,
+    "volume": 161244336,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 2165,
+    "high": 2230,
+    "low": 2140.1,
+    "close": 2219,
+    "volume": 171242636,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 2216.5,
+    "high": 2230,
+    "low": 2140,
+    "close": 2152.85,
+    "volume": 83034104,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 2164.9,
+    "high": 2176.45,
+    "low": 2053.65,
+    "close": 2143.25,
+    "volume": 120264163,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 2159,
+    "high": 2227,
+    "low": 2087,
+    "close": 2150,
+    "volume": 97430172,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 2171.05,
+    "high": 2173.95,
+    "low": 2101.2,
+    "close": 2107.15,
+    "volume": 72912502,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 2126.95,
+    "high": 2126.95,
+    "low": 2080.35,
+    "close": 2084.7,
+    "volume": 80021930,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 2085,
+    "high": 2180,
+    "low": 2081.1,
+    "close": 2124.25,
+    "volume": 133228628,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 2106.2,
+    "high": 2170,
+    "low": 2090,
+    "close": 2091,
+    "volume": 316768738,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 2091.5,
+    "high": 2234,
+    "low": 2091.5,
+    "close": 2200,
+    "volume": 227196966,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 2200,
+    "high": 2239.1,
+    "low": 2180,
+    "close": 2194.95,
+    "volume": 113965819,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 2210,
+    "high": 2210,
+    "low": 2165,
+    "close": 2188,
+    "volume": 152094602,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 2204.4,
+    "high": 2209.9,
+    "low": 2178.1,
+    "close": 2181.05,
+    "volume": 11585343,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 2189,
+    "high": 2197.5,
+    "low": 2166.05,
+    "close": 2187,
+    "volume": 143492016,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 2166.05,
+    "high": 2201,
+    "low": 2135.75,
+    "close": 2155,
+    "volume": 138341547,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 2153.25,
+    "high": 2170.8,
+    "low": 2121.75,
+    "close": 2136,
+    "volume": 177134401,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 2143.9,
+    "high": 2195,
+    "low": 2130.1,
+    "close": 2145,
+    "volume": 162059729,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 2165,
+    "high": 2196.95,
+    "low": 2135,
+    "close": 2183,
+    "volume": 77539737,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 2198.65,
+    "high": 2198.65,
+    "low": 2164.55,
+    "close": 2166,
+    "volume": 53407059,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 2182.1,
+    "high": 2207.95,
+    "low": 2151.75,
+    "close": 2155,
+    "volume": 125419829,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 2157.05,
+    "high": 2200,
+    "low": 2105.65,
+    "close": 2179,
+    "volume": 123151715,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 2163.6,
+    "high": 2174.9,
+    "low": 2095,
+    "close": 2120,
+    "volume": 131599202,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 2108.1,
+    "high": 2138,
+    "low": 2077,
+    "close": 2087,
+    "volume": 132610730,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 2074.9,
+    "high": 2095,
+    "low": 2000,
+    "close": 2079.9,
+    "volume": 182354082,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 2075.6,
+    "high": 2080,
+    "low": 2013,
+    "close": 2040,
+    "volume": 128473952,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 2054.05,
+    "high": 2090,
+    "low": 2019,
+    "close": 2087.15,
+    "volume": 63696056,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 2087,
+    "high": 2137.9,
+    "low": 2070,
+    "close": 2095,
+    "volume": 217846959,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 2111.2,
+    "high": 2149.7,
+    "low": 2052.75,
+    "close": 2076,
+    "volume": 82484536,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 2076,
+    "high": 2109.45,
+    "low": 2055.3,
+    "close": 2069.95,
+    "volume": 112845821,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 2090,
+    "high": 2098.95,
+    "low": 2052.3,
+    "close": 2080,
+    "volume": 43600197,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 2040.8,
+    "high": 2140,
+    "low": 2030.1,
+    "close": 2115,
+    "volume": 198324088,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 2092.15,
+    "high": 2137.95,
+    "low": 2055.1,
+    "close": 2110.4,
+    "volume": 169481499,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 2129,
+    "high": 2129,
+    "low": 2050.15,
+    "close": 2056,
+    "volume": 54933179,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 2058.8,
+    "high": 2095,
+    "low": 2031.3,
+    "close": 2089.9,
+    "volume": 156919486,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 2087.75,
+    "high": 2105,
+    "low": 2070,
+    "close": 2082,
+    "volume": 83788590,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 2097.65,
+    "high": 2145.65,
+    "low": 2031.95,
+    "close": 2132.2,
+    "volume": 93941155,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 2123.9,
+    "high": 2132,
+    "low": 2102,
+    "close": 2103,
+    "volume": 47107411,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 2119,
+    "high": 2168.9,
+    "low": 2111.6,
+    "close": 2150,
+    "volume": 249226045,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 2105.05,
+    "high": 2159.2,
+    "low": 2105.05,
+    "close": 2120.05,
+    "volume": 40594137,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 2123,
+    "high": 2139,
+    "low": 2077.45,
+    "close": 2113,
+    "volume": 132852423,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 2120,
+    "high": 2128.8,
+    "low": 2070.1,
+    "close": 2071.15,
+    "volume": 154250306,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 2087.3,
+    "high": 2120,
+    "low": 2065,
+    "close": 2091.85,
+    "volume": 123608624,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 2091.35,
+    "high": 2180.4,
+    "low": 2077.7,
+    "close": 2110.1,
+    "volume": 271475420,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 2116,
+    "high": 2135.75,
+    "low": 2080.1,
+    "close": 2095,
+    "volume": 70830641,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 2093.8,
+    "high": 2108.95,
+    "low": 2079.75,
+    "close": 2083.95,
+    "volume": 114823753,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 2081,
+    "high": 2095,
+    "low": 2050.1,
+    "close": 2050.15,
+    "volume": 99181301,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 2159.9,
+    "high": 2159.9,
+    "low": 2091,
+    "close": 2123,
+    "volume": 518614639,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 2116.3,
+    "high": 2195,
+    "low": 2116.3,
+    "close": 2175,
+    "volume": 378367549,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 2197.05,
+    "high": 2340,
+    "low": 2175,
+    "close": 2265,
+    "volume": 1334478904,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 2267,
+    "high": 2270,
+    "low": 2237.65,
+    "close": 2268.5,
+    "volume": 381829752,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 2280,
+    "high": 2303.25,
+    "low": 2251.25,
+    "close": 2260,
+    "volume": 107821736,
+    "symbol": "AJANTPHARM"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 2274,
+    "high": 2274,
+    "low": 2225.5,
+    "close": 2238,
+    "volume": 138406170,
+    "symbol": "AJANTPHARM"
+  }
+]

@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "03-Jan-2022",
+    "open": 6975,
+    "high": 7243.95,
+    "low": 6975,
+    "close": 7225,
+    "volume": 9059877279,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Jan-2022",
+    "open": 7250,
+    "high": 7375,
+    "low": 7235.5,
+    "close": 7359.95,
+    "volume": 6998806060,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "05-Jan-2022",
+    "open": 7469.9,
+    "high": 7691.15,
+    "low": 7415,
+    "close": 7665,
+    "volume": 19594087523,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-Jan-2022",
+    "open": 7525,
+    "high": 7779.35,
+    "low": 7521,
+    "close": 7729.95,
+    "volume": 11791114048,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Jan-2022",
+    "open": 7763.95,
+    "high": 7785,
+    "low": 7585,
+    "close": 7650,
+    "volume": 8942304115,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-Jan-2022",
+    "open": 7686,
+    "high": 7759,
+    "low": 7669.75,
+    "close": 7721,
+    "volume": 4941261803,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Jan-2022",
+    "open": 7739,
+    "high": 7759.95,
+    "low": 7571,
+    "close": 7662.3,
+    "volume": 7942252811,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-Jan-2022",
+    "open": 7726,
+    "high": 7869,
+    "low": 7691.8,
+    "close": 7774.4,
+    "volume": 11364065405,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-Jan-2022",
+    "open": 7828,
+    "high": 7849.55,
+    "low": 7774,
+    "close": 7803,
+    "volume": 4812808300,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Jan-2022",
+    "open": 7775,
+    "high": 7846.1,
+    "low": 7728.5,
+    "close": 7820,
+    "volume": 4445242426,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-Jan-2022",
+    "open": 7819.5,
+    "high": 7910,
+    "low": 7801.55,
+    "close": 7849.3,
+    "volume": 5346980472,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-Jan-2022",
+    "open": 7899.95,
+    "high": 7945,
+    "low": 7716.05,
+    "close": 7770,
+    "volume": 8865750602,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-Jan-2022",
+    "open": 7850,
+    "high": 8045,
+    "low": 7473,
+    "close": 7590,
+    "volume": 38709092338,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-Jan-2022",
+    "open": 7610,
+    "high": 7650,
+    "low": 7401,
+    "close": 7534,
+    "volume": 21855747927,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Jan-2022",
+    "open": 7402.5,
+    "high": 7499,
+    "low": 7305.85,
+    "close": 7372.85,
+    "volume": 10152653198,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-Jan-2022",
+    "open": 7350,
+    "high": 7350,
+    "low": 6817.7,
+    "close": 6904.75,
+    "volume": 17560576458,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Jan-2022",
+    "open": 6900,
+    "high": 6996,
+    "low": 6752.2,
+    "close": 6949.75,
+    "volume": 17411504671,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-Jan-2022",
+    "open": 6823.6,
+    "high": 6902.35,
+    "low": 6708.1,
+    "close": 6870,
+    "volume": 12022639988,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Jan-2022",
+    "open": 6961.05,
+    "high": 7045.6,
+    "low": 6845,
+    "close": 6848,
+    "volume": 10224931401,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "31-Jan-2022",
+    "open": 6979.9,
+    "high": 7075.9,
+    "low": 6930.1,
+    "close": 7003.9,
+    "volume": 8769144382,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Feb-2022",
+    "open": 7075.9,
+    "high": 7115.8,
+    "low": 6886,
+    "close": 7077,
+    "volume": 9726238180,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-Feb-2022",
+    "open": 7100,
+    "high": 7280,
+    "low": 7095,
+    "close": 7248,
+    "volume": 9679119766,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "03-Feb-2022",
+    "open": 7253,
+    "high": 7287.05,
+    "low": 7100,
+    "close": 7105,
+    "volume": 6011884033,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Feb-2022",
+    "open": 7090,
+    "high": 7188.4,
+    "low": 7055,
+    "close": 7148,
+    "volume": 5870191691,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Feb-2022",
+    "open": 7165,
+    "high": 7165,
+    "low": 6881,
+    "close": 6921,
+    "volume": 8258377592,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Feb-2022",
+    "open": 7000,
+    "high": 7147,
+    "low": 6914.7,
+    "close": 7043,
+    "volume": 11522738819,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "09-Feb-2022",
+    "open": 7128.55,
+    "high": 7157.9,
+    "low": 7070,
+    "close": 7107.55,
+    "volume": 4620044731,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-Feb-2022",
+    "open": 7135,
+    "high": 7240,
+    "low": 7065,
+    "close": 7135.05,
+    "volume": 8901592914,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Feb-2022",
+    "open": 7040,
+    "high": 7079.95,
+    "low": 6921.05,
+    "close": 6995,
+    "volume": 8937320704,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Feb-2022",
+    "open": 6810,
+    "high": 6930,
+    "low": 6744.05,
+    "close": 6760,
+    "volume": 8006908289,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "15-Feb-2022",
+    "open": 6800,
+    "high": 7195,
+    "low": 6785.95,
+    "close": 7165,
+    "volume": 9390598425,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-Feb-2022",
+    "open": 7185,
+    "high": 7224.95,
+    "low": 7050,
+    "close": 7063.35,
+    "volume": 7513271595,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-Feb-2022",
+    "open": 7120,
+    "high": 7128,
+    "low": 6982,
+    "close": 7055,
+    "volume": 6389779145,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-Feb-2022",
+    "open": 7020,
+    "high": 7116,
+    "low": 7010,
+    "close": 7029.85,
+    "volume": 5390330341,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Feb-2022",
+    "open": 7000,
+    "high": 7080.9,
+    "low": 6911,
+    "close": 7010,
+    "volume": 5717656274,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Feb-2022",
+    "open": 6800,
+    "high": 7036.15,
+    "low": 6789,
+    "close": 7011,
+    "volume": 8732062951,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-Feb-2022",
+    "open": 7060,
+    "high": 7117.35,
+    "low": 7027.45,
+    "close": 7030,
+    "volume": 5630183095,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-Feb-2022",
+    "open": 6800,
+    "high": 6900.2,
+    "low": 6592.45,
+    "close": 6605.95,
+    "volume": 13042454767,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Feb-2022",
+    "open": 6800,
+    "high": 6989.95,
+    "low": 6759,
+    "close": 6968.8,
+    "volume": 9770853332,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Feb-2022",
+    "open": 6860,
+    "high": 7025,
+    "low": 6806.6,
+    "close": 6995,
+    "volume": 10988239945,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-Mar-2022",
+    "open": 6918,
+    "high": 6936.35,
+    "low": 6762,
+    "close": 6835,
+    "volume": 10986108087,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "03-Mar-2022",
+    "open": 6920,
+    "high": 6944.3,
+    "low": 6725,
+    "close": 6740,
+    "volume": 9101170241,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Mar-2022",
+    "open": 6688.4,
+    "high": 6698,
+    "low": 6500,
+    "close": 6537.8,
+    "volume": 13135180992,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Mar-2022",
+    "open": 6350,
+    "high": 6370,
+    "low": 6100,
+    "close": 6144,
+    "volume": 17657780715,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Mar-2022",
+    "open": 6128,
+    "high": 6217.35,
+    "low": 5912.9,
+    "close": 6180,
+    "volume": 17527656840,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "09-Mar-2022",
+    "open": 6219.5,
+    "high": 6525,
+    "low": 6121.85,
+    "close": 6485,
+    "volume": 14392979951,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-Mar-2022",
+    "open": 6794,
+    "high": 6794,
+    "low": 6501,
+    "close": 6568,
+    "volume": 13925476697,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Mar-2022",
+    "open": 6550,
+    "high": 6685,
+    "low": 6490.05,
+    "close": 6615,
+    "volume": 8365848791,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Mar-2022",
+    "open": 6601,
+    "high": 6689,
+    "low": 6500,
+    "close": 6657.9,
+    "volume": 8338931270,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "15-Mar-2022",
+    "open": 6677.2,
+    "high": 6750,
+    "low": 6605,
+    "close": 6652,
+    "volume": 9878519513,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-Mar-2022",
+    "open": 6780,
+    "high": 6899.4,
+    "low": 6743.35,
+    "close": 6824.75,
+    "volume": 11156706302,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-Mar-2022",
+    "open": 6947.7,
+    "high": 7056.9,
+    "low": 6930.1,
+    "close": 6992,
+    "volume": 11693206096,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Mar-2022",
+    "open": 7000,
+    "high": 7018.75,
+    "low": 6850,
+    "close": 6883,
+    "volume": 6657369147,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Mar-2022",
+    "open": 6870,
+    "high": 7010,
+    "low": 6767,
+    "close": 6998,
+    "volume": 8781131987,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-Mar-2022",
+    "open": 7050,
+    "high": 7104,
+    "low": 6970,
+    "close": 6985,
+    "volume": 8275427484,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-Mar-2022",
+    "open": 6969,
+    "high": 7035.55,
+    "low": 6881.25,
+    "close": 6986,
+    "volume": 5474680592,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Mar-2022",
+    "open": 7059,
+    "high": 7067.45,
+    "low": 6940,
+    "close": 6982,
+    "volume": 4910873396,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Mar-2022",
+    "open": 6990,
+    "high": 7035,
+    "low": 6870,
+    "close": 6995,
+    "volume": 6519916836,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Mar-2022",
+    "open": 7040,
+    "high": 7060,
+    "low": 6984.5,
+    "close": 7050,
+    "volume": 5028743142,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "30-Mar-2022",
+    "open": 7100,
+    "high": 7274.45,
+    "low": 7099,
+    "close": 7234.9,
+    "volume": 9188064285,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "31-Mar-2022",
+    "open": 7287.95,
+    "high": 7445,
+    "low": 7240.65,
+    "close": 7258.7,
+    "volume": 11952574532,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Apr-2022",
+    "open": 7229.95,
+    "high": 7449,
+    "low": 7220.3,
+    "close": 7429,
+    "volume": 6401488601,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Apr-2022",
+    "open": 7449,
+    "high": 7590.9,
+    "low": 7430,
+    "close": 7475.6,
+    "volume": 7877009641,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "05-Apr-2022",
+    "open": 7435,
+    "high": 7479.95,
+    "low": 7330,
+    "close": 7378,
+    "volume": 7929620960,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-Apr-2022",
+    "open": 7350,
+    "high": 7425,
+    "low": 7300,
+    "close": 7342,
+    "volume": 5639978020,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Apr-2022",
+    "open": 7310,
+    "high": 7356,
+    "low": 7270,
+    "close": 7291.95,
+    "volume": 5248138184,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Apr-2022",
+    "open": 7328.3,
+    "high": 7425,
+    "low": 7260,
+    "close": 7372,
+    "volume": 6461163297,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Apr-2022",
+    "open": 7345.05,
+    "high": 7384,
+    "low": 7295,
+    "close": 7332,
+    "volume": 4384734627,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-Apr-2022",
+    "open": 7299.95,
+    "high": 7299.95,
+    "low": 7220,
+    "close": 7275,
+    "volume": 5854259117,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-Apr-2022",
+    "open": 7313,
+    "high": 7380,
+    "low": 7282.05,
+    "close": 7315.05,
+    "volume": 4931666094,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-Apr-2022",
+    "open": 7265.5,
+    "high": 7375,
+    "low": 7231.6,
+    "close": 7278,
+    "volume": 5520528533,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-Apr-2022",
+    "open": 7300,
+    "high": 7443.3,
+    "low": 7151,
+    "close": 7201.1,
+    "volume": 8745844878,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-Apr-2022",
+    "open": 7274.95,
+    "high": 7294.7,
+    "low": 6960,
+    "close": 7049,
+    "volume": 11063874135,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Apr-2022",
+    "open": 7099,
+    "high": 7187,
+    "low": 7047.3,
+    "close": 7173,
+    "volume": 6235912990,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Apr-2022",
+    "open": 7080,
+    "high": 7207,
+    "low": 7071.4,
+    "close": 7120,
+    "volume": 5766240770,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Apr-2022",
+    "open": 7000,
+    "high": 7074.95,
+    "low": 6950,
+    "close": 7052,
+    "volume": 4799952570,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "26-Apr-2022",
+    "open": 7131,
+    "high": 7262.95,
+    "low": 7097,
+    "close": 7258.6,
+    "volume": 7274796941,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-Apr-2022",
+    "open": 7100,
+    "high": 7100,
+    "low": 6688.85,
+    "close": 6716,
+    "volume": 27271813354,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Apr-2022",
+    "open": 6748,
+    "high": 6805,
+    "low": 6580,
+    "close": 6727.75,
+    "volume": 16733907321,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Apr-2022",
+    "open": 6800,
+    "high": 6823.6,
+    "low": 6651,
+    "close": 6665.05,
+    "volume": 9015075412,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-May-2022",
+    "open": 6550,
+    "high": 6649.85,
+    "low": 6525.5,
+    "close": 6619,
+    "volume": 8172302683,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-May-2022",
+    "open": 6629.9,
+    "high": 6667.8,
+    "low": 6290,
+    "close": 6349,
+    "volume": 10669553095,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "05-May-2022",
+    "open": 6400,
+    "high": 6497.45,
+    "low": 6290,
+    "close": 6300,
+    "volume": 9505785430,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-May-2022",
+    "open": 6201,
+    "high": 6205.05,
+    "low": 5975,
+    "close": 6003.4,
+    "volume": 18545607218,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "09-May-2022",
+    "open": 5961,
+    "high": 6135.25,
+    "low": 5832.55,
+    "close": 6039,
+    "volume": 11618341190,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-May-2022",
+    "open": 6000,
+    "high": 6113.05,
+    "low": 5900,
+    "close": 5914.95,
+    "volume": 7051668990,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-May-2022",
+    "open": 5957,
+    "high": 5996.6,
+    "low": 5737,
+    "close": 5822.5,
+    "volume": 10864031177,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-May-2022",
+    "open": 5750,
+    "high": 5764.75,
+    "low": 5505.9,
+    "close": 5592.2,
+    "volume": 13950444329,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-May-2022",
+    "open": 5700,
+    "high": 5749,
+    "low": 5500,
+    "close": 5521.9,
+    "volume": 11878334368,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-May-2022",
+    "open": 5575,
+    "high": 5711.95,
+    "low": 5488,
+    "close": 5653,
+    "volume": 7953031918,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-May-2022",
+    "open": 5660,
+    "high": 5849,
+    "low": 5652,
+    "close": 5845,
+    "volume": 8084370906,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-May-2022",
+    "open": 5889.95,
+    "high": 5956.7,
+    "low": 5790,
+    "close": 5826.9,
+    "volume": 9713848243,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-May-2022",
+    "open": 5651,
+    "high": 5745,
+    "low": 5611,
+    "close": 5725.05,
+    "volume": 6065750718,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-May-2022",
+    "open": 5840,
+    "high": 5841.95,
+    "low": 5712,
+    "close": 5780.15,
+    "volume": 6342120398,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-May-2022",
+    "open": 5825,
+    "high": 5906.25,
+    "low": 5771.2,
+    "close": 5782,
+    "volume": 5652765549,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-May-2022",
+    "open": 5783,
+    "high": 5833,
+    "low": 5725,
+    "close": 5810,
+    "volume": 6277909673,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-May-2022",
+    "open": 5839,
+    "high": 5877.7,
+    "low": 5801.8,
+    "close": 5821.45,
+    "volume": 5064472259,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "26-May-2022",
+    "open": 5850,
+    "high": 5875.45,
+    "low": 5653.4,
+    "close": 5842.95,
+    "volume": 7251157127,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-May-2022",
+    "open": 5900,
+    "high": 6077,
+    "low": 5861.05,
+    "close": 5983.2,
+    "volume": 9759667437,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "30-May-2022",
+    "open": 6088,
+    "high": 6127,
+    "low": 6041.1,
+    "close": 6114.85,
+    "volume": 4977771145,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "31-May-2022",
+    "open": 6110,
+    "high": 6169.2,
+    "low": 6016.45,
+    "close": 6066,
+    "volume": 9456067647,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Jun-2022",
+    "open": 6060,
+    "high": 6130,
+    "low": 5977.25,
+    "close": 6015.4,
+    "volume": 5356656857,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-Jun-2022",
+    "open": 6007,
+    "high": 6080,
+    "low": 5949.2,
+    "close": 6077.7,
+    "volume": 4521325916,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "03-Jun-2022",
+    "open": 6125,
+    "high": 6168,
+    "low": 6014,
+    "close": 6020.4,
+    "volume": 6372048240,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-Jun-2022",
+    "open": 6008.2,
+    "high": 6050,
+    "low": 5911,
+    "close": 6019,
+    "volume": 4416730905,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Jun-2022",
+    "open": 5980,
+    "high": 5989.95,
+    "low": 5833.65,
+    "close": 5870,
+    "volume": 5286991192,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Jun-2022",
+    "open": 5900,
+    "high": 6054,
+    "low": 5802.25,
+    "close": 5940,
+    "volume": 7920615918,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "09-Jun-2022",
+    "open": 5905,
+    "high": 5931.6,
+    "low": 5855,
+    "close": 5902,
+    "volume": 7292549120,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-Jun-2022",
+    "open": 5825,
+    "high": 5835,
+    "low": 5652.4,
+    "close": 5658,
+    "volume": 12268831655,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-Jun-2022",
+    "open": 5525.05,
+    "high": 5554,
+    "low": 5325,
+    "close": 5372,
+    "volume": 10421615072,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Jun-2022",
+    "open": 5347,
+    "high": 5461,
+    "low": 5284.2,
+    "close": 5383.75,
+    "volume": 10144635851,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "15-Jun-2022",
+    "open": 5418,
+    "high": 5499.9,
+    "low": 5396.15,
+    "close": 5495,
+    "volume": 9054902774,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-Jun-2022",
+    "open": 5565,
+    "high": 5614.95,
+    "low": 5254.85,
+    "close": 5286,
+    "volume": 11782148589,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-Jun-2022",
+    "open": 5220,
+    "high": 5475,
+    "low": 5220,
+    "close": 5428,
+    "volume": 10390114666,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-Jun-2022",
+    "open": 5428,
+    "high": 5510,
+    "low": 5352,
+    "close": 5473,
+    "volume": 6095090137,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Jun-2022",
+    "open": 5525,
+    "high": 5564,
+    "low": 5455,
+    "close": 5544,
+    "volume": 5530647341,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Jun-2022",
+    "open": 5531.5,
+    "high": 5531.5,
+    "low": 5405,
+    "close": 5438,
+    "volume": 4889904951,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-Jun-2022",
+    "open": 5445.6,
+    "high": 5495,
+    "low": 5343,
+    "close": 5452,
+    "volume": 5989870466,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-Jun-2022",
+    "open": 5510,
+    "high": 5616.65,
+    "low": 5455,
+    "close": 5581,
+    "volume": 7236811635,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-Jun-2022",
+    "open": 5700,
+    "high": 5725,
+    "low": 5587.75,
+    "close": 5624.2,
+    "volume": 5938730079,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Jun-2022",
+    "open": 5607,
+    "high": 5619,
+    "low": 5525,
+    "close": 5564.7,
+    "volume": 4115819537,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Jun-2022",
+    "open": 5485,
+    "high": 5554,
+    "low": 5460,
+    "close": 5508,
+    "volume": 4167575849,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "30-Jun-2022",
+    "open": 5512.8,
+    "high": 5535.2,
+    "low": 5377,
+    "close": 5392,
+    "volume": 6523623314,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Jul-2022",
+    "open": 5364,
+    "high": 5633.95,
+    "low": 5335.05,
+    "close": 5617.95,
+    "volume": 6717698866,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Jul-2022",
+    "open": 5612.9,
+    "high": 5648.95,
+    "low": 5541,
+    "close": 5628,
+    "volume": 4424761369,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "05-Jul-2022",
+    "open": 5660,
+    "high": 5755,
+    "low": 5626.45,
+    "close": 5655,
+    "volume": 7003977444,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-Jul-2022",
+    "open": 5680,
+    "high": 5938.85,
+    "low": 5645.9,
+    "close": 5930,
+    "volume": 13010019085,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Jul-2022",
+    "open": 5935,
+    "high": 5986.9,
+    "low": 5816,
+    "close": 5865,
+    "volume": 7856291768,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Jul-2022",
+    "open": 5928,
+    "high": 5928,
+    "low": 5801,
+    "close": 5865,
+    "volume": 4694292343,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Jul-2022",
+    "open": 5850,
+    "high": 5903.95,
+    "low": 5813.8,
+    "close": 5869,
+    "volume": 4461717350,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-Jul-2022",
+    "open": 5849.8,
+    "high": 5959.55,
+    "low": 5784,
+    "close": 5869,
+    "volume": 5722266467,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-Jul-2022",
+    "open": 5929.95,
+    "high": 5979,
+    "low": 5866.6,
+    "close": 5872,
+    "volume": 5246300714,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Jul-2022",
+    "open": 5925,
+    "high": 5926.95,
+    "low": 5794.7,
+    "close": 5835,
+    "volume": 4061236532,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "15-Jul-2022",
+    "open": 5855,
+    "high": 5928.25,
+    "low": 5812.85,
+    "close": 5917,
+    "volume": 3344523865,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-Jul-2022",
+    "open": 5969.9,
+    "high": 6068.1,
+    "low": 5931.35,
+    "close": 6047.1,
+    "volume": 5807934293,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-Jul-2022",
+    "open": 6040,
+    "high": 6098.15,
+    "low": 6002.05,
+    "close": 6051.35,
+    "volume": 5925854728,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-Jul-2022",
+    "open": 6149,
+    "high": 6149.6,
+    "low": 6042.05,
+    "close": 6045.2,
+    "volume": 5044890549,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Jul-2022",
+    "open": 6079,
+    "high": 6283.15,
+    "low": 6036,
+    "close": 6274,
+    "volume": 8187200787,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Jul-2022",
+    "open": 6271,
+    "high": 6325,
+    "low": 6217.7,
+    "close": 6260.1,
+    "volume": 5970197340,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Jul-2022",
+    "open": 6240,
+    "high": 6334,
+    "low": 6185,
+    "close": 6221,
+    "volume": 4517519437,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "26-Jul-2022",
+    "open": 6300,
+    "high": 6383.7,
+    "low": 6212.5,
+    "close": 6260,
+    "volume": 9641917291,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-Jul-2022",
+    "open": 6279,
+    "high": 6429.4,
+    "low": 6195,
+    "close": 6408,
+    "volume": 9139980063,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Jul-2022",
+    "open": 6522,
+    "high": 7109.95,
+    "low": 6522,
+    "close": 7065.5,
+    "volume": 44984695550,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Jul-2022",
+    "open": 7175,
+    "high": 7260,
+    "low": 7125,
+    "close": 7206,
+    "volume": 18763810970,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Aug-2022",
+    "open": 7251.05,
+    "high": 7310,
+    "low": 7192,
+    "close": 7252.3,
+    "volume": 8906483568,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-Aug-2022",
+    "open": 7201.45,
+    "high": 7356,
+    "low": 7182.2,
+    "close": 7322.05,
+    "volume": 9097729779,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "03-Aug-2022",
+    "open": 7326,
+    "high": 7376.4,
+    "low": 7218,
+    "close": 7302.4,
+    "volume": 8869850444,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Aug-2022",
+    "open": 7338.95,
+    "high": 7385,
+    "low": 7205,
+    "close": 7300,
+    "volume": 6940789363,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "05-Aug-2022",
+    "open": 7339.95,
+    "high": 7367.95,
+    "low": 7276.05,
+    "close": 7300,
+    "volume": 5554788269,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Aug-2022",
+    "open": 7300,
+    "high": 7398,
+    "low": 7264,
+    "close": 7346.3,
+    "volume": 7039281613,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-Aug-2022",
+    "open": 7369,
+    "high": 7369,
+    "low": 7105,
+    "close": 7151.6,
+    "volume": 13711199421,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Aug-2022",
+    "open": 7244,
+    "high": 7325,
+    "low": 7217.35,
+    "close": 7312.65,
+    "volume": 7475494699,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-Aug-2022",
+    "open": 7302,
+    "high": 7343,
+    "low": 7272.05,
+    "close": 7302.65,
+    "volume": 7579392075,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-Aug-2022",
+    "open": 7339,
+    "high": 7384,
+    "low": 7272.1,
+    "close": 7286,
+    "volume": 5892507973,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-Aug-2022",
+    "open": 7300,
+    "high": 7638,
+    "low": 7296,
+    "close": 7510,
+    "volume": 17642539391,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-Aug-2022",
+    "open": 7490,
+    "high": 7588.8,
+    "low": 7452.4,
+    "close": 7501,
+    "volume": 6263525000,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-Aug-2022",
+    "open": 7510,
+    "high": 7538.7,
+    "low": 7271,
+    "close": 7298,
+    "volume": 8105030849,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Aug-2022",
+    "open": 7261,
+    "high": 7279.8,
+    "low": 7088.85,
+    "close": 7103,
+    "volume": 7596386660,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-Aug-2022",
+    "open": 7085,
+    "high": 7250,
+    "low": 7050,
+    "close": 7230.6,
+    "volume": 7824910215,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-Aug-2022",
+    "open": 7165,
+    "high": 7236.4,
+    "low": 7140,
+    "close": 7175,
+    "volume": 6840290755,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Aug-2022",
+    "open": 7212.8,
+    "high": 7239,
+    "low": 7025.1,
+    "close": 7045,
+    "volume": 9671060204,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "26-Aug-2022",
+    "open": 7120,
+    "high": 7141.5,
+    "low": 7025.7,
+    "close": 7074,
+    "volume": 5376151360,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Aug-2022",
+    "open": 6881,
+    "high": 7015.5,
+    "low": 6861.35,
+    "close": 6992,
+    "volume": 6931615574,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "30-Aug-2022",
+    "open": 7000,
+    "high": 7335,
+    "low": 7000,
+    "close": 7312,
+    "volume": 12517309179,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Sep-2022",
+    "open": 7228.6,
+    "high": 7333.85,
+    "low": 7142,
+    "close": 7189.85,
+    "volume": 10579395614,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-Sep-2022",
+    "open": 7217.1,
+    "high": 7313,
+    "low": 7173.45,
+    "close": 7188,
+    "volume": 6554832992,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "05-Sep-2022",
+    "open": 7190.7,
+    "high": 7254,
+    "low": 7158,
+    "close": 7188,
+    "volume": 5092018457,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-Sep-2022",
+    "open": 7228.75,
+    "high": 7255,
+    "low": 7105,
+    "close": 7118,
+    "volume": 5665109441,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Sep-2022",
+    "open": 7078,
+    "high": 7207.95,
+    "low": 7070,
+    "close": 7172,
+    "volume": 5660724461,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Sep-2022",
+    "open": 7220,
+    "high": 7279.45,
+    "low": 7175,
+    "close": 7264,
+    "volume": 5580550173,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "09-Sep-2022",
+    "open": 7300,
+    "high": 7324,
+    "low": 7165,
+    "close": 7185,
+    "volume": 4698200768,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-Sep-2022",
+    "open": 7216.85,
+    "high": 7319.9,
+    "low": 7187.85,
+    "close": 7285,
+    "volume": 6076643019,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-Sep-2022",
+    "open": 7330,
+    "high": 7444,
+    "low": 7312.4,
+    "close": 7390.1,
+    "volume": 10217554144,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Sep-2022",
+    "open": 7272.15,
+    "high": 7560,
+    "low": 7272.15,
+    "close": 7473,
+    "volume": 11122479804,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "15-Sep-2022",
+    "open": 7489.95,
+    "high": 7532.85,
+    "low": 7369.7,
+    "close": 7382,
+    "volume": 5329274222,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-Sep-2022",
+    "open": 7385,
+    "high": 7480.15,
+    "low": 7194.35,
+    "close": 7289,
+    "volume": 8706737673,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-Sep-2022",
+    "open": 7275,
+    "high": 7524.45,
+    "low": 7190.95,
+    "close": 7502.5,
+    "volume": 12267272451,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-Sep-2022",
+    "open": 7569.95,
+    "high": 7715,
+    "low": 7565,
+    "close": 7625.9,
+    "volume": 12350986033,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Sep-2022",
+    "open": 7640,
+    "high": 7735,
+    "low": 7586.05,
+    "close": 7695,
+    "volume": 9494601792,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Sep-2022",
+    "open": 7670,
+    "high": 7778,
+    "low": 7600,
+    "close": 7727.1,
+    "volume": 9856214874,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-Sep-2022",
+    "open": 7714.8,
+    "high": 7731.5,
+    "low": 7475,
+    "close": 7510,
+    "volume": 10679136020,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "26-Sep-2022",
+    "open": 7437,
+    "high": 7460,
+    "low": 7129,
+    "close": 7260,
+    "volume": 13722934568,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-Sep-2022",
+    "open": 7325,
+    "high": 7379.95,
+    "low": 7210.05,
+    "close": 7260.25,
+    "volume": 8324229507,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Sep-2022",
+    "open": 7179,
+    "high": 7297.5,
+    "low": 7160.1,
+    "close": 7165.35,
+    "volume": 6286359303,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Sep-2022",
+    "open": 7312.5,
+    "high": 7316.9,
+    "low": 7088.05,
+    "close": 7115,
+    "volume": 6961090693,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "30-Sep-2022",
+    "open": 7081,
+    "high": 7362,
+    "low": 7026.8,
+    "close": 7340.1,
+    "volume": 11691688135,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "03-Oct-2022",
+    "open": 7337,
+    "high": 7398,
+    "low": 7144.6,
+    "close": 7162,
+    "volume": 5966078150,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Oct-2022",
+    "open": 7335,
+    "high": 7505,
+    "low": 7306.35,
+    "close": 7480,
+    "volume": 8837283517,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-Oct-2022",
+    "open": 7550,
+    "high": 7599,
+    "low": 7346.9,
+    "close": 7405,
+    "volume": 11192637244,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Oct-2022",
+    "open": 7385.45,
+    "high": 7407.75,
+    "low": 7272.25,
+    "close": 7344,
+    "volume": 7276854732,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-Oct-2022",
+    "open": 7265,
+    "high": 7338,
+    "low": 7221,
+    "close": 7295,
+    "volume": 4753501691,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Oct-2022",
+    "open": 7307,
+    "high": 7352.5,
+    "low": 7172.6,
+    "close": 7180.95,
+    "volume": 5328458637,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-Oct-2022",
+    "open": 7205,
+    "high": 7258.5,
+    "low": 7145,
+    "close": 7226,
+    "volume": 5338538013,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-Oct-2022",
+    "open": 7220.5,
+    "high": 7226,
+    "low": 7114.7,
+    "close": 7150.5,
+    "volume": 4357221205,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Oct-2022",
+    "open": 7300,
+    "high": 7345,
+    "low": 7221,
+    "close": 7275.9,
+    "volume": 6102968038,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-Oct-2022",
+    "open": 7254.95,
+    "high": 7372.3,
+    "low": 7217,
+    "close": 7363.95,
+    "volume": 4518093821,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-Oct-2022",
+    "open": 7400,
+    "high": 7430,
+    "low": 7321,
+    "close": 7389,
+    "volume": 6692662348,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-Oct-2022",
+    "open": 7417,
+    "high": 7440,
+    "low": 7350,
+    "close": 7394,
+    "volume": 4631995645,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-Oct-2022",
+    "open": 7369.95,
+    "high": 7449,
+    "low": 7261,
+    "close": 7404,
+    "volume": 7554680622,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Oct-2022",
+    "open": 7490,
+    "high": 7490,
+    "low": 7153.05,
+    "close": 7180,
+    "volume": 17392404724,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-Oct-2022",
+    "open": 7310,
+    "high": 7310,
+    "low": 7190,
+    "close": 7217.6,
+    "volume": 1647032024,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Oct-2022",
+    "open": 7242.55,
+    "high": 7242.55,
+    "low": 7090,
+    "close": 7095,
+    "volume": 6491913718,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-Oct-2022",
+    "open": 7186,
+    "high": 7210,
+    "low": 6931,
+    "close": 6985,
+    "volume": 11504795343,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Oct-2022",
+    "open": 7000,
+    "high": 7090,
+    "low": 6980,
+    "close": 7004,
+    "volume": 5898809042,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "31-Oct-2022",
+    "open": 7094,
+    "high": 7149.6,
+    "low": 7046,
+    "close": 7146,
+    "volume": 5824901861,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Nov-2022",
+    "open": 7196.95,
+    "high": 7236,
+    "low": 7160,
+    "close": 7205,
+    "volume": 5490426320,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-Nov-2022",
+    "open": 7207,
+    "high": 7240,
+    "low": 7140.05,
+    "close": 7150,
+    "volume": 4205285798,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "03-Nov-2022",
+    "open": 7105,
+    "high": 7195,
+    "low": 7092.1,
+    "close": 7121.5,
+    "volume": 4512308715,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "04-Nov-2022",
+    "open": 7121.6,
+    "high": 7224.9,
+    "low": 7121.6,
+    "close": 7212,
+    "volume": 6623443070,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Nov-2022",
+    "open": 7248.1,
+    "high": 7250.65,
+    "low": 7111,
+    "close": 7188,
+    "volume": 5185070268,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "09-Nov-2022",
+    "open": 7235,
+    "high": 7235,
+    "low": 7114.65,
+    "close": 7138.5,
+    "volume": 4937169420,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "10-Nov-2022",
+    "open": 7158,
+    "high": 7165,
+    "low": 6964.55,
+    "close": 6989.75,
+    "volume": 7080757525,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "11-Nov-2022",
+    "open": 7149,
+    "high": 7157.85,
+    "low": 6995,
+    "close": 7050,
+    "volume": 8735818502,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Nov-2022",
+    "open": 7054.9,
+    "high": 7107,
+    "low": 7001.05,
+    "close": 7027,
+    "volume": 6015567359,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "15-Nov-2022",
+    "open": 7035.15,
+    "high": 7062.4,
+    "low": 6981,
+    "close": 7029,
+    "volume": 5048091994,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-Nov-2022",
+    "open": 7011,
+    "high": 7034.85,
+    "low": 6852.6,
+    "close": 6875,
+    "volume": 9258827401,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "17-Nov-2022",
+    "open": 6870,
+    "high": 6950,
+    "low": 6832,
+    "close": 6890,
+    "volume": 5069214889,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "18-Nov-2022",
+    "open": 6909.9,
+    "high": 6928,
+    "low": 6750,
+    "close": 6785,
+    "volume": 9049414101,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Nov-2022",
+    "open": 6747,
+    "high": 6747,
+    "low": 6610.35,
+    "close": 6673,
+    "volume": 7151959118,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Nov-2022",
+    "open": 6680.25,
+    "high": 6727.75,
+    "low": 6660.3,
+    "close": 6696,
+    "volume": 6420198903,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-Nov-2022",
+    "open": 6718.5,
+    "high": 6805,
+    "low": 6690,
+    "close": 6775,
+    "volume": 6045639035,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "24-Nov-2022",
+    "open": 6813.95,
+    "high": 6839.85,
+    "low": 6737.3,
+    "close": 6784,
+    "volume": 5118783058,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "25-Nov-2022",
+    "open": 6770,
+    "high": 6778,
+    "low": 6675,
+    "close": 6735,
+    "volume": 5777749897,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Nov-2022",
+    "open": 6729,
+    "high": 6832.8,
+    "low": 6728.55,
+    "close": 6775,
+    "volume": 4101790655,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Nov-2022",
+    "open": 6775,
+    "high": 6808.9,
+    "low": 6721,
+    "close": 6729.2,
+    "volume": 4609276840,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "30-Nov-2022",
+    "open": 6735,
+    "high": 6754.2,
+    "low": 6678,
+    "close": 6747,
+    "volume": 9960953558,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "01-Dec-2022",
+    "open": 6754.6,
+    "high": 6770,
+    "low": 6707,
+    "close": 6748,
+    "volume": 6617539453,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "02-Dec-2022",
+    "open": 6730.2,
+    "high": 6741.95,
+    "low": 6647,
+    "close": 6672,
+    "volume": 9605748801,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "05-Dec-2022",
+    "open": 6674.55,
+    "high": 6699,
+    "low": 6632,
+    "close": 6661,
+    "volume": 6859631163,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "06-Dec-2022",
+    "open": 6674.4,
+    "high": 6735,
+    "low": 6632,
+    "close": 6692,
+    "volume": 5631864353,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "07-Dec-2022",
+    "open": 6724.95,
+    "high": 6724.95,
+    "low": 6601,
+    "close": 6626.2,
+    "volume": 6384298331,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "08-Dec-2022",
+    "open": 6680,
+    "high": 6680,
+    "low": 6560,
+    "close": 6584,
+    "volume": 7502600463,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "09-Dec-2022",
+    "open": 6602.5,
+    "high": 6618,
+    "low": 6490,
+    "close": 6515,
+    "volume": 7402909659,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "12-Dec-2022",
+    "open": 6508.1,
+    "high": 6539,
+    "low": 6392,
+    "close": 6504.5,
+    "volume": 7121978161,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "13-Dec-2022",
+    "open": 6507,
+    "high": 6648,
+    "low": 6507,
+    "close": 6640,
+    "volume": 6324278746,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "14-Dec-2022",
+    "open": 6658,
+    "high": 6688.55,
+    "low": 6626.6,
+    "close": 6642,
+    "volume": 4516123562,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "15-Dec-2022",
+    "open": 6632,
+    "high": 6714,
+    "low": 6604,
+    "close": 6610,
+    "volume": 5715328963,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "16-Dec-2022",
+    "open": 6590,
+    "high": 6695.3,
+    "low": 6560,
+    "close": 6603.75,
+    "volume": 5825897547,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "19-Dec-2022",
+    "open": 6600.1,
+    "high": 6705,
+    "low": 6597,
+    "close": 6692,
+    "volume": 4399024004,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "20-Dec-2022",
+    "open": 6660,
+    "high": 6698.85,
+    "low": 6585,
+    "close": 6641,
+    "volume": 4031833348,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "21-Dec-2022",
+    "open": 6693.9,
+    "high": 6693.9,
+    "low": 6505,
+    "close": 6528.3,
+    "volume": 4099317815,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "22-Dec-2022",
+    "open": 6570,
+    "high": 6575,
+    "low": 6407,
+    "close": 6480,
+    "volume": 5506999424,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "23-Dec-2022",
+    "open": 6450,
+    "high": 6466,
+    "low": 6340.05,
+    "close": 6369.95,
+    "volume": 6347649039,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "26-Dec-2022",
+    "open": 6374.65,
+    "high": 6469.9,
+    "low": 6300,
+    "close": 6422,
+    "volume": 3400891885,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "27-Dec-2022",
+    "open": 6466,
+    "high": 6530,
+    "low": 6430,
+    "close": 6505,
+    "volume": 5062540584,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "28-Dec-2022",
+    "open": 6475,
+    "high": 6570,
+    "low": 6464.05,
+    "close": 6469,
+    "volume": 4924741661,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "29-Dec-2022",
+    "open": 6440,
+    "high": 6520.5,
+    "low": 6402.4,
+    "close": 6511,
+    "volume": 3367615029,
+    "symbol": "BAJFINANCE"
+  },
+  {
+    "date": "30-Dec-2022",
+    "open": 6550,
+    "high": 6719.9,
+    "low": 6515,
+    "close": 6577,
+    "volume": 10086810491,
+    "symbol": "BAJFINANCE"
+  }
+]

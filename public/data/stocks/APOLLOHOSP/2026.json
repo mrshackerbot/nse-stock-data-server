@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 7063,
+    "high": 7125,
+    "low": 7023.5,
+    "close": 7116,
+    "volume": 580764073,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 7130,
+    "high": 7151,
+    "low": 7075.5,
+    "close": 7123.5,
+    "volume": 2511774984,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 7129.5,
+    "high": 7134.5,
+    "low": 7063.5,
+    "close": 7086.5,
+    "volume": 2483281426,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 7040,
+    "high": 7360,
+    "low": 7040,
+    "close": 7331,
+    "volume": 4238379784,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 7349,
+    "high": 7488,
+    "low": 7315,
+    "close": 7457,
+    "volume": 4211253212,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 7425,
+    "high": 7443,
+    "low": 7325,
+    "close": 7351,
+    "volume": 5737194037,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 7348,
+    "high": 7360.5,
+    "low": 7225,
+    "close": 7255,
+    "volume": 2278151131,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 7203,
+    "high": 7289.5,
+    "low": 7111,
+    "close": 7267,
+    "volume": 2401130971,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 7299,
+    "high": 7321.5,
+    "low": 7240,
+    "close": 7308,
+    "volume": 2004361540,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 7258,
+    "high": 7325.5,
+    "low": 7242.5,
+    "close": 7265,
+    "volume": 2791476587,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 6950,
+    "high": 7299,
+    "low": 6950,
+    "close": 7230,
+    "volume": 3624888774,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 7254,
+    "high": 7260,
+    "low": 7104,
+    "close": 7118,
+    "volume": 2615269723,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 7129,
+    "high": 7129,
+    "low": 6885,
+    "close": 6908,
+    "volume": 3488654835,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 6880,
+    "high": 6911.5,
+    "low": 6738,
+    "close": 6845,
+    "volume": 4235732941,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 6878.5,
+    "high": 6914.5,
+    "low": 6780.5,
+    "close": 6804,
+    "volume": 4881282706,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 6810,
+    "high": 6836,
+    "low": 6696.5,
+    "close": 6813,
+    "volume": 3111266112,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 6802,
+    "high": 6842,
+    "low": 6708.5,
+    "close": 6820,
+    "volume": 3492078096,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 6798.5,
+    "high": 6890,
+    "low": 6784.5,
+    "close": 6872.5,
+    "volume": 2739163863,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 6899,
+    "high": 6899,
+    "low": 6756,
+    "close": 6810,
+    "volume": 3521496443,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 6787,
+    "high": 6974.5,
+    "low": 6767,
+    "close": 6950,
+    "volume": 3393941056,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 7007,
+    "high": 7062,
+    "low": 6886,
+    "close": 6889,
+    "volume": 1778707034,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 6915,
+    "high": 6950,
+    "low": 6831,
+    "close": 6922.5,
+    "volume": 2369279284,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 7070,
+    "high": 7163.5,
+    "low": 7002.5,
+    "close": 7065,
+    "volume": 3106024483,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 7080,
+    "high": 7160,
+    "low": 7050,
+    "close": 7101,
+    "volume": 1534895172,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 7116,
+    "high": 7133,
+    "low": 7043,
+    "close": 7125,
+    "volume": 1665066396,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 7080,
+    "high": 7176.5,
+    "low": 6994,
+    "close": 7128.5,
+    "volume": 4745539474,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 7199,
+    "high": 7280,
+    "low": 7163.5,
+    "close": 7220,
+    "volume": 2978580729,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 7250,
+    "high": 7280.5,
+    "low": 7185,
+    "close": 7216,
+    "volume": 2000848101,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 7405,
+    "high": 7640,
+    "low": 7405,
+    "close": 7506,
+    "volume": 11300866345,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 7512,
+    "high": 7579.5,
+    "low": 7410,
+    "close": 7542,
+    "volume": 3259967036,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 7518,
+    "high": 7598,
+    "low": 7485,
+    "close": 7525,
+    "volume": 3263037591,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 7526.5,
+    "high": 7631,
+    "low": 7478,
+    "close": 7585,
+    "volume": 3749764055,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 7590,
+    "high": 7615,
+    "low": 7554.5,
+    "close": 7576.5,
+    "volume": 3989937166,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 7590,
+    "high": 7670,
+    "low": 7590,
+    "close": 7645,
+    "volume": 2949341920,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 7610,
+    "high": 7649,
+    "low": 7551.5,
+    "close": 7551.5,
+    "volume": 1419916822,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 7540,
+    "high": 7635,
+    "low": 7540,
+    "close": 7590,
+    "volume": 1948629193,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 7680,
+    "high": 7710,
+    "low": 7615.5,
+    "close": 7698,
+    "volume": 3063728519,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 7658,
+    "high": 7729.5,
+    "low": 7658,
+    "close": 7721,
+    "volume": 2905285932,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 7770.5,
+    "high": 7800,
+    "low": 7714,
+    "close": 7764,
+    "volume": 2980783858,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 7800,
+    "high": 7831,
+    "low": 7729,
+    "close": 7794,
+    "volume": 2810570451,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 7735.5,
+    "high": 7870.5,
+    "low": 7731.5,
+    "close": 7818,
+    "volume": 5459565207,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 7621,
+    "high": 7819,
+    "low": 7605,
+    "close": 7780,
+    "volume": 4137102076,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 7620,
+    "high": 7715,
+    "low": 7476,
+    "close": 7715,
+    "volume": 4762496632,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 7700,
+    "high": 7796.5,
+    "low": 7635,
+    "close": 7792.5,
+    "volume": 3448484028,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 7770,
+    "high": 7781,
+    "low": 7669,
+    "close": 7746,
+    "volume": 1744085100,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 7588,
+    "high": 7809,
+    "low": 7556,
+    "close": 7791,
+    "volume": 2757148952,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 7865,
+    "high": 7870,
+    "low": 7770,
+    "close": 7800,
+    "volume": 2979558536,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 7770.5,
+    "high": 7798.5,
+    "low": 7659,
+    "close": 7700.5,
+    "volume": 2557273441,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 7590,
+    "high": 7662.5,
+    "low": 7542.5,
+    "close": 7576,
+    "volume": 4170187557,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 7556,
+    "high": 7616,
+    "low": 7485.5,
+    "close": 7545,
+    "volume": 2977922568,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 7565,
+    "high": 7750,
+    "low": 7410,
+    "close": 7489.5,
+    "volume": 3606511080,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 7490,
+    "high": 7574.5,
+    "low": 7470,
+    "close": 7490.5,
+    "volume": 2581813610,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 7511.5,
+    "high": 7605,
+    "low": 7455.5,
+    "close": 7460,
+    "volume": 3750958852,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 7407,
+    "high": 7407,
+    "low": 7229,
+    "close": 7292.5,
+    "volume": 1938196384,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 7231.5,
+    "high": 7447.5,
+    "low": 7202.5,
+    "close": 7340,
+    "volume": 5127523018,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 7288,
+    "high": 7288,
+    "low": 7080,
+    "close": 7124.5,
+    "volume": 3318070300,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 7210,
+    "high": 7464,
+    "low": 7199,
+    "close": 7433.5,
+    "volume": 4827523907,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 7461,
+    "high": 7612.5,
+    "low": 7437.5,
+    "close": 7590,
+    "volume": 3402265766,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 7510,
+    "high": 7621,
+    "low": 7510,
+    "close": 7547,
+    "volume": 4034755978,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 7470,
+    "high": 7509.5,
+    "low": 7360.5,
+    "close": 7499.5,
+    "volume": 5670743321,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 7549,
+    "high": 7587,
+    "low": 7250.5,
+    "close": 7304.5,
+    "volume": 4542252082,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 7150.5,
+    "high": 7368,
+    "low": 7150.5,
+    "close": 7299,
+    "volume": 2457447988,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 7350,
+    "high": 7397,
+    "low": 7243,
+    "close": 7380,
+    "volume": 2631719995,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 7370.5,
+    "high": 7370.5,
+    "low": 7220.5,
+    "close": 7329,
+    "volume": 2278244408,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 7385,
+    "high": 7518,
+    "low": 7332.5,
+    "close": 7396,
+    "volume": 2865112223,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 7400,
+    "high": 7512,
+    "low": 7364,
+    "close": 7447.5,
+    "volume": 3113702942,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 7500,
+    "high": 7563,
+    "low": 7461.5,
+    "close": 7519.5,
+    "volume": 3290430846,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 7420,
+    "high": 7566,
+    "low": 7403.5,
+    "close": 7511.5,
+    "volume": 2331013541,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 7516.5,
+    "high": 7686,
+    "low": 7500,
+    "close": 7619.5,
+    "volume": 3543052278,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 7678,
+    "high": 7678,
+    "low": 7510,
+    "close": 7562.5,
+    "volume": 3033325229,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 7553,
+    "high": 7710,
+    "low": 7515,
+    "close": 7710,
+    "volume": 2632645155,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 7705,
+    "high": 7730.5,
+    "low": 7622,
+    "close": 7660,
+    "volume": 2635063371,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 7686.5,
+    "high": 7765,
+    "low": 7667.5,
+    "close": 7740,
+    "volume": 2419043239,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 7702,
+    "high": 7801.5,
+    "low": 7615,
+    "close": 7628.5,
+    "volume": 4693318294,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 7685,
+    "high": 7815,
+    "low": 7601,
+    "close": 7773,
+    "volume": 2352766867,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 7814,
+    "high": 7845,
+    "low": 7684.5,
+    "close": 7740,
+    "volume": 3158689468,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 7759,
+    "high": 7850,
+    "low": 7735,
+    "close": 7840,
+    "volume": 2261174456,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 7840,
+    "high": 7878.5,
+    "low": 7711,
+    "close": 7740,
+    "volume": 2748807775,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 7745,
+    "high": 7799,
+    "low": 7681,
+    "close": 7718.5,
+    "volume": 2484293789,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 7634.5,
+    "high": 7680,
+    "low": 7561.5,
+    "close": 7650,
+    "volume": 2987333688,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 7699.5,
+    "high": 7790,
+    "low": 7673,
+    "close": 7748,
+    "volume": 2540972326,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 7724.5,
+    "high": 7780.5,
+    "low": 7678,
+    "close": 7760,
+    "volume": 1967025658,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 7810.5,
+    "high": 7815,
+    "low": 7742.5,
+    "close": 7755,
+    "volume": 3394010406,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 7760.5,
+    "high": 7855,
+    "low": 7744,
+    "close": 7845,
+    "volume": 3170499547,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 7837,
+    "high": 8115,
+    "low": 7812.5,
+    "close": 8105,
+    "volume": 7410420919,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 8046,
+    "high": 8144,
+    "low": 8022.5,
+    "close": 8079,
+    "volume": 3772388533,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 8050,
+    "high": 8078,
+    "low": 7995,
+    "close": 8026,
+    "volume": 3131678123,
+    "symbol": "APOLLOHOSP"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 7981,
+    "high": 8112,
+    "low": 7981,
+    "close": 8040,
+    "volume": 2647643570,
+    "symbol": "APOLLOHOSP"
+  }
+]

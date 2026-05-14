@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 250,
+    "high": 256.4,
+    "low": 246.75,
+    "close": 251.73,
+    "volume": 58979991,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 251.75,
+    "high": 252.78,
+    "low": 247.99,
+    "close": 248.8,
+    "volume": 65100159,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 250,
+    "high": 251.31,
+    "low": 241.85,
+    "close": 241.85,
+    "volume": 86064832,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 243.57,
+    "high": 244.06,
+    "low": 238.55,
+    "close": 239,
+    "volume": 86948894,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 239.7,
+    "high": 241.04,
+    "low": 236.5,
+    "close": 239.95,
+    "volume": 56794900,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 237.3,
+    "high": 243.38,
+    "low": 235.38,
+    "close": 236.99,
+    "volume": 115729785,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 236.25,
+    "high": 240.86,
+    "low": 225.61,
+    "close": 228.9,
+    "volume": 368934103,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 227,
+    "high": 231.53,
+    "low": 224.22,
+    "close": 226,
+    "volume": 214689578,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 226.6,
+    "high": 231.71,
+    "low": 226.6,
+    "close": 231,
+    "volume": 44013416,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 231.99,
+    "high": 232.8,
+    "low": 225.45,
+    "close": 225.5,
+    "volume": 55977236,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 226,
+    "high": 226.1,
+    "low": 213.62,
+    "close": 216.92,
+    "volume": 170703318,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 217.63,
+    "high": 218,
+    "low": 208.51,
+    "close": 214.9,
+    "volume": 187961652,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 214.81,
+    "high": 214.81,
+    "low": 200.3,
+    "close": 207.9,
+    "volume": 121717199,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 206.54,
+    "high": 206.57,
+    "low": 198,
+    "close": 200.9,
+    "volume": 87824339,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 200.64,
+    "high": 206.5,
+    "low": 200.3,
+    "close": 205.55,
+    "volume": 89638439,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 207,
+    "high": 207.04,
+    "low": 199.84,
+    "close": 201.58,
+    "volume": 62190031,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 201.22,
+    "high": 221.34,
+    "low": 201,
+    "close": 218.93,
+    "volume": 1935314093,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 225,
+    "high": 225,
+    "low": 212,
+    "close": 213.15,
+    "volume": 455740376,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 213.98,
+    "high": 221.68,
+    "low": 209.15,
+    "close": 217.11,
+    "volume": 300361281,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 217.05,
+    "high": 234,
+    "low": 211.27,
+    "close": 226,
+    "volume": 1827915199,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 233.98,
+    "high": 239,
+    "low": 220.5,
+    "close": 229.4,
+    "volume": 171909615,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 235,
+    "high": 237.9,
+    "low": 218.57,
+    "close": 232.65,
+    "volume": 540661195,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 236.29,
+    "high": 240,
+    "low": 219.05,
+    "close": 222.75,
+    "volume": 498849202,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 223.55,
+    "high": 230.99,
+    "low": 220.05,
+    "close": 228,
+    "volume": 160759574,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 227.6,
+    "high": 234,
+    "low": 222.89,
+    "close": 224.3,
+    "volume": 294715404,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 225,
+    "high": 225.29,
+    "low": 215,
+    "close": 215.5,
+    "volume": 183106274,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 218.49,
+    "high": 220.89,
+    "low": 214.28,
+    "close": 217.1,
+    "volume": 110701825,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 219,
+    "high": 222.74,
+    "low": 219,
+    "close": 220.09,
+    "volume": 56821732,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 222.13,
+    "high": 222.13,
+    "low": 217.36,
+    "close": 219.37,
+    "volume": 46238038,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 217.55,
+    "high": 218.95,
+    "low": 211.68,
+    "close": 212.5,
+    "volume": 71263508,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 212,
+    "high": 217.14,
+    "low": 204.5,
+    "close": 213.2,
+    "volume": 142213539,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 211.37,
+    "high": 214.1,
+    "low": 205.76,
+    "close": 207,
+    "volume": 124946009,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 207.99,
+    "high": 222.65,
+    "low": 206.4,
+    "close": 219,
+    "volume": 450653355,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 218.5,
+    "high": 222.41,
+    "low": 216.2,
+    "close": 221.39,
+    "volume": 60032394,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 221.99,
+    "high": 221.99,
+    "low": 212.5,
+    "close": 214.85,
+    "volume": 116973862,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 214.81,
+    "high": 216.64,
+    "low": 208.36,
+    "close": 212.25,
+    "volume": 155372591,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 214.24,
+    "high": 231.85,
+    "low": 213.4,
+    "close": 230,
+    "volume": 1259937207,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 225.2,
+    "high": 230.79,
+    "low": 222,
+    "close": 226.71,
+    "volume": 223972201,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 225,
+    "high": 240.01,
+    "low": 224.52,
+    "close": 236,
+    "volume": 337510200,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 235,
+    "high": 237.34,
+    "low": 230.02,
+    "close": 234.9,
+    "volume": 116777849,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 230.01,
+    "high": 232.84,
+    "low": 227.5,
+    "close": 230,
+    "volume": 99834038,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 220.06,
+    "high": 223.87,
+    "low": 213.21,
+    "close": 216.81,
+    "volume": 120601247,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 215,
+    "high": 216.15,
+    "low": 198,
+    "close": 199.84,
+    "volume": 231085387,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 199,
+    "high": 203.99,
+    "low": 184.2,
+    "close": 189.1,
+    "volume": 658906149,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 185.05,
+    "high": 202,
+    "low": 184.8,
+    "close": 200,
+    "volume": 474271715,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 198.65,
+    "high": 200.05,
+    "low": 189.65,
+    "close": 195.2,
+    "volume": 179509453,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 196.85,
+    "high": 196.85,
+    "low": 189.1,
+    "close": 194.7,
+    "volume": 147091225,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 194.69,
+    "high": 199.09,
+    "low": 191.29,
+    "close": 193.95,
+    "volume": 103698938,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 191.51,
+    "high": 198,
+    "low": 189,
+    "close": 193.5,
+    "volume": 101356584,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 193.47,
+    "high": 195.55,
+    "low": 191.7,
+    "close": 192.25,
+    "volume": 65637989,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 192.25,
+    "high": 193.74,
+    "low": 183.01,
+    "close": 188.81,
+    "volume": 123913221,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 189.59,
+    "high": 194.6,
+    "low": 189.25,
+    "close": 191.3,
+    "volume": 72732965,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 192,
+    "high": 194.19,
+    "low": 188.05,
+    "close": 189.6,
+    "volume": 84613665,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 185.56,
+    "high": 186.76,
+    "low": 171.67,
+    "close": 178.68,
+    "volume": 145874589,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 179,
+    "high": 181.58,
+    "low": 175.52,
+    "close": 178,
+    "volume": 62977086,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 176.5,
+    "high": 181.21,
+    "low": 168.18,
+    "close": 172.92,
+    "volume": 550264886,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 177.7,
+    "high": 179.9,
+    "low": 170.3,
+    "close": 177.4,
+    "volume": 173962197,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 178.4,
+    "high": 179.49,
+    "low": 173.9,
+    "close": 174.5,
+    "volume": 233734997,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 173.91,
+    "high": 175.31,
+    "low": 166.2,
+    "close": 173,
+    "volume": 229929244,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 171,
+    "high": 171.12,
+    "low": 158,
+    "close": 161,
+    "volume": 156659599,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 166,
+    "high": 171.14,
+    "low": 163.08,
+    "close": 167.35,
+    "volume": 99825118,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 164.75,
+    "high": 171,
+    "low": 160.91,
+    "close": 168.99,
+    "volume": 111534969,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 169.4,
+    "high": 175.99,
+    "low": 163.25,
+    "close": 169,
+    "volume": 276085268,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 167.5,
+    "high": 175.15,
+    "low": 166.63,
+    "close": 174,
+    "volume": 107122871,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 186.86,
+    "high": 191.98,
+    "low": 180.82,
+    "close": 191.98,
+    "volume": 298491712,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 190.5,
+    "high": 194.4,
+    "low": 184.8,
+    "close": 186.6,
+    "volume": 132998226,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 189,
+    "high": 197,
+    "low": 188.64,
+    "close": 189.84,
+    "volume": 194698416,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 186.22,
+    "high": 189.44,
+    "low": 182.23,
+    "close": 188.6,
+    "volume": 104009419,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 192.1,
+    "high": 197.55,
+    "low": 189,
+    "close": 196,
+    "volume": 230378272,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 197,
+    "high": 201.28,
+    "low": 193.28,
+    "close": 198.5,
+    "volume": 143192733,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 197.76,
+    "high": 206.02,
+    "low": 197.49,
+    "close": 200.1,
+    "volume": 215065811,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 203.25,
+    "high": 203.25,
+    "low": 195.12,
+    "close": 198.25,
+    "volume": 118142165,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 198.9,
+    "high": 199.15,
+    "low": 196.08,
+    "close": 198,
+    "volume": 43657757,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 196.5,
+    "high": 198.09,
+    "low": 192.5,
+    "close": 196,
+    "volume": 106319225,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 195.5,
+    "high": 197.4,
+    "low": 192.1,
+    "close": 193,
+    "volume": 42679193,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 195,
+    "high": 195,
+    "low": 184.5,
+    "close": 188.42,
+    "volume": 78864711,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 188.15,
+    "high": 199,
+    "low": 188.15,
+    "close": 198.6,
+    "volume": 83145701,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 197.31,
+    "high": 202.58,
+    "low": 195.45,
+    "close": 198.8,
+    "volume": 211407029,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 198.8,
+    "high": 200,
+    "low": 193.54,
+    "close": 194.96,
+    "volume": 127681395,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 193.5,
+    "high": 196.94,
+    "low": 186.91,
+    "close": 190,
+    "volume": 118208206,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 189.62,
+    "high": 194.59,
+    "low": 188.38,
+    "close": 193.65,
+    "volume": 69388189,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 194.95,
+    "high": 198,
+    "low": 192.7,
+    "close": 195.5,
+    "volume": 73865194,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 198,
+    "high": 206.58,
+    "low": 195,
+    "close": 201.75,
+    "volume": 370085485,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 204.9,
+    "high": 221,
+    "low": 201.2,
+    "close": 216,
+    "volume": 1295322552,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 216,
+    "high": 216.45,
+    "low": 208.06,
+    "close": 211.15,
+    "volume": 250361008,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 210.9,
+    "high": 214.51,
+    "low": 204.31,
+    "close": 211.8,
+    "volume": 444095051,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 211,
+    "high": 211,
+    "low": 196.11,
+    "close": 202.85,
+    "volume": 346406962,
+    "symbol": "AEGISVOPAK"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 200.81,
+    "high": 203.15,
+    "low": 196.5,
+    "close": 196.85,
+    "volume": 113673994,
+    "symbol": "AEGISVOPAK"
+  }
+]

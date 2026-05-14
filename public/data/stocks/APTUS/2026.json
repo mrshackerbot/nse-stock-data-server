@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 281.6,
+    "high": 284.85,
+    "low": 279.05,
+    "close": 282.5,
+    "volume": 128334437,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 282.5,
+    "high": 284.4,
+    "low": 280.5,
+    "close": 284.2,
+    "volume": 112955448,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 283.8,
+    "high": 288.8,
+    "low": 282.45,
+    "close": 286.75,
+    "volume": 153922285,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 289.5,
+    "high": 290,
+    "low": 284.35,
+    "close": 287.4,
+    "volume": 189328913,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 286.6,
+    "high": 289.95,
+    "low": 281.9,
+    "close": 287.5,
+    "volume": 167632596,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 287.85,
+    "high": 287.85,
+    "low": 279,
+    "close": 279.65,
+    "volume": 112603818,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 280,
+    "high": 283,
+    "low": 275,
+    "close": 275.55,
+    "volume": 120564487,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 275.5,
+    "high": 277,
+    "low": 271.45,
+    "close": 274.9,
+    "volume": 150298992,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 274.2,
+    "high": 276.9,
+    "low": 272.95,
+    "close": 275,
+    "volume": 84634041,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 275.55,
+    "high": 276.65,
+    "low": 270,
+    "close": 270.5,
+    "volume": 180167566,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 270.3,
+    "high": 271.2,
+    "low": 268.05,
+    "close": 270,
+    "volume": 251878893,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 270,
+    "high": 271.05,
+    "low": 264,
+    "close": 266,
+    "volume": 235602788,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 267.9,
+    "high": 271,
+    "low": 261.85,
+    "close": 263,
+    "volume": 271733592,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 262.45,
+    "high": 264.95,
+    "low": 257.15,
+    "close": 261.4,
+    "volume": 396999544,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 261.15,
+    "high": 266.05,
+    "low": 260.05,
+    "close": 265,
+    "volume": 282606792,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 265.2,
+    "high": 268.05,
+    "low": 259,
+    "close": 260,
+    "volume": 97193688,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 259.7,
+    "high": 269.9,
+    "low": 257.4,
+    "close": 268.95,
+    "volume": 383641892,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 268.8,
+    "high": 274,
+    "low": 265.1,
+    "close": 273.7,
+    "volume": 130601881,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 274.35,
+    "high": 274.35,
+    "low": 268.5,
+    "close": 269.25,
+    "volume": 94005232,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 269.8,
+    "high": 276.7,
+    "low": 266.15,
+    "close": 276,
+    "volume": 235024354,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 277,
+    "high": 277,
+    "low": 265.8,
+    "close": 266.9,
+    "volume": 63783468,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 266.2,
+    "high": 268.9,
+    "low": 258.15,
+    "close": 266.75,
+    "volume": 261897797,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 279.9,
+    "high": 283,
+    "low": 274.85,
+    "close": 281.65,
+    "volume": 397698683,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 281.05,
+    "high": 292.55,
+    "low": 272.2,
+    "close": 277,
+    "volume": 1327105786,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 285.15,
+    "high": 285.95,
+    "low": 268.35,
+    "close": 269,
+    "volume": 596905918,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 269,
+    "high": 269,
+    "low": 258.2,
+    "close": 258.9,
+    "volume": 639328220,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 260.5,
+    "high": 267.85,
+    "low": 256.3,
+    "close": 267,
+    "volume": 320666385,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 267.9,
+    "high": 268.5,
+    "low": 259.45,
+    "close": 260.65,
+    "volume": 392256475,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 262,
+    "high": 262,
+    "low": 257.2,
+    "close": 258,
+    "volume": 200974154,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 258.9,
+    "high": 258.9,
+    "low": 251.4,
+    "close": 252,
+    "volume": 257083783,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 251.1,
+    "high": 251.45,
+    "low": 245.55,
+    "close": 249,
+    "volume": 347095019,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 247.4,
+    "high": 249,
+    "low": 242.95,
+    "close": 245.7,
+    "volume": 306670678,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 245.7,
+    "high": 250.65,
+    "low": 244,
+    "close": 249,
+    "volume": 173301336,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 250,
+    "high": 251,
+    "low": 247.4,
+    "close": 250.05,
+    "volume": 149584311,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 249.65,
+    "high": 249.65,
+    "low": 244,
+    "close": 244.1,
+    "volume": 221671951,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 244.95,
+    "high": 247.7,
+    "low": 241.25,
+    "close": 241.95,
+    "volume": 249770243,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 243.9,
+    "high": 249.95,
+    "low": 242.1,
+    "close": 243.7,
+    "volume": 526793419,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 243.7,
+    "high": 244.3,
+    "low": 234.4,
+    "close": 237.85,
+    "volume": 535971745,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 238.9,
+    "high": 248.45,
+    "low": 238.9,
+    "close": 247.05,
+    "volume": 654566036,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 247,
+    "high": 250.45,
+    "low": 243.15,
+    "close": 245.7,
+    "volume": 308316614,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 245.45,
+    "high": 248.2,
+    "low": 243.05,
+    "close": 244.5,
+    "volume": 161851181,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 235,
+    "high": 242.76,
+    "low": 235,
+    "close": 239.15,
+    "volume": 198582979,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 235,
+    "high": 235.13,
+    "low": 225.03,
+    "close": 228.9,
+    "volume": 456337821,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 231.84,
+    "high": 231.84,
+    "low": 227.26,
+    "close": 230.99,
+    "volume": 270690101,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 229.82,
+    "high": 231.34,
+    "low": 225.8,
+    "close": 228.59,
+    "volume": 425016010,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 225,
+    "high": 225,
+    "low": 218.27,
+    "close": 222.8,
+    "volume": 317587828,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 225.35,
+    "high": 232.81,
+    "low": 223.85,
+    "close": 232.49,
+    "volume": 532462309,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 233,
+    "high": 235.22,
+    "low": 228.01,
+    "close": 228.43,
+    "volume": 412433309,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 227,
+    "high": 230.1,
+    "low": 223.91,
+    "close": 227.98,
+    "volume": 354406016,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 227.25,
+    "high": 227.78,
+    "low": 219.23,
+    "close": 221.98,
+    "volume": 336580443,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 222.01,
+    "high": 224.5,
+    "low": 217,
+    "close": 222,
+    "volume": 316273562,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 225.25,
+    "high": 225.52,
+    "low": 220.2,
+    "close": 221.75,
+    "volume": 262887554,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 221.75,
+    "high": 225.05,
+    "low": 217.21,
+    "close": 219.66,
+    "volume": 444220827,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 217.68,
+    "high": 217.68,
+    "low": 209,
+    "close": 209.75,
+    "volume": 396183881,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 212.9,
+    "high": 212.95,
+    "low": 208.25,
+    "close": 208.99,
+    "volume": 363853611,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 204.91,
+    "high": 207.42,
+    "low": 198.11,
+    "close": 199.9,
+    "volume": 1209533343,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 205,
+    "high": 205.33,
+    "low": 197.8,
+    "close": 201,
+    "volume": 1033277296,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 203,
+    "high": 209.06,
+    "low": 202.22,
+    "close": 207.25,
+    "volume": 1480295479,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 206.51,
+    "high": 206.51,
+    "low": 196.74,
+    "close": 198.88,
+    "volume": 1124681500,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 197.5,
+    "high": 200.89,
+    "low": 193.03,
+    "close": 193.03,
+    "volume": 657408197,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 201.94,
+    "high": 205.5,
+    "low": 198.7,
+    "close": 203.99,
+    "volume": 366836106,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 202.4,
+    "high": 202.4,
+    "low": 195.5,
+    "close": 199.99,
+    "volume": 676279863,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 199.5,
+    "high": 200.3,
+    "low": 194.1,
+    "close": 200,
+    "volume": 441096959,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 202,
+    "high": 203.82,
+    "low": 194.65,
+    "close": 200,
+    "volume": 522237322,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 210.95,
+    "high": 213.12,
+    "low": 205.27,
+    "close": 212,
+    "volume": 719986290,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 212.9,
+    "high": 218.7,
+    "low": 210.24,
+    "close": 217.68,
+    "volume": 1191670921,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 220.4,
+    "high": 224.47,
+    "low": 218.9,
+    "close": 223.71,
+    "volume": 676399260,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 222,
+    "high": 227.7,
+    "low": 215.93,
+    "close": 226.02,
+    "volume": 358746444,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 231.1,
+    "high": 232,
+    "low": 225.99,
+    "close": 232,
+    "volume": 608652838,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 231.58,
+    "high": 248.98,
+    "low": 231.58,
+    "close": 246.05,
+    "volume": 1506936070,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 248.75,
+    "high": 250.5,
+    "low": 245,
+    "close": 245.1,
+    "volume": 332872736,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 246.7,
+    "high": 247,
+    "low": 241.26,
+    "close": 244.4,
+    "volume": 220703065,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 247.05,
+    "high": 260.19,
+    "low": 246.6,
+    "close": 256.51,
+    "volume": 1380247307,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 257,
+    "high": 262.79,
+    "low": 253.21,
+    "close": 260.2,
+    "volume": 504023691,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 258,
+    "high": 260.43,
+    "low": 255,
+    "close": 256.26,
+    "volume": 242345980,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 257,
+    "high": 258.72,
+    "low": 252.5,
+    "close": 258,
+    "volume": 296125403,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 258.67,
+    "high": 264.47,
+    "low": 258,
+    "close": 261.35,
+    "volume": 398282323,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 261,
+    "high": 263,
+    "low": 255.8,
+    "close": 258,
+    "volume": 188273946,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 258,
+    "high": 267.9,
+    "low": 255.84,
+    "close": 264.5,
+    "volume": 508870584,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 261.8,
+    "high": 265.2,
+    "low": 259.5,
+    "close": 259.5,
+    "volume": 154876151,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 262.95,
+    "high": 266.5,
+    "low": 260.1,
+    "close": 261,
+    "volume": 181819090,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 262.7,
+    "high": 263,
+    "low": 254.45,
+    "close": 259,
+    "volume": 378760560,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 260.95,
+    "high": 270,
+    "low": 260.95,
+    "close": 270,
+    "volume": 440652322,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 272,
+    "high": 293.9,
+    "low": 270.15,
+    "close": 276.95,
+    "volume": 6018509977,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 277.35,
+    "high": 285.7,
+    "low": 276.5,
+    "close": 282.5,
+    "volume": 664410971,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 282.8,
+    "high": 290,
+    "low": 276.75,
+    "close": 284.5,
+    "volume": 568799076,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 285,
+    "high": 285.95,
+    "low": 271.15,
+    "close": 274.4,
+    "volume": 510116408,
+    "symbol": "APTUS"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 273.7,
+    "high": 280,
+    "low": 268.65,
+    "close": 269.6,
+    "volume": 304863556,
+    "symbol": "APTUS"
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "date": "20-Aug-2021",
+    "open": 1599.8,
+    "high": 1618,
+    "low": 1475,
+    "close": 1491,
+    "volume": 18025561504,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 1526,
+    "high": 1596,
+    "low": 1515,
+    "close": 1575,
+    "volume": 3432858898,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 1584,
+    "high": 1584.4,
+    "low": 1525.35,
+    "close": 1529.95,
+    "volume": 879422522,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 1535.15,
+    "high": 1547,
+    "low": 1465.95,
+    "close": 1472.9,
+    "volume": 770687757,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 1476.25,
+    "high": 1486.3,
+    "low": 1425,
+    "close": 1430,
+    "volume": 585594588,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 1420.05,
+    "high": 1465,
+    "low": 1414.85,
+    "close": 1434,
+    "volume": 546256614,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 1439.95,
+    "high": 1550,
+    "low": 1423.15,
+    "close": 1503,
+    "volume": 1271768791,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 1505,
+    "high": 1531,
+    "low": 1480.2,
+    "close": 1488.85,
+    "volume": 429973093,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 1490.05,
+    "high": 1506,
+    "low": 1465,
+    "close": 1468.55,
+    "volume": 247460744,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 1472,
+    "high": 1500,
+    "low": 1455.25,
+    "close": 1457.35,
+    "volume": 238234392,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 1468.95,
+    "high": 1475,
+    "low": 1450.3,
+    "close": 1464.05,
+    "volume": 209248450,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 1464.1,
+    "high": 1508.85,
+    "low": 1461,
+    "close": 1462.1,
+    "volume": 511564449,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 1468.1,
+    "high": 1476.75,
+    "low": 1451,
+    "close": 1452,
+    "volume": 144253950,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 1459.6,
+    "high": 1507,
+    "low": 1455.05,
+    "close": 1477,
+    "volume": 453029605,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 1476.15,
+    "high": 1499.95,
+    "low": 1476.15,
+    "close": 1485.2,
+    "volume": 248461196,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 1485.2,
+    "high": 1536,
+    "low": 1479,
+    "close": 1517.9,
+    "volume": 673607955,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 1524,
+    "high": 1529.95,
+    "low": 1492.75,
+    "close": 1503.1,
+    "volume": 503615049,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 1511.75,
+    "high": 1512,
+    "low": 1476.15,
+    "close": 1483.25,
+    "volume": 444373459,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 1488.85,
+    "high": 1544,
+    "low": 1465.65,
+    "close": 1490.45,
+    "volume": 738963227,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 1497.25,
+    "high": 1507.7,
+    "low": 1449.5,
+    "close": 1450,
+    "volume": 442755948,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 1446,
+    "high": 1452.25,
+    "low": 1405,
+    "close": 1412.25,
+    "volume": 292648849,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 1436,
+    "high": 1436,
+    "low": 1365,
+    "close": 1380.8,
+    "volume": 502420773,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 1390.95,
+    "high": 1409.6,
+    "low": 1386.05,
+    "close": 1394,
+    "volume": 199579322,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 1397,
+    "high": 1411.95,
+    "low": 1380.3,
+    "close": 1381,
+    "volume": 183367960,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 1390,
+    "high": 1394.7,
+    "low": 1320.2,
+    "close": 1327.7,
+    "volume": 407668309,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 1345,
+    "high": 1345,
+    "low": 1291,
+    "close": 1291.75,
+    "volume": 443736894,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 1300,
+    "high": 1315,
+    "low": 1260,
+    "close": 1265.2,
+    "volume": 408618555,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 1265.2,
+    "high": 1290,
+    "low": 1214.2,
+    "close": 1215,
+    "volume": 481270083,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 1227.65,
+    "high": 1277.65,
+    "low": 1211,
+    "close": 1239.05,
+    "volume": 1233080330,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 1234,
+    "high": 1299,
+    "low": 1229.35,
+    "close": 1284.8,
+    "volume": 832414663,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 1298,
+    "high": 1324.8,
+    "low": 1286.35,
+    "close": 1316.85,
+    "volume": 263031394,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 1315.8,
+    "high": 1353.9,
+    "low": 1310.5,
+    "close": 1338,
+    "volume": 283511260,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 1345,
+    "high": 1462,
+    "low": 1341.05,
+    "close": 1414.95,
+    "volume": 1285791129,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 1431,
+    "high": 1441.9,
+    "low": 1385,
+    "close": 1389,
+    "volume": 275953110,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 1391.25,
+    "high": 1425,
+    "low": 1387.15,
+    "close": 1410,
+    "volume": 622802519,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 1423.6,
+    "high": 1440,
+    "low": 1402,
+    "close": 1414,
+    "volume": 308541668,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 1414.9,
+    "high": 1419.55,
+    "low": 1352,
+    "close": 1376,
+    "volume": 150548293,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 1379,
+    "high": 1393,
+    "low": 1351.25,
+    "close": 1359.2,
+    "volume": 219133655,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 1375,
+    "high": 1380,
+    "low": 1346,
+    "close": 1350,
+    "volume": 426697748,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 1360,
+    "high": 1361.65,
+    "low": 1312.05,
+    "close": 1317,
+    "volume": 199209936,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 1329,
+    "high": 1332.9,
+    "low": 1300.05,
+    "close": 1304,
+    "volume": 184917399,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 1309.25,
+    "high": 1310,
+    "low": 1274.05,
+    "close": 1288,
+    "volume": 119043096,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 1305.1,
+    "high": 1305.1,
+    "low": 1270,
+    "close": 1274.9,
+    "volume": 83270438,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 1285,
+    "high": 1299.05,
+    "low": 1253,
+    "close": 1256.55,
+    "volume": 95694765,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 1278,
+    "high": 1278,
+    "low": 1230.55,
+    "close": 1234.9,
+    "volume": 89794123,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 1245,
+    "high": 1265.2,
+    "low": 1235,
+    "close": 1240,
+    "volume": 93332459,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 1250,
+    "high": 1265,
+    "low": 1240.05,
+    "close": 1250,
+    "volume": 76989785,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 1259,
+    "high": 1259,
+    "low": 1230,
+    "close": 1233.95,
+    "volume": 88714783,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 1200,
+    "high": 1215,
+    "low": 1155,
+    "close": 1195.55,
+    "volume": 219760038,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 1199.9,
+    "high": 1213,
+    "low": 1156,
+    "close": 1157.65,
+    "volume": 202743913,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 1174,
+    "high": 1180,
+    "low": 1165,
+    "close": 1167.8,
+    "volume": 87533033,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 1170,
+    "high": 1184,
+    "low": 1146,
+    "close": 1147.45,
+    "volume": 116681236,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 1157,
+    "high": 1170,
+    "low": 1155,
+    "close": 1168.95,
+    "volume": 28333405,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 1170.25,
+    "high": 1174.6,
+    "low": 1139,
+    "close": 1143.9,
+    "volume": 119554451,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 1144,
+    "high": 1159.45,
+    "low": 1139.05,
+    "close": 1140,
+    "volume": 103687237,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 1141,
+    "high": 1147.75,
+    "low": 1130.3,
+    "close": 1132.9,
+    "volume": 127590506,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 1132,
+    "high": 1137.45,
+    "low": 1115,
+    "close": 1115,
+    "volume": 118951321,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 1121,
+    "high": 1131.95,
+    "low": 1115,
+    "close": 1117,
+    "volume": 128436338,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 1118.1,
+    "high": 1150,
+    "low": 1118.1,
+    "close": 1134.5,
+    "volume": 161548947,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 1144.95,
+    "high": 1145.55,
+    "low": 1107.75,
+    "close": 1115.85,
+    "volume": 162614874,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 1119,
+    "high": 1125.05,
+    "low": 1085,
+    "close": 1085,
+    "volume": 178998602,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 1080.5,
+    "high": 1100,
+    "low": 1042.1,
+    "close": 1044.45,
+    "volume": 228253826,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 1045,
+    "high": 1048.7,
+    "low": 995.15,
+    "close": 999.95,
+    "volume": 281429924,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 999,
+    "high": 1045,
+    "low": 988.2,
+    "close": 998.85,
+    "volume": 274526119,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 1005,
+    "high": 1013.15,
+    "low": 991.05,
+    "close": 994.9,
+    "volume": 446731350,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 999,
+    "high": 1018,
+    "low": 995.75,
+    "close": 1004.9,
+    "volume": 629744550,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 995.45,
+    "high": 1003.7,
+    "low": 965.1,
+    "close": 968,
+    "volume": 262199958,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 970,
+    "high": 970,
+    "low": 911.35,
+    "close": 941.25,
+    "volume": 231601077,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 940,
+    "high": 965.1,
+    "low": 902.5,
+    "close": 907,
+    "volume": 414056319,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 922,
+    "high": 934.9,
+    "low": 896.3,
+    "close": 899,
+    "volume": 241906992,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 899.6,
+    "high": 958,
+    "low": 899,
+    "close": 938,
+    "volume": 455960776,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 940,
+    "high": 949.9,
+    "low": 910,
+    "close": 923,
+    "volume": 251872287,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 923.55,
+    "high": 935.95,
+    "low": 890,
+    "close": 891.5,
+    "volume": 172103770,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 914,
+    "high": 914.4,
+    "low": 880,
+    "close": 881,
+    "volume": 159158312,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 900.95,
+    "high": 919.7,
+    "low": 892.3,
+    "close": 896,
+    "volume": 271218732,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 904.6,
+    "high": 910.7,
+    "low": 890.1,
+    "close": 891,
+    "volume": 124659576,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 895,
+    "high": 977.9,
+    "low": 895,
+    "close": 965,
+    "volume": 717250588,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 974,
+    "high": 982.75,
+    "low": 930,
+    "close": 931.15,
+    "volume": 306508509,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 926.95,
+    "high": 931,
+    "low": 911.2,
+    "close": 917,
+    "volume": 150768228,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 916,
+    "high": 925,
+    "low": 905,
+    "close": 907.25,
+    "volume": 115804691,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 922,
+    "high": 931,
+    "low": 896.35,
+    "close": 904.5,
+    "volume": 267924650,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 917,
+    "high": 917,
+    "low": 883.25,
+    "close": 902,
+    "volume": 216113804,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 892,
+    "high": 901.4,
+    "low": 864,
+    "close": 865,
+    "volume": 136995423,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 871,
+    "high": 880,
+    "low": 840,
+    "close": 845,
+    "volume": 202064670,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 854.95,
+    "high": 865.45,
+    "low": 829.05,
+    "close": 831.5,
+    "volume": 191064238,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 841,
+    "high": 853.7,
+    "low": 833,
+    "close": 847.9,
+    "volume": 156764625,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 854.6,
+    "high": 854.6,
+    "low": 825.2,
+    "close": 826.65,
+    "volume": 101610112,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 826,
+    "high": 826,
+    "low": 805,
+    "close": 808.5,
+    "volume": 151365102,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 810.5,
+    "high": 844.95,
+    "low": 810.5,
+    "close": 831.15,
+    "volume": 188917711,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 837,
+    "high": 913,
+    "low": 829.15,
+    "close": 875.4,
+    "volume": 546162188,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 875.4,
+    "high": 877.55,
+    "low": 846.7,
+    "close": 849.85,
+    "volume": 128123112,
+    "symbol": "CARTRADE"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 847.3,
+    "high": 863.75,
+    "low": 845,
+    "close": 846.5,
+    "volume": 89557907,
+    "symbol": "CARTRADE"
+  }
+]

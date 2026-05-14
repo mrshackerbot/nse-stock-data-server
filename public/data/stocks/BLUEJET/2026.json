@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 532,
+    "high": 532,
+    "low": 525.1,
+    "close": 530,
+    "volume": 43433844,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 525.55,
+    "high": 537.3,
+    "low": 525.55,
+    "close": 530,
+    "volume": 80736027,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 528.5,
+    "high": 534.95,
+    "low": 521.05,
+    "close": 526.05,
+    "volume": 101148832,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 530.5,
+    "high": 541.15,
+    "low": 522,
+    "close": 528.9,
+    "volume": 132328407,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 526.5,
+    "high": 533.25,
+    "low": 521.6,
+    "close": 527.5,
+    "volume": 99516505,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 534,
+    "high": 534,
+    "low": 511.05,
+    "close": 512,
+    "volume": 98020127,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 512.65,
+    "high": 512.65,
+    "low": 497,
+    "close": 500,
+    "volume": 157164774,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 500.5,
+    "high": 511.5,
+    "low": 490.45,
+    "close": 511.35,
+    "volume": 245944466,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 515.4,
+    "high": 515.4,
+    "low": 497.2,
+    "close": 500,
+    "volume": 115057816,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 499.4,
+    "high": 503.6,
+    "low": 488.65,
+    "close": 491,
+    "volume": 89625820,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 491,
+    "high": 494.9,
+    "low": 482,
+    "close": 484,
+    "volume": 103416105,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 479,
+    "high": 486.9,
+    "low": 475.05,
+    "close": 481,
+    "volume": 160859975,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 484,
+    "high": 484,
+    "low": 457.5,
+    "close": 459.7,
+    "volume": 248144255,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 456.4,
+    "high": 462.9,
+    "low": 441,
+    "close": 443.3,
+    "volume": 191286590,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 448.95,
+    "high": 458.2,
+    "low": 447.35,
+    "close": 452.05,
+    "volume": 63869346,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 457.5,
+    "high": 457.5,
+    "low": 423,
+    "close": 436.65,
+    "volume": 153713521,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 432.05,
+    "high": 432.45,
+    "low": 416,
+    "close": 420,
+    "volume": 220346145,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 415,
+    "high": 430.95,
+    "low": 413,
+    "close": 414.5,
+    "volume": 198835109,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 419.05,
+    "high": 437.2,
+    "low": 414.4,
+    "close": 422,
+    "volume": 176240036,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 420,
+    "high": 424,
+    "low": 411.1,
+    "close": 417.9,
+    "volume": 165124241,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 418.5,
+    "high": 423.9,
+    "low": 407.95,
+    "close": 410.8,
+    "volume": 55018161,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 410.05,
+    "high": 411.05,
+    "low": 392,
+    "close": 408.2,
+    "volume": 114394789,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 435,
+    "high": 439.8,
+    "low": 419.1,
+    "close": 422,
+    "volume": 213272728,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 425,
+    "high": 425,
+    "low": 410.55,
+    "close": 412.9,
+    "volume": 127468200,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 413,
+    "high": 415.6,
+    "low": 400.25,
+    "close": 408,
+    "volume": 76592289,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 410,
+    "high": 415,
+    "low": 395.15,
+    "close": 410.05,
+    "volume": 94599085,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 420.5,
+    "high": 446.95,
+    "low": 413.85,
+    "close": 440.3,
+    "volume": 346536395,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 444.9,
+    "high": 453,
+    "low": 438.45,
+    "close": 442.85,
+    "volume": 165431311,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 445,
+    "high": 446,
+    "low": 434.05,
+    "close": 443,
+    "volume": 78326470,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 442,
+    "high": 449,
+    "low": 434.5,
+    "close": 441.7,
+    "volume": 125298301,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 441.35,
+    "high": 443.35,
+    "low": 397.3,
+    "close": 397.3,
+    "volume": 615163962,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 366.95,
+    "high": 369.95,
+    "low": 357.6,
+    "close": 357.6,
+    "volume": 880529788,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 357.6,
+    "high": 384.5,
+    "low": 352.55,
+    "close": 361.75,
+    "volume": 719752914,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 368.8,
+    "high": 368.8,
+    "low": 355,
+    "close": 358,
+    "volume": 229530979,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 359.95,
+    "high": 388.3,
+    "low": 357.6,
+    "close": 363.7,
+    "volume": 568844463,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 371,
+    "high": 371,
+    "low": 353.1,
+    "close": 353.8,
+    "volume": 296963771,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 359,
+    "high": 391.4,
+    "low": 357.6,
+    "close": 391.4,
+    "volume": 1282359109,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 390.45,
+    "high": 417.75,
+    "low": 387,
+    "close": 407,
+    "volume": 2598742825,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 407.8,
+    "high": 414.7,
+    "low": 390.15,
+    "close": 400.5,
+    "volume": 511391455,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 395.05,
+    "high": 414,
+    "low": 395,
+    "close": 398,
+    "volume": 281375214,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 400.05,
+    "high": 410.4,
+    "low": 392.7,
+    "close": 405.95,
+    "volume": 234413816,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 393.05,
+    "high": 399.9,
+    "low": 380,
+    "close": 387,
+    "volume": 203728271,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 384.65,
+    "high": 386,
+    "low": 372.5,
+    "close": 373,
+    "volume": 215240185,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 380,
+    "high": 390.1,
+    "low": 368.25,
+    "close": 386.1,
+    "volume": 218188508,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 390,
+    "high": 392.5,
+    "low": 381,
+    "close": 385.4,
+    "volume": 112845398,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 370.1,
+    "high": 378.85,
+    "low": 360.1,
+    "close": 374,
+    "volume": 229495407,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 376.9,
+    "high": 382.65,
+    "low": 373.85,
+    "close": 379.7,
+    "volume": 134693591,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 379.9,
+    "high": 386.75,
+    "low": 370,
+    "close": 371.95,
+    "volume": 169836365,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 370.1,
+    "high": 382,
+    "low": 365.2,
+    "close": 375.6,
+    "volume": 117821360,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 380,
+    "high": 380,
+    "low": 357,
+    "close": 357.7,
+    "volume": 230477213,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 359,
+    "high": 364,
+    "low": 344.05,
+    "close": 354.9,
+    "volume": 232283061,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 356.4,
+    "high": 364.75,
+    "low": 349,
+    "close": 352.65,
+    "volume": 180888223,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 353.95,
+    "high": 387.85,
+    "low": 353,
+    "close": 379.85,
+    "volume": 442244001,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 375,
+    "high": 379.55,
+    "low": 363.35,
+    "close": 365,
+    "volume": 209287246,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 366.4,
+    "high": 375.35,
+    "low": 351.1,
+    "close": 358,
+    "volume": 239242101,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 358,
+    "high": 374.9,
+    "low": 335.8,
+    "close": 339.75,
+    "volume": 587414121,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 350,
+    "high": 352.85,
+    "low": 337.55,
+    "close": 347.35,
+    "volume": 204423954,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 353.85,
+    "high": 362.7,
+    "low": 349.5,
+    "close": 353,
+    "volume": 262459949,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 353.4,
+    "high": 353.75,
+    "low": 337.75,
+    "close": 342,
+    "volume": 276304880,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 341.1,
+    "high": 343,
+    "low": 325,
+    "close": 325.05,
+    "volume": 303072940,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 335,
+    "high": 355.85,
+    "low": 335,
+    "close": 351.1,
+    "volume": 163026922,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 344.9,
+    "high": 359.85,
+    "low": 335,
+    "close": 355.3,
+    "volume": 143124875,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 356.9,
+    "high": 368.7,
+    "low": 348.8,
+    "close": 360,
+    "volume": 130417309,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 356,
+    "high": 366.55,
+    "low": 355,
+    "close": 359.95,
+    "volume": 108234230,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 370,
+    "high": 377.45,
+    "low": 363.5,
+    "close": 375,
+    "volume": 182317816,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 372,
+    "high": 381.7,
+    "low": 363.3,
+    "close": 371.3,
+    "volume": 139739319,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 376.9,
+    "high": 406.85,
+    "low": 372,
+    "close": 406.85,
+    "volume": 304470417,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 400,
+    "high": 411,
+    "low": 393.4,
+    "close": 403,
+    "volume": 403226847,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 412,
+    "high": 419.95,
+    "low": 407,
+    "close": 410,
+    "volume": 260272674,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 416,
+    "high": 418.2,
+    "low": 406,
+    "close": 415,
+    "volume": 184278140,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 418.45,
+    "high": 430.1,
+    "low": 418,
+    "close": 423,
+    "volume": 216144106,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 429,
+    "high": 429,
+    "low": 410,
+    "close": 411,
+    "volume": 151372059,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 412.35,
+    "high": 422,
+    "low": 411.05,
+    "close": 414,
+    "volume": 86896221,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 418.7,
+    "high": 420.75,
+    "low": 411.75,
+    "close": 417,
+    "volume": 92789086,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 416.85,
+    "high": 425.55,
+    "low": 413,
+    "close": 413.75,
+    "volume": 113972970,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 415,
+    "high": 417.95,
+    "low": 400.1,
+    "close": 401.95,
+    "volume": 125950188,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 402.1,
+    "high": 443.65,
+    "low": 402.1,
+    "close": 443.65,
+    "volume": 535083745,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 446.95,
+    "high": 452,
+    "low": 433.15,
+    "close": 440,
+    "volume": 336883080,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 442,
+    "high": 455,
+    "low": 439,
+    "close": 442,
+    "volume": 160751268,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 447,
+    "high": 452.65,
+    "low": 438.3,
+    "close": 443.4,
+    "volume": 132969800,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 445,
+    "high": 482.5,
+    "low": 445,
+    "close": 477,
+    "volume": 393366460,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 476.1,
+    "high": 493.75,
+    "low": 472.55,
+    "close": 491,
+    "volume": 301718510,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 494.45,
+    "high": 497.95,
+    "low": 480.1,
+    "close": 492.8,
+    "volume": 220601493,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 492,
+    "high": 497.9,
+    "low": 484.1,
+    "close": 492.5,
+    "volume": 206852603,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 490.35,
+    "high": 501.6,
+    "low": 488.45,
+    "close": 491,
+    "volume": 186349912,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 485,
+    "high": 489.85,
+    "low": 472.2,
+    "close": 476,
+    "volume": 128263176,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 474,
+    "high": 475.6,
+    "low": 441.4,
+    "close": 448.9,
+    "volume": 149556820,
+    "symbol": "BLUEJET"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 456,
+    "high": 461.7,
+    "low": 443.5,
+    "close": 445.45,
+    "volume": 115849274,
+    "symbol": "BLUEJET"
+  }
+]

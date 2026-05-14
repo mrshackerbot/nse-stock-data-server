@@ -1,0 +1,686 @@
+[
+  {
+    "date": "14-Sep-2021",
+    "open": 910,
+    "high": 966.7,
+    "low": 841,
+    "close": 934.5,
+    "volume": 10261026097,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 950,
+    "high": 1122,
+    "low": 950,
+    "close": 1122,
+    "volume": 4458947472,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 1220,
+    "high": 1346.4,
+    "low": 1200,
+    "close": 1278,
+    "volume": 8775770397,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 1280,
+    "high": 1284.55,
+    "low": 1156,
+    "close": 1210.7,
+    "volume": 2926216294,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 1175,
+    "high": 1249,
+    "low": 1166,
+    "close": 1197,
+    "volume": 1617214416,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 1200,
+    "high": 1224.8,
+    "low": 1172.5,
+    "close": 1215,
+    "volume": 866071162,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 1221,
+    "high": 1434.45,
+    "low": 1212,
+    "close": 1343.7,
+    "volume": 5565933361,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 1364.7,
+    "high": 1430,
+    "low": 1315.05,
+    "close": 1336,
+    "volume": 2556476316,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 1344.6,
+    "high": 1364.8,
+    "low": 1277.15,
+    "close": 1292,
+    "volume": 1102865057,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 1299,
+    "high": 1305.75,
+    "low": 1251,
+    "close": 1257,
+    "volume": 752449166,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 1262.4,
+    "high": 1332,
+    "low": 1244.8,
+    "close": 1311.05,
+    "volume": 1163999918,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 1300,
+    "high": 1308,
+    "low": 1271.2,
+    "close": 1279,
+    "volume": 352761692,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 1283.45,
+    "high": 1318,
+    "low": 1275,
+    "close": 1277.25,
+    "volume": 418484589,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 1258,
+    "high": 1288.4,
+    "low": 1252.75,
+    "close": 1261.9,
+    "volume": 370281470,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 1263.7,
+    "high": 1345,
+    "low": 1263.7,
+    "close": 1328.35,
+    "volume": 992637896,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 1319,
+    "high": 1368.8,
+    "low": 1301,
+    "close": 1328,
+    "volume": 865907067,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 1331.9,
+    "high": 1347.3,
+    "low": 1300,
+    "close": 1303,
+    "volume": 400763991,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 1314.95,
+    "high": 1341.9,
+    "low": 1300,
+    "close": 1304.9,
+    "volume": 395127678,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 1300.6,
+    "high": 1314.4,
+    "low": 1245,
+    "close": 1249.5,
+    "volume": 936953900,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 1260,
+    "high": 1320,
+    "low": 1255.2,
+    "close": 1294.15,
+    "volume": 1215855917,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 1295,
+    "high": 1306.2,
+    "low": 1256.2,
+    "close": 1262,
+    "volume": 486918377,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 1267.95,
+    "high": 1341,
+    "low": 1251.25,
+    "close": 1324,
+    "volume": 1107364745,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 1330,
+    "high": 1364,
+    "low": 1305.2,
+    "close": 1338,
+    "volume": 801628728,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 1360,
+    "high": 1418.7,
+    "low": 1352,
+    "close": 1395,
+    "volume": 1271316663,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 1411,
+    "high": 1414,
+    "low": 1309.5,
+    "close": 1332,
+    "volume": 528911674,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 1329,
+    "high": 1332.45,
+    "low": 1245,
+    "close": 1250,
+    "volume": 678631866,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 1261.85,
+    "high": 1277.25,
+    "low": 1218,
+    "close": 1225,
+    "volume": 451733428,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 1225,
+    "high": 1256,
+    "low": 1189,
+    "close": 1210,
+    "volume": 376388324,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 1199,
+    "high": 1199,
+    "low": 998.95,
+    "close": 1010,
+    "volume": 933581564,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 1023,
+    "high": 1134.4,
+    "low": 1002,
+    "close": 1114,
+    "volume": 823986151,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 1119,
+    "high": 1157,
+    "low": 1105,
+    "close": 1111,
+    "volume": 375983808,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 1112,
+    "high": 1115.45,
+    "low": 1041.1,
+    "close": 1045,
+    "volume": 236405078,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 1054,
+    "high": 1054,
+    "low": 1015,
+    "close": 1024.9,
+    "volume": 193111891,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 1031.3,
+    "high": 1077,
+    "low": 1025,
+    "close": 1063,
+    "volume": 204781833,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 1074.8,
+    "high": 1077.25,
+    "low": 1045.15,
+    "close": 1060.05,
+    "volume": 123189608,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 1060,
+    "high": 1068,
+    "low": 1032.25,
+    "close": 1040,
+    "volume": 98835922,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 1050,
+    "high": 1063.05,
+    "low": 1045,
+    "close": 1058,
+    "volume": 43295554,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 1063,
+    "high": 1070.75,
+    "low": 1035.05,
+    "close": 1036.8,
+    "volume": 116149881,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 1037.95,
+    "high": 1068,
+    "low": 1037.9,
+    "close": 1045,
+    "volume": 138512645,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 1040,
+    "high": 1045.5,
+    "low": 1023.4,
+    "close": 1030,
+    "volume": 223899315,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 1030.9,
+    "high": 1041,
+    "low": 1020,
+    "close": 1021.7,
+    "volume": 115030644,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 1032.2,
+    "high": 1032.95,
+    "low": 1007.35,
+    "close": 1019.8,
+    "volume": 199139681,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 1024,
+    "high": 1025,
+    "low": 983,
+    "close": 987.1,
+    "volume": 205673861,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 989,
+    "high": 1029,
+    "low": 985,
+    "close": 1007.05,
+    "volume": 233960909,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 1000,
+    "high": 1016.9,
+    "low": 994.35,
+    "close": 997,
+    "volume": 102679241,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 1001.95,
+    "high": 1001.95,
+    "low": 958.8,
+    "close": 969,
+    "volume": 170391691,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 968.95,
+    "high": 973.4,
+    "low": 889.95,
+    "close": 904.95,
+    "volume": 370925737,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 892,
+    "high": 953.75,
+    "low": 890.05,
+    "close": 945,
+    "volume": 128739052,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 947.8,
+    "high": 1028.9,
+    "low": 944.25,
+    "close": 988,
+    "volume": 284800105,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 991.2,
+    "high": 1018.8,
+    "low": 982,
+    "close": 993.5,
+    "volume": 133785102,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 975,
+    "high": 983.5,
+    "low": 950,
+    "close": 950,
+    "volume": 134019589,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 911.2,
+    "high": 938.55,
+    "low": 864.15,
+    "close": 907,
+    "volume": 130523567,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 920,
+    "high": 935.8,
+    "low": 895.9,
+    "close": 906.95,
+    "volume": 86294042,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 907.1,
+    "high": 929.95,
+    "low": 900.95,
+    "close": 909,
+    "volume": 55867285,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 912,
+    "high": 917.55,
+    "low": 906.8,
+    "close": 909.5,
+    "volume": 70903992,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 913,
+    "high": 974,
+    "low": 903,
+    "close": 938.95,
+    "volume": 317700785,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 937.95,
+    "high": 1018.7,
+    "low": 929.85,
+    "close": 983,
+    "volume": 448801978,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 990,
+    "high": 1019,
+    "low": 968,
+    "close": 969.05,
+    "volume": 213277422,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 994.3,
+    "high": 1007,
+    "low": 972.35,
+    "close": 983,
+    "volume": 179035505,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 992,
+    "high": 993,
+    "low": 972,
+    "close": 977,
+    "volume": 72514355,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 973.95,
+    "high": 1005,
+    "low": 968.6,
+    "close": 994,
+    "volume": 148504312,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 1000.75,
+    "high": 1014,
+    "low": 969,
+    "close": 970.4,
+    "volume": 131050557,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 975,
+    "high": 977.3,
+    "low": 948.8,
+    "close": 962,
+    "volume": 135720763,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 964.95,
+    "high": 968.8,
+    "low": 931,
+    "close": 936,
+    "volume": 87004056,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 943,
+    "high": 956.5,
+    "low": 909.15,
+    "close": 918.8,
+    "volume": 117572078,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 915,
+    "high": 934,
+    "low": 897,
+    "close": 904.95,
+    "volume": 108588883,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 895,
+    "high": 899,
+    "low": 858,
+    "close": 890,
+    "volume": 119119620,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 897.95,
+    "high": 913.15,
+    "low": 860.25,
+    "close": 866,
+    "volume": 124461738,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 884,
+    "high": 888.75,
+    "low": 870.05,
+    "close": 873.5,
+    "volume": 66221608,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 882.4,
+    "high": 983.7,
+    "low": 871.25,
+    "close": 947,
+    "volume": 664145584,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 950,
+    "high": 978.8,
+    "low": 924,
+    "close": 935,
+    "volume": 376328577,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 930.75,
+    "high": 952.25,
+    "low": 915.65,
+    "close": 925.55,
+    "volume": 114472291,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 929.9,
+    "high": 999,
+    "low": 928.95,
+    "close": 992,
+    "volume": 485734264,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 994,
+    "high": 1082.75,
+    "low": 991,
+    "close": 1059.45,
+    "volume": 1165569575,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 1063.4,
+    "high": 1099.8,
+    "low": 1055.1,
+    "close": 1091.95,
+    "volume": 648283747,
+    "symbol": "ACUTAAS"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 1096.75,
+    "high": 1109.9,
+    "low": 1057.7,
+    "close": 1066,
+    "volume": 293468005,
+    "symbol": "ACUTAAS"
+  }
+]

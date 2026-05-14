@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 2352,
+    "high": 2375,
+    "low": 2320.7,
+    "close": 2371,
+    "volume": 1111333350,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 2375,
+    "high": 2402.7,
+    "low": 2357,
+    "close": 2394,
+    "volume": 2503224138,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 2380.1,
+    "high": 2427,
+    "low": 2366.4,
+    "close": 2402,
+    "volume": 2087014432,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 2407,
+    "high": 2454.7,
+    "low": 2390.3,
+    "close": 2407,
+    "volume": 1122136685,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 2400,
+    "high": 2481.9,
+    "low": 2391.3,
+    "close": 2472,
+    "volume": 1355794383,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 2510,
+    "high": 2517.4,
+    "low": 2398.1,
+    "close": 2405.1,
+    "volume": 3763913263,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 2424.3,
+    "high": 2429.2,
+    "low": 2313,
+    "close": 2341.2,
+    "volume": 1905101647,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 2335,
+    "high": 2375,
+    "low": 2297.6,
+    "close": 2371.9,
+    "volume": 2359804155,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 2378,
+    "high": 2455,
+    "low": 2375,
+    "close": 2441.8,
+    "volume": 3232354072,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 2445.1,
+    "high": 2532,
+    "low": 2435,
+    "close": 2519,
+    "volume": 3292146591,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 2588,
+    "high": 2766.7,
+    "low": 2580,
+    "close": 2740.5,
+    "volume": 15167270257,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 2765,
+    "high": 2778.6,
+    "low": 2680.4,
+    "close": 2690,
+    "volume": 3194221189,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 2694,
+    "high": 2694.1,
+    "low": 2624,
+    "close": 2633,
+    "volume": 2419049058,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 2609,
+    "high": 2629.6,
+    "low": 2518,
+    "close": 2534,
+    "volume": 2855522386,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 2557.2,
+    "high": 2606.9,
+    "low": 2541,
+    "close": 2569,
+    "volume": 1513193325,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 2566.6,
+    "high": 2604.9,
+    "low": 2501.2,
+    "close": 2509.9,
+    "volume": 1335788154,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 2515.2,
+    "high": 2560,
+    "low": 2492,
+    "close": 2558,
+    "volume": 1114983106,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 2559.8,
+    "high": 2621.8,
+    "low": 2556.6,
+    "close": 2617.6,
+    "volume": 1491489817,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 2615.1,
+    "high": 2638,
+    "low": 2563.9,
+    "close": 2590,
+    "volume": 776376559,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 2575,
+    "high": 2598.4,
+    "low": 2511,
+    "close": 2520,
+    "volume": 1246332575,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 2518,
+    "high": 2522.1,
+    "low": 2199.5,
+    "close": 2321.9,
+    "volume": 9781493815,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 2313,
+    "high": 2417.5,
+    "low": 2256.1,
+    "close": 2400,
+    "volume": 4251155030,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 2500,
+    "high": 2663.9,
+    "low": 2500,
+    "close": 2590,
+    "volume": 7311139672,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 2590,
+    "high": 2695,
+    "low": 2566.7,
+    "close": 2670,
+    "volume": 3684847453,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 2665,
+    "high": 2682.3,
+    "low": 2626.1,
+    "close": 2642.7,
+    "volume": 1597591162,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 2618.1,
+    "high": 2648.5,
+    "low": 2565.2,
+    "close": 2631,
+    "volume": 1221874482,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 2652,
+    "high": 2724.6,
+    "low": 2649.9,
+    "close": 2710.2,
+    "volume": 1901052680,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 2724,
+    "high": 2808.7,
+    "low": 2716.2,
+    "close": 2780,
+    "volume": 2419347774,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 2780,
+    "high": 2800,
+    "low": 2764.1,
+    "close": 2765,
+    "volume": 1349922892,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 2768,
+    "high": 2768,
+    "low": 2705.3,
+    "close": 2755.8,
+    "volume": 1253897144,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 2709,
+    "high": 2733.4,
+    "low": 2669.8,
+    "close": 2685,
+    "volume": 1628511249,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 2529.9,
+    "high": 2600,
+    "low": 2441,
+    "close": 2560,
+    "volume": 5106835071,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 2565.1,
+    "high": 2609.9,
+    "low": 2541.4,
+    "close": 2575,
+    "volume": 2262920634,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 2583,
+    "high": 2654.8,
+    "low": 2575.9,
+    "close": 2583.1,
+    "volume": 2367639425,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 2609,
+    "high": 2625,
+    "low": 2502.2,
+    "close": 2519,
+    "volume": 2167719411,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 2509,
+    "high": 2543.9,
+    "low": 2482.5,
+    "close": 2492,
+    "volume": 1699488821,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 2524,
+    "high": 2530,
+    "low": 2468,
+    "close": 2490,
+    "volume": 1312333954,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 2491.1,
+    "high": 2495.3,
+    "low": 2454,
+    "close": 2466.6,
+    "volume": 1403574645,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 2474,
+    "high": 2504,
+    "low": 2415,
+    "close": 2493.9,
+    "volume": 2332400654,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 251,
+    "high": 254.9,
+    "low": 241.4,
+    "close": 244.2,
+    "volume": 1973185370,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 242.1,
+    "high": 244.2,
+    "low": 229.9,
+    "close": 232.9,
+    "volume": 1961221023,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 220.1,
+    "high": 231.62,
+    "low": 220,
+    "close": 226.5,
+    "volume": 1586998383,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 222.2,
+    "high": 223.25,
+    "low": 217.52,
+    "close": 221.9,
+    "volume": 1232561307,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 223.8,
+    "high": 225.88,
+    "low": 220.74,
+    "close": 224.75,
+    "volume": 1034260156,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 226.5,
+    "high": 230.51,
+    "low": 218.2,
+    "close": 219.1,
+    "volume": 2144255167,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 215,
+    "high": 219.99,
+    "low": 209,
+    "close": 219.83,
+    "volume": 1862125869,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 222.99,
+    "high": 226.5,
+    "low": 220.25,
+    "close": 226.5,
+    "volume": 988438761,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 226.05,
+    "high": 227.7,
+    "low": 217.8,
+    "close": 218.95,
+    "volume": 973406253,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 216,
+    "high": 217.5,
+    "low": 212.36,
+    "close": 212.8,
+    "volume": 2289601727,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 212.82,
+    "high": 218.38,
+    "low": 208.63,
+    "close": 216.44,
+    "volume": 2229632819,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 215.58,
+    "high": 217.9,
+    "low": 210.62,
+    "close": 215.7,
+    "volume": 2134069319,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 218,
+    "high": 221.2,
+    "low": 214.5,
+    "close": 216.9,
+    "volume": 2320318545,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 217.9,
+    "high": 237.9,
+    "low": 217.16,
+    "close": 236.2,
+    "volume": 5882327428,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 230,
+    "high": 234.91,
+    "low": 228.01,
+    "close": 232.1,
+    "volume": 2273870830,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 235.9,
+    "high": 237.8,
+    "low": 230,
+    "close": 230.2,
+    "volume": 1403366547,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 227,
+    "high": 228.6,
+    "low": 218.8,
+    "close": 220.9,
+    "volume": 1400601424,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 226.99,
+    "high": 231.49,
+    "low": 223.15,
+    "close": 230,
+    "volume": 1413489002,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 233.5,
+    "high": 243.8,
+    "low": 233.1,
+    "close": 241.3,
+    "volume": 2130969643,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 238,
+    "high": 243,
+    "low": 233.72,
+    "close": 235.4,
+    "volume": 1787542786,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 229.8,
+    "high": 234.39,
+    "low": 226,
+    "close": 228.7,
+    "volume": 1540566320,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 238.96,
+    "high": 244.45,
+    "low": 238.01,
+    "close": 240.5,
+    "volume": 2175865852,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 233,
+    "high": 241.92,
+    "low": 228.45,
+    "close": 241.1,
+    "volume": 1820669817,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 241,
+    "high": 246.91,
+    "low": 236.7,
+    "close": 245.26,
+    "volume": 1438811123,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 245,
+    "high": 248,
+    "low": 242.33,
+    "close": 246.5,
+    "volume": 892154288,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 255,
+    "high": 269,
+    "low": 253.01,
+    "close": 267.5,
+    "volume": 4271498641,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 270,
+    "high": 284.2,
+    "low": 265.8,
+    "close": 281.19,
+    "volume": 8269558823,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 281.49,
+    "high": 287.9,
+    "low": 279.54,
+    "close": 281.2,
+    "volume": 4087673493,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 273,
+    "high": 282.8,
+    "low": 273,
+    "close": 280.85,
+    "volume": 1933544483,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 287.8,
+    "high": 298.9,
+    "low": 286.12,
+    "close": 297.39,
+    "volume": 6222340716,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 299.35,
+    "high": 301.5,
+    "low": 288.72,
+    "close": 292.92,
+    "volume": 4246110704,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 302,
+    "high": 324.4,
+    "low": 297.51,
+    "close": 322.6,
+    "volume": 25252503544,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 322.6,
+    "high": 327.95,
+    "low": 314.2,
+    "close": 318.3,
+    "volume": 7401886902,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 319.35,
+    "high": 326.65,
+    "low": 318.73,
+    "close": 323.99,
+    "volume": 4226606913,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 324.05,
+    "high": 330.23,
+    "low": 323.21,
+    "close": 328.32,
+    "volume": 3765326343,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 328,
+    "high": 328,
+    "low": 320.31,
+    "close": 321.3,
+    "volume": 2141643194,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 322.81,
+    "high": 323,
+    "low": 309.51,
+    "close": 314.29,
+    "volume": 2921789737,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 316.85,
+    "high": 322.98,
+    "low": 316.52,
+    "close": 318.9,
+    "volume": 1641033976,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 318.15,
+    "high": 320.43,
+    "low": 316,
+    "close": 318.99,
+    "volume": 1353581411,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 319.27,
+    "high": 323.4,
+    "low": 311.79,
+    "close": 312.9,
+    "volume": 1401376625,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 311.36,
+    "high": 311.55,
+    "low": 306.12,
+    "close": 309,
+    "volume": 1216177372,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 308.7,
+    "high": 313.5,
+    "low": 303.95,
+    "close": 308,
+    "volume": 1568223395,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 307.9,
+    "high": 317.5,
+    "low": 303.7,
+    "close": 314,
+    "volume": 1910695632,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 316.75,
+    "high": 318.6,
+    "low": 310.6,
+    "close": 316,
+    "volume": 1605266657,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 318.4,
+    "high": 324.7,
+    "low": 315.55,
+    "close": 322,
+    "volume": 1997892286,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 322,
+    "high": 334.95,
+    "low": 319,
+    "close": 326,
+    "volume": 4064658604,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 323.75,
+    "high": 326.95,
+    "low": 316.15,
+    "close": 318,
+    "volume": 1470402726,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 315.65,
+    "high": 315.95,
+    "low": 296.95,
+    "close": 300.65,
+    "volume": 2628100588,
+    "symbol": "ANGELONE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 300.1,
+    "high": 303.4,
+    "low": 297.05,
+    "close": 298,
+    "volume": 1213337032,
+    "symbol": "ANGELONE"
+  }
+]

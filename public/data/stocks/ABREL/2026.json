@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1673.5,
+    "high": 1687.1,
+    "low": 1655,
+    "close": 1680,
+    "volume": 87856464,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1677.5,
+    "high": 1689.9,
+    "low": 1660.1,
+    "close": 1664.9,
+    "volume": 87217919,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1665.4,
+    "high": 1708.6,
+    "low": 1665.4,
+    "close": 1700,
+    "volume": 153073218,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1702,
+    "high": 1702,
+    "low": 1661.7,
+    "close": 1671.1,
+    "volume": 93950965,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1668,
+    "high": 1681.1,
+    "low": 1650,
+    "close": 1665.9,
+    "volume": 95483862,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1662.5,
+    "high": 1689.7,
+    "low": 1622,
+    "close": 1635.1,
+    "volume": 105146760,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1633.8,
+    "high": 1633.8,
+    "low": 1601.9,
+    "close": 1620.1,
+    "volume": 185054144,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1617.1,
+    "high": 1617.1,
+    "low": 1526.9,
+    "close": 1567.5,
+    "volume": 912870006,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1569.3,
+    "high": 1584.8,
+    "low": 1542,
+    "close": 1554,
+    "volume": 123274588,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1551.9,
+    "high": 1565.9,
+    "low": 1530.1,
+    "close": 1533.1,
+    "volume": 134736895,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1535.2,
+    "high": 1562.9,
+    "low": 1522,
+    "close": 1525,
+    "volume": 161416798,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1525,
+    "high": 1526.5,
+    "low": 1471.4,
+    "close": 1475,
+    "volume": 172820508,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1475,
+    "high": 1478.1,
+    "low": 1359.2,
+    "close": 1374.3,
+    "volume": 622207328,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1385.6,
+    "high": 1390.9,
+    "low": 1321,
+    "close": 1330.1,
+    "volume": 543223998,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1347,
+    "high": 1381,
+    "low": 1333.5,
+    "close": 1359.8,
+    "volume": 222300868,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1362.7,
+    "high": 1362.7,
+    "low": 1280,
+    "close": 1291,
+    "volume": 313767804,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1297.3,
+    "high": 1297.4,
+    "low": 1256.1,
+    "close": 1268.3,
+    "volume": 259516287,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1268.9,
+    "high": 1323.7,
+    "low": 1268.9,
+    "close": 1310,
+    "volume": 292974778,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1295.5,
+    "high": 1329,
+    "low": 1268.1,
+    "close": 1280.1,
+    "volume": 396683658,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1280.1,
+    "high": 1304.9,
+    "low": 1231.1,
+    "close": 1280,
+    "volume": 344719849,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1279.7,
+    "high": 1289.1,
+    "low": 1222.2,
+    "close": 1235,
+    "volume": 188044098,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1237.2,
+    "high": 1246.3,
+    "low": 1186,
+    "close": 1200,
+    "volume": 411549519,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1269.7,
+    "high": 1339,
+    "low": 1211,
+    "close": 1250,
+    "volume": 1042622459,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1247.9,
+    "high": 1274,
+    "low": 1199,
+    "close": 1228,
+    "volume": 533438610,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1219.9,
+    "high": 1314.4,
+    "low": 1201.1,
+    "close": 1295,
+    "volume": 967994199,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1302.9,
+    "high": 1382.7,
+    "low": 1278.3,
+    "close": 1342.4,
+    "volume": 859493864,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1352,
+    "high": 1457.4,
+    "low": 1349.1,
+    "close": 1412.5,
+    "volume": 594066095,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1429.9,
+    "high": 1475,
+    "low": 1412.5,
+    "close": 1468.2,
+    "volume": 342668916,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1456.1,
+    "high": 1466.2,
+    "low": 1432.2,
+    "close": 1440.2,
+    "volume": 140709421,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1446.3,
+    "high": 1460,
+    "low": 1410.9,
+    "close": 1412,
+    "volume": 88460651,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1409.6,
+    "high": 1413.1,
+    "low": 1374.1,
+    "close": 1388,
+    "volume": 108086173,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1386.1,
+    "high": 1409,
+    "low": 1369.6,
+    "close": 1385.4,
+    "volume": 101705781,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1386,
+    "high": 1404,
+    "low": 1376.7,
+    "close": 1382,
+    "volume": 83517996,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1389.8,
+    "high": 1400.4,
+    "low": 1367.7,
+    "close": 1370.1,
+    "volume": 93343134,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1370.1,
+    "high": 1372.4,
+    "low": 1298.7,
+    "close": 1335,
+    "volume": 516863224,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1335,
+    "high": 1343.7,
+    "low": 1296,
+    "close": 1297,
+    "volume": 144833023,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1301,
+    "high": 1317.5,
+    "low": 1292.1,
+    "close": 1303,
+    "volume": 91469206,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1294.7,
+    "high": 1297.4,
+    "low": 1254.1,
+    "close": 1269,
+    "volume": 135326886,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1267.8,
+    "high": 1287.8,
+    "low": 1254,
+    "close": 1263,
+    "volume": 82133243,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1262.4,
+    "high": 1310.9,
+    "low": 1262.4,
+    "close": 1295,
+    "volume": 253907534,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1291.3,
+    "high": 1329,
+    "low": 1274.6,
+    "close": 1295.4,
+    "volume": 451980870,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1205.1,
+    "high": 1284,
+    "low": 1205.1,
+    "close": 1261,
+    "volume": 238459264,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1255.5,
+    "high": 1255.5,
+    "low": 1208.4,
+    "close": 1223.7,
+    "volume": 128446794,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1226.9,
+    "high": 1237.9,
+    "low": 1205.3,
+    "close": 1231.9,
+    "volume": 181636329,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1231,
+    "high": 1258,
+    "low": 1219.7,
+    "close": 1255,
+    "volume": 164195396,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1207,
+    "high": 1211.9,
+    "low": 1176,
+    "close": 1190.5,
+    "volume": 282806988,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1189.4,
+    "high": 1213.2,
+    "low": 1170.1,
+    "close": 1174,
+    "volume": 242052895,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1176.2,
+    "high": 1209.4,
+    "low": 1174.2,
+    "close": 1181,
+    "volume": 174385825,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1183,
+    "high": 1216,
+    "low": 1141.6,
+    "close": 1199.9,
+    "volume": 192795484,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1189.8,
+    "high": 1189.8,
+    "low": 1124,
+    "close": 1140,
+    "volume": 211751439,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1140,
+    "high": 1142,
+    "low": 1080.1,
+    "close": 1096.6,
+    "volume": 366447610,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1101.9,
+    "high": 1137.3,
+    "low": 1084.6,
+    "close": 1132,
+    "volume": 401274023,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1129.9,
+    "high": 1246,
+    "low": 1117.2,
+    "close": 1223,
+    "volume": 1199577993,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1203,
+    "high": 1217,
+    "low": 1161.3,
+    "close": 1181,
+    "volume": 488254306,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1180,
+    "high": 1196,
+    "low": 1155.1,
+    "close": 1161.2,
+    "volume": 249602555,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1155,
+    "high": 1159.5,
+    "low": 1093.5,
+    "close": 1125,
+    "volume": 197809338,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 1140.9,
+    "high": 1159,
+    "low": 1108.2,
+    "close": 1134,
+    "volume": 217380080,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 1159,
+    "high": 1217.9,
+    "low": 1146.4,
+    "close": 1166.3,
+    "volume": 531731342,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 1167.8,
+    "high": 1168.8,
+    "low": 1104,
+    "close": 1132,
+    "volume": 637674175,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 1130,
+    "high": 1135,
+    "low": 1088.1,
+    "close": 1115.3,
+    "volume": 305233072,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 1130,
+    "high": 1175.9,
+    "low": 1130,
+    "close": 1157,
+    "volume": 221619499,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 1151.5,
+    "high": 1155,
+    "low": 1105.2,
+    "close": 1143.5,
+    "volume": 163674960,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 1143,
+    "high": 1183.8,
+    "low": 1125.5,
+    "close": 1176,
+    "volume": 195644662,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 1175.1,
+    "high": 1189,
+    "low": 1164.7,
+    "close": 1180.5,
+    "volume": 149289060,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 1236,
+    "high": 1350,
+    "low": 1236,
+    "close": 1263.3,
+    "volume": 3398938232,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 1263.3,
+    "high": 1298.9,
+    "low": 1240,
+    "close": 1282.1,
+    "volume": 379952000,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 1303.2,
+    "high": 1397,
+    "low": 1290.1,
+    "close": 1360.1,
+    "volume": 1491151609,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 1323.1,
+    "high": 1386.1,
+    "low": 1323.1,
+    "close": 1360,
+    "volume": 317195247,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1400,
+    "high": 1429.9,
+    "low": 1390.5,
+    "close": 1413,
+    "volume": 396967891,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1449,
+    "high": 1475,
+    "low": 1406.3,
+    "close": 1415,
+    "volume": 401504180,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1427.9,
+    "high": 1435,
+    "low": 1408.2,
+    "close": 1425,
+    "volume": 125321674,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1414.9,
+    "high": 1431.6,
+    "low": 1396.8,
+    "close": 1410,
+    "volume": 275335002,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1403.6,
+    "high": 1451.7,
+    "low": 1403.6,
+    "close": 1440,
+    "volume": 208188932,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1436,
+    "high": 1445,
+    "low": 1407.1,
+    "close": 1416,
+    "volume": 430059960,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1419.9,
+    "high": 1447.7,
+    "low": 1411.2,
+    "close": 1430,
+    "volume": 216848844,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1436.8,
+    "high": 1449.7,
+    "low": 1382,
+    "close": 1405.4,
+    "volume": 277688574,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1430.5,
+    "high": 1485,
+    "low": 1418.1,
+    "close": 1484,
+    "volume": 372569681,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1479.7,
+    "high": 1515,
+    "low": 1477.4,
+    "close": 1511.7,
+    "volume": 315836166,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1515,
+    "high": 1570.1,
+    "low": 1500,
+    "close": 1542,
+    "volume": 363434855,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1549.9,
+    "high": 1549.9,
+    "low": 1470.4,
+    "close": 1488.9,
+    "volume": 369118801,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1508.4,
+    "high": 1537.1,
+    "low": 1482.5,
+    "close": 1490,
+    "volume": 426023345,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1500,
+    "high": 1507.8,
+    "low": 1460,
+    "close": 1482.5,
+    "volume": 209426121,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1498.3,
+    "high": 1555,
+    "low": 1487.1,
+    "close": 1551,
+    "volume": 732551711,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1571.9,
+    "high": 1598,
+    "low": 1555.2,
+    "close": 1586,
+    "volume": 328662338,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1590,
+    "high": 1593.8,
+    "low": 1470,
+    "close": 1479,
+    "volume": 837065771,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1481.3,
+    "high": 1482.8,
+    "low": 1346,
+    "close": 1371.8,
+    "volume": 1664776985,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1371.8,
+    "high": 1386.8,
+    "low": 1291,
+    "close": 1321.8,
+    "volume": 840285040,
+    "symbol": "ABREL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1318,
+    "high": 1337,
+    "low": 1299,
+    "close": 1315,
+    "volume": 399582166,
+    "symbol": "ABREL"
+  }
+]
