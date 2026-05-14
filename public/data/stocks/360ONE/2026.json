@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 1198,
+    "high": 1198,
+    "low": 1171.3,
+    "close": 1180,
+    "volume": 156282988,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 1179.7,
+    "high": 1213.7,
+    "low": 1171.2,
+    "close": 1200,
+    "volume": 412133802,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 1208,
+    "high": 1221,
+    "low": 1191.7,
+    "close": 1197,
+    "volume": 553347990,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 1205,
+    "high": 1209.9,
+    "low": 1175.5,
+    "close": 1190,
+    "volume": 464611116,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 1180.1,
+    "high": 1200.4,
+    "low": 1168.5,
+    "close": 1193.2,
+    "volume": 1498466373,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 1190,
+    "high": 1197.1,
+    "low": 1170.3,
+    "close": 1175.3,
+    "volume": 1217413132,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 1180,
+    "high": 1184.4,
+    "low": 1130,
+    "close": 1143.6,
+    "volume": 1219210250,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 1140.9,
+    "high": 1154.9,
+    "low": 1117.5,
+    "close": 1136,
+    "volume": 2501171745,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 1132,
+    "high": 1153.6,
+    "low": 1120.5,
+    "close": 1139.2,
+    "volume": 833582779,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 1135.4,
+    "high": 1164.3,
+    "low": 1130.1,
+    "close": 1158.8,
+    "volume": 760678879,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 1190,
+    "high": 1236.2,
+    "low": 1187,
+    "close": 1193.9,
+    "volume": 5243841412,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 1193.9,
+    "high": 1228,
+    "low": 1161.2,
+    "close": 1162.8,
+    "volume": 5674359666,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 1162,
+    "high": 1163.9,
+    "low": 1123.5,
+    "close": 1129.6,
+    "volume": 1935287314,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 1124.2,
+    "high": 1133.9,
+    "low": 1088.1,
+    "close": 1093,
+    "volume": 929355362,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 1103,
+    "high": 1117.1,
+    "low": 1097.1,
+    "close": 1103.5,
+    "volume": 2063248064,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 1109.9,
+    "high": 1134.1,
+    "low": 1100.2,
+    "close": 1112.6,
+    "volume": 1652122578,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 1108,
+    "high": 1125,
+    "low": 1100.3,
+    "close": 1111,
+    "volume": 2874713062,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 1111,
+    "high": 1152,
+    "low": 1104.1,
+    "close": 1140,
+    "volume": 1813267711,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 1139.8,
+    "high": 1143.2,
+    "low": 1122,
+    "close": 1138.2,
+    "volume": 1052599951,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 1135.2,
+    "high": 1157.9,
+    "low": 1125.4,
+    "close": 1129.1,
+    "volume": 1094219962,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 1134.3,
+    "high": 1135.1,
+    "low": 1025.1,
+    "close": 1117,
+    "volume": 1187368182,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 1092,
+    "high": 1125,
+    "low": 1067.4,
+    "close": 1117,
+    "volume": 1411455579,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 1150,
+    "high": 1188.5,
+    "low": 1150,
+    "close": 1167,
+    "volume": 1405702318,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 1143,
+    "high": 1170.3,
+    "low": 1136.8,
+    "close": 1165,
+    "volume": 1147319592,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 1166.8,
+    "high": 1171.9,
+    "low": 1131.2,
+    "close": 1138.5,
+    "volume": 1002631877,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 1132,
+    "high": 1135,
+    "low": 1102,
+    "close": 1113.9,
+    "volume": 624501848,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 1114.9,
+    "high": 1140,
+    "low": 1114.9,
+    "close": 1138,
+    "volume": 403719206,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 1138,
+    "high": 1170.3,
+    "low": 1124,
+    "close": 1160.9,
+    "volume": 1213451680,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 1163.1,
+    "high": 1163.2,
+    "low": 1126.7,
+    "close": 1137,
+    "volume": 872827308,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 1135,
+    "high": 1146.8,
+    "low": 1110.6,
+    "close": 1142.1,
+    "volume": 644740077,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 1136.3,
+    "high": 1146.2,
+    "low": 1115.6,
+    "close": 1126.7,
+    "volume": 531515046,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 1109,
+    "high": 1135.8,
+    "low": 1093.9,
+    "close": 1125,
+    "volume": 851483694,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 1112.6,
+    "high": 1131.4,
+    "low": 1112.6,
+    "close": 1126.2,
+    "volume": 993708013,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 1124,
+    "high": 1142,
+    "low": 1120.3,
+    "close": 1122.6,
+    "volume": 351795187,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 1122.6,
+    "high": 1129.7,
+    "low": 1089.4,
+    "close": 1102,
+    "volume": 717007620,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 1104.5,
+    "high": 1111.2,
+    "low": 1083.8,
+    "close": 1098.7,
+    "volume": 446190235,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 1110,
+    "high": 1130,
+    "low": 1100.1,
+    "close": 1125,
+    "volume": 882336100,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 1120,
+    "high": 1129,
+    "low": 1099,
+    "close": 1119.4,
+    "volume": 479435310,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 1120,
+    "high": 1137.3,
+    "low": 1104.5,
+    "close": 1137.3,
+    "volume": 768019058,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 1134.6,
+    "high": 1142.9,
+    "low": 1119.1,
+    "close": 1128.3,
+    "volume": 709425860,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 1130,
+    "high": 1130,
+    "low": 1093,
+    "close": 1104.1,
+    "volume": 1385918604,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 1055,
+    "high": 1094.8,
+    "low": 1048.2,
+    "close": 1068.4,
+    "volume": 1972356790,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 1056.3,
+    "high": 1071.2,
+    "low": 1039.3,
+    "close": 1061.1,
+    "volume": 1263996563,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 1065.3,
+    "high": 1084.1,
+    "low": 1065.3,
+    "close": 1078,
+    "volume": 339017816,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 1074,
+    "high": 1084.4,
+    "low": 1061.3,
+    "close": 1064.8,
+    "volume": 295612751,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 1049.1,
+    "high": 1058,
+    "low": 1022.4,
+    "close": 1032,
+    "volume": 1488658248,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 1039.9,
+    "high": 1060.3,
+    "low": 1032.8,
+    "close": 1056,
+    "volume": 342382736,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 1055,
+    "high": 1065,
+    "low": 1040,
+    "close": 1053.2,
+    "volume": 786026777,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 1040,
+    "high": 1049.1,
+    "low": 1017.3,
+    "close": 1046.7,
+    "volume": 968891564,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 1041.9,
+    "high": 1041.9,
+    "low": 1021.5,
+    "close": 1030,
+    "volume": 598884063,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 1025,
+    "high": 1038.9,
+    "low": 1010.3,
+    "close": 1025,
+    "volume": 338285997,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 1022.9,
+    "high": 1045.9,
+    "low": 1020.1,
+    "close": 1038.7,
+    "volume": 448490428,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 1050,
+    "high": 1088.5,
+    "low": 1041.5,
+    "close": 1084.8,
+    "volume": 607191299,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 1059.1,
+    "high": 1065,
+    "low": 1036,
+    "close": 1041.1,
+    "volume": 590403106,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 1034.6,
+    "high": 1055,
+    "low": 1034.6,
+    "close": 1044.2,
+    "volume": 431593817,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 1040.6,
+    "high": 1040.6,
+    "low": 973.9,
+    "close": 982.2,
+    "volume": 546873901,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 996,
+    "high": 1010,
+    "low": 984.3,
+    "close": 994,
+    "volume": 2005420575,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 999.8,
+    "high": 1018.8,
+    "low": 992.1,
+    "close": 1001,
+    "volume": 879217096,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 998,
+    "high": 998.9,
+    "low": 969.8,
+    "close": 975,
+    "volume": 589791875,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 969.1,
+    "high": 969.1,
+    "low": 932.1,
+    "close": 935,
+    "volume": 1279132213,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 966.05,
+    "high": 982.7,
+    "low": 950,
+    "close": 955,
+    "volume": 588704257,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 936,
+    "high": 940.25,
+    "low": 915,
+    "close": 939.4,
+    "volume": 592046540,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 931,
+    "high": 940.25,
+    "low": 918.55,
+    "close": 927.6,
+    "volume": 2549609347,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 925.15,
+    "high": 934.7,
+    "low": 906.05,
+    "close": 926.45,
+    "volume": 647555224,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 962,
+    "high": 985.85,
+    "low": 958.55,
+    "close": 975.5,
+    "volume": 2919048939,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 971.75,
+    "high": 1015.95,
+    "low": 964.6,
+    "close": 1001,
+    "volume": 3053215344,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 998,
+    "high": 1022,
+    "low": 992.65,
+    "close": 1013,
+    "volume": 1151904646,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 991,
+    "high": 1015.65,
+    "low": 976.4,
+    "close": 1013.5,
+    "volume": 605866016,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 1026.95,
+    "high": 1065.8,
+    "low": 1020.25,
+    "close": 1058.8,
+    "volume": 1887084504,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 1071,
+    "high": 1085,
+    "low": 1056.9,
+    "close": 1080,
+    "volume": 850920129,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 1084,
+    "high": 1124,
+    "low": 1078.85,
+    "close": 1111,
+    "volume": 2922120573,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 1107.7,
+    "high": 1127.65,
+    "low": 1096.75,
+    "close": 1105,
+    "volume": 745143869,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 1116,
+    "high": 1132,
+    "low": 1096.5,
+    "close": 1112,
+    "volume": 1341374275,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 1114,
+    "high": 1123.8,
+    "low": 1042,
+    "close": 1055,
+    "volume": 6308165352,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 1049,
+    "high": 1057,
+    "low": 1033.8,
+    "close": 1048.5,
+    "volume": 1401264374,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 1056.9,
+    "high": 1062.45,
+    "low": 1030.2,
+    "close": 1038,
+    "volume": 931645647,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 1034.9,
+    "high": 1046.45,
+    "low": 1025,
+    "close": 1041.75,
+    "volume": 615995013,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 1041,
+    "high": 1049.5,
+    "low": 1030.05,
+    "close": 1040.55,
+    "volume": 671171513,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 1045,
+    "high": 1055.5,
+    "low": 1034.15,
+    "close": 1043,
+    "volume": 718844535,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 1038.2,
+    "high": 1041.35,
+    "low": 1009,
+    "close": 1040,
+    "volume": 1053660263,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 1041,
+    "high": 1072.4,
+    "low": 1033.4,
+    "close": 1069,
+    "volume": 2609100377,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 1065.6,
+    "high": 1085.6,
+    "low": 1050.5,
+    "close": 1069.5,
+    "volume": 1871376783,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 1079.8,
+    "high": 1097.6,
+    "low": 1075,
+    "close": 1084.9,
+    "volume": 2351990065,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 1084.1,
+    "high": 1118,
+    "low": 1083,
+    "close": 1113,
+    "volume": 894427906,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 1112.9,
+    "high": 1134.9,
+    "low": 1105.7,
+    "close": 1114.4,
+    "volume": 821690259,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 1115,
+    "high": 1134.4,
+    "low": 1111,
+    "close": 1113,
+    "volume": 1049175316,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 1105.1,
+    "high": 1115.3,
+    "low": 1075,
+    "close": 1075.5,
+    "volume": 1019057159,
+    "symbol": "360ONE"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 1070,
+    "high": 1100,
+    "low": 1070,
+    "close": 1084.9,
+    "volume": 618720906,
+    "symbol": "360ONE"
+  }
+]

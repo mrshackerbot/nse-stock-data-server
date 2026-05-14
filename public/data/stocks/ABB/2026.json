@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 5183,
+    "high": 5195.5,
+    "low": 5146,
+    "close": 5168,
+    "volume": 195812761,
+    "symbol": "ABB"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 5156.5,
+    "high": 5220,
+    "low": 5156.5,
+    "close": 5219,
+    "volume": 329353883,
+    "symbol": "ABB"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 5230,
+    "high": 5249.5,
+    "low": 5131,
+    "close": 5165.5,
+    "volume": 526123764,
+    "symbol": "ABB"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 5168.5,
+    "high": 5254.5,
+    "low": 5160.5,
+    "close": 5215,
+    "volume": 640866496,
+    "symbol": "ABB"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 5215,
+    "high": 5307.5,
+    "low": 5181.5,
+    "close": 5305,
+    "volume": 648577560,
+    "symbol": "ABB"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 5312,
+    "high": 5368,
+    "low": 4983.5,
+    "close": 5036,
+    "volume": 3497488117,
+    "symbol": "ABB"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 5050,
+    "high": 5138,
+    "low": 4983.5,
+    "close": 5074,
+    "volume": 1673218923,
+    "symbol": "ABB"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 5075,
+    "high": 5075.5,
+    "low": 4951,
+    "close": 5057,
+    "volume": 867348982,
+    "symbol": "ABB"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 5050,
+    "high": 5081.5,
+    "low": 4923,
+    "close": 4960,
+    "volume": 563765175,
+    "symbol": "ABB"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 4960.5,
+    "high": 4992,
+    "low": 4925,
+    "close": 4935.5,
+    "volume": 530491667,
+    "symbol": "ABB"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 4935,
+    "high": 4960,
+    "low": 4852,
+    "close": 4877.5,
+    "volume": 912004456,
+    "symbol": "ABB"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 4877.5,
+    "high": 4942,
+    "low": 4839,
+    "close": 4859,
+    "volume": 1160316299,
+    "symbol": "ABB"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 4855,
+    "high": 4855,
+    "low": 4673,
+    "close": 4693,
+    "volume": 1954671950,
+    "symbol": "ABB"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 4692.5,
+    "high": 4751.5,
+    "low": 4637.5,
+    "close": 4711.5,
+    "volume": 1639652779,
+    "symbol": "ABB"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 4725,
+    "high": 4807,
+    "low": 4719,
+    "close": 4771.5,
+    "volume": 689766227,
+    "symbol": "ABB"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 4760,
+    "high": 4775,
+    "low": 4668.5,
+    "close": 4696,
+    "volume": 537808162,
+    "symbol": "ABB"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 4694.5,
+    "high": 4777,
+    "low": 4649.5,
+    "close": 4777,
+    "volume": 837756199,
+    "symbol": "ABB"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 4759,
+    "high": 5075,
+    "low": 4750,
+    "close": 5035,
+    "volume": 2082160288,
+    "symbol": "ABB"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 5050,
+    "high": 5547.5,
+    "low": 4983.5,
+    "close": 5465,
+    "volume": 13611087429,
+    "symbol": "ABB"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 5440,
+    "high": 5605.5,
+    "low": 5400,
+    "close": 5551,
+    "volume": 3512945097,
+    "symbol": "ABB"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 5531,
+    "high": 5620,
+    "low": 5255.5,
+    "close": 5425,
+    "volume": 1571977111,
+    "symbol": "ABB"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 5490,
+    "high": 5537,
+    "low": 5368.5,
+    "close": 5454.5,
+    "volume": 855081699,
+    "symbol": "ABB"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 5641.5,
+    "high": 5769,
+    "low": 5608,
+    "close": 5665,
+    "volume": 3685110919,
+    "symbol": "ABB"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 5661,
+    "high": 5867,
+    "low": 5582.5,
+    "close": 5740,
+    "volume": 2949049470,
+    "symbol": "ABB"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 5750,
+    "high": 5840.5,
+    "low": 5663,
+    "close": 5749,
+    "volume": 1185272753,
+    "symbol": "ABB"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 5769,
+    "high": 5845,
+    "low": 5726.5,
+    "close": 5800,
+    "volume": 1763808074,
+    "symbol": "ABB"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 5845,
+    "high": 5850,
+    "low": 5748,
+    "close": 5815.5,
+    "volume": 798238204,
+    "symbol": "ABB"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 5850,
+    "high": 5884,
+    "low": 5806,
+    "close": 5851,
+    "volume": 907097727,
+    "symbol": "ABB"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 5851,
+    "high": 5861,
+    "low": 5781,
+    "close": 5819,
+    "volume": 531897749,
+    "symbol": "ABB"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 5819,
+    "high": 5864.5,
+    "low": 5760,
+    "close": 5795,
+    "volume": 983117303,
+    "symbol": "ABB"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 5788.5,
+    "high": 5855,
+    "low": 5726.5,
+    "close": 5768,
+    "volume": 886642376,
+    "symbol": "ABB"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 5781,
+    "high": 5914,
+    "low": 5742.5,
+    "close": 5891,
+    "volume": 1103548416,
+    "symbol": "ABB"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 5922.5,
+    "high": 5940,
+    "low": 5806,
+    "close": 5830,
+    "volume": 681441654,
+    "symbol": "ABB"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 5836,
+    "high": 5909,
+    "low": 5771.5,
+    "close": 5865,
+    "volume": 1042875139,
+    "symbol": "ABB"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 5885,
+    "high": 5908,
+    "low": 5695,
+    "close": 5715,
+    "volume": 789480816,
+    "symbol": "ABB"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 5725,
+    "high": 6246,
+    "low": 5719.5,
+    "close": 6005,
+    "volume": 24587189620,
+    "symbol": "ABB"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 6090,
+    "high": 6090,
+    "low": 5775,
+    "close": 5906,
+    "volume": 4916681682,
+    "symbol": "ABB"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 5881.5,
+    "high": 6075,
+    "low": 5881.5,
+    "close": 6060,
+    "volume": 4684461770,
+    "symbol": "ABB"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 6101,
+    "high": 6180,
+    "low": 6046.5,
+    "close": 6158,
+    "volume": 2234186114,
+    "symbol": "ABB"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 6170,
+    "high": 6205.5,
+    "low": 6110.5,
+    "close": 6135,
+    "volume": 1747065896,
+    "symbol": "ABB"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 6128,
+    "high": 6128,
+    "low": 6039,
+    "close": 6080,
+    "volume": 3661973496,
+    "symbol": "ABB"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 5840,
+    "high": 6073,
+    "low": 5835,
+    "close": 5980,
+    "volume": 1647205908,
+    "symbol": "ABB"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 5900,
+    "high": 5911.5,
+    "low": 5793.5,
+    "close": 5820.5,
+    "volume": 1611585644,
+    "symbol": "ABB"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 5844,
+    "high": 6000.5,
+    "low": 5833.5,
+    "close": 5915,
+    "volume": 1588731795,
+    "symbol": "ABB"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 5900,
+    "high": 6118,
+    "low": 5869,
+    "close": 6058,
+    "volume": 2280534911,
+    "symbol": "ABB"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 5982,
+    "high": 6000,
+    "low": 5853,
+    "close": 6000,
+    "volume": 1480902863,
+    "symbol": "ABB"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 6032.5,
+    "high": 6250,
+    "low": 6032,
+    "close": 6230,
+    "volume": 2932238426,
+    "symbol": "ABB"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 6230,
+    "high": 6325,
+    "low": 6181,
+    "close": 6268.5,
+    "volume": 3769831813,
+    "symbol": "ABB"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 6242,
+    "high": 6429.5,
+    "low": 6146,
+    "close": 6415.5,
+    "volume": 3780336168,
+    "symbol": "ABB"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 6439.5,
+    "high": 6554,
+    "low": 6339.5,
+    "close": 6389,
+    "volume": 6890687227,
+    "symbol": "ABB"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 6400,
+    "high": 6417,
+    "low": 6162.5,
+    "close": 6218.5,
+    "volume": 2312835068,
+    "symbol": "ABB"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 6237.5,
+    "high": 6337.5,
+    "low": 6176.5,
+    "close": 6310,
+    "volume": 1856995050,
+    "symbol": "ABB"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 6320.5,
+    "high": 6415.5,
+    "low": 6280.5,
+    "close": 6329.5,
+    "volume": 1782098078,
+    "symbol": "ABB"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 6261,
+    "high": 6322,
+    "low": 6178.5,
+    "close": 6230,
+    "volume": 1325518559,
+    "symbol": "ABB"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 6250,
+    "high": 6380,
+    "low": 6250,
+    "close": 6295.5,
+    "volume": 1737460455,
+    "symbol": "ABB"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 6264,
+    "high": 6264,
+    "low": 5975,
+    "close": 6018,
+    "volume": 1669737552,
+    "symbol": "ABB"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 6200,
+    "high": 6244.5,
+    "low": 6045,
+    "close": 6140,
+    "volume": 1725509621,
+    "symbol": "ABB"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 6200,
+    "high": 6290,
+    "low": 6185.5,
+    "close": 6212,
+    "volume": 1446819812,
+    "symbol": "ABB"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 6190,
+    "high": 6190,
+    "low": 5987,
+    "close": 6101,
+    "volume": 2598282904,
+    "symbol": "ABB"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 5995,
+    "high": 6100,
+    "low": 5911,
+    "close": 5975,
+    "volume": 2049860794,
+    "symbol": "ABB"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 6180,
+    "high": 6188.5,
+    "low": 6012,
+    "close": 6074,
+    "volume": 2067421890,
+    "symbol": "ABB"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 6021.5,
+    "high": 6158,
+    "low": 5916.5,
+    "close": 6138,
+    "volume": 1661315265,
+    "symbol": "ABB"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 6150,
+    "high": 6247.5,
+    "low": 6088,
+    "close": 6197,
+    "volume": 1604797228,
+    "symbol": "ABB"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 6175,
+    "high": 6280,
+    "low": 6081.5,
+    "close": 6270,
+    "volume": 1575761386,
+    "symbol": "ABB"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 6399,
+    "high": 6584.5,
+    "low": 6370,
+    "close": 6569,
+    "volume": 4077464207,
+    "symbol": "ABB"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 6575,
+    "high": 6642,
+    "low": 6483.5,
+    "close": 6592.5,
+    "volume": 3887388494,
+    "symbol": "ABB"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 6642,
+    "high": 6905.5,
+    "low": 6612.5,
+    "close": 6849,
+    "volume": 5427225896,
+    "symbol": "ABB"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 6725,
+    "high": 6878.5,
+    "low": 6688,
+    "close": 6835,
+    "volume": 2187273336,
+    "symbol": "ABB"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 6890,
+    "high": 6993,
+    "low": 6844,
+    "close": 6851.5,
+    "volume": 3459043512,
+    "symbol": "ABB"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 6873.5,
+    "high": 6907,
+    "low": 6732.5,
+    "close": 6880,
+    "volume": 3748666010,
+    "symbol": "ABB"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 6880,
+    "high": 7083,
+    "low": 6833.5,
+    "close": 7015,
+    "volume": 3915571790,
+    "symbol": "ABB"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 7054.5,
+    "high": 7319.5,
+    "low": 6993.5,
+    "close": 7156,
+    "volume": 4031086049,
+    "symbol": "ABB"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 7200,
+    "high": 7300,
+    "low": 7184,
+    "close": 7268,
+    "volume": 1894988691,
+    "symbol": "ABB"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 7253,
+    "high": 7822.5,
+    "low": 7161,
+    "close": 7622,
+    "volume": 13176264146,
+    "symbol": "ABB"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 7587,
+    "high": 7650,
+    "low": 7533.5,
+    "close": 7582,
+    "volume": 2861151458,
+    "symbol": "ABB"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 7575.5,
+    "high": 7594,
+    "low": 7304,
+    "close": 7338,
+    "volume": 2544930020,
+    "symbol": "ABB"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 7330.5,
+    "high": 7475,
+    "low": 7282.5,
+    "close": 7437,
+    "volume": 1978111455,
+    "symbol": "ABB"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 7449,
+    "high": 7490,
+    "low": 7251.5,
+    "close": 7295,
+    "volume": 2168357684,
+    "symbol": "ABB"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 7340,
+    "high": 7373,
+    "low": 7212,
+    "close": 7265,
+    "volume": 2628385941,
+    "symbol": "ABB"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 7250,
+    "high": 7305,
+    "low": 7102,
+    "close": 7259,
+    "volume": 2357980573,
+    "symbol": "ABB"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 7269,
+    "high": 7363,
+    "low": 7185,
+    "close": 7251.5,
+    "volume": 2648719539,
+    "symbol": "ABB"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 7248,
+    "high": 7349,
+    "low": 7215,
+    "close": 7338,
+    "volume": 2365293317,
+    "symbol": "ABB"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 7389,
+    "high": 7389,
+    "low": 7135,
+    "close": 7182.5,
+    "volume": 2034241003,
+    "symbol": "ABB"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 7183,
+    "high": 7279.5,
+    "low": 7000,
+    "close": 7188,
+    "volume": 2628590396,
+    "symbol": "ABB"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 7210,
+    "high": 7210,
+    "low": 6991.5,
+    "close": 7010,
+    "volume": 3140916071,
+    "symbol": "ABB"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 6662,
+    "high": 6687,
+    "low": 6323.5,
+    "close": 6348,
+    "volume": 15536497628,
+    "symbol": "ABB"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 6360,
+    "high": 6403,
+    "low": 6171.5,
+    "close": 6369,
+    "volume": 6117781249,
+    "symbol": "ABB"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 6344,
+    "high": 6395,
+    "low": 6212.5,
+    "close": 6320,
+    "volume": 2315157369,
+    "symbol": "ABB"
+  }
+]

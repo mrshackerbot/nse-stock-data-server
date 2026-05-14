@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 35185,
+    "high": 36065,
+    "low": 34750,
+    "close": 36000,
+    "volume": 177323920,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 36070,
+    "high": 37305,
+    "low": 35530,
+    "close": 36430,
+    "volume": 291817880,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 36360,
+    "high": 36725,
+    "low": 36200,
+    "close": 36295,
+    "volume": 113940905,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 36355,
+    "high": 36355,
+    "low": 34920,
+    "close": 35000,
+    "volume": 164620525,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 34900,
+    "high": 35010,
+    "low": 34350,
+    "close": 34900,
+    "volume": 99513055,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 34875,
+    "high": 35255,
+    "low": 34680,
+    "close": 34695,
+    "volume": 92097100,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 34250,
+    "high": 35215,
+    "low": 34000,
+    "close": 34090,
+    "volume": 214010220,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 34135,
+    "high": 35625,
+    "low": 33675,
+    "close": 34815,
+    "volume": 118728290,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 34830,
+    "high": 35215,
+    "low": 34155,
+    "close": 34840,
+    "volume": 186096280,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 34985,
+    "high": 35580,
+    "low": 34490,
+    "close": 35495,
+    "volume": 106456630,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 35435,
+    "high": 35620,
+    "low": 34780,
+    "close": 35400,
+    "volume": 128379800,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 34850,
+    "high": 35195,
+    "low": 34255,
+    "close": 34410,
+    "volume": 68142860,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 34445,
+    "high": 34445,
+    "low": 33000,
+    "close": 33400,
+    "volume": 143910355,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 33435,
+    "high": 34150,
+    "low": 33250,
+    "close": 34000,
+    "volume": 145263655,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 34160,
+    "high": 34320,
+    "low": 33700,
+    "close": 33995,
+    "volume": 61771990,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 33900,
+    "high": 34100,
+    "low": 33225,
+    "close": 33250,
+    "volume": 56653040,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 33300,
+    "high": 33650,
+    "low": 32750,
+    "close": 33430,
+    "volume": 152281620,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 33075,
+    "high": 33900,
+    "low": 33075,
+    "close": 33730,
+    "volume": 56613495,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 34095,
+    "high": 35500,
+    "low": 33300,
+    "close": 34710,
+    "volume": 99739155,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 34295,
+    "high": 34970,
+    "low": 33900,
+    "close": 34235,
+    "volume": 154537660,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 34390,
+    "high": 34885,
+    "low": 33705,
+    "close": 34600,
+    "volume": 38921905,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 34490,
+    "high": 34850,
+    "low": 33840,
+    "close": 34850,
+    "volume": 88833080,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 35600,
+    "high": 35650,
+    "low": 34705,
+    "close": 35000,
+    "volume": 125883985,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 34815,
+    "high": 36150,
+    "low": 34685,
+    "close": 35550,
+    "volume": 180729350,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 35765,
+    "high": 35855,
+    "low": 35100,
+    "close": 35180,
+    "volume": 111207620,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 35375,
+    "high": 35375,
+    "low": 34925,
+    "close": 35000,
+    "volume": 159807335,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 35355,
+    "high": 37740,
+    "low": 35200,
+    "close": 36400,
+    "volume": 256839485,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 36500,
+    "high": 38030,
+    "low": 36375,
+    "close": 37645,
+    "volume": 414107310,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 37800,
+    "high": 37800,
+    "low": 36910,
+    "close": 37300,
+    "volume": 152820555,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 37880,
+    "high": 37880,
+    "low": 35800,
+    "close": 37515,
+    "volume": 814752465,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 36995,
+    "high": 36995,
+    "low": 34705,
+    "close": 35050,
+    "volume": 325781220,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 34905,
+    "high": 36220,
+    "low": 33985,
+    "close": 36095,
+    "volume": 229599835,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 36000,
+    "high": 36335,
+    "low": 35605,
+    "close": 36000,
+    "volume": 120888635,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 36050,
+    "high": 37000,
+    "low": 35875,
+    "close": 36950,
+    "volume": 164215005,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 36815,
+    "high": 37700,
+    "low": 36385,
+    "close": 36945,
+    "volume": 131936820,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 36810,
+    "high": 36870,
+    "low": 35865,
+    "close": 35990,
+    "volume": 80463615,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 36500,
+    "high": 36565,
+    "low": 36005,
+    "close": 36425,
+    "volume": 91941625,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 36030,
+    "high": 36320,
+    "low": 35700,
+    "close": 35980,
+    "volume": 68391605,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 36000,
+    "high": 36695,
+    "low": 35740,
+    "close": 36675,
+    "volume": 116402585,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 36545,
+    "high": 36900,
+    "low": 36225,
+    "close": 36340,
+    "volume": 61438670,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 36340,
+    "high": 37800,
+    "low": 36175,
+    "close": 37315,
+    "volume": 288821210,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 35755,
+    "high": 36975,
+    "low": 35005,
+    "close": 36000,
+    "volume": 182854275,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 35525,
+    "high": 35525,
+    "low": 34155,
+    "close": 34300,
+    "volume": 185620190,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 34690,
+    "high": 34810,
+    "low": 33800,
+    "close": 34140,
+    "volume": 118455025,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 34450,
+    "high": 34690,
+    "low": 34100,
+    "close": 34280,
+    "volume": 75137075,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 34005,
+    "high": 34005,
+    "low": 33010,
+    "close": 33400,
+    "volume": 76147985,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 33560,
+    "high": 34275,
+    "low": 33480,
+    "close": 33950,
+    "volume": 84305695,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 34075,
+    "high": 34625,
+    "low": 33625,
+    "close": 33720,
+    "volume": 64269710,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 33720,
+    "high": 35175,
+    "low": 33045,
+    "close": 34250,
+    "volume": 303386430,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 34250,
+    "high": 34305,
+    "low": 32750,
+    "close": 32750,
+    "volume": 255815260,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 32985,
+    "high": 33100,
+    "low": 32005,
+    "close": 33000,
+    "volume": 260150885,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 33200,
+    "high": 33775,
+    "low": 32820,
+    "close": 33100,
+    "volume": 116727740,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 33150,
+    "high": 33645,
+    "low": 32890,
+    "close": 32950,
+    "volume": 118377985,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 32795,
+    "high": 33195,
+    "low": 32265,
+    "close": 32730,
+    "volume": 79991380,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 33000,
+    "high": 33435,
+    "low": 32125,
+    "close": 32355,
+    "volume": 160385830,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 31960,
+    "high": 32035,
+    "low": 31000,
+    "close": 31120,
+    "volume": 126347115,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 31730,
+    "high": 31785,
+    "low": 30675,
+    "close": 31500,
+    "volume": 92951405,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 31565,
+    "high": 32220,
+    "low": 31545,
+    "close": 31900,
+    "volume": 79516285,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 31785,
+    "high": 31785,
+    "low": 30710,
+    "close": 30805,
+    "volume": 109889845,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 30855,
+    "high": 30900,
+    "low": 29980,
+    "close": 30000,
+    "volume": 102225455,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 30560,
+    "high": 31305,
+    "low": 29125,
+    "close": 29410,
+    "volume": 330680390,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 29300,
+    "high": 30095,
+    "low": 28730,
+    "close": 29655,
+    "volume": 238348895,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 29750,
+    "high": 29960,
+    "low": 29215,
+    "close": 29400,
+    "volume": 178905390,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 29400,
+    "high": 29600,
+    "low": 29130,
+    "close": 29300,
+    "volume": 102248430,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 29850,
+    "high": 31725,
+    "low": 29845,
+    "close": 31650,
+    "volume": 501301280,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 31500,
+    "high": 32060,
+    "low": 30925,
+    "close": 31055,
+    "volume": 281013195,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 31450,
+    "high": 31705,
+    "low": 31210,
+    "close": 31580,
+    "volume": 112738500,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 31250,
+    "high": 31890,
+    "low": 30675,
+    "close": 31400,
+    "volume": 103899320,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 32000,
+    "high": 32000,
+    "low": 31390,
+    "close": 31500,
+    "volume": 80584815,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 31900,
+    "high": 31900,
+    "low": 31050,
+    "close": 31370,
+    "volume": 93757465,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 31700,
+    "high": 31700,
+    "low": 31260,
+    "close": 31440,
+    "volume": 98649805,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 31320,
+    "high": 31750,
+    "low": 30910,
+    "close": 31320,
+    "volume": 90446825,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 31480,
+    "high": 31730,
+    "low": 31395,
+    "close": 31620,
+    "volume": 152339505,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 31700,
+    "high": 33055,
+    "low": 31680,
+    "close": 32645,
+    "volume": 725686895,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 32800,
+    "high": 33260,
+    "low": 32485,
+    "close": 33090,
+    "volume": 143156675,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 33135,
+    "high": 33235,
+    "low": 32230,
+    "close": 32550,
+    "volume": 122728570,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 32660,
+    "high": 33895,
+    "low": 32660,
+    "close": 33450,
+    "volume": 161463120,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 33600,
+    "high": 33880,
+    "low": 33000,
+    "close": 33450,
+    "volume": 158634035,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 33585,
+    "high": 33800,
+    "low": 32720,
+    "close": 33210,
+    "volume": 212997785,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 33125,
+    "high": 33490,
+    "low": 32770,
+    "close": 33365,
+    "volume": 60223680,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 33300,
+    "high": 33640,
+    "low": 32845,
+    "close": 33115,
+    "volume": 71824855,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 32890,
+    "high": 33115,
+    "low": 32370,
+    "close": 32460,
+    "volume": 85856775,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 32505,
+    "high": 32795,
+    "low": 31995,
+    "close": 32520,
+    "volume": 94696020,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 32500,
+    "high": 32960,
+    "low": 32445,
+    "close": 32760,
+    "volume": 54898270,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 32700,
+    "high": 32700,
+    "low": 32000,
+    "close": 32070,
+    "volume": 68830645,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 32040,
+    "high": 32200,
+    "low": 31340,
+    "close": 31610,
+    "volume": 87435430,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 31675,
+    "high": 31700,
+    "low": 30930,
+    "close": 31045,
+    "volume": 86489970,
+    "symbol": "3MINDIA"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 30790,
+    "high": 31930,
+    "low": 30790,
+    "close": 31195,
+    "volume": 39418400,
+    "symbol": "3MINDIA"
+  }
+]

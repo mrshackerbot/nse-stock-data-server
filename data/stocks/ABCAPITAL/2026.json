@@ -1,0 +1,794 @@
+[
+  {
+    "date": "01-Jan-2026",
+    "open": 357.7,
+    "high": 362.75,
+    "low": 353.7,
+    "close": 362,
+    "volume": 1241123088,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "02-Jan-2026",
+    "open": 363,
+    "high": 366.3,
+    "low": 359.65,
+    "close": 361.4,
+    "volume": 951131635,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "05-Jan-2026",
+    "open": 362.05,
+    "high": 366.5,
+    "low": 360.05,
+    "close": 364.35,
+    "volume": 969199354,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "06-Jan-2026",
+    "open": 364.5,
+    "high": 369.3,
+    "low": 358.55,
+    "close": 360.65,
+    "volume": 1277650334,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "07-Jan-2026",
+    "open": 360.65,
+    "high": 363,
+    "low": 354,
+    "close": 361.5,
+    "volume": 1004082473,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "08-Jan-2026",
+    "open": 362.4,
+    "high": 363.1,
+    "low": 354.6,
+    "close": 357,
+    "volume": 992705201,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "09-Jan-2026",
+    "open": 357,
+    "high": 363.3,
+    "low": 351.45,
+    "close": 353.7,
+    "volume": 1414921929,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "12-Jan-2026",
+    "open": 351.5,
+    "high": 357.65,
+    "low": 349.25,
+    "close": 355.95,
+    "volume": 957655924,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "13-Jan-2026",
+    "open": 356.9,
+    "high": 359.55,
+    "low": 345,
+    "close": 351,
+    "volume": 1157699348,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "14-Jan-2026",
+    "open": 350.8,
+    "high": 359.4,
+    "low": 347.5,
+    "close": 358.95,
+    "volume": 1451722464,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "16-Jan-2026",
+    "open": 360,
+    "high": 363.85,
+    "low": 357.6,
+    "close": 361.2,
+    "volume": 1562665059,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "19-Jan-2026",
+    "open": 362,
+    "high": 362.5,
+    "low": 356,
+    "close": 361.5,
+    "volume": 1246080194,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "20-Jan-2026",
+    "open": 361.1,
+    "high": 366.1,
+    "low": 353.75,
+    "close": 354.9,
+    "volume": 1930503588,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "21-Jan-2026",
+    "open": 354.6,
+    "high": 356.75,
+    "low": 343.1,
+    "close": 346,
+    "volume": 2836101277,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "22-Jan-2026",
+    "open": 351.9,
+    "high": 357.9,
+    "low": 347.75,
+    "close": 353.9,
+    "volume": 2559091658,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "23-Jan-2026",
+    "open": 354.55,
+    "high": 358,
+    "low": 344.3,
+    "close": 346,
+    "volume": 1370651274,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "27-Jan-2026",
+    "open": 348.2,
+    "high": 352.2,
+    "low": 342.9,
+    "close": 350,
+    "volume": 1179365125,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "28-Jan-2026",
+    "open": 348.5,
+    "high": 352.9,
+    "low": 344.65,
+    "close": 348.75,
+    "volume": 1787929325,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "29-Jan-2026",
+    "open": 347.55,
+    "high": 352.45,
+    "low": 333.6,
+    "close": 344.25,
+    "volume": 2151877208,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "30-Jan-2026",
+    "open": 342,
+    "high": 343.75,
+    "low": 336.1,
+    "close": 340.6,
+    "volume": 1957199289,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "01-Feb-2026",
+    "open": 340.6,
+    "high": 342.85,
+    "low": 326,
+    "close": 328,
+    "volume": 1343926977,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "02-Feb-2026",
+    "open": 327.5,
+    "high": 338.1,
+    "low": 317,
+    "close": 337,
+    "volume": 3090760853,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "03-Feb-2026",
+    "open": 348,
+    "high": 360.85,
+    "low": 341.1,
+    "close": 346.9,
+    "volume": 2774332154,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "04-Feb-2026",
+    "open": 353,
+    "high": 353,
+    "low": 342.25,
+    "close": 346,
+    "volume": 2769031610,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "05-Feb-2026",
+    "open": 347,
+    "high": 347.1,
+    "low": 335,
+    "close": 345.35,
+    "volume": 2566478580,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "06-Feb-2026",
+    "open": 344,
+    "high": 349.3,
+    "low": 335.3,
+    "close": 347.3,
+    "volume": 1449342388,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "09-Feb-2026",
+    "open": 350.05,
+    "high": 355.4,
+    "low": 348.3,
+    "close": 353.45,
+    "volume": 1476340442,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "10-Feb-2026",
+    "open": 348.5,
+    "high": 355.8,
+    "low": 345.95,
+    "close": 353.55,
+    "volume": 1992822674,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "11-Feb-2026",
+    "open": 354.7,
+    "high": 354.9,
+    "low": 342.15,
+    "close": 343.5,
+    "volume": 2288812351,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "12-Feb-2026",
+    "open": 342.55,
+    "high": 346.3,
+    "low": 340.15,
+    "close": 342.6,
+    "volume": 1766109730,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "13-Feb-2026",
+    "open": 344,
+    "high": 344,
+    "low": 334.5,
+    "close": 335.5,
+    "volume": 1835213986,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "16-Feb-2026",
+    "open": 335,
+    "high": 345.8,
+    "low": 331.1,
+    "close": 345.35,
+    "volume": 1634662829,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "17-Feb-2026",
+    "open": 344.9,
+    "high": 350,
+    "low": 342.1,
+    "close": 347,
+    "volume": 1820106610,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "18-Feb-2026",
+    "open": 348.7,
+    "high": 350.7,
+    "low": 346.3,
+    "close": 348.5,
+    "volume": 1384683033,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "19-Feb-2026",
+    "open": 350,
+    "high": 350.95,
+    "low": 340.6,
+    "close": 341.8,
+    "volume": 2086142522,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "20-Feb-2026",
+    "open": 345,
+    "high": 346.65,
+    "low": 337.3,
+    "close": 343.05,
+    "volume": 1953266639,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "23-Feb-2026",
+    "open": 346.15,
+    "high": 350.95,
+    "low": 342.85,
+    "close": 346.5,
+    "volume": 2881745761,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "24-Feb-2026",
+    "open": 345,
+    "high": 351,
+    "low": 338.75,
+    "close": 350.9,
+    "volume": 3727763131,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "25-Feb-2026",
+    "open": 351.5,
+    "high": 360,
+    "low": 350.2,
+    "close": 352.9,
+    "volume": 5970733940,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "26-Feb-2026",
+    "open": 354,
+    "high": 359,
+    "low": 351.5,
+    "close": 354,
+    "volume": 2084117242,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "27-Feb-2026",
+    "open": 357.7,
+    "high": 357.7,
+    "low": 338.2,
+    "close": 340.4,
+    "volume": 35608765558,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "02-Mar-2026",
+    "open": 333,
+    "high": 346,
+    "low": 331.9,
+    "close": 338.25,
+    "volume": 2329957287,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "04-Mar-2026",
+    "open": 335.1,
+    "high": 335.1,
+    "low": 318.9,
+    "close": 320.4,
+    "volume": 1892522335,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "05-Mar-2026",
+    "open": 325,
+    "high": 328.75,
+    "low": 320.2,
+    "close": 328.4,
+    "volume": 1202614287,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "06-Mar-2026",
+    "open": 326.95,
+    "high": 332.1,
+    "low": 325.45,
+    "close": 326.1,
+    "volume": 1655291082,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "09-Mar-2026",
+    "open": 314.95,
+    "high": 325.7,
+    "low": 308,
+    "close": 325.5,
+    "volume": 1562236508,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "10-Mar-2026",
+    "open": 329.7,
+    "high": 334.2,
+    "low": 324.55,
+    "close": 333,
+    "volume": 857906365,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "11-Mar-2026",
+    "open": 334.8,
+    "high": 338.2,
+    "low": 322.2,
+    "close": 322.5,
+    "volume": 1014070640,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "12-Mar-2026",
+    "open": 320,
+    "high": 325,
+    "low": 316.4,
+    "close": 319.7,
+    "volume": 973437836,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "13-Mar-2026",
+    "open": 319,
+    "high": 320.15,
+    "low": 309.5,
+    "close": 310.05,
+    "volume": 1213292183,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "16-Mar-2026",
+    "open": 309,
+    "high": 317.1,
+    "low": 307.5,
+    "close": 313.5,
+    "volume": 956935959,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "17-Mar-2026",
+    "open": 314.6,
+    "high": 324.15,
+    "low": 313.6,
+    "close": 319,
+    "volume": 1386774519,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "18-Mar-2026",
+    "open": 319.7,
+    "high": 329.35,
+    "low": 318.75,
+    "close": 328.4,
+    "volume": 845785779,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "19-Mar-2026",
+    "open": 322.9,
+    "high": 322.9,
+    "low": 310.75,
+    "close": 313.95,
+    "volume": 712021071,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "20-Mar-2026",
+    "open": 317,
+    "high": 317.9,
+    "low": 309.6,
+    "close": 311.45,
+    "volume": 1223147764,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "23-Mar-2026",
+    "open": 307,
+    "high": 307,
+    "low": 292.25,
+    "close": 294.1,
+    "volume": 1786335789,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "24-Mar-2026",
+    "open": 301.65,
+    "high": 305.4,
+    "low": 296.2,
+    "close": 303.2,
+    "volume": 2097809376,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "25-Mar-2026",
+    "open": 307.9,
+    "high": 318.4,
+    "low": 304.55,
+    "close": 315,
+    "volume": 1869394274,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "27-Mar-2026",
+    "open": 311.4,
+    "high": 311.5,
+    "low": 301.45,
+    "close": 305.8,
+    "volume": 1462993028,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "30-Mar-2026",
+    "open": 299.35,
+    "high": 301.85,
+    "low": 290.1,
+    "close": 295.7,
+    "volume": 1761728920,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "01-Apr-2026",
+    "open": 303,
+    "high": 308.6,
+    "low": 299.35,
+    "close": 302.95,
+    "volume": 1412530493,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "02-Apr-2026",
+    "open": 298.9,
+    "high": 299.55,
+    "low": 287.7,
+    "close": 299,
+    "volume": 1082060414,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "06-Apr-2026",
+    "open": 299.6,
+    "high": 312.2,
+    "low": 295.2,
+    "close": 310.7,
+    "volume": 1233153269,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "07-Apr-2026",
+    "open": 310.45,
+    "high": 310.8,
+    "low": 304.7,
+    "close": 307,
+    "volume": 1016373959,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "08-Apr-2026",
+    "open": 323.7,
+    "high": 340.05,
+    "low": 321,
+    "close": 338.4,
+    "volume": 2412813611,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "09-Apr-2026",
+    "open": 337.9,
+    "high": 342.75,
+    "low": 332.25,
+    "close": 333.7,
+    "volume": 2418354448,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "10-Apr-2026",
+    "open": 336.7,
+    "high": 342.95,
+    "low": 336.6,
+    "close": 341.85,
+    "volume": 1637740012,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "13-Apr-2026",
+    "open": 330.1,
+    "high": 340.5,
+    "low": 325,
+    "close": 338.15,
+    "volume": 923982341,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "15-Apr-2026",
+    "open": 342.95,
+    "high": 350.75,
+    "low": 342.2,
+    "close": 343.55,
+    "volume": 1578453852,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "16-Apr-2026",
+    "open": 346.1,
+    "high": 347.5,
+    "low": 336.75,
+    "close": 338.25,
+    "volume": 1375734366,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "17-Apr-2026",
+    "open": 339,
+    "high": 341.45,
+    "low": 334.7,
+    "close": 340.5,
+    "volume": 853911351,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "20-Apr-2026",
+    "open": 341,
+    "high": 345.3,
+    "low": 335.75,
+    "close": 340.95,
+    "volume": 1417920214,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "21-Apr-2026",
+    "open": 342,
+    "high": 345.9,
+    "low": 340.5,
+    "close": 345.9,
+    "volume": 1368280897,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "22-Apr-2026",
+    "open": 346.35,
+    "high": 353,
+    "low": 345.9,
+    "close": 350.1,
+    "volume": 1451160730,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "23-Apr-2026",
+    "open": 348.25,
+    "high": 354.35,
+    "low": 346.95,
+    "close": 349.95,
+    "volume": 1480251457,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "24-Apr-2026",
+    "open": 349.95,
+    "high": 351.55,
+    "low": 338.65,
+    "close": 341.3,
+    "volume": 1577256588,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "27-Apr-2026",
+    "open": 342,
+    "high": 348.95,
+    "low": 337.95,
+    "close": 343.4,
+    "volume": 855734364,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "28-Apr-2026",
+    "open": 342.85,
+    "high": 346.7,
+    "low": 337.45,
+    "close": 339,
+    "volume": 1596330775,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "29-Apr-2026",
+    "open": 339.95,
+    "high": 354.65,
+    "low": 337.55,
+    "close": 347.65,
+    "volume": 2363073513,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "30-Apr-2026",
+    "open": 346,
+    "high": 347.55,
+    "low": 340.05,
+    "close": 345.75,
+    "volume": 1498610429,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "04-May-2026",
+    "open": 347,
+    "high": 360.5,
+    "low": 340.7,
+    "close": 351,
+    "volume": 4058340205,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "05-May-2026",
+    "open": 347.2,
+    "high": 363.75,
+    "low": 346.5,
+    "close": 360.5,
+    "volume": 5538971914,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "06-May-2026",
+    "open": 365,
+    "high": 372.5,
+    "low": 364.5,
+    "close": 370.7,
+    "volume": 3148911074,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "07-May-2026",
+    "open": 370.85,
+    "high": 375.95,
+    "low": 368.1,
+    "close": 368.85,
+    "volume": 2261665490,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "08-May-2026",
+    "open": 369,
+    "high": 369.85,
+    "low": 361.35,
+    "close": 362.3,
+    "volume": 1085116329,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "11-May-2026",
+    "open": 358,
+    "high": 358.5,
+    "low": 351.35,
+    "close": 353.65,
+    "volume": 1111285393,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "12-May-2026",
+    "open": 352.45,
+    "high": 354,
+    "low": 340,
+    "close": 341,
+    "volume": 785187804,
+    "symbol": "ABCAPITAL"
+  },
+  {
+    "date": "13-May-2026",
+    "open": 340,
+    "high": 348.55,
+    "low": 339.45,
+    "close": 343.6,
+    "volume": 1000751365,
+    "symbol": "ABCAPITAL"
+  }
+]

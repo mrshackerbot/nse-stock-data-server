@@ -1,0 +1,2234 @@
+[
+  {
+    "date": "01-Jan-2021",
+    "open": 15800,
+    "high": 15856.3,
+    "low": 15698,
+    "close": 15750,
+    "volume": 360932086,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-Jan-2021",
+    "open": 15793.75,
+    "high": 15862.9,
+    "low": 15630.9,
+    "close": 15698.9,
+    "volume": 262908495,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-Jan-2021",
+    "open": 15668,
+    "high": 15839.9,
+    "low": 15551.9,
+    "close": 15610,
+    "volume": 356020088,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-Jan-2021",
+    "open": 15689.25,
+    "high": 15800,
+    "low": 15483.55,
+    "close": 15577,
+    "volume": 245037707,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-Jan-2021",
+    "open": 15664.3,
+    "high": 15700,
+    "low": 15400,
+    "close": 15460,
+    "volume": 304766940,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Jan-2021",
+    "open": 15549.9,
+    "high": 15699.95,
+    "low": 15445.05,
+    "close": 15525,
+    "volume": 204600500,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "11-Jan-2021",
+    "open": 15520,
+    "high": 15650,
+    "low": 15415,
+    "close": 15480,
+    "volume": 501917222,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Jan-2021",
+    "open": 15566.85,
+    "high": 15566.85,
+    "low": 15383,
+    "close": 15400,
+    "volume": 325225673,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "13-Jan-2021",
+    "open": 15450.7,
+    "high": 15505,
+    "low": 14925,
+    "close": 14999.5,
+    "volume": 607266559,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "14-Jan-2021",
+    "open": 15100,
+    "high": 15198.4,
+    "low": 14992.1,
+    "close": 15019.4,
+    "volume": 402747126,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Jan-2021",
+    "open": 15076.15,
+    "high": 15140,
+    "low": 14922,
+    "close": 15030,
+    "volume": 257567899,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-Jan-2021",
+    "open": 15074,
+    "high": 15074,
+    "low": 14730,
+    "close": 14750,
+    "volume": 354846813,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "19-Jan-2021",
+    "open": 14844.65,
+    "high": 14922,
+    "low": 14568,
+    "close": 14590,
+    "volume": 409970762,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-Jan-2021",
+    "open": 14645,
+    "high": 14720,
+    "low": 14325,
+    "close": 14400,
+    "volume": 569869765,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "21-Jan-2021",
+    "open": 14508.85,
+    "high": 14647.95,
+    "low": 14411.2,
+    "close": 14500,
+    "volume": 411911375,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Jan-2021",
+    "open": 14549,
+    "high": 14569.95,
+    "low": 14350,
+    "close": 14479,
+    "volume": 255472395,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-Jan-2021",
+    "open": 14539.55,
+    "high": 14588.6,
+    "low": 14399.9,
+    "close": 14550,
+    "volume": 191123003,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-Jan-2021",
+    "open": 14600,
+    "high": 14667,
+    "low": 14403.1,
+    "close": 14552,
+    "volume": 341687822,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-Jan-2021",
+    "open": 14550,
+    "high": 14618.15,
+    "low": 14348.95,
+    "close": 14579.15,
+    "volume": 144336321,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Jan-2021",
+    "open": 14600,
+    "high": 14640.65,
+    "low": 14100,
+    "close": 14210,
+    "volume": 420217892,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Feb-2021",
+    "open": 14358.85,
+    "high": 14472.35,
+    "low": 14215.05,
+    "close": 14300,
+    "volume": 266021073,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Feb-2021",
+    "open": 14350,
+    "high": 14462,
+    "low": 13959.8,
+    "close": 14140,
+    "volume": 788912257,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-Feb-2021",
+    "open": 14199.85,
+    "high": 14600,
+    "low": 14094,
+    "close": 14449,
+    "volume": 338510550,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-Feb-2021",
+    "open": 14575,
+    "high": 14586.9,
+    "low": 14360,
+    "close": 14480,
+    "volume": 489099577,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-Feb-2021",
+    "open": 14542.5,
+    "high": 14550,
+    "low": 14405,
+    "close": 14500,
+    "volume": 328413366,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Feb-2021",
+    "open": 14560,
+    "high": 14589,
+    "low": 14260.45,
+    "close": 14500,
+    "volume": 429389449,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Feb-2021",
+    "open": 14600,
+    "high": 14995,
+    "low": 14510,
+    "close": 14548,
+    "volume": 566239713,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "10-Feb-2021",
+    "open": 14630,
+    "high": 14630,
+    "low": 14291.05,
+    "close": 14375,
+    "volume": 565261391,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "11-Feb-2021",
+    "open": 14400.5,
+    "high": 14456.3,
+    "low": 14311.25,
+    "close": 14431,
+    "volume": 272799700,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Feb-2021",
+    "open": 14400,
+    "high": 14460,
+    "low": 14375,
+    "close": 14438.7,
+    "volume": 177554252,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Feb-2021",
+    "open": 14469.1,
+    "high": 14599,
+    "low": 14400,
+    "close": 14430,
+    "volume": 197350625,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Feb-2021",
+    "open": 14484.75,
+    "high": 14739,
+    "low": 14465,
+    "close": 14685,
+    "volume": 345639524,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-Feb-2021",
+    "open": 14710.7,
+    "high": 14760.45,
+    "low": 14485.2,
+    "close": 14650,
+    "volume": 245898626,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-Feb-2021",
+    "open": 14649,
+    "high": 14949,
+    "low": 14555.8,
+    "close": 14921,
+    "volume": 221098392,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "19-Feb-2021",
+    "open": 14950,
+    "high": 14950,
+    "low": 14650,
+    "close": 14739.9,
+    "volume": 139181039,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Feb-2021",
+    "open": 14780,
+    "high": 14789.65,
+    "low": 14485.05,
+    "close": 14665.05,
+    "volume": 189590430,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Feb-2021",
+    "open": 14705,
+    "high": 14748.9,
+    "low": 14454.5,
+    "close": 14504.4,
+    "volume": 165571404,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-Feb-2021",
+    "open": 14548.1,
+    "high": 14717.5,
+    "low": 14477,
+    "close": 14555.05,
+    "volume": 77996726,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-Feb-2021",
+    "open": 14591.6,
+    "high": 14688.45,
+    "low": 14270.05,
+    "close": 14368.9,
+    "volume": 356907442,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-Feb-2021",
+    "open": 14352.55,
+    "high": 14484.1,
+    "low": 14228,
+    "close": 14384,
+    "volume": 169898118,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Mar-2021",
+    "open": 14450,
+    "high": 14520,
+    "low": 14250,
+    "close": 14500,
+    "volume": 285914697,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Mar-2021",
+    "open": 14550,
+    "high": 14685.75,
+    "low": 14450,
+    "close": 14547,
+    "volume": 130422472,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-Mar-2021",
+    "open": 14630,
+    "high": 14844,
+    "low": 14537.65,
+    "close": 14645,
+    "volume": 176513875,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-Mar-2021",
+    "open": 14613.9,
+    "high": 14855,
+    "low": 14590,
+    "close": 14636,
+    "volume": 167012158,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-Mar-2021",
+    "open": 14700,
+    "high": 14865.55,
+    "low": 14700,
+    "close": 14770.05,
+    "volume": 147416625,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Mar-2021",
+    "open": 14770.05,
+    "high": 14850.05,
+    "low": 14625.15,
+    "close": 14760.1,
+    "volume": 85163818,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Mar-2021",
+    "open": 14760,
+    "high": 14800,
+    "low": 14644,
+    "close": 14700,
+    "volume": 100512168,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "10-Mar-2021",
+    "open": 14687.55,
+    "high": 14750,
+    "low": 14600,
+    "close": 14648,
+    "volume": 204207515,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Mar-2021",
+    "open": 14689.4,
+    "high": 14718.9,
+    "low": 14503.3,
+    "close": 14615,
+    "volume": 262472146,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Mar-2021",
+    "open": 14625,
+    "high": 14650,
+    "low": 14435,
+    "close": 14580,
+    "volume": 154122307,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Mar-2021",
+    "open": 14530,
+    "high": 14800,
+    "low": 14300,
+    "close": 14800,
+    "volume": 168208082,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-Mar-2021",
+    "open": 14825,
+    "high": 14825,
+    "low": 14540,
+    "close": 14720,
+    "volume": 137966363,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-Mar-2021",
+    "open": 14725,
+    "high": 14783.2,
+    "low": 14400,
+    "close": 14500,
+    "volume": 119193488,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "19-Mar-2021",
+    "open": 14470,
+    "high": 14860,
+    "low": 14314.15,
+    "close": 14770,
+    "volume": 253620149,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Mar-2021",
+    "open": 14855,
+    "high": 14855,
+    "low": 14500,
+    "close": 14649.95,
+    "volume": 186884199,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Mar-2021",
+    "open": 14699,
+    "high": 14848,
+    "low": 14600.05,
+    "close": 14810,
+    "volume": 149247461,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-Mar-2021",
+    "open": 14820,
+    "high": 14930,
+    "low": 14683.9,
+    "close": 14850,
+    "volume": 182193464,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-Mar-2021",
+    "open": 14852,
+    "high": 14993,
+    "low": 14666.05,
+    "close": 14899,
+    "volume": 344809496,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-Mar-2021",
+    "open": 14988.8,
+    "high": 15099,
+    "low": 14761.05,
+    "close": 15050,
+    "volume": 196934316,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Mar-2021",
+    "open": 15030,
+    "high": 15267.8,
+    "low": 14899.8,
+    "close": 14910,
+    "volume": 318537429,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "31-Mar-2021",
+    "open": 14990,
+    "high": 15085.5,
+    "low": 14925.55,
+    "close": 14970,
+    "volume": 140047936,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Apr-2021",
+    "open": 15000,
+    "high": 15160.05,
+    "low": 14901,
+    "close": 14936,
+    "volume": 318548634,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-Apr-2021",
+    "open": 15021.4,
+    "high": 15190,
+    "low": 14912.5,
+    "close": 15175,
+    "volume": 153972790,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-Apr-2021",
+    "open": 15190,
+    "high": 15294.05,
+    "low": 15120.45,
+    "close": 15250,
+    "volume": 233255223,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-Apr-2021",
+    "open": 15216.05,
+    "high": 15325,
+    "low": 15180,
+    "close": 15320,
+    "volume": 159565298,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Apr-2021",
+    "open": 15339,
+    "high": 15400,
+    "low": 14712.5,
+    "close": 14930,
+    "volume": 278015996,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Apr-2021",
+    "open": 14963.05,
+    "high": 15253,
+    "low": 14960.3,
+    "close": 15249,
+    "volume": 263720681,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Apr-2021",
+    "open": 15233,
+    "high": 15233,
+    "low": 14920,
+    "close": 15125,
+    "volume": 268772292,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "13-Apr-2021",
+    "open": 15050,
+    "high": 15148.9,
+    "low": 14920.8,
+    "close": 14999,
+    "volume": 93572147,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Apr-2021",
+    "open": 15000,
+    "high": 15082.15,
+    "low": 14855,
+    "close": 14988.85,
+    "volume": 100017397,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Apr-2021",
+    "open": 15004,
+    "high": 15029.75,
+    "low": 14821.25,
+    "close": 14956.3,
+    "volume": 315754885,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "19-Apr-2021",
+    "open": 14900,
+    "high": 14900.05,
+    "low": 14586.05,
+    "close": 14875.05,
+    "volume": 251887198,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-Apr-2021",
+    "open": 14901,
+    "high": 14990,
+    "low": 14750.1,
+    "close": 14837,
+    "volume": 163883806,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Apr-2021",
+    "open": 14903.1,
+    "high": 15243.8,
+    "low": 14752.2,
+    "close": 15093,
+    "volume": 247501329,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Apr-2021",
+    "open": 14902.5,
+    "high": 15245,
+    "low": 14902.5,
+    "close": 14999.95,
+    "volume": 116164338,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-Apr-2021",
+    "open": 14999.95,
+    "high": 15094.1,
+    "low": 14950,
+    "close": 15051,
+    "volume": 102843267,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-Apr-2021",
+    "open": 15090.85,
+    "high": 15222.75,
+    "low": 15016.25,
+    "close": 15200,
+    "volume": 101998991,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-Apr-2021",
+    "open": 15200,
+    "high": 15280,
+    "low": 15104.6,
+    "close": 15180,
+    "volume": 110909458,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Apr-2021",
+    "open": 15173.05,
+    "high": 15230,
+    "low": 14985.05,
+    "close": 15000,
+    "volume": 117783400,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Apr-2021",
+    "open": 15000,
+    "high": 15294.95,
+    "low": 14850,
+    "close": 15150,
+    "volume": 180219503,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-May-2021",
+    "open": 15150,
+    "high": 15272.55,
+    "low": 15003,
+    "close": 15179.5,
+    "volume": 102682789,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-May-2021",
+    "open": 15169.2,
+    "high": 15450,
+    "low": 15070.05,
+    "close": 15300,
+    "volume": 185608820,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-May-2021",
+    "open": 15309,
+    "high": 15425,
+    "low": 15233.6,
+    "close": 15420,
+    "volume": 169981064,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-May-2021",
+    "open": 15390,
+    "high": 15525,
+    "low": 15347.85,
+    "close": 15410.1,
+    "volume": 136562313,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-May-2021",
+    "open": 15458.95,
+    "high": 15900,
+    "low": 15329.5,
+    "close": 15850,
+    "volume": 270455976,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "10-May-2021",
+    "open": 15845,
+    "high": 16145,
+    "low": 15839.85,
+    "close": 16100,
+    "volume": 387153650,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "11-May-2021",
+    "open": 16108.95,
+    "high": 16250,
+    "low": 15910.6,
+    "close": 16200.05,
+    "volume": 240230207,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-May-2021",
+    "open": 16202,
+    "high": 16299,
+    "low": 16051.05,
+    "close": 16200,
+    "volume": 242670673,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "14-May-2021",
+    "open": 16248,
+    "high": 16248,
+    "low": 15980.35,
+    "close": 16100,
+    "volume": 179752208,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-May-2021",
+    "open": 16110,
+    "high": 16284.95,
+    "low": 16100,
+    "close": 16177,
+    "volume": 176809439,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-May-2021",
+    "open": 16200,
+    "high": 16300,
+    "low": 15933.9,
+    "close": 16026,
+    "volume": 504506938,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "19-May-2021",
+    "open": 16099,
+    "high": 16126.8,
+    "low": 15895,
+    "close": 16025,
+    "volume": 275643190,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-May-2021",
+    "open": 16001,
+    "high": 16135,
+    "low": 15967,
+    "close": 16030,
+    "volume": 150333382,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "21-May-2021",
+    "open": 16019.9,
+    "high": 16190,
+    "low": 15900.1,
+    "close": 16000.1,
+    "volume": 150675519,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-May-2021",
+    "open": 16080,
+    "high": 16198.55,
+    "low": 16027.8,
+    "close": 16142,
+    "volume": 134013871,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-May-2021",
+    "open": 16189.15,
+    "high": 16400,
+    "low": 16055.55,
+    "close": 16099.95,
+    "volume": 193535271,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-May-2021",
+    "open": 16194.85,
+    "high": 16194.85,
+    "low": 15975,
+    "close": 16045,
+    "volume": 169281569,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-May-2021",
+    "open": 16000,
+    "high": 16105.55,
+    "low": 15950,
+    "close": 15977,
+    "volume": 259720933,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-May-2021",
+    "open": 15993,
+    "high": 16171.85,
+    "low": 15874.95,
+    "close": 16100,
+    "volume": 476327693,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "31-May-2021",
+    "open": 16172,
+    "high": 16202.75,
+    "low": 15993,
+    "close": 16000,
+    "volume": 179101526,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Jun-2021",
+    "open": 16057.85,
+    "high": 16100,
+    "low": 15903,
+    "close": 15950,
+    "volume": 297177298,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Jun-2021",
+    "open": 15950,
+    "high": 16000,
+    "low": 15890,
+    "close": 15999,
+    "volume": 436063243,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-Jun-2021",
+    "open": 15988.3,
+    "high": 16160,
+    "low": 15905,
+    "close": 15975,
+    "volume": 663942482,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-Jun-2021",
+    "open": 15999,
+    "high": 16040,
+    "low": 15910,
+    "close": 15910,
+    "volume": 213431419,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-Jun-2021",
+    "open": 15945.8,
+    "high": 15972.75,
+    "low": 15860.1,
+    "close": 15896.15,
+    "volume": 147333585,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Jun-2021",
+    "open": 15927.25,
+    "high": 16000,
+    "low": 15832,
+    "close": 15895,
+    "volume": 1002138066,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Jun-2021",
+    "open": 15955,
+    "high": 16280,
+    "low": 15870,
+    "close": 16135,
+    "volume": 525789340,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "10-Jun-2021",
+    "open": 16200,
+    "high": 16247.9,
+    "low": 16076.95,
+    "close": 16076.95,
+    "volume": 237074283,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "11-Jun-2021",
+    "open": 16124.25,
+    "high": 16390,
+    "low": 16005,
+    "close": 16355,
+    "volume": 277358359,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "14-Jun-2021",
+    "open": 16400,
+    "high": 16554.75,
+    "low": 16137.05,
+    "close": 16260.25,
+    "volume": 492623708,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Jun-2021",
+    "open": 16275,
+    "high": 16500,
+    "low": 16229.4,
+    "close": 16490,
+    "volume": 276484218,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Jun-2021",
+    "open": 16500,
+    "high": 16500,
+    "low": 16326.65,
+    "close": 16465,
+    "volume": 118670430,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-Jun-2021",
+    "open": 16446.2,
+    "high": 16600,
+    "low": 16331.5,
+    "close": 16510,
+    "volume": 164636714,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-Jun-2021",
+    "open": 16490,
+    "high": 16630,
+    "low": 16020,
+    "close": 16550.25,
+    "volume": 301053643,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "21-Jun-2021",
+    "open": 16235,
+    "high": 16749.85,
+    "low": 16235,
+    "close": 16450,
+    "volume": 182861212,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Jun-2021",
+    "open": 16591.6,
+    "high": 16749,
+    "low": 16414.3,
+    "close": 16650.1,
+    "volume": 266748750,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Jun-2021",
+    "open": 16669,
+    "high": 16744,
+    "low": 16400,
+    "close": 16475,
+    "volume": 174573456,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-Jun-2021",
+    "open": 16410,
+    "high": 16500,
+    "low": 16340,
+    "close": 16365.05,
+    "volume": 155905555,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-Jun-2021",
+    "open": 16487.85,
+    "high": 16572.35,
+    "low": 16355.05,
+    "close": 16450.3,
+    "volume": 99287995,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-Jun-2021",
+    "open": 16560,
+    "high": 16900,
+    "low": 16400.2,
+    "close": 16781,
+    "volume": 355061381,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Jun-2021",
+    "open": 16782,
+    "high": 16910,
+    "low": 16430,
+    "close": 16530.5,
+    "volume": 145833541,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Jun-2021",
+    "open": 16662.45,
+    "high": 16900.5,
+    "low": 16498.4,
+    "close": 16700,
+    "volume": 182980491,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Jul-2021",
+    "open": 16825.35,
+    "high": 16875,
+    "low": 16650,
+    "close": 16740,
+    "volume": 135775172,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Jul-2021",
+    "open": 16740,
+    "high": 16799.9,
+    "low": 16661,
+    "close": 16760,
+    "volume": 88203270,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-Jul-2021",
+    "open": 16870,
+    "high": 16870,
+    "low": 16705.25,
+    "close": 16805,
+    "volume": 94920650,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-Jul-2021",
+    "open": 16800,
+    "high": 17289.7,
+    "low": 16776.5,
+    "close": 17214,
+    "volume": 355136531,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-Jul-2021",
+    "open": 17355,
+    "high": 17355,
+    "low": 17057.7,
+    "close": 17155,
+    "volume": 203208460,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Jul-2021",
+    "open": 17260.7,
+    "high": 17283.35,
+    "low": 17101.95,
+    "close": 17250,
+    "volume": 108728014,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Jul-2021",
+    "open": 17205.05,
+    "high": 17400,
+    "low": 17200,
+    "close": 17210,
+    "volume": 568559460,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Jul-2021",
+    "open": 17339.15,
+    "high": 17540,
+    "low": 17211,
+    "close": 17283,
+    "volume": 453026352,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "13-Jul-2021",
+    "open": 17355,
+    "high": 17441,
+    "low": 17220.05,
+    "close": 17405,
+    "volume": 275502722,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "14-Jul-2021",
+    "open": 17400,
+    "high": 17498.8,
+    "low": 17320.05,
+    "close": 17335,
+    "volume": 91932384,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Jul-2021",
+    "open": 17388.65,
+    "high": 17400,
+    "low": 17211.15,
+    "close": 17330.05,
+    "volume": 106461459,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Jul-2021",
+    "open": 17399,
+    "high": 17649,
+    "low": 17250.5,
+    "close": 17450,
+    "volume": 424244734,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "19-Jul-2021",
+    "open": 17250,
+    "high": 17430,
+    "low": 17222.75,
+    "close": 17290.85,
+    "volume": 149793475,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-Jul-2021",
+    "open": 17301.1,
+    "high": 17507.5,
+    "low": 17100,
+    "close": 17500,
+    "volume": 170559067,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Jul-2021",
+    "open": 17470,
+    "high": 17600,
+    "low": 17355.3,
+    "close": 17524,
+    "volume": 203363035,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Jul-2021",
+    "open": 17480,
+    "high": 17850,
+    "low": 17418.55,
+    "close": 17820,
+    "volume": 149456120,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-Jul-2021",
+    "open": 17900,
+    "high": 17985,
+    "low": 17619.95,
+    "close": 17720,
+    "volume": 131443558,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-Jul-2021",
+    "open": 17825.05,
+    "high": 18006,
+    "low": 17820,
+    "close": 17975,
+    "volume": 435141476,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-Jul-2021",
+    "open": 17985,
+    "high": 17985,
+    "low": 17807.5,
+    "close": 17868.95,
+    "volume": 274516681,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Jul-2021",
+    "open": 17918.8,
+    "high": 18230,
+    "low": 17800.05,
+    "close": 18190,
+    "volume": 130734404,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Jul-2021",
+    "open": 18190,
+    "high": 19244.7,
+    "low": 18049.95,
+    "close": 18870.05,
+    "volume": 458711929,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Aug-2021",
+    "open": 19000,
+    "high": 19994.7,
+    "low": 18999,
+    "close": 19550,
+    "volume": 925782020,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-Aug-2021",
+    "open": 19750.7,
+    "high": 19750.7,
+    "low": 19200,
+    "close": 19300,
+    "volume": 333553027,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-Aug-2021",
+    "open": 19300,
+    "high": 19335,
+    "low": 17825,
+    "close": 18048,
+    "volume": 803002013,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-Aug-2021",
+    "open": 18080,
+    "high": 18281.55,
+    "low": 17583.8,
+    "close": 17960,
+    "volume": 346857863,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-Aug-2021",
+    "open": 18034,
+    "high": 18343.4,
+    "low": 17420.1,
+    "close": 17490,
+    "volume": 677056980,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Aug-2021",
+    "open": 17676.7,
+    "high": 17743.85,
+    "low": 17355.05,
+    "close": 17500,
+    "volume": 271982329,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "10-Aug-2021",
+    "open": 17599,
+    "high": 18517.95,
+    "low": 17540.05,
+    "close": 18300.3,
+    "volume": 599866176,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "11-Aug-2021",
+    "open": 18025,
+    "high": 18480,
+    "low": 17993.1,
+    "close": 18213.55,
+    "volume": 330483630,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Aug-2021",
+    "open": 18350.4,
+    "high": 18656.9,
+    "low": 18201.1,
+    "close": 18431,
+    "volume": 288459063,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "13-Aug-2021",
+    "open": 18569.4,
+    "high": 19165,
+    "low": 18360.3,
+    "close": 19000,
+    "volume": 391730385,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Aug-2021",
+    "open": 19099.9,
+    "high": 19221.3,
+    "low": 18747.35,
+    "close": 18900.25,
+    "volume": 213424517,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-Aug-2021",
+    "open": 19000,
+    "high": 19140,
+    "low": 18730.05,
+    "close": 18758.2,
+    "volume": 231423184,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-Aug-2021",
+    "open": 18900,
+    "high": 19125.4,
+    "low": 18820,
+    "close": 18825,
+    "volume": 109565406,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-Aug-2021",
+    "open": 18820,
+    "high": 19210,
+    "low": 18645.25,
+    "close": 18850,
+    "volume": 228642226,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Aug-2021",
+    "open": 19050,
+    "high": 19101,
+    "low": 18804,
+    "close": 19000,
+    "volume": 141878352,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-Aug-2021",
+    "open": 18900,
+    "high": 19097.75,
+    "low": 18868,
+    "close": 18900,
+    "volume": 126453139,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-Aug-2021",
+    "open": 18925.3,
+    "high": 19000,
+    "low": 18712.05,
+    "close": 18968,
+    "volume": 163905933,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-Aug-2021",
+    "open": 18999.9,
+    "high": 19351.5,
+    "low": 18760.05,
+    "close": 18840,
+    "volume": 222372957,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-Aug-2021",
+    "open": 19000,
+    "high": 19099.95,
+    "low": 18915.4,
+    "close": 18950.15,
+    "volume": 75213050,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Aug-2021",
+    "open": 19092.4,
+    "high": 19199.9,
+    "low": 18911,
+    "close": 19080,
+    "volume": 111735671,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "31-Aug-2021",
+    "open": 19109.9,
+    "high": 19398,
+    "low": 19071.6,
+    "close": 19221,
+    "volume": 137397320,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Sep-2021",
+    "open": 19400,
+    "high": 20198,
+    "low": 19345.65,
+    "close": 20000,
+    "volume": 788754315,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Sep-2021",
+    "open": 20150,
+    "high": 20168.85,
+    "low": 19750,
+    "close": 19890,
+    "volume": 389488794,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-Sep-2021",
+    "open": 20000,
+    "high": 20122,
+    "low": 19780,
+    "close": 19837.1,
+    "volume": 199861032,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-Sep-2021",
+    "open": 19985.9,
+    "high": 19986,
+    "low": 19509,
+    "close": 19695,
+    "volume": 147020702,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-Sep-2021",
+    "open": 19771.4,
+    "high": 19896.75,
+    "low": 19520.1,
+    "close": 19697,
+    "volume": 136236000,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Sep-2021",
+    "open": 19700,
+    "high": 20100,
+    "low": 19657.35,
+    "close": 20000,
+    "volume": 199038493,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Sep-2021",
+    "open": 19994.95,
+    "high": 20942,
+    "low": 19852.45,
+    "close": 20845,
+    "volume": 612613618,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "13-Sep-2021",
+    "open": 20600,
+    "high": 21498,
+    "low": 20600,
+    "close": 21489,
+    "volume": 1081638501,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "14-Sep-2021",
+    "open": 21400,
+    "high": 21870,
+    "low": 21311,
+    "close": 21399,
+    "volume": 496983186,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Sep-2021",
+    "open": 21455,
+    "high": 21465.95,
+    "low": 21050.5,
+    "close": 21122,
+    "volume": 286815105,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Sep-2021",
+    "open": 21264,
+    "high": 21420.7,
+    "low": 20900,
+    "close": 20995,
+    "volume": 220542847,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-Sep-2021",
+    "open": 20901,
+    "high": 21083,
+    "low": 20250,
+    "close": 20549.4,
+    "volume": 314206062,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-Sep-2021",
+    "open": 20480.5,
+    "high": 20887.95,
+    "low": 20161.4,
+    "close": 20560,
+    "volume": 254001563,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "21-Sep-2021",
+    "open": 20486.5,
+    "high": 20850,
+    "low": 20300,
+    "close": 20766,
+    "volume": 139658278,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Sep-2021",
+    "open": 20800,
+    "high": 21500.05,
+    "low": 20800,
+    "close": 21473,
+    "volume": 371825209,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Sep-2021",
+    "open": 21474,
+    "high": 21698,
+    "low": 21474,
+    "close": 21610,
+    "volume": 187544711,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-Sep-2021",
+    "open": 21699,
+    "high": 21728,
+    "low": 21075,
+    "close": 21237,
+    "volume": 229749436,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-Sep-2021",
+    "open": 21394,
+    "high": 21394,
+    "low": 21137.8,
+    "close": 21221.1,
+    "volume": 129354501,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-Sep-2021",
+    "open": 21237,
+    "high": 21378.35,
+    "low": 20821.1,
+    "close": 20940,
+    "volume": 455558378,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Sep-2021",
+    "open": 21010.8,
+    "high": 21010.8,
+    "low": 19201,
+    "close": 19668,
+    "volume": 1285840530,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Sep-2021",
+    "open": 19800,
+    "high": 20642,
+    "low": 19703.2,
+    "close": 20580,
+    "volume": 1028925893,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Oct-2021",
+    "open": 20499.5,
+    "high": 22569.55,
+    "low": 20462,
+    "close": 22569.55,
+    "volume": 1999368179,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-Oct-2021",
+    "open": 22810,
+    "high": 23371.95,
+    "low": 22300,
+    "close": 23149.95,
+    "volume": 2583918368,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "05-Oct-2021",
+    "open": 23200,
+    "high": 23934.45,
+    "low": 23100,
+    "close": 23188,
+    "volume": 1923970333,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-Oct-2021",
+    "open": 23200,
+    "high": 23720.85,
+    "low": 21854.8,
+    "close": 22198,
+    "volume": 1265310642,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-Oct-2021",
+    "open": 22475.85,
+    "high": 22868.8,
+    "low": 21610,
+    "close": 21771,
+    "volume": 1006294676,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Oct-2021",
+    "open": 22100,
+    "high": 22250,
+    "low": 21555,
+    "close": 21840.1,
+    "volume": 574756945,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "11-Oct-2021",
+    "open": 21969.5,
+    "high": 22171.3,
+    "low": 21700,
+    "close": 21948.7,
+    "volume": 383525200,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Oct-2021",
+    "open": 22150,
+    "high": 22279.95,
+    "low": 21617.15,
+    "close": 21725,
+    "volume": 411837812,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "13-Oct-2021",
+    "open": 21902,
+    "high": 21902,
+    "low": 21500,
+    "close": 21598,
+    "volume": 286062640,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "14-Oct-2021",
+    "open": 21699.9,
+    "high": 21850,
+    "low": 21446.85,
+    "close": 21520,
+    "volume": 242518806,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-Oct-2021",
+    "open": 21700,
+    "high": 22036.95,
+    "low": 21363.7,
+    "close": 21415,
+    "volume": 328745516,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "19-Oct-2021",
+    "open": 21451,
+    "high": 21574.9,
+    "low": 20454.6,
+    "close": 20634,
+    "volume": 403585089,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-Oct-2021",
+    "open": 20639,
+    "high": 21366,
+    "low": 20328.9,
+    "close": 20739,
+    "volume": 904402237,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "21-Oct-2021",
+    "open": 20866,
+    "high": 21096.7,
+    "low": 20553.8,
+    "close": 20941,
+    "volume": 245391285,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Oct-2021",
+    "open": 20992,
+    "high": 21199.95,
+    "low": 20125,
+    "close": 20300,
+    "volume": 340980223,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-Oct-2021",
+    "open": 20280,
+    "high": 20444.8,
+    "low": 19700,
+    "close": 20110,
+    "volume": 320157264,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-Oct-2021",
+    "open": 20100,
+    "high": 20286.15,
+    "low": 20000,
+    "close": 20141.25,
+    "volume": 590863841,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-Oct-2021",
+    "open": 20205.2,
+    "high": 20699.95,
+    "low": 20010.1,
+    "close": 20634,
+    "volume": 313384333,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-Oct-2021",
+    "open": 20688,
+    "high": 20688,
+    "low": 20000,
+    "close": 20084.95,
+    "volume": 194211454,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Oct-2021",
+    "open": 20084.95,
+    "high": 20271.25,
+    "low": 19725.1,
+    "close": 19990,
+    "volume": 226873860,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Nov-2021",
+    "open": 20025,
+    "high": 20244.8,
+    "low": 19866.6,
+    "close": 20049,
+    "volume": 285681124,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Nov-2021",
+    "open": 20100,
+    "high": 20400,
+    "low": 20075,
+    "close": 20298.15,
+    "volume": 189672752,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-Nov-2021",
+    "open": 20200,
+    "high": 20483.6,
+    "low": 20111.05,
+    "close": 20317,
+    "volume": 175948161,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "04-Nov-2021",
+    "open": 20390,
+    "high": 20469.45,
+    "low": 20207.35,
+    "close": 20320,
+    "volume": 34311874,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Nov-2021",
+    "open": 20210.1,
+    "high": 20384.2,
+    "low": 19995.05,
+    "close": 20020,
+    "volume": 150420292,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Nov-2021",
+    "open": 19994,
+    "high": 20250,
+    "low": 19960.05,
+    "close": 20046,
+    "volume": 147833503,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "10-Nov-2021",
+    "open": 20046,
+    "high": 20150,
+    "low": 19960,
+    "close": 20150,
+    "volume": 103882880,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "11-Nov-2021",
+    "open": 20059,
+    "high": 20100,
+    "low": 19905.05,
+    "close": 19998,
+    "volume": 362067232,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "12-Nov-2021",
+    "open": 20001,
+    "high": 20056.5,
+    "low": 19705.55,
+    "close": 19747.9,
+    "volume": 231177777,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Nov-2021",
+    "open": 19788,
+    "high": 20076.8,
+    "low": 19701.05,
+    "close": 19867,
+    "volume": 332402981,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Nov-2021",
+    "open": 19951.15,
+    "high": 20100.2,
+    "low": 19725,
+    "close": 19746,
+    "volume": 247538014,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-Nov-2021",
+    "open": 19769.9,
+    "high": 19830,
+    "low": 19575,
+    "close": 19575,
+    "volume": 108273295,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "18-Nov-2021",
+    "open": 19775,
+    "high": 19775,
+    "low": 19251.25,
+    "close": 19630,
+    "volume": 233192345,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Nov-2021",
+    "open": 19739.9,
+    "high": 19739.9,
+    "low": 19450.15,
+    "close": 19501,
+    "volume": 213236997,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Nov-2021",
+    "open": 19500,
+    "high": 19847.5,
+    "low": 19251.45,
+    "close": 19655.4,
+    "volume": 155374284,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-Nov-2021",
+    "open": 19879.85,
+    "high": 19879.85,
+    "low": 19000,
+    "close": 19180,
+    "volume": 246666527,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "25-Nov-2021",
+    "open": 19237,
+    "high": 19404,
+    "low": 19120.25,
+    "close": 19249,
+    "volume": 220289237,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "26-Nov-2021",
+    "open": 19200,
+    "high": 20196.7,
+    "low": 19100,
+    "close": 19512,
+    "volume": 628508343,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Nov-2021",
+    "open": 19581.2,
+    "high": 19660.8,
+    "low": 19100,
+    "close": 19170,
+    "volume": 266319535,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Nov-2021",
+    "open": 19299,
+    "high": 19374.9,
+    "low": 19010.1,
+    "close": 19068.95,
+    "volume": 203094066,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "01-Dec-2021",
+    "open": 19100.2,
+    "high": 19319.9,
+    "low": 18849.15,
+    "close": 18880,
+    "volume": 203047002,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "02-Dec-2021",
+    "open": 19089.95,
+    "high": 19192.2,
+    "low": 18820.15,
+    "close": 19058,
+    "volume": 236346540,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "03-Dec-2021",
+    "open": 19074,
+    "high": 19275,
+    "low": 18909.05,
+    "close": 18910,
+    "volume": 138398142,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "06-Dec-2021",
+    "open": 18996.75,
+    "high": 18998.95,
+    "low": 18626.65,
+    "close": 18667.9,
+    "volume": 151592242,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "07-Dec-2021",
+    "open": 18750.05,
+    "high": 18899,
+    "low": 18690,
+    "close": 18740,
+    "volume": 125777724,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "08-Dec-2021",
+    "open": 18895,
+    "high": 19113.7,
+    "low": 18760.25,
+    "close": 18910,
+    "volume": 158709629,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "09-Dec-2021",
+    "open": 19049.3,
+    "high": 19150,
+    "low": 18820,
+    "close": 18899,
+    "volume": 155453546,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "10-Dec-2021",
+    "open": 18900,
+    "high": 18981.45,
+    "low": 18640,
+    "close": 18708.5,
+    "volume": 130388690,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "13-Dec-2021",
+    "open": 18848.85,
+    "high": 18848.9,
+    "low": 18271.1,
+    "close": 18325.05,
+    "volume": 323966705,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "14-Dec-2021",
+    "open": 18325.05,
+    "high": 18470.5,
+    "low": 18065,
+    "close": 18322.55,
+    "volume": 341039368,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "15-Dec-2021",
+    "open": 18344,
+    "high": 18572.65,
+    "low": 18063.35,
+    "close": 18540,
+    "volume": 214392632,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "16-Dec-2021",
+    "open": 18620,
+    "high": 18678.55,
+    "low": 18311,
+    "close": 18407,
+    "volume": 166874440,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "17-Dec-2021",
+    "open": 18251,
+    "high": 18367,
+    "low": 17900,
+    "close": 18144,
+    "volume": 208978630,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "20-Dec-2021",
+    "open": 17950,
+    "high": 18000,
+    "low": 17681.65,
+    "close": 17997,
+    "volume": 241219178,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "21-Dec-2021",
+    "open": 17999.5,
+    "high": 18094.9,
+    "low": 17870.2,
+    "close": 17925.05,
+    "volume": 189528982,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "22-Dec-2021",
+    "open": 18059.5,
+    "high": 18254.15,
+    "low": 17907.35,
+    "close": 18214,
+    "volume": 151723107,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "23-Dec-2021",
+    "open": 18349,
+    "high": 18798,
+    "low": 18260,
+    "close": 18533,
+    "volume": 411628707,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "24-Dec-2021",
+    "open": 18750,
+    "high": 18750,
+    "low": 18352.05,
+    "close": 18430,
+    "volume": 107294200,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "27-Dec-2021",
+    "open": 18399,
+    "high": 19099,
+    "low": 18184.55,
+    "close": 18746.1,
+    "volume": 381671171,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "28-Dec-2021",
+    "open": 18756.2,
+    "high": 19105,
+    "low": 18756.2,
+    "close": 19060,
+    "volume": 267218841,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "29-Dec-2021",
+    "open": 19000,
+    "high": 19397.95,
+    "low": 18955.65,
+    "close": 19160.05,
+    "volume": 211209625,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "30-Dec-2021",
+    "open": 19298.8,
+    "high": 19500,
+    "low": 19161,
+    "close": 19470,
+    "volume": 195861644,
+    "symbol": "ABBOTINDIA"
+  },
+  {
+    "date": "31-Dec-2021",
+    "open": 19381.95,
+    "high": 19604.5,
+    "low": 19381.95,
+    "close": 19498,
+    "volume": 120593962,
+    "symbol": "ABBOTINDIA"
+  }
+]
