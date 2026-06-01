@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T12:45:26.353Z",
+  "lastUpdated": "2026-06-01T16:23:56.696Z",
   "totalStocks": 500,
   "stocksList": [
     "360ONE",
@@ -524,5 +524,13 @@
       "symbol": "DUMMYVEDL4",
       "reason": "no_data"
     }
-  ]
+  ],
+  "lastUpdateStats": {
+    "updated": 500,
+    "failed": 0,
+    "alreadyUpdated": 0,
+    "noNewData": 0,
+    "noUpdateNeeded": 0,
+    "skipped": 0
+  }
 }
