@@ -92,17 +92,55 @@ export function parseCSVLine(line) {
 
 export async function copyToPublic() {
   try {
-    await fs.cp(DATA_DIR, path.join(PUBLIC_DIR, "stocks"), {
-      recursive: true,
-      force: true,
-    });
-    await fs.cp(METADATA_DIR, path.join(PUBLIC_DIR, "metadata"), {
-      recursive: true,
-      force: true,
-    });
-    console.log("✓ Data copied to public folder");
+    const stocksDestDir = path.join(PUBLIC_DIR, "stocks");
+    const metadataDestDir = path.join(PUBLIC_DIR, "metadata");
+
+    // Clear existing stock files/folders to avoid duplicates
+    if (existsSync(stocksDestDir)) {
+      await fs.rm(stocksDestDir, { recursive: true, force: true });
+    }
+    if (existsSync(metadataDestDir)) {
+      await fs.rm(metadataDestDir, { recursive: true, force: true });
+    }
+
+    // Ensure directories exist
+    await fs.mkdir(stocksDestDir, { recursive: true });
+    await fs.mkdir(metadataDestDir, { recursive: true });
+
+    // Copy stock data (DATA_DIR contains symbol folders)
+    const stockFiles = await fs.readdir(DATA_DIR);
+    for (const file of stockFiles) {
+      const srcPath = path.join(DATA_DIR, file);
+      const destPath = path.join(stocksDestDir, file);
+      const stats = await fs.stat(srcPath);
+      
+      if (stats.isDirectory()) {
+        // Copy symbol directories
+        await fs.cp(srcPath, destPath, { recursive: true });
+      } else if (stats.isFile()) {
+        // Copy individual JSON files
+        await fs.copyFile(srcPath, destPath);
+      }
+    }
+
+    // Copy metadata files
+    const metadataFiles = await fs.readdir(METADATA_DIR);
+    for (const file of metadataFiles) {
+      const srcPath = path.join(METADATA_DIR, file);
+      const destPath = path.join(metadataDestDir, file);
+      const stats = await fs.stat(srcPath);
+      
+      if (stats.isDirectory()) {
+        await fs.cp(srcPath, destPath, { recursive: true });
+      } else if (stats.isFile()) {
+        await fs.copyFile(srcPath, destPath);
+      }
+    }
+
+    log(`✓ Data copied to public folder (${stockFiles.length} stocks)`);
   } catch (error) {
     console.error("Failed to copy data to public:", error.message);
+    throw error;
   }
 }
 
