@@ -74,8 +74,25 @@ export function isMarketClosed() {
     now.toLocaleString("en-US", { timeZone: "Asia/Kolkata" }),
   );
   const hour = istTime.getHours();
-  const isWeekday = istTime.getDay() >= 1 && istTime.getDay() <= 5;
-  return isWeekday && hour >= 16;
+  const dayOfWeek = istTime.getDay();
+
+  // NSE Trading Hours: 9:15 AM - 4:00 PM IST (Mon-Fri)
+  // Market is closed if:
+  // 1. It's a weekend (Saturday=6, Sunday=0)
+  // 2. It's after market close (>= 16:00 / 4:00 PM) on weekdays
+  // 3. It's before market open (< 09:15) on weekdays
+
+  const isWeekday = dayOfWeek >= 1 && dayOfWeek <= 5;
+
+  // If weekend, market is definitely closed
+  if (!isWeekday) {
+    return true;
+  }
+
+  // On weekdays: closed if before 9:15 AM or after 4:00 PM (16:00)
+  const isClosed = hour < 9 || hour >= 16;
+
+  return isClosed;
 }
 
 export function cleanSymbol(symbol) {
