@@ -25,6 +25,14 @@ export const NSE_CSV_HEADERS = {
   'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
 };
 
+/**
+ * Fetch historical data for a stock from NSE API
+ * @param {string} symbol - Stock symbol to fetch
+ * @param {string} fromDate - Start date in DD-MM-YYYY format
+ * @param {string} toDate - End date in DD-MM-YYYY format
+ * @param {number} maxRetries - Maximum number of retry attempts
+ * @returns {Promise<Array>} Array of OHLCV data or null on failure
+ */
 async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3) {
   const cleanSym = cleanSymbol(symbol);
   let lastError;
@@ -103,6 +111,13 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3) {
   return null;
 }
 
+/**
+ * Fetch and process historical data for a single stock
+ * @param {string} symbol - Stock symbol to fetch
+ * @param {number} years - Number of years of history to fetch
+ * @param {boolean} useCache - Whether to use cached data
+ * @returns {Promise<Object>} Result object with symbol and data array
+ */
 async function fetchStockData(symbol, years = 3, useCache = true) {
   const symbolDir = getSymbolDir(symbol);
 
@@ -174,6 +189,11 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
   }
 }
 
+/**
+ * Fetch historical data for all NSE 500 stocks
+ * @param {number|null} limit - Optional limit on number of stocks to fetch
+ * @returns {Promise<Object>} Result object with results and failures arrays
+ */
 async function fetchAllHistorical(limit = null) {
   log("=".repeat(60));
   log("NSE 500 Historical Data Download");
@@ -250,10 +270,33 @@ async function fetchAllHistorical(limit = null) {
 
 if (import.meta.url === `file://${process.argv[1]}`) {
   const limit = process.argv[2] ? parseInt(process.argv[2]) : null;
-  fetchAllHistorical(limit).catch((err) => {
-    console.error("Fatal error:", err);
-    process.exit(1);
-  });
+  fetchAllHistorical(limit)
+    .then((result) => {
+      console.log("\nFinal result:", JSON.stringify(result, null, 2));
+      
+      // Calculate success rate
+      const totalAttempts = result.results.length + result.failures.length;
+      const successRate = totalAttempts > 0 ? result.results.length / totalAttempts : 0;
+      const failureRate = 1 - successRate;
+      
+      log(`\nSuccess Rate: ${(successRate * 100).toFixed(1)}% (${result.results.length}/${totalAttempts})`);
+      
+      // Exit with 0 if at least 80% of stocks fetched successfully
+      // Exit with 1 if too many failures (>20%) or no stocks fetched
+      const exitCode = failureRate > 0.2 || totalAttempts === 0 ? 1 : 0;
+      
+      if (exitCode === 0) {
+        log("✅ Historical fetch workflow completed successfully!");
+      } else {
+        log("⚠️ Historical fetch had too many failures - check logs");
+      }
+      
+      process.exit(exitCode);
+    })
+    .catch((err) => {
+      console.error("❌ Fatal error:", err);
+      process.exit(1);
+    });
 }
 
 export { fetchAllHistorical, fetchStockData, fetchNSEDataCSV };
