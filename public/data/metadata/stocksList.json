@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T12:06:09.497Z",
+  "lastUpdated": "2026-07-17T11:56:13.180Z",
   "totalStocks": 500,
   "stocksList": [
     "360ONE",
@@ -255,7 +255,6 @@
     "ITI",
     "J&KBANK",
     "JAINREC",
-    "JBCHEPHARM",
     "JBMA",
     "JINDALSAW",
     "JINDALSTEL",
@@ -526,11 +525,11 @@
     }
   ],
   "lastUpdateStats": {
-    "updated": 500,
+    "updated": 499,
     "failed": 0,
     "alreadyUpdated": 0,
     "noNewData": 0,
-    "noUpdateNeeded": 0,
+    "noUpdateNeeded": 1,
     "skipped": 0
   }
 }
