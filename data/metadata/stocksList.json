@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-07T21:11:32.181Z",
-  "totalStocks": 499,
+  "lastUpdated": "2026-08-07T21:50:32.528Z",
+  "totalStocks": 500,
   "stocksList": [
     "360ONE",
     "3MINDIA",
@@ -368,6 +368,7 @@
     "PETRONET",
     "PFC",
     "PFIZER",
+    "PFOCUS",
     "PGEL",
     "PHOENIXLTD",
     "PIDILITIND",
@@ -506,30 +507,5 @@
     "start": "2021-01-01",
     "end": "2026-12-31"
   },
-  "failures": [
-    {
-      "symbol": "DUMMYVEDL1",
-      "reason": "no_data"
-    },
-    {
-      "symbol": "DUMMYVEDL2",
-      "reason": "no_data"
-    },
-    {
-      "symbol": "DUMMYVEDL3",
-      "reason": "no_data"
-    },
-    {
-      "symbol": "DUMMYVEDL4",
-      "reason": "no_data"
-    }
-  ],
-  "lastUpdateStats": {
-    "updated": 499,
-    "failed": 0,
-    "alreadyUpdated": 0,
-    "noNewData": 0,
-    "noUpdateNeeded": 0,
-    "skipped": 0
-  }
+  "failures": []
 }
