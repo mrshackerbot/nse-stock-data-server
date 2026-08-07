@@ -75,17 +75,39 @@ async function getTodayData(symbol) {
           .split(/","/)
           .map((c) => c.replace(/"/g, "").trim());
 
-        if (cols.length < 8) continue;
+        if (cols.length < 15) continue;
 
         const date = cols[2]?.trim();
+        const prevClose = parseFloat(cols[3]?.replace(/,/g, "")) || 0;
         const open = parseFloat(cols[4]?.replace(/,/g, "")) || 0;
         const high = parseFloat(cols[5]?.replace(/,/g, "")) || 0;
         const low = parseFloat(cols[6]?.replace(/,/g, "")) || 0;
-        const close = parseFloat(cols[7]?.replace(/,/g, "")) || 0;
-        const volume = parseInt(cols[11]?.replace(/,/g, "")) || 0;
+        const lastPrice = parseFloat(cols[7]?.replace(/,/g, "")) || 0;
+        const closePrice = parseFloat(cols[8]?.replace(/,/g, "")) || 0;
+        const avgPrice = parseFloat(cols[9]?.replace(/,/g, "")) || 0;
+        const volume = parseInt(cols[10]?.replace(/,/g, "")) || 0;
+        const turnover = parseFloat(cols[11]?.replace(/,/g, "")) || 0;
+        const noOfTrades = parseInt(cols[12]?.replace(/,/g, "")) || 0;
+        const deliverableQty = parseInt(cols[13]?.replace(/,/g, "")) || 0;
+        const pctDlyQtToTradedQty = parseFloat(cols[14]?.replace(/,/g, "")) || 0;
 
-        if (close > 0 && date) {
-          data.push({ date, open, high, low, close, volume, symbol: cleanSym });
+        if (closePrice > 0 && date) {
+          data.push({
+            date,
+            prevClose,
+            open,
+            high,
+            low,
+            lastPrice,
+            close: closePrice,
+            avgPrice,
+            volume,
+            turnover,
+            noOfTrades,
+            deliverableQty,
+            pctDlyQtToTradedQty,
+            symbol: cleanSym,
+          });
         }
       }
 
@@ -172,15 +194,37 @@ async function updateStockFile(symbol, equityDataMap = null) {
       if (close > 0) {
         newData = {
           date,
+          prevClose:
+            parseFloat(String(equityItem.previousClose).replace(/,/g, "")) || 0,
           open:
             parseFloat(String(equityItem.dayOpen).replace(/,/g, "")) || close,
           high:
             parseFloat(String(equityItem.dayHigh).replace(/,/g, "")) || close,
           low: parseFloat(String(equityItem.dayLow).replace(/,/g, "")) || close,
+          lastPrice:
+            parseFloat(String(equityItem.lastPrice).replace(/,/g, "")) || 0,
           close,
+          avgPrice:
+            parseFloat(String(equityItem.averagePrice).replace(/,/g, "")) || 0,
           volume:
             parseInt(String(equityItem.totalTradedVolume).replace(/,/g, "")) ||
             0,
+          turnover:
+            parseFloat(
+              String(equityItem.totalTradedValue).replace(/,/g, ""),
+            ) || 0,
+          noOfTrades:
+            parseInt(
+              String(equityItem.totalTrades).replace(/,/g, ""),
+            ) || 0,
+          deliverableQty:
+            parseInt(
+              String(equityItem.deliverableQuantity).replace(/,/g, ""),
+            ) || 0,
+          pctDlyQtToTradedQty:
+            parseFloat(
+              String(equityItem.deliverablePercent).replace(/,/g, ""),
+            ) || 0,
           symbol: cleanSym,
         };
         log(`[EquityAPI] ${symbol}: Got latest data (Close: ${close})`);
