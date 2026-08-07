@@ -15,6 +15,7 @@ import {
   loadCache,
   getSymbolDir,
   getNSE500Symbols,
+  parseCSVLine,
 } from "./utils.js";
 
 export const NSE_CSV_URL = 'https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData';
@@ -79,21 +80,45 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3) {
 
       const data = [];
       for (let i = 1; i < lines.length; i++) {
-        const cols = lines[i]
-          .split(/","/)
-          .map(c => c.replace(/"/g, '').trim());
+        const cols = parseCSVLine(lines[i]);
 
-        if (cols.length < 8) continue;
-
+        // parse available columns safely (some responses may omit optional columns)
         const date = cols[2]?.trim();
-        const open = parseFloat(cols[4]?.replace(/,/g, '')) || 0;
-        const high = parseFloat(cols[5]?.replace(/,/g, '')) || 0;
-        const low = parseFloat(cols[6]?.replace(/,/g, '')) || 0;
-        const close = parseFloat(cols[7]?.replace(/,/g, '')) || 0;
-        const volume = parseInt(cols[11]?.replace(/,/g, '')) || 0;
+        const prevClose = parseFloat((cols[3] || '').replace(/,/g, '')) || 0;
+        const open = parseFloat((cols[4] || '').replace(/,/g, '')) || 0;
+        const high = parseFloat((cols[5] || '').replace(/,/g, '')) || 0;
+        const low = parseFloat((cols[6] || '').replace(/,/g, '')) || 0;
+        const lastPrice = parseFloat((cols[7] || '').replace(/,/g, '')) || 0;
+        const closePrice = parseFloat((cols[8] || '').replace(/,/g, '')) || 0;
+        const avgPrice = parseFloat((cols[9] || '').replace(/,/g, '')) || 0;
+        const totalTradedQty = parseInt((cols[10] || '').replace(/,/g, '')) || 0; // actual volume
+        const turnover = parseFloat((cols[11] || '').replace(/,/g, '')) || 0; // rupee turnover
+        const noOfTrades = parseInt((cols[12] || '').replace(/,/g, '')) || 0;
+        const deliverableQty = parseInt((cols[13] || '').replace(/,/g, '')) || 0;
+        const deliverablePercent = parseFloat((cols[14] || '').replace(/,/g, '')) || 0;
+
+        // Keep existing behaviour: use lastPrice as close to preserve compatibility
+        const close = lastPrice;
+        const volume = totalTradedQty; // corrected to use Total Traded Quantity
 
         if (close > 0 && date) {
-          data.push({ date, open, high, low, close, volume, symbol: cleanSym });
+          data.push({
+            date,
+            prevClose,
+            open,
+            high,
+            low,
+            close,
+            closePrice,
+            lastPrice,
+            avgPrice,
+            volume,
+            turnover,
+            noOfTrades,
+            deliverableQty,
+            deliverablePercent,
+            symbol: cleanSym,
+          });
         }
       }
 
