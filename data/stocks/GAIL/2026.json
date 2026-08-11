@@ -2514,5 +2514,21 @@
     "deliverableQty": 3261240,
     "deliverablePercent": 46.55,
     "symbol": "GAIL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 173.63,
+    "open": 173.49,
+    "high": 173.49,
+    "low": 170.02,
+    "lastPrice": 172.5,
+    "close": 172.5,
+    "avgPrice": 171.37,
+    "volume": 9148494,
+    "turnover": 1567781333.11,
+    "noOfTrades": 50377,
+    "deliverableQty": 4630321,
+    "pctDlyQtToTradedQty": 50.61,
+    "symbol": "GAIL"
   }
 ]

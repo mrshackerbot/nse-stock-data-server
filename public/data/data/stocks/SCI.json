@@ -23424,5 +23424,21 @@
     "deliverableQty": 3938714,
     "deliverablePercent": 28.52,
     "symbol": "SCI"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 304.75,
+    "open": 305.75,
+    "high": 305.95,
+    "low": 294,
+    "lastPrice": 295.05,
+    "close": 294.95,
+    "avgPrice": 298.56,
+    "volume": 2731094,
+    "turnover": 815386942.85,
+    "noOfTrades": 30212,
+    "deliverableQty": 1172900,
+    "pctDlyQtToTradedQty": 42.95,
+    "symbol": "SCI"
   }
 ]

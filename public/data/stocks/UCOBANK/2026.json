@@ -2514,5 +2514,21 @@
     "deliverableQty": 1275752,
     "deliverablePercent": 44.26,
     "symbol": "UCOBANK"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 26.4,
+    "open": 26.39,
+    "high": 26.39,
+    "low": 26.05,
+    "lastPrice": 26.12,
+    "close": 26.12,
+    "avgPrice": 26.21,
+    "volume": 2808351,
+    "turnover": 73600328.51,
+    "noOfTrades": 9890,
+    "deliverableQty": 1615655,
+    "pctDlyQtToTradedQty": 57.53,
+    "symbol": "UCOBANK"
   }
 ]

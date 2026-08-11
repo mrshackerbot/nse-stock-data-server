@@ -2514,5 +2514,21 @@
     "deliverableQty": 502280,
     "deliverablePercent": 42.18,
     "symbol": "AFCONS"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 274.25,
+    "open": 270,
+    "high": 271.8,
+    "low": 260.4,
+    "lastPrice": 261.95,
+    "close": 262.85,
+    "avgPrice": 264.31,
+    "volume": 2166504,
+    "turnover": 572635895.85,
+    "noOfTrades": 32131,
+    "deliverableQty": 1209842,
+    "pctDlyQtToTradedQty": 55.84,
+    "symbol": "AFCONS"
   }
 ]

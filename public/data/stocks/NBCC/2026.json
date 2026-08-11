@@ -2514,5 +2514,21 @@
     "deliverableQty": 2011058,
     "deliverablePercent": 42.41,
     "symbol": "NBCC"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 95.33,
+    "open": 95.25,
+    "high": 95.55,
+    "low": 94.33,
+    "lastPrice": 94.85,
+    "close": 94.85,
+    "avgPrice": 94.88,
+    "volume": 3905923,
+    "turnover": 370603258.6,
+    "noOfTrades": 24010,
+    "deliverableQty": 1421931,
+    "pctDlyQtToTradedQty": 36.4,
+    "symbol": "NBCC"
   }
 ]

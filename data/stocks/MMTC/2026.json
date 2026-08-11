@@ -2514,5 +2514,21 @@
     "deliverableQty": 368776,
     "deliverablePercent": 36.55,
     "symbol": "MMTC"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 63.98,
+    "open": 64,
+    "high": 65.42,
+    "low": 63.3,
+    "lastPrice": 64.29,
+    "close": 63.95,
+    "avgPrice": 64.29,
+    "volume": 2320097,
+    "turnover": 149162723.04,
+    "noOfTrades": 12098,
+    "deliverableQty": 710375,
+    "pctDlyQtToTradedQty": 30.62,
+    "symbol": "MMTC"
   }
 ]

@@ -2514,5 +2514,21 @@
     "deliverableQty": 1225334,
     "deliverablePercent": 26.12,
     "symbol": "RVNL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 233.38,
+    "open": 233.39,
+    "high": 233.39,
+    "low": 230.05,
+    "lastPrice": 230.68,
+    "close": 230.68,
+    "avgPrice": 231.23,
+    "volume": 2315754,
+    "turnover": 535480525.18,
+    "noOfTrades": 24033,
+    "deliverableQty": 905532,
+    "pctDlyQtToTradedQty": 39.1,
+    "symbol": "RVNL"
   }
 ]

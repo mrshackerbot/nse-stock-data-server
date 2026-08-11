@@ -2514,5 +2514,21 @@
     "deliverableQty": 2178669,
     "deliverablePercent": 44.69,
     "symbol": "M&MFIN"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 408.45,
+    "open": 407,
+    "high": 415,
+    "low": 395,
+    "lastPrice": 412.05,
+    "close": 412.3,
+    "avgPrice": 409.22,
+    "volume": 3517041,
+    "turnover": 1439257006.7,
+    "noOfTrades": 55837,
+    "deliverableQty": 1474444,
+    "pctDlyQtToTradedQty": 41.92,
+    "symbol": "M&MFIN"
   }
 ]

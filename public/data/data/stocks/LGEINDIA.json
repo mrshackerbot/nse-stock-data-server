@@ -3432,5 +3432,21 @@
     "deliverableQty": 74583,
     "deliverablePercent": 53.9,
     "symbol": "LGEINDIA"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1586.5,
+    "open": 1580.1,
+    "high": 1591.7,
+    "low": 1552.6,
+    "lastPrice": 1554.1,
+    "close": 1557.8,
+    "avgPrice": 1566.85,
+    "volume": 203716,
+    "turnover": 319193200.1,
+    "noOfTrades": 20336,
+    "deliverableQty": 120189,
+    "pctDlyQtToTradedQty": 59,
+    "symbol": "LGEINDIA"
   }
 ]

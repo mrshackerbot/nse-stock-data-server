@@ -2514,5 +2514,21 @@
     "deliverableQty": 501600,
     "deliverablePercent": 70.93,
     "symbol": "HDBFS"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 665.65,
+    "open": 665,
+    "high": 678,
+    "low": 657,
+    "lastPrice": 678,
+    "close": 676.4,
+    "avgPrice": 665.91,
+    "volume": 554174,
+    "turnover": 369029393,
+    "noOfTrades": 25952,
+    "deliverableQty": 291184,
+    "pctDlyQtToTradedQty": 52.54,
+    "symbol": "HDBFS"
   }
 ]

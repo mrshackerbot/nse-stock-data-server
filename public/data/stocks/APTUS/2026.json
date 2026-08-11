@@ -2514,5 +2514,21 @@
     "deliverableQty": 420038,
     "deliverablePercent": 63.05,
     "symbol": "APTUS"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 260.65,
+    "open": 261.3,
+    "high": 261.85,
+    "low": 251.6,
+    "lastPrice": 253.4,
+    "close": 253.25,
+    "avgPrice": 255.57,
+    "volume": 958585,
+    "turnover": 244990121.25,
+    "noOfTrades": 21137,
+    "deliverableQty": 636709,
+    "pctDlyQtToTradedQty": 66.42,
+    "symbol": "APTUS"
   }
 ]

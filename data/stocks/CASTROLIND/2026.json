@@ -2514,5 +2514,21 @@
     "deliverableQty": 1999788,
     "deliverablePercent": 64.05,
     "symbol": "CASTROLIND"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 192.08,
+    "open": 193.27,
+    "high": 193.67,
+    "low": 192.25,
+    "lastPrice": 193.29,
+    "close": 193.43,
+    "avgPrice": 193.2,
+    "volume": 6485229,
+    "turnover": 1252922364.75,
+    "noOfTrades": 29918,
+    "deliverableQty": 4832918,
+    "pctDlyQtToTradedQty": 74.52,
+    "symbol": "CASTROLIND"
   }
 ]

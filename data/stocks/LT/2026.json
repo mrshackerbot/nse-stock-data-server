@@ -2514,5 +2514,21 @@
     "deliverableQty": 539650,
     "deliverablePercent": 59.88,
     "symbol": "LT"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 4056,
+    "open": 4055.7,
+    "high": 4080,
+    "low": 4025.8,
+    "lastPrice": 4080,
+    "close": 4080,
+    "avgPrice": 4060.58,
+    "volume": 1082855,
+    "turnover": 4397015623,
+    "noOfTrades": 73565,
+    "deliverableQty": 628745,
+    "pctDlyQtToTradedQty": 58.06,
+    "symbol": "LT"
   }
 ]

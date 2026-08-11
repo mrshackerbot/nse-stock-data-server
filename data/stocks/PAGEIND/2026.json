@@ -2514,5 +2514,21 @@
     "deliverableQty": 5789,
     "deliverablePercent": 53.75,
     "symbol": "PAGEIND"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 39900,
+    "open": 40270,
+    "high": 40270,
+    "low": 38365,
+    "lastPrice": 38660,
+    "close": 38660,
+    "avgPrice": 39038.96,
+    "volume": 27264,
+    "turnover": 1064358285,
+    "noOfTrades": 12362,
+    "deliverableQty": 12585,
+    "pctDlyQtToTradedQty": 46.16,
+    "symbol": "PAGEIND"
   }
 ]

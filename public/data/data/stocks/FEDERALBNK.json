@@ -23594,5 +23594,21 @@
     "deliverableQty": 2715352,
     "deliverablePercent": 55.14,
     "symbol": "FEDERALBNK"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 356.25,
+    "open": 357,
+    "high": 358.6,
+    "low": 353.95,
+    "lastPrice": 358.35,
+    "close": 358.35,
+    "avgPrice": 355.25,
+    "volume": 2848547,
+    "turnover": 1011938409.6,
+    "noOfTrades": 76528,
+    "deliverableQty": 1794980,
+    "pctDlyQtToTradedQty": 63.01,
+    "symbol": "FEDERALBNK"
   }
 ]

@@ -22523,5 +22523,21 @@
     "deliverableQty": 808877,
     "deliverablePercent": 54.77,
     "symbol": "PNBHOUSING"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1143,
+    "open": 1143.1,
+    "high": 1174.8,
+    "low": 1137.6,
+    "lastPrice": 1149.3,
+    "close": 1149.3,
+    "avgPrice": 1160.52,
+    "volume": 1199167,
+    "turnover": 1391657174.9,
+    "noOfTrades": 39855,
+    "deliverableQty": 523766,
+    "pctDlyQtToTradedQty": 43.68,
+    "symbol": "PNBHOUSING"
   }
 ]

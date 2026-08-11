@@ -2514,5 +2514,21 @@
     "deliverableQty": 111809,
     "deliverablePercent": 42.55,
     "symbol": "CUMMINSIND"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 5426,
+    "open": 5480,
+    "high": 5486,
+    "low": 5393.5,
+    "lastPrice": 5448,
+    "close": 5448,
+    "avgPrice": 5435.5,
+    "volume": 225721,
+    "turnover": 1226907182,
+    "noOfTrades": 24806,
+    "deliverableQty": 123474,
+    "pctDlyQtToTradedQty": 54.7,
+    "symbol": "CUMMINSIND"
   }
 ]

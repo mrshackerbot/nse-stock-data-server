@@ -2514,5 +2514,21 @@
     "deliverableQty": 3915449,
     "deliverablePercent": 55.04,
     "symbol": "GMRAIRPORT"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 107.2,
+    "open": 107.62,
+    "high": 107.62,
+    "low": 105.77,
+    "lastPrice": 106.3,
+    "close": 106.3,
+    "avgPrice": 106.51,
+    "volume": 4292976,
+    "turnover": 457237251.04,
+    "noOfTrades": 32368,
+    "deliverableQty": 2253059,
+    "pctDlyQtToTradedQty": 52.48,
+    "symbol": "GMRAIRPORT"
   }
 ]

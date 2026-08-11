@@ -2514,5 +2514,21 @@
     "deliverableQty": 41614,
     "deliverablePercent": 41.62,
     "symbol": "UBL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1400.3,
+    "open": 1401.8,
+    "high": 1404.8,
+    "low": 1378.5,
+    "lastPrice": 1381,
+    "close": 1382.8,
+    "avgPrice": 1384.45,
+    "volume": 64533,
+    "turnover": 89342488.6,
+    "noOfTrades": 6916,
+    "deliverableQty": 31524,
+    "pctDlyQtToTradedQty": 48.85,
+    "symbol": "UBL"
   }
 ]

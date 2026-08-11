@@ -2514,5 +2514,21 @@
     "deliverableQty": 29122,
     "deliverablePercent": 10.15,
     "symbol": "SIGNATURE"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 802.3,
+    "open": 810,
+    "high": 835.9,
+    "low": 802.3,
+    "lastPrice": 827,
+    "close": 824.65,
+    "avgPrice": 826.33,
+    "volume": 350490,
+    "turnover": 289618690.35,
+    "noOfTrades": 11780,
+    "deliverableQty": 33387,
+    "pctDlyQtToTradedQty": 9.53,
+    "symbol": "SIGNATURE"
   }
 ]

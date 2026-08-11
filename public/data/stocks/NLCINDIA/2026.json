@@ -2514,5 +2514,21 @@
     "deliverableQty": 843274,
     "deliverablePercent": 55.09,
     "symbol": "NLCINDIA"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 304.4,
+    "open": 289.1,
+    "high": 291.3,
+    "low": 282.25,
+    "lastPrice": 285.3,
+    "close": 285.35,
+    "avgPrice": 286.73,
+    "volume": 8428275,
+    "turnover": 2416608549.45,
+    "noOfTrades": 139983,
+    "deliverableQty": 3959320,
+    "pctDlyQtToTradedQty": 46.98,
+    "symbol": "NLCINDIA"
   }
 ]

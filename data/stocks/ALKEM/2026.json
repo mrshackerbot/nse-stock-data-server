@@ -2514,5 +2514,21 @@
     "deliverableQty": 24114,
     "deliverablePercent": 31.66,
     "symbol": "ALKEM"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 5620,
+    "open": 5624,
+    "high": 5700,
+    "low": 5528.5,
+    "lastPrice": 5598.5,
+    "close": 5598.5,
+    "avgPrice": 5601.7,
+    "volume": 82544,
+    "turnover": 462387004,
+    "noOfTrades": 15642,
+    "deliverableQty": 43651,
+    "pctDlyQtToTradedQty": 52.88,
+    "symbol": "ALKEM"
   }
 ]

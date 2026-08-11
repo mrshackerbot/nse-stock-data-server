@@ -2514,5 +2514,21 @@
     "deliverableQty": 130545,
     "deliverablePercent": 74.74,
     "symbol": "HOMEFIRST"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1193.8,
+    "open": 1194,
+    "high": 1199.6,
+    "low": 1177.3,
+    "lastPrice": 1184,
+    "close": 1181.6,
+    "avgPrice": 1187.32,
+    "volume": 80861,
+    "turnover": 96007839.7,
+    "noOfTrades": 7552,
+    "deliverableQty": 46625,
+    "pctDlyQtToTradedQty": 57.66,
+    "symbol": "HOMEFIRST"
   }
 ]

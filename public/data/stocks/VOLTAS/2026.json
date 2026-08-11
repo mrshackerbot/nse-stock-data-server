@@ -2514,5 +2514,21 @@
     "deliverableQty": 307280,
     "deliverablePercent": 37.84,
     "symbol": "VOLTAS"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1285,
+    "open": 1286,
+    "high": 1294,
+    "low": 1265.8,
+    "lastPrice": 1267.9,
+    "close": 1267.9,
+    "avgPrice": 1272.44,
+    "volume": 544896,
+    "turnover": 693346364.3,
+    "noOfTrades": 26347,
+    "deliverableQty": 245171,
+    "pctDlyQtToTradedQty": 44.99,
+    "symbol": "VOLTAS"
   }
 ]

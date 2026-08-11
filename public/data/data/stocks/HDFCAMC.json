@@ -23594,5 +23594,21 @@
     "deliverableQty": 173062,
     "deliverablePercent": 55.81,
     "symbol": "HDFCAMC"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 2545,
+    "open": 2545,
+    "high": 2574.9,
+    "low": 2525.6,
+    "lastPrice": 2560,
+    "close": 2560,
+    "avgPrice": 2553.32,
+    "volume": 389795,
+    "turnover": 995270595.6,
+    "noOfTrades": 30455,
+    "deliverableQty": 189541,
+    "pctDlyQtToTradedQty": 48.63,
+    "symbol": "HDFCAMC"
   }
 ]

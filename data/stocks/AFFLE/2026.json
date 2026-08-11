@@ -2514,5 +2514,21 @@
     "deliverableQty": 144369,
     "deliverablePercent": 46.45,
     "symbol": "AFFLE"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1645.6,
+    "open": 1640,
+    "high": 1683.1,
+    "low": 1578,
+    "lastPrice": 1598,
+    "close": 1594.5,
+    "avgPrice": 1631.42,
+    "volume": 389059,
+    "turnover": 634717210.1,
+    "noOfTrades": 39499,
+    "deliverableQty": 132653,
+    "pctDlyQtToTradedQty": 34.1,
+    "symbol": "AFFLE"
   }
 ]

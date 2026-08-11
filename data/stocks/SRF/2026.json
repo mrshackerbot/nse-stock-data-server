@@ -2514,5 +2514,21 @@
     "deliverableQty": 168658,
     "deliverablePercent": 64.33,
     "symbol": "SRF"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 2615,
+    "open": 2625,
+    "high": 2628.1,
+    "low": 2593.3,
+    "lastPrice": 2610,
+    "close": 2610,
+    "avgPrice": 2606.79,
+    "volume": 563401,
+    "turnover": 1468667504,
+    "noOfTrades": 26169,
+    "deliverableQty": 341035,
+    "pctDlyQtToTradedQty": 60.53,
+    "symbol": "SRF"
   }
 ]

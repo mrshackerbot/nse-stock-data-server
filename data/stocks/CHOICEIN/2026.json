@@ -2514,5 +2514,21 @@
     "deliverableQty": 185380,
     "deliverablePercent": 26.68,
     "symbol": "CHOICEIN"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 841.15,
+    "open": 843.8,
+    "high": 850,
+    "low": 837.55,
+    "lastPrice": 842,
+    "close": 844.75,
+    "avgPrice": 844.35,
+    "volume": 488129,
+    "turnover": 412151315.3,
+    "noOfTrades": 11902,
+    "deliverableQty": 142749,
+    "pctDlyQtToTradedQty": 29.24,
+    "symbol": "CHOICEIN"
   }
 ]

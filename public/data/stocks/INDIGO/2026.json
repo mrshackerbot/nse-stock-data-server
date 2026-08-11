@@ -2514,5 +2514,21 @@
     "deliverableQty": 179756,
     "deliverablePercent": 41.58,
     "symbol": "INDIGO"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 5333,
+    "open": 5305,
+    "high": 5355,
+    "low": 5297,
+    "lastPrice": 5333.5,
+    "close": 5333.5,
+    "avgPrice": 5330.21,
+    "volume": 351196,
+    "turnover": 1871946870.5,
+    "noOfTrades": 35215,
+    "deliverableQty": 203180,
+    "pctDlyQtToTradedQty": 57.85,
+    "symbol": "INDIGO"
   }
 ]

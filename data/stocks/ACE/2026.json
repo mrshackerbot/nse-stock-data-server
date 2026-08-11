@@ -2514,5 +2514,21 @@
     "deliverableQty": 111415,
     "deliverablePercent": 47.5,
     "symbol": "ACE"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1094.3,
+    "open": 1094.3,
+    "high": 1119.2,
+    "low": 1076.8,
+    "lastPrice": 1115.5,
+    "close": 1113.6,
+    "avgPrice": 1101.62,
+    "volume": 305682,
+    "turnover": 336745610.6,
+    "noOfTrades": 19796,
+    "deliverableQty": 114630,
+    "pctDlyQtToTradedQty": 37.5,
+    "symbol": "ACE"
   }
 ]

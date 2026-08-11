@@ -2514,5 +2514,21 @@
     "deliverableQty": 1882675,
     "deliverablePercent": 65.72,
     "symbol": "LEMONTREE"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 111.01,
+    "open": 111,
+    "high": 111,
+    "low": 106.51,
+    "lastPrice": 108.15,
+    "close": 107.94,
+    "avgPrice": 107.76,
+    "volume": 5557136,
+    "turnover": 598823230.01,
+    "noOfTrades": 48567,
+    "deliverableQty": 3024680,
+    "pctDlyQtToTradedQty": 54.43,
+    "symbol": "LEMONTREE"
   }
 ]

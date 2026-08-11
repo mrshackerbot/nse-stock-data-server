@@ -2939,5 +2939,21 @@
     "deliverableQty": 3901148,
     "deliverablePercent": 56.78,
     "symbol": "TMCV"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 453.1,
+    "open": 453,
+    "high": 460.8,
+    "low": 448.3,
+    "lastPrice": 449,
+    "close": 450.2,
+    "avgPrice": 454.98,
+    "volume": 5718957,
+    "turnover": 2602015388.55,
+    "noOfTrades": 75819,
+    "deliverableQty": 2626018,
+    "pctDlyQtToTradedQty": 45.92,
+    "symbol": "TMCV"
   }
 ]

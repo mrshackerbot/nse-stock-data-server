@@ -2514,5 +2514,21 @@
     "deliverableQty": 1219479,
     "deliverablePercent": 43.79,
     "symbol": "CGCL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 230.25,
+    "open": 230.25,
+    "high": 234.25,
+    "low": 227.55,
+    "lastPrice": 232.4,
+    "close": 232.39,
+    "avgPrice": 232,
+    "volume": 2049075,
+    "turnover": 475378805.43,
+    "noOfTrades": 26556,
+    "deliverableQty": 610849,
+    "pctDlyQtToTradedQty": 29.81,
+    "symbol": "CGCL"
   }
 ]

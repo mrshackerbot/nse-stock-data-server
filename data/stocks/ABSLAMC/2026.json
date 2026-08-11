@@ -2514,5 +2514,21 @@
     "deliverableQty": 114775,
     "deliverablePercent": 57.78,
     "symbol": "ABSLAMC"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1025.3,
+    "open": 1025.4,
+    "high": 1028.4,
+    "low": 1000.3,
+    "lastPrice": 1013,
+    "close": 1011.8,
+    "avgPrice": 1011.87,
+    "volume": 352784,
+    "turnover": 356970111.6,
+    "noOfTrades": 18629,
+    "deliverableQty": 234260,
+    "pctDlyQtToTradedQty": 66.4,
+    "symbol": "ABSLAMC"
   }
 ]

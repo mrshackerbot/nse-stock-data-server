@@ -2514,5 +2514,21 @@
     "deliverableQty": 153335,
     "deliverablePercent": 29.42,
     "symbol": "CARBORUNIV"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1097,
+    "open": 1114.8,
+    "high": 1138.6,
+    "low": 1077.7,
+    "lastPrice": 1120,
+    "close": 1121,
+    "avgPrice": 1116.84,
+    "volume": 369878,
+    "turnover": 413094816.8,
+    "noOfTrades": 29901,
+    "deliverableQty": 143209,
+    "pctDlyQtToTradedQty": 38.72,
+    "symbol": "CARBORUNIV"
   }
 ]

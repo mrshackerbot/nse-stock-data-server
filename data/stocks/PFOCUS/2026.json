@@ -1766,5 +1766,21 @@
     "deliverableQty": 459081,
     "deliverablePercent": 41.67,
     "symbol": "PFOCUS"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 287.6,
+    "open": 287.6,
+    "high": 289.65,
+    "low": 281,
+    "lastPrice": 282,
+    "close": 283.05,
+    "avgPrice": 285.29,
+    "volume": 335068,
+    "turnover": 95593167.4,
+    "noOfTrades": 9488,
+    "deliverableQty": 174468,
+    "pctDlyQtToTradedQty": 52.07,
+    "symbol": "PFOCUS"
   }
 ]

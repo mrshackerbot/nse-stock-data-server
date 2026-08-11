@@ -20517,5 +20517,21 @@
     "deliverableQty": 205885,
     "deliverablePercent": 47.47,
     "symbol": "JWL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 260,
+    "open": 261.5,
+    "high": 262.5,
+    "low": 257,
+    "lastPrice": 257.6,
+    "close": 257.4,
+    "avgPrice": 258.57,
+    "volume": 417264,
+    "turnover": 107893024.7,
+    "noOfTrades": 10328,
+    "deliverableQty": 176095,
+    "pctDlyQtToTradedQty": 42.2,
+    "symbol": "JWL"
   }
 ]

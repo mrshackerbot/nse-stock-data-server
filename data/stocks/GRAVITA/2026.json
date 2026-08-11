@@ -2514,5 +2514,21 @@
     "deliverableQty": 72212,
     "deliverablePercent": 56.42,
     "symbol": "GRAVITA"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1732.1,
+    "open": 1746,
+    "high": 1793.1,
+    "low": 1737,
+    "lastPrice": 1783,
+    "close": 1783.5,
+    "avgPrice": 1771.5,
+    "volume": 283229,
+    "turnover": 501741193.5,
+    "noOfTrades": 24048,
+    "deliverableQty": 151965,
+    "pctDlyQtToTradedQty": 53.65,
+    "symbol": "GRAVITA"
   }
 ]

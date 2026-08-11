@@ -2514,5 +2514,21 @@
     "deliverableQty": 170038,
     "deliverablePercent": 15.89,
     "symbol": "AIIL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 596.6,
+    "open": 596.55,
+    "high": 596.55,
+    "low": 582.85,
+    "lastPrice": 588.45,
+    "close": 586.2,
+    "avgPrice": 587.65,
+    "volume": 184819,
+    "turnover": 108609605.45,
+    "noOfTrades": 7694,
+    "deliverableQty": 54987,
+    "pctDlyQtToTradedQty": 29.75,
+    "symbol": "AIIL"
   }
 ]

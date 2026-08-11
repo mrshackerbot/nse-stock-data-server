@@ -23594,5 +23594,21 @@
     "deliverableQty": 100263,
     "deliverablePercent": 44.96,
     "symbol": "COLPAL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 2030,
+    "open": 2028.5,
+    "high": 2031.2,
+    "low": 2005.7,
+    "lastPrice": 2019.5,
+    "close": 2019.5,
+    "avgPrice": 2015.1,
+    "volume": 212214,
+    "turnover": 427632192.7,
+    "noOfTrades": 25750,
+    "deliverableQty": 130235,
+    "pctDlyQtToTradedQty": 61.37,
+    "symbol": "COLPAL"
   }
 ]

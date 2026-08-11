@@ -2514,5 +2514,21 @@
     "deliverableQty": 859931,
     "deliverablePercent": 42.01,
     "symbol": "LUPIN"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 2363.5,
+    "open": 2360,
+    "high": 2362.8,
+    "low": 2235,
+    "lastPrice": 2300,
+    "close": 2300,
+    "avgPrice": 2273.03,
+    "volume": 3762236,
+    "turnover": 8551665512.1,
+    "noOfTrades": 148066,
+    "deliverableQty": 1976588,
+    "pctDlyQtToTradedQty": 52.54,
+    "symbol": "LUPIN"
   }
 ]

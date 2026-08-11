@@ -2514,5 +2514,21 @@
     "deliverableQty": 6544404,
     "deliverablePercent": 60.61,
     "symbol": "BEL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 401,
+    "open": 402,
+    "high": 405.65,
+    "low": 399.25,
+    "lastPrice": 404.35,
+    "close": 404.35,
+    "avgPrice": 402.78,
+    "volume": 7836426,
+    "turnover": 3156316792.35,
+    "noOfTrades": 99035,
+    "deliverableQty": 4411107,
+    "pctDlyQtToTradedQty": 56.29,
+    "symbol": "BEL"
   }
 ]

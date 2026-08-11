@@ -23594,5 +23594,21 @@
     "deliverableQty": 3000,
     "deliverablePercent": 75.45,
     "symbol": "3MINDIA"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 36035,
+    "open": 36280,
+    "high": 36370,
+    "low": 35665,
+    "lastPrice": 35860,
+    "close": 35900,
+    "avgPrice": 36056.2,
+    "volume": 2056,
+    "turnover": 74131545,
+    "noOfTrades": 1126,
+    "deliverableQty": 1084,
+    "pctDlyQtToTradedQty": 52.72,
+    "symbol": "3MINDIA"
   }
 ]

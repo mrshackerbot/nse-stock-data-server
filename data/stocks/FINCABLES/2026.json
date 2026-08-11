@@ -2514,5 +2514,21 @@
     "deliverableQty": 83477,
     "deliverablePercent": 45.83,
     "symbol": "FINCABLES"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1024.65,
+    "open": 1024.65,
+    "high": 1068,
+    "low": 1010.45,
+    "lastPrice": 1059.5,
+    "close": 1058.05,
+    "avgPrice": 1054.23,
+    "volume": 596060,
+    "turnover": 628386353.7,
+    "noOfTrades": 36642,
+    "deliverableQty": 233537,
+    "pctDlyQtToTradedQty": 39.18,
+    "symbol": "FINCABLES"
   }
 ]

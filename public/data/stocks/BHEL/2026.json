@@ -2514,5 +2514,21 @@
     "deliverableQty": 3260486,
     "deliverablePercent": 33.43,
     "symbol": "BHEL"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 405.2,
+    "open": 404.75,
+    "high": 409.45,
+    "low": 400.2,
+    "lastPrice": 409,
+    "close": 409,
+    "avgPrice": 405.77,
+    "volume": 4506602,
+    "turnover": 1828661995.4,
+    "noOfTrades": 51646,
+    "deliverableQty": 1549046,
+    "pctDlyQtToTradedQty": 34.37,
+    "symbol": "BHEL"
   }
 ]

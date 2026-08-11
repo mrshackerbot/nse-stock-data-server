@@ -2514,5 +2514,21 @@
     "deliverableQty": 158000,
     "deliverablePercent": 55.01,
     "symbol": "RHIM"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 412.8,
+    "open": 414,
+    "high": 433,
+    "low": 409,
+    "lastPrice": 424,
+    "close": 423.35,
+    "avgPrice": 425.04,
+    "volume": 1616387,
+    "turnover": 687029124.15,
+    "noOfTrades": 30613,
+    "deliverableQty": 656137,
+    "pctDlyQtToTradedQty": 40.59,
+    "symbol": "RHIM"
   }
 ]

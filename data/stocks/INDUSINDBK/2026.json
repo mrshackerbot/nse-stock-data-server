@@ -2514,5 +2514,21 @@
     "deliverableQty": 985644,
     "deliverablePercent": 57.06,
     "symbol": "INDUSINDBK"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1022,
+    "open": 1022,
+    "high": 1028,
+    "low": 1012,
+    "lastPrice": 1027.3,
+    "close": 1027.3,
+    "avgPrice": 1020.85,
+    "volume": 1042293,
+    "turnover": 1064029031.9,
+    "noOfTrades": 31561,
+    "deliverableQty": 485792,
+    "pctDlyQtToTradedQty": 46.61,
+    "symbol": "INDUSINDBK"
   }
 ]

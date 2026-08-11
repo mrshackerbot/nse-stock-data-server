@@ -23594,5 +23594,21 @@
     "deliverableQty": 55464,
     "deliverablePercent": 26.4,
     "symbol": "AMBER"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 7435,
+    "open": 7425,
+    "high": 7427.5,
+    "low": 7001,
+    "lastPrice": 7095,
+    "close": 7095,
+    "avgPrice": 7152.5,
+    "volume": 718169,
+    "turnover": 5136703247,
+    "noOfTrades": 73130,
+    "deliverableQty": 307303,
+    "pctDlyQtToTradedQty": 42.79,
+    "symbol": "AMBER"
   }
 ]

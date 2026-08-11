@@ -2514,5 +2514,21 @@
     "deliverableQty": 125562,
     "deliverablePercent": 53.78,
     "symbol": "NH"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 1885.1,
+    "open": 1893.8,
+    "high": 1898.9,
+    "low": 1830,
+    "lastPrice": 1840.9,
+    "close": 1834.6,
+    "avgPrice": 1851.04,
+    "volume": 564971,
+    "turnover": 1045781230.2,
+    "noOfTrades": 60907,
+    "deliverableQty": 379455,
+    "pctDlyQtToTradedQty": 67.16,
+    "symbol": "NH"
   }
 ]

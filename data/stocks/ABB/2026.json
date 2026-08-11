@@ -2514,5 +2514,21 @@
     "deliverableQty": 62722,
     "deliverablePercent": 34.98,
     "symbol": "ABB"
+  },
+  {
+    "date": "10-Aug-2026",
+    "prevClose": 7600,
+    "open": 7639.5,
+    "high": 7723.5,
+    "low": 7535,
+    "lastPrice": 7649.5,
+    "close": 7649.5,
+    "avgPrice": 7636.55,
+    "volume": 202217,
+    "turnover": 1544240864,
+    "noOfTrades": 25518,
+    "deliverableQty": 73185,
+    "pctDlyQtToTradedQty": 36.19,
+    "symbol": "ABB"
   }
 ]
