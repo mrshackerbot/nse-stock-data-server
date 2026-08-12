@@ -2530,5 +2530,21 @@
     "deliverableQty": 10875,
     "pctDlyQtToTradedQty": 51.71,
     "symbol": "BLUEDART"
+  },
+  {
+    "date": "11-Aug-2026",
+    "prevClose": 5190.5,
+    "open": 5210,
+    "high": 5210,
+    "low": 5081,
+    "lastPrice": 5090,
+    "close": 5092.5,
+    "avgPrice": 5125.6,
+    "volume": 9794,
+    "turnover": 50200092.5,
+    "noOfTrades": 3006,
+    "deliverableQty": 5528,
+    "pctDlyQtToTradedQty": 56.44,
+    "symbol": "BLUEDART"
   }
 ]

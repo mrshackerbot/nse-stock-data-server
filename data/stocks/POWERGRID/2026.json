@@ -2530,5 +2530,21 @@
     "deliverableQty": 5306581,
     "pctDlyQtToTradedQty": 63.71,
     "symbol": "POWERGRID"
+  },
+  {
+    "date": "11-Aug-2026",
+    "prevClose": 270.1,
+    "open": 270,
+    "high": 270.8,
+    "low": 266.65,
+    "lastPrice": 267.95,
+    "close": 267.95,
+    "avgPrice": 267.88,
+    "volume": 7553241,
+    "turnover": 2023384872.25,
+    "noOfTrades": 59015,
+    "deliverableQty": 4658025,
+    "pctDlyQtToTradedQty": 61.67,
+    "symbol": "POWERGRID"
   }
 ]

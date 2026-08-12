@@ -2530,5 +2530,21 @@
     "deliverableQty": 3010008,
     "pctDlyQtToTradedQty": 45.94,
     "symbol": "BANKINDIA"
+  },
+  {
+    "date": "11-Aug-2026",
+    "prevClose": 141,
+    "open": 141,
+    "high": 143.09,
+    "low": 139.37,
+    "lastPrice": 142.9,
+    "close": 142.9,
+    "avgPrice": 141.6,
+    "volume": 6783716,
+    "turnover": 960540658.23,
+    "noOfTrades": 32943,
+    "deliverableQty": 3192565,
+    "pctDlyQtToTradedQty": 47.06,
+    "symbol": "BANKINDIA"
   }
 ]

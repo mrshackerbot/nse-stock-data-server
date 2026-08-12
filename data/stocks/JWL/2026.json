@@ -2530,5 +2530,21 @@
     "deliverableQty": 176095,
     "pctDlyQtToTradedQty": 42.2,
     "symbol": "JWL"
+  },
+  {
+    "date": "11-Aug-2026",
+    "prevClose": 257.4,
+    "open": 262.35,
+    "high": 268.95,
+    "low": 260.8,
+    "lastPrice": 261.55,
+    "close": 262.4,
+    "avgPrice": 264.63,
+    "volume": 2774010,
+    "turnover": 734096183,
+    "noOfTrades": 33024,
+    "deliverableQty": 570431,
+    "pctDlyQtToTradedQty": 20.56,
+    "symbol": "JWL"
   }
 ]

@@ -2530,5 +2530,21 @@
     "deliverableQty": 42200,
     "pctDlyQtToTradedQty": 45.81,
     "symbol": "TRAVELFOOD"
+  },
+  {
+    "date": "11-Aug-2026",
+    "prevClose": 1396.9,
+    "open": 1396.9,
+    "high": 1415.1,
+    "low": 1372.6,
+    "lastPrice": 1393,
+    "close": 1389,
+    "avgPrice": 1393.91,
+    "volume": 81962,
+    "turnover": 114248012.9,
+    "noOfTrades": 10674,
+    "deliverableQty": 43316,
+    "pctDlyQtToTradedQty": 52.85,
+    "symbol": "TRAVELFOOD"
   }
 ]

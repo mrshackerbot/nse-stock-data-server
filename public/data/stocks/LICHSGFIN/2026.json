@@ -2530,5 +2530,21 @@
     "deliverableQty": 777901,
     "pctDlyQtToTradedQty": 56.02,
     "symbol": "LICHSGFIN"
+  },
+  {
+    "date": "11-Aug-2026",
+    "prevClose": 500,
+    "open": 502,
+    "high": 504.6,
+    "low": 499.2,
+    "lastPrice": 502,
+    "close": 502,
+    "avgPrice": 501.88,
+    "volume": 1493009,
+    "turnover": 749311786.3,
+    "noOfTrades": 38730,
+    "deliverableQty": 903791,
+    "pctDlyQtToTradedQty": 60.53,
+    "symbol": "LICHSGFIN"
   }
 ]

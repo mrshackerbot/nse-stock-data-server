@@ -2530,5 +2530,21 @@
     "deliverableQty": 1231512,
     "pctDlyQtToTradedQty": 46.95,
     "symbol": "COFORGE"
+  },
+  {
+    "date": "11-Aug-2026",
+    "prevClose": 1810,
+    "open": 1820,
+    "high": 1836,
+    "low": 1809.8,
+    "lastPrice": 1819,
+    "close": 1819,
+    "avgPrice": 1822.73,
+    "volume": 1694152,
+    "turnover": 3087974755.9,
+    "noOfTrades": 50304,
+    "deliverableQty": 739206,
+    "pctDlyQtToTradedQty": 43.63,
+    "symbol": "COFORGE"
   }
 ]
