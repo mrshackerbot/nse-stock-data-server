@@ -2546,5 +2546,21 @@
     "deliverableQty": 131603,
     "pctDlyQtToTradedQty": 57.61,
     "symbol": "ASTRAL"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 1424.9,
+    "open": 1431.9,
+    "high": 1464,
+    "low": 1425.7,
+    "lastPrice": 1464,
+    "close": 1464,
+    "avgPrice": 1445.85,
+    "volume": 398896,
+    "turnover": 576744345.5,
+    "noOfTrades": 25701,
+    "deliverableQty": 153140,
+    "pctDlyQtToTradedQty": 38.39,
+    "symbol": "ASTRAL"
   }
 ]

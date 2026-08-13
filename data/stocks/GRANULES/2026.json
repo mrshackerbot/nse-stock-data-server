@@ -2546,5 +2546,21 @@
     "deliverableQty": 170328,
     "pctDlyQtToTradedQty": 45.15,
     "symbol": "GRANULES"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 861,
+    "open": 857.5,
+    "high": 870,
+    "low": 854.4,
+    "lastPrice": 862.5,
+    "close": 864.8,
+    "avgPrice": 862.5,
+    "volume": 283049,
+    "turnover": 244130651.8,
+    "noOfTrades": 13348,
+    "deliverableQty": 171662,
+    "pctDlyQtToTradedQty": 60.65,
+    "symbol": "GRANULES"
   }
 ]

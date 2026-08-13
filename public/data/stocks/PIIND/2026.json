@@ -2546,5 +2546,21 @@
     "deliverableQty": 112912,
     "pctDlyQtToTradedQty": 50.87,
     "symbol": "PIIND"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 2730,
+    "open": 2700.5,
+    "high": 2700.6,
+    "low": 2457,
+    "lastPrice": 2483,
+    "close": 2483,
+    "avgPrice": 2549.85,
+    "volume": 2138051,
+    "turnover": 5451712937.5,
+    "noOfTrades": 118397,
+    "deliverableQty": 662122,
+    "pctDlyQtToTradedQty": 30.97,
+    "symbol": "PIIND"
   }
 ]

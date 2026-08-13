@@ -2546,5 +2546,21 @@
     "deliverableQty": 135538,
     "pctDlyQtToTradedQty": 61.18,
     "symbol": "IGIL"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 347.2,
+    "open": 351.5,
+    "high": 351.95,
+    "low": 339.9,
+    "lastPrice": 345,
+    "close": 343.25,
+    "avgPrice": 343.23,
+    "volume": 301469,
+    "turnover": 103471698.25,
+    "noOfTrades": 13799,
+    "deliverableQty": 178049,
+    "pctDlyQtToTradedQty": 59.06,
+    "symbol": "IGIL"
   }
 ]

@@ -2546,5 +2546,21 @@
     "deliverableQty": 180550,
     "pctDlyQtToTradedQty": 55.11,
     "symbol": "JSL"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 725.1,
+    "open": 728,
+    "high": 742.2,
+    "low": 712.5,
+    "lastPrice": 739.95,
+    "close": 737.9,
+    "avgPrice": 728.33,
+    "volume": 486337,
+    "turnover": 354215485.05,
+    "noOfTrades": 27146,
+    "deliverableQty": 264818,
+    "pctDlyQtToTradedQty": 54.45,
+    "symbol": "JSL"
   }
 ]

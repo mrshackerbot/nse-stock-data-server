@@ -2546,5 +2546,21 @@
     "deliverableQty": 4877924,
     "pctDlyQtToTradedQty": 41.46,
     "symbol": "CANBK"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 130.3,
+    "open": 130,
+    "high": 133.11,
+    "low": 129.6,
+    "lastPrice": 132,
+    "close": 132,
+    "avgPrice": 131.88,
+    "volume": 26542679,
+    "turnover": 3500484815.75,
+    "noOfTrades": 89675,
+    "deliverableQty": 12142662,
+    "pctDlyQtToTradedQty": 45.75,
+    "symbol": "CANBK"
   }
 ]

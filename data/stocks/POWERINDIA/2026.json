@@ -2546,5 +2546,21 @@
     "deliverableQty": 72207,
     "pctDlyQtToTradedQty": 33.44,
     "symbol": "POWERINDIA"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 35000,
+    "open": 35000,
+    "high": 35925,
+    "low": 34730,
+    "lastPrice": 35800,
+    "close": 35800,
+    "avgPrice": 35504.26,
+    "volume": 180600,
+    "turnover": 6412068715,
+    "noOfTrades": 46650,
+    "deliverableQty": 75257,
+    "pctDlyQtToTradedQty": 41.67,
+    "symbol": "POWERINDIA"
   }
 ]

@@ -2546,5 +2546,21 @@
     "deliverableQty": 209730,
     "pctDlyQtToTradedQty": 63.04,
     "symbol": "BRITANNIA"
+  },
+  {
+    "date": "12-Aug-2026",
+    "prevClose": 5598,
+    "open": 5598,
+    "high": 5645.5,
+    "low": 5560,
+    "lastPrice": 5645.5,
+    "close": 5645.5,
+    "avgPrice": 5598.6,
+    "volume": 257865,
+    "turnover": 1443684230,
+    "noOfTrades": 19961,
+    "deliverableQty": 163288,
+    "pctDlyQtToTradedQty": 63.32,
+    "symbol": "BRITANNIA"
   }
 ]
