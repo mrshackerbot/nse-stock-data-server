@@ -2562,5 +2562,21 @@
     "deliverableQty": 1824,
     "pctDlyQtToTradedQty": 44.24,
     "symbol": "MRF"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 130785,
+    "open": 131100,
+    "high": 131345,
+    "low": 130500,
+    "lastPrice": 131000,
+    "close": 130985,
+    "avgPrice": 130995.92,
+    "volume": 2012,
+    "turnover": 263563795,
+    "noOfTrades": 1504,
+    "deliverableQty": 886,
+    "pctDlyQtToTradedQty": 44.04,
+    "symbol": "MRF"
   }
 ]

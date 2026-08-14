@@ -2562,5 +2562,21 @@
     "deliverableQty": 11041,
     "pctDlyQtToTradedQty": 6.42,
     "symbol": "SIGNATURE"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 807.95,
+    "open": 805,
+    "high": 809.5,
+    "low": 800,
+    "lastPrice": 800,
+    "close": 801.05,
+    "avgPrice": 806.01,
+    "volume": 171186,
+    "turnover": 137977927.05,
+    "noOfTrades": 3637,
+    "deliverableQty": 6085,
+    "pctDlyQtToTradedQty": 3.55,
+    "symbol": "SIGNATURE"
   }
 ]

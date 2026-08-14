@@ -23642,5 +23642,21 @@
     "deliverableQty": 1162044,
     "pctDlyQtToTradedQty": 36.4,
     "symbol": "IOB"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 33.84,
+    "open": 34,
+    "high": 34.1,
+    "low": 33.67,
+    "lastPrice": 33.7,
+    "close": 33.73,
+    "avgPrice": 33.83,
+    "volume": 1557352,
+    "turnover": 52681753.33,
+    "noOfTrades": 7030,
+    "deliverableQty": 899396,
+    "pctDlyQtToTradedQty": 57.75,
+    "symbol": "IOB"
   }
 ]

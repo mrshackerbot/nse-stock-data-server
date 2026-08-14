@@ -2562,5 +2562,21 @@
     "deliverableQty": 145185,
     "pctDlyQtToTradedQty": 60.24,
     "symbol": "THERMAX"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 4083.3,
+    "open": 4083,
+    "high": 4085.1,
+    "low": 3968.2,
+    "lastPrice": 4005,
+    "close": 4001.6,
+    "avgPrice": 4031.35,
+    "volume": 181948,
+    "turnover": 733496038.3,
+    "noOfTrades": 35834,
+    "deliverableQty": 93322,
+    "pctDlyQtToTradedQty": 51.29,
+    "symbol": "THERMAX"
   }
 ]

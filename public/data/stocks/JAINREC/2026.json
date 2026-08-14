@@ -2562,5 +2562,21 @@
     "deliverableQty": 329750,
     "pctDlyQtToTradedQty": 30.96,
     "symbol": "JAINREC"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 303,
+    "open": 303.95,
+    "high": 304.2,
+    "low": 298,
+    "lastPrice": 300.7,
+    "close": 301.45,
+    "avgPrice": 301.2,
+    "volume": 685752,
+    "turnover": 206547735.2,
+    "noOfTrades": 14288,
+    "deliverableQty": 283716,
+    "pctDlyQtToTradedQty": 41.37,
+    "symbol": "JAINREC"
   }
 ]

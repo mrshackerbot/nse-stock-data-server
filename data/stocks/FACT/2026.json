@@ -2562,5 +2562,21 @@
     "deliverableQty": 27249,
     "pctDlyQtToTradedQty": 52.1,
     "symbol": "FACT"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 819.55,
+    "open": 818,
+    "high": 831.75,
+    "low": 816,
+    "lastPrice": 819.95,
+    "close": 818.95,
+    "avgPrice": 822.24,
+    "volume": 46376,
+    "turnover": 38132414.9,
+    "noOfTrades": 3210,
+    "deliverableQty": 18382,
+    "pctDlyQtToTradedQty": 39.64,
+    "symbol": "FACT"
   }
 ]

@@ -2562,5 +2562,21 @@
     "deliverableQty": 9158226,
     "pctDlyQtToTradedQty": 48.36,
     "symbol": "SAIL"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 174,
+    "open": 173.7,
+    "high": 173.99,
+    "low": 167.25,
+    "lastPrice": 168.68,
+    "close": 168.68,
+    "avgPrice": 170.15,
+    "volume": 9635610,
+    "turnover": 1639482783.18,
+    "noOfTrades": 39448,
+    "deliverableQty": 4558419,
+    "pctDlyQtToTradedQty": 47.31,
+    "symbol": "SAIL"
   }
 ]

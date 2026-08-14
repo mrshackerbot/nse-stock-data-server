@@ -2562,5 +2562,21 @@
     "deliverableQty": 77354,
     "pctDlyQtToTradedQty": 53.23,
     "symbol": "VTL"
+  },
+  {
+    "date": "13-Aug-2026",
+    "prevClose": 591.9,
+    "open": 591.9,
+    "high": 594.8,
+    "low": 587.85,
+    "lastPrice": 590,
+    "close": 590.85,
+    "avgPrice": 591.84,
+    "volume": 95060,
+    "turnover": 56260350.4,
+    "noOfTrades": 9679,
+    "deliverableQty": 53914,
+    "pctDlyQtToTradedQty": 56.72,
+    "symbol": "VTL"
   }
 ]
