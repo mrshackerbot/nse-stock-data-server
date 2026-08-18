@@ -2578,5 +2578,21 @@
     "deliverableQty": 1021536,
     "pctDlyQtToTradedQty": 24.59,
     "symbol": "MRPL"
+  },
+  {
+    "date": "17-Aug-2026",
+    "prevClose": 170.54,
+    "open": 171,
+    "high": 177.77,
+    "low": 170.25,
+    "lastPrice": 177,
+    "close": 177.15,
+    "avgPrice": 174.28,
+    "volume": 10348625,
+    "turnover": 1803512295.31,
+    "noOfTrades": 55456,
+    "deliverableQty": 2106643,
+    "pctDlyQtToTradedQty": 20.36,
+    "symbol": "MRPL"
   }
 ]

@@ -23658,5 +23658,21 @@
     "deliverableQty": 5421196,
     "pctDlyQtToTradedQty": 65.48,
     "symbol": "RECLTD"
+  },
+  {
+    "date": "17-Aug-2026",
+    "prevClose": 335,
+    "open": 335.5,
+    "high": 340.2,
+    "low": 333.2,
+    "lastPrice": 340,
+    "close": 340,
+    "avgPrice": 336.88,
+    "volume": 5176231,
+    "turnover": 1743790412.9,
+    "noOfTrades": 29447,
+    "deliverableQty": 2666910,
+    "pctDlyQtToTradedQty": 51.52,
+    "symbol": "RECLTD"
   }
 ]

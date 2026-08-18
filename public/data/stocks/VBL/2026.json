@@ -2578,5 +2578,21 @@
     "deliverableQty": 1206645,
     "pctDlyQtToTradedQty": 59.89,
     "symbol": "VBL"
+  },
+  {
+    "date": "17-Aug-2026",
+    "prevClose": 435,
+    "open": 435.1,
+    "high": 438.8,
+    "low": 432.25,
+    "lastPrice": 433.85,
+    "close": 433.85,
+    "avgPrice": 436.26,
+    "volume": 2004001,
+    "turnover": 874258365.45,
+    "noOfTrades": 37081,
+    "deliverableQty": 1175372,
+    "pctDlyQtToTradedQty": 58.65,
+    "symbol": "VBL"
   }
 ]

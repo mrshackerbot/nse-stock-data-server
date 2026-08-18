@@ -2578,5 +2578,21 @@
     "deliverableQty": 566383,
     "pctDlyQtToTradedQty": 50.1,
     "symbol": "IEX"
+  },
+  {
+    "date": "17-Aug-2026",
+    "prevClose": 124.75,
+    "open": 124.75,
+    "high": 125.49,
+    "low": 123.78,
+    "lastPrice": 125.3,
+    "close": 125.3,
+    "avgPrice": 124.74,
+    "volume": 1388624,
+    "turnover": 173217819.18,
+    "noOfTrades": 17557,
+    "deliverableQty": 653629,
+    "pctDlyQtToTradedQty": 47.07,
+    "symbol": "IEX"
   }
 ]

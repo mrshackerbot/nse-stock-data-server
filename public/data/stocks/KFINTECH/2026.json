@@ -2578,5 +2578,21 @@
     "deliverableQty": 232162,
     "pctDlyQtToTradedQty": 56,
     "symbol": "KFINTECH"
+  },
+  {
+    "date": "17-Aug-2026",
+    "prevClose": 940,
+    "open": 945.2,
+    "high": 981.05,
+    "low": 925.7,
+    "lastPrice": 973,
+    "close": 973,
+    "avgPrice": 963.11,
+    "volume": 2105146,
+    "turnover": 2027480018.85,
+    "noOfTrades": 47508,
+    "deliverableQty": 806677,
+    "pctDlyQtToTradedQty": 38.32,
+    "symbol": "KFINTECH"
   }
 ]
