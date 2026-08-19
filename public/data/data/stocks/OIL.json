@@ -23674,5 +23674,21 @@
     "deliverableQty": 1375401,
     "pctDlyQtToTradedQty": 51.82,
     "symbol": "OIL"
+  },
+  {
+    "date": "18-Aug-2026",
+    "prevClose": 474.65,
+    "open": 480,
+    "high": 487.2,
+    "low": 478.7,
+    "lastPrice": 480.5,
+    "close": 480.5,
+    "avgPrice": 482.89,
+    "volume": 5000847,
+    "turnover": 2414841314.55,
+    "noOfTrades": 57053,
+    "deliverableQty": 1985933,
+    "pctDlyQtToTradedQty": 39.71,
+    "symbol": "OIL"
   }
 ]

@@ -2594,5 +2594,21 @@
     "deliverableQty": 3142269,
     "pctDlyQtToTradedQty": 42.82,
     "symbol": "TMPV"
+  },
+  {
+    "date": "18-Aug-2026",
+    "prevClose": 330.2,
+    "open": 330.5,
+    "high": 331.7,
+    "low": 322.8,
+    "lastPrice": 322.8,
+    "close": 322.8,
+    "avgPrice": 325.41,
+    "volume": 9865820,
+    "turnover": 3210448719.2,
+    "noOfTrades": 110618,
+    "deliverableQty": 5017707,
+    "pctDlyQtToTradedQty": 50.86,
+    "symbol": "TMPV"
   }
 ]

@@ -2594,5 +2594,21 @@
     "deliverableQty": 898493,
     "pctDlyQtToTradedQty": 43.26,
     "symbol": "BLS"
+  },
+  {
+    "date": "18-Aug-2026",
+    "prevClose": 272.56,
+    "open": 272.01,
+    "high": 277.76,
+    "low": 264.82,
+    "lastPrice": 268.2,
+    "close": 267.74,
+    "avgPrice": 270.99,
+    "volume": 1545928,
+    "turnover": 418930066.75,
+    "noOfTrades": 23712,
+    "deliverableQty": 712178,
+    "pctDlyQtToTradedQty": 46.07,
+    "symbol": "BLS"
   }
 ]
