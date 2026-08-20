@@ -2610,5 +2610,21 @@
     "deliverableQty": 124621,
     "pctDlyQtToTradedQty": 48.22,
     "symbol": "CARTRADE"
+  },
+  {
+    "date": "19-Aug-2026",
+    "prevClose": 2802.6,
+    "open": 2800,
+    "high": 2822.4,
+    "low": 2770,
+    "lastPrice": 2786,
+    "close": 2783.5,
+    "avgPrice": 2789.99,
+    "volume": 154924,
+    "turnover": 432236143.1,
+    "noOfTrades": 20901,
+    "deliverableQty": 80208,
+    "pctDlyQtToTradedQty": 51.77,
+    "symbol": "CARTRADE"
   }
 ]

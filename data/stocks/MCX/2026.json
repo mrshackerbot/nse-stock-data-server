@@ -2610,5 +2610,21 @@
     "deliverableQty": 1257872,
     "pctDlyQtToTradedQty": 39.46,
     "symbol": "MCX"
+  },
+  {
+    "date": "19-Aug-2026",
+    "prevClose": 3040,
+    "open": 3060,
+    "high": 3068,
+    "low": 2960.1,
+    "lastPrice": 2973,
+    "close": 2973,
+    "avgPrice": 3002.7,
+    "volume": 3238717,
+    "turnover": 9724885040.9,
+    "noOfTrades": 128936,
+    "deliverableQty": 1614065,
+    "pctDlyQtToTradedQty": 49.84,
+    "symbol": "MCX"
   }
 ]

@@ -2610,5 +2610,21 @@
     "deliverableQty": 123485,
     "pctDlyQtToTradedQty": 54.91,
     "symbol": "POLYMED"
+  },
+  {
+    "date": "19-Aug-2026",
+    "prevClose": 1784.7,
+    "open": 1785.1,
+    "high": 1814.9,
+    "low": 1755.2,
+    "lastPrice": 1769,
+    "close": 1770.3,
+    "avgPrice": 1786.41,
+    "volume": 100462,
+    "turnover": 179466560.1,
+    "noOfTrades": 12407,
+    "deliverableQty": 44863,
+    "pctDlyQtToTradedQty": 44.66,
+    "symbol": "POLYMED"
   }
 ]

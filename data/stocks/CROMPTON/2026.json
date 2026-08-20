@@ -2610,5 +2610,21 @@
     "deliverableQty": 512530,
     "pctDlyQtToTradedQty": 39.26,
     "symbol": "CROMPTON"
+  },
+  {
+    "date": "19-Aug-2026",
+    "prevClose": 244.8,
+    "open": 245,
+    "high": 247.1,
+    "low": 242.05,
+    "lastPrice": 245.5,
+    "close": 245.5,
+    "avgPrice": 244.61,
+    "volume": 2206730,
+    "turnover": 539782439.45,
+    "noOfTrades": 22915,
+    "deliverableQty": 1085016,
+    "pctDlyQtToTradedQty": 49.17,
+    "symbol": "CROMPTON"
   }
 ]

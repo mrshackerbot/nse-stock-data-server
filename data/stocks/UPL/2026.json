@@ -2610,5 +2610,21 @@
     "deliverableQty": 1182616,
     "pctDlyQtToTradedQty": 67.7,
     "symbol": "UPL"
+  },
+  {
+    "date": "19-Aug-2026",
+    "prevClose": 560.05,
+    "open": 559.2,
+    "high": 571.4,
+    "low": 557.95,
+    "lastPrice": 568,
+    "close": 568,
+    "avgPrice": 565.24,
+    "volume": 2733671,
+    "turnover": 1545170912.3,
+    "noOfTrades": 36706,
+    "deliverableQty": 1490283,
+    "pctDlyQtToTradedQty": 54.52,
+    "symbol": "UPL"
   }
 ]

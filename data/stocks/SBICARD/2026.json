@@ -2610,5 +2610,21 @@
     "deliverableQty": 1632326,
     "pctDlyQtToTradedQty": 58.93,
     "symbol": "SBICARD"
+  },
+  {
+    "date": "19-Aug-2026",
+    "prevClose": 615,
+    "open": 611,
+    "high": 627.15,
+    "low": 610,
+    "lastPrice": 623.65,
+    "close": 623.65,
+    "avgPrice": 619.77,
+    "volume": 2246351,
+    "turnover": 1392222459.45,
+    "noOfTrades": 59732,
+    "deliverableQty": 1334431,
+    "pctDlyQtToTradedQty": 59.4,
+    "symbol": "SBICARD"
   }
 ]
