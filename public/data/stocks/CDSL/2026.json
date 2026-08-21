@@ -2626,5 +2626,21 @@
     "deliverableQty": 225401,
     "pctDlyQtToTradedQty": 40.19,
     "symbol": "CDSL"
+  },
+  {
+    "date": "20-Aug-2026",
+    "prevClose": 1329,
+    "open": 1335,
+    "high": 1358,
+    "low": 1330.1,
+    "lastPrice": 1345.9,
+    "close": 1345.9,
+    "avgPrice": 1350.68,
+    "volume": 1113440,
+    "turnover": 1503902964.9,
+    "noOfTrades": 40150,
+    "deliverableQty": 477274,
+    "pctDlyQtToTradedQty": 42.86,
+    "symbol": "CDSL"
   }
 ]

@@ -2626,5 +2626,21 @@
     "deliverableQty": 1498057,
     "pctDlyQtToTradedQty": 60.01,
     "symbol": "FORTIS"
+  },
+  {
+    "date": "20-Aug-2026",
+    "prevClose": 911.3,
+    "open": 915,
+    "high": 920.95,
+    "low": 911.05,
+    "lastPrice": 916.8,
+    "close": 916.8,
+    "avgPrice": 916.78,
+    "volume": 654971,
+    "turnover": 600464613.45,
+    "noOfTrades": 22508,
+    "deliverableQty": 380581,
+    "pctDlyQtToTradedQty": 58.11,
+    "symbol": "FORTIS"
   }
 ]
