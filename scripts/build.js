@@ -1,6 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
-import { ensureDirectories, DATA_DIR, LATEST_DIR, METADATA_DIR, PUBLIC_DIR, PUBLIC_DATA_DIR, copyToPublic, readStockList, log } from './utils.js';
+import { ensureDirectories, DATA_DIR, LATEST_DIR, METADATA_DIR, PUBLIC_DIR, PUBLIC_DATA_DIR, copyToPublic, readStockList, log, cleanSymbol, formatSymbolForFilename } from './utils.js';
 
 async function buildStaticSite() {
   log('Building static site for GitHub Pages...');
@@ -21,9 +21,10 @@ async function buildStaticSite() {
   // Build flat JSON files from year subdirectories
   for (let i = 0; i < stocks.length; i++) {
     const symbol = stocks[i];
-    const cleanSym = symbol.replace(/[^a-zA-Z0-9]/g, '_');
-    const symbolDir = path.join(DATA_DIR, cleanSym);
-    const destPath = path.join(PUBLIC_DATA_DIR, 'stocks', `${cleanSym}.json`);
+    const dirName = cleanSymbol(symbol);
+    const fileName = formatSymbolForFilename(symbol);
+    const symbolDir = path.join(DATA_DIR, dirName);
+    const destPath = path.join(PUBLIC_DATA_DIR, 'stocks', `${fileName}.json`);
 
     try {
       const yearFiles = await fs.readdir(symbolDir);
@@ -62,8 +63,9 @@ async function buildStaticSite() {
   await fs.mkdir(path.join(PUBLIC_DATA_DIR, 'latest'), { recursive: true });
   let latestSuccessCount = 0;
   for (const symbol of stocks) {
-    const cleanSym = symbol.replace(/[^a-zA-Z0-9]/g, '_');
-    const symbolDir = path.join(DATA_DIR, cleanSym);
+    const dirName = cleanSymbol(symbol);
+    const fileName = formatSymbolForFilename(symbol);
+    const symbolDir = path.join(DATA_DIR, dirName);
     try {
       const yearFiles = await fs.readdir(symbolDir);
       let allData = [];
@@ -77,7 +79,7 @@ async function buildStaticSite() {
         allData.sort((a, b) => new Date(a.date) - new Date(b.date));
         const latestRecord = allData[allData.length - 1];
         await fs.writeFile(
-          path.join(PUBLIC_DATA_DIR, 'latest', `${cleanSym}.json`),
+          path.join(PUBLIC_DATA_DIR, 'latest', `${fileName}.json`),
           JSON.stringify(latestRecord, null, 2)
         );
         latestSuccessCount++;
@@ -86,9 +88,6 @@ async function buildStaticSite() {
       log(`✗ Error building latest for ${symbol}: ${err.message}`);
     }
   }
-
-  // Also copy data/latest to public data/latest
-  await copyToPublic();
 
   log(`\n✅ Build complete!`);
   log(`  ✓ Success: ${successCount} stocks`);
