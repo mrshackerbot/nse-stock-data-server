@@ -42,11 +42,6 @@ jobs:
             node scripts/fetchHistorical.js
           fi
 
-      - name: Sync missing data with daily update
-        run: |
-          echo "Running daily update to sync missing data and ensure field consistency..."
-          node scripts/updateDaily.js
-
       - name: Build static site
         run: node scripts/build.js
 
