@@ -25,7 +25,8 @@ nse-stock-data-server/
 │   ├── build.js            # Build static files for GitHub Pages
 │   └── utils.js            # Shared utilities
 ├── data/
-│   ├── stocks/             # Individual stock JSON files
+│   ├── stocks/             # Individual stock JSON files (by year)
+│   ├── latest/             # Latest daily data per stock
 │   ├── metadata/           # stocksList.json, cache info
 │   └── cache/              # Cached API responses
 ├── public/
@@ -33,6 +34,7 @@ nse-stock-data-server/
 │   ├── .nojekyll           # Disable Jekyll processing
 │   └── data/
 │       ├── stocks/         # Static JSON files for GitHub Pages
+│       ├── latest/         # Latest daily data per stock (JSON)
 │       └── metadata/
 ├── tests/                  # Test files
 ├── .github/
@@ -130,6 +132,31 @@ Get metadata including stock list and data range.
     "start": "2021-01-01",
     "end": "2024-01-15"
   }
+}
+```
+
+### GET /api/latest
+Get the latest daily data for all stocks or a specific stock.
+
+**Query Parameters:**
+- `symbol` (string) - Filter for a specific stock symbol (case-insensitive)
+
+**Examples:**
+```
+GET /api/latest                    # Latest data for all stocks
+GET /api/latest?symbol=RELIANCE   # Latest data for RELIANCE only
+```
+
+**Response (single stock):**
+```json
+{
+  "date": "2024-01-15",
+  "open": 2850.50,
+  "high": 2875.30,
+  "low": 2840.00,
+  "close": 2865.75,
+  "volume": 2456789,
+  "symbol": "RELIANCE"
 }
 ```
 

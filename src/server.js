@@ -5,7 +5,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import rateLimit from 'express-rate-limit';
 import { fileURLToPath } from 'url';
-import { formatSymbolForFilename, cleanSymbol } from '../scripts/utils.js';
+import { formatSymbolForFilename, cleanSymbol, PUBLIC_DATA_DIR } from '../scripts/utils.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -15,6 +15,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 const PUBLIC_DIR = path.join(rootDir, 'public');
 const DATA_DIR = path.join(rootDir, 'data', 'stocks');
+const LATEST_DIR = path.join(PUBLIC_DATA_DIR, 'latest');
 
 const corsOptions = {
   origin: '*',
@@ -54,7 +55,7 @@ app.use(express.static(PUBLIC_DIR, {
 
 app.get('/api/stocks', async (req, res) => {
   try {
-    const metadataPath = path.join(PUBLIC_DIR, 'data', 'metadata', 'stocksList.json');
+     const metadataPath = path.join(PUBLIC_DATA_DIR, 'metadata', 'stocksList.json');
 
     const metadata = JSON.parse(
       await fs.readFile(metadataPath, 'utf8')
@@ -164,11 +165,64 @@ app.get('/api/stocks/:symbol', async (req, res) => {
 
 app.get('/api/metadata', async (req, res) => {
   try {
-    const metadataPath = path.join(PUBLIC_DIR, 'data', 'metadata', 'stocksList.json');
+    const metadataPath = path.join(PUBLIC_DATA_DIR, 'metadata', 'stocksList.json');
     const metadata = JSON.parse(await fs.promises.readFile(metadataPath, 'utf8'));
     res.json(metadata);
   } catch (error) {
     res.status(500).json({ error: 'Failed to fetch metadata' });
+  }
+});
+
+app.get('/api/latest', async (req, res) => {
+  try {
+    const { symbol } = req.query;
+
+    if (symbol) {
+      const cleanSym = cleanSymbol(symbol);
+      const fileName = formatSymbolForFilename(cleanSym) + '.json';
+      const filePath = path.join(LATEST_DIR, fileName);
+
+      try {
+        const data = JSON.parse(await fs.readFile(filePath, 'utf8'));
+        res.setHeader('Cache-Control', 'public, max-age=3600');
+        res.json(data);
+      } catch {
+        return res.status(404).json({
+          error: 'Latest data not found for this stock',
+          symbol: req.query.symbol
+        });
+      }
+      return;
+    }
+
+    // Return all latest files
+    let files = [];
+    try {
+      files = await fs.readdir(LATEST_DIR);
+    } catch {
+      return res.status(200).json({ latestData: {}, count: 0, message: 'No latest data available' });
+    }
+    const latestData = {};
+
+    for (const file of files) {
+      if (file.endsWith('.json')) {
+        try {
+          const data = JSON.parse(await fs.readFile(path.join(LATEST_DIR, file), 'utf8'));
+          const sym = file.replace('.json', '');
+          latestData[sym] = data;
+        } catch {
+          // Skip unreadable files
+        }
+      }
+    }
+
+    res.setHeader('Cache-Control', 'public, max-age=3600');
+    res.json(latestData);
+  } catch (error) {
+    console.error('Error fetching latest data:', error);
+    if (!res.headersSent) {
+      res.status(500).json({ error: 'Failed to fetch latest data' });
+    }
   }
 });
 

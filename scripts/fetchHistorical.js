@@ -5,6 +5,7 @@ import {
   ensureDirectories,
   ensureDir,
   DATA_DIR,
+  LATEST_DIR,
   METADATA_DIR,
   copyToPublic,
   formatDate,
@@ -16,6 +17,8 @@ import {
   getSymbolDir,
   getNSE500Symbols,
   parseCSVLine,
+  getNSESession,
+  getNSEOptionsWithCookiesAndToken,
 } from "./utils.js";
 
 export const NSE_CSV_URL = 'https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData';
@@ -32,14 +35,24 @@ export const NSE_CSV_HEADERS = {
  * @param {string} fromDate - Start date in DD-MM-YYYY format
  * @param {string} toDate - End date in DD-MM-YYYY format
  * @param {number} maxRetries - Maximum number of retry attempts
+ * @param {Object|null} session - Session with cookies from getNSESession()
  * @returns {Promise<Array>} Array of OHLCV data or null on failure
  */
-async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3) {
+async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3, session = null) {
   const cleanSym = cleanSymbol(symbol);
   let lastError;
 
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
+      const headers = { ...NSE_CSV_HEADERS };
+      let currentSession = session;
+      if (attempt > 1 || !currentSession) {
+        currentSession = await getNSESession();
+      }
+      if (currentSession && currentSession.cookieHeader) {
+        headers["Cookie"] = currentSession.cookieHeader;
+      }
+
       const response = await axios.get(NSE_CSV_URL, {
         params: {
           from: fromDate,
@@ -49,7 +62,7 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3) {
           series: 'EQ',
           csv: 'true',
         },
-        headers: NSE_CSV_HEADERS,
+        headers: headers,
         timeout: 30000,
         maxRedirects: 5,
         validateStatus: (status) => status < 500,
@@ -159,11 +172,14 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
     const yearsToFetch = [2021, 2022, 2023, 2024, 2025, 2026];
     let allData = [];
 
+    // Get NSE session once for all year requests
+    const session = await getNSESession();
+
     for (const year of yearsToFetch) {
       const fromDate = `01-01-${year}`;
       const toDate = `31-12-${year}`;
 
-      const yearData = await fetchNSEDataCSV(symbol, fromDate, toDate);
+      const yearData = await fetchNSEDataCSV(symbol, fromDate, toDate, 3, session);
 
       if (yearData && Array.isArray(yearData) && yearData.length > 0) {
         allData = allData.concat(yearData);
@@ -202,6 +218,12 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
         const yearPath = path.join(symbolDir, `${year}.json`);
         await fs.writeFile(yearPath, JSON.stringify(items, null, 2));
       }
+
+      // Save latest data for this stock
+      const latestRecord = data[data.length - 1];
+      ensureDir(LATEST_DIR);
+      const latestPath = path.join(LATEST_DIR, `${formatSymbolForFilename(cleanSym)}.json`);
+      await fs.writeFile(latestPath, JSON.stringify(latestRecord, null, 2));
 
       return { symbol, data };
     }
