@@ -222,7 +222,7 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
       // Save latest data for this stock
       const latestRecord = data[data.length - 1];
       ensureDir(LATEST_DIR);
-      const latestPath = path.join(LATEST_DIR, `${formatSymbolForFilename(cleanSym)}.json`);
+      const latestPath = path.join(LATEST_DIR, `${formatSymbolForFilename(cleanSymbol(symbol))}.json`);
       await fs.writeFile(latestPath, JSON.stringify(latestRecord, null, 2));
 
       return { symbol, data };
