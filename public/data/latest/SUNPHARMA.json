@@ -4,13 +4,14 @@
   "open": 1902.4,
   "high": 1923,
   "low": 1892.6,
-  "lastPrice": 1910,
   "close": 1910,
+  "closePrice": 1910,
+  "lastPrice": 1910,
   "avgPrice": 1912.62,
   "volume": 2317987,
   "turnover": 4433435790,
   "noOfTrades": 93001,
   "deliverableQty": 1713184,
-  "pctDlyQtToTradedQty": 73.91,
+  "deliverablePercent": 73.91,
   "symbol": "SUNPHARMA"
 }

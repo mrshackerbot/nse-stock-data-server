@@ -4,13 +4,14 @@
   "open": 400.5,
   "high": 400.55,
   "low": 395.65,
-  "lastPrice": 398.45,
   "close": 398.45,
+  "closePrice": 398.45,
+  "lastPrice": 398.45,
   "avgPrice": 397.87,
   "volume": 827894,
   "turnover": 329394772.3,
   "noOfTrades": 20539,
   "deliverableQty": 404720,
-  "pctDlyQtToTradedQty": 48.89,
+  "deliverablePercent": 48.89,
   "symbol": "DABUR"
 }

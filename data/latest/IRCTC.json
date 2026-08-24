@@ -4,13 +4,14 @@
   "open": 484.2,
   "high": 489.7,
   "low": 481,
+  "close": 484,
+  "closePrice": 483.15,
   "lastPrice": 484,
-  "close": 483.15,
   "avgPrice": 484.37,
   "volume": 947969,
   "turnover": 459170137.9,
   "noOfTrades": 31459,
   "deliverableQty": 461368,
-  "pctDlyQtToTradedQty": 48.67,
+  "deliverablePercent": 48.67,
   "symbol": "IRCTC"
 }

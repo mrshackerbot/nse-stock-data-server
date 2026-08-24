@@ -4,13 +4,14 @@
   "open": 406,
   "high": 410.95,
   "low": 404.6,
-  "lastPrice": 406.9,
   "close": 406.9,
+  "closePrice": 406.9,
+  "lastPrice": 406.9,
   "avgPrice": 406.55,
   "volume": 8002459,
   "turnover": 3253396346.9,
   "noOfTrades": 75676,
   "deliverableQty": 5682158,
-  "pctDlyQtToTradedQty": 71.01,
+  "deliverablePercent": 71.01,
   "symbol": "COALINDIA"
 }

@@ -4,13 +4,14 @@
   "open": 403.5,
   "high": 405.6,
   "low": 398.2,
-  "lastPrice": 401.45,
   "close": 401.45,
+  "closePrice": 401.45,
+  "lastPrice": 401.45,
   "avgPrice": 401.09,
   "volume": 14932117,
   "turnover": 5989168860.55,
   "noOfTrades": 112432,
   "deliverableQty": 10790692,
-  "pctDlyQtToTradedQty": 72.26,
+  "deliverablePercent": 72.26,
   "symbol": "KOTAKBANK"
 }

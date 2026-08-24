@@ -4,13 +4,14 @@
   "open": 340.7,
   "high": 342.05,
   "low": 337.45,
-  "lastPrice": 339.5,
   "close": 339.5,
+  "closePrice": 339.5,
+  "lastPrice": 339.5,
   "avgPrice": 339.46,
   "volume": 5401943,
   "turnover": 1833724101.8,
   "noOfTrades": 91552,
   "deliverableQty": 3173600,
-  "pctDlyQtToTradedQty": 58.75,
+  "deliverablePercent": 58.75,
   "symbol": "NTPC"
 }

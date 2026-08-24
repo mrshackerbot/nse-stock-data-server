@@ -4,13 +4,14 @@
   "open": 1478.7,
   "high": 1483.4,
   "low": 1457.1,
-  "lastPrice": 1471.3,
   "close": 1471.3,
+  "closePrice": 1471.3,
+  "lastPrice": 1471.3,
   "avgPrice": 1463.74,
   "volume": 1465156,
   "turnover": 2144602907.7,
   "noOfTrades": 48252,
   "deliverableQty": 978159,
-  "pctDlyQtToTradedQty": 66.76,
+  "deliverablePercent": 66.76,
   "symbol": "NESTLEIND"
 }

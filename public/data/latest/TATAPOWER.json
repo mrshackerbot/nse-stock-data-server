@@ -4,13 +4,14 @@
   "open": 374.3,
   "high": 378.05,
   "low": 371.5,
-  "lastPrice": 373.5,
   "close": 373.5,
+  "closePrice": 373.5,
+  "lastPrice": 373.5,
   "avgPrice": 374.62,
   "volume": 3748709,
   "turnover": 1404339229.85,
   "noOfTrades": 38196,
   "deliverableQty": 2207710,
-  "pctDlyQtToTradedQty": 58.89,
+  "deliverablePercent": 58.89,
   "symbol": "TATAPOWER"
 }

@@ -4,13 +4,14 @@
   "open": 34360,
   "high": 34975,
   "low": 33570,
-  "lastPrice": 33840,
   "close": 33840,
+  "closePrice": 33840,
+  "lastPrice": 33840,
   "avgPrice": 34159.9,
   "volume": 80079,
   "turnover": 2735490490,
   "noOfTrades": 25397,
   "deliverableQty": 26425,
-  "pctDlyQtToTradedQty": 33,
+  "deliverablePercent": 33,
   "symbol": "POWERINDIA"
 }

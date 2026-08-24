@@ -4,13 +4,14 @@
   "open": 570.9,
   "high": 573.8,
   "low": 563.8,
-  "lastPrice": 571.9,
   "close": 571.9,
+  "closePrice": 571.9,
+  "lastPrice": 571.9,
   "avgPrice": 567.17,
   "volume": 1480656,
   "turnover": 839788148.75,
   "noOfTrades": 24744,
   "deliverableQty": 708393,
-  "pctDlyQtToTradedQty": 47.84,
+  "deliverablePercent": 47.84,
   "symbol": "UPL"
 }

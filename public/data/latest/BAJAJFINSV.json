@@ -4,13 +4,14 @@
   "open": 2020,
   "high": 2028.6,
   "low": 1995.3,
-  "lastPrice": 2001.7,
   "close": 2001.7,
+  "closePrice": 2001.7,
+  "lastPrice": 2001.7,
   "avgPrice": 2010.22,
   "volume": 464012,
   "turnover": 932765584.4,
   "noOfTrades": 40826,
   "deliverableQty": 236484,
-  "pctDlyQtToTradedQty": 50.97,
+  "deliverablePercent": 50.97,
   "symbol": "BAJAJFINSV"
 }

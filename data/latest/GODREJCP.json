@@ -4,13 +4,14 @@
   "open": 932.5,
   "high": 934.3,
   "low": 918.4,
-  "lastPrice": 928.9,
   "close": 928.9,
+  "closePrice": 928.9,
+  "lastPrice": 928.9,
   "avgPrice": 924.39,
   "volume": 2002746,
   "turnover": 1851323705.8,
   "noOfTrades": 30092,
   "deliverableQty": 1235910,
-  "pctDlyQtToTradedQty": 61.71,
+  "deliverablePercent": 61.71,
   "symbol": "GODREJCP"
 }

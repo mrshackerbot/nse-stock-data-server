@@ -4,13 +4,14 @@
   "open": 2302.4,
   "high": 2321.6,
   "low": 2279.5,
-  "lastPrice": 2284.1,
   "close": 2284.1,
+  "closePrice": 2284.1,
+  "lastPrice": 2284.1,
   "avgPrice": 2295.75,
   "volume": 1542723,
   "turnover": 3541710701.3,
   "noOfTrades": 64928,
   "deliverableQty": 732967,
-  "pctDlyQtToTradedQty": 47.51,
+  "deliverablePercent": 47.51,
   "symbol": "TCS"
 }

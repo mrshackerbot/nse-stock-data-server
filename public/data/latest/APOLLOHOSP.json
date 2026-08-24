@@ -4,13 +4,14 @@
   "open": 8680,
   "high": 8702,
   "low": 8591.5,
-  "lastPrice": 8702,
   "close": 8702,
+  "closePrice": 8702,
+  "lastPrice": 8702,
   "avgPrice": 8653.72,
   "volume": 291970,
   "turnover": 2526625590,
   "noOfTrades": 20109,
   "deliverableQty": 184991,
-  "pctDlyQtToTradedQty": 63.36,
+  "deliverablePercent": 63.36,
   "symbol": "APOLLOHOSP"
 }

@@ -4,13 +4,14 @@
   "open": 143,
   "high": 144.12,
   "low": 140.68,
-  "lastPrice": 142,
   "close": 142,
+  "closePrice": 142,
+  "lastPrice": 142,
   "avgPrice": 141.7,
   "volume": 7143480,
   "turnover": 1012233550.44,
   "noOfTrades": 56124,
   "deliverableQty": 3927267,
-  "pctDlyQtToTradedQty": 54.98,
+  "deliverablePercent": 54.98,
   "symbol": "BANKINDIA"
 }

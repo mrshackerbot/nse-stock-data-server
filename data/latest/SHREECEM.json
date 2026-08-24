@@ -4,13 +4,14 @@
   "open": 24365,
   "high": 24365,
   "low": 23880,
-  "lastPrice": 24020,
   "close": 24020,
+  "closePrice": 24020,
+  "lastPrice": 24020,
   "avgPrice": 24101.94,
   "volume": 12456,
   "turnover": 300213815,
   "noOfTrades": 5838,
   "deliverableQty": 6352,
-  "pctDlyQtToTradedQty": 51,
+  "deliverablePercent": 51,
   "symbol": "SHREECEM"
 }

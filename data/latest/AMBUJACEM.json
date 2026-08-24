@@ -4,13 +4,14 @@
   "open": 414.5,
   "high": 415.3,
   "low": 406.7,
-  "lastPrice": 408.75,
   "close": 408.75,
+  "closePrice": 408.75,
+  "lastPrice": 408.75,
   "avgPrice": 409.24,
   "volume": 2180550,
   "turnover": 892359554.85,
   "noOfTrades": 24492,
   "deliverableQty": 1161660,
-  "pctDlyQtToTradedQty": 53.27,
+  "deliverablePercent": 53.27,
   "symbol": "AMBUJACEM"
 }

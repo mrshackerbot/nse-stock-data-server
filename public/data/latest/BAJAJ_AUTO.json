@@ -4,13 +4,14 @@
   "open": 11735,
   "high": 11838,
   "low": 11711,
-  "lastPrice": 11800,
   "close": 11800,
+  "closePrice": 11800,
+  "lastPrice": 11800,
   "avgPrice": 11795.84,
   "volume": 221901,
   "turnover": 2617507782,
   "noOfTrades": 25357,
   "deliverableQty": 123939,
-  "pctDlyQtToTradedQty": 55.85,
+  "deliverablePercent": 55.85,
   "symbol": "BAJAJ-AUTO"
 }

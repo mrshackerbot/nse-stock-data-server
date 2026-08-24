@@ -4,13 +4,14 @@
   "open": 5385,
   "high": 5385,
   "low": 5285,
-  "lastPrice": 5311,
   "close": 5311,
+  "closePrice": 5311,
+  "lastPrice": 5311,
   "avgPrice": 5309.98,
   "volume": 260158,
   "turnover": 1381433638.5,
   "noOfTrades": 22559,
   "deliverableQty": 139113,
-  "pctDlyQtToTradedQty": 53.47,
+  "deliverablePercent": 53.47,
   "symbol": "BRITANNIA"
 }

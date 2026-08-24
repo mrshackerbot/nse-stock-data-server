@@ -4,13 +4,14 @@
   "open": 76.35,
   "high": 76.65,
   "low": 75.55,
-  "lastPrice": 76.65,
   "close": 76.65,
+  "closePrice": 76.65,
+  "lastPrice": 76.65,
   "avgPrice": 76.14,
   "volume": 6647840,
   "turnover": 506185739.11,
   "noOfTrades": 23993,
   "deliverableQty": 3233895,
-  "pctDlyQtToTradedQty": 48.65,
+  "deliverablePercent": 48.65,
   "symbol": "NHPC"
 }

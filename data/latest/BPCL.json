@@ -4,13 +4,14 @@
   "open": 311.15,
   "high": 316.1,
   "low": 310,
-  "lastPrice": 311.9,
   "close": 311.9,
+  "closePrice": 311.9,
+  "lastPrice": 311.9,
   "avgPrice": 311.98,
   "volume": 4311364,
   "turnover": 1345074829.25,
   "noOfTrades": 29129,
   "deliverableQty": 2543063,
-  "pctDlyQtToTradedQty": 58.99,
+  "deliverablePercent": 58.99,
   "symbol": "BPCL"
 }

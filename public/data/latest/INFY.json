@@ -4,13 +4,14 @@
   "open": 1126.5,
   "high": 1144.5,
   "low": 1122,
-  "lastPrice": 1130,
   "close": 1130,
+  "closePrice": 1130,
+  "lastPrice": 1130,
   "avgPrice": 1133.16,
   "volume": 8565354,
   "turnover": 9705945957.7,
   "noOfTrades": 170563,
   "deliverableQty": 4644257,
-  "pctDlyQtToTradedQty": 54.22,
+  "deliverablePercent": 54.22,
   "symbol": "INFY"
 }

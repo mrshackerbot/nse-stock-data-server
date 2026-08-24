@@ -4,13 +4,14 @@
   "open": 360.45,
   "high": 361.25,
   "low": 355.3,
-  "lastPrice": 357.75,
   "close": 357.75,
+  "closePrice": 357.75,
+  "lastPrice": 357.75,
   "avgPrice": 357.48,
   "volume": 4729477,
   "turnover": 1690710584.55,
   "noOfTrades": 58954,
   "deliverableQty": 3168089,
-  "pctDlyQtToTradedQty": 66.99,
+  "deliverablePercent": 66.99,
   "symbol": "FEDERALBNK"
 }

@@ -4,13 +4,14 @@
   "open": 3419.9,
   "high": 3444.7,
   "low": 3400,
-  "lastPrice": 3414.1,
   "close": 3414.1,
+  "closePrice": 3414.1,
+  "lastPrice": 3414.1,
   "avgPrice": 3419.86,
   "volume": 1168624,
   "turnover": 3996527846.7,
   "noOfTrades": 65064,
   "deliverableQty": 655064,
-  "pctDlyQtToTradedQty": 56.05,
+  "deliverablePercent": 56.05,
   "symbol": "M&M"
 }

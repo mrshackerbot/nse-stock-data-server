@@ -4,13 +4,14 @@
   "open": 183.45,
   "high": 184.7,
   "low": 182.02,
-  "lastPrice": 183.6,
   "close": 183.6,
+  "closePrice": 183.6,
+  "lastPrice": 183.6,
   "avgPrice": 182.86,
   "volume": 4499886,
   "turnover": 822835516.38,
   "noOfTrades": 29140,
   "deliverableQty": 2121696,
-  "pctDlyQtToTradedQty": 47.15,
+  "deliverablePercent": 47.15,
   "symbol": "UNIONBANK"
 }

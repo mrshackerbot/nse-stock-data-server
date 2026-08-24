@@ -4,13 +4,14 @@
   "open": 25.9,
   "high": 26.06,
   "low": 25.71,
+  "close": 25.87,
+  "closePrice": 25.89,
   "lastPrice": 25.87,
-  "close": 25.89,
   "avgPrice": 25.91,
   "volume": 4403702,
   "turnover": 114098282.16,
   "noOfTrades": 13270,
   "deliverableQty": 2202859,
-  "pctDlyQtToTradedQty": 50.02,
+  "deliverablePercent": 50.02,
   "symbol": "UCOBANK"
 }

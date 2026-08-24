@@ -4,13 +4,14 @@
   "open": 1307.8,
   "high": 1313.5,
   "low": 1297,
+  "close": 1305.2,
+  "closePrice": 1300.9,
   "lastPrice": 1305.2,
-  "close": 1300.9,
   "avgPrice": 1305.17,
   "volume": 88400,
   "turnover": 115376773.7,
   "noOfTrades": 8106,
   "deliverableQty": 46957,
-  "pctDlyQtToTradedQty": 53.12,
+  "deliverablePercent": 53.12,
   "symbol": "ACC"
 }

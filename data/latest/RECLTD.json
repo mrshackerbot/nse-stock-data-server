@@ -4,13 +4,14 @@
   "open": 326.65,
   "high": 328.65,
   "low": 323.55,
-  "lastPrice": 327.9,
   "close": 327.9,
+  "closePrice": 327.9,
+  "lastPrice": 327.9,
   "avgPrice": 325.93,
   "volume": 5668109,
   "turnover": 1847428545.95,
   "noOfTrades": 59404,
   "deliverableQty": 3005179,
-  "pctDlyQtToTradedQty": 53.02,
+  "deliverablePercent": 53.02,
   "symbol": "RECLTD"
 }

@@ -4,13 +4,14 @@
   "open": 2019.9,
   "high": 2030,
   "low": 2006.2,
-  "lastPrice": 2030,
   "close": 2030,
+  "closePrice": 2030,
+  "lastPrice": 2030,
   "avgPrice": 2018.77,
   "volume": 891171,
   "turnover": 1799072416.8,
   "noOfTrades": 49335,
   "deliverableQty": 556298,
-  "pctDlyQtToTradedQty": 62.42,
+  "deliverablePercent": 62.42,
   "symbol": "HINDUNILVR"
 }
