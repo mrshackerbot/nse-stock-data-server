@@ -16,6 +16,10 @@ jobs:
   fetch-historical:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    
+    env:
+      TZ: Asia/Kolkata
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,6 +41,11 @@ jobs:
           else
             node scripts/fetchHistorical.js
           fi
+
+      - name: Sync missing data with daily update
+        run: |
+          echo "Running daily update to sync missing data and ensure field consistency..."
+          node scripts/updateDaily.js
 
       - name: Build static site
         run: node scripts/build.js

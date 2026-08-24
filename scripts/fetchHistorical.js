@@ -108,10 +108,10 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3, session
         const turnover = parseFloat((cols[11] || '').replace(/,/g, '')) || 0; // rupee turnover
         const noOfTrades = parseInt((cols[12] || '').replace(/,/g, '')) || 0;
         const deliverableQty = parseInt((cols[13] || '').replace(/,/g, '')) || 0;
-        const deliverablePercent = parseFloat((cols[14] || '').replace(/,/g, '')) || 0;
+        const percentageOfDelightedToTraded = parseFloat((cols[14] || '').replace(/,/g, '')) || 0;
 
-        // Keep existing behaviour: use lastPrice as close to preserve compatibility
-        const close = lastPrice;
+        // Match updateDaily.js field names: close = closePrice (actual closing price)
+        const close = closePrice;
         const volume = totalTradedQty; // corrected to use Total Traded Quantity
 
         if (close > 0 && date) {
@@ -121,15 +121,14 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3, session
             open,
             high,
             low,
-            close,
-            closePrice,
             lastPrice,
+            close,
             avgPrice,
             volume,
             turnover,
             noOfTrades,
             deliverableQty,
-            deliverablePercent,
+            pctDlyQtToTradedQty: percentageOfDelightedToTraded,
             symbol: cleanSym,
           });
         }
