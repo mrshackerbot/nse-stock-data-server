@@ -2642,5 +2642,21 @@
     "deliverableQty": 120250,
     "pctDlyQtToTradedQty": 54.84,
     "symbol": "TECHNOE"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 987.45,
+    "open": 997,
+    "high": 1018.8,
+    "low": 989.75,
+    "lastPrice": 994,
+    "close": 998.05,
+    "avgPrice": 1005.04,
+    "volume": 160019,
+    "turnover": 160825861.6,
+    "noOfTrades": 10290,
+    "deliverableQty": 74922,
+    "pctDlyQtToTradedQty": 46.82,
+    "symbol": "TECHNOE"
   }
 ]

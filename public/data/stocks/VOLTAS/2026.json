@@ -2642,5 +2642,21 @@
     "deliverableQty": 536128,
     "pctDlyQtToTradedQty": 50.84,
     "symbol": "VOLTAS"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 1235,
+    "open": 1235.9,
+    "high": 1242,
+    "low": 1220.5,
+    "lastPrice": 1242,
+    "close": 1242,
+    "avgPrice": 1233.35,
+    "volume": 744052,
+    "turnover": 917678734.2,
+    "noOfTrades": 22701,
+    "deliverableQty": 364134,
+    "pctDlyQtToTradedQty": 48.94,
+    "symbol": "VOLTAS"
   }
 ]

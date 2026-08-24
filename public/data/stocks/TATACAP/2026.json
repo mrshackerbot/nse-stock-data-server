@@ -2642,5 +2642,21 @@
     "deliverableQty": 593106,
     "pctDlyQtToTradedQty": 53.08,
     "symbol": "TATACAP"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 365.05,
+    "open": 361.65,
+    "high": 366.3,
+    "low": 361.65,
+    "lastPrice": 363.85,
+    "close": 364.45,
+    "avgPrice": 364.93,
+    "volume": 1161993,
+    "turnover": 424040960,
+    "noOfTrades": 29531,
+    "deliverableQty": 735336,
+    "pctDlyQtToTradedQty": 63.28,
+    "symbol": "TATACAP"
   }
 ]

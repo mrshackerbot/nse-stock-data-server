@@ -2642,5 +2642,21 @@
     "deliverableQty": 99649,
     "pctDlyQtToTradedQty": 42.92,
     "symbol": "BEML"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 1935.4,
+    "open": 1940,
+    "high": 1954.4,
+    "low": 1908,
+    "lastPrice": 1929.9,
+    "close": 1915,
+    "avgPrice": 1931.07,
+    "volume": 142999,
+    "turnover": 276141132.9,
+    "noOfTrades": 12738,
+    "deliverableQty": 44278,
+    "pctDlyQtToTradedQty": 30.96,
+    "symbol": "BEML"
   }
 ]

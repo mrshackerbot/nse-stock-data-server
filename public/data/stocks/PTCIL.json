@@ -12502,5 +12502,21 @@
     "deliverableQty": 5716,
     "pctDlyQtToTradedQty": 40.81,
     "symbol": "PTCIL"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 20629,
+    "open": 20500,
+    "high": 21800,
+    "low": 20500,
+    "lastPrice": 21612,
+    "close": 21672,
+    "avgPrice": 21255.34,
+    "volume": 77843,
+    "turnover": 1654579571,
+    "noOfTrades": 25730,
+    "deliverableQty": 19778,
+    "pctDlyQtToTradedQty": 25.41,
+    "symbol": "PTCIL"
   }
 ]

@@ -4359,5 +4359,21 @@
     "deliverableQty": 150619,
     "pctDlyQtToTradedQty": 49.18,
     "symbol": "CPPLUS"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 3475.5,
+    "open": 3500,
+    "high": 3514,
+    "low": 3375,
+    "lastPrice": 3418.7,
+    "close": 3419.5,
+    "avgPrice": 3406.64,
+    "volume": 169008,
+    "turnover": 575748814.6,
+    "noOfTrades": 18209,
+    "deliverableQty": 92865,
+    "pctDlyQtToTradedQty": 54.95,
+    "symbol": "CPPLUS"
   }
 ]

@@ -2642,5 +2642,21 @@
     "deliverableQty": 262726,
     "pctDlyQtToTradedQty": 39.95,
     "symbol": "BSOFT"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 303.75,
+    "open": 305,
+    "high": 309.6,
+    "low": 298,
+    "lastPrice": 299,
+    "close": 299,
+    "avgPrice": 302.86,
+    "volume": 972297,
+    "turnover": 294467794.45,
+    "noOfTrades": 23011,
+    "deliverableQty": 461188,
+    "pctDlyQtToTradedQty": 47.43,
+    "symbol": "BSOFT"
   }
 ]

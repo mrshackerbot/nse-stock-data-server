@@ -2642,5 +2642,21 @@
     "deliverableQty": 133990,
     "pctDlyQtToTradedQty": 49.91,
     "symbol": "STARHEALTH"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 578.5,
+    "open": 573.95,
+    "high": 580,
+    "low": 570.45,
+    "lastPrice": 575.95,
+    "close": 573,
+    "avgPrice": 574.38,
+    "volume": 219690,
+    "turnover": 126186095.25,
+    "noOfTrades": 16445,
+    "deliverableQty": 107677,
+    "pctDlyQtToTradedQty": 49.01,
+    "symbol": "STARHEALTH"
   }
 ]

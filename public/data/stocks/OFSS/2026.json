@@ -2642,5 +2642,21 @@
     "deliverableQty": 75580,
     "pctDlyQtToTradedQty": 40.04,
     "symbol": "OFSS"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 11724,
+    "open": 11720,
+    "high": 11898,
+    "low": 11457,
+    "lastPrice": 11518,
+    "close": 11518,
+    "avgPrice": 11717.3,
+    "volume": 153394,
+    "turnover": 1797364061,
+    "noOfTrades": 27184,
+    "deliverableQty": 42023,
+    "pctDlyQtToTradedQty": 27.4,
+    "symbol": "OFSS"
   }
 ]

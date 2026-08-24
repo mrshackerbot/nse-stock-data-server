@@ -2642,5 +2642,21 @@
     "deliverableQty": 42702,
     "pctDlyQtToTradedQty": 66.16,
     "symbol": "INDIAMART"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 1742.2,
+    "open": 1750,
+    "high": 1753.5,
+    "low": 1722.3,
+    "lastPrice": 1746.8,
+    "close": 1746,
+    "avgPrice": 1737.81,
+    "volume": 57656,
+    "turnover": 100195319.1,
+    "noOfTrades": 7489,
+    "deliverableQty": 30309,
+    "pctDlyQtToTradedQty": 52.57,
+    "symbol": "INDIAMART"
   }
 ]

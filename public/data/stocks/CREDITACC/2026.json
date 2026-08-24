@@ -2642,5 +2642,21 @@
     "deliverableQty": 25755,
     "pctDlyQtToTradedQty": 44.63,
     "symbol": "CREDITACC"
+  },
+  {
+    "date": "24-Aug-2026",
+    "prevClose": 1496.1,
+    "open": 1495.2,
+    "high": 1497.9,
+    "low": 1429.1,
+    "lastPrice": 1440,
+    "close": 1442.3,
+    "avgPrice": 1450.3,
+    "volume": 540642,
+    "turnover": 784095118.8,
+    "noOfTrades": 39803,
+    "deliverableQty": 329992,
+    "pctDlyQtToTradedQty": 61.04,
+    "symbol": "CREDITACC"
   }
 ]
