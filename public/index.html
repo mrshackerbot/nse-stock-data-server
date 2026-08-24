@@ -77,6 +77,20 @@
     <div class="endpoint">
       <div>
         <span class="method">GET</span>
+        <code>/api/latest</code>
+      </div>
+      <p>Get the latest daily data for all stocks or a specific stock</p>
+      <h4>Query Parameters:</h4>
+      <table>
+        <tr><th>Parameter</th><th>Type</th><th>Default</th><th>Description</th></tr>
+        <tr><td>symbol</td><td>string</td><td>-</td><td>Filter for a specific stock symbol</td></tr>
+      </table>
+      <pre><code>curl https://yourusername.github.io/nse-stock-data/api/latest?symbol=RELIANCE</code></pre>
+    </div>
+
+    <div class="endpoint">
+      <div>
+        <span class="method">GET</span>
         <code>/api/health</code>
       </div>
       <p>Health check endpoint</p>

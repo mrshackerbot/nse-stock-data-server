@@ -10,11 +10,7 @@ import fs from "fs/promises";
 import path from "path";
 import { fileURLToPath } from "url";
 import { fetchStockData } from "./fetchHistorical.js";
-import {
-  formatDate,
-  cleanSymbol,
-  log,
-} from "./utils.js";
+import { formatDate, cleanSymbol, log, LATEST_DIR, ensureDir, formatSymbolForFilename } from "./utils.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -64,6 +60,12 @@ async function fetchSampleData(years = 5, useCache = true) {
           const yearPath = path.join(symbolDir, `${year}.json`);
           await fs.writeFile(yearPath, JSON.stringify(items, null, 2));
         }
+
+        // Save latest data for this stock
+        ensureDir(LATEST_DIR);
+        const latestRecord = result.data[result.data.length - 1];
+        const latestPath = path.join(LATEST_DIR, `${formatSymbolForFilename(cleanSymbol(symbol))}.json`);
+        await fs.writeFile(latestPath, JSON.stringify(latestRecord, null, 2));
 
         results.push({ symbol, count: result.data.length });
       } else {

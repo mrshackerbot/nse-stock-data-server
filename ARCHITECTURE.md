@@ -30,11 +30,12 @@ scripts/fetchHistorical.js
    ├─▶ For each symbol:
    │     ├─▶ Fetch 3 years of historical CSV data from NSE
    │     ├─▶ Parse OHLCV + volume
-   │     ├─▶ Save to data/stocks/{SYMBOL}.json
+   │     ├─▶ Save to data/stocks/{SYMBOL}/ (split by year)
+   │     ├─▶ Save latest data to data/latest/{SYMBOL}.json
    │     ├─▶ Cache in data/cache/stocks/{SYMBOL}.json (24h)
    │     └─▶ Wait 3 seconds (rate limit)
    │
-   └─▶ Generate metadata + copy to public/data/
+   └─▶ Generate metadata + latest files + copy to public/data/
 ```
 
 ### 2. Daily Update
@@ -45,13 +46,16 @@ scripts/updateDaily.js
    │
    ├─▶ Read stock list from metadata
    │
-   ├─▶ For each stock (batch 5):
-   │     ├─▶ Fetch last 5 days from NSE
+   ├─▶ Fetch equity indices data (single NSE call for all stocks)
+   │
+   ├─▶ For each stock (batch 10):
+   │     ├─▶ Use equity data or fetch from NSE CSV
    │     ├─▶ Compare with last date in JSON
    │     ├─▶ Append new trading day if exists
-   │     └─▶ Wait 3 seconds (rate limit)
+   │     ├─▶ Save latest data to data/latest/{SYMBOL}.json
+   │     └─▶ Wait 2 seconds (rate limit)
    │
-   └─▶ Update metadata + rebuild public/
+   └─▶ Update metadata + generate latest files + rebuild public/
 ```
 
 ### 3. API Server
@@ -62,12 +66,15 @@ src/server.js (Express)
    │     └─▶ List all symbols with pagination
    │
    ├─▶ GET /api/stocks/:symbol
-   │     ├─▶ Load JSON from public/data/stocks/
+   │     ├─▶ Load JSON from data/stocks/
    │     ├─▶ Apply filters (from, to, limit)
    │     └─▶ Return JSON or CSV
    │
+   ├─▶ GET /api/latest
+   │     └─▶ Return latest daily data for all stocks (or single via ?symbol=)
+   │
    └─▶ GET /api/metadata
-         └─▶ Return stocksList.json
+          └─▶ Return stocksList.json
 ```
 
 ### 4. GitHub Actions
@@ -106,6 +113,14 @@ nse-stock-data-server/
 │
 ├── data/
 │   ├── stocks/               # Master data source (gitignored for cache)
+│   │   ├── RELIANCE/
+│   │   │   ├── 2021.json
+│   │   │   ├── 2022.json
+│   │   │   └── ...
+│   │   ├── TCS/
+│   │   └── ...
+│   │
+│   ├── latest/               # Latest daily data per stock
 │   │   ├── RELIANCE.json
 │   │   ├── TCS.json
 │   │   └── ...
@@ -115,13 +130,15 @@ nse-stock-data-server/
 │   │
 │   └── cache/                # Local cache (not committed)
 │       ├── stocks/
-│       └── system/
+│       ├── system/
+│       └── heatmap/
 │
 ├── public/                   # GitHub Pages root
 │   ├── index.html            # API documentation
 │   ├── .nojekyll             # Disable Jekyll processing
 │   └── data/
 │       ├── stocks/           # Served as static files
+│       ├── latest/           # Latest data per stock (JSON)
 │       └── metadata/
 │
 ├── src/
@@ -137,7 +154,7 @@ nse-stock-data-server/
 
 ## NSE API Integration Details
 
-### Endpoint: `https://www.nseindia.com/api/historical/securities-wise-historical-data`
+### Endpoint: `https://www.nseindia.com/api/historicalOR/generateSecurityWiseHistoricalData`
 
 **Parameters:**
 ```
@@ -155,6 +172,7 @@ User-Agent: Mozilla/5.0 (Chrome 120.0...)
 Accept: text/csv,application/csv,*/*
 Referer: https://www.nseindia.com/get-quotes/equity
 X-Requested-With: XMLHttpRequest
+Cookie: (obtained from initial nseindia.com visit)
 ```
 
 **Response:** CSV text
@@ -163,6 +181,17 @@ X-Requested-With: XMLHttpRequest
 "01-01-2024","2850.50","2875.30","2840.00","2865.75","2840.00","2456789","7000000000"
 ...
 ```
+
+### Session/Cookie Handling
+
+NSE requires an initial request to `https://www.nseindia.com/` to obtain cookies. The `getNSESession()` utility in `utils.js` handles this automatically before each API call batch. The `getNSEOptionsWithCookiesAndToken()` function adds proper headers including `Accept`, `Accept-Language`, and `Accept-Encoding` to avoid being blocked.
+
+### Symbol List Endpoint
+
+NSE 500 symbols are fetched from:
+`https://www.nseindia.com/api/equity-stockIndices?index=NIFTY%20500`
+
+If this fails, the code falls back to `getFallbackSymbols()` in `utils.js` (a hardcoded list of ~80 popular NSE stocks).
 
 ### Rate Limit Handling
 

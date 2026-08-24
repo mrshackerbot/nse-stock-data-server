@@ -7,6 +7,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const rootDir = path.join(__dirname, '..');
+const TEST_PORT = process.env.PORT || 3000;
+const BASE_URL = `http://localhost:${TEST_PORT}`;
 
 describe('NSE Stock Data Server', () => {
   let serverProcess;
@@ -15,7 +17,8 @@ describe('NSE Stock Data Server', () => {
     console.log('Starting server for tests...');
     serverProcess = spawn('node', [path.join(rootDir, 'src', 'server.js')], {
       cwd: rootDir,
-      stdio: 'pipe'
+      stdio: 'pipe',
+      env: { ...process.env, PORT: TEST_PORT }
     });
 
     serverProcess.stdout.on('data', (data) => {
@@ -35,8 +38,8 @@ describe('NSE Stock Data Server', () => {
     }
   });
 
-  it('should start server and listen on port 3000', async () => {
-    const response = await fetch('http://localhost:3000/api/health');
+  it('should start server and listen on configured port', async () => {
+    const response = await fetch(`${BASE_URL}/api/health`);
     assert.strictEqual(response.status, 200);
 
     const data = await response.json();
@@ -46,7 +49,7 @@ describe('NSE Stock Data Server', () => {
   });
 
   it('should return 404 for non-existent stock', async () => {
-    const response = await fetch('http://localhost:3000/api/stocks/INVALID_SYMBOL');
+    const response = await fetch(`${BASE_URL}/api/stocks/INVALID_SYMBOL`);
     assert.strictEqual(response.status, 404);
 
     const data = await response.json();
@@ -54,13 +57,13 @@ describe('NSE Stock Data Server', () => {
   });
 
   it('should return metadata endpoint', async () => {
-    const response = await fetch('http://localhost:3000/api/metadata');
+    const response = await fetch(`${BASE_URL}/api/metadata`);
     // May return 500 if data not built yet, that's okay
     assert.ok([200, 500].includes(response.status));
   });
 
   it('should return stocks list with pagination', async () => {
-    const response = await fetch('http://localhost:3000/api/stocks?page=1&limit=5');
+    const response = await fetch(`${BASE_URL}/api/stocks?page=1&limit=5`);
     assert.strictEqual(response.status, 200);
 
     const data = await response.json();
@@ -70,10 +73,16 @@ describe('NSE Stock Data Server', () => {
   });
 
   it('should serve static files from public directory', async () => {
-    const response = await fetch('http://localhost:3000/');
+    const response = await fetch(`${BASE_URL}/`);
     assert.strictEqual(response.status, 200);
     const text = await response.text();
     assert.ok(text.includes('NSE 500 Stock Data'));
+  });
+
+  it('should return latest data endpoint', async () => {
+    const response = await fetch(`${BASE_URL}/api/latest`);
+    // Returns 200 with object, or 500 if latest dir not built yet
+    assert.ok([200, 500].includes(response.status));
   });
 });
 
@@ -89,5 +98,8 @@ describe('Utils Module', () => {
     assert.strictEqual(utils.cleanSymbol('TCS.BSE'), 'TCS');
     assert.ok(typeof utils.formatSymbolForFilename === 'function');
     assert.strictEqual(utils.formatSymbolForFilename('RELIANCE.NS'), 'RELIANCE_NS');
+    assert.ok(typeof utils.LATEST_DIR === 'string');
+    assert.ok(utils.LATEST_DIR.includes('data/latest'));
+    assert.ok(typeof utils.PUBLIC_DATA_DIR === 'string');
   });
 });

@@ -10,7 +10,9 @@ const rootDir = path.join(__dirname, "..");
 
 export const DATA_DIR = path.join(rootDir, "data", "stocks");
 export const METADATA_DIR = path.join(rootDir, "data", "metadata");
-export const PUBLIC_DIR = path.join(rootDir, "public", "data");
+export const LATEST_DIR = path.join(rootDir, "data", "latest");
+export const PUBLIC_DIR = path.join(rootDir, "public");
+export const PUBLIC_DATA_DIR = path.join(rootDir, "public", "data");
 export const CACHE_DIR = path.join(rootDir, "data", "cache");
 
 export const CACHE_EXPIRY_HOURS = 24;
@@ -47,15 +49,64 @@ export function getNSEOptionsWithCookies(customHeaders = {}) {
   return headers;
 }
 
+export function getNSEOptionsWithCookiesAndToken(customHeaders = {}, cookieHeader = "") {
+  const headers = {
+    ...NSE_HEADERS,
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    ...customHeaders,
+  };
+
+  if (cookieHeader) {
+    headers["Cookie"] = cookieHeader;
+  }
+
+  return headers;
+}
+
+export async function getNSESession() {
+  try {
+    const response = await axios.get("https://www.nseindia.com/", {
+      headers: {
+        "User-Agent": NSE_HEADERS["User-Agent"],
+      },
+      timeout: 10000,
+      maxRedirects: 5,
+      validateStatus: (s) => s < 400,
+    });
+
+    const cookies = response.headers["set-cookie"] || [];
+    const cookieHeader = cookies.map((c) => c.split(";")[0]).join("; ");
+
+    const nseCookie = cookies.find((c) => c.startsWith("nse_cookie_"));
+    if (nseCookie) {
+      const match = nseCookie.match(/nse_cookie_[a-f0-9]+=([a-f0-9-]+)/);
+      if (match) {
+        return { cookieHeader, nseCookie: match[0] };
+      }
+    }
+
+    return { cookieHeader };
+  } catch (error) {
+    log(`Failed to get NSE session: ${error.message}`);
+    return { cookieHeader: "" };
+  }
+}
+
 export async function ensureDirectories() {
   await fs.mkdir(DATA_DIR, { recursive: true });
   await fs.mkdir(METADATA_DIR, { recursive: true });
+  await fs.mkdir(LATEST_DIR, { recursive: true });
   await fs.mkdir(PUBLIC_DIR, { recursive: true });
-  await fs.mkdir(path.join(PUBLIC_DIR, "stocks"), { recursive: true });
-  await fs.mkdir(path.join(PUBLIC_DIR, "metadata"), { recursive: true });
+  await fs.mkdir(PUBLIC_DATA_DIR, { recursive: true });
+  await fs.mkdir(path.join(PUBLIC_DATA_DIR, "stocks"), { recursive: true });
+  await fs.mkdir(path.join(PUBLIC_DATA_DIR, "metadata"), { recursive: true });
+  await fs.mkdir(path.join(PUBLIC_DATA_DIR, "latest"), { recursive: true });
   await fs.mkdir(CACHE_DIR, { recursive: true });
   await fs.mkdir(path.join(CACHE_DIR, "stocks"), { recursive: true });
   await fs.mkdir(path.join(CACHE_DIR, "heatmap"), { recursive: true });
+  await fs.mkdir(path.join(CACHE_DIR, "system"), { recursive: true });
 }
 
 export function formatDate(date) {
@@ -109,8 +160,9 @@ export function parseCSVLine(line) {
 
 export async function copyToPublic() {
   try {
-    const stocksDestDir = path.join(PUBLIC_DIR, "stocks");
-    const metadataDestDir = path.join(PUBLIC_DIR, "metadata");
+    const stocksDestDir = path.join(PUBLIC_DATA_DIR, "stocks");
+    const metadataDestDir = path.join(PUBLIC_DATA_DIR, "metadata");
+    const latestDestDir = path.join(PUBLIC_DATA_DIR, "latest");
 
     // Clear existing stock files/folders to avoid duplicates
     if (existsSync(stocksDestDir)) {
@@ -119,10 +171,14 @@ export async function copyToPublic() {
     if (existsSync(metadataDestDir)) {
       await fs.rm(metadataDestDir, { recursive: true, force: true });
     }
+    if (existsSync(latestDestDir)) {
+      await fs.rm(latestDestDir, { recursive: true, force: true });
+    }
 
     // Ensure directories exist
     await fs.mkdir(stocksDestDir, { recursive: true });
     await fs.mkdir(metadataDestDir, { recursive: true });
+    await fs.mkdir(latestDestDir, { recursive: true });
 
     // Copy stock data (DATA_DIR contains symbol folders)
     const stockFiles = await fs.readdir(DATA_DIR);
@@ -137,6 +193,19 @@ export async function copyToPublic() {
       } else if (stats.isFile()) {
         // Copy individual JSON files
         await fs.copyFile(srcPath, destPath);
+      }
+    }
+
+    // Copy latest data (individual stock latest files)
+    if (existsSync(LATEST_DIR)) {
+      const latestFiles = await fs.readdir(LATEST_DIR);
+      for (const file of latestFiles) {
+        const srcPath = path.join(LATEST_DIR, file);
+        const destPath = path.join(latestDestDir, file);
+        const stats = await fs.stat(srcPath);
+        if (stats.isFile()) {
+          await fs.copyFile(srcPath, destPath);
+        }
       }
     }
 
@@ -331,7 +400,7 @@ export function getFallbackSymbols() {
 }
 
 export const NSE_INDICES_URL =
-  "https://www.nseindia.com/api/NextApi/apiClient/indexTrackerApi";
+  "https://www.nseindia.com/api/equity-stockIndices";
 export const NSE_EQUITY_INDICES_URL =
   "https://www.nseindia.com/api/equity-stockIndices";
 export const NSE_CSV_URL =
@@ -352,26 +421,16 @@ export async function getNSE500Symbols(useCache = true) {
     }
   }
 
+  // Try NSE NIFTY 500 page first
   try {
     log("Fetching NSE 500 symbols from NSE India...");
 
-    const cookieRes = await axios.get("https://www.nseindia.com/", {
-      headers: { "User-Agent": NSE_HEADERS["User-Agent"] },
-      timeout: 10000,
-      maxRedirects: 5,
-      validateStatus: (s) => s < 400,
-    });
+    const session = await getNSESession();
+    const { cookieHeader } = session;
 
-    const cookies = cookieRes.headers["set-cookie"] || [];
-    const cookieHeader = cookies.map((c) => c.split(";")[0]).join("; ");
-
-    const response = await axios.get(NSE_INDICES_URL, {
-      params: { functionName: "getAllIndicesSymbols", index: "NIFTY 500" },
-      headers: {
-        ...NSE_HEADERS,
-        Cookie: cookieHeader,
-        Accept: "application/json",
-      },
+    const response = await axios.get(NSE_EQUITY_INDICES_URL, {
+      params: { index: "NIFTY 500" },
+      headers: getNSEOptionsWithCookiesAndToken({}, cookieHeader),
       timeout: 30000,
     });
 
@@ -379,7 +438,7 @@ export async function getNSE500Symbols(useCache = true) {
     let symbols = [];
 
     if (data && Array.isArray(data.data)) {
-      symbols = data.data;
+      symbols = data.data.map((s) => s.symbol || s);
     }
 
     // Clean symbols
@@ -400,7 +459,7 @@ export async function getNSE500Symbols(useCache = true) {
     return symbols;
   } catch (error) {
     console.error("Failed to fetch NSE 500 symbols:", error.message);
-    log("Using fallback NSE 100 list");
+    log("Using fallback NSE list");
     return getFallbackSymbols();
   }
 }
@@ -409,23 +468,12 @@ export async function fetchEquityIndicesData() {
   try {
     log("Fetching equity stock indices data from NSE...");
 
-    const cookieRes = await axios.get("https://www.nseindia.com/", {
-      headers: { "User-Agent": NSE_HEADERS["User-Agent"] },
-      timeout: 10000,
-      maxRedirects: 5,
-      validateStatus: (s) => s < 400,
-    });
-
-    const cookies = cookieRes.headers["set-cookie"] || [];
-    const cookieHeader = cookies.map((c) => c.split(";")[0]).join("; ");
+    const session = await getNSESession();
+    const { cookieHeader } = session;
 
     const response = await axios.get(NSE_EQUITY_INDICES_URL, {
       params: { index: "NIFTY 500" },
-      headers: {
-        ...NSE_HEADERS,
-        Cookie: cookieHeader,
-        Accept: "application/json",
-      },
+      headers: getNSEOptionsWithCookiesAndToken({}, cookieHeader),
       timeout: 30000,
     });
 

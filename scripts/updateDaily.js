@@ -1,6 +1,7 @@
 import axios from "axios";
 import {
   DATA_DIR,
+  LATEST_DIR,
   METADATA_DIR,
   copyToPublic,
   isMarketClosed,
@@ -16,12 +17,14 @@ import {
   getSymbolDir,
   ensureDir,
   fetchEquityIndicesData,
+  getNSESession,
+  getNSEOptionsWithCookiesAndToken,
 } from "./utils.js";
 import { existsSync } from "fs";
 import fs from "fs/promises";
 import path from "path";
 
-async function getTodayData(symbol) {
+async function getTodayData(symbol, session = null) {
   const cleanSym = cleanSymbol(symbol);
   const yesterday = formatDate(getYesterday()).split("-").reverse().join("-");
   const today = formatDate(new Date()).split("-").reverse().join("-");
@@ -29,6 +32,11 @@ async function getTodayData(symbol) {
 
   for (let attempt = 1; attempt <= maxRetries; attempt++) {
     try {
+      const headers = { ...NSE_CSV_HEADERS };
+      if (session && session.cookieHeader) {
+        headers["Cookie"] = session.cookieHeader;
+      }
+
       const response = await axios.get(NSE_CSV_URL, {
         params: {
           from: yesterday,
@@ -38,7 +46,7 @@ async function getTodayData(symbol) {
           series: "EQ",
           csv: "true",
         },
-        headers: NSE_CSV_HEADERS,
+        headers: headers,
         timeout: 30000,
         maxRedirects: 5,
         validateStatus: (status) => status < 500,
@@ -134,6 +142,19 @@ async function getTodayData(symbol) {
   }
 
   return null;
+}
+
+async function saveLatestData(symbol, latestRecord) {
+  try {
+    ensureDir(LATEST_DIR);
+    const cleanSym = cleanSymbol(symbol);
+    const fileName = formatSymbolForFilename(cleanSym) + ".json";
+    const filePath = path.join(LATEST_DIR, fileName);
+    await fs.writeFile(filePath, JSON.stringify(latestRecord, null, 2));
+    log(`✓ Latest data saved: latest/${fileName}`);
+  } catch (error) {
+    log(`⚠ Failed to save latest data for ${symbol}: ${error.message}`);
+  }
 }
 
 async function updateStockFile(symbol, equityDataMap = null) {
@@ -233,7 +254,8 @@ async function updateStockFile(symbol, equityDataMap = null) {
 
     // Fall back to historical CSV endpoint if equity data not available
     if (!newData) {
-      newData = await getTodayData(symbol);
+      const session = await getNSESession();
+      newData = await getTodayData(symbol, session);
     }
 
     if (!newData) {
@@ -256,6 +278,7 @@ async function updateStockFile(symbol, equityDataMap = null) {
         path.join(symbolDir, `${currentYear}.json`),
         JSON.stringify(existingData, null, 2),
       );
+      await saveLatestData(symbol, newData);
       log(`✓ ${symbol}: Added ${newData.date} (Close: ${newData.close})`);
       return {
         symbol,
@@ -286,6 +309,7 @@ async function updateStockFile(symbol, equityDataMap = null) {
       targetYearData.sort((a, b) => new Date(a.date) - new Date(b.date));
       ensureDir(symbolDir);
       await fs.writeFile(targetPath, JSON.stringify(targetYearData, null, 2));
+      await saveLatestData(symbol, newData);
       log(
         `✓ ${symbol}: Added ${newData.date} to ${dataYear}.json (Close: ${newData.close})`,
       );
@@ -300,6 +324,51 @@ async function updateStockFile(symbol, equityDataMap = null) {
     log(`✗ Failed ${symbol}: ${error.message}`);
     return { symbol, status: "failed", error: error.message };
   }
+}
+
+async function generateLatestForAll(stocks = null) {
+  log("Generating latest data files for all stocks...");
+
+  if (!stocks) {
+    const metadata = await readStockList();
+    stocks = metadata.stocksList || [];
+  }
+
+  if (stocks.length === 0) {
+    log("No stocks available to generate latest data");
+    return;
+  }
+
+  ensureDir(LATEST_DIR);
+
+  let count = 0;
+  for (const symbol of stocks) {
+    try {
+      const symbolDir = getSymbolDir(symbol);
+      if (!existsSync(symbolDir)) continue;
+
+      const yearFiles = await fs.readdir(symbolDir);
+      let allData = [];
+      for (const file of yearFiles) {
+        if (file.endsWith(".json")) {
+          const filePath = path.join(symbolDir, file);
+          const fileData = JSON.parse(await fs.readFile(filePath, "utf8"));
+          allData = allData.concat(fileData);
+        }
+      }
+
+      if (allData.length === 0) continue;
+
+      allData.sort((a, b) => new Date(a.date) - new Date(b.date));
+      const latestRecord = allData[allData.length - 1];
+      await saveLatestData(symbol, latestRecord);
+      count++;
+    } catch (err) {
+      log(`⚠ Failed to generate latest for ${symbol}: ${err.message}`);
+    }
+  }
+
+  log(`✅ Latest data files generated for ${count} stocks`);
 }
 
 async function dailyUpdate(limit = null) {
@@ -411,6 +480,9 @@ async function dailyUpdate(limit = null) {
     await copyToPublic();
   }
 
+  // Always generate latest files, even if no new data was fetched
+  await generateLatestForAll(stocksToUpdate);
+
   console.table(stats);
 
   log("\n" + "=".repeat(60));
@@ -445,4 +517,4 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     });
 }
 
-export { dailyUpdate, updateStockFile, getTodayData };
+export { dailyUpdate, updateStockFile, getTodayData, saveLatestData, generateLatestForAll };
