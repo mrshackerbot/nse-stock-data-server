@@ -42,11 +42,6 @@ jobs:
             node scripts/fetchHistorical.js
           fi
 
-      - name: Fill missing data in data folder
-        run: |
-          echo "Checking for and filling missing dates in existing data..."
-          node scripts/fetchHistorical.js fill-missing
-
       - name: Build static site
         run: node scripts/build.js
 

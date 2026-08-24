@@ -163,8 +163,14 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
   if (useCache) {
     const cached = loadCache("stocks", cacheKey);
     if (cached && cached.length > 0) {
-      log(`✓ ${symbol}: ${cached.length} days (cached)`);
-      return { symbol, data: cached };
+      // Even with cache, check if current year has gaps in the data file
+      const currentYear = new Date().getFullYear();
+      const missingRanges = await findMissingDateRanges(symbolDir, currentYear);
+      if (missingRanges.length === 0) {
+        log(`✓ ${symbol}: ${cached.length} days (cached)`);
+        return { symbol, data: cached };
+      }
+      log(`[${symbol}] Cache exists but ${missingRanges.length} missing date ranges detected, refetching...`);
     }
   }
 
@@ -199,6 +205,26 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
       }
     }
 
+    // Check for missing dates and attempt to fill gaps
+    const currentYear = new Date().getFullYear();
+    const missingRanges = await findMissingDateRanges(symbolDir, currentYear);
+    if (missingRanges.length > 0 && session) {
+      log(`[${symbol}] Detected ${missingRanges.length} missing date ranges for ${currentYear}`);
+      for (const range of missingRanges) {
+        const rangeData = await fetchNSEDataCSV(symbol, range.start, range.end, 3, session);
+        if (rangeData && Array.isArray(rangeData) && rangeData.length > 0) {
+          for (const item of rangeData) {
+            if (!seen.has(item.date)) {
+              seen.add(item.date);
+              data.push(item);
+            }
+          }
+          log(`[${symbol}] Filled ${rangeData.length} entries for ${range.start} to ${range.end}`);
+        }
+        await new Promise(resolve => setTimeout(resolve, 1000));
+      }
+    }
+
     if (data.length > 0) {
       data.sort((a, b) => new Date(a.date) - new Date(b.date));
       log(`✓ ${symbol}: ${data.length} days`);
@@ -208,13 +234,13 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
       }
 
       ensureDir(symbolDir);
-      const yearData = {};
+      const yearDataMap = {};
       for (const item of data) {
         const year = item.date.split("-")[2];
-        if (!yearData[year]) yearData[year] = [];
-        yearData[year].push(item);
+        if (!yearDataMap[year]) yearDataMap[year] = [];
+        yearDataMap[year].push(item);
       }
-      for (const [year, items] of Object.entries(yearData)) {
+      for (const [year, items] of Object.entries(yearDataMap)) {
         const yearPath = path.join(symbolDir, `${year}.json`);
         await fs.writeFile(yearPath, JSON.stringify(items, null, 2));
       }
@@ -315,8 +341,6 @@ async function fetchAllHistorical(limit = null) {
   return { results, failures };
 }
 
-const NSE_WEEKENDS = [0, 6]; // Sunday=0, Saturday=6
-
 function isTradingDay(date) {
   return date.getDay() !== 0 && date.getDay() !== 6;
 }
@@ -335,15 +359,6 @@ function buildTradingDaySet(year) {
     }
   }
   return days;
-}
-
-function parseDateStr(dateStr) {
-  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  const parts = dateStr.split('-');
-  const day = parseInt(parts[0]);
-  const month = months.indexOf(parts[1]);
-  const year = parseInt(parts[2]);
-  return new Date(year, month, day);
 }
 
 async function findMissingDateRanges(symbolDir, year) {
@@ -386,131 +401,35 @@ async function findMissingDateRanges(symbolDir, year) {
   return ranges;
 }
 
-async function fillMissingData(symbol, year) {
-  const symbolDir = getSymbolDir(symbol);
-  const cleanSym = cleanSymbol(symbol);
-  const cacheKey = formatSymbolForFilename(symbol);
-  const session = await getNSESession();
-
-  const missingRanges = await findMissingDateRanges(symbolDir, year);
-  if (missingRanges.length === 0) {
-    log(`✓ ${symbol}: No missing dates for ${year}`);
-    return { symbol, filled: 0 };
-  }
-
-  let totalNew = 0;
-  let existingData = [];
-
-  const yearFilePath = path.join(symbolDir, `${year}.json`);
-  if (existsSync(yearFilePath)) {
-    try {
-      const fileContent = await fs.readFile(yearFilePath, 'utf8');
-      existingData = JSON.parse(fileContent);
-    } catch {}
-  }
-
-  existingData.sort((a, b) => new Date(a.date) - new Date(b.date));
-  const existingDates = new Set(existingData.map(d => d.date));
-
-  for (const range of missingRanges) {
-    log(`[GapDetect] ${symbol}: Fetching ${range.start} to ${range.end} (${year})`);
-
-    const rangeData = await fetchNSEDataCSV(symbol, range.start, range.end, 3, session);
-    if (rangeData && Array.isArray(rangeData) && rangeData.length > 0) {
-      let added = 0;
-      for (const item of rangeData) {
-        if (!existingDates.has(item.date)) {
-          existingData.push(item);
-          existingDates.add(item.date);
-          added++;
-        }
-      }
-      totalNew += added;
-      log(`[GapFill] ${symbol}: Added ${added} new entries for ${range.start} to ${range.end}`);
-    }
-  }
-
-  if (totalNew > 0) {
-    existingData.sort((a, b) => new Date(a.date) - new Date(b.date));
-    ensureDir(symbolDir);
-    await fs.writeFile(
-      path.join(symbolDir, `${year}.json`),
-      JSON.stringify(existingData, null, 2),
-    );
-
-    const latestRecord = existingData[existingData.length - 1];
-    ensureDir(LATEST_DIR);
-    await fs.writeFile(
-      path.join(LATEST_DIR, `${formatSymbolForFilename(cleanSym)}.json`),
-      JSON.stringify(latestRecord, null, 2),
-    );
-
-    log(`✓ ${symbol}: Filled ${totalNew} missing entries for ${year}`);
-  }
-
-  return { symbol, filled: totalNew };
-}
-
 if (import.meta.url === `file://${process.argv[1]}`) {
-  const mode = process.argv[2];
-  const limit = process.argv[3] ? parseInt(process.argv[3]) : null;
-
-  if (mode === 'fill-missing') {
-    await ensureDirectories();
-    const symbols = await getNSE500Symbols(true);
-    const symbolsToFix = limit ? symbols.slice(0, limit) : symbols;
-    const currentYear = new Date().getFullYear();
-
-    log(`\n🔍 Checking for missing data in ${symbolsToFix.length} stocks for ${currentYear}...\n`);
-
-    let totalFilled = 0;
-    let stocksFixed = 0;
-
-    for (const symbol of symbolsToFix) {
-      try {
-        const result = await fillMissingData(symbol, currentYear);
-        if (result.filled > 0) {
-          totalFilled += result.filled;
-          stocksFixed++;
-        }
-      } catch (err) {
-        log(`⚠ ${symbol}: ${err.message}`);
+  const limit = process.argv[2] ? parseInt(process.argv[2]) : null;
+  fetchAllHistorical(limit)
+    .then((result) => {
+      console.log("\nFinal result:", JSON.stringify(result, null, 2));
+      
+      // Calculate success rate
+      const totalAttempts = result.results.length + result.failures.length;
+      const successRate = totalAttempts > 0 ? result.results.length / totalAttempts : 0;
+      const failureRate = 1 - successRate;
+      
+      log(`\nSuccess Rate: ${(successRate * 100).toFixed(1)}% (${result.results.length}/${totalAttempts})`);
+      
+      // Exit with 0 if at least 80% of stocks fetched successfully
+      // Exit with 1 if too many failures (>20%) or no stocks fetched
+      const exitCode = failureRate > 0.2 || totalAttempts === 0 ? 1 : 0;
+      
+      if (exitCode === 0) {
+        log("✅ Historical fetch workflow completed successfully!");
+      } else {
+        log("⚠️ Historical fetch had too many failures - check logs");
       }
-    }
-
-    log(`\n✅ Fill complete: ${stocksFixed} stocks fixed, ${totalFilled} entries filled`);
-    await copyToPublic();
-    process.exit(0);
-  } else {
-    const symbolsToFetch = limit ? limit : null;
-    fetchAllHistorical(symbolsToFetch)
-      .then((result) => {
-        console.log("\nFinal result:", JSON.stringify(result, null, 2));
-        
-        // Calculate success rate
-        const totalAttempts = result.results.length + result.failures.length;
-        const successRate = totalAttempts > 0 ? result.results.length / totalAttempts : 0;
-        const failureRate = 1 - successRate;
-        
-        log(`\nSuccess Rate: ${(successRate * 100).toFixed(1)}% (${result.results.length}/${totalAttempts})`);
-        
-        // Exit with 0 if at least 80% of stocks fetched successfully
-        // Exit with 1 if too many failures (>20%) or no stocks fetched
-        const exitCode = failureRate > 0.2 || totalAttempts === 0 ? 1 : 0;
-        
-        if (exitCode === 0) {
-          log("✅ Historical fetch workflow completed successfully!");
-        } else {
-          log("⚠️ Historical fetch had too many failures - check logs");
-        }
-        
-        process.exit(exitCode);
-      })
-      .catch((err) => {
-        console.error("❌ Fatal error:", err);
-        process.exit(1);
-      });
-  }
+      
+      process.exit(exitCode);
+    })
+    .catch((err) => {
+      console.error("❌ Fatal error:", err);
+      process.exit(1);
+    });
 }
 
-export { fetchAllHistorical, fetchStockData, fetchNSEDataCSV, fillMissingData };
+export { fetchAllHistorical, fetchStockData, fetchNSEDataCSV, findMissingDateRanges };
