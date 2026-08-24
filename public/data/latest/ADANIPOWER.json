@@ -4,14 +4,13 @@
   "open": 205.2,
   "high": 205.6,
   "low": 202.57,
-  "close": 203.7,
-  "closePrice": 203.7,
   "lastPrice": 203.7,
+  "close": 203.7,
   "avgPrice": 203.52,
   "volume": 9498733,
   "turnover": 1933216004.76,
   "noOfTrades": 55607,
   "deliverableQty": 4212862,
-  "deliverablePercent": 44.35,
+  "pctDlyQtToTradedQty": 44.35,
   "symbol": "ADANIPOWER"
 }

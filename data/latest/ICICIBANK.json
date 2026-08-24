@@ -4,14 +4,13 @@
   "open": 1420.5,
   "high": 1425.5,
   "low": 1408.7,
-  "close": 1415,
-  "closePrice": 1415,
   "lastPrice": 1415,
+  "close": 1415,
   "avgPrice": 1415.58,
   "volume": 5307113,
   "turnover": 7512641856.4,
   "noOfTrades": 134604,
   "deliverableQty": 2825622,
-  "deliverablePercent": 53.24,
+  "pctDlyQtToTradedQty": 53.24,
   "symbol": "ICICIBANK"
 }

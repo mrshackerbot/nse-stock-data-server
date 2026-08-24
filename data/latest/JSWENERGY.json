@@ -4,14 +4,13 @@
   "open": 547.55,
   "high": 553.3,
   "low": 544.2,
-  "close": 544.7,
-  "closePrice": 544.7,
   "lastPrice": 544.7,
+  "close": 544.7,
   "avgPrice": 548.41,
   "volume": 721083,
   "turnover": 395449509.1,
   "noOfTrades": 17809,
   "deliverableQty": 314447,
-  "deliverablePercent": 43.61,
+  "pctDlyQtToTradedQty": 43.61,
   "symbol": "JSWENERGY"
 }

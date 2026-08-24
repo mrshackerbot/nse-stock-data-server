@@ -4,14 +4,13 @@
   "open": 13.98,
   "high": 14.16,
   "low": 13.97,
-  "close": 14.07,
-  "closePrice": 14.07,
   "lastPrice": 14.07,
+  "close": 14.07,
   "avgPrice": 14.07,
   "volume": 229336931,
   "turnover": 3227714598.72,
   "noOfTrades": 563699,
   "deliverableQty": 83936634,
-  "deliverablePercent": 36.6,
+  "pctDlyQtToTradedQty": 36.6,
   "symbol": "IDEA"
 }

@@ -4,14 +4,13 @@
   "open": 3316,
   "high": 3316,
   "low": 3263,
-  "close": 3288,
-  "closePrice": 3288,
   "lastPrice": 3288,
+  "close": 3288,
   "avgPrice": 3286.41,
   "volume": 1615909,
   "turnover": 5310540435.3,
   "noOfTrades": 71455,
   "deliverableQty": 951283,
-  "deliverablePercent": 58.87,
+  "pctDlyQtToTradedQty": 58.87,
   "symbol": "GRASIM"
 }

@@ -4,14 +4,13 @@
   "open": 1428,
   "high": 1442.3,
   "low": 1410.3,
-  "close": 1437.9,
-  "closePrice": 1437.9,
   "lastPrice": 1437.9,
+  "close": 1437.9,
   "avgPrice": 1429.72,
   "volume": 1220646,
   "turnover": 1745178416.9,
   "noOfTrades": 55248,
   "deliverableQty": 627649,
-  "deliverablePercent": 51.42,
+  "pctDlyQtToTradedQty": 51.42,
   "symbol": "CIPLA"
 }

@@ -4,14 +4,13 @@
   "open": 3920,
   "high": 4118.2,
   "low": 3903.3,
-  "close": 4114,
-  "closePrice": 4114,
   "lastPrice": 4114,
+  "close": 4114,
   "avgPrice": 4069.61,
   "volume": 1317215,
   "turnover": 5360547990.1,
   "noOfTrades": 91550,
   "deliverableQty": 407450,
-  "deliverablePercent": 30.93,
+  "pctDlyQtToTradedQty": 30.93,
   "symbol": "SIEMENS"
 }

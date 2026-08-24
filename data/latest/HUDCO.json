@@ -4,14 +4,13 @@
   "open": 186.1,
   "high": 188.4,
   "low": 186.09,
-  "close": 187.4,
-  "closePrice": 187.53,
   "lastPrice": 187.4,
+  "close": 187.53,
   "avgPrice": 187.38,
   "volume": 892018,
   "turnover": 167150452.53,
   "noOfTrades": 13443,
   "deliverableQty": 422070,
-  "deliverablePercent": 47.32,
+  "pctDlyQtToTradedQty": 47.32,
   "symbol": "HUDCO"
 }

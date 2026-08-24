@@ -4,14 +4,13 @@
   "open": 2614,
   "high": 2662.6,
   "low": 2589,
-  "close": 2595,
-  "closePrice": 2596.1,
   "lastPrice": 2595,
+  "close": 2596.1,
   "avgPrice": 2619.94,
   "volume": 489377,
   "turnover": 1282139756.2,
   "noOfTrades": 30161,
   "deliverableQty": 137360,
-  "deliverablePercent": 28.07,
+  "pctDlyQtToTradedQty": 28.07,
   "symbol": "GRSE"
 }

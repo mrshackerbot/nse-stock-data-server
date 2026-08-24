@@ -4,14 +4,13 @@
   "open": 274,
   "high": 274.35,
   "low": 268.3,
-  "close": 271.4,
-  "closePrice": 271.4,
   "lastPrice": 271.4,
+  "close": 271.4,
   "avgPrice": 270.4,
   "volume": 7643689,
   "turnover": 2066837185.8,
   "noOfTrades": 58155,
   "deliverableQty": 3719572,
-  "deliverablePercent": 48.66,
+  "pctDlyQtToTradedQty": 48.66,
   "symbol": "POWERGRID"
 }

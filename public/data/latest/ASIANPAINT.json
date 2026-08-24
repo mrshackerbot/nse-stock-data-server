@@ -4,14 +4,13 @@
   "open": 2640.4,
   "high": 2642.7,
   "low": 2622,
-  "close": 2640.8,
-  "closePrice": 2640.8,
   "lastPrice": 2640.8,
+  "close": 2640.8,
   "avgPrice": 2629.74,
   "volume": 355289,
   "turnover": 934318394.6,
   "noOfTrades": 28868,
   "deliverableQty": 215532,
-  "deliverablePercent": 60.66,
+  "pctDlyQtToTradedQty": 60.66,
   "symbol": "ASIANPAINT"
 }

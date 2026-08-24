@@ -4,14 +4,13 @@
   "open": 4100,
   "high": 4107.1,
   "low": 4077.7,
-  "close": 4090,
-  "closePrice": 4090,
   "lastPrice": 4090,
+  "close": 4090,
   "avgPrice": 4089.89,
   "volume": 1369496,
   "turnover": 5601091714.7,
   "noOfTrades": 80383,
   "deliverableQty": 894318,
-  "deliverablePercent": 65.3,
+  "pctDlyQtToTradedQty": 65.3,
   "symbol": "LT"
 }

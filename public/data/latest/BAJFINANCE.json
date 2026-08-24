@@ -4,14 +4,13 @@
   "open": 1086,
   "high": 1094.9,
   "low": 1076.9,
-  "close": 1077,
-  "closePrice": 1077,
   "lastPrice": 1077,
+  "close": 1077,
   "avgPrice": 1084.65,
   "volume": 4342556,
   "turnover": 4710147245.7,
   "noOfTrades": 121593,
   "deliverableQty": 3193243,
-  "deliverablePercent": 73.53,
+  "pctDlyQtToTradedQty": 73.53,
   "symbol": "BAJFINANCE"
 }

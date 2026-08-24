@@ -4,14 +4,13 @@
   "open": 270.3,
   "high": 276.8,
   "low": 270.3,
-  "close": 273.7,
-  "closePrice": 273.1,
   "lastPrice": 273.7,
+  "close": 273.1,
   "avgPrice": 274.52,
   "volume": 1871904,
   "turnover": 513869779.65,
   "noOfTrades": 36469,
   "deliverableQty": 864741,
-  "deliverablePercent": 46.2,
+  "pctDlyQtToTradedQty": 46.2,
   "symbol": "NLCINDIA"
 }

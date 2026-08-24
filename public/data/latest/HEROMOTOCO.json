@@ -4,14 +4,13 @@
   "open": 5720,
   "high": 5728,
   "low": 5650,
-  "close": 5685,
-  "closePrice": 5685,
   "lastPrice": 5685,
+  "close": 5685,
   "avgPrice": 5686.84,
   "volume": 281646,
   "turnover": 1601675350.5,
   "noOfTrades": 24178,
   "deliverableQty": 145338,
-  "deliverablePercent": 51.6,
+  "pctDlyQtToTradedQty": 51.6,
   "symbol": "HEROMOTOCO"
 }

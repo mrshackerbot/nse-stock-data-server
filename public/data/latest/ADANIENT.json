@@ -4,14 +4,13 @@
   "open": 3010,
   "high": 3019.8,
   "low": 2971.5,
-  "close": 2998.6,
-  "closePrice": 2998.6,
   "lastPrice": 2998.6,
+  "close": 2998.6,
   "avgPrice": 2993.01,
   "volume": 832518,
   "turnover": 2491736571.1,
   "noOfTrades": 62966,
   "deliverableQty": 415479,
-  "deliverablePercent": 49.91,
+  "pctDlyQtToTradedQty": 49.91,
   "symbol": "ADANIENT"
 }

@@ -4,14 +4,13 @@
   "open": 1580.1,
   "high": 1599,
   "low": 1574.1,
-  "close": 1584,
-  "closePrice": 1584,
   "lastPrice": 1584,
+  "close": 1584,
   "avgPrice": 1587.42,
   "volume": 2197042,
   "turnover": 3487626491.1,
   "noOfTrades": 101243,
   "deliverableQty": 1420794,
-  "deliverablePercent": 64.67,
+  "pctDlyQtToTradedQty": 64.67,
   "symbol": "TECHM"
 }

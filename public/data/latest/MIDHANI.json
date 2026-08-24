@@ -4,14 +4,13 @@
   "open": 424.45,
   "high": 428.55,
   "low": 416.8,
-  "close": 417.15,
-  "closePrice": 418.1,
   "lastPrice": 417.15,
+  "close": 418.1,
   "avgPrice": 421.91,
   "volume": 411897,
   "turnover": 173781642,
   "noOfTrades": 12631,
   "deliverableQty": 194614,
-  "deliverablePercent": 47.25,
+  "pctDlyQtToTradedQty": 47.25,
   "symbol": "MIDHANI"
 }

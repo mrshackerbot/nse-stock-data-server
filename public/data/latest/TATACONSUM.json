@@ -4,14 +4,13 @@
   "open": 1049,
   "high": 1062.5,
   "low": 1041.8,
-  "close": 1062.5,
-  "closePrice": 1062.5,
   "lastPrice": 1062.5,
+  "close": 1062.5,
   "avgPrice": 1052.32,
   "volume": 1085041,
   "turnover": 1141813903.8,
   "noOfTrades": 33105,
   "deliverableQty": 631305,
-  "deliverablePercent": 58.18,
+  "pctDlyQtToTradedQty": 58.18,
   "symbol": "TATACONSUM"
 }

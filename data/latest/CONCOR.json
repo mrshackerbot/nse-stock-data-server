@@ -4,14 +4,13 @@
   "open": 515.05,
   "high": 524.2,
   "low": 513.05,
-  "close": 516.4,
-  "closePrice": 516.4,
   "lastPrice": 516.4,
+  "close": 516.4,
   "avgPrice": 519.86,
   "volume": 1592382,
   "turnover": 827814082.45,
   "noOfTrades": 69948,
   "deliverableQty": 817552,
-  "deliverablePercent": 51.34,
+  "pctDlyQtToTradedQty": 51.34,
   "symbol": "CONCOR"
 }

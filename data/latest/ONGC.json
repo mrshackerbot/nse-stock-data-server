@@ -4,14 +4,13 @@
   "open": 237,
   "high": 237.94,
   "low": 235.63,
-  "close": 236.55,
-  "closePrice": 236.55,
   "lastPrice": 236.55,
+  "close": 236.55,
   "avgPrice": 236.54,
   "volume": 7122883,
   "turnover": 1684875825.62,
   "noOfTrades": 79092,
   "deliverableQty": 4466858,
-  "deliverablePercent": 62.71,
+  "pctDlyQtToTradedQty": 62.71,
   "symbol": "ONGC"
 }

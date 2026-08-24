@@ -4,14 +4,13 @@
   "open": 1005.1,
   "high": 1018.4,
   "low": 1004.5,
-  "close": 1018.4,
-  "closePrice": 1018.4,
   "lastPrice": 1018.4,
+  "close": 1018.4,
   "avgPrice": 1012.44,
   "volume": 948101,
   "turnover": 959899542.1,
   "noOfTrades": 29245,
   "deliverableQty": 415034,
-  "deliverablePercent": 43.78,
+  "pctDlyQtToTradedQty": 43.78,
   "symbol": "INDUSINDBK"
 }

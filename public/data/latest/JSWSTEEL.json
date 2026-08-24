@@ -4,14 +4,13 @@
   "open": 1298,
   "high": 1327,
   "low": 1295.3,
-  "close": 1327,
-  "closePrice": 1327,
   "lastPrice": 1327,
+  "close": 1327,
   "avgPrice": 1312.6,
   "volume": 3648206,
   "turnover": 4788623893,
   "noOfTrades": 82542,
   "deliverableQty": 1937710,
-  "deliverablePercent": 53.11,
+  "pctDlyQtToTradedQty": 53.11,
   "symbol": "JSWSTEEL"
 }

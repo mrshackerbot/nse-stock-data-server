@@ -4,14 +4,13 @@
   "open": 414.3,
   "high": 414.6,
   "low": 405.55,
-  "close": 409,
-  "closePrice": 409,
   "lastPrice": 409,
+  "close": 409,
   "avgPrice": 408.86,
   "volume": 9480784,
   "turnover": 3876272427.65,
   "noOfTrades": 113335,
   "deliverableQty": 5485642,
-  "deliverablePercent": 57.86,
+  "pctDlyQtToTradedQty": 57.86,
   "symbol": "BEL"
 }

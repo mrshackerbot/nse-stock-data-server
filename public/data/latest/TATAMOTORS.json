@@ -4,14 +4,13 @@
   "open": 318.8,
   "high": 319.65,
   "low": 312.6,
-  "close": 314.4,
-  "closePrice": 314.4,
   "lastPrice": 314.4,
+  "close": 314.4,
   "avgPrice": 315.55,
   "volume": 8545165,
   "turnover": 2696441216.4,
   "noOfTrades": 103332,
   "deliverableQty": 4705988,
-  "deliverablePercent": 55.07,
+  "pctDlyQtToTradedQty": 55.07,
   "symbol": "TATAMOTORS"
 }

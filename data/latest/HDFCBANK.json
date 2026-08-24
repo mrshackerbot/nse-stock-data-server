@@ -4,14 +4,13 @@
   "open": 732.5,
   "high": 734.4,
   "low": 724.1,
-  "close": 729,
-  "closePrice": 729,
   "lastPrice": 729,
+  "close": 729,
   "avgPrice": 727.99,
   "volume": 11408345,
   "turnover": 8305209859.5,
   "noOfTrades": 191412,
   "deliverableQty": 6724175,
-  "deliverablePercent": 58.94,
+  "pctDlyQtToTradedQty": 58.94,
   "symbol": "HDFCBANK"
 }

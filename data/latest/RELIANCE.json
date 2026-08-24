@@ -4,14 +4,13 @@
   "open": 1316.6,
   "high": 1320,
   "low": 1302.4,
-  "close": 1309.8,
-  "closePrice": 1309.8,
   "lastPrice": 1309.8,
+  "close": 1309.8,
   "avgPrice": 1307.91,
   "volume": 7277167,
   "turnover": 9517855656.3,
   "noOfTrades": 135944,
   "deliverableQty": 4653509,
-  "deliverablePercent": 63.95,
+  "pctDlyQtToTradedQty": 63.95,
   "symbol": "RELIANCE"
 }

@@ -4,14 +4,13 @@
   "open": 86.91,
   "high": 86.94,
   "low": 85.41,
-  "close": 85.89,
-  "closePrice": 85.89,
   "lastPrice": 85.89,
+  "close": 85.89,
   "avgPrice": 85.93,
   "volume": 12075489,
   "turnover": 1037704636.58,
   "noOfTrades": 52176,
   "deliverableQty": 6825468,
-  "deliverablePercent": 56.52,
+  "pctDlyQtToTradedQty": 56.52,
   "symbol": "IDFCFIRSTB"
 }

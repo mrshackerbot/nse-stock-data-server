@@ -4,14 +4,13 @@
   "open": 218.75,
   "high": 221.13,
   "low": 216.32,
-  "close": 220.4,
-  "closePrice": 220.14,
   "lastPrice": 220.4,
+  "close": 220.14,
   "avgPrice": 218.81,
   "volume": 360826,
   "turnover": 78952471.61,
   "noOfTrades": 9632,
   "deliverableQty": 163349,
-  "deliverablePercent": 45.27,
+  "pctDlyQtToTradedQty": 45.27,
   "symbol": "RITES"
 }

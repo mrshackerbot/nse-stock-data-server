@@ -4,14 +4,13 @@
   "open": 1047.9,
   "high": 1047.9,
   "low": 1032.1,
-  "close": 1039.5,
-  "closePrice": 1039.5,
   "lastPrice": 1039.5,
+  "close": 1039.5,
   "avgPrice": 1036.32,
   "volume": 8868193,
   "turnover": 9190247836.4,
   "noOfTrades": 140325,
   "deliverableQty": 5664401,
-  "deliverablePercent": 63.87,
+  "pctDlyQtToTradedQty": 63.87,
   "symbol": "SBIN"
 }

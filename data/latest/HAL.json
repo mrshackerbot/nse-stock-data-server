@@ -4,14 +4,13 @@
   "open": 4990,
   "high": 4990,
   "low": 4858,
-  "close": 4906,
-  "closePrice": 4906,
   "lastPrice": 4906,
+  "close": 4906,
   "avgPrice": 4905.3,
   "volume": 647190,
   "turnover": 3174660173.3,
   "noOfTrades": 47842,
   "deliverableQty": 268294,
-  "deliverablePercent": 41.46,
+  "pctDlyQtToTradedQty": 41.46,
   "symbol": "HAL"
 }

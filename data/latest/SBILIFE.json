@@ -4,14 +4,13 @@
   "open": 1801.7,
   "high": 1801.7,
   "low": 1759.1,
-  "close": 1761.8,
-  "closePrice": 1761.8,
   "lastPrice": 1761.8,
+  "close": 1761.8,
   "avgPrice": 1774.14,
   "volume": 542306,
   "turnover": 962125782.4,
   "noOfTrades": 41329,
   "deliverableQty": 278670,
-  "deliverablePercent": 51.39,
+  "pctDlyQtToTradedQty": 51.39,
   "symbol": "SBILIFE"
 }
