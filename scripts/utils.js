@@ -294,109 +294,28 @@ export function isValidDate(dateString) {
 }
 
 // Fallback symbol list (used if NSE API is unavailable)
+// Reads from stocksList.json in metadata directory
 export function getFallbackSymbols() {
-  return [
-    "RELIANCE",
-    "TCS",
-    "HDFCBANK",
-    "INFY",
-    "HINDUNILVR",
-    "ICICIBANK",
-    "KOTAKBANK",
-    "SBIN",
-    "BHARTIARTL",
-    "ITC",
-    "ASIANPAINT",
-    "MARUTI",
-    "AXISBANK",
-    "LT",
-    "WIPRO",
-    "BAJFINANCE",
-    "HCLTECH",
-    "SUNPHARMA",
-    "TITAN",
-    "ULTRACEMCO",
-    "NTPC",
-    "TATAMOTORS",
-    "TECHM",
-    "M&M",
-    "POWERGRID",
-    "GRASIM",
-    "NESTLEIND",
-    "JSWSTEEL",
-    "BAJAJFINSV",
-    "TATACONSUM",
-    "ADANIENT",
-    "DIVISLAB",
-    "SBILIFE",
-    "DRREDDY",
-    "HDFCLIFE",
-    "BAJAJ-AUTO",
-    "EICHERMOT",
-    "COALINDIA",
-    "BPCL",
-    "UPL",
-    "HEROMOTOCO",
-    "ONGC",
-    "APOLLOHOSP",
-    "CIPLA",
-    "DABUR",
-    "GODREJCP",
-    "HAVELLS",
-    "HDFCAMC",
-    "ICICIPRULI",
-    "INDUSINDBK",
-    "PFC",
-    "RECLTD",
-    "SIEMENS",
-    "TATAPOWER",
-    "BRITANNIA",
-    "TORNTPHARM",
-    "AUROPHARMA",
-    "FEDERALBNK",
-    "CANBK",
-    "BANDHANBNK",
-    "IDFCFIRSTB",
-    "IDEA",
-    "BANKBARODA",
-    "PNB",
-    "UNIONBANK",
-    "IOB",
-    "BANKINDIA",
-    "UCOBANK",
-    "BOB",
-    "NHPC",
-    "PGCIL",
-    "POWERINDIA",
-    "NLCINDIA",
-    "GAIL",
-    "IOC",
-    "MRPL",
-    "HINDPETRO",
-    "PETRONET",
-    "TATACHEM",
-    "JINDALSTEL",
-    "JSWENERGY",
-    "ADANIPOWER",
-    "SJVN",
-    "HUDCO",
-    "IRCON",
-    "RITES",
-    "IRCTC",
-    "CONCOR",
-    "SCI",
-    "HAL",
-    "BEL",
-    "BDL",
-    "BEML",
-    "GRSE",
-    "MAZAGON",
-    "COCHINSHIP",
-    "MIDHANI",
-    "ACC",
-    "AMBUJACEM",
-    "SHREECEM",
-  ];
+  const filePath = path.join(METADATA_DIR, "stocksList.json");
+  try {
+    if (existsSync(filePath)) {
+      const data = readFileSync(filePath, "utf8");
+      const parsed = JSON.parse(data);
+      if (parsed && Array.isArray(parsed.stocksList) && parsed.stocksList.length > 0) {
+        log(`Using ${parsed.stocksList.length} symbols from stocksList.json as fallback`);
+        return parsed.stocksList;
+      }
+    }
+  } catch (err) {
+    log(`Failed to read stocksList.json for fallback: ${err.message}`);
+  }
+
+  log("No stocksList.json found and no fallback available");
+  return [];
+}
+
+export function getFallbackSymbolsAsync() {
+  return getFallbackSymbols();
 }
 
 export const NSE_INDICES_URL =
@@ -421,24 +340,42 @@ export async function getNSE500Symbols(useCache = true) {
     }
   }
 
-  // Try NSE NIFTY 500 page first
+  // Try NSE NIFTY 500 API first
   try {
     log("Fetching NSE 500 symbols from NSE India...");
 
     const session = await getNSESession();
     const { cookieHeader } = session;
 
-    const response = await axios.get(NSE_EQUITY_INDICES_URL, {
-      params: { index: "NIFTY 500" },
-      headers: getNSEOptionsWithCookiesAndToken({}, cookieHeader),
-      timeout: 30000,
-    });
-
-    const data = response.data;
+    const indexNames = ["NIFTY500", "NIFTY 500", "NIFTY500_INDEX"];
     let symbols = [];
+    let fetched = false;
 
-    if (data && Array.isArray(data.data)) {
-      symbols = data.data.map((s) => s.symbol || s);
+    for (const indexName of indexNames) {
+      try {
+        const response = await axios.get(NSE_EQUITY_INDICES_URL, {
+          params: { index: indexName },
+          headers: getNSEOptionsWithCookiesAndToken({}, cookieHeader),
+          timeout: 30000,
+        });
+
+        const data = response.data;
+        if (data && Array.isArray(data.data)) {
+          symbols = data.data.map((s) => s.symbol || s);
+        }
+
+        if (symbols.length > 0) {
+          log(`Fetched ${symbols.length} symbols from NSE (index: ${indexName})`);
+          fetched = true;
+          break;
+        }
+      } catch (apiErr) {
+        log(`API attempt with index "${indexName}" failed: ${apiErr.message}`);
+      }
+    }
+
+    if (!fetched || symbols.length === 0) {
+      throw new Error("No symbols returned from NSE API");
     }
 
     // Clean symbols
@@ -449,10 +386,6 @@ export async function getNSE500Symbols(useCache = true) {
         ),
       ),
     ];
-
-    if (symbols.length === 0) {
-      throw new Error("No symbols returned");
-    }
 
     saveCache("system", "nse_500_symbols", symbols);
     log(`Fetched ${symbols.length} symbols from NSE`);
@@ -471,11 +404,11 @@ export async function fetchEquityIndicesData() {
     const session = await getNSESession();
     const { cookieHeader } = session;
 
-    const response = await axios.get(NSE_EQUITY_INDICES_URL, {
-      params: { index: "NIFTY 500" },
-      headers: getNSEOptionsWithCookiesAndToken({}, cookieHeader),
-      timeout: 30000,
-    });
+     const response = await axios.get(NSE_EQUITY_INDICES_URL, {
+       params: { index: "NIFTY500" },
+       headers: getNSEOptionsWithCookiesAndToken({}, cookieHeader),
+       timeout: 30000,
+     });
 
     const data = response.data;
     if (!data || !Array.isArray(data.data)) {

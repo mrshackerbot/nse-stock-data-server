@@ -505,7 +505,11 @@ async function dailyUpdate(limit = null) {
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) {
-  const limit = process.argv[2] ? parseInt(process.argv[2]) : null;
+  const limit = process.argv[2] ? Number(process.argv[2]) : null;
+  if (limit !== null && (!Number.isInteger(limit) || limit < 0)) {
+    console.error("Error: limit must be a non-negative integer");
+    process.exit(1);
+  }
   dailyUpdate(limit)
     .then((result) => {
       console.log("\nFinal result:", JSON.stringify(result, null, 2));
