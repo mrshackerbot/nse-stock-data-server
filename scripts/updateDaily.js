@@ -47,14 +47,14 @@ async function getTodayData(symbol, session = null) {
           csv: "true",
         },
         headers: headers,
-        timeout: 30000,
+        timeout: 15000,
         maxRedirects: 5,
         validateStatus: (status) => status < 500,
         responseType: "text",
       });
 
       if (response.status === 429) {
-        const waitTime = 15 * attempt;
+        const waitTime = 8 * attempt;
         log(
           `[RateLimit] ${symbol}: HTTP ${response.status}. Waiting ${waitTime}s (attempt ${attempt}/${maxRetries})`,
         );
@@ -65,7 +65,7 @@ async function getTodayData(symbol, session = null) {
       if (response.status >= 400) {
         log(`[HTTP ${response.status}] ${symbol}: ${response.statusText}`);
         if (attempt < maxRetries) {
-          await new Promise((resolve) => setTimeout(resolve, 2000 * attempt));
+          await new Promise((resolve) => setTimeout(resolve, 1000 * attempt));
           continue;
         }
         return null;
@@ -421,7 +421,7 @@ async function dailyUpdate(limit = null) {
   const results = [];
   const successes = [];
   const failures = [];
-  const batchSize = 10; // Reduced from 5 to avoid rate limiting
+  const batchSize = 20;
 
   for (let i = 0; i < stocksToUpdate.length; i += batchSize) {
     const batch = stocksToUpdate.slice(i, i + batchSize);
@@ -441,7 +441,7 @@ async function dailyUpdate(limit = null) {
     );
 
     if (i + batchSize < stocksToUpdate.length) {
-      await new Promise((resolve) => setTimeout(resolve, 2000));
+      await new Promise((resolve) => setTimeout(resolve, 1000));
     }
   }
 

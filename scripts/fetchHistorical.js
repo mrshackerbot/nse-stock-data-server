@@ -64,14 +64,14 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3, session
           csv: 'true',
         },
         headers: headers,
-        timeout: 30000,
+         timeout: 15000,
         maxRedirects: 5,
         validateStatus: (status) => status < 500,
         responseType: 'text',
       });
 
       if (response.status === 429) {
-        const waitTime = 15 * attempt;
+        const waitTime = 8 * attempt;
         log(`[RateLimit] ${symbol}: HTTP ${response.status}. Waiting ${waitTime}s (attempt ${attempt}/${maxRetries})`);
         await new Promise(resolve => setTimeout(resolve, waitTime * 1000));
         continue;
@@ -80,7 +80,7 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3, session
       if (response.status >= 400) {
         log(`[HTTP ${response.status}] ${symbol}: ${response.statusText}`);
         if (attempt < maxRetries) {
-          await new Promise(resolve => setTimeout(resolve, 2000 * attempt));
+          await new Promise(resolve => setTimeout(resolve, 1000 * attempt));
           continue;
         }
         return null;
@@ -176,23 +176,22 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
 
   try {
     const yearsToFetch = [2021, 2022, 2023, 2024, 2025, 2026];
-    let allData = [];
 
     // Get NSE session once for all year requests
     const session = await getNSESession();
 
-    for (const year of yearsToFetch) {
+    // Fetch all years in parallel instead of sequentially
+    const yearPromises = yearsToFetch.map(year => {
       const fromDate = `01-01-${year}`;
       const toDate = `31-12-${year}`;
+      return fetchNSEDataCSV(symbol, fromDate, toDate, 3, session);
+    });
 
-      const yearData = await fetchNSEDataCSV(symbol, fromDate, toDate, 3, session);
-
-      if (yearData && Array.isArray(yearData) && yearData.length > 0) {
-        allData = allData.concat(yearData);
-      }
-
-      if (year !== yearsToFetch[yearsToFetch.length - 1]) {
-        await new Promise(resolve => setTimeout(resolve, 1000));
+    const yearResults = await Promise.allSettled(yearPromises);
+    const allData = [];
+    for (const result of yearResults) {
+      if (result.status === 'fulfilled' && Array.isArray(result.value) && result.value.length > 0) {
+        allData.push(...result.value);
       }
     }
 
@@ -280,7 +279,7 @@ async function fetchAllHistorical(limit = null) {
 
   const results = [];
   const failures = [];
-  const batchSize = 10;
+  const batchSize = 20;
 
   for (let i = 0; i < symbolsToFetch.length; i += batchSize) {
     const batch = symbolsToFetch.slice(i, i + batchSize);
@@ -305,7 +304,7 @@ async function fetchAllHistorical(limit = null) {
     log(`Progress: ${processed}/${symbolsToFetch.length} | ✓ ${results.length} | ✗ ${failures.length}`);
 
     if (i + batchSize < symbolsToFetch.length) {
-      await new Promise(resolve => setTimeout(resolve, 2000));
+      await new Promise(resolve => setTimeout(resolve, 1000));
     }
   }
 
@@ -341,11 +340,16 @@ async function fetchAllHistorical(limit = null) {
   return { results, failures };
 }
 
+const tradingDayCache = {};
+
 function isTradingDay(date) {
   return date.getDay() !== 0 && date.getDay() !== 6;
 }
 
 function buildTradingDaySet(year) {
+  if (tradingDayCache[year]) {
+    return tradingDayCache[year];
+  }
   const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
   const days = [];
   for (let m = 0; m < 12; m++) {
@@ -358,6 +362,7 @@ function buildTradingDaySet(year) {
       }
     }
   }
+  tradingDayCache[year] = days;
   return days;
 }
 
