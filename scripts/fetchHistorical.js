@@ -279,7 +279,7 @@ async function fetchAllHistorical(limit = null) {
 
   const results = [];
   const failures = [];
-  const batchSize = 20;
+  const batchSize = 12;
 
   for (let i = 0; i < symbolsToFetch.length; i += batchSize) {
     const batch = symbolsToFetch.slice(i, i + batchSize);
