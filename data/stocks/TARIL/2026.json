@@ -2542,5 +2542,21 @@
     "deliverableQty": 1096204,
     "pctDlyQtToTradedQty": 25.97,
     "symbol": "TARIL"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 302.1,
+    "open": 303.95,
+    "high": 309.4,
+    "low": 300.2,
+    "lastPrice": 308,
+    "close": 307.85,
+    "avgPrice": 305.97,
+    "volume": 1808802,
+    "turnover": 553435056.8,
+    "noOfTrades": 25255,
+    "deliverableQty": 628128,
+    "pctDlyQtToTradedQty": 34.73,
+    "symbol": "TARIL"
   }
 ]

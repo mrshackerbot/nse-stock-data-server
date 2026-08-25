@@ -2542,5 +2542,21 @@
     "deliverableQty": 1234563,
     "pctDlyQtToTradedQty": 37.06,
     "symbol": "NTPCGREEN"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 91.44,
+    "open": 91.69,
+    "high": 92.03,
+    "low": 91.04,
+    "lastPrice": 91.57,
+    "close": 91.65,
+    "avgPrice": 91.46,
+    "volume": 1170640,
+    "turnover": 107072121.09,
+    "noOfTrades": 24819,
+    "deliverableQty": 589492,
+    "pctDlyQtToTradedQty": 50.36,
+    "symbol": "NTPCGREEN"
   }
 ]

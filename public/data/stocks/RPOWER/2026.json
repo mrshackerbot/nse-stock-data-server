@@ -2542,5 +2542,21 @@
     "deliverableQty": 7893289,
     "pctDlyQtToTradedQty": 33.01,
     "symbol": "RPOWER"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 23.09,
+    "open": 23,
+    "high": 23.09,
+    "low": 22.59,
+    "lastPrice": 22.71,
+    "close": 22.7,
+    "avgPrice": 22.7,
+    "volume": 12115326,
+    "turnover": 275076064.93,
+    "noOfTrades": 25103,
+    "deliverableQty": 4705702,
+    "pctDlyQtToTradedQty": 38.84,
+    "symbol": "RPOWER"
   }
 ]

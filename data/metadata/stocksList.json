@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T01:03:31.722Z",
+  "lastUpdated": "2026-08-25T20:58:22.391Z",
   "totalStocks": 500,
   "stocksList": [
     "360ONE",
@@ -507,5 +507,13 @@
     "start": "2021-01-01",
     "end": "2026-12-31"
   },
-  "failures": []
+  "failures": [],
+  "lastUpdateStats": {
+    "updated": 499,
+    "failed": 0,
+    "alreadyUpdated": 0,
+    "noNewData": 1,
+    "noUpdateNeeded": 0,
+    "skipped": 0
+  }
 }

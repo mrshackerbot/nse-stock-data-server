@@ -2542,5 +2542,21 @@
     "deliverableQty": 3269898,
     "pctDlyQtToTradedQty": 33.63,
     "symbol": "REDINGTON"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 365.1,
+    "open": 365.9,
+    "high": 366.5,
+    "low": 350.15,
+    "lastPrice": 351.5,
+    "close": 352.65,
+    "avgPrice": 356.81,
+    "volume": 4487821,
+    "turnover": 1601297545.75,
+    "noOfTrades": 78718,
+    "deliverableQty": 1845578,
+    "pctDlyQtToTradedQty": 41.12,
+    "symbol": "REDINGTON"
   }
 ]

@@ -2542,5 +2542,21 @@
     "deliverableQty": 89322,
     "pctDlyQtToTradedQty": 58.5,
     "symbol": "ENDURANCE"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 2988.2,
+    "open": 3010,
+    "high": 3015,
+    "low": 2978,
+    "lastPrice": 2988.6,
+    "close": 2987.5,
+    "avgPrice": 2990.71,
+    "volume": 115513,
+    "turnover": 345465492.3,
+    "noOfTrades": 15440,
+    "deliverableQty": 67187,
+    "pctDlyQtToTradedQty": 58.16,
+    "symbol": "ENDURANCE"
   }
 ]

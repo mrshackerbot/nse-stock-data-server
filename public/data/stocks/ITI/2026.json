@@ -2542,5 +2542,21 @@
     "deliverableQty": 67221,
     "pctDlyQtToTradedQty": 41.57,
     "symbol": "ITI"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 279,
+    "open": 279,
+    "high": 279.85,
+    "low": 276,
+    "lastPrice": 277.3,
+    "close": 278.15,
+    "avgPrice": 277.61,
+    "volume": 107329,
+    "turnover": 29795976.7,
+    "noOfTrades": 3517,
+    "deliverableQty": 40320,
+    "pctDlyQtToTradedQty": 37.57,
+    "symbol": "ITI"
   }
 ]

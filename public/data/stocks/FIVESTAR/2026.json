@@ -2542,5 +2542,21 @@
     "deliverableQty": 284558,
     "pctDlyQtToTradedQty": 55.79,
     "symbol": "FIVESTAR"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 500,
+    "open": 500,
+    "high": 507,
+    "low": 489.5,
+    "lastPrice": 501.05,
+    "close": 501,
+    "avgPrice": 499.86,
+    "volume": 758823,
+    "turnover": 379308748,
+    "noOfTrades": 31819,
+    "deliverableQty": 341383,
+    "pctDlyQtToTradedQty": 44.99,
+    "symbol": "FIVESTAR"
   }
 ]

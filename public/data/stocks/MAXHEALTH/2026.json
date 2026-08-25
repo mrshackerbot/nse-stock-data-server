@@ -2542,5 +2542,21 @@
     "deliverableQty": 1181129,
     "pctDlyQtToTradedQty": 59.14,
     "symbol": "MAXHEALTH"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 990.5,
+    "open": 990.5,
+    "high": 1016,
+    "low": 980.3,
+    "lastPrice": 1016,
+    "close": 1016,
+    "avgPrice": 996,
+    "volume": 1889964,
+    "turnover": 1882402603.3,
+    "noOfTrades": 46887,
+    "deliverableQty": 1018218,
+    "pctDlyQtToTradedQty": 53.87,
+    "symbol": "MAXHEALTH"
   }
 ]

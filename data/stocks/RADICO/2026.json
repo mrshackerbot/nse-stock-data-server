@@ -2542,5 +2542,21 @@
     "deliverableQty": 130208,
     "pctDlyQtToTradedQty": 57.13,
     "symbol": "RADICO"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 4600,
+    "open": 4600,
+    "high": 4651.1,
+    "low": 4571.6,
+    "lastPrice": 4630,
+    "close": 4630,
+    "avgPrice": 4623.56,
+    "volume": 235847,
+    "turnover": 1090453114.9,
+    "noOfTrades": 18285,
+    "deliverableQty": 147056,
+    "pctDlyQtToTradedQty": 62.35,
+    "symbol": "RADICO"
   }
 ]

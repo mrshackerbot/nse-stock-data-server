@@ -2542,5 +2542,21 @@
     "deliverableQty": 101864,
     "pctDlyQtToTradedQty": 41.45,
     "symbol": "PRESTIGE"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 1635.8,
+    "open": 1631.9,
+    "high": 1631.9,
+    "low": 1606.2,
+    "lastPrice": 1623,
+    "close": 1623,
+    "avgPrice": 1617.33,
+    "volume": 286013,
+    "turnover": 462577345,
+    "noOfTrades": 16028,
+    "deliverableQty": 94291,
+    "pctDlyQtToTradedQty": 32.97,
+    "symbol": "PRESTIGE"
   }
 ]

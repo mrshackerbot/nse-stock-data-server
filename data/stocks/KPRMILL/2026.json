@@ -2542,5 +2542,21 @@
     "deliverableQty": 91059,
     "pctDlyQtToTradedQty": 46.78,
     "symbol": "KPRMILL"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 1112.3,
+    "open": 1110,
+    "high": 1125,
+    "low": 1100.1,
+    "lastPrice": 1122,
+    "close": 1120,
+    "avgPrice": 1112.95,
+    "volume": 136421,
+    "turnover": 151829987.8,
+    "noOfTrades": 11098,
+    "deliverableQty": 57946,
+    "pctDlyQtToTradedQty": 42.48,
+    "symbol": "KPRMILL"
   }
 ]

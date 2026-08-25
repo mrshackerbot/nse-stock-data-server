@@ -5950,5 +5950,21 @@
     "deliverableQty": 152619,
     "pctDlyQtToTradedQty": 5.64,
     "symbol": "HEXT"
+  },
+  {
+    "date": "25-Aug-2026",
+    "prevClose": 562.5,
+    "open": 559.4,
+    "high": 561.5,
+    "low": 548.85,
+    "lastPrice": 555.1,
+    "close": 556.9,
+    "avgPrice": 554.68,
+    "volume": 222581,
+    "turnover": 123461621.3,
+    "noOfTrades": 11229,
+    "deliverableQty": 41661,
+    "pctDlyQtToTradedQty": 18.72,
+    "symbol": "HEXT"
   }
 ]
