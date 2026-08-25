@@ -5,15 +5,14 @@
     "open": 367,
     "high": 373,
     "low": 351,
-    "close": 364.4,
-    "closePrice": 363.85,
     "lastPrice": 364.4,
+    "close": 363.85,
     "avgPrice": 363.94,
     "volume": 7525533,
     "turnover": 2738868406.4,
     "noOfTrades": 145710,
     "deliverableQty": 3520832,
-    "deliverablePercent": 46.79,
+    "pctDlyQtToTradedQty": 46.79,
     "symbol": "KFINTECH"
   },
   {
@@ -22,15 +21,14 @@
     "open": 365,
     "high": 370.8,
     "low": 342.35,
-    "close": 346,
-    "closePrice": 344.5,
     "lastPrice": 346,
+    "close": 344.5,
     "avgPrice": 356.05,
     "volume": 1383751,
     "turnover": 492677916.65,
     "noOfTrades": 32609,
     "deliverableQty": 535979,
-    "deliverablePercent": 38.73,
+    "pctDlyQtToTradedQty": 38.73,
     "symbol": "KFINTECH"
   }
 ]

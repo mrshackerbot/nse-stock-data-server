@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T17:01:15.336Z",
+  "lastUpdated": "2026-08-25T01:03:31.722Z",
   "totalStocks": 500,
   "stocksList": [
     "360ONE",
@@ -507,30 +507,5 @@
     "start": "2021-01-01",
     "end": "2026-12-31"
   },
-  "failures": [
-    {
-      "symbol": "DUMMYVEDL1",
-      "reason": "no_data"
-    },
-    {
-      "symbol": "DUMMYVEDL2",
-      "reason": "no_data"
-    },
-    {
-      "symbol": "DUMMYVEDL3",
-      "reason": "no_data"
-    },
-    {
-      "symbol": "DUMMYVEDL4",
-      "reason": "no_data"
-    }
-  ],
-  "lastUpdateStats": {
-    "updated": 500,
-    "failed": 0,
-    "alreadyUpdated": 0,
-    "noNewData": 0,
-    "noUpdateNeeded": 0,
-    "skipped": 0
-  }
+  "failures": []
 }
