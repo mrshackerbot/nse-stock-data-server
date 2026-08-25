@@ -176,22 +176,24 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
 
   try {
     const yearsToFetch = [2021, 2022, 2023, 2024, 2025, 2026];
+    const allData = [];
 
     // Get NSE session once for all year requests
     const session = await getNSESession();
 
-    // Fetch all years in parallel instead of sequentially
-    const yearPromises = yearsToFetch.map(year => {
+    // Fetch years sequentially to avoid NSE rate limiting
+    for (const year of yearsToFetch) {
       const fromDate = `01-01-${year}`;
       const toDate = `31-12-${year}`;
-      return fetchNSEDataCSV(symbol, fromDate, toDate, 3, session);
-    });
 
-    const yearResults = await Promise.allSettled(yearPromises);
-    const allData = [];
-    for (const result of yearResults) {
-      if (result.status === 'fulfilled' && Array.isArray(result.value) && result.value.length > 0) {
-        allData.push(...result.value);
+      const yearData = await fetchNSEDataCSV(symbol, fromDate, toDate, 3, session);
+
+      if (yearData && Array.isArray(yearData) && yearData.length > 0) {
+        allData.push(...yearData);
+      }
+
+      if (year !== yearsToFetch[yearsToFetch.length - 1]) {
+        await new Promise(resolve => setTimeout(resolve, 500));
       }
     }
 
@@ -279,7 +281,7 @@ async function fetchAllHistorical(limit = null) {
 
   const results = [];
   const failures = [];
-  const batchSize = 12;
+  const batchSize = 8;
 
   for (let i = 0; i < symbolsToFetch.length; i += batchSize) {
     const batch = symbolsToFetch.slice(i, i + batchSize);
@@ -304,7 +306,7 @@ async function fetchAllHistorical(limit = null) {
     log(`Progress: ${processed}/${symbolsToFetch.length} | ✓ ${results.length} | ✗ ${failures.length}`);
 
     if (i + batchSize < symbolsToFetch.length) {
-      await new Promise(resolve => setTimeout(resolve, 1000));
+      await new Promise(resolve => setTimeout(resolve, 3000));
     }
   }
 

@@ -421,7 +421,7 @@ async function dailyUpdate(limit = null) {
   const results = [];
   const successes = [];
   const failures = [];
-  const batchSize = 12;
+  const batchSize = 8;
 
   for (let i = 0; i < stocksToUpdate.length; i += batchSize) {
     const batch = stocksToUpdate.slice(i, i + batchSize);
@@ -441,7 +441,7 @@ async function dailyUpdate(limit = null) {
     );
 
     if (i + batchSize < stocksToUpdate.length) {
-      await new Promise((resolve) => setTimeout(resolve, 1000));
+      await new Promise((resolve) => setTimeout(resolve, 3000));
     }
   }
 
