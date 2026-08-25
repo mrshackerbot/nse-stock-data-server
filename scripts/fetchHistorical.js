@@ -175,7 +175,7 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
   }
 
   try {
-    const yearsToFetch = [2015, 2016, 2017, 2018, 2019, 2020];
+    const yearsToFetch = [2019, 2020];
     const allData = [];
 
     // Get NSE session once for all year requests
