@@ -7,7 +7,8 @@ on:
     # GitHub Actions runs cron jobs in UTC
     # 4:00 PM IST = 10:30 UTC
     # We run at 10:35 UTC (5 min after market close) to allow for closing trades
-    - cron: '35 10 * * 1-5'
+    - cron: '35 18 * * 1-5'
+      timezone: 'Asia/Kolkata'
   workflow_dispatch:
 
 permissions:

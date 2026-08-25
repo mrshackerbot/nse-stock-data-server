@@ -71,7 +71,7 @@ async function fetchNSEDataCSV(symbol, fromDate, toDate, maxRetries = 3, session
       });
 
       if (response.status === 429) {
-        const waitTime = 8 * attempt;
+        const waitTime = 5 * attempt;
         log(`[RateLimit] ${symbol}: HTTP ${response.status}. Waiting ${waitTime}s (attempt ${attempt}/${maxRetries})`);
         await new Promise(resolve => setTimeout(resolve, waitTime * 1000));
         continue;
@@ -175,7 +175,7 @@ async function fetchStockData(symbol, years = 3, useCache = true) {
   }
 
   try {
-    const yearsToFetch = [2021, 2022, 2023, 2024, 2025, 2026];
+    const yearsToFetch = [2015, 2016, 2017, 2018, 2019, 2020];
     const allData = [];
 
     // Get NSE session once for all year requests
@@ -281,7 +281,7 @@ async function fetchAllHistorical(limit = null) {
 
   const results = [];
   const failures = [];
-  const batchSize = 8;
+  const batchSize = 10;
 
   for (let i = 0; i < symbolsToFetch.length; i += batchSize) {
     const batch = symbolsToFetch.slice(i, i + batchSize);

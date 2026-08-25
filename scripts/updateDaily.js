@@ -54,7 +54,7 @@ async function getTodayData(symbol, session = null) {
       });
 
       if (response.status === 429) {
-        const waitTime = 8 * attempt;
+        const waitTime = 5 * attempt;
         log(
           `[RateLimit] ${symbol}: HTTP ${response.status}. Waiting ${waitTime}s (attempt ${attempt}/${maxRetries})`,
         );
@@ -421,7 +421,7 @@ async function dailyUpdate(limit = null) {
   const results = [];
   const successes = [];
   const failures = [];
-  const batchSize = 8;
+  const batchSize = 10;
 
   for (let i = 0; i < stocksToUpdate.length; i += batchSize) {
     const batch = stocksToUpdate.slice(i, i + batchSize);
