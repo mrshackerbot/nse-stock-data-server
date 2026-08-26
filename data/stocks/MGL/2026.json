@@ -2558,5 +2558,21 @@
     "deliverableQty": 152366,
     "pctDlyQtToTradedQty": 57.96,
     "symbol": "MGL"
+  },
+  {
+    "date": "26-Aug-2026",
+    "prevClose": 1101.4,
+    "open": 1102.1,
+    "high": 1119,
+    "low": 1102.1,
+    "lastPrice": 1115.2,
+    "close": 1115.3,
+    "avgPrice": 1114.54,
+    "volume": 93375,
+    "turnover": 104070036.8,
+    "noOfTrades": 7263,
+    "deliverableQty": 41764,
+    "pctDlyQtToTradedQty": 44.73,
+    "symbol": "MGL"
   }
 ]

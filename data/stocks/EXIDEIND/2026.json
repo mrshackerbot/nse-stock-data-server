@@ -2558,5 +2558,21 @@
     "deliverableQty": 444160,
     "pctDlyQtToTradedQty": 43.65,
     "symbol": "EXIDEIND"
+  },
+  {
+    "date": "26-Aug-2026",
+    "prevClose": 448.75,
+    "open": 449.85,
+    "high": 452.9,
+    "low": 442.4,
+    "lastPrice": 443.8,
+    "close": 444,
+    "avgPrice": 445.71,
+    "volume": 1173750,
+    "turnover": 523151446.05,
+    "noOfTrades": 21946,
+    "deliverableQty": 580444,
+    "pctDlyQtToTradedQty": 49.45,
+    "symbol": "EXIDEIND"
   }
 ]

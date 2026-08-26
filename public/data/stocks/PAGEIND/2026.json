@@ -2558,5 +2558,21 @@
     "deliverableQty": 14174,
     "pctDlyQtToTradedQty": 58.61,
     "symbol": "PAGEIND"
+  },
+  {
+    "date": "26-Aug-2026",
+    "prevClose": 35500,
+    "open": 35700,
+    "high": 35720,
+    "low": 35100,
+    "lastPrice": 35155,
+    "close": 35155,
+    "avgPrice": 35366.05,
+    "volume": 22437,
+    "turnover": 793508080,
+    "noOfTrades": 10678,
+    "deliverableQty": 11863,
+    "pctDlyQtToTradedQty": 52.87,
+    "symbol": "PAGEIND"
   }
 ]

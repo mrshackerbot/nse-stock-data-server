@@ -2558,5 +2558,21 @@
     "deliverableQty": 441053,
     "pctDlyQtToTradedQty": 31.71,
     "symbol": "IRCON"
+  },
+  {
+    "date": "26-Aug-2026",
+    "prevClose": 123.35,
+    "open": 124,
+    "high": 126.83,
+    "low": 123.6,
+    "lastPrice": 124.05,
+    "close": 124.05,
+    "avgPrice": 124.85,
+    "volume": 943301,
+    "turnover": 117772533.27,
+    "noOfTrades": 11123,
+    "deliverableQty": 280916,
+    "pctDlyQtToTradedQty": 29.78,
+    "symbol": "IRCON"
   }
 ]

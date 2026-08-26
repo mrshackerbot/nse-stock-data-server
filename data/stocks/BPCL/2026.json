@@ -2558,5 +2558,21 @@
     "deliverableQty": 3847482,
     "pctDlyQtToTradedQty": 58.36,
     "symbol": "BPCL"
+  },
+  {
+    "date": "26-Aug-2026",
+    "prevClose": 318.1,
+    "open": 320.25,
+    "high": 326.35,
+    "low": 318,
+    "lastPrice": 318,
+    "close": 318,
+    "avgPrice": 321.15,
+    "volume": 3340608,
+    "turnover": 1072850126.15,
+    "noOfTrades": 32787,
+    "deliverableQty": 1388312,
+    "pctDlyQtToTradedQty": 41.56,
+    "symbol": "BPCL"
   }
 ]
