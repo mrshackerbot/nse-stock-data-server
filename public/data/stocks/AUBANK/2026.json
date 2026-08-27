@@ -2574,5 +2574,21 @@
     "deliverableQty": 303012,
     "pctDlyQtToTradedQty": 48.99,
     "symbol": "AUBANK"
+  },
+  {
+    "date": "27-Aug-2026",
+    "prevClose": 1113.5,
+    "open": 1117.4,
+    "high": 1126.8,
+    "low": 1088,
+    "lastPrice": 1091,
+    "close": 1091,
+    "avgPrice": 1100.18,
+    "volume": 898558,
+    "turnover": 988575151.1,
+    "noOfTrades": 37515,
+    "deliverableQty": 296735,
+    "pctDlyQtToTradedQty": 33.02,
+    "symbol": "AUBANK"
   }
 ]

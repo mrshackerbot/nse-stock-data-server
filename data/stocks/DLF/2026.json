@@ -2574,5 +2574,21 @@
     "deliverableQty": 1009420,
     "pctDlyQtToTradedQty": 47.08,
     "symbol": "DLF"
+  },
+  {
+    "date": "27-Aug-2026",
+    "prevClose": 672.5,
+    "open": 679,
+    "high": 687.5,
+    "low": 673.55,
+    "lastPrice": 676.15,
+    "close": 676.15,
+    "avgPrice": 680.67,
+    "volume": 1765924,
+    "turnover": 1202006086.95,
+    "noOfTrades": 31698,
+    "deliverableQty": 695440,
+    "pctDlyQtToTradedQty": 39.38,
+    "symbol": "DLF"
   }
 ]

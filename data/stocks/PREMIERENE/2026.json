@@ -2574,5 +2574,21 @@
     "deliverableQty": 917965,
     "pctDlyQtToTradedQty": 35.95,
     "symbol": "PREMIERENE"
+  },
+  {
+    "date": "27-Aug-2026",
+    "prevClose": 1005,
+    "open": 1003,
+    "high": 1020,
+    "low": 985.1,
+    "lastPrice": 1000,
+    "close": 1000,
+    "avgPrice": 1002.24,
+    "volume": 1498122,
+    "turnover": 1501473389.8,
+    "noOfTrades": 45092,
+    "deliverableQty": 530679,
+    "pctDlyQtToTradedQty": 35.42,
+    "symbol": "PREMIERENE"
   }
 ]

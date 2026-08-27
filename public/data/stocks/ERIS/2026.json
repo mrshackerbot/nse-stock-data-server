@@ -2574,5 +2574,21 @@
     "deliverableQty": 56678,
     "pctDlyQtToTradedQty": 66.72,
     "symbol": "ERIS"
+  },
+  {
+    "date": "27-Aug-2026",
+    "prevClose": 1310.7,
+    "open": 1317,
+    "high": 1332.5,
+    "low": 1306.9,
+    "lastPrice": 1310,
+    "close": 1312.2,
+    "avgPrice": 1313.37,
+    "volume": 51939,
+    "turnover": 68214980,
+    "noOfTrades": 11681,
+    "deliverableQty": 32224,
+    "pctDlyQtToTradedQty": 62.04,
+    "symbol": "ERIS"
   }
 ]

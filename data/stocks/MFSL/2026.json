@@ -2574,5 +2574,21 @@
     "deliverableQty": 104076,
     "pctDlyQtToTradedQty": 55.04,
     "symbol": "MFSL"
+  },
+  {
+    "date": "27-Aug-2026",
+    "prevClose": 1600,
+    "open": 1590,
+    "high": 1590.9,
+    "low": 1568,
+    "lastPrice": 1568,
+    "close": 1568,
+    "avgPrice": 1581.26,
+    "volume": 732972,
+    "turnover": 1159020292,
+    "noOfTrades": 53357,
+    "deliverableQty": 446241,
+    "pctDlyQtToTradedQty": 60.88,
+    "symbol": "MFSL"
   }
 ]

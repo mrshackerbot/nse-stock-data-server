@@ -2574,5 +2574,21 @@
     "deliverableQty": 121908,
     "pctDlyQtToTradedQty": 53.59,
     "symbol": "COLPAL"
+  },
+  {
+    "date": "27-Aug-2026",
+    "prevClose": 1860,
+    "open": 1864.8,
+    "high": 1876.1,
+    "low": 1841,
+    "lastPrice": 1845,
+    "close": 1845,
+    "avgPrice": 1850.68,
+    "volume": 290751,
+    "turnover": 538088119.1,
+    "noOfTrades": 31855,
+    "deliverableQty": 140365,
+    "pctDlyQtToTradedQty": 48.28,
+    "symbol": "COLPAL"
   }
 ]
