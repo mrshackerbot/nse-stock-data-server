@@ -2590,5 +2590,21 @@
     "deliverableQty": 84618,
     "pctDlyQtToTradedQty": 71.38,
     "symbol": "HOMEFIRST"
+  },
+  {
+    "date": "28-Aug-2026",
+    "prevClose": 1200.2,
+    "open": 1200,
+    "high": 1205,
+    "low": 1188.3,
+    "lastPrice": 1200,
+    "close": 1198.3,
+    "avgPrice": 1198.91,
+    "volume": 89891,
+    "turnover": 107771318,
+    "noOfTrades": 8301,
+    "deliverableQty": 54565,
+    "pctDlyQtToTradedQty": 60.7,
+    "symbol": "HOMEFIRST"
   }
 ]

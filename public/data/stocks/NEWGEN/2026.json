@@ -2590,5 +2590,21 @@
     "deliverableQty": 140938,
     "pctDlyQtToTradedQty": 33.95,
     "symbol": "NEWGEN"
+  },
+  {
+    "date": "28-Aug-2026",
+    "prevClose": 523,
+    "open": 524.7,
+    "high": 575.9,
+    "low": 524.7,
+    "lastPrice": 566,
+    "close": 567.1,
+    "avgPrice": 560.63,
+    "volume": 10501206,
+    "turnover": 5887260273.1,
+    "noOfTrades": 178725,
+    "deliverableQty": 1619657,
+    "pctDlyQtToTradedQty": 15.42,
+    "symbol": "NEWGEN"
   }
 ]

@@ -2590,5 +2590,21 @@
     "deliverableQty": 1746217,
     "pctDlyQtToTradedQty": 53.34,
     "symbol": "LTF"
+  },
+  {
+    "date": "28-Aug-2026",
+    "prevClose": 321.9,
+    "open": 322,
+    "high": 322.4,
+    "low": 314.3,
+    "lastPrice": 314.3,
+    "close": 314.3,
+    "avgPrice": 316.49,
+    "volume": 2889242,
+    "turnover": 914418828,
+    "noOfTrades": 38973,
+    "deliverableQty": 1434761,
+    "pctDlyQtToTradedQty": 49.66,
+    "symbol": "LTF"
   }
 ]

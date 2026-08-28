@@ -2590,5 +2590,21 @@
     "deliverableQty": 123507,
     "pctDlyQtToTradedQty": 68.33,
     "symbol": "IKS"
+  },
+  {
+    "date": "28-Aug-2026",
+    "prevClose": 1750.6,
+    "open": 1743,
+    "high": 1778,
+    "low": 1740.5,
+    "lastPrice": 1756.3,
+    "close": 1762,
+    "avgPrice": 1765.48,
+    "volume": 110044,
+    "turnover": 194280168.2,
+    "noOfTrades": 14012,
+    "deliverableQty": 60787,
+    "pctDlyQtToTradedQty": 55.24,
+    "symbol": "IKS"
   }
 ]

@@ -2590,5 +2590,21 @@
     "deliverableQty": 3176584,
     "pctDlyQtToTradedQty": 71.71,
     "symbol": "COALINDIA"
+  },
+  {
+    "date": "28-Aug-2026",
+    "prevClose": 400,
+    "open": 401,
+    "high": 406.35,
+    "low": 397.5,
+    "lastPrice": 401,
+    "close": 401,
+    "avgPrice": 399.15,
+    "volume": 38504284,
+    "turnover": 15368913982.35,
+    "noOfTrades": 132542,
+    "deliverableQty": 30565559,
+    "pctDlyQtToTradedQty": 79.38,
+    "symbol": "COALINDIA"
   }
 ]

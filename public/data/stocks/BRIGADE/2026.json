@@ -2590,5 +2590,21 @@
     "deliverableQty": 82250,
     "pctDlyQtToTradedQty": 35.08,
     "symbol": "BRIGADE"
+  },
+  {
+    "date": "28-Aug-2026",
+    "prevClose": 656.75,
+    "open": 657.1,
+    "high": 657.75,
+    "low": 640.4,
+    "lastPrice": 641,
+    "close": 642.25,
+    "avgPrice": 647.03,
+    "volume": 249374,
+    "turnover": 161353137.7,
+    "noOfTrades": 12265,
+    "deliverableQty": 103283,
+    "pctDlyQtToTradedQty": 41.42,
+    "symbol": "BRIGADE"
   }
 ]
