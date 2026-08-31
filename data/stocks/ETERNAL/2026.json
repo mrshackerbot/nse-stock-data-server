@@ -2606,5 +2606,21 @@
     "deliverableQty": 21646655,
     "pctDlyQtToTradedQty": 68.97,
     "symbol": "ETERNAL"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 328,
+    "open": 328.8,
+    "high": 332.95,
+    "low": 315.8,
+    "lastPrice": 328.1,
+    "close": 328.1,
+    "avgPrice": 326.95,
+    "volume": 272151922,
+    "turnover": 88979903645.75,
+    "noOfTrades": 285412,
+    "deliverableQty": 236125194,
+    "pctDlyQtToTradedQty": 86.76,
+    "symbol": "ETERNAL"
   }
 ]

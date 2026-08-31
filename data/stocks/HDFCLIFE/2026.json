@@ -2606,5 +2606,21 @@
     "deliverableQty": 1362061,
     "pctDlyQtToTradedQty": 65.6,
     "symbol": "HDFCLIFE"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 548,
+    "open": 545,
+    "high": 546.95,
+    "low": 538.8,
+    "lastPrice": 543.35,
+    "close": 543.35,
+    "avgPrice": 543.36,
+    "volume": 3683600,
+    "turnover": 2001504019.35,
+    "noOfTrades": 24902,
+    "deliverableQty": 3077476,
+    "pctDlyQtToTradedQty": 83.55,
+    "symbol": "HDFCLIFE"
   }
 ]

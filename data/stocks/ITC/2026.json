@@ -2606,5 +2606,21 @@
     "deliverableQty": 9234520,
     "pctDlyQtToTradedQty": 60.75,
     "symbol": "ITC"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 266,
+    "open": 266,
+    "high": 266.55,
+    "low": 255.5,
+    "lastPrice": 255.5,
+    "close": 255.5,
+    "avgPrice": 262.3,
+    "volume": 24575845,
+    "turnover": 6446360784.65,
+    "noOfTrades": 203971,
+    "deliverableQty": 18829561,
+    "pctDlyQtToTradedQty": 76.62,
+    "symbol": "ITC"
   }
 ]

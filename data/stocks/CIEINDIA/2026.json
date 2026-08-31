@@ -2606,5 +2606,21 @@
     "deliverableQty": 158027,
     "pctDlyQtToTradedQty": 61.24,
     "symbol": "CIEINDIA"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 389.95,
+    "open": 391.5,
+    "high": 395,
+    "low": 386.85,
+    "lastPrice": 388.6,
+    "close": 391.05,
+    "avgPrice": 391.18,
+    "volume": 311650,
+    "turnover": 121911933.95,
+    "noOfTrades": 16029,
+    "deliverableQty": 171098,
+    "pctDlyQtToTradedQty": 54.9,
+    "symbol": "CIEINDIA"
   }
 ]

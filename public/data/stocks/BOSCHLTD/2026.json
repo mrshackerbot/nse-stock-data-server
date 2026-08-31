@@ -2606,5 +2606,21 @@
     "deliverableQty": 12810,
     "pctDlyQtToTradedQty": 49.05,
     "symbol": "BOSCHLTD"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 48640,
+    "open": 48595,
+    "high": 50000,
+    "low": 48360,
+    "lastPrice": 50000,
+    "close": 50000,
+    "avgPrice": 49251.01,
+    "volume": 60545,
+    "turnover": 2981902185,
+    "noOfTrades": 12022,
+    "deliverableQty": 39670,
+    "pctDlyQtToTradedQty": 65.52,
+    "symbol": "BOSCHLTD"
   }
 ]

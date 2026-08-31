@@ -2606,5 +2606,21 @@
     "deliverableQty": 42450,
     "pctDlyQtToTradedQty": 55.1,
     "symbol": "NAVINFLUOR"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 8517.5,
+    "open": 8517.5,
+    "high": 8740,
+    "low": 8435.5,
+    "lastPrice": 8661.5,
+    "close": 8675.5,
+    "avgPrice": 8632.52,
+    "volume": 216396,
+    "turnover": 1868042837.5,
+    "noOfTrades": 41548,
+    "deliverableQty": 101374,
+    "pctDlyQtToTradedQty": 46.85,
+    "symbol": "NAVINFLUOR"
   }
 ]

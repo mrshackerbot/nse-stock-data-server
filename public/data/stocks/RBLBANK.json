@@ -22446,5 +22446,21 @@
     "deliverableQty": 490520,
     "pctDlyQtToTradedQty": 50.89,
     "symbol": "RBLBANK"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 382,
+    "open": 380,
+    "high": 384,
+    "low": 378.4,
+    "lastPrice": 380.35,
+    "close": 380.35,
+    "avgPrice": 380.58,
+    "volume": 2117124,
+    "turnover": 805736688.8,
+    "noOfTrades": 30196,
+    "deliverableQty": 1234880,
+    "pctDlyQtToTradedQty": 58.33,
+    "symbol": "RBLBANK"
   }
 ]

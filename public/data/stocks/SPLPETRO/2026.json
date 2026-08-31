@@ -2606,5 +2606,21 @@
     "deliverableQty": 111208,
     "pctDlyQtToTradedQty": 55.77,
     "symbol": "SPLPETRO"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 700.85,
+    "open": 701,
+    "high": 743.5,
+    "low": 700.25,
+    "lastPrice": 725.15,
+    "close": 729.05,
+    "avgPrice": 732.68,
+    "volume": 1221778,
+    "turnover": 895176273.5,
+    "noOfTrades": 47012,
+    "deliverableQty": 187293,
+    "pctDlyQtToTradedQty": 15.33,
+    "symbol": "SPLPETRO"
   }
 ]

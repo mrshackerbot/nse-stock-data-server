@@ -2606,5 +2606,21 @@
     "deliverableQty": 4268111,
     "pctDlyQtToTradedQty": 50.2,
     "symbol": "PNB"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 115.4,
+    "open": 115,
+    "high": 115.35,
+    "low": 113.16,
+    "lastPrice": 114.23,
+    "close": 114.23,
+    "avgPrice": 114.25,
+    "volume": 18423594,
+    "turnover": 2104936637.65,
+    "noOfTrades": 44596,
+    "deliverableQty": 11288854,
+    "pctDlyQtToTradedQty": 61.27,
+    "symbol": "PNB"
   }
 ]

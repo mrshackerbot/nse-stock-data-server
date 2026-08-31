@@ -2606,5 +2606,21 @@
     "deliverableQty": 1381739,
     "pctDlyQtToTradedQty": 32.05,
     "symbol": "CONCOR"
+  },
+  {
+    "date": "31-Aug-2026",
+    "prevClose": 516,
+    "open": 512.3,
+    "high": 518,
+    "low": 507.5,
+    "lastPrice": 511.9,
+    "close": 511.9,
+    "avgPrice": 512.35,
+    "volume": 1393626,
+    "turnover": 714028123.25,
+    "noOfTrades": 27025,
+    "deliverableQty": 841728,
+    "pctDlyQtToTradedQty": 60.4,
+    "symbol": "CONCOR"
   }
 ]
