@@ -2622,5 +2622,21 @@
     "deliverableQty": 627664,
     "pctDlyQtToTradedQty": 41.75,
     "symbol": "HONASA"
+  },
+  {
+    "date": "01-Sep-2026",
+    "prevClose": 480.9,
+    "open": 483.35,
+    "high": 485.9,
+    "low": 469.05,
+    "lastPrice": 473.25,
+    "close": 473.5,
+    "avgPrice": 477.41,
+    "volume": 800865,
+    "turnover": 382344679.85,
+    "noOfTrades": 25000,
+    "deliverableQty": 347851,
+    "pctDlyQtToTradedQty": 43.43,
+    "symbol": "HONASA"
   }
 ]

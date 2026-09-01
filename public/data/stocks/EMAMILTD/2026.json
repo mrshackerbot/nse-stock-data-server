@@ -2622,5 +2622,21 @@
     "deliverableQty": 1443302,
     "pctDlyQtToTradedQty": 63.23,
     "symbol": "EMAMILTD"
+  },
+  {
+    "date": "01-Sep-2026",
+    "prevClose": 364,
+    "open": 366,
+    "high": 379.35,
+    "low": 361.15,
+    "lastPrice": 377,
+    "close": 376.65,
+    "avgPrice": 373.19,
+    "volume": 1648320,
+    "turnover": 615128760.05,
+    "noOfTrades": 33239,
+    "deliverableQty": 709549,
+    "pctDlyQtToTradedQty": 43.05,
+    "symbol": "EMAMILTD"
   }
 ]

@@ -2622,5 +2622,21 @@
     "deliverableQty": 1055795,
     "pctDlyQtToTradedQty": 63.92,
     "symbol": "INDIANB"
+  },
+  {
+    "date": "01-Sep-2026",
+    "prevClose": 898.75,
+    "open": 889,
+    "high": 890.5,
+    "low": 874.05,
+    "lastPrice": 881.75,
+    "close": 881.75,
+    "avgPrice": 882.07,
+    "volume": 1602957,
+    "turnover": 1413912581.65,
+    "noOfTrades": 40493,
+    "deliverableQty": 891313,
+    "pctDlyQtToTradedQty": 55.6,
+    "symbol": "INDIANB"
   }
 ]

@@ -2622,5 +2622,21 @@
     "deliverableQty": 160332,
     "pctDlyQtToTradedQty": 54.61,
     "symbol": "NAVA"
+  },
+  {
+    "date": "01-Sep-2026",
+    "prevClose": 568.1,
+    "open": 569.9,
+    "high": 572.5,
+    "low": 558.5,
+    "lastPrice": 562,
+    "close": 563.6,
+    "avgPrice": 562.35,
+    "volume": 165978,
+    "turnover": 93337909.15,
+    "noOfTrades": 7013,
+    "deliverableQty": 90015,
+    "pctDlyQtToTradedQty": 54.23,
+    "symbol": "NAVA"
   }
 ]

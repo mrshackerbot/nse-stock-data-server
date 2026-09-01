@@ -22462,5 +22462,21 @@
     "deliverableQty": 2541626,
     "pctDlyQtToTradedQty": 41.51,
     "symbol": "BSE"
+  },
+  {
+    "date": "01-Sep-2026",
+    "prevClose": 3282,
+    "open": 3300,
+    "high": 3305,
+    "low": 3220.5,
+    "lastPrice": 3242,
+    "close": 3242,
+    "avgPrice": 3246.66,
+    "volume": 3137016,
+    "turnover": 10184813347.2,
+    "noOfTrades": 157051,
+    "deliverableQty": 1434332,
+    "pctDlyQtToTradedQty": 45.72,
+    "symbol": "BSE"
   }
 ]
