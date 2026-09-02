@@ -2638,5 +2638,21 @@
     "deliverableQty": 529206,
     "pctDlyQtToTradedQty": 48.95,
     "symbol": "PETRONET"
+  },
+  {
+    "date": "02-Sep-2026",
+    "prevClose": 292.3,
+    "open": 293.25,
+    "high": 294,
+    "low": 288.35,
+    "lastPrice": 289.2,
+    "close": 289.2,
+    "avgPrice": 290.43,
+    "volume": 1476710,
+    "turnover": 428879643.3,
+    "noOfTrades": 30093,
+    "deliverableQty": 914292,
+    "pctDlyQtToTradedQty": 61.91,
+    "symbol": "PETRONET"
   }
 ]

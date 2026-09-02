@@ -2638,5 +2638,21 @@
     "deliverableQty": 642958,
     "pctDlyQtToTradedQty": 27.71,
     "symbol": "NCC"
+  },
+  {
+    "date": "02-Sep-2026",
+    "prevClose": 146.46,
+    "open": 145.5,
+    "high": 146.43,
+    "low": 141.85,
+    "lastPrice": 143,
+    "close": 142.53,
+    "avgPrice": 142.99,
+    "volume": 1800066,
+    "turnover": 257396676.37,
+    "noOfTrades": 22573,
+    "deliverableQty": 821931,
+    "pctDlyQtToTradedQty": 45.66,
+    "symbol": "NCC"
   }
 ]

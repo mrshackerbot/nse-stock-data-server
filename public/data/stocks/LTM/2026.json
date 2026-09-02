@@ -2638,5 +2638,21 @@
     "deliverableQty": 73328,
     "pctDlyQtToTradedQty": 27.66,
     "symbol": "LTM"
+  },
+  {
+    "date": "02-Sep-2026",
+    "prevClose": 4625,
+    "open": 4587.2,
+    "high": 4611,
+    "low": 4489,
+    "lastPrice": 4588,
+    "close": 4588,
+    "avgPrice": 4572.52,
+    "volume": 218038,
+    "turnover": 996983161.5,
+    "noOfTrades": 26275,
+    "deliverableQty": 86981,
+    "pctDlyQtToTradedQty": 39.89,
+    "symbol": "LTM"
   }
 ]

@@ -2638,5 +2638,21 @@
     "deliverableQty": 520541,
     "pctDlyQtToTradedQty": 76.58,
     "symbol": "KIMS"
+  },
+  {
+    "date": "02-Sep-2026",
+    "prevClose": 758.4,
+    "open": 752.5,
+    "high": 767,
+    "low": 748.3,
+    "lastPrice": 750.1,
+    "close": 753.65,
+    "avgPrice": 753.68,
+    "volume": 670696,
+    "turnover": 505492350.75,
+    "noOfTrades": 30844,
+    "deliverableQty": 451715,
+    "pctDlyQtToTradedQty": 67.35,
+    "symbol": "KIMS"
   }
 ]

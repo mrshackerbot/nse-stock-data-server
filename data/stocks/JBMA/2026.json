@@ -2638,5 +2638,21 @@
     "deliverableQty": 77656,
     "pctDlyQtToTradedQty": 31.06,
     "symbol": "JBMA"
+  },
+  {
+    "date": "02-Sep-2026",
+    "prevClose": 621.85,
+    "open": 620,
+    "high": 631.55,
+    "low": 611.5,
+    "lastPrice": 619,
+    "close": 621.5,
+    "avgPrice": 620.42,
+    "volume": 208269,
+    "turnover": 129215218.8,
+    "noOfTrades": 10882,
+    "deliverableQty": 68680,
+    "pctDlyQtToTradedQty": 32.98,
+    "symbol": "JBMA"
   }
 ]

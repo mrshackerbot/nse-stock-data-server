@@ -2638,5 +2638,21 @@
     "deliverableQty": 8289,
     "pctDlyQtToTradedQty": 55.72,
     "symbol": "DOMS"
+  },
+  {
+    "date": "02-Sep-2026",
+    "prevClose": 2229,
+    "open": 2220,
+    "high": 2226.9,
+    "low": 2193.4,
+    "lastPrice": 2196,
+    "close": 2206.3,
+    "avgPrice": 2206.9,
+    "volume": 29319,
+    "turnover": 64704143.8,
+    "noOfTrades": 3861,
+    "deliverableQty": 22744,
+    "pctDlyQtToTradedQty": 77.57,
+    "symbol": "DOMS"
   }
 ]

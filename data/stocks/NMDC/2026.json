@@ -2638,5 +2638,21 @@
     "deliverableQty": 3750725,
     "pctDlyQtToTradedQty": 33.16,
     "symbol": "NMDC"
+  },
+  {
+    "date": "02-Sep-2026",
+    "prevClose": 85.69,
+    "open": 84.9,
+    "high": 85.75,
+    "low": 84.25,
+    "lastPrice": 85.75,
+    "close": 85.75,
+    "avgPrice": 85.01,
+    "volume": 16726795,
+    "turnover": 1421988266.69,
+    "noOfTrades": 49293,
+    "deliverableQty": 8698666,
+    "pctDlyQtToTradedQty": 52,
+    "symbol": "NMDC"
   }
 ]
