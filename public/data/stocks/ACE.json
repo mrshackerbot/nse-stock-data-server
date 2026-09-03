@@ -22494,5 +22494,21 @@
     "deliverableQty": 66878,
     "pctDlyQtToTradedQty": 42.01,
     "symbol": "ACE"
+  },
+  {
+    "date": "03-Sep-2026",
+    "prevClose": 1090.9,
+    "open": 1091,
+    "high": 1155,
+    "low": 1088.5,
+    "lastPrice": 1145,
+    "close": 1145.5,
+    "avgPrice": 1128.05,
+    "volume": 330531,
+    "turnover": 372856913.4,
+    "noOfTrades": 20771,
+    "deliverableQty": 139807,
+    "pctDlyQtToTradedQty": 42.3,
+    "symbol": "ACE"
   }
 ]

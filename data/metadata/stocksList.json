@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T17:11:47.620Z",
+  "lastUpdated": "2026-09-03T17:05:56.813Z",
   "totalStocks": 500,
   "stocksList": [
     "360ONE",
@@ -206,7 +206,6 @@
     "HEG",
     "HEROMOTOCO",
     "HEXT",
-    "HFCL",
     "HINDALCO",
     "HINDCOPPER",
     "HINDPETRO",
@@ -509,11 +508,11 @@
   },
   "failures": [],
   "lastUpdateStats": {
-    "updated": 499,
+    "updated": 498,
     "failed": 0,
     "alreadyUpdated": 0,
     "noNewData": 1,
-    "noUpdateNeeded": 0,
+    "noUpdateNeeded": 1,
     "skipped": 0
   }
 }
