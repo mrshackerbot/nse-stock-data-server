@@ -2670,5 +2670,21 @@
     "deliverableQty": 235294,
     "pctDlyQtToTradedQty": 42.06,
     "symbol": "HBLENGINE"
+  },
+  {
+    "date": "04-Sep-2026",
+    "prevClose": 665.55,
+    "open": 668.5,
+    "high": 724,
+    "low": 667,
+    "lastPrice": 695,
+    "close": 695.75,
+    "avgPrice": 707.26,
+    "volume": 14312325,
+    "turnover": 10122587437.1,
+    "noOfTrades": 270164,
+    "deliverableQty": 1346486,
+    "pctDlyQtToTradedQty": 9.41,
+    "symbol": "HBLENGINE"
   }
 ]

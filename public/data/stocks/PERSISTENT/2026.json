@@ -2670,5 +2670,21 @@
     "deliverableQty": 153108,
     "pctDlyQtToTradedQty": 30.52,
     "symbol": "PERSISTENT"
+  },
+  {
+    "date": "04-Sep-2026",
+    "prevClose": 5657,
+    "open": 5680,
+    "high": 5724.5,
+    "low": 5634,
+    "lastPrice": 5643,
+    "close": 5643,
+    "avgPrice": 5674.81,
+    "volume": 302507,
+    "turnover": 1716668563.5,
+    "noOfTrades": 22664,
+    "deliverableQty": 91997,
+    "pctDlyQtToTradedQty": 30.41,
+    "symbol": "PERSISTENT"
   }
 ]

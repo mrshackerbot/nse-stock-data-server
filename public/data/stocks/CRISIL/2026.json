@@ -2670,5 +2670,21 @@
     "deliverableQty": 22099,
     "pctDlyQtToTradedQty": 59.54,
     "symbol": "CRISIL"
+  },
+  {
+    "date": "04-Sep-2026",
+    "prevClose": 4759.7,
+    "open": 4775,
+    "high": 4872,
+    "low": 4726.3,
+    "lastPrice": 4790,
+    "close": 4802,
+    "avgPrice": 4825,
+    "volume": 184833,
+    "turnover": 891819123.4,
+    "noOfTrades": 16015,
+    "deliverableQty": 149461,
+    "pctDlyQtToTradedQty": 80.86,
+    "symbol": "CRISIL"
   }
 ]

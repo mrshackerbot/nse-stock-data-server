@@ -2670,5 +2670,21 @@
     "deliverableQty": 239003,
     "pctDlyQtToTradedQty": 45.88,
     "symbol": "TRENT"
+  },
+  {
+    "date": "04-Sep-2026",
+    "prevClose": 2815.6,
+    "open": 2849,
+    "high": 2879,
+    "low": 2833.2,
+    "lastPrice": 2853,
+    "close": 2853,
+    "avgPrice": 2860.51,
+    "volume": 577393,
+    "turnover": 1651637843.7,
+    "noOfTrades": 49772,
+    "deliverableQty": 208455,
+    "pctDlyQtToTradedQty": 36.1,
+    "symbol": "TRENT"
   }
 ]

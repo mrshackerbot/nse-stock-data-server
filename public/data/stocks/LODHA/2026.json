@@ -2670,5 +2670,21 @@
     "deliverableQty": 723429,
     "pctDlyQtToTradedQty": 42.7,
     "symbol": "LODHA"
+  },
+  {
+    "date": "04-Sep-2026",
+    "prevClose": 1234,
+    "open": 1225,
+    "high": 1237.8,
+    "low": 1209.5,
+    "lastPrice": 1222,
+    "close": 1222,
+    "avgPrice": 1222.61,
+    "volume": 948334,
+    "turnover": 1159444969.3,
+    "noOfTrades": 26054,
+    "deliverableQty": 442335,
+    "pctDlyQtToTradedQty": 46.64,
+    "symbol": "LODHA"
   }
 ]

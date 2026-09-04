@@ -2670,5 +2670,21 @@
     "deliverableQty": 1809230,
     "pctDlyQtToTradedQty": 48.11,
     "symbol": "NATIONALUM"
+  },
+  {
+    "date": "04-Sep-2026",
+    "prevClose": 374,
+    "open": 376,
+    "high": 378.95,
+    "low": 372.75,
+    "lastPrice": 374.1,
+    "close": 374.1,
+    "avgPrice": 375.19,
+    "volume": 5517970,
+    "turnover": 2070277862.75,
+    "noOfTrades": 60913,
+    "deliverableQty": 3036941,
+    "pctDlyQtToTradedQty": 55.04,
+    "symbol": "NATIONALUM"
   }
 ]

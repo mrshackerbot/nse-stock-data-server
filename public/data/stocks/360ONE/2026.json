@@ -2670,5 +2670,21 @@
     "deliverableQty": 194872,
     "pctDlyQtToTradedQty": 40.32,
     "symbol": "360ONE"
+  },
+  {
+    "date": "04-Sep-2026",
+    "prevClose": 1155,
+    "open": 1149.1,
+    "high": 1156.1,
+    "low": 1127.1,
+    "lastPrice": 1137,
+    "close": 1137,
+    "avgPrice": 1140.54,
+    "volume": 603451,
+    "turnover": 688260495.5,
+    "noOfTrades": 32281,
+    "deliverableQty": 311039,
+    "pctDlyQtToTradedQty": 51.54,
+    "symbol": "360ONE"
   }
 ]
