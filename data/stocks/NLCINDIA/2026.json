@@ -2686,5 +2686,21 @@
     "deliverableQty": 386874,
     "pctDlyQtToTradedQty": 54.15,
     "symbol": "NLCINDIA"
+  },
+  {
+    "date": "07-Sep-2026",
+    "prevClose": 273.05,
+    "open": 275.8,
+    "high": 278,
+    "low": 268.3,
+    "lastPrice": 269.95,
+    "close": 269.3,
+    "avgPrice": 271.97,
+    "volume": 1349980,
+    "turnover": 367158911.3,
+    "noOfTrades": 28940,
+    "deliverableQty": 559310,
+    "pctDlyQtToTradedQty": 41.43,
+    "symbol": "NLCINDIA"
   }
 ]

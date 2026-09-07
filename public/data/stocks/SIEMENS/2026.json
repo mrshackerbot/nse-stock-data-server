@@ -2686,5 +2686,21 @@
     "deliverableQty": 83360,
     "pctDlyQtToTradedQty": 47.07,
     "symbol": "SIEMENS"
+  },
+  {
+    "date": "07-Sep-2026",
+    "prevClose": 3977,
+    "open": 3990,
+    "high": 3998.1,
+    "low": 3904.1,
+    "lastPrice": 3927,
+    "close": 3927,
+    "avgPrice": 3939.18,
+    "volume": 200987,
+    "turnover": 791724901.9,
+    "noOfTrades": 20035,
+    "deliverableQty": 92883,
+    "pctDlyQtToTradedQty": 46.21,
+    "symbol": "SIEMENS"
   }
 ]

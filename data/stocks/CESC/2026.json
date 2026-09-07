@@ -2686,5 +2686,21 @@
     "deliverableQty": 1077168,
     "pctDlyQtToTradedQty": 74.37,
     "symbol": "CESC"
+  },
+  {
+    "date": "07-Sep-2026",
+    "prevClose": 146.5,
+    "open": 146.5,
+    "high": 150,
+    "low": 145,
+    "lastPrice": 145.8,
+    "close": 145.44,
+    "avgPrice": 146.83,
+    "volume": 1756003,
+    "turnover": 257838104.8,
+    "noOfTrades": 24090,
+    "deliverableQty": 951723,
+    "pctDlyQtToTradedQty": 54.2,
+    "symbol": "CESC"
   }
 ]

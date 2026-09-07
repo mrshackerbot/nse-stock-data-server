@@ -2686,5 +2686,21 @@
     "deliverableQty": 64248,
     "pctDlyQtToTradedQty": 56.25,
     "symbol": "ABDL"
+  },
+  {
+    "date": "07-Sep-2026",
+    "prevClose": 609.95,
+    "open": 609.9,
+    "high": 610.4,
+    "low": 596.85,
+    "lastPrice": 600,
+    "close": 600,
+    "avgPrice": 600.57,
+    "volume": 428345,
+    "turnover": 257250618.3,
+    "noOfTrades": 15080,
+    "deliverableQty": 320436,
+    "pctDlyQtToTradedQty": 74.81,
+    "symbol": "ABDL"
   }
 ]

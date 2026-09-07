@@ -2686,5 +2686,21 @@
     "deliverableQty": 399356,
     "pctDlyQtToTradedQty": 40.3,
     "symbol": "TATACHEM"
+  },
+  {
+    "date": "07-Sep-2026",
+    "prevClose": 625.1,
+    "open": 625,
+    "high": 627.15,
+    "low": 611.1,
+    "lastPrice": 612,
+    "close": 613.35,
+    "avgPrice": 615.96,
+    "volume": 501210,
+    "turnover": 308723183.2,
+    "noOfTrades": 16067,
+    "deliverableQty": 193907,
+    "pctDlyQtToTradedQty": 38.69,
+    "symbol": "TATACHEM"
   }
 ]
