@@ -2702,5 +2702,21 @@
     "deliverableQty": 93888,
     "pctDlyQtToTradedQty": 32.32,
     "symbol": "CHOICEIN"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 755.65,
+    "open": 755.9,
+    "high": 757.95,
+    "low": 750.1,
+    "lastPrice": 752,
+    "close": 753.45,
+    "avgPrice": 754.4,
+    "volume": 306449,
+    "turnover": 231186554.8,
+    "noOfTrades": 5756,
+    "deliverableQty": 81446,
+    "pctDlyQtToTradedQty": 26.58,
+    "symbol": "CHOICEIN"
   }
 ]

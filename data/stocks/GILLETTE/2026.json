@@ -2702,5 +2702,21 @@
     "deliverableQty": 5637,
     "pctDlyQtToTradedQty": 57.89,
     "symbol": "GILLETTE"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 7380.5,
+    "open": 7360,
+    "high": 7564,
+    "low": 7311.5,
+    "lastPrice": 7506,
+    "close": 7530.5,
+    "avgPrice": 7522.06,
+    "volume": 40115,
+    "turnover": 301747419.5,
+    "noOfTrades": 6370,
+    "deliverableQty": 28230,
+    "pctDlyQtToTradedQty": 70.37,
+    "symbol": "GILLETTE"
   }
 ]

@@ -2702,5 +2702,21 @@
     "deliverableQty": 109460,
     "pctDlyQtToTradedQty": 54.25,
     "symbol": "CUMMINSIND"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 5030,
+    "open": 5007,
+    "high": 5040,
+    "low": 4965,
+    "lastPrice": 5040,
+    "close": 5040,
+    "avgPrice": 4999.18,
+    "volume": 457631,
+    "turnover": 2287780398.5,
+    "noOfTrades": 37925,
+    "deliverableQty": 308861,
+    "pctDlyQtToTradedQty": 67.49,
+    "symbol": "CUMMINSIND"
   }
 ]

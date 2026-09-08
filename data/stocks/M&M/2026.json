@@ -2702,5 +2702,21 @@
     "deliverableQty": 1123951,
     "pctDlyQtToTradedQty": 65.54,
     "symbol": "M&M"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 3160,
+    "open": 3145,
+    "high": 3163,
+    "low": 3096.3,
+    "lastPrice": 3160,
+    "close": 3160,
+    "avgPrice": 3134.9,
+    "volume": 1784671,
+    "turnover": 5594761036.4,
+    "noOfTrades": 155121,
+    "deliverableQty": 1059260,
+    "pctDlyQtToTradedQty": 59.35,
+    "symbol": "M&M"
   }
 ]

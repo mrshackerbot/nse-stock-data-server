@@ -2702,5 +2702,21 @@
     "deliverableQty": 172691,
     "pctDlyQtToTradedQty": 51.28,
     "symbol": "SARDAEN"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 512.5,
+    "open": 512.5,
+    "high": 524,
+    "low": 510.4,
+    "lastPrice": 519,
+    "close": 519.85,
+    "avgPrice": 520.75,
+    "volume": 757903,
+    "turnover": 394674643.1,
+    "noOfTrades": 28983,
+    "deliverableQty": 387774,
+    "pctDlyQtToTradedQty": 51.16,
+    "symbol": "SARDAEN"
   }
 ]

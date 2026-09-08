@@ -2702,5 +2702,21 @@
     "deliverableQty": 139345,
     "pctDlyQtToTradedQty": 54.06,
     "symbol": "LLOYDSME"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 1803,
+    "open": 1803,
+    "high": 1821,
+    "low": 1780,
+    "lastPrice": 1800,
+    "close": 1799.3,
+    "avgPrice": 1796.13,
+    "volume": 432002,
+    "turnover": 775932062.9,
+    "noOfTrades": 26038,
+    "deliverableQty": 202921,
+    "pctDlyQtToTradedQty": 46.97,
+    "symbol": "LLOYDSME"
   }
 ]

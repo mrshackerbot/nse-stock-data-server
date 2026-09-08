@@ -2702,5 +2702,21 @@
     "deliverableQty": 3916524,
     "pctDlyQtToTradedQty": 21.74,
     "symbol": "PWL"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 129.67,
+    "open": 129.67,
+    "high": 129.67,
+    "low": 126.16,
+    "lastPrice": 126.42,
+    "close": 126.63,
+    "avgPrice": 127.21,
+    "volume": 5315731,
+    "turnover": 676222256.35,
+    "noOfTrades": 32324,
+    "deliverableQty": 1419872,
+    "pctDlyQtToTradedQty": 26.71,
+    "symbol": "PWL"
   }
 ]

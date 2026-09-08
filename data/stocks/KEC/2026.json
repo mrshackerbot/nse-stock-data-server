@@ -2702,5 +2702,21 @@
     "deliverableQty": 375697,
     "pctDlyQtToTradedQty": 52.15,
     "symbol": "KEC"
+  },
+  {
+    "date": "08-Sep-2026",
+    "prevClose": 401.65,
+    "open": 401.65,
+    "high": 407.25,
+    "low": 401.65,
+    "lastPrice": 405.5,
+    "close": 405.7,
+    "avgPrice": 405.01,
+    "volume": 468357,
+    "turnover": 189690927.7,
+    "noOfTrades": 14239,
+    "deliverableQty": 187015,
+    "pctDlyQtToTradedQty": 39.93,
+    "symbol": "KEC"
   }
 ]
