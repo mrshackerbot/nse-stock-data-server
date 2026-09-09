@@ -2718,5 +2718,21 @@
     "deliverableQty": 34425,
     "pctDlyQtToTradedQty": 41.13,
     "symbol": "TBOTEK"
+  },
+  {
+    "date": "09-Sep-2026",
+    "prevClose": 1694.5,
+    "open": 1703,
+    "high": 1735,
+    "low": 1682,
+    "lastPrice": 1713,
+    "close": 1721.1,
+    "avgPrice": 1713.63,
+    "volume": 87150,
+    "turnover": 149342974.4,
+    "noOfTrades": 9969,
+    "deliverableQty": 46503,
+    "pctDlyQtToTradedQty": 53.36,
+    "symbol": "TBOTEK"
   }
 ]
