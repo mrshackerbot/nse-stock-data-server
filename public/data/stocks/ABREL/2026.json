@@ -2718,5 +2718,21 @@
     "deliverableQty": 25471,
     "pctDlyQtToTradedQty": 47.96,
     "symbol": "ABREL"
+  },
+  {
+    "date": "09-Sep-2026",
+    "prevClose": 1372.1,
+    "open": 1372,
+    "high": 1372,
+    "low": 1330,
+    "lastPrice": 1334,
+    "close": 1337.9,
+    "avgPrice": 1343.12,
+    "volume": 111860,
+    "turnover": 150241398.1,
+    "noOfTrades": 9161,
+    "deliverableQty": 59315,
+    "pctDlyQtToTradedQty": 53.03,
+    "symbol": "ABREL"
   }
 ]

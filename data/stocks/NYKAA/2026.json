@@ -2718,5 +2718,21 @@
     "deliverableQty": 3579606,
     "pctDlyQtToTradedQty": 62.36,
     "symbol": "NYKAA"
+  },
+  {
+    "date": "09-Sep-2026",
+    "prevClose": 341,
+    "open": 340.8,
+    "high": 343,
+    "low": 338.25,
+    "lastPrice": 343,
+    "close": 343,
+    "avgPrice": 341.01,
+    "volume": 4010750,
+    "turnover": 1367714945.25,
+    "noOfTrades": 58538,
+    "deliverableQty": 2191553,
+    "pctDlyQtToTradedQty": 54.64,
+    "symbol": "NYKAA"
   }
 ]

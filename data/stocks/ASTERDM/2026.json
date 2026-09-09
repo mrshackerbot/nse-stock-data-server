@@ -2718,5 +2718,21 @@
     "deliverableQty": 282751,
     "pctDlyQtToTradedQty": 52.58,
     "symbol": "ASTERDM"
+  },
+  {
+    "date": "09-Sep-2026",
+    "prevClose": 790.35,
+    "open": 786,
+    "high": 792.3,
+    "low": 776,
+    "lastPrice": 779.7,
+    "close": 780.35,
+    "avgPrice": 783.63,
+    "volume": 1498226,
+    "turnover": 1174055662.5,
+    "noOfTrades": 41540,
+    "deliverableQty": 1073275,
+    "pctDlyQtToTradedQty": 71.64,
+    "symbol": "ASTERDM"
   }
 ]

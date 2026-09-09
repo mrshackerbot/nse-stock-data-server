@@ -2718,5 +2718,21 @@
     "deliverableQty": 247156,
     "pctDlyQtToTradedQty": 57.12,
     "symbol": "TITAN"
+  },
+  {
+    "date": "09-Sep-2026",
+    "prevClose": 4987,
+    "open": 5010,
+    "high": 5019,
+    "low": 4968,
+    "lastPrice": 5005,
+    "close": 5005,
+    "avgPrice": 4995.55,
+    "volume": 502050,
+    "turnover": 2508016777.5,
+    "noOfTrades": 57949,
+    "deliverableQty": 326646,
+    "pctDlyQtToTradedQty": 65.06,
+    "symbol": "TITAN"
   }
 ]

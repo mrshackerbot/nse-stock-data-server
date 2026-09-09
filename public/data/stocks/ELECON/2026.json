@@ -2718,5 +2718,21 @@
     "deliverableQty": 72127,
     "pctDlyQtToTradedQty": 43.98,
     "symbol": "ELECON"
+  },
+  {
+    "date": "09-Sep-2026",
+    "prevClose": 421.15,
+    "open": 421.95,
+    "high": 427.35,
+    "low": 416.8,
+    "lastPrice": 420,
+    "close": 419.4,
+    "avgPrice": 421.28,
+    "volume": 286939,
+    "turnover": 120881349.3,
+    "noOfTrades": 10539,
+    "deliverableQty": 110990,
+    "pctDlyQtToTradedQty": 38.68,
+    "symbol": "ELECON"
   }
 ]

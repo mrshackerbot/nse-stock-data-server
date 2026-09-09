@@ -2718,5 +2718,21 @@
     "deliverableQty": 378101,
     "pctDlyQtToTradedQty": 24.07,
     "symbol": "BDL"
+  },
+  {
+    "date": "09-Sep-2026",
+    "prevClose": 1242.5,
+    "open": 1241,
+    "high": 1248,
+    "low": 1209.5,
+    "lastPrice": 1218.1,
+    "close": 1218.1,
+    "avgPrice": 1221.75,
+    "volume": 1337188,
+    "turnover": 1633714096.9,
+    "noOfTrades": 43431,
+    "deliverableQty": 439572,
+    "pctDlyQtToTradedQty": 32.87,
+    "symbol": "BDL"
   }
 ]
