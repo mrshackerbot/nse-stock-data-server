@@ -2734,5 +2734,21 @@
     "deliverableQty": 783438,
     "pctDlyQtToTradedQty": 24.7,
     "symbol": "RVNL"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 207,
+    "open": 208,
+    "high": 211.25,
+    "low": 205,
+    "lastPrice": 205.6,
+    "close": 205.6,
+    "avgPrice": 207.8,
+    "volume": 5012189,
+    "turnover": 1041527940.56,
+    "noOfTrades": 43112,
+    "deliverableQty": 1225374,
+    "pctDlyQtToTradedQty": 24.45,
+    "symbol": "RVNL"
   }
 ]

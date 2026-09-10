@@ -2734,5 +2734,21 @@
     "deliverableQty": 62920,
     "pctDlyQtToTradedQty": 51.36,
     "symbol": "ACC"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 1257.7,
+    "open": 1259.2,
+    "high": 1260.3,
+    "low": 1250.1,
+    "lastPrice": 1255,
+    "close": 1254.3,
+    "avgPrice": 1255.12,
+    "volume": 110068,
+    "turnover": 138148587.4,
+    "noOfTrades": 11918,
+    "deliverableQty": 59910,
+    "pctDlyQtToTradedQty": 54.43,
+    "symbol": "ACC"
   }
 ]

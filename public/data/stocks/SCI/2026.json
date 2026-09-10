@@ -2734,5 +2734,21 @@
     "deliverableQty": 415310,
     "pctDlyQtToTradedQty": 38.7,
     "symbol": "SCI"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 287.35,
+    "open": 287.75,
+    "high": 291.15,
+    "low": 284.4,
+    "lastPrice": 285.75,
+    "close": 285.2,
+    "avgPrice": 286.81,
+    "volume": 1123388,
+    "turnover": 322196895.4,
+    "noOfTrades": 22669,
+    "deliverableQty": 462969,
+    "pctDlyQtToTradedQty": 41.21,
+    "symbol": "SCI"
   }
 ]

@@ -2734,5 +2734,21 @@
     "deliverableQty": 101082,
     "pctDlyQtToTradedQty": 43.04,
     "symbol": "TIINDIA"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 2678.3,
+    "open": 2670,
+    "high": 2674.5,
+    "low": 2632.5,
+    "lastPrice": 2652,
+    "close": 2652,
+    "avgPrice": 2650,
+    "volume": 174561,
+    "turnover": 462586498.5,
+    "noOfTrades": 13857,
+    "deliverableQty": 105093,
+    "pctDlyQtToTradedQty": 60.2,
+    "symbol": "TIINDIA"
   }
 ]

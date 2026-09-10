@@ -2734,5 +2734,21 @@
     "deliverableQty": 856205,
     "pctDlyQtToTradedQty": 51.27,
     "symbol": "HAL"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 5000.5,
+    "open": 5015,
+    "high": 5052.4,
+    "low": 4914.6,
+    "lastPrice": 4950,
+    "close": 4950,
+    "avgPrice": 4969.2,
+    "volume": 688500,
+    "turnover": 3421297111.7,
+    "noOfTrades": 46689,
+    "deliverableQty": 312149,
+    "pctDlyQtToTradedQty": 45.34,
+    "symbol": "HAL"
   }
 ]

@@ -2734,5 +2734,21 @@
     "deliverableQty": 602801,
     "pctDlyQtToTradedQty": 50.02,
     "symbol": "TTML"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 36.13,
+    "open": 36.14,
+    "high": 36.64,
+    "low": 35.9,
+    "lastPrice": 35.92,
+    "close": 35.91,
+    "avgPrice": 36.08,
+    "volume": 1248091,
+    "turnover": 45036295.92,
+    "noOfTrades": 5833,
+    "deliverableQty": 691216,
+    "pctDlyQtToTradedQty": 55.38,
+    "symbol": "TTML"
   }
 ]

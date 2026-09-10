@@ -2734,5 +2734,21 @@
     "deliverableQty": 250720,
     "pctDlyQtToTradedQty": 50.81,
     "symbol": "UNITDSPR"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 1405.2,
+    "open": 1405.2,
+    "high": 1416.1,
+    "low": 1391.4,
+    "lastPrice": 1400,
+    "close": 1400,
+    "avgPrice": 1405.21,
+    "volume": 432902,
+    "turnover": 608317587.3,
+    "noOfTrades": 20278,
+    "deliverableQty": 293815,
+    "pctDlyQtToTradedQty": 67.87,
+    "symbol": "UNITDSPR"
   }
 ]

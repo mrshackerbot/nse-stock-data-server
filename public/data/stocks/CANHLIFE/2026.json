@@ -2734,5 +2734,21 @@
     "deliverableQty": 355040,
     "pctDlyQtToTradedQty": 55.33,
     "symbol": "CANHLIFE"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 149.49,
+    "open": 149.4,
+    "high": 153.05,
+    "low": 148.21,
+    "lastPrice": 153,
+    "close": 152.36,
+    "avgPrice": 151.23,
+    "volume": 463305,
+    "turnover": 70067023.69,
+    "noOfTrades": 8874,
+    "deliverableQty": 201040,
+    "pctDlyQtToTradedQty": 43.39,
+    "symbol": "CANHLIFE"
   }
 ]

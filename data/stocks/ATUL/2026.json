@@ -2734,5 +2734,21 @@
     "deliverableQty": 8516,
     "pctDlyQtToTradedQty": 45.55,
     "symbol": "ATUL"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 6221.5,
+    "open": 6221.5,
+    "high": 6395,
+    "low": 6209.5,
+    "lastPrice": 6330,
+    "close": 6356,
+    "avgPrice": 6331.21,
+    "volume": 31851,
+    "turnover": 201655442.5,
+    "noOfTrades": 7716,
+    "deliverableQty": 19273,
+    "pctDlyQtToTradedQty": 60.51,
+    "symbol": "ATUL"
   }
 ]

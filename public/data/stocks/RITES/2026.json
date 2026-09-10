@@ -2734,5 +2734,21 @@
     "deliverableQty": 140331,
     "pctDlyQtToTradedQty": 42.59,
     "symbol": "RITES"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 211.13,
+    "open": 212.1,
+    "high": 216.07,
+    "low": 209.68,
+    "lastPrice": 210.07,
+    "close": 210.8,
+    "avgPrice": 212.1,
+    "volume": 455292,
+    "turnover": 96566949.13,
+    "noOfTrades": 9926,
+    "deliverableQty": 161508,
+    "pctDlyQtToTradedQty": 35.47,
+    "symbol": "RITES"
   }
 ]

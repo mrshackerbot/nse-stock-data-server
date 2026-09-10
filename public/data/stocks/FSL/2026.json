@@ -2734,5 +2734,21 @@
     "deliverableQty": 134257,
     "pctDlyQtToTradedQty": 42.17,
     "symbol": "FSL"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 254.75,
+    "open": 254.95,
+    "high": 257.35,
+    "low": 250.3,
+    "lastPrice": 251.5,
+    "close": 251.35,
+    "avgPrice": 253.53,
+    "volume": 332027,
+    "turnover": 84178606.4,
+    "noOfTrades": 11437,
+    "deliverableQty": 143126,
+    "pctDlyQtToTradedQty": 43.11,
+    "symbol": "FSL"
   }
 ]

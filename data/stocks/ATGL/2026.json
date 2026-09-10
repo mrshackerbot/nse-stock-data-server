@@ -2734,5 +2734,21 @@
     "deliverableQty": 173761,
     "pctDlyQtToTradedQty": 19.95,
     "symbol": "ATGL"
+  },
+  {
+    "date": "10-Sep-2026",
+    "prevClose": 612.3,
+    "open": 613.5,
+    "high": 616,
+    "low": 600.25,
+    "lastPrice": 606,
+    "close": 602.7,
+    "avgPrice": 606.88,
+    "volume": 461142,
+    "turnover": 279859261.45,
+    "noOfTrades": 15246,
+    "deliverableQty": 158457,
+    "pctDlyQtToTradedQty": 34.36,
+    "symbol": "ATGL"
   }
 ]
