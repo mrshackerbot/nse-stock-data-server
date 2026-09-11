@@ -2750,5 +2750,21 @@
     "deliverableQty": 240009,
     "pctDlyQtToTradedQty": 58.49,
     "symbol": "ABLBL"
+  },
+  {
+    "date": "11-Sep-2026",
+    "prevClose": 84,
+    "open": 83.56,
+    "high": 83.94,
+    "low": 82.6,
+    "lastPrice": 83.52,
+    "close": 83.61,
+    "avgPrice": 83.46,
+    "volume": 401584,
+    "turnover": 33514866.82,
+    "noOfTrades": 4126,
+    "deliverableQty": 226119,
+    "pctDlyQtToTradedQty": 64.91,
+    "symbol": "ABLBL"
   }
 ]

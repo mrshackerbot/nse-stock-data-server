@@ -2750,5 +2750,21 @@
     "deliverableQty": 2818234,
     "pctDlyQtToTradedQty": 5.3,
     "symbol": "SWANCORP"
+  },
+  {
+    "date": "11-Sep-2026",
+    "prevClose": 298.15,
+    "open": 296,
+    "high": 298.5,
+    "low": 284,
+    "lastPrice": 295,
+    "close": 296.45,
+    "avgPrice": 291.95,
+    "volume": 5650793,
+    "turnover": 1649738936,
+    "noOfTrades": 66509,
+    "deliverableQty": 854197,
+    "pctDlyQtToTradedQty": 16.06,
+    "symbol": "SWANCORP"
   }
 ]

@@ -6878,5 +6878,21 @@
     "deliverableQty": 2100257,
     "pctDlyQtToTradedQty": 44.19,
     "symbol": "VMM"
+  },
+  {
+    "date": "11-Sep-2026",
+    "prevClose": 103.4,
+    "open": 102.6,
+    "high": 102.65,
+    "low": 101.06,
+    "lastPrice": 101.71,
+    "close": 101.71,
+    "avgPrice": 101.68,
+    "volume": 7712844,
+    "turnover": 784276720.28,
+    "noOfTrades": 58193,
+    "deliverableQty": 4026638,
+    "pctDlyQtToTradedQty": 57.43,
+    "symbol": "VMM"
   }
 ]

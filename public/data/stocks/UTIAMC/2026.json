@@ -2750,5 +2750,21 @@
     "deliverableQty": 111195,
     "pctDlyQtToTradedQty": 53.27,
     "symbol": "UTIAMC"
+  },
+  {
+    "date": "11-Sep-2026",
+    "prevClose": 921.45,
+    "open": 909.65,
+    "high": 920,
+    "low": 899.35,
+    "lastPrice": 910.45,
+    "close": 910,
+    "avgPrice": 909.67,
+    "volume": 113860,
+    "turnover": 103574850.4,
+    "noOfTrades": 9649,
+    "deliverableQty": 59711,
+    "pctDlyQtToTradedQty": 62.05,
+    "symbol": "UTIAMC"
   }
 ]

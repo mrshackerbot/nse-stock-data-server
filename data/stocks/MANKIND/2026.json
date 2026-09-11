@@ -2750,5 +2750,21 @@
     "deliverableQty": 102016,
     "pctDlyQtToTradedQty": 56.51,
     "symbol": "MANKIND"
+  },
+  {
+    "date": "11-Sep-2026",
+    "prevClose": 2238.4,
+    "open": 2237.2,
+    "high": 2280,
+    "low": 2222,
+    "lastPrice": 2280,
+    "close": 2280,
+    "avgPrice": 2255.24,
+    "volume": 530698,
+    "turnover": 1196849321.5,
+    "noOfTrades": 18199,
+    "deliverableQty": 362963,
+    "pctDlyQtToTradedQty": 71.5,
+    "symbol": "MANKIND"
   }
 ]
