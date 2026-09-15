@@ -2766,5 +2766,21 @@
     "deliverableQty": 12115,
     "pctDlyQtToTradedQty": 43.47,
     "symbol": "LTTS"
+  },
+  {
+    "date": "15-Sep-2026",
+    "prevClose": 3337.4,
+    "open": 3402,
+    "high": 3441,
+    "low": 3300.5,
+    "lastPrice": 3328,
+    "close": 3312.2,
+    "avgPrice": 3379.65,
+    "volume": 60380,
+    "turnover": 204063261.5,
+    "noOfTrades": 12977,
+    "deliverableQty": 20986,
+    "pctDlyQtToTradedQty": 34.76,
+    "symbol": "LTTS"
   }
 ]

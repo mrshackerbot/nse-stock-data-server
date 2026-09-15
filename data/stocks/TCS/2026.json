@@ -2766,5 +2766,21 @@
     "deliverableQty": 1221983,
     "pctDlyQtToTradedQty": 50.96,
     "symbol": "TCS"
+  },
+  {
+    "date": "15-Sep-2026",
+    "prevClose": 2200.8,
+    "open": 2275.5,
+    "high": 2323,
+    "low": 2251,
+    "lastPrice": 2251,
+    "close": 2251,
+    "avgPrice": 2295.85,
+    "volume": 5406210,
+    "turnover": 12411828916.1,
+    "noOfTrades": 181099,
+    "deliverableQty": 2347086,
+    "pctDlyQtToTradedQty": 43.41,
+    "symbol": "TCS"
   }
 ]

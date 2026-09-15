@@ -2766,5 +2766,21 @@
     "deliverableQty": 956518,
     "pctDlyQtToTradedQty": 15.01,
     "symbol": "NIACL"
+  },
+  {
+    "date": "15-Sep-2026",
+    "prevClose": 198.39,
+    "open": 200,
+    "high": 200.3,
+    "low": 184,
+    "lastPrice": 185.18,
+    "close": 185.41,
+    "avgPrice": 190.14,
+    "volume": 3487564,
+    "turnover": 663137882.35,
+    "noOfTrades": 35947,
+    "deliverableQty": 1080854,
+    "pctDlyQtToTradedQty": 30.99,
+    "symbol": "NIACL"
   }
 ]

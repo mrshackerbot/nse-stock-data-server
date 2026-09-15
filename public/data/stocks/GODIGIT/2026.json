@@ -2766,5 +2766,21 @@
     "deliverableQty": 97064,
     "pctDlyQtToTradedQty": 57.47,
     "symbol": "GODIGIT"
+  },
+  {
+    "date": "15-Sep-2026",
+    "prevClose": 256.2,
+    "open": 257.4,
+    "high": 257.4,
+    "low": 251,
+    "lastPrice": 251.5,
+    "close": 251.5,
+    "avgPrice": 252.13,
+    "volume": 89335,
+    "turnover": 22523913.9,
+    "noOfTrades": 3997,
+    "deliverableQty": 38862,
+    "pctDlyQtToTradedQty": 43.5,
+    "symbol": "GODIGIT"
   }
 ]

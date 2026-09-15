@@ -2766,5 +2766,21 @@
     "deliverableQty": 257284,
     "pctDlyQtToTradedQty": 49.94,
     "symbol": "GICRE"
+  },
+  {
+    "date": "15-Sep-2026",
+    "prevClose": 349.4,
+    "open": 350,
+    "high": 350.2,
+    "low": 337.1,
+    "lastPrice": 340.55,
+    "close": 338.2,
+    "avgPrice": 342.6,
+    "volume": 370114,
+    "turnover": 126800504.95,
+    "noOfTrades": 13004,
+    "deliverableQty": 205905,
+    "pctDlyQtToTradedQty": 55.63,
+    "symbol": "GICRE"
   }
 ]
