@@ -2782,5 +2782,21 @@
     "deliverableQty": 3306214,
     "pctDlyQtToTradedQty": 6.2,
     "symbol": "FIRSTCRY"
+  },
+  {
+    "date": "16-Sep-2026",
+    "prevClose": 171.53,
+    "open": 170.5,
+    "high": 173.39,
+    "low": 165.01,
+    "lastPrice": 169.52,
+    "close": 170.02,
+    "avgPrice": 169.71,
+    "volume": 5950243,
+    "turnover": 1009841430.32,
+    "noOfTrades": 58483,
+    "deliverableQty": 971755,
+    "pctDlyQtToTradedQty": 16.33,
+    "symbol": "FIRSTCRY"
   }
 ]

@@ -2782,5 +2782,21 @@
     "deliverableQty": 245311,
     "pctDlyQtToTradedQty": 61.37,
     "symbol": "SAPPHIRE"
+  },
+  {
+    "date": "16-Sep-2026",
+    "prevClose": 222.37,
+    "open": 223,
+    "high": 226,
+    "low": 219.92,
+    "lastPrice": 223.03,
+    "close": 223.32,
+    "avgPrice": 222.66,
+    "volume": 241465,
+    "turnover": 53764027.61,
+    "noOfTrades": 8826,
+    "deliverableQty": 96289,
+    "pctDlyQtToTradedQty": 39.88,
+    "symbol": "SAPPHIRE"
   }
 ]

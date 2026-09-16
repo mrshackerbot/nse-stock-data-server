@@ -2782,5 +2782,21 @@
     "deliverableQty": 157259,
     "pctDlyQtToTradedQty": 42.35,
     "symbol": "KEI"
+  },
+  {
+    "date": "16-Sep-2026",
+    "prevClose": 4500,
+    "open": 4484,
+    "high": 4544.5,
+    "low": 4468,
+    "lastPrice": 4506,
+    "close": 4506,
+    "avgPrice": 4502.76,
+    "volume": 306662,
+    "turnover": 1380825569.5,
+    "noOfTrades": 26650,
+    "deliverableQty": 113199,
+    "pctDlyQtToTradedQty": 36.91,
+    "symbol": "KEI"
   }
 ]

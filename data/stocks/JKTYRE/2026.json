@@ -2782,5 +2782,21 @@
     "deliverableQty": 243400,
     "pctDlyQtToTradedQty": 55.56,
     "symbol": "JKTYRE"
+  },
+  {
+    "date": "16-Sep-2026",
+    "prevClose": 345.25,
+    "open": 343.1,
+    "high": 350.6,
+    "low": 339.55,
+    "lastPrice": 344.5,
+    "close": 343.3,
+    "avgPrice": 344.22,
+    "volume": 475097,
+    "turnover": 163539709.7,
+    "noOfTrades": 23349,
+    "deliverableQty": 205709,
+    "pctDlyQtToTradedQty": 43.3,
+    "symbol": "JKTYRE"
   }
 ]

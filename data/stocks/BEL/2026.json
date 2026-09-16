@@ -2782,5 +2782,21 @@
     "deliverableQty": 9645722,
     "pctDlyQtToTradedQty": 57.62,
     "symbol": "BEL"
+  },
+  {
+    "date": "16-Sep-2026",
+    "prevClose": 382.9,
+    "open": 384.05,
+    "high": 390.2,
+    "low": 382.1,
+    "lastPrice": 385.75,
+    "close": 385.75,
+    "avgPrice": 387.01,
+    "volume": 10138395,
+    "turnover": 3923638955.35,
+    "noOfTrades": 115448,
+    "deliverableQty": 5324747,
+    "pctDlyQtToTradedQty": 52.52,
+    "symbol": "BEL"
   }
 ]
