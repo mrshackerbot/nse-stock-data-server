@@ -2798,5 +2798,21 @@
     "deliverableQty": 1734553,
     "pctDlyQtToTradedQty": 29.65,
     "symbol": "NBCC"
+  },
+  {
+    "date": "17-Sep-2026",
+    "prevClose": 81.41,
+    "open": 81.41,
+    "high": 82.45,
+    "low": 81,
+    "lastPrice": 82.13,
+    "close": 82.13,
+    "avgPrice": 81.96,
+    "volume": 3284388,
+    "turnover": 269198915.63,
+    "noOfTrades": 18519,
+    "deliverableQty": 1060835,
+    "pctDlyQtToTradedQty": 32.3,
+    "symbol": "NBCC"
   }
 ]

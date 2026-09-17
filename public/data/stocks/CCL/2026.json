@@ -2798,5 +2798,21 @@
     "deliverableQty": 44180,
     "pctDlyQtToTradedQty": 42.63,
     "symbol": "CCL"
+  },
+  {
+    "date": "17-Sep-2026",
+    "prevClose": 1065.5,
+    "open": 1060,
+    "high": 1070.3,
+    "low": 1052,
+    "lastPrice": 1070.2,
+    "close": 1062.3,
+    "avgPrice": 1062.62,
+    "volume": 112984,
+    "turnover": 120059084.3,
+    "noOfTrades": 15648,
+    "deliverableQty": 66780,
+    "pctDlyQtToTradedQty": 59.11,
+    "symbol": "CCL"
   }
 ]

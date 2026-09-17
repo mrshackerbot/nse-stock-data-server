@@ -2798,5 +2798,21 @@
     "deliverableQty": 628420,
     "pctDlyQtToTradedQty": 50.58,
     "symbol": "IIFL"
+  },
+  {
+    "date": "17-Sep-2026",
+    "prevClose": 585.7,
+    "open": 585,
+    "high": 604.9,
+    "low": 585,
+    "lastPrice": 594.7,
+    "close": 596.55,
+    "avgPrice": 595.77,
+    "volume": 2722029,
+    "turnover": 1621703786.7,
+    "noOfTrades": 58170,
+    "deliverableQty": 1606245,
+    "pctDlyQtToTradedQty": 59.01,
+    "symbol": "IIFL"
   }
 ]

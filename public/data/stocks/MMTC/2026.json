@@ -2798,5 +2798,21 @@
     "deliverableQty": 383771,
     "pctDlyQtToTradedQty": 32.62,
     "symbol": "MMTC"
+  },
+  {
+    "date": "17-Sep-2026",
+    "prevClose": 59.8,
+    "open": 60,
+    "high": 60.74,
+    "low": 59.75,
+    "lastPrice": 60.12,
+    "close": 60.14,
+    "avgPrice": 60.15,
+    "volume": 541027,
+    "turnover": 32544455.93,
+    "noOfTrades": 5896,
+    "deliverableQty": 188096,
+    "pctDlyQtToTradedQty": 34.77,
+    "symbol": "MMTC"
   }
 ]

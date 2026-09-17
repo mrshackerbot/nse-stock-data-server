@@ -2798,5 +2798,21 @@
     "deliverableQty": 12312804,
     "pctDlyQtToTradedQty": 40.12,
     "symbol": "MSUMI"
+  },
+  {
+    "date": "17-Sep-2026",
+    "prevClose": 35.47,
+    "open": 35.25,
+    "high": 36.26,
+    "low": 35.25,
+    "lastPrice": 36.09,
+    "close": 36.07,
+    "avgPrice": 35.83,
+    "volume": 4381154,
+    "turnover": 156970367.22,
+    "noOfTrades": 20994,
+    "deliverableQty": 1725234,
+    "pctDlyQtToTradedQty": 39.38,
+    "symbol": "MSUMI"
   }
 ]

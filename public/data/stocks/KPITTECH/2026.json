@@ -2798,5 +2798,21 @@
     "deliverableQty": 249411,
     "pctDlyQtToTradedQty": 29.99,
     "symbol": "KPITTECH"
+  },
+  {
+    "date": "17-Sep-2026",
+    "prevClose": 555,
+    "open": 556.2,
+    "high": 560.95,
+    "low": 552.5,
+    "lastPrice": 559.3,
+    "close": 559.3,
+    "avgPrice": 557.45,
+    "volume": 599882,
+    "turnover": 334405819.15,
+    "noOfTrades": 16645,
+    "deliverableQty": 155495,
+    "pctDlyQtToTradedQty": 25.92,
+    "symbol": "KPITTECH"
   }
 ]

@@ -2798,5 +2798,21 @@
     "deliverableQty": 5577374,
     "pctDlyQtToTradedQty": 55.38,
     "symbol": "IOC"
+  },
+  {
+    "date": "17-Sep-2026",
+    "prevClose": 134.75,
+    "open": 134.9,
+    "high": 135.33,
+    "low": 134,
+    "lastPrice": 134.27,
+    "close": 134.27,
+    "avgPrice": 134.46,
+    "volume": 5640680,
+    "turnover": 758457328.96,
+    "noOfTrades": 55608,
+    "deliverableQty": 3449248,
+    "pctDlyQtToTradedQty": 61.15,
+    "symbol": "IOC"
   }
 ]
