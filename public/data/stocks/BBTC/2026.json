@@ -2814,5 +2814,21 @@
     "deliverableQty": 17340,
     "pctDlyQtToTradedQty": 58.19,
     "symbol": "BBTC"
+  },
+  {
+    "date": "18-Sep-2026",
+    "prevClose": 1399.4,
+    "open": 1409.7,
+    "high": 1534.2,
+    "low": 1409.7,
+    "lastPrice": 1512.5,
+    "close": 1512.1,
+    "avgPrice": 1493.84,
+    "volume": 2468226,
+    "turnover": 3687137894.2,
+    "noOfTrades": 127160,
+    "deliverableQty": 104016,
+    "pctDlyQtToTradedQty": 4.21,
+    "symbol": "BBTC"
   }
 ]

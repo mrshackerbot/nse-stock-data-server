@@ -2814,5 +2814,21 @@
     "deliverableQty": 400,
     "pctDlyQtToTradedQty": 38.13,
     "symbol": "HONAUT"
+  },
+  {
+    "date": "18-Sep-2026",
+    "prevClose": 33915,
+    "open": 33915,
+    "high": 36485,
+    "low": 33885,
+    "lastPrice": 35260,
+    "close": 35445,
+    "avgPrice": 35442.67,
+    "volume": 15555,
+    "turnover": 551310670,
+    "noOfTrades": 8171,
+    "deliverableQty": 5969,
+    "pctDlyQtToTradedQty": 38.37,
+    "symbol": "HONAUT"
   }
 ]

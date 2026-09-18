@@ -2814,5 +2814,21 @@
     "deliverableQty": 586464,
     "pctDlyQtToTradedQty": 46.85,
     "symbol": "SJVN"
+  },
+  {
+    "date": "18-Sep-2026",
+    "prevClose": 64.75,
+    "open": 64.84,
+    "high": 65.23,
+    "low": 63.7,
+    "lastPrice": 63.83,
+    "close": 63.95,
+    "avgPrice": 64.16,
+    "volume": 4062726,
+    "turnover": 260655512.36,
+    "noOfTrades": 27865,
+    "deliverableQty": 2782267,
+    "pctDlyQtToTradedQty": 68.48,
+    "symbol": "SJVN"
   }
 ]

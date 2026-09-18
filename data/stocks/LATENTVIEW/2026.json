@@ -2814,5 +2814,21 @@
     "deliverableQty": 128124,
     "pctDlyQtToTradedQty": 43.81,
     "symbol": "LATENTVIEW"
+  },
+  {
+    "date": "18-Sep-2026",
+    "prevClose": 255,
+    "open": 256.05,
+    "high": 256.5,
+    "low": 253.6,
+    "lastPrice": 255.95,
+    "close": 255.35,
+    "avgPrice": 255.13,
+    "volume": 254240,
+    "turnover": 64864189.05,
+    "noOfTrades": 5820,
+    "deliverableQty": 155443,
+    "pctDlyQtToTradedQty": 61.14,
+    "symbol": "LATENTVIEW"
   }
 ]

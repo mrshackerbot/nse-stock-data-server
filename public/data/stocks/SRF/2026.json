@@ -2814,5 +2814,21 @@
     "deliverableQty": 228290,
     "pctDlyQtToTradedQty": 28.65,
     "symbol": "SRF"
+  },
+  {
+    "date": "18-Sep-2026",
+    "prevClose": 2536,
+    "open": 2536.6,
+    "high": 2569.9,
+    "low": 2512,
+    "lastPrice": 2512,
+    "close": 2512,
+    "avgPrice": 2540.9,
+    "volume": 401209,
+    "turnover": 1019430256.5,
+    "noOfTrades": 24715,
+    "deliverableQty": 268409,
+    "pctDlyQtToTradedQty": 66.9,
+    "symbol": "SRF"
   }
 ]
