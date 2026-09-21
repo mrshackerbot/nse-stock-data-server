@@ -2830,5 +2830,21 @@
     "deliverableQty": 520412,
     "pctDlyQtToTradedQty": 70.36,
     "symbol": "MOTILALOFS"
+  },
+  {
+    "date": "21-Sep-2026",
+    "prevClose": 1010,
+    "open": 1001,
+    "high": 1009.8,
+    "low": 993.2,
+    "lastPrice": 995,
+    "close": 995,
+    "avgPrice": 1001.17,
+    "volume": 277400,
+    "turnover": 277724303.5,
+    "noOfTrades": 11533,
+    "deliverableQty": 89855,
+    "pctDlyQtToTradedQty": 32.39,
+    "symbol": "MOTILALOFS"
   }
 ]

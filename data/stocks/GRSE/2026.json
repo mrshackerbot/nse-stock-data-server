@@ -2830,5 +2830,21 @@
     "deliverableQty": 229286,
     "pctDlyQtToTradedQty": 43.12,
     "symbol": "GRSE"
+  },
+  {
+    "date": "21-Sep-2026",
+    "prevClose": 2411.8,
+    "open": 2408,
+    "high": 2418.8,
+    "low": 2366.1,
+    "lastPrice": 2373,
+    "close": 2372.2,
+    "avgPrice": 2386.61,
+    "volume": 180334,
+    "turnover": 430386128.8,
+    "noOfTrades": 14672,
+    "deliverableQty": 77550,
+    "pctDlyQtToTradedQty": 43,
+    "symbol": "GRSE"
   }
 ]

@@ -2830,5 +2830,21 @@
     "deliverableQty": 1126758,
     "pctDlyQtToTradedQty": 72.8,
     "symbol": "LT"
+  },
+  {
+    "date": "21-Sep-2026",
+    "prevClose": 3885,
+    "open": 3885,
+    "high": 3908.7,
+    "low": 3883,
+    "lastPrice": 3904.8,
+    "close": 3904.8,
+    "avgPrice": 3898.56,
+    "volume": 947371,
+    "turnover": 3693383369.5,
+    "noOfTrades": 65431,
+    "deliverableQty": 602408,
+    "pctDlyQtToTradedQty": 63.59,
+    "symbol": "LT"
   }
 ]

@@ -2830,5 +2830,21 @@
     "deliverableQty": 143099,
     "pctDlyQtToTradedQty": 61.33,
     "symbol": "CEMPRO"
+  },
+  {
+    "date": "21-Sep-2026",
+    "prevClose": 1263.5,
+    "open": 1263,
+    "high": 1274.8,
+    "low": 1248.1,
+    "lastPrice": 1249.1,
+    "close": 1256.5,
+    "avgPrice": 1260.14,
+    "volume": 95870,
+    "turnover": 120809142.6,
+    "noOfTrades": 9988,
+    "deliverableQty": 52572,
+    "pctDlyQtToTradedQty": 54.84,
+    "symbol": "CEMPRO"
   }
 ]

@@ -2830,5 +2830,21 @@
     "deliverableQty": 1084513,
     "pctDlyQtToTradedQty": 66.93,
     "symbol": "GPIL"
+  },
+  {
+    "date": "21-Sep-2026",
+    "prevClose": 233.47,
+    "open": 234,
+    "high": 239.6,
+    "low": 232.6,
+    "lastPrice": 236.39,
+    "close": 236.8,
+    "avgPrice": 236.79,
+    "volume": 1413064,
+    "turnover": 334594996.34,
+    "noOfTrades": 15166,
+    "deliverableQty": 619306,
+    "pctDlyQtToTradedQty": 43.83,
+    "symbol": "GPIL"
   }
 ]

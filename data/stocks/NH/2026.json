@@ -2830,5 +2830,21 @@
     "deliverableQty": 186274,
     "pctDlyQtToTradedQty": 68.54,
     "symbol": "NH"
+  },
+  {
+    "date": "21-Sep-2026",
+    "prevClose": 1928.5,
+    "open": 1918.9,
+    "high": 1932.9,
+    "low": 1896,
+    "lastPrice": 1905,
+    "close": 1896.9,
+    "avgPrice": 1910.03,
+    "volume": 78926,
+    "turnover": 150751095.9,
+    "noOfTrades": 10447,
+    "deliverableQty": 43436,
+    "pctDlyQtToTradedQty": 55.03,
+    "symbol": "NH"
   }
 ]
