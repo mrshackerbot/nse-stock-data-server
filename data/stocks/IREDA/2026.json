@@ -2846,5 +2846,21 @@
     "deliverableQty": 1294097,
     "pctDlyQtToTradedQty": 43.57,
     "symbol": "IREDA"
+  },
+  {
+    "date": "22-Sep-2026",
+    "prevClose": 111,
+    "open": 111.25,
+    "high": 112.19,
+    "low": 110,
+    "lastPrice": 110.25,
+    "close": 110.25,
+    "avgPrice": 110.96,
+    "volume": 2673698,
+    "turnover": 296680006.35,
+    "noOfTrades": 22381,
+    "deliverableQty": 983222,
+    "pctDlyQtToTradedQty": 36.77,
+    "symbol": "IREDA"
   }
 ]

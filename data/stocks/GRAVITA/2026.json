@@ -2846,5 +2846,21 @@
     "deliverableQty": 123607,
     "pctDlyQtToTradedQty": 45.35,
     "symbol": "GRAVITA"
+  },
+  {
+    "date": "22-Sep-2026",
+    "prevClose": 1580,
+    "open": 1585.1,
+    "high": 1596.6,
+    "low": 1560,
+    "lastPrice": 1570,
+    "close": 1564.9,
+    "avgPrice": 1574.29,
+    "volume": 198743,
+    "turnover": 312878134.6,
+    "noOfTrades": 17960,
+    "deliverableQty": 95918,
+    "pctDlyQtToTradedQty": 48.26,
+    "symbol": "GRAVITA"
   }
 ]

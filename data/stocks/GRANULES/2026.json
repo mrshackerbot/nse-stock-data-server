@@ -2846,5 +2846,21 @@
     "deliverableQty": 280831,
     "pctDlyQtToTradedQty": 47.04,
     "symbol": "GRANULES"
+  },
+  {
+    "date": "22-Sep-2026",
+    "prevClose": 875.15,
+    "open": 876,
+    "high": 876.6,
+    "low": 853.9,
+    "lastPrice": 862.2,
+    "close": 864.05,
+    "avgPrice": 862.35,
+    "volume": 640982,
+    "turnover": 552753625,
+    "noOfTrades": 20312,
+    "deliverableQty": 254781,
+    "pctDlyQtToTradedQty": 39.75,
+    "symbol": "GRANULES"
   }
 ]

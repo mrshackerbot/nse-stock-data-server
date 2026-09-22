@@ -2846,5 +2846,21 @@
     "deliverableQty": 56521,
     "pctDlyQtToTradedQty": 33.38,
     "symbol": "EMCURE"
+  },
+  {
+    "date": "22-Sep-2026",
+    "prevClose": 2009.3,
+    "open": 2000,
+    "high": 2010.3,
+    "low": 1972,
+    "lastPrice": 1973,
+    "close": 1975,
+    "avgPrice": 1992.18,
+    "volume": 41985,
+    "turnover": 83641487.2,
+    "noOfTrades": 7727,
+    "deliverableQty": 22785,
+    "pctDlyQtToTradedQty": 54.27,
+    "symbol": "EMCURE"
   }
 ]

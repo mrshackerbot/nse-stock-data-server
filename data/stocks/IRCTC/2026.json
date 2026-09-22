@@ -2846,5 +2846,21 @@
     "deliverableQty": 223755,
     "pctDlyQtToTradedQty": 42.36,
     "symbol": "IRCTC"
+  },
+  {
+    "date": "22-Sep-2026",
+    "prevClose": 470.7,
+    "open": 472,
+    "high": 474.6,
+    "low": 466.35,
+    "lastPrice": 469.25,
+    "close": 469.65,
+    "avgPrice": 471.32,
+    "volume": 431674,
+    "turnover": 203456677.5,
+    "noOfTrades": 18049,
+    "deliverableQty": 174894,
+    "pctDlyQtToTradedQty": 40.52,
+    "symbol": "IRCTC"
   }
 ]

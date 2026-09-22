@@ -2846,5 +2846,21 @@
     "deliverableQty": 35162,
     "pctDlyQtToTradedQty": 37.26,
     "symbol": "INDIACEM"
+  },
+  {
+    "date": "22-Sep-2026",
+    "prevClose": 345,
+    "open": 348.6,
+    "high": 348.6,
+    "low": 339.6,
+    "lastPrice": 340.8,
+    "close": 340.65,
+    "avgPrice": 343.22,
+    "volume": 97438,
+    "turnover": 33442790.15,
+    "noOfTrades": 5734,
+    "deliverableQty": 43740,
+    "pctDlyQtToTradedQty": 44.89,
+    "symbol": "INDIACEM"
   }
 ]
