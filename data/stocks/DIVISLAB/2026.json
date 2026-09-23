@@ -2862,5 +2862,21 @@
     "deliverableQty": 180452,
     "pctDlyQtToTradedQty": 61.44,
     "symbol": "DIVISLAB"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 9352,
+    "open": 9330,
+    "high": 9624,
+    "low": 9312.5,
+    "lastPrice": 9624,
+    "close": 9624,
+    "avgPrice": 9508.65,
+    "volume": 489382,
+    "turnover": 4653361195,
+    "noOfTrades": 50350,
+    "deliverableQty": 299059,
+    "pctDlyQtToTradedQty": 61.11,
+    "symbol": "DIVISLAB"
   }
 ]

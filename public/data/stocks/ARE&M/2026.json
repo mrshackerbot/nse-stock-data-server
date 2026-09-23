@@ -2862,5 +2862,21 @@
     "deliverableQty": 182652,
     "pctDlyQtToTradedQty": 47.08,
     "symbol": "ARE&M"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 793.2,
+    "open": 794,
+    "high": 815,
+    "low": 794,
+    "lastPrice": 811.95,
+    "close": 812.85,
+    "avgPrice": 807.6,
+    "volume": 600363,
+    "turnover": 484855155.85,
+    "noOfTrades": 24125,
+    "deliverableQty": 364349,
+    "pctDlyQtToTradedQty": 60.69,
+    "symbol": "ARE&M"
   }
 ]

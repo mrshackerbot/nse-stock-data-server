@@ -2862,5 +2862,21 @@
     "deliverableQty": 1403653,
     "pctDlyQtToTradedQty": 55.35,
     "symbol": "IGL"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 146.68,
+    "open": 147.41,
+    "high": 148.65,
+    "low": 146.23,
+    "lastPrice": 147.22,
+    "close": 147.09,
+    "avgPrice": 147.42,
+    "volume": 1211876,
+    "turnover": 178653549.23,
+    "noOfTrades": 31235,
+    "deliverableQty": 582132,
+    "pctDlyQtToTradedQty": 48.04,
+    "symbol": "IGL"
   }
 ]

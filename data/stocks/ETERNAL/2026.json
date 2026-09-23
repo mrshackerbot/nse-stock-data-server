@@ -2862,5 +2862,21 @@
     "deliverableQty": 11129321,
     "pctDlyQtToTradedQty": 49.96,
     "symbol": "ETERNAL"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 342,
+    "open": 344.4,
+    "high": 344.4,
+    "low": 340.55,
+    "lastPrice": 342.65,
+    "close": 342.65,
+    "avgPrice": 342.49,
+    "volume": 18360484,
+    "turnover": 6288247674.35,
+    "noOfTrades": 170827,
+    "deliverableQty": 12281955,
+    "pctDlyQtToTradedQty": 66.89,
+    "symbol": "ETERNAL"
   }
 ]

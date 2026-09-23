@@ -2862,5 +2862,21 @@
     "deliverableQty": 3052014,
     "pctDlyQtToTradedQty": 49.82,
     "symbol": "SBIN"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 987,
+    "open": 987,
+    "high": 996.4,
+    "low": 986.4,
+    "lastPrice": 994.1,
+    "close": 994.1,
+    "avgPrice": 992.19,
+    "volume": 4522248,
+    "turnover": 4486927140.6,
+    "noOfTrades": 90482,
+    "deliverableQty": 2643995,
+    "pctDlyQtToTradedQty": 58.47,
+    "symbol": "SBIN"
   }
 ]

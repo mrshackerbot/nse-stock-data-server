@@ -2862,5 +2862,21 @@
     "deliverableQty": 1315718,
     "pctDlyQtToTradedQty": 47.52,
     "symbol": "CENTRALBK"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 31.37,
+    "open": 31.32,
+    "high": 31.8,
+    "low": 31.26,
+    "lastPrice": 31.62,
+    "close": 31.63,
+    "avgPrice": 31.63,
+    "volume": 4418230,
+    "turnover": 139770300.76,
+    "noOfTrades": 17388,
+    "deliverableQty": 2414984,
+    "pctDlyQtToTradedQty": 54.66,
+    "symbol": "CENTRALBK"
   }
 ]

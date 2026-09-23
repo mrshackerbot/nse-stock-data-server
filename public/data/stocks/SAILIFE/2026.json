@@ -2862,5 +2862,21 @@
     "deliverableQty": 137888,
     "pctDlyQtToTradedQty": 50.22,
     "symbol": "SAILIFE"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 1600.5,
+    "open": 1606.9,
+    "high": 1633.4,
+    "low": 1600.2,
+    "lastPrice": 1610,
+    "close": 1609.6,
+    "avgPrice": 1614.06,
+    "volume": 265789,
+    "turnover": 429000386.8,
+    "noOfTrades": 21694,
+    "deliverableQty": 103756,
+    "pctDlyQtToTradedQty": 39.04,
+    "symbol": "SAILIFE"
   }
 ]

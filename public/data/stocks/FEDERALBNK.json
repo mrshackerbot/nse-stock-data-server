@@ -22702,5 +22702,21 @@
     "deliverableQty": 3481001,
     "pctDlyQtToTradedQty": 62.02,
     "symbol": "FEDERALBNK"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 327,
+    "open": 328.45,
+    "high": 331.3,
+    "low": 325.25,
+    "lastPrice": 331.3,
+    "close": 331.3,
+    "avgPrice": 327.77,
+    "volume": 5137220,
+    "turnover": 1683813496.2,
+    "noOfTrades": 60925,
+    "deliverableQty": 3378696,
+    "pctDlyQtToTradedQty": 65.77,
+    "symbol": "FEDERALBNK"
   }
 ]

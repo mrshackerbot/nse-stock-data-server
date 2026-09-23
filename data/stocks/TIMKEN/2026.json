@@ -2862,5 +2862,21 @@
     "deliverableQty": 20845,
     "pctDlyQtToTradedQty": 54.75,
     "symbol": "TIMKEN"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 3178.5,
+    "open": 3152,
+    "high": 3299,
+    "low": 3133.6,
+    "lastPrice": 3295,
+    "close": 3287.9,
+    "avgPrice": 3237.96,
+    "volume": 55180,
+    "turnover": 178670862.9,
+    "noOfTrades": 10700,
+    "deliverableQty": 27201,
+    "pctDlyQtToTradedQty": 49.3,
+    "symbol": "TIMKEN"
   }
 ]

@@ -2862,5 +2862,21 @@
     "deliverableQty": 345410,
     "pctDlyQtToTradedQty": 40.38,
     "symbol": "PGEL"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 520.2,
+    "open": 522.85,
+    "high": 527.5,
+    "low": 519,
+    "lastPrice": 521.15,
+    "close": 521.15,
+    "avgPrice": 523.3,
+    "volume": 546381,
+    "turnover": 285922489,
+    "noOfTrades": 10696,
+    "deliverableQty": 207221,
+    "pctDlyQtToTradedQty": 37.93,
+    "symbol": "PGEL"
   }
 ]

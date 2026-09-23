@@ -2862,5 +2862,21 @@
     "deliverableQty": 2035,
     "pctDlyQtToTradedQty": 46.6,
     "symbol": "3MINDIA"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 34220,
+    "open": 34225,
+    "high": 35000,
+    "low": 34225,
+    "lastPrice": 34600,
+    "close": 34615,
+    "avgPrice": 34735.1,
+    "volume": 4992,
+    "turnover": 173397635,
+    "noOfTrades": 2592,
+    "deliverableQty": 1926,
+    "pctDlyQtToTradedQty": 38.58,
+    "symbol": "3MINDIA"
   }
 ]

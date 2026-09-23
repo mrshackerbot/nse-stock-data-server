@@ -2862,5 +2862,21 @@
     "deliverableQty": 48794,
     "pctDlyQtToTradedQty": 54.99,
     "symbol": "UBL"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 1215.2,
+    "open": 1215,
+    "high": 1248.1,
+    "low": 1215,
+    "lastPrice": 1244.3,
+    "close": 1242.3,
+    "avgPrice": 1235.99,
+    "volume": 61203,
+    "turnover": 75646163,
+    "noOfTrades": 6502,
+    "deliverableQty": 29905,
+    "pctDlyQtToTradedQty": 48.86,
+    "symbol": "UBL"
   }
 ]

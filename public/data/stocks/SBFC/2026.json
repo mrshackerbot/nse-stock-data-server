@@ -2862,5 +2862,21 @@
     "deliverableQty": 338412,
     "pctDlyQtToTradedQty": 54.29,
     "symbol": "SBFC"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 90.41,
+    "open": 90.84,
+    "high": 92.4,
+    "low": 90.56,
+    "lastPrice": 91.3,
+    "close": 91.21,
+    "avgPrice": 91.38,
+    "volume": 1300327,
+    "turnover": 118821571.77,
+    "noOfTrades": 11606,
+    "deliverableQty": 639818,
+    "pctDlyQtToTradedQty": 49.2,
+    "symbol": "SBFC"
   }
 ]

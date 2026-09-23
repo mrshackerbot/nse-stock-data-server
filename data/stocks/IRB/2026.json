@@ -2862,5 +2862,21 @@
     "deliverableQty": 8716057,
     "pctDlyQtToTradedQty": 53.28,
     "symbol": "IRB"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 17.98,
+    "open": 18.4,
+    "high": 18.66,
+    "low": 17.51,
+    "lastPrice": 17.99,
+    "close": 18.03,
+    "avgPrice": 18.27,
+    "volume": 36892063,
+    "turnover": 673935817.12,
+    "noOfTrades": 43059,
+    "deliverableQty": 10505135,
+    "pctDlyQtToTradedQty": 28.48,
+    "symbol": "IRB"
   }
 ]

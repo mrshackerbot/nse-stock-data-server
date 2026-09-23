@@ -2862,5 +2862,21 @@
     "deliverableQty": 3972336,
     "pctDlyQtToTradedQty": 63.87,
     "symbol": "NTPC"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 327.8,
+    "open": 326.5,
+    "high": 329.4,
+    "low": 325,
+    "lastPrice": 326,
+    "close": 326,
+    "avgPrice": 326.74,
+    "volume": 10525477,
+    "turnover": 3439123287.9,
+    "noOfTrades": 88503,
+    "deliverableQty": 6514954,
+    "pctDlyQtToTradedQty": 61.9,
+    "symbol": "NTPC"
   }
 ]

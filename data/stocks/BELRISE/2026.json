@@ -2862,5 +2862,21 @@
     "deliverableQty": 2223405,
     "pctDlyQtToTradedQty": 46.17,
     "symbol": "BELRISE"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 244.74,
+    "open": 246.9,
+    "high": 250.9,
+    "low": 246.75,
+    "lastPrice": 250,
+    "close": 249.78,
+    "avgPrice": 248.93,
+    "volume": 2848133,
+    "turnover": 708994629.16,
+    "noOfTrades": 40067,
+    "deliverableQty": 1444862,
+    "pctDlyQtToTradedQty": 50.73,
+    "symbol": "BELRISE"
   }
 ]

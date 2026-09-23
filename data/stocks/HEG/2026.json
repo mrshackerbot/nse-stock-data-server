@@ -2702,5 +2702,21 @@
     "deliverableQty": 740627,
     "pctDlyQtToTradedQty": 67.57,
     "symbol": "HEG"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 232.9,
+    "open": 233,
+    "high": 240.95,
+    "low": 232.2,
+    "lastPrice": 240.95,
+    "close": 237.3,
+    "avgPrice": 236.56,
+    "volume": 1038595,
+    "turnover": 245690616,
+    "noOfTrades": 23144,
+    "deliverableQty": 573994,
+    "pctDlyQtToTradedQty": 55.27,
+    "symbol": "HEG"
   }
 ]

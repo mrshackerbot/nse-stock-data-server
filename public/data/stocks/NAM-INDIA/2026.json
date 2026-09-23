@@ -2862,5 +2862,21 @@
     "deliverableQty": 372264,
     "pctDlyQtToTradedQty": 53.22,
     "symbol": "NAM-INDIA"
+  },
+  {
+    "date": "23-Sep-2026",
+    "prevClose": 1159,
+    "open": 1153.3,
+    "high": 1175.8,
+    "low": 1153.3,
+    "lastPrice": 1165,
+    "close": 1165,
+    "avgPrice": 1168.18,
+    "volume": 494842,
+    "turnover": 578064265.5,
+    "noOfTrades": 17539,
+    "deliverableQty": 286037,
+    "pctDlyQtToTradedQty": 57.8,
+    "symbol": "NAM-INDIA"
   }
 ]
