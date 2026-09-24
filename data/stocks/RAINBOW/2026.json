@@ -2878,5 +2878,21 @@
     "deliverableQty": 57888,
     "pctDlyQtToTradedQty": 62.01,
     "symbol": "RAINBOW"
+  },
+  {
+    "date": "24-Sep-2026",
+    "prevClose": 1406.5,
+    "open": 1401,
+    "high": 1415,
+    "low": 1372.3,
+    "lastPrice": 1414.9,
+    "close": 1412.6,
+    "avgPrice": 1392.36,
+    "volume": 239564,
+    "turnover": 333559559.9,
+    "noOfTrades": 36576,
+    "deliverableQty": 134585,
+    "pctDlyQtToTradedQty": 56.18,
+    "symbol": "RAINBOW"
   }
 ]

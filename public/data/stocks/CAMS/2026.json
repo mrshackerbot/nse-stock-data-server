@@ -2878,5 +2878,21 @@
     "deliverableQty": 710555,
     "pctDlyQtToTradedQty": 53.28,
     "symbol": "CAMS"
+  },
+  {
+    "date": "24-Sep-2026",
+    "prevClose": 723.9,
+    "open": 718.45,
+    "high": 725,
+    "low": 705,
+    "lastPrice": 710.6,
+    "close": 710.6,
+    "avgPrice": 716.58,
+    "volume": 989945,
+    "turnover": 709378333.15,
+    "noOfTrades": 57003,
+    "deliverableQty": 493479,
+    "pctDlyQtToTradedQty": 49.85,
+    "symbol": "CAMS"
   }
 ]
