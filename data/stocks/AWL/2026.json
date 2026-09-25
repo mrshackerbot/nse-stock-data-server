@@ -2894,5 +2894,21 @@
     "deliverableQty": 1042305,
     "pctDlyQtToTradedQty": 32.95,
     "symbol": "AWL"
+  },
+  {
+    "date": "25-Sep-2026",
+    "prevClose": 184.69,
+    "open": 184.39,
+    "high": 185.1,
+    "low": 181.61,
+    "lastPrice": 183.99,
+    "close": 184.34,
+    "avgPrice": 183.68,
+    "volume": 1439611,
+    "turnover": 264422168.95,
+    "noOfTrades": 21610,
+    "deliverableQty": 613962,
+    "pctDlyQtToTradedQty": 42.65,
+    "symbol": "AWL"
   }
 ]

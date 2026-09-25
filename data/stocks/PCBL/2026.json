@@ -2894,5 +2894,21 @@
     "deliverableQty": 366200,
     "pctDlyQtToTradedQty": 38.26,
     "symbol": "PCBL"
+  },
+  {
+    "date": "25-Sep-2026",
+    "prevClose": 338.6,
+    "open": 339.4,
+    "high": 342.95,
+    "low": 335.05,
+    "lastPrice": 339,
+    "close": 339.6,
+    "avgPrice": 338.69,
+    "volume": 669776,
+    "turnover": 226846283.05,
+    "noOfTrades": 19243,
+    "deliverableQty": 214188,
+    "pctDlyQtToTradedQty": 31.98,
+    "symbol": "PCBL"
   }
 ]

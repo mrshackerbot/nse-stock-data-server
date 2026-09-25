@@ -2894,5 +2894,21 @@
     "deliverableQty": 4370709,
     "pctDlyQtToTradedQty": 53.63,
     "symbol": "NHPC"
+  },
+  {
+    "date": "25-Sep-2026",
+    "prevClose": 76.25,
+    "open": 76.17,
+    "high": 76.32,
+    "low": 75.42,
+    "lastPrice": 76,
+    "close": 76,
+    "avgPrice": 75.8,
+    "volume": 6481994,
+    "turnover": 491342204.35,
+    "noOfTrades": 29780,
+    "deliverableQty": 3258526,
+    "pctDlyQtToTradedQty": 50.27,
+    "symbol": "NHPC"
   }
 ]

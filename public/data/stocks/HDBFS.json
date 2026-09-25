@@ -4894,5 +4894,21 @@
     "deliverableQty": 217415,
     "pctDlyQtToTradedQty": 63.19,
     "symbol": "HDBFS"
+  },
+  {
+    "date": "25-Sep-2026",
+    "prevClose": 661,
+    "open": 662,
+    "high": 662.05,
+    "low": 647.15,
+    "lastPrice": 648,
+    "close": 648.15,
+    "avgPrice": 651.55,
+    "volume": 255839,
+    "turnover": 166692878.45,
+    "noOfTrades": 15013,
+    "deliverableQty": 167554,
+    "pctDlyQtToTradedQty": 65.49,
+    "symbol": "HDBFS"
   }
 ]

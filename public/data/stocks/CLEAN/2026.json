@@ -2894,5 +2894,21 @@
     "deliverableQty": 118274,
     "pctDlyQtToTradedQty": 53.47,
     "symbol": "CLEAN"
+  },
+  {
+    "date": "25-Sep-2026",
+    "prevClose": 815.45,
+    "open": 816.4,
+    "high": 823.9,
+    "low": 805,
+    "lastPrice": 808,
+    "close": 807.25,
+    "avgPrice": 809.54,
+    "volume": 161379,
+    "turnover": 130642927.3,
+    "noOfTrades": 11345,
+    "deliverableQty": 76223,
+    "pctDlyQtToTradedQty": 47.23,
+    "symbol": "CLEAN"
   }
 ]
