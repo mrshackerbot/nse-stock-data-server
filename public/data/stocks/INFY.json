@@ -22750,5 +22750,21 @@
     "deliverableQty": 5519877,
     "pctDlyQtToTradedQty": 53.9,
     "symbol": "INFY"
+  },
+  {
+    "date": "28-Sep-2026",
+    "prevClose": 1000.2,
+    "open": 1002,
+    "high": 1009.5,
+    "low": 986.6,
+    "lastPrice": 1003.2,
+    "close": 1003.2,
+    "avgPrice": 998.84,
+    "volume": 8567672,
+    "turnover": 8557694675.9,
+    "noOfTrades": 166272,
+    "deliverableQty": 4476217,
+    "pctDlyQtToTradedQty": 52.25,
+    "symbol": "INFY"
   }
 ]

@@ -2910,5 +2910,21 @@
     "deliverableQty": 184391,
     "pctDlyQtToTradedQty": 42.43,
     "symbol": "AFCONS"
+  },
+  {
+    "date": "28-Sep-2026",
+    "prevClose": 252.5,
+    "open": 252.5,
+    "high": 258,
+    "low": 247.8,
+    "lastPrice": 255,
+    "close": 251.65,
+    "avgPrice": 250.87,
+    "volume": 783149,
+    "turnover": 196468938.7,
+    "noOfTrades": 11591,
+    "deliverableQty": 423441,
+    "pctDlyQtToTradedQty": 54.07,
+    "symbol": "AFCONS"
   }
 ]
