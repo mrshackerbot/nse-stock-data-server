@@ -2926,5 +2926,21 @@
     "deliverableQty": 6120734,
     "pctDlyQtToTradedQty": 61.19,
     "symbol": "PFC"
+  },
+  {
+    "date": "29-Sep-2026",
+    "prevClose": 330,
+    "open": 330.25,
+    "high": 330.6,
+    "low": 320.8,
+    "lastPrice": 324.1,
+    "close": 324.1,
+    "avgPrice": 324.86,
+    "volume": 13111275,
+    "turnover": 4259332358.95,
+    "noOfTrades": 91810,
+    "deliverableQty": 8148933,
+    "pctDlyQtToTradedQty": 62.15,
+    "symbol": "PFC"
   }
 ]

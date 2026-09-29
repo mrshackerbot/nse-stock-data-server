@@ -2926,5 +2926,21 @@
     "deliverableQty": 222712,
     "pctDlyQtToTradedQty": 50.71,
     "symbol": "LTFOODS"
+  },
+  {
+    "date": "29-Sep-2026",
+    "prevClose": 408.5,
+    "open": 407,
+    "high": 413.8,
+    "low": 401.2,
+    "lastPrice": 402.5,
+    "close": 402.8,
+    "avgPrice": 406.63,
+    "volume": 351308,
+    "turnover": 142852260.4,
+    "noOfTrades": 19134,
+    "deliverableQty": 172844,
+    "pctDlyQtToTradedQty": 49.2,
+    "symbol": "LTFOODS"
   }
 ]

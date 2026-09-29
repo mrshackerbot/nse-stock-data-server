@@ -2926,5 +2926,21 @@
     "deliverableQty": 44444,
     "pctDlyQtToTradedQty": 36.63,
     "symbol": "CAPLIPOINT"
+  },
+  {
+    "date": "29-Sep-2026",
+    "prevClose": 2854,
+    "open": 2852,
+    "high": 2869,
+    "low": 2735,
+    "lastPrice": 2738,
+    "close": 2744,
+    "avgPrice": 2783.38,
+    "volume": 93586,
+    "turnover": 260485276.1,
+    "noOfTrades": 15553,
+    "deliverableQty": 38654,
+    "pctDlyQtToTradedQty": 41.3,
+    "symbol": "CAPLIPOINT"
   }
 ]
