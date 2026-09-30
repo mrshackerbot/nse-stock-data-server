@@ -2942,5 +2942,21 @@
     "deliverableQty": 5441025,
     "pctDlyQtToTradedQty": 57.17,
     "symbol": "VEDL"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 260,
+    "open": 260,
+    "high": 260.5,
+    "low": 255.15,
+    "lastPrice": 259,
+    "close": 259,
+    "avgPrice": 258.38,
+    "volume": 8639213,
+    "turnover": 2232201123.35,
+    "noOfTrades": 73570,
+    "deliverableQty": 5245797,
+    "pctDlyQtToTradedQty": 60.72,
+    "symbol": "VEDL"
   }
 ]

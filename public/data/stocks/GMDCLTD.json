@@ -22782,5 +22782,21 @@
     "deliverableQty": 255118,
     "pctDlyQtToTradedQty": 35.01,
     "symbol": "GMDCLTD"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 513.2,
+    "open": 515,
+    "high": 524.4,
+    "low": 506,
+    "lastPrice": 507,
+    "close": 507.7,
+    "avgPrice": 513.77,
+    "volume": 688502,
+    "turnover": 353729209.25,
+    "noOfTrades": 23103,
+    "deliverableQty": 296508,
+    "pctDlyQtToTradedQty": 43.07,
+    "symbol": "GMDCLTD"
   }
 ]

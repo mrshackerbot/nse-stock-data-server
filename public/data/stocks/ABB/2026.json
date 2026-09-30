@@ -2942,5 +2942,21 @@
     "deliverableQty": 104538,
     "pctDlyQtToTradedQty": 48.9,
     "symbol": "ABB"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 6660.5,
+    "open": 6801,
+    "high": 6927.5,
+    "low": 6771,
+    "lastPrice": 6776,
+    "close": 6776,
+    "avgPrice": 6855.09,
+    "volume": 229223,
+    "turnover": 1571344469.5,
+    "noOfTrades": 35422,
+    "deliverableQty": 87576,
+    "pctDlyQtToTradedQty": 38.21,
+    "symbol": "ABB"
   }
 ]

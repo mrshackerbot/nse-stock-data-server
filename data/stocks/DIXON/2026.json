@@ -2942,5 +2942,21 @@
     "deliverableQty": 100192,
     "pctDlyQtToTradedQty": 32.8,
     "symbol": "DIXON"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 13250,
+    "open": 13300,
+    "high": 13425,
+    "low": 13100,
+    "lastPrice": 13100,
+    "close": 13100,
+    "avgPrice": 13272.76,
+    "volume": 273569,
+    "turnover": 3631014617,
+    "noOfTrades": 42262,
+    "deliverableQty": 126448,
+    "pctDlyQtToTradedQty": 46.22,
+    "symbol": "DIXON"
   }
 ]

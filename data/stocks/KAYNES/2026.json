@@ -2942,5 +2942,21 @@
     "deliverableQty": 340987,
     "pctDlyQtToTradedQty": 23.13,
     "symbol": "KAYNES"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 3511.5,
+    "open": 3520.4,
+    "high": 3611,
+    "low": 3501,
+    "lastPrice": 3501,
+    "close": 3501,
+    "avgPrice": 3545.22,
+    "volume": 720015,
+    "turnover": 2552613352.6,
+    "noOfTrades": 45535,
+    "deliverableQty": 182125,
+    "pctDlyQtToTradedQty": 25.29,
+    "symbol": "KAYNES"
   }
 ]

@@ -22782,5 +22782,21 @@
     "deliverableQty": 5485889,
     "pctDlyQtToTradedQty": 14.1,
     "symbol": "IFCI"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 70.97,
+    "open": 70.95,
+    "high": 71.43,
+    "low": 68.45,
+    "lastPrice": 68.55,
+    "close": 68.77,
+    "avgPrice": 69.79,
+    "volume": 25751767,
+    "turnover": 1797215582.9,
+    "noOfTrades": 71836,
+    "deliverableQty": 6517647,
+    "pctDlyQtToTradedQty": 25.31,
+    "symbol": "IFCI"
   }
 ]

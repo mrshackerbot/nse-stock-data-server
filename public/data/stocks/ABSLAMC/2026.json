@@ -2942,5 +2942,21 @@
     "deliverableQty": 108092,
     "pctDlyQtToTradedQty": 64.7,
     "symbol": "ABSLAMC"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 955.9,
+    "open": 955.9,
+    "high": 1033.9,
+    "low": 947.9,
+    "lastPrice": 995,
+    "close": 995.3,
+    "avgPrice": 973.45,
+    "volume": 214646,
+    "turnover": 208947996.2,
+    "noOfTrades": 27548,
+    "deliverableQty": 97829,
+    "pctDlyQtToTradedQty": 45.58,
+    "symbol": "ABSLAMC"
   }
 ]

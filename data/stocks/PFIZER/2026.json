@@ -2942,5 +2942,21 @@
     "deliverableQty": 112500,
     "pctDlyQtToTradedQty": 64.5,
     "symbol": "PFIZER"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 3912.9,
+    "open": 3916,
+    "high": 3933.8,
+    "low": 3833.5,
+    "lastPrice": 3875,
+    "close": 3875.3,
+    "avgPrice": 3869.41,
+    "volume": 39848,
+    "turnover": 154188160.6,
+    "noOfTrades": 9514,
+    "deliverableQty": 22318,
+    "pctDlyQtToTradedQty": 56.01,
+    "symbol": "PFIZER"
   }
 ]

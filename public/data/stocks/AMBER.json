@@ -22782,5 +22782,21 @@
     "deliverableQty": 126163,
     "pctDlyQtToTradedQty": 44.08,
     "symbol": "AMBER"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 6606.5,
+    "open": 6639,
+    "high": 6786,
+    "low": 6617,
+    "lastPrice": 6672.5,
+    "close": 6672.5,
+    "avgPrice": 6743.75,
+    "volume": 224400,
+    "turnover": 1513297307.5,
+    "noOfTrades": 32872,
+    "deliverableQty": 104309,
+    "pctDlyQtToTradedQty": 46.48,
+    "symbol": "AMBER"
   }
 ]

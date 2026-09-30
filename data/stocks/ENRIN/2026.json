@@ -2942,5 +2942,21 @@
     "deliverableQty": 190155,
     "pctDlyQtToTradedQty": 54.82,
     "symbol": "ENRIN"
+  },
+  {
+    "date": "30-Sep-2026",
+    "prevClose": 3199,
+    "open": 3211.4,
+    "high": 3322.8,
+    "low": 3200,
+    "lastPrice": 3200,
+    "close": 3200,
+    "avgPrice": 3266.97,
+    "volume": 666697,
+    "turnover": 2178077479.1,
+    "noOfTrades": 60404,
+    "deliverableQty": 363334,
+    "pctDlyQtToTradedQty": 54.5,
+    "symbol": "ENRIN"
   }
 ]
