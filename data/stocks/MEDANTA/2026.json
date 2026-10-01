@@ -2958,5 +2958,21 @@
     "deliverableQty": 256252,
     "pctDlyQtToTradedQty": 55.99,
     "symbol": "MEDANTA"
+  },
+  {
+    "date": "01-Oct-2026",
+    "prevClose": 1365,
+    "open": 1356.9,
+    "high": 1386.1,
+    "low": 1336.2,
+    "lastPrice": 1357,
+    "close": 1357.3,
+    "avgPrice": 1357.12,
+    "volume": 363086,
+    "turnover": 492750264,
+    "noOfTrades": 28717,
+    "deliverableQty": 212066,
+    "pctDlyQtToTradedQty": 58.41,
+    "symbol": "MEDANTA"
   }
 ]

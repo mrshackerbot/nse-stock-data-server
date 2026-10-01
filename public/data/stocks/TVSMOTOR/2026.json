@@ -2958,5 +2958,21 @@
     "deliverableQty": 368838,
     "pctDlyQtToTradedQty": 60.91,
     "symbol": "TVSMOTOR"
+  },
+  {
+    "date": "01-Oct-2026",
+    "prevClose": 4106,
+    "open": 4090,
+    "high": 4100,
+    "low": 3930.1,
+    "lastPrice": 4021,
+    "close": 4021,
+    "avgPrice": 4000.78,
+    "volume": 1234692,
+    "turnover": 4939734105,
+    "noOfTrades": 77882,
+    "deliverableQty": 604750,
+    "pctDlyQtToTradedQty": 48.98,
+    "symbol": "TVSMOTOR"
   }
 ]

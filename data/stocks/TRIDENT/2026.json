@@ -2958,5 +2958,21 @@
     "deliverableQty": 1095085,
     "pctDlyQtToTradedQty": 53.14,
     "symbol": "TRIDENT"
+  },
+  {
+    "date": "01-Oct-2026",
+    "prevClose": 22.44,
+    "open": 22.44,
+    "high": 22.5,
+    "low": 22,
+    "lastPrice": 22.24,
+    "close": 22.16,
+    "avgPrice": 22.2,
+    "volume": 2837617,
+    "turnover": 62996819.1,
+    "noOfTrades": 16076,
+    "deliverableQty": 1414005,
+    "pctDlyQtToTradedQty": 49.83,
+    "symbol": "TRIDENT"
   }
 ]

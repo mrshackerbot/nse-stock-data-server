@@ -2958,5 +2958,21 @@
     "deliverableQty": 137216,
     "pctDlyQtToTradedQty": 23.4,
     "symbol": "NETWEB"
+  },
+  {
+    "date": "01-Oct-2026",
+    "prevClose": 4548,
+    "open": 4545,
+    "high": 4620,
+    "low": 4463.8,
+    "lastPrice": 4518,
+    "close": 4520.3,
+    "avgPrice": 4546.81,
+    "volume": 752580,
+    "turnover": 3421837573.5,
+    "noOfTrades": 70052,
+    "deliverableQty": 150544,
+    "pctDlyQtToTradedQty": 20,
+    "symbol": "NETWEB"
   }
 ]

@@ -2958,5 +2958,21 @@
     "deliverableQty": 601526,
     "pctDlyQtToTradedQty": 9.16,
     "symbol": "RAILTEL"
+  },
+  {
+    "date": "01-Oct-2026",
+    "prevClose": 265.65,
+    "open": 263.2,
+    "high": 263.2,
+    "low": 252.65,
+    "lastPrice": 257.5,
+    "close": 257.2,
+    "avgPrice": 257.46,
+    "volume": 851720,
+    "turnover": 219281926.85,
+    "noOfTrades": 23848,
+    "deliverableQty": 257320,
+    "pctDlyQtToTradedQty": 30.21,
+    "symbol": "RAILTEL"
   }
 ]
