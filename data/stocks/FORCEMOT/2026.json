@@ -2974,5 +2974,21 @@
     "deliverableQty": 35182,
     "pctDlyQtToTradedQty": 29.95,
     "symbol": "FORCEMOT"
+  },
+  {
+    "date": "05-Oct-2026",
+    "prevClose": 16800,
+    "open": 16945,
+    "high": 16980,
+    "low": 16520,
+    "lastPrice": 16650,
+    "close": 16650,
+    "avgPrice": 16692.23,
+    "volume": 62662,
+    "turnover": 1045968266,
+    "noOfTrades": 20002,
+    "deliverableQty": 20897,
+    "pctDlyQtToTradedQty": 33.35,
+    "symbol": "FORCEMOT"
   }
 ]
