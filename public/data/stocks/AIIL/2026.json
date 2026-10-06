@@ -2990,5 +2990,21 @@
     "deliverableQty": 73297,
     "pctDlyQtToTradedQty": 50.07,
     "symbol": "AIIL"
+  },
+  {
+    "date": "06-Oct-2026",
+    "prevClose": 551.6,
+    "open": 548.4,
+    "high": 552.6,
+    "low": 548.2,
+    "lastPrice": 550,
+    "close": 550.15,
+    "avgPrice": 550.14,
+    "volume": 55682,
+    "turnover": 30632905.45,
+    "noOfTrades": 4160,
+    "deliverableQty": 35052,
+    "pctDlyQtToTradedQty": 62.95,
+    "symbol": "AIIL"
   }
 ]
