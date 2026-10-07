@@ -22846,5 +22846,21 @@
     "deliverableQty": 615641,
     "pctDlyQtToTradedQty": 46.41,
     "symbol": "CUB"
+  },
+  {
+    "date": "07-Oct-2026",
+    "prevClose": 223.75,
+    "open": 224,
+    "high": 226.3,
+    "low": 219.37,
+    "lastPrice": 222.61,
+    "close": 222.12,
+    "avgPrice": 223.12,
+    "volume": 2247151,
+    "turnover": 501381169.37,
+    "noOfTrades": 48575,
+    "deliverableQty": 1050140,
+    "pctDlyQtToTradedQty": 46.73,
+    "symbol": "CUB"
   }
 ]
