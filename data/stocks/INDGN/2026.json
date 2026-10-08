@@ -3022,5 +3022,21 @@
     "deliverableQty": 225893,
     "pctDlyQtToTradedQty": 53.17,
     "symbol": "INDGN"
+  },
+  {
+    "date": "08-Oct-2026",
+    "prevClose": 607.1,
+    "open": 607.1,
+    "high": 609.85,
+    "low": 580,
+    "lastPrice": 585.75,
+    "close": 586.15,
+    "avgPrice": 593.42,
+    "volume": 303851,
+    "turnover": 180312324.3,
+    "noOfTrades": 19698,
+    "deliverableQty": 159963,
+    "pctDlyQtToTradedQty": 52.65,
+    "symbol": "INDGN"
   }
 ]

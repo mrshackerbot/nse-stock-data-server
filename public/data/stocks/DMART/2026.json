@@ -3022,5 +3022,21 @@
     "deliverableQty": 182829,
     "pctDlyQtToTradedQty": 44.93,
     "symbol": "DMART"
+  },
+  {
+    "date": "08-Oct-2026",
+    "prevClose": 3636,
+    "open": 3635.2,
+    "high": 3638,
+    "low": 3560.1,
+    "lastPrice": 3585,
+    "close": 3585,
+    "avgPrice": 3591.33,
+    "volume": 365999,
+    "turnover": 1314421546.6,
+    "noOfTrades": 23383,
+    "deliverableQty": 206466,
+    "pctDlyQtToTradedQty": 56.41,
+    "symbol": "DMART"
   }
 ]
